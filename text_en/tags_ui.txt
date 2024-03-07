@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Adjust the options for what loot should be shown. Toggling Show/Hide Items can be used to hide all drops during a busy encounter and then display them again once finished.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.9{^n}for Grim Dawn: v1.2.0.4{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Adjust the options for what loot should be shown. Toggling Show/Hide Items can be used to hide all drops during a busy encounter and then display them again once finished.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.1.0 (Playtest){^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 ﻿#General=
 
 tagGameDifficultySetting01=Normal Difficulty

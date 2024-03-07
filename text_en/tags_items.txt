@@ -2423,6 +2423,10 @@ tagConsumableBlueprintA19Desc="A secret medicinal technique of the Rovers."
 tagConsumableBlueprintA20=Recipe: Royal Jelly Ointment
 tagConsumableBlueprintA20Desc="A secret medicinal technique of the Rovers."
 
+tagConsumableCategoryElixirDesc=^oYou can only benefit from one Elixir at a time.
+tagConsumableCategoryOilDesc=^oYou can only benefit from one Oil at a time.
+tagConsumableCategoryTinctureDesc=^oTinctures have shared cooldowns.
+
 tagConsumable_RoyalJellyBalm=Royal Jelly Balm
 tagConsumable_RoyalJellyBalmDesc="A soothing concoction made from concentrated Royal Jelly."
 tagConsumableA01=Flamedrinker Ointment
