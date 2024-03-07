@@ -1,0 +1,1934 @@
+
+#Weapons
+
+
+tagGDX1WeaponSwordB101=[ms]{^L}коготь вендиго
+tagGDX1WeaponSwordB101Desc="От когтя разит разложением"
+tagGDX1WeaponSwordB102=[ms]{^L}зуб вендиго
+tagGDX1WeaponSwordB102Desc="Коготь роняет грязные капли"
+
+tagGDX1WeaponSwordC101=[ms]{^B}очищенный клинок Элголота
+tagGDX1WeaponSwordC101_Desc="Однажды запятнанный порочащим касанием хтонийцев, этот клинок был очищен люминари до прежней славы"
+tagGDX1WeaponSwordC104=[fs]{^B}гордость легионера
+
+tagGDX1WeaponSwordD101=[fs]{^I}кромка смерти
+tagGDX1WeaponSwordD102=[fs]{^I}измена Пагара
+tagGDX1WeaponSwordD102_Desc="Никогда измена не была столь тяжела, как в тот день, когда инквизитор Пагар был уличён в союзе с силами пустоты прямо в альма-матер люминари"
+tagGDX1WeaponSwordD105=[ns]{^I}страдание
+tagGDX1WeaponSwordD106=[ns]{^I}полыхающее сердце
+tagGDX1WeaponSwordD106_Desc="Литера Д выгравирована кровью на рукояти"
+tagGDX1WeaponSwordD107=[ms](S) {^I}слайсер Белготиана
+
+tagGDX1WeaponSwordF101=[ms]{^B}мальмутский резец
+tagGDX1WeaponSwordF102=[ms]{^B}мальмутский клинок
+tagGDX1WeaponSwordF103=[ms]{^B}челюсть Вендиго
+tagGDX1WeaponSwordF104=[ms]{^I}искупитель Мальмута
+
+
+tagGDX1WeaponBluntB101=[ns]{^L}сердце Барголла
+tagGDX1WeaponBluntB101Desc="От каменного сердца Барголла исходит смертельный холод"
+tagGDX1WeaponBluntB102=[ns]{^L}ядро Барголла
+tagGDX1WeaponBluntB102Desc="Когда-то живое, ядро Барголла алкает жизненной сущности, дабы вновь переродить его"
+
+tagGDX1WeaponBluntC101=[ms]{^B}трупобой
+
+tagGDX1WeaponBluntD101=[ns]{^I}вдохновение Малакора
+tagGDX1WeaponBluntD101_Desc="Мистик Малакор, ближайший союзник люминари, выковал это оружие в стихийном пламени для борьбы с существами Жути их же методами"
+tagGDX1WeaponBluntD103=[ms]{^I}крушитель Амарасты
+tagGDX1WeaponBluntD104=[ms]{^I}пробойник
+tagGDX1WeaponBluntD105=[ms](S) {^I}пробойник каменного стража
+
+tagGDX1WeaponBluntF101=[ms]{^B}мальмутский клевец
+tagGDX1WeaponBluntF102=[fs]{^B}мальмутская булава
+tagGDX1WeaponBluntF103=[fs]{^B}булава Вендиго
+tagGDX1WeaponBluntF104=[ms]{^I}вой Вендиго
+
+tagGDX1WeaponAxeB101=[ms]{^L}хтонийский резец
+tagGDX1WeaponAxeB102=[ms]{^L}хтонийский осквернитель
+tagGDX1WeaponAxeB103=[ms]{^Y}кровопускающий колун
+
+tagGDX1WeaponAxeC101=[ms]{^B}свежеватель Хальвора
+
+tagGDX1WeaponAxeD101=[ms]{^I}укус Опустошителя
+tagGDX1WeaponAxeD101_Desc="Вырезан из когтя предыдущего воплощения великого Опустошителя"
+tagGDX1WeaponAxeD103=[ms]{^I}коготь ночи
+tagGDX1WeaponAxeD104=[fs]{^I}грань рассудка
+tagGDX1WeaponAxeD104_Desc="Доподлинно неизвестно, кого сводит с ума это оружие, жертву или владельца"
+tagGDX1WeaponAxeD105=[ms](S) {^I}обезглавливатель Корбы
+tagGDX1WeaponAxeD106=[fs](S) {^I}ярость Корбы
+
+tagGDX1WeaponAxeF101=[ms]{^B}колун ковена
+tagGDX1WeaponAxeF102=[ms]{^B}топор ковена
+tagGDX1WeaponAxeF103=[ms]{^B}колун вендиго
+tagGDX1WeaponAxeF104=[fs]{^I}ведьмина луна
+
+
+tagGDX1WeaponGun1hB101=[ms]{^L}угденский пугач
+tagGDX1WeaponGun1hB101Desc="Исполнен духа вендиго"
+tagGDX1WeaponGun1hB102=[ms]{^L}угденский ядомёт
+tagGDX1WeaponGun1hB102Desc="Каждая пуля покрыта уникальной смесью, приготовленной из яда различных тварей Угденской топи"
+tagGDX1WeaponGun1hB103=[fs]{^Y}штормовая волна
+
+tagWeaponGun1hC013B=[ms]{^B}посредник
+tagGDX1WeaponGun1hC101=[ms]{^B}раскольник
+tagGDX1WeaponGun1hC101B=[ms]{^B}раскольник
+tagGDX1WeaponGun1hC102=[ns]{^B}расследование Альдура
+tagGDX1WeaponGun1hC102_Desc="Личное оружие инквизитора Альдура, прославленного охотника на еретиков и убийцы Галбар'Туула"
+tagGDX1WeaponGun1hC103=[ns]{^Z}ядро Гаргабола
+tagGDX1WeaponGun1hC103_Desc="Мерцание пламени некогда могучего стража по-прежнему светится в его сердце"
+tagGDX1WeaponGun1hC108=[ms]{^B}громовержец Ультоса
+tagGDX1WeaponGun1hC110=[ms](S) {^B}револьвер Люминари
+
+tagGDX1WeaponGun1hD101=[fs]{^I}бренность Моргуула
+tagGDX1WeaponGun1hD101_Desc="Магистр Моргуул усовершенствовал патроны этого пистолета, соединив некротические силы и смертельно ядовитые токсины, и получил вещество, значительно ускоряющее процессы гниения и разложения"
+tagGDX1WeaponGun1hD102=[ms]{^I}усилитель Андероса
+tagGDX1WeaponGun1hD102_Desc="Личное оружие, самолично спроектированное инквизитором Андеросом, обладающее способностью усиливать могущество и без того грозных тайных рун"
+tagGDX1WeaponGun1hD103=[ms]{^I}Арканум Электроллис
+tagGDX1WeaponGun1hD103_Desc="Изготовлено в точном соответствии с инструкцией магистра Агривикса, верховного мистика Серебряной Башни"
+tagGDX1WeaponGun1hD107=[ms]{^I}выжигатель
+tagGDX1WeaponGun1hD108=[ms](S) {^I}револьвер твердыни
+tagGDX1WeaponGun1hD109=[ms](S) {^I}сжигатель тёмного зарева
+tagGDX1WeaponGun1hD110=[ms](S) {^I}разрушитель Дагаллона
+tagGDX1WeaponGun1hD110_Desc="Стволы покрыты рунами изнутри, чтобы выталкивать пули со сверхъестественной силой"
+tagGDX1WeaponGun1hD111=[ms](S) {^I}уничтожитель Дагаллона
+tagGDX1WeaponGun1hD112=[ms]{^I}принудитель Хагаррада
+tagGDX1WeaponGun1hD112_Desc="Барабан заряжен фрагментами оригинальной руны Хагаррада, наполняющей каждый выстрел пробирающим до костей холодом"
+tagGDX1WeaponGun1hD114=[ms]{^F}осквернитель Гаргабола
+tagGDX1WeaponGun1hD114_Desc="В прошлом гордый хранитель природы, навек омрачён развращающим касанием пустоты"
+
+tagGDX1WeaponGun1hF101=[fs]{^B}бомбарда ковена
+tagGDX1WeaponGun1hF101_Desc="Оружие сделано коряво, но усилено тайной магией ковена"
+tagGDX1WeaponGun1hF102=[ms]{^B}ядомёт ковена
+tagGDX1WeaponGun1hF102_Desc="Несмотря на невзрачный внешний вид, это оружие наполнено секретами ковена"
+tagGDX1WeaponGun1hF103=[ms]{^B}пистоль вендиго
+tagGDX1WeaponGun1hF104=[ms]{^I}чаровержец
+
+
+tagGDX1WeaponGun2hB101=[ms]{^L}угденский искромёт
+tagGDX1WeaponGun2hB101Desc="Каменные сердца болотных големов после обработки мистической энергией оказываются на удивление ковкими, так что из них можно делать инструменты, доспехи и даже оружие"
+tagGDX1WeaponGun2hB102=[ms]{^L}угденский желчемёт
+tagGDX1WeaponGun2hB103=[ms]{^L}угденский болтер
+tagGDX1WeaponGun2hB104=[ms]{^L}угденский чароплёт
+tagGDX1WeaponGun2hB105=[fs]{^Y}винтовка пламенного стража
+
+tagGDX1WeaponGun2hC101=[ms]{^B}дознаватель
+tagGDX1WeaponGun2hC101B=[ms]{^B}дознаватель
+tagGDX1WeaponGun2hC102=[fs]{^B}пушка духов
+tagGDX1WeaponGun2hC102_Desc="Изготовлена из сущностей замученных душ"
+tagGDX1WeaponGun2hC103=[ms]{^B}пылающий искоренитель
+tagGDX1WeaponGun2hC106=[ms]{^B}клинкомёт Амарасты
+tagGDX1WeaponGun2hC106_Desc="Устройство с необычным дизайном, созданное мастером ночных клинков Амарастой"
+tagGDX1WeaponGun2hC110=[ms]{^B}космический поток
+
+tagWeaponGun2hD001B=[ms]{^I}супостат
+tagWeaponCrossbow2hD003B=[ms]{^I}северный змей
+tagGDX1WeaponGun2hD101=[ms]{^I}призыватель Элголота
+tagGDX1WeaponGun2hD102=[ms]{^I}ужасный испепелитель
+tagGDX1WeaponGun2hD102_Desc="Интенсивное пламя этого оружия почти так же опасно для стрелка, как и для его цели"
+tagGDX1WeaponGun2hD104=[ms]{^I}распылитель Гильдора
+tagGDX1WeaponGun2hD104_Desc="Насыщенное секретами люминари, это оружие при каждом выстреле высвобождает невообразимое количество энергии"
+tagGDX1WeaponGun2hD106=[ns]{^I}ядовитое копьё
+tagGDX1WeaponGun2hD107=[ms](S) {^I}чаромёт начертателя рун
+
+tagGDX1WeaponGun2hF101=[ms]{^B}мальмутский карабин
+tagGDX1WeaponGun2hF102=[fs]{^B}мальмутская винтовка
+tagGDX1WeaponGun2hF103=[ms]{^B}коломёт вендиго
+tagGDX1WeaponGun2hF104=[ms]{^I}разоритель
+tagGDX1WeaponGun2hF104_Desc="Каждый последующий враг лишь отсрочит предстоящее разорение"
+
+
+tagGDX1WeaponMelee2hB101=[ns]{^L}деформированное ядро
+tagGDX1WeaponMelee2hB102=[ms]{^L}деформированный осколок
+tagGDX1WeaponMelee2hB103=[ms]{^Y}боевой кишкомол
+
+tagGDX1WeaponMelee2hC101=[ms]{^B}рассекатель душ
+tagGDX1WeaponMelee2hC101_Desc="По слухам, лезвие этой косы рассекает не только плоть"
+tagGDX1WeaponMelee2hC102=[ns]{^B}убеждение Цезарина
+tagGDX1WeaponMelee2hC107=[ms]{^B}кулак Ультоса
+
+tagWeaponMelee2hD002B=[fs]{^I}гильотина
+tagGDX1WeaponMelee2hD101=[ms]{^I}смертельный охват
+tagGDX1WeaponMelee2hD102=[ms]{^I}привратник смерти
+tagGDX1WeaponMelee2hD102_Desc="Легенды гласят, что лезвие этого оружия, когда-то принадлежавшего самому Уроборууку, пленяет души при малейшем касании"
+tagGDX1WeaponMelee2hD103=[ms]{^I}Арканор, Клинок люминари
+tagGDX1WeaponMelee2hD103_Desc="Церемониальный меч ордена люминари, передающийся из поколения в поколение новому главе ордена в течение многих столетий"
+tagGDX1WeaponMelee2hD107=[ms]{^I}кишкодав
+tagGDX1WeaponMelee2hD107_Desc="Этот молот от головки до рукояти измазан потрохами предыдущих жертв"
+tagGDX1WeaponMelee2hD108=[ms](S) {^I}крушитель мстителя
+
+tagGDX1WeaponMelee2hF101=[ms]{^B}размозжитель голов ковена
+tagGDX1WeaponMelee2hF102=[ms]{^B}мальмутский эспадон
+tagGDX1WeaponMelee2hF103=[ms]{^B}обезглавливатель вендиго
+tagGDX1WeaponMelee2hF104=[ms]{^I}стремительный порыв
+
+
+tagGDX1WeaponCaster1hA101=[ms]{^W}старинный скипетр
+tagGDX1WeaponCaster1hA102=[ms]{^W}карательный скипетр
+tagGDX1WeaponCaster1hA103=[ms]{^W}старинный кинжал
+tagGDX1WeaponCaster1hA104=[ms]{^W}карательный кинжал
+
+tagGDX1WeaponCaster1hB101=[ms]{^L}угденский огнеборец
+tagGDX1WeaponCaster1hB102=[ms]{^L}угденский хладоборец
+tagGDX1WeaponCaster1hB103=[ms]{^L}угденский грозоборец
+tagGDX1WeaponCaster1hB104=[ms]{^L}проводник обращённого
+tagGDX1WeaponCaster1hB105=[ms]{^L}источник обращённого
+tagGDX1WeaponCaster1hB106=[ms]{^Y}жезл гнилоинея
+tagGDX1WeaponCaster1hB107=[ms]{^Y}смертоносный скипетр
+tagGDX1WeaponCaster1hB108=[ns]{^L}сердце Теодина Марцелла
+tagGDX1WeaponCaster1hB108_Desc="Часть мощи Повелителя по-прежнему бьётся внутри"
+
+tagGDX1WeaponCaster1hC101=[ms]{^B}зуб Опустошителя
+tagGDX1WeaponCaster1hC102=[ms]{^B}укус Яравуука
+tagGDX1WeaponCaster1hC102_Desc="По слухам, ритуальный клинок магистра Яравуука способен прорвать завесу между мирами"
+tagGDX1WeaponCaster1hC103=[ms]{^B}проводник Ульзаада
+tagGDX1WeaponCaster1hC103_Desc="Небесное дыхание, навечно заключено внутри  скипетра"
+tagGDX1WeaponCaster1hC104=[ms]{^B}пробудитель тайной бури
+tagGDX1WeaponCaster1hC105=[ms]{^B}палец Гар'Дальвура
+tagGDX1WeaponCaster1hC105_Desc="Это всё, что хотел сказать падший Гар'Дальвур своим палачам"
+tagGDX1WeaponCaster1hC113=[ms]{^B}колдовской клинок яростного пламени
+tagGDX1WeaponCaster1hC114=[ms]{^B}циклонный покоритель
+tagGDX1WeaponCaster1hC115=[ms](S) {^B}резец воплощённого ужаса
+tagGDX1WeaponCaster1hC116=[ms]{^Z}скипетр Мальмута
+tagGDX1WeaponCaster1hC116_Desc="Видения падшего города Мальмута наводняют ваш разум"
+
+tagGDX1WeaponCaster1hD101=[ns]{^I}пламя ужаса
+tagGDX1WeaponCaster1hD102=[ms]{^I}протыкатель завесы
+tagGDX1WeaponCaster1hD102_Desc="Клинок со странной лёгкостью проскальзывает между реальностями, словно ключ вставляется в замок"
+tagGDX1WeaponCaster1hD103=[ms]{^I}ткач ужаса
+tagGDX1WeaponCaster1hD104=[ms]{^I}пробудитель морозного пламени
+tagGDX1WeaponCaster1hD105=[fs]{^I}руна Элголота
+tagGDX1WeaponCaster1hD105_Desc="Оружие, сделанное по подобию шкатулки бури Элголота, руны с которой украшают этот скипетр"
+tagGDX1WeaponCaster1hD106=[ms]{^I}пожиратель заклятий
+tagGDX1WeaponCaster1hD106_Desc="Он жаждет наполниться заклинаниями, но точно так же может насытиться своим владельцем"
+tagGDX1WeaponCaster1hD113=[fs]{^I}пандемия
+tagGDX1WeaponCaster1hD114=[fs]{^I}искра реальности
+tagGDX1WeaponCaster1hD114_Desc="Взгляд на это оружие подобен взгляду на безбрежную пустоту за пределами реальностей, невероятную и подавляющую"
+tagGDX1WeaponCaster1hD115=[ms](S) {^I}светоч потерянных душ
+tagGDX1WeaponCaster1hD116=[ms](S) {^I}укротитель бурь Аллагаста
+tagGDX1WeaponCaster1hD117=[ms](S) {^I}клинок попечителя смерти
+tagGDX1WeaponCaster1hD118=[ms]{^F}декрет Мальмута
+tagGDX1WeaponCaster1hD118Desc="Видения падшего города Мальмута наводняют ваш разум"
+
+tagGDX1WeaponCaster1hF101=[fs]{^B}эфирная искра ковена
+tagGDX1WeaponCaster1hF102=[ns]{^B}жёлчное касание ковена
+tagGDX1WeaponCaster1hF103=[ms]{^B}чароплёт ковена
+tagGDX1WeaponCaster1hF104=[ms]{^B}огнемаг Мальмута
+tagGDX1WeaponCaster1hF105=[ms]{^B}штормомаг Мальмута
+tagGDX1WeaponCaster1hF106=[ms]{^B}хладонос Мальмута
+tagGDX1WeaponCaster1hF107=[ms]{^B}кровопийца Вендиго
+tagGDX1WeaponCaster1hF108=[ms]{^B}хаосоплёт Вендиго
+tagGDX1WeaponCaster1hF109=[ms]{^B}эфироплёт Вендиго
+tagGDX1WeaponCaster1hF110=[ns]{^I}проклятое пламя
+tagGDX1WeaponCaster1hF111=[ms]{^I}коготь Хагараза
+
+
+#Shields
+tagGDX1ShieldB101=[fs]{^L}колоссальная крепость
+tagGDX1ShieldB101Desc="Размер щита требует соответствующей силы"
+tagGDX1ShieldB102=[ms]{^L}колоссальный оплот
+tagGDX1ShieldB103=[ms]{^Y}каменный защитник
+
+tagGDX1ShieldC101=[ms]{^B}страж ужаса
+tagGDX1ShieldC102=[ms]{^B}упрёк легионера
+tagGDX1ShieldC102_Desc="История этого щита почти такая же, как и у Чёрного легиона"
+tagGDX1ShieldC107=[ms]{^B}оплот пастыря бурь
+
+tagShieldD002B=[ms]{^I}последний рубеж
+tagShieldD003B=[ms]{^I}неприкасаемый
+tagGDX1ShieldD101=[fs]{^I}пасть проклятых
+tagGDX1ShieldD101_Desc="Навеки прокляты вкусившие дар Вендиго"
+tagGDX1ShieldD102=[ms]{^I}смотритель Эрулана
+tagGDX1ShieldD102_Desc="По слухам, этот каменный лик открывает глаза лишь тогда, когда империя действительно в нём нуждается"
+tagGDX1ShieldD103=[fs]{^I}расправа Турриона
+tagGDX1ShieldD107=[ms]{^I}серый рыцарь
+tagGDX1ShieldD107_Desc="Оплот неизвестного защитника Менгира, выстоявшего в одиночку против сборища еретиков и победившего их"
+tagGDX1ShieldD108=[ms](S) {^I}оплот Октавиуса
+tagGDX1ShieldD109=[ms](S) {^I}защитник твердыни
+tagGDX1ShieldD110=[ms](S) {^I}оплот бича магии
+tagGDX1ShieldD110_Desc="Щит концентрирует разрушительную силу"
+
+tagGDX1ShieldF101=[ms]{^B}покровитель ковена
+tagGDX1ShieldF102=[ms]{^B}защитник Мальмута
+tagGDX1ShieldF103=[ms]{^B}духовный страж вендиго
+tagGDX1ShieldF104=[ms]{^I}гневный страж
+
+
+#Focus
+tagGDX1FocusA101=[ms]{^W}расписной фолиант
+tagGDX1FocusA102=[ms]{^W}расписной жезл
+tagGDX1FocusA103=[fs]{^W}старинная книга
+tagGDX1FocusA104=[fs]{^W}старинная сфера
+
+tagGDX1FocusB101=[ms]{^L}эфирный том Террнокса
+tagGDX1FocusB101Desc="Полон знаний об эфире, большинство из которых недоступны для понимания"
+tagGDX1FocusB102=[ms]{^L}тайный том Террнокса
+tagGDX1FocusB102Desc="Полон знаний понятных лишь Террноксу"
+tagGDX1FocusB103=[ms]{^L}укрощённый дух
+tagGDX1FocusB104=[ms]{^L}порабощённый дух
+tagGDX1FocusB105=[ms]{^L}том деформаций
+tagGDX1FocusB105Desc="Книга словно извивается в ваших руках"
+tagGDX1FocusB106=[ms]{^L}кодекс деформаций
+tagGDX1FocusB107=[ms]{^L}архив деформаций
+tagGDX1FocusB108=[ms]{^Y}том шоковой магии
+tagGDX1FocusB109=[ms]{^Y}тлеющий фолиант
+tagGDX1FocusB110=[ms]{^L}рог листогрива
+tagGDX1FocusB111=[ms]{^L}трофей листогрива
+
+tagGDX1FocusC101=[fs]{^B}воля Падалы
+tagGDX1FocusC102=[fs]{^B}заразная пасть
+tagGDX1FocusC102_Desc="Гниющая голова источает омерзительное зловоние, но яд, который она источает, ещё более гнусный"
+tagGDX1FocusC103=[ms]{^B}кодекс Маллигосты
+tagGDX1FocusC103_Desc="Маллигоста была мастером преобразования духовной энергии в разрушительные заклинания. Она была наполовину некромантом, наполовину мистиком"
+tagGDX1FocusC104=[ns]{^B}слово инквизитора Абалона
+tagGDX1FocusC104_Desc="Инквизитор Абалон был одним из самых смелых инквизиторов своего времени, он использовал любые реликвии во благо безопасности империи. Много лет спустя некоторые инквизиторы сочли его методы ересью"
+tagGDX1FocusC105=[ms]{^B}том холодных ветров
+tagGDX1FocusC113=[ms]{^B}адский том
+tagGDX1FocusC114=[fs]{^B}сфера множества лезвий
+tagGDX1FocusC114_Desc="Удержать эту сферу без ущерба для себя - настоящий трюк"
+tagGDX1FocusC115=[ms](S) {^B}фолиант воплощённого ужаса
+
+tagGDX1FocusD101=[ms]{^I}жнец проклятых
+tagGDX1FocusD101_Desc="При приближении томящихся духов коса тонко вибрирует"
+tagGDX1FocusD102=[fs]{^I}зараза
+tagGDX1FocusD103=[ms]{^I}том демонического взора
+tagGDX1FocusD104=[ms]{^I}кодекс истин
+tagGDX1FocusD104_Desc="Священные откровения Эмпириона, собранные воедино Агафией Хаггар, первым Архонтом"
+tagGDX1FocusD105=[ns]{^I}яростное пламя Иксиллора
+tagGDX1FocusD105_Desc="Мистический огонь изменчив и трудно контролируем. Достаточно одной ошибки в концентрации, и можно смело искать нового хозяина"
+tagGDX1FocusD111=[ms]{^I}куб Фарата
+tagGDX1FocusD111_Desc="По слухам, загадка куба Фарата была решена только один раз, и то разгадавший ослеп, узрев великолепие находящееся внутри"
+tagGDX1FocusD112=[ms]{^I}бич преисподней
+tagGDX1FocusD113=[ms](S) {^I}око катаклизма
+tagGDX1FocusD114=[ms](S) {^I}фокус Вальгуура
+tagGDX1FocusD115=[ms](S) {^I}жезл Уроборуука
+tagGDX1FocusD116=[ms](S) {^I}кодекс прорицателя
+
+tagGDX1FocusF101=[fs]{^B}желчная метёлка ковена
+tagGDX1FocusF102=[fs]{^B}стихийная метёлка ковена
+tagGDX1FocusF103=[fs]{^B}ядовитая метёлка ковена
+tagGDX1FocusF104=[ms]{^B}том мальмутской пустоты
+tagGDX1FocusF105=[ms]{^B}мальмутский порченый том
+tagGDX1FocusF106=[ms]{^B}мальмутский инфернальный том
+tagGDX1FocusF107=[ms]{^B}омертвляющий жезл вендиго
+tagGDX1FocusF108=[ms]{^B}морозящий жезл вендиго
+tagGDX1FocusF109=[ms]{^B}едкий жезл вендиго
+tagGDX1FocusF110=[ms]{^I}мальмутский буревестник
+
+
+#ItemStyles
+tagGDX1ArmorStyle001=[ms]{^S}старинный[fs]{^S}старинная[ns]{^S}старинное[np]{^S}старинные
+tagGDX1ArmorStyle002=[ms]{^S}бронированный[fs]{^S}бронированная[ns]{^S}бронированное[np]{^S}бронированные
+tagGDX1WeaponQuality001=[ms]{^S}изысканный[fs]{^S}изысканная[ns]{^S}изысканное[np]{^S}изысканные
+tagGDX1WeaponQuality002=[ms]{^S}старинный[fs]{^S}старинная[ns]{^S}старинное[np]{^S}старинные
+
+#ArmorHead
+tagGDX1HeadB101=[ms]{^L}капюшон обращённого
+tagGDX1HeadB102=[ms]{^L}клобук обращённого
+tagGDX1HeadB103=[fs]{^L}кожа Паклы
+tagGDX1HeadB103_Desc="Вы вряд ли сможете представить, из скольких жертв состоит эта маска"
+tagGDX1HeadB104=[fs]{^L}рожа Паклы
+tagGDX1HeadB104_Desc="Отвращение от этой маски невыносимо"
+tagGDX1HeadB105=[ms]{^L}капюшон шёпота смерти
+tagGDX1HeadB106=[fs]{^L}небокольная диадема
+tagGDX1HeadB107=[np]{^L}рога Намадеи
+tagGDX1HeadB107_Desc="Этот капюшон пропитался холодом самой смерти"
+
+tagGDX1HeadC101=[ms]{^B}венок душ
+tagGDX1HeadC101_Desc="Духи, запертые в этом венке, иногда раскрывают владельцу ту или иную тайну, но не всегда ради его блага"
+tagGDX1HeadC102=[ms]{^B}цилиндр собирателя останков
+tagGDX1HeadC103=[ms]{^B}искореняющий взор
+tagGDX1HeadC103_Desc="Мир кишит язычниками и еретиками. Итак, по милости Люминари, искореним это проклятие!"
+tagGDX1HeadC104=[fs]{^B}шляпа охотника за головами
+tagGDX1HeadC105=[np]{^Z}рога Эккет'Зула
+tagGDX1HeadC105_Desc="Рога до сих пор изобилуют осязаемой тьмой"
+tagGDX1HeadC106=[ms]{^Z}бездушный взор
+tagGDX1HeadC107=[ms]{^Z}порочный взгляд
+tagGDX1HeadC108=[ms]{^Z}взгляд Опустошителя
+tagGDX1HeadC108_Desc="Несмотря на то, что он был побеждён и выброшен из физической реальности, какая-то часть духа Опустошителя осталась в этой искорёженной маске"
+tagGDX1HeadC109=[fs](S) {^B}маска развратителя
+tagGDX1HeadC110=[fs](S) {^B}маска серебряного часового
+tagGDX1HeadC115=[fs]{^B}личина штормового глашатая
+tagGDX1HeadC122=[ms](S) {^B}клобук воплощённого ужаса
+tagGDX1HeadC123=[fs](S) {^B}шляпа люминари
+tagGDX1HeadC124=[ms]{^B}котелок азарта
+tagGDX1HeadC124_Desc="Как говорится, слишком много азарта"
+
+tagGDX1HeadD101=[ms]{^I}взор владыки мёртвых
+tagGDX1HeadD102=[fs]{^I}хитрость ядоманта
+tagGDX1HeadD103=[ms]{^I}колдовской взор
+tagGDX1HeadD104=[fs]{^I}маска драконьей кости
+tagGDX1HeadD109=[ms]{^I}голос Дрига
+tagGDX1HeadD109_Desc="Сё глас, благословение и проклятие, даруемый носителю слова Дрига, устами которого колдовской бог изрекает миру свои загадочные послания"
+tagGDX1HeadD110=[ms]{^I}взор Эмпириона
+tagGDX1HeadD110_Desc="Священный свет Эмпириона озаряет владельца этой короны"
+tagGDX1HeadD111=[ms]{^F}ужасающий взор Опустошителя
+tagGDX1HeadD111_Desc="Несмотря на то, что он был побеждён и выброшен из физической реальности, какая-то часть духа Опустошителя осталась в этой искорёженной маске"
+tagGDX1HeadD112=[fs](S) {^F}фуражка Крига
+tagGDX1HeadD113=[fs](S) {^I}маска потерянных душ
+tagGDX1HeadD114=[ms](S) {^I}бургиньот Октавиуса
+tagGDX1HeadD115=[fs](S) {^I}морда Корбы
+tagGDX1HeadD116=[ms](S) {^I}шлем тёмного зарева
+tagGDX1HeadD117=[ms](S) {^I}забрало бича магии
+tagGDX1HeadD118=[ms](S) {^I}капюшон убийцы магов
+tagGDX1HeadD119=[np](S) {^I}самоцветы Вальгуура
+tagGDX1HeadD120=[fs](S) {^I}треуголка начертателя рун
+tagGDX1HeadD121=[ms](S) {^I}клобук Уроборуука
+tagGDX1HeadD122=[ms](S) {^I}забрало Дагаллона
+tagGDX1HeadD123=[ms](S) {^I}клобук попечителя смерти
+tagGDX1HeadD124=[fs](S) {^I}маска прорицателя
+tagGDX1HeadD125=[ms](S) {^F}клобук Тёмного
+tagGDX1HeadD126=[fs](S) {^I}маска Белготиана
+tagGDX1HeadD127=[ms](S) {^I}клобук Радаггана
+tagGDX1HeadD128=[fs](S) {^I}маска Морозного языка
+tagGDX1HeadD129=[fs](S) {^I}личина кровавого рыцаря
+
+tagGDX1HeadF101=[fs]{^G}корона мозгодёра ковена
+tagGDX1HeadF102=[fs]{^G}корона укротителя ковена
+tagGDX1HeadF103=[fs]{^G}мистическая корона ковена
+tagGDX1HeadF104=[fs]{^G}боевая каска ковена
+tagGDX1HeadF105=[fs]{^G}огненная каска ковена
+tagGDX1HeadF106=[fs]{^G}защитная каска ковена
+tagGDX1HeadF107=[ms]{^G}мальмутский шлем боевика
+tagGDX1HeadF108=[ms]{^G}мальмутский шлем разрушителя
+tagGDX1HeadF109=[ms]{^G}мальмутский шлем мороза
+tagGDX1HeadF110=[fs]{^G}мальмутская каска пожарного
+tagGDX1HeadF111=[fs]{^G}мальмутская каска ужаса
+tagGDX1HeadF112=[fs]{^G}мальмутская каска защитника
+tagGDX1HeadF113=[fs]{^G}маска ужаса вендиго
+tagGDX1HeadF114=[fs]{^G}мерзкая маска вендиго
+tagGDX1HeadF115=[fs]{^G}маска чароплёта вендиго
+tagGDX1HeadF116=[ms]{^G}шипастый шлем вендиго
+tagGDX1HeadF117=[ms]{^G}мерзкий шлем вендиго
+tagGDX1HeadF118=[ms]{^G}закалённый шлем вендиго
+
+
+#ArmorShoulders
+tagGDX1ShoulderB101=[np]{^L}эспалеры обращённого
+tagGDX1ShoulderB102=[np]{^L}наплечники обращённого
+tagGDX1ShoulderB103=[np]{^L}наплечники Кра'валла
+tagGDX1ShoulderB103_Desc="Толстая шкура угденского кракена тяжела в обработке, но она неспроста ценится среди ремесленников"
+tagGDX1ShoulderB104=[np]{^L}бармы Кра'валла
+
+tagGDX1ShoulderC101=[np]{^B}эспалеры призывателя духов
+tagGDX1ShoulderC102=[np]{^B}эспалеры рыцаря-призрака
+tagGDX1ShoulderC103=[ms]{^B}наплечник выжигающего шторма
+tagGDX1ShoulderC103_Desc="Даже ярость сотни штормов не смогла разрушить эту броню"
+tagGDX1ShoulderC104=[ms]{^B}наплеч охотника за головами
+tagGDX1ShoulderC105=[np](S) {^B}эспалеры развратителя
+tagGDX1ShoulderC106=[np](S) {^B}наплечники серебряного часового
+tagGDX1ShoulderC111=[np]{^B}эспалеры ловца магов
+
+tagGDX1ShoulderD101=[ns]{^I}пламя жизни
+tagGDX1ShoulderD102=[fs]{^I}защита рыцаря ужаса
+tagGDX1ShoulderD103=[np]{^I}кортозианские свитки
+tagGDX1ShoulderD103B=[np]{^I}кортозианские свитки
+tagGDX1ShoulderD103_Desc="Свитки содержат заклинания и ритуалы, собранные поколениями кортозианских мистиков"
+tagGDX1ShoulderD104=[np]{^I}эспалеры пламерождённого
+tagGDX1ShoulderD109=[np]{^I}эспалеры злых языков
+tagGDX1ShoulderD110=[np]{^I}магматические наплечники
+tagGDX1ShoulderD110_Desc="Наполняют владельца неутихающей жгучей яростью"
+tagGDX1ShoulderD111=[np](S) {^F}наплечники Крига
+tagGDX1ShoulderD112=[np](S) {^I}эспалеры мстителя
+tagGDX1ShoulderD113=[np](S) {^I}эспалеры потерянных душ
+tagGDX1ShoulderD114=[np](S) {^I}эспалеры Октавиуса
+tagGDX1ShoulderD115=[ms](S) {^I}авангард бича магии
+tagGDX1ShoulderD116=[np](S) {^I}наплечники убийцы магов
+tagGDX1ShoulderD117=[np](S) {^I}наплечники начертателя рун
+tagGDX1ShoulderD118=[np](S) {^I}эспалеры Уроборуука
+tagGDX1ShoulderD119=[np](S) {^I}эспалеры Аллагаста
+tagGDX1ShoulderD120=[np](S) {^I}наплечники прорицателя
+tagGDX1ShoulderD121=[np](S) {^F}эспалеры Тёмного
+tagGDX1ShoulderD122=[np](S) {^I}сполдеры Белготиана
+tagGDX1ShoulderD123=[np](S) {^I}наплечники попечителя смерти
+tagGDX1ShoulderD124=[np](S) {^I}наплечники Радаггана
+tagGDX1ShoulderD125=[np](S) {^I}сполдеры Морозного языка
+tagGDX1ShoulderD126=[np](S) {^I}свитки кровавого рыцаря
+
+tagGDX1ShoulderF101=[ms]{^G}гневный горжет ковена
+tagGDX1ShoulderF102=[ms]{^G}истощающий горжет ковена
+tagGDX1ShoulderF103=[ms]{^G}мистический горжет ковена
+tagGDX1ShoulderF104=[np]{^G}боевые эспалеры ковена
+tagGDX1ShoulderF105=[np]{^G}защитные эспалеры ковена
+tagGDX1ShoulderF106=[np]{^G}мифические эспалеры ковена
+tagGDX1ShoulderF107=[ms]{^G}мальмутский наплеч стужи
+tagGDX1ShoulderF108=[ms]{^G}мальмутский наплеч эфирного пламени
+tagGDX1ShoulderF109=[ms]{^G}мальмутский наплеч порчи
+tagGDX1ShoulderF110=[np]{^G}мальмутские сполдеры авангарда
+tagGDX1ShoulderF111=[np]{^G}мальмутские сполдеры пустоты
+tagGDX1ShoulderF112=[np]{^G}мальмутские сполдеры защитника
+tagGDX1ShoulderF113=[ms]{^G}наплеч клинков вендиго
+tagGDX1ShoulderF114=[ms]{^G}наплеч подлости вендиго
+tagGDX1ShoulderF115=[ms]{^G}наплеч чароплёта вендиго
+tagGDX1ShoulderF116=[np]{^G}закалённые наплечники вендиго
+tagGDX1ShoulderF117=[np]{^G}губительные наплечники вендиго
+tagGDX1ShoulderF118=[np]{^G}наплечники опеки вендиго
+
+
+#ArmorTorso
+tagGDX1TorsoB101=[ms]{^L}опалённый оргой Галакроса
+tagGDX1TorsoB102=[ms]{^L}ужасный оргой Галакроса
+tagGDX1TorsoB103=[ms]{^L}мистический наряд Валакстерии
+tagGDX1TorsoB103_Desc="Одеяние мерцает мелкими переплетениями мистических рун"
+tagGDX1TorsoB104=[ms]{^L}небесный наряд Валакстерии
+
+tagGDX1TorsoC101=[ns]{^B}одеяние смертеносца
+tagGDX1TorsoC102=[fs]{^B}кираса тёмного пламени
+tagGDX1TorsoC103=[ms]{^B}астральный саван
+tagGDX1TorsoC103_Desc="Часто используемые проводниками духа, эти саваны были признаком талантливых предсказателей, хотя, с учётом превратностей судьбы, их так же легко принимали за шарлатанов"
+tagGDX1TorsoC104=[ns]{^B}пальто Консиллара
+tagGDX1TorsoC104_Desc="Скорее всего, оно было пошито для эруланского дворянина, на ощупь ткань мягкая, но, тем не менее, довольно прочная"
+tagGDX1TorsoC105=[fs](S) {^B}ряса развратителя
+tagGDX1TorsoC106=[ms](S) {^B}доспех серебряного часового
+tagGDX1TorsoC111=[fs]{^B}тень заразителя
+tagGDX1TorsoC114=[ns](S) {^B}одеяние воплощённого ужаса
+tagGDX1TorsoC115=[ms](S) {^B}китель люминари
+
+tagGDX1TorsoD101=[fs]{^I}хламида ядоманта
+tagGDX1TorsoD102=[ms]{^I}оргой владыки мёртвых
+tagGDX1TorsoD103=[ms]{^I}рунный доспех Игнаффара
+tagGDX1TorsoD103_Desc="Хотя первоначальный владелец этого доспеха погиб в опустошающем пламени, вызванным мистиком-изгоем, сам доспех вышел из этого ада невредимым"
+tagGDX1TorsoD104=[ms]{^I}сплетённый из бурь доспех
+tagGDX1TorsoD109=[ms]{^I}стихарь ткача судеб
+tagGDX1TorsoD109_Desc="Непостоянные и постоянно меняющиеся, нити судеб вплетают наследие человечества в неизведанное"
+tagGDX1TorsoD110=[ms]{^I}корслет Гильдора
+tagGDX1TorsoD111=[ms](S) {^F}нагрудник Крига
+tagGDX1TorsoD112=[ms](S) {^I}доспех мстителя
+tagGDX1TorsoD113=[ms](S) {^I}панцирь Октавиуса
+tagGDX1TorsoD114=[np](S) {^I}меха Корбы
+tagGDX1TorsoD115=[fs](S) {^I}хламида Вальгуура
+tagGDX1TorsoD116=[ms](S) {^I}нагрудник начертателя рун
+tagGDX1TorsoD117=[fs](S) {^I}ряса Уроборуука
+tagGDX1TorsoD118=[fs](S) {^I}роба Аллагаста
+tagGDX1TorsoD119=[ms](S) {^I}кафтан Дагаллона
+tagGDX1TorsoD120=[ms](S) {^I}саван попечителя смерти
+tagGDX1TorsoD121=[ms](S) {^I}стихарь прорицателя
+tagGDX1TorsoD122=[ms](S) {^F}саван Тёмного
+tagGDX1TorsoD123=[ms](S) {^I}корслет Белготиана
+tagGDX1TorsoD124=[ms](S) {^I}саван Радаггана
+tagGDX1TorsoD125=[ms](S) {^I}нагрудник Морозного языка
+tagGDX1TorsoD126=[ms](S) {^I}корслет кровавого рыцаря
+
+tagGDX1TorsoF101=[ns]{^G}гневное облачение ковена
+tagGDX1TorsoF102=[ns]{^G}истощающее облачение ковена
+tagGDX1TorsoF103=[ns]{^G}мистическое облачение ковена
+tagGDX1TorsoF104=[ms]{^G}боевой кафтан ковена
+tagGDX1TorsoF105=[ms]{^G}защитный кафтан ковена
+tagGDX1TorsoF106=[ms]{^G}мистический кафтан ковена
+tagGDX1TorsoF107=[ms]{^G}мальмутский кафтан стужи
+tagGDX1TorsoF108=[ms]{^G}мальмутский кафтан эфирного пламени
+tagGDX1TorsoF109=[ms]{^G}мальмутский кафтан порчи
+tagGDX1TorsoF110=[fs]{^G}мальмутская кираса авангарда
+tagGDX1TorsoF111=[fs]{^G}мальмутская кираса пустоты
+tagGDX1TorsoF112=[fs]{^G}мальмутская кираса защитника
+tagGDX1TorsoF113=[fs]{^G}доха клинков вендиго
+tagGDX1TorsoF114=[fs]{^G}доха подлости вендиго
+tagGDX1TorsoF115=[fs]{^G}доха чароплёта вендиго
+tagGDX1TorsoF116=[ms]{^G}закалённый хауберк вендиго
+tagGDX1TorsoF117=[ms]{^G}губительный хауберк вендиго
+tagGDX1TorsoF118=[ms]{^G}хауберк стражника вендиго
+
+
+#ArmorHands
+tagGDX1HandsC101=[np]{^B}ледяные краги Харууда
+tagGDX1HandsC101_Desc="По слухам, рукопожатие Харууда несло в себе холод смерти"
+tagGDX1HandsC102=[fs]{^B}хватка контроля
+tagGDX1HandsC103=[np]{^B}краги пылающих рун
+tagGDX1HandsC104=[ns]{^B}очищающее касание
+tagGDX1HandsC104_Desc="Одно касание - и зло бежит в страхе"
+tagGDX1HandsC111=[np]{^B}рукавицы кровавого обряда
+
+tagGDX1HandsD101=[np]{^I}разломные перчатки
+tagGDX1HandsD101_Desc="Достигнув самой пустоты, эти перчатки навсегда изменились под её влиянием"
+tagGDX1HandsD102=[fs]{^I}железная хватка владыки
+tagGDX1HandsD103=[np]{^I}рукавицы Игнаффара
+tagGDX1HandsD104=[fs]{^I}холодная хватка Хагаррада
+tagGDX1HandsD109=[np]{^I}багряные когти
+tagGDX1HandsD109_Desc="Омытые в крови и жаждущие большего, эти когти хищно высматривают новых жертв"
+tagGDX1HandsD110=[ns]{^I}обжигающее касание
+tagGDX1HandsD111=[np](S) {^I}наручи убийцы магов
+tagGDX1HandsD112=[ns](S) {^I}касание Вальгуура
+tagGDX1HandsD113=[fs](S) {^F}хватка Крига
+tagGDX1HandsD114=[fs](S) {^F}хватка Тёмного
+
+
+#ArmorLegs
+tagGDX1LegsB101=[np]{^L}наголенники Александера
+tagGDX1LegsB102=[np]{^L}шоссы Александера
+tagGDX1LegsB103=[np]{^L}рейтузы Грава'Тула
+tagGDX1LegsB104=[np]{^L}наголенники Грава'Тула
+tagGDX1LegsB105=[np]{^L}наголенники Кубакабры
+tagGDX1LegsB106=[np]{^L}шоссы Кубакабры
+tagGDX1LegsB107=[np]{^L}рейтузы Жнеца
+tagGDX1LegsB108=[np]{^L}шоссы Жнеца
+
+tagGDX1LegsC101=[np]{^B}бриджи выжигающих рун
+tagGDX1LegsC102=[np]{^B}наголенники ужасных рун
+tagGDX1LegsC103=[np]{^B}рейтузы ткача теней
+tagGDX1LegsC103_Desc="Каким-то странным образом сами тени вплетены в ткань этих рейтуз"
+tagGDX1LegsC104=[np]{^B}наголенники охранных рун
+tagGDX1LegsC111=[np]{^B}бриджи ловца заклятий
+
+tagLegsD013B=[np]{^I}восхитительнейшие штаны
+tagLegsD013BDesc="Хороши даже наизнанку"
+
+tagGDX1LegsD101=[np]{^I}шаровары вендигомана
+tagGDX1LegsD101_Desc="Мех воняет застарелой кровью, и неясно, кровь ли это самого вендиго или кровь его прошлых жертв"
+tagGDX1LegsD102=[np]{^I}наголенники рыцаря ужаса
+tagGDX1LegsD103=[np]{^I}рунные поножи Игнаффара
+tagGDX1LegsD104=[np]{^I}магозащитные штаны
+tagGDX1LegsD109=[np]{^I}штаны из ядовитой кожи
+tagGDX1LegsD110=[np]{^I}наголенники звериной гривы
+tagGDX1LegsD110_Desc="Зверь, из меха которого сделана эта броня, невероятно редок для Эрулана"
+
+
+#ArmorFeet
+tagGDX1FeetB101=[np]{^Y}лихие сапоги
+tagGDX1FeetB102=[np]{^Y}каменные сабатоны
+
+tagGDX1FeetC101=[np]{^B}ботинки мрачной жатвы
+tagGDX1FeetC102=[np]{^B}сапоги ходячего мертвеца
+tagGDX1FeetC102_Desc="Непонятно, принадлежат ли кости на этих сапогах зверю... или человеку"
+tagGDX1FeetC103=[ms]{^B}марш Селлекора
+tagGDX1FeetC104=[np]{^B}магматические сабатоны
+tagGDX1FeetC111=[np]{^B}молниеносные сапоги
+
+tagGDX1FeetD101=[np]{^I}ботфорты из плоти демона
+tagGDX1FeetD102=[np]{^I}ботфорты дурного знамения
+tagGDX1FeetD103=[np]{^I}изгибатели времени
+tagGDX1FeetD103_Desc="Согласно легенде, эти сапоги могут выйти за пределы вечности, но пока никто так и не понял, как использовать эту силу"
+tagGDX1FeetD104=[np]{^I}сабатоны защитных рун
+tagGDX1FeetD109=[np]{^I}штормовые легкоступы
+tagGDX1FeetD110=[np]{^I}грозоносцы
+tagGDX1FeetD110_Desc="Эти сапоги заключают в себе натиск целого шторма, но при этом никогда не разряжаются полностью в землю"
+tagGDX1FeetD111=[np](S) {^F}сапоги Крига
+
+
+#ArmorWaist
+tagGDX1WaistA101=[ms]{^W}старинный ремень
+tagGDX1WaistA102=[ms]{^W}тяжёлый пояс
+
+tagGDX1WaistB101=[ms]{^L}угденский пояс
+tagGDX1WaistB102=[ms]{^L}угденский ремень
+tagGDX1WaistB103=[ms]{^L}кушак Лунал'Вальгота
+tagGDX1WaistB104=[ms]{^L}пояс Лунал'Вальгота
+tagGDX1WaistB105=[ms]{^Y}пояс тролльского сердца
+tagGDX1WaistB106=[np]{^Y}вериги кукольника
+tagGDX1WaistB107=[ms]{^Y}пояс из каменных пластин
+
+tagGDX1WaistC101=[ms]{^B}кушак злобного духа
+tagGDX1WaistC102=[np]{^B}сплетённые души
+tagGDX1WaistC102_Desc="Укрощённые духи вплетены между нитей этого пояса"
+tagGDX1WaistC103=[ms]{^B}шнур демона теней
+tagGDX1WaistC104=[ms]{^B}шнур звёздного пророка
+tagGDX1WaistC105=[fs]{^B}цепь алчущей пустоты
+tagGDX1WaistC106=[ms]{^B}шнур чароплёта
+tagGDX1WaistC115=[ms]{^B}кушак выжигателя
+tagGDX1WaistC116=[ms]{^B}Сангвинус
+tagGDX1WaistC116_Desc="Каждая пластина пропитана пролитой на поле битвы кровью"
+tagGDX1WaistC117=[ms](S) {^B}пояс пламенного пророка
+
+tagGDX1WaistD101=[ms]{^I}шнур неистового тлена
+tagGDX1WaistD102=[ns]{^I}отличие гладиатора
+tagGDX1WaistD103=[ms]{^I}шнур духовного искателя
+tagGDX1WaistD103_Desc="Блуждающие духи тянутся к сплетениям этого шнура"
+tagGDX1WaistD104=[ms]{^I}набор коварства
+tagGDX1WaistD104_Desc="Коллекция порошков и токсинов, сделавших огнестрельное оружие достойным вызовом мистическим искусствам"
+tagGDX1WaistD105=[ms]{^I}шнур обмана
+tagGDX1WaistD106=[fs]{^I}чешуя Бероната
+tagGDX1WaistD106_Desc="Чешуя великого зверя Бероната не истёрлась за прошедшие столетия, и, возможно, это никогда не случится"
+tagGDX1WaistD113=[ms]{^I}магматический пояс
+tagGDX1WaistD114=[ms]{^I}пояс потрошителя
+tagGDX1WaistD115=[ms](S) {^I}пояс мстителя
+tagGDX1WaistD116=[ms](S) {^I}пакт катаклизма
+tagGDX1WaistD117=[ms](S) {^I}пояс каменного стража
+tagGDX1WaistD118=[ms](S) {^I}ремень твердыни
+tagGDX1WaistD119=[ms](S) {^I}патронташ тёмного зарева
+
+tagGDX1WaistF101A=[ms]{^G}губительный пояс ковена
+tagGDX1WaistF101B=[ms]{^G}губительный ремень ковена
+tagGDX1WaistF102A=[ms]{^G}смертоносный пояс ковена
+tagGDX1WaistF102B=[ms]{^G}смертоносный ремень ковена
+tagGDX1WaistF103A=[ms]{^G}мальмутский шипастый пояс
+tagGDX1WaistF103B=[ms]{^G}мальмутский шипастый ремень
+tagGDX1WaistF104A=[ms]{^G}мальмутский мистический пояс
+tagGDX1WaistF104B=[ms]{^G}мальмутский мистический ремень
+tagGDX1WaistF105A=[ms]{^G}осквернённый пояс вендиго
+tagGDX1WaistF105B=[ms]{^G}осквернённый ремень вендиго
+tagGDX1WaistF106A=[ms]{^G}пояс стража вендиго
+tagGDX1WaistF106B=[ms]{^G}ремень стража вендиго
+
+
+#Rings
+tagGDX1RingA101=[ms]{^W}изысканный перстень
+tagGDX1RingA102=[ns]{^W}изысканное кольцо
+tagGDX1RingA103=[ms]{^W}старинный перстень
+tagGDX1RingA104=[ns]{^W}старинное кольцо
+
+tagGDX1RingB101=[ns]{^L}живое кольцо
+tagGDX1RingB101_Desc="Шипы на кольце пьют вашу кровь, похоже, это заставляет побеги оживать"
+tagGDX1RingB102=[ns]{^L}терновое кольцо
+tagGDX1RingB103=[ns]{^L}кольцо Гаргабола
+tagGDX1RingB103_Desc="Горящее кольцо болезненно на ощупь, однако не наносит физического вреда"
+
+tagGDX1RingC101=[ms]{^B}носитель проклятия
+tagGDX1RingC101_Desc="По слухам, это свитое кольцо принесло проклятие своему хозяину, последствия которого остаются внутри него и по сей день"
+tagGDX1RingC102=[ns]{^B}кольцо ловца духов
+tagGDX1RingC103=[ns]{^B}кольцо владыки гнили
+tagGDX1RingC104=[fs]{^B}гемма Рунного отца
+tagGDX1RingC104_Desc="Отличительный знак Рунного отца, разработчика особого рунического языка, используемого люминари"
+tagGDX1RingC105=[fs]{^B}печатка астральной медитации
+tagGDX1RingC105_Desc="Это кольцо нашёптывает секреты самих звёзд, но они непостижимы для ушей непосвящённых"
+tagGDX1RingC106=[ns]{^B}жало вдовы
+tagGDX1RingC115=[ns]{^B}презрение ночи
+tagGDX1RingC116=[fs]{^B}истерия
+tagGDX1RingC117=[fs](S) {^B}печать пламенного пророка
+tagGDX1RingC118=[ms](S) {^B}перстень верховного мага
+tagGDX1RingC119=[ns](S) {^B}кольцо верховного мага
+
+tagGDX1RingD101=[ms]{^I}перстень владыки смерти
+tagGDX1RingD102=[ms]{^I}пленитель духов
+tagGDX1RingD102_Desc="Глиф, вырезанный на навершии этого кольца, считается наиболее эффективным символом для укрощения духов, известным Ордену смертного бдения"
+tagGDX1RingD103=[ns]{^I}кольцо шёпота пустоты
+tagGDX1RingD103_Desc="Исходящий от кольца шёпот сводит вас с ума"
+tagGDX1RingD104=[ns]{^I}сжигающее кольцо
+tagGDX1RingD105=[fs]{^I}счастливая пуля Джексона
+tagGDX1RingD106=[ns]{^I}царство льда и пламени
+tagGDX1RingD113=[fs]{^I}печатка танцующего с клинками
+tagGDX1RingD114=[ns]{^I}сердце пустоты
+tagGDX1RingD115=[ms](S) {^I}штормовой камень Аллагаста
+tagGDX1RingD116=[ms]{^I}сигил попечителя смерти
+
+tagGDX1RingF101=[fs]{^B}штормовая печать ковена
+tagGDX1RingF102=[fs]{^B}небесная печать ковена
+tagGDX1RingF103=[fs]{^B}защитная печать ковена
+tagGDX1RingF104=[fs]{^B}печать мальмутских мистиков
+tagGDX1RingF105=[fs]{^B}печать мальмутских клинков
+tagGDX1RingF106=[fs]{^B}мальмутская печать эфирного пламени
+tagGDX1RingF107=[fs]{^B}искажённая печать вендиго
+tagGDX1RingF108=[fs]{^B}призывающая печать вендиго
+
+
+
+#Necklaces
+tagGDX1NecklaceA101=[ms]{^W}изысканный амулет
+tagGDX1NecklaceA102=[ms]{^W}изысканный кулон
+tagGDX1NecklaceA103=[ms]{^W}старинный амулет
+tagGDX1NecklaceA104=[ms]{^W}старинный кулон
+
+tagGDX1NecklaceB100=[ms]{^G}памятный кулон Садины
+tagGDX1NecklaceB100_Desc="Простой кулон, защищающий от сглаза. Надпись на нём гласит: Сеть, которую мы плетём, несёт в себе знамения злых образов. - Джей Пеггинс"
+tagGDX1NecklaceB101=[ns]{^L}сердце Гульгазора
+tagGDX1NecklaceB102=[ns]{^L}сердце Вильгазора
+
+tagGDX1NecklaceC101=[ms]{^B}шёпот мёртвых
+tagGDX1NecklaceC102=[ms]{^B}камень расчленителя
+tagGDX1NecklaceC103=[ns]{^B}высохшее сердце
+tagGDX1NecklaceC103_Desc="Изредка сердце ещё бьётся"
+tagGDX1NecklaceC104=[ms]{^B}камень безмятежности
+tagGDX1NecklaceC104_Desc="Несмотря на суматоху и страдания в Каирне, камень наполняет вас чрезмерным спокойствием"
+tagGDX1NecklaceC105=[ms]{^B}плачущий рубин
+tagGDX1NecklaceC106=[ms]{^B}рунный топаз Гиллада
+tagGDX1NecklaceC106_Desc="Защитный амулет инквизитора Гиллада, пропавшего без вести после неудачного похода в глухую деревеньку на самой границе империи для проверки её жителей по обвинению в укрывательстве оккультистов"
+tagGDX1NecklaceC115=[ms]{^B}оберег претендента
+tagGDX1NecklaceC116=[ms]{^B}самоцвет Рунного отца
+
+tagNecklaceD005B=[ms]{^I}несравненный глаз Бероната
+tagGDX1NecklaceD101=[ms]{^I}ловец душ
+tagGDX1NecklaceD101_Desc="Этот амулет мгновенно поглощает души поверженных вами врагов"
+tagGDX1NecklaceD102=[ns]{^I}пламя гнева
+tagGDX1NecklaceD103=[ms]{^I}голод Вигара
+tagGDX1NecklaceD103_Desc="Флакон наполнен кровью одного из воплощений Опустошителя"
+tagGDX1NecklaceD104=[ms]{^I}осквернённый рубин Гар'дала
+tagGDX1NecklaceD105=[ns]{^I}правосудие палача
+tagGDX1NecklaceD106=[ms]{^I}сапфир пророка бурь
+tagGDX1NecklaceD113A=[ms]{^I}источник военных тайн
+tagGDX1NecklaceD113B=[ms]{^I}источник разрушительных тайн
+tagGDX1NecklaceD113C=[ms]{^I}источник колдовских тайн
+tagGDX1NecklaceD113D=[ms]{^I}источник ночных тайн
+tagGDX1NecklaceD113E=[ms]{^I}источник мистических тайн
+tagGDX1NecklaceD113F=[ms]{^I}источник диких тайн
+tagGDX1NecklaceD113G=[ms]{^I}источник рунических тайн
+tagGDX1NecklaceD113H=[ms]{^I}источник посмертных тайн
+tagGDX1NecklaceD113_Desc="Заглянув в этот глаз, можно увидеть картины огромных и странных земель, изобилующих существами и демонами не похожими ни на одно из существ Каирна"
+tagGDX1NecklaceD114=[fs]{^I}частица вечного пламени
+tagGDX1NecklaceD114_Desc="Пламя внутри этого кристалла никогда не угасает"
+tagGDX1NecklaceD115=[ms](S) {^I}кристалл потерянных душ
+tagGDX1NecklaceD116=[ms](S) {^I}катализатор катаклизма
+tagGDX1NecklaceD117=[fs](S) {^I}опека каменного стража
+tagGDX1NecklaceD118=[ms](S) {^I}источник тёмного зарева
+tagGDX1NecklaceD119=[ms](S) {^I}отражатель бича магии
+tagGDX1NecklaceD120=[ms](S) {^I}защитник убийцы магов
+tagGDX1NecklaceD121=[ms](S) {^I}самоцвет начертателя рун
+tagGDX1NecklaceD122=[ms](S) {^I}глаз Уроборуука
+tagGDX1NecklaceD123=[ms](S) {^I}самоцвет Радаггана
+tagGDX1NecklaceD124=[fs](S) {^I}подвеска Морозного языка
+tagGDX1NecklaceD125=[fs](S) {^I}подвеска кровавого рыцаря
+
+tagGDX1NecklaceF101=[ms]{^B}кулон затемнителя ковена
+tagGDX1NecklaceF102=[ms]{^B}кулон манипулятора ковена
+tagGDX1NecklaceF103=[ms]{^B}кулон клинков ковена
+tagGDX1NecklaceF104=[ms]{^B}мальмутский распорядитель бурь
+tagGDX1NecklaceF105=[ms]{^B}кулон мальмутского деформатора
+tagGDX1NecklaceF106=[ms]{^B}кулон мальмутского защитника
+tagGDX1NecklaceF107=[ms]{^B}мерзкий кулон вендиго
+tagGDX1NecklaceF108=[ms]{^B}небесный кулон вендиго
+tagGDX1NecklaceF109=[ms]{^I}кулон эфирной стрелы
+tagGDX1NecklaceF110=[ns]{^I}сердце Мальмута
+tagGDX1NecklaceF111=[ms]{^I}голод Опустошителя
+
+
+#Medals
+tagGDX1MedalA101=[fs]{^W}изысканная звезда
+tagGDX1MedalA102=[fs]{^W}старинная эмблема
+
+tagGDX1MedalB101=[ms]{^L}герб василиска
+tagGDX1MedalB101_Desc="С клыков ещё сочится парализующий яд"
+tagGDX1MedalB102=[ms]{^L}значок василиска
+tagGDX1MedalB102_Desc="С клыков ещё сочится яд, разжижающий кровь"
+tagGDX1MedalB103=[ms]{^L}герб райлока
+tagGDX1MedalB103_Desc="Хтонийская чешуя жаждет крови"
+tagGDX1MedalB104=[fs]{^L}чешуйка райлока
+tagGDX1MedalB104_Desc="Хтонийская чешуя изобилует тьмой пустоты"
+tagGDX1MedalB105=[ms]{^L}глаз вендиго
+tagGDX1MedalB105_Desc="Кровавый глаз всё ещё двигается если кровь рядом"
+tagGDX1MedalB106=[ms]{^L}взор вендиго
+tagGDX1MedalB106_Desc="Кровавый глаз ошеломляет любого, кто на него смотрит"
+tagGDX1MedalB107=[ms]{^Y}герб проворства
+tagGDX1MedalB108=[ms]{^Y}герб смотрителя
+tagGDX1MedalB109=[ms]{^L}герб Слатсарра
+tagGDX1MedalB109_Desc="С клыков капает эфирный яд"
+tagGDX1MedalB110=[fs]{^L}бляха Плагиуса
+tagGDX1MedalB111=[ms]{^L}глаз Намадеи
+tagGDX1MedalB111_Desc="Всё ещё подёргивающийся глаз смотрит на вас из-за грани смерти"
+
+tagGDX1MedalC101=[ms]{^B}тёмный знак
+tagGDX1MedalC102=[fs]{^B}эмблема порочности
+tagGDX1MedalC103=[fs]{^B}эмблема забытых духов
+tagGDX1MedalC103_Desc="Напоминание о потерянных и забытых"
+tagGDX1MedalC104=[ns]{^B}клеймо нарушенной клятвы
+tagGDX1MedalC104_Desc="Когда-то этот жетон принадлежал инквизитору, чьё имя было стёрто из записей, за репутацию запятнанную гнусным предательством всех принципов люминари"
+tagGDX1MedalC105=[fs]{^B}эмблема Хранителя Схрона
+tagGDX1MedalC105_Desc="Эмблема Хранителей Схрона, священных стражей Схрона люминари"
+tagGDX1MedalC106=[ms]{^B}герб святости
+tagGDX1MedalC115=[ms]{^B}знак адских мук
+tagGDX1MedalC116=[fs]{^B}эмблема каменной воли
+tagGDX1MedalC117=[ms](S) {^B}герб пламенного пророка
+tagGDX1MedalC118=[fs](S) {^B}награда люминари
+
+tagGDX1MedalD101=[ms]{^I}знак грозного клинка
+tagGDX1MedalD102=[ms]{^I}знак лютого мороза
+tagGDX1MedalD103=[ms]{^I}герб гниложора
+tagGDX1MedalD104=[fs]{^I}награда Гильдам Арканум
+tagGDX1MedalD104_Desc="Награда, присуждаемая членам Гильдам Арканум, поправшим извечную напряжённость между люминари и мистиками и посвятившим себя более высокой цели - обеспечению выживания человечества"
+tagGDX1MedalD105=[fs]{^I}награда Серенира
+tagGDX1MedalD105_Desc="Награда, которой был награждён верховный инквизитор Серенир, за доблестное применение Рога Гандарра для единоличной победы над оккультным ковеном"
+tagGDX1MedalD106=[ms]{^I}знак Каластора
+tagGDX1MedalD113=[ns]{^I}отличие Ульзуина
+tagGDX1MedalD113_Desc="Эта эмблема использовалась верными последователями Ульзуина для укрощения плоти и посвящения себя гневному богу"
+tagGDX1MedalD114=[ms]{^I}значок поглощения
+
+tagGDX1MedalF101=[ms]{^B}жетон клинков ковена
+tagGDX1MedalF102=[ms]{^B}мистический жетон ковена
+tagGDX1MedalF103=[fs]{^B}мальмутская медаль осквернения
+tagGDX1MedalF104=[fs]{^B}мальмутская медаль стихий
+tagGDX1MedalF105=[fs]{^B}бляха одержимости вендиго
+tagGDX1MedalF106=[fs]{^B}бляха защитника вендиго
+tagGDX1MedalF107=[fs]{^I}бляха смертельных намерений
+tagGDX1MedalF108=[ms]{^I}надзиратель
+tagGDX1MedalF109=[fs]{^I}эмблема Ненасытного
+
+
+#Blueprints
+tagGDX1Blueprint_RelicB101=Чертёж: Реликвия - Обжорство
+tagGDX1Blueprint_RelicB102=Чертёж: Реликвия - Призрак
+tagGDX1Blueprint_RelicB103=Чертёж: Реликвия - Рвение
+tagGDX1Blueprint_RelicB104=Чертёж: Реликвия - Мужество
+tagGDX1Blueprint_RelicB105=Чертёж: Реликвия - Истерия
+
+tagGDX1Blueprint_RelicC101=Чертёж: Реликвия - Смертность
+tagGDX1Blueprint_RelicC102=Чертёж: Реликвия - Вендетта
+
+tagGDX1Blueprint_RelicD101=Чертёж: Реликвия - Порок
+tagGDX1Blueprint_RelicD102=Чертёж: Реликвия - Отмщение
+tagGDX1Blueprint_RelicD103=Чертёж: Реликвия - Реквием по Арковии
+tagGDX1Blueprint_RelicD104=Чертёж: Реликвия - Хула
+tagGDX1Blueprint_RelicD105=Чертёж: Реликвия - Рок
+tagGDX1Blueprint_RelicD106=Чертёж: Реликвия - Ложь Корваака
+tagGDX1Blueprint_RelicD107=Чертёж: Реликвия - Жуткий пакт
+tagGDX1Blueprint_RelicD108=Чертёж: Реликвия - Вспышка Нидаллы
+tagGDX1Blueprint_RelicD109=Чертёж: Реликвия - Вечность
+tagGDX1Blueprint_RelicD110=Чертёж: Реликвия - Резня
+tagGDX1Blueprint_RelicD111=Чертёж: Реликвия - Жатва Уроборуука
+tagGDX1Blueprint_RelicD112=Чертёж: Реликвия - Воспламенитель Игнаффара
+tagGDX1Blueprint_RelicD113=Чертёж: Реликвия - Пыл Могдрогена
+tagGDX1Blueprint_RelicD114=Чертёж: Реликвия - Смертоносец
+
+
+tagGDX1Blueprint_ComponentA101=Чертёж: Печать мощи
+tagGDX1Blueprint_ComponentA102=Чертёж: Печать клинков
+tagGDX1Blueprint_ComponentA103=Чертёж: Печать небес
+tagGDX1Blueprint_ComponentA104=Чертёж: Печать отравы
+tagGDX1Blueprint_ComponentA105=Чертёж: Печать искажения
+tagGDX1Blueprint_ComponentA106=Чертёж: Печать пустоты
+tagGDX1Blueprint_ComponentA107=Чертёж: Печать ночи
+tagGDX1Blueprint_ComponentA108=Чертёж: Печать разрушения
+tagGDX1Blueprint_ComponentA109=Чертёж: Печать теней
+tagGDX1Blueprint_ComponentA110=Чертёж: Печать резонанса
+tagGDX1Blueprint_ComponentA111=Чертёж: Порченое сердце
+tagGDX1Blueprint_ComponentA112=Чертёж: Полыхающий рубин
+tagGDX1Blueprint_ComponentA113=Чертёж: Рунный топаз
+tagGDX1Blueprint_ComponentA114=Чертёж: Кровавый кристалл
+tagGDX1Blueprint_ComponentA115=Чертёж: Зачарованная земля
+tagGDX1Blueprint_ComponentA116=Чертёж: Опалённая чарами броня
+tagGDX1Blueprint_ComponentA117=Чертёж: Клинковая броня
+tagGDX1Blueprint_ComponentA118=Чертёж: Угденская кожа
+
+tagGDX1Blueprint_ComponentC101=Чертёж: Священный щиток
+tagGDX1Blueprint_ComponentC102=Чертёж: Живая броня
+tagGDX1Blueprint_ComponentC103=Чертёж: Щиток титана
+tagGDX1Blueprint_ComponentC104=Чертёж: Жуткое зеркало
+tagGDX1Blueprint_ComponentC105=Чертёж: Печать уничтожения
+tagGDX1Blueprint_ComponentC106=Чертёж: Печать предков
+
+
+tagGDX1Blueprint_WaistF101A=Чертёж: Губительный пояс ковена
+tagGDX1Blueprint_WaistF101B=Чертёж: Губительный ремень ковена
+tagGDX1Blueprint_WaistF102A=Чертёж: Смертоносный пояс ковена
+tagGDX1Blueprint_WaistF102B=Чертёж: Смертоносный ремень ковена
+tagGDX1Blueprint_WaistF103A=Чертёж: Мальмутский шипастый пояс
+tagGDX1Blueprint_WaistF103B=Чертёж: Мальмутский шипастый ремень
+tagGDX1Blueprint_WaistF104A=Чертёж: Мальмутский мистический пояс
+tagGDX1Blueprint_WaistF104B=Чертёж: Мальмутский мистический ремень
+tagGDX1Blueprint_WaistF105A=Чертёж: Осквернённый пояс вендиго
+tagGDX1Blueprint_WaistF105B=Чертёж: Осквернённый ремень вендиго
+tagGDX1Blueprint_WaistF106A=Чертёж: Пояс стража вендиго
+tagGDX1Blueprint_WaistF106B=Чертёж: Ремень стража вендиго
+
+
+tagGDX1Blueprint_WeaponB101=Чертёж: Штормовая волна
+tagGDX1Blueprint_WeaponB102=Чертёж: Винтовка пламенного стража
+tagGDX1Blueprint_WeaponB103=Чертёж: Кровопускающий колун
+tagGDX1Blueprint_WeaponB104=Чертёж: Боевой кишкомол
+tagGDX1Blueprint_WeaponB105=Чертёж: Каменный защитник
+tagGDX1Blueprint_WeaponB106=Чертёж: Том шоковой магии
+tagGDX1Blueprint_WeaponB107=Чертёж: Тлеющий фолиант
+tagGDX1Blueprint_WeaponB108=Чертёж: Жезл гнилоинея
+tagGDX1Blueprint_WeaponB109=Чертёж: Смертоносный скипетр
+
+tagGDX1Blueprint_WeaponC101=Чертёж: Раскольник
+tagGDX1Blueprint_WeaponC102=Чертёж: Мифическое расследование Альдура
+tagGDX1Blueprint_WeaponC103=Чертёж: Космический поток
+tagGDX1Blueprint_WeaponC104=Чертёж: Колдовской клинок яростного пламени
+tagGDX1Blueprint_WeaponC105=Чертёж: Мифический миротворец Чертополоха
+tagGDX1Blueprint_WeaponC106=Чертёж: Мифическая адская пасть
+tagGDX1Blueprint_WeaponC107=Чертёж: Мифическая ненасытная пила смерти
+tagGDX1Blueprint_WeaponC108=Чертёж: Мифический благословенный факел
+tagGDX1Blueprint_WeaponC109=Чертёж: Мифическая шпага дуэлянта
+tagGDX1Blueprint_WeaponC110=Чертёж: Мифический плач гнева
+tagGDX1Blueprint_WeaponC111=Чертёж: Мифический резец адских рун
+tagGDX1Blueprint_WeaponC112=Чертёж: Мифический заразный клинок Нера'Вала
+tagGDX1Blueprint_WeaponC113=Чертёж: Мифический мёртвый страж
+tagGDX1Blueprint_WeaponC114=Чертёж: Мифические стенания банши
+
+tagGDX1Blueprint_WeaponD101=Чертёж: Выжигатель
+tagGDX1Blueprint_WeaponD102=Чертёж: Ядовитое копьё
+tagGDX1Blueprint_WeaponD103=Чертёж: Мифическая кромка смерти
+tagGDX1Blueprint_WeaponD104=Чертёж: Мифический пробудитель морозного пламени
+tagGDX1Blueprint_WeaponD105=Чертёж: Мифический пистолет торговца смертью
+tagGDX1Blueprint_WeaponD106=Чертёж: Мифический северный змей
+tagGDX1Blueprint_WeaponD107=Чертёж: Мифический вихрь душ
+tagGDX1Blueprint_WeaponD108=Чертёж: Мифический полумесяц
+tagGDX1Blueprint_WeaponD109=Чертёж: Мифический носитель чумы Дрига
+tagGDX1Blueprint_WeaponD110=Чертёж: Мифический Беронат, Перекованный
+tagGDX1Blueprint_WeaponD111=Чертёж: Мифический похититель бурь
+tagGDX1Blueprint_WeaponD112=Чертёж: Мифический жнец времени
+tagGDX1Blueprint_WeaponD113=Чертёж: Мифический осколок Астеркарна
+tagGDX1Blueprint_WeaponD114=Чертёж: Мифический клык Х'тона
+tagGDX1Blueprint_WeaponD115=Чертёж: Мифический реванш Золхана
+tagGDX1Blueprint_WeaponD116=Чертёж: Мифическая кровавая сфера Х'тона
+tagGDX1Blueprint_WeaponD117=Чертёж: Мифический нечестивый фолиант Нар'Адина
+
+tagGDX1Blueprint_WeaponF101=Чертёж: Чаровержец
+tagGDX1Blueprint_WeaponF102=Чертёж: Разоритель
+tagGDX1Blueprint_WeaponF103=Чертёж: Ведьмина луна
+tagGDX1Blueprint_WeaponF104=Чертёж: Вой Вендиго
+tagGDX1Blueprint_WeaponF105=Чертёж: Искупитель Мальмута
+tagGDX1Blueprint_WeaponF106=Чертёж: Стремительный порыв
+tagGDX1Blueprint_WeaponF107=Чертёж: Проклятое пламя
+tagGDX1Blueprint_WeaponF108=Чертёж: Коготь Хагараза
+tagGDX1Blueprint_WeaponF109=Чертёж: Гневный страж
+tagGDX1Blueprint_WeaponF110=Чертёж: Мальмутский буревестник
+
+
+
+tagGDX1Blueprint_ArmorB101=Чертёж: Лихие сапоги
+tagGDX1Blueprint_ArmorB102=Чертёж: Каменные сабатоны
+
+tagGDX1Blueprint_ArmorC101=Чертёж: Личина штормового глашатая
+tagGDX1Blueprint_ArmorC102=Чертёж: Мифический наплеч охотника за головами
+tagGDX1Blueprint_ArmorC103=Чертёж: Клобук воплощённого ужаса
+tagGDX1Blueprint_ArmorC104=Чертёж: Шляпа люминари
+tagGDX1Blueprint_ArmorC105=Чертёж: Мифические наголенники верховного мага
+tagGDX1Blueprint_ArmorC106=Чертёж: Мифические ботинки из кожи гончей
+tagGDX1Blueprint_ArmorC107=Чертёж: Мифическое касание духа
+tagGDX1Blueprint_ArmorC108=Чертёж: Мифические быстросъёмные перчатки
+tagGDX1Blueprint_ArmorC109=Чертёж: Мифические заколдованные бриджи
+tagGDX1Blueprint_ArmorC110=Чертёж: Мифическая накидка Амарасты
+tagGDX1Blueprint_ArmorC111=Чертёж: Мифическая бригантина ночного охотника
+tagGDX1Blueprint_ArmorC112=Чертёж: Мифический роковой панцирь
+tagGDX1Blueprint_ArmorC113=Чертёж: Мифический капюшон слепого убийцы
+tagGDX1Blueprint_ArmorC114=Чертёж: Мифический стеклянный глаз снайпера
+tagGDX1Blueprint_ArmorC115=Чертёж: Мифическая нечестивая личина завета
+tagGDX1Blueprint_ArmorC116=Чертёж: Мифический шлем стражи рассвета
+tagGDX1Blueprint_ArmorC117=Чертёж: Мифическая бригантина пламенного владыки
+tagGDX1Blueprint_ArmorC118=Чертёж: Мифический кафтан Каллидора
+tagGDX1Blueprint_ArmorC119=Чертёж: Мифическая личина мирмидона
+tagGDX1Blueprint_ArmorC120=Чертёж: Мифический малгай Могдрогена
+tagGDX1Blueprint_ArmorC121=Чертёж: Мифический лик Парагона
+
+tagGDX1Blueprint_ArmorD101=Чертёж: Взор владыки мёртвых
+tagGDX1Blueprint_ArmorD102=Чертёж: Хитрость ядоманта
+tagGDX1Blueprint_ArmorD103=Чертёж: Колдовской взор
+tagGDX1Blueprint_ArmorD104=Чертёж: Маска драконьей кости
+tagGDX1Blueprint_ArmorD105=Чертёж: Мифический взор владыки мёртвых
+tagGDX1Blueprint_ArmorD106=Чертёж: Мифическая хитрость ядоманта
+tagGDX1Blueprint_ArmorD107=Чертёж: Мифический колдовской взор
+tagGDX1Blueprint_ArmorD108=Чертёж: Мифическая маска драконьей кости
+tagGDX1Blueprint_ArmorD109=Чертёж: Голос Дрига
+tagGDX1Blueprint_ArmorD110=Чертёж: Взор Эмпириона
+tagGDX1Blueprint_ArmorD113=Чертёж: Маска потерянных душ
+tagGDX1Blueprint_ArmorD114=Чертёж: Бургиньот Октавиуса
+tagGDX1Blueprint_ArmorD115=Чертёж: Морда Корбы
+tagGDX1Blueprint_ArmorD116=Чертёж: Шлем тёмного зарева
+tagGDX1Blueprint_ArmorD117=Чертёж: Забрало бича магии
+tagGDX1Blueprint_ArmorD118=Чертёж: Капюшон убийцы магов
+tagGDX1Blueprint_ArmorD119=Чертёж: Самоцветы Вальгуура
+tagGDX1Blueprint_ArmorD120=Чертёж: Треуголка начертателя рун
+tagGDX1Blueprint_ArmorD121=Чертёж: Клобук Уроборуука
+tagGDX1Blueprint_ArmorD122=Чертёж: Забрало Дагаллона
+tagGDX1Blueprint_ArmorD123=Чертёж: Клобук попечителя смерти
+tagGDX1Blueprint_ArmorD124=Чертёж: Маска прорицателя
+
+tagGDX1Blueprint_ArmorD125=Чертёж: Мифическая пасть отчаяния
+tagGDX1Blueprint_ArmorD126=Чертёж: Мифическая ужасная маска Гургота
+tagGDX1Blueprint_ArmorD127=Чертёж: Мифический нашёптыватель секретов
+tagGDX1Blueprint_ArmorD128=Чертёж: Мифическая маска бездны
+tagGDX1Blueprint_ArmorD129=Чертёж: Мифический венец великого аспида
+tagGDX1Blueprint_ArmorD130=Чертёж: Мифическая маска инфернальной правды
+tagGDX1Blueprint_ArmorD131=Чертёж: Мифическая личина правосудия
+tagGDX1Blueprint_ArmorD132=Чертёж: Мифический малгай укротителя
+tagGDX1Blueprint_ArmorD133=Чертёж: Мифическая маска Предвестника
+tagGDX1Blueprint_ArmorD134=Чертёж: Мифическая шляпа демонобойца
+tagGDX1Blueprint_ArmorD135=Чертёж: Мифическая шляпа ясновидца
+tagGDX1Blueprint_ArmorD136=Чертёж: Мифическое забрало Марковиана
+tagGDX1Blueprint_ArmorD137=Чертёж: Мифический шлем Ульзуина
+tagGDX1Blueprint_ArmorD138=Чертёж: Мифический клобук Дрига
+tagGDX1Blueprint_ArmorD139=Чертёж: Мифический капюшон чистильщика
+tagGDX1Blueprint_ArmorD140=Чертёж: Мифический капюшон Искандры
+tagGDX1Blueprint_ArmorD141=Чертёж: Мифический малгай Ультоса
+tagGDX1Blueprint_ArmorD142=Чертёж: Мифическая корона зимнего короля
+tagGDX1Blueprint_ArmorD143=Чертёж: Мифическая шляпа Трозана
+tagGDX1Blueprint_ArmorD144=Чертёж: Мифическое гаучо Вальдуна
+tagGDX1Blueprint_ArmorD145=Чертёж: Жуткий взор
+tagGDX1Blueprint_ArmorD146=Чертёж: Ковенант троих
+tagGDX1Blueprint_ArmorD147=Чертёж: Мифический капюшон отравителя
+tagGDX1Blueprint_ArmorD148=Чертёж: Мифическая личина чёрного пламени
+tagGDX1Blueprint_ArmorD149=Чертёж: Мифический шлем защитника света
+tagGDX1Blueprint_ArmorD150=Чертёж: Мифический шлем инфернального рыцаря
+tagGDX1Blueprint_ArmorD151=Чертёж: Мифическое забрало битворождённого
+tagGDX1Blueprint_ArmorD152=Чертёж: Мифический малгай Кровожадного
+
+tagGDX1Blueprint_ArmorD153=Чертёж: Мифические эспалеры пламерождённого
+tagGDX1Blueprint_ArmorD154=Чертёж: Мифический сплетённый из бурь доспех
+tagGDX1Blueprint_ArmorD155=Чертёж: Доспех мстителя
+tagGDX1Blueprint_ArmorD156=Чертёж: Роба Аллагаста
+tagGDX1Blueprint_ArmorD157=Чертёж: Мифические наголенники порыва ветра
+tagGDX1Blueprint_ArmorD158=Чертёж: Мифические ичиги Серого мага
+tagGDX1Blueprint_ArmorD159=Чертёж: Мифические краги драконьей кости
+tagGDX1Blueprint_ArmorD160=Чертёж: Мифические когти ледяного презрения
+tagGDX1Blueprint_ArmorD161=Чертёж: Мифические рейтузы мистической гармонии
+tagGDX1Blueprint_ArmorD162=Чертёж: Восхитительнейшие штаны
+tagGDX1Blueprint_ArmorD163=Чертёж: Мифические эспалеры титана
+tagGDX1Blueprint_ArmorD164=Чертёж: Мифическая мантия нечестивой крови
+tagGDX1Blueprint_ArmorD165=Чертёж: Мифический ужасный корслет Азрагора
+tagGDX1Blueprint_ArmorD166=Чертёж: Мифический хауберк божественной стали
+
+tagGDX1Blueprint_ArmorD167=Чертёж: Маска Белготиана
+
+tagGDX1Blueprint_ArmorD168=Чертёж: Клобук Радаггана
+tagGDX1Blueprint_ArmorD169=Чертёж: Маска Морозного языка
+tagGDX1Blueprint_ArmorD170=Чертёж: Личина кровавого рыцаря
+
+tagGDX1Blueprint_AccessoryB101=Чертёж: Герб проворства
+tagGDX1Blueprint_AccessoryB102=Чертёж: Герб смотрителя
+tagGDX1Blueprint_AccessoryB103=Чертёж: Пояс тролльского сердца
+tagGDX1Blueprint_AccessoryB104=Чертёж: Вериги кукольника
+tagGDX1Blueprint_AccessoryB105=Чертёж: Пояс из каменных пластин
+
+tagGDX1Blueprint_AccessoryC101=Чертёж: Мифический камень безмятежности
+tagGDX1Blueprint_AccessoryC102=Чертёж: Самоцвет Рунного отца
+tagGDX1Blueprint_AccessoryC103=Чертёж: Сангвинус
+tagGDX1Blueprint_AccessoryC104=Чертёж: Мифический герб святости
+tagGDX1Blueprint_AccessoryC105=Чертёж: Мифическое жало вдовы
+tagGDX1Blueprint_AccessoryC106=Чертёж: Мифический осколок контроля
+tagGDX1Blueprint_AccessoryC107=Чертёж: Мифический амулет выжженной земли
+tagGDX1Blueprint_AccessoryC108=Чертёж: Мифические цепи тоски
+tagGDX1Blueprint_AccessoryC109=Чертёж: Мифический пояс алхимика
+tagGDX1Blueprint_AccessoryC110=Чертёж: Мифический вулканум
+tagGDX1Blueprint_AccessoryC111=Чертёж: Мифический фельдшерский значок
+tagGDX1Blueprint_AccessoryC112=Чертёж: Мифический сигил Амарасты
+tagGDX1Blueprint_AccessoryC113=Чертёж: Мифический перстень Голиафа
+tagGDX1Blueprint_AccessoryC114=Чертёж: Мифический рубин стихийного баланса
+tagGDX1Blueprint_AccessoryC115=Чертёж: Мифический сапфир стихийного баланса
+
+tagGDX1Blueprint_AccessoryD101=Чертёж: Мифический сапфир пророка бурь
+tagGDX1Blueprint_AccessoryD102=Чертёж: Мифический набор коварства
+tagGDX1Blueprint_AccessoryD103=Чертёж: Магматический пояс
+tagGDX1Blueprint_AccessoryD104=Чертёж: Мифический знак Каластора
+tagGDX1Blueprint_AccessoryD105=Чертёж: Значок поглощения
+tagGDX1Blueprint_AccessoryD106=Чертёж: Мифическое царство льда и пламени
+tagGDX1Blueprint_AccessoryD107=Чертёж: Пояс каменного стража
+tagGDX1Blueprint_AccessoryD108=Чертёж: Ремень твердыни
+tagGDX1Blueprint_AccessoryD109=Чертёж: Мифическое олицетворение милосердия
+tagGDX1Blueprint_AccessoryD110=Чертёж: Мифическое поветрие Дрига
+tagGDX1Blueprint_AccessoryD111=Чертёж: Мифический мститель Каирна
+tagGDX1Blueprint_AccessoryD112=Чертёж: Мифическая изобретательность лудильщика
+tagGDX1Blueprint_AccessoryD113=Чертёж: Мифический кушак падающего молота
+tagGDX1Blueprint_AccessoryD114=Чертёж: Мифический пояс бессмертного мудреца
+tagGDX1Blueprint_AccessoryD115=Чертёж: Мифическая эмблема тёмных помыслов
+tagGDX1Blueprint_AccessoryD116=Чертёж: Мифическая брошь анафемы
+tagGDX1Blueprint_AccessoryD117=Чертёж: Мифический глиф Кельфат'Зота
+tagGDX1Blueprint_AccessoryD118=Чертёж: Мифическое кольцо временного потока
+tagGDX1Blueprint_AccessoryD119=Чертёж: Мифическое кольцо вечного преследования
+tagGDX1Blueprint_AccessoryD120=Чертёж: Пакт катаклизма
+tagGDX1Blueprint_AccessoryD121A=Чертёж: Источник военных тайн
+tagGDX1Blueprint_AccessoryD121B=Чертёж: Источник разрушительных тайн
+tagGDX1Blueprint_AccessoryD121C=Чертёж: Источник колдовских тайн
+tagGDX1Blueprint_AccessoryD121D=Чертёж: Источник ночных тайн
+tagGDX1Blueprint_AccessoryD121E=Чертёж: Источник мистических тайн
+tagGDX1Blueprint_AccessoryD121F=Чертёж: Источник диких тайн
+tagGDX1Blueprint_AccessoryD121G=Чертёж: Источник рунических тайн
+tagGDX1Blueprint_AccessoryD121H=Чертёж: Источник посмертных тайн
+
+tagGDX1Blueprint_AccessoryF101=Чертёж: Кулон эфирной стрелы
+tagGDX1Blueprint_AccessoryF102=Чертёж: Сердце Мальмута
+tagGDX1Blueprint_AccessoryF103=Чертёж: Голод Опустошителя
+tagGDX1Blueprint_AccessoryF104=Чертёж: Бляха смертельных намерений
+tagGDX1Blueprint_AccessoryF105=Чертёж: Надзиратель
+tagGDX1Blueprint_AccessoryF106=Чертёж: Эмблема Ненасытного
+
+#Relics
+tagGDX1RelicB101=Обжорство
+tagGDX1RelicB101Desc="Неутолимый голод"
+tagGDX1RelicB102=Призрак
+tagGDX1RelicB102Desc="Внутри камня мечется замученная душа"
+tagGDX1RelicB103=Рвение
+tagGDX1RelicB103Desc="Ярость во всём"
+tagGDX1RelicB104=Мужество
+tagGDX1RelicB104Desc="Храбрость в битве"
+tagGDX1RelicB105=Истерия
+tagGDX1RelicB105Desc="Безумие после смерти"
+
+tagGDX1RelicC101=Смертность
+tagGDX1RelicC101Desc="Безжалостное предчувствие того, что всё когда-нибудь заканчивается"
+tagGDX1RelicC102=Вендетта
+tagGDX1RelicC102Desc="Неумолимая погоня за давним врагом"
+
+tagGDX1RelicD101=Порок
+tagGDX1RelicD101Desc="Сырая мистическая энергия, запятнанная мерзкими страстями"
+tagGDX1RelicD102=Отмщение
+tagGDX1RelicD102Desc="Месть - это блюдо, которое подают холодным"
+tagGDX1RelicD103=Реквием по Арковии
+tagGDX1RelicD103Desc="Ужасающая песня исходит от этого камня"
+tagGDX1RelicD104=Хула
+tagGDX1RelicD104Desc="На погибель врагов ваших"
+tagGDX1RelicD105=Рок
+tagGDX1RelicD105Desc="Станьте десницей рока и предрешите судьбы ваших врагов"
+tagGDX1RelicD106=Ложь Корваака
+tagGDX1RelicD106Desc="Служить мне - служить Каирну. - Эмпирион"
+tagGDX1RelicD107=Жуткий пакт
+tagGDX1RelicD107Desc="Связь с Тремя не может быть разорвана"
+tagGDX1RelicD108=Вспышка Нидаллы
+tagGDX1RelicD108Desc="Всплеск коварной злобы или орудие для шантажа"
+tagGDX1RelicD109=Вечность
+tagGDX1RelicD109Desc="Вся бесконечность существования, пролетающая в одно мгновение"
+tagGDX1RelicD110=Резня
+tagGDX1RelicD110Desc="Упоение кровопролитием"
+tagGDX1RelicD111=Жатва Уроборуука
+tagGDX1RelicD111Desc="Сия реликвия передана в наследство следующим поколениям некромантов самим Мастером"
+tagGDX1RelicD112=Воспламенитель Игнаффара
+tagGDX1RelicD112Desc="Камень Игнаффара - не единственный артефакт из древних захоронений, раскопанных люминари и позже подвергнутых очищению"
+tagGDX1RelicD113=Пыл Могдрогена
+tagGDX1RelicD113Desc="Там, где одинокий волк погибнет, стая - выживет"
+tagGDX1RelicD114=Смертоносец
+tagGDX1RelicD114Desc="Злобный дух стремится к свободе"
+
+
+#Crafting
+tagGDX1CraftRandomLegendaryDesc2=Кузнец накапливает сырую мистическую энергию в этих предметах, чтобы создать предмет с Легендарным потенциалом, до 94 уровня. Для персонажей ниже 58 уровня будет выкован Эпический предмет.
+tagGDX1CraftRandomLegendaryAccessoryDesc2=Кузнец накапливает сырую мистическую энергию в этих предметах, чтобы создать предмет с Легендарным потенциалом, до 94 уровня. Для персонажей ниже 58 уровня будет выкован Эпический предмет.
+tagGDX1CraftRandomLegendaryItemDesc2=Кузнец создаст зачарованный предмет Легендарного качества, соответствующий вашему уровню, но не выше 94.
+
+tagGDX1CraftMaterial_AetherialVanguard=Послание эфириалов
+tagGDX1CraftMaterial_AetherialVanguard_Desc="Мистические тексты, наполненные эфирной энергией. Вероятно, используется для передачи информации весьма деликатной для глаз смертных"
+
+tagGDX1CraftMaterial_AetherialVanguard02=Мутаген эфириалов
+tagGDX1CraftMaterial_AetherialVanguard02_Desc="Вязкая жидкость, настоянная на эфире, которая бурлит при приближении живой плоти"
+
+tagGDX1CraftMaterial_Wendigo=Дух вендиго
+tagGDX1CraftMaterial_Wendigo_Desc="Подлый дух, изобилующий тёмным потенциалом. Он нашёптывает вам обещания силы"
+
+tagGDX1CraftMaterial_Ugdenbloom=Болотный цветок
+tagGDX1CraftMaterial_Ugdenbloom_Desc="Такой яркий цветок, а источает на редкость гнилостное зловоние"
+
+tagGDX1CraftMaterial_HeartOfDarkness=Сердце тьмы
+tagGDX1CraftMaterial_HeartOfDarkness_Desc="Переполнено мерзкой энергией, жаждущей пепельного алтаря"
+
+#Consumables
+
+tagGDX1ConsumableBlueprintA01=Рецепт: Огнеупорная мазь
+
+tagGDX1ConsumableA101=Кристалл Харгейта
+tagGDX1ConsumableA101Desc="Гудит со странной энергией, словно кто-то пытается выбраться из него..."
+
+tagGDX1ConsumableA102=Кристалл Каспарова
+tagGDX1ConsumableA102Desc="Гудит со странной энергией, словно кто-то пытается выбраться из него..."
+
+tagGDX1ConsumableBlueprintB101=Рецепт: Угденский сок
+tagGDX1ConsumableBlueprintB102=Рецепт: Угденский бальзам
+tagGDX1ConsumableBlueprintB103=Рецепт: Мазь от шрамов
+tagGDX1ConsumableBlueprintB104=Рецепт: Эликсир дрангола
+tagGDX1ConsumableBlueprintB105=Рецепт: Эликсир Могдрогена
+
+tagGDX1ConsumableB101=Угденский сок
+tagGDX1ConsumableB101Desc="Пахучая смесь из экстракта болотного цветка"
+tagGDX1ConsumableB102=Угденский бальзам
+tagGDX1ConsumableB102Desc="Успокаивающее варево из концентрированной вытяжки болотного цветка"
+tagGDX1ConsumableB103=Мазь от шрамов
+tagGDX1ConsumableB103Desc="Вязкая смесь, ускоряющая свёртывание крови"
+tagGDX1ConsumableB104=Эликсир дрангола
+tagGDX1ConsumableB104Desc="Мощный эликсир из стебля болотного цветка"
+tagGDX1ConsumableB105=Эликсир Могдрогена
+tagGDX1ConsumableB105Desc="Мощный эликсир, приготовленный самим Могдрогеном"
+
+tagGDX1ConsumableF101=Колдовское масло
+tagGDX1ConsumableF101Desc="Масло, насыщенное подлыми проклятьями ковена"
+tagGDX1ConsumableF102=Проклятая настойка
+tagGDX1ConsumableF102Desc="Разбейте флакон, выпустив жестокое проклятье на ближайших врагов"
+tagGDX1ConsumableF103=Ограждающее от эфира масло
+tagGDX1ConsumableF103Desc="Масло, которое защищает ваше оружие от эфира"
+tagGDX1ConsumableF104=Настойка грозового пламени
+tagGDX1ConsumableF104Desc="Разбейте флакон, чтобы выпустить взрыв электризованного пламени"
+tagGDX1ConsumableF105=Пожирающее масло
+tagGDX1ConsumableF105Desc="Масло, наполняющее ваше оружие голодом вендиго"
+tagGDX1ConsumableF106=Злодейская настойка
+tagGDX1ConsumableF106Desc="Разбейте флакон, выпустив мерзкого духа преследующего ваших врагов"
+tagGDX1ConsumableF107=Настойка ясности
+tagGDX1ConsumableF107Desc="Вязкая жидкость, изобилующая потенциалом" ^oМожно передать другим персонажам
+
+tagGDX1Consumable_AttributeReset=Зелье перерождения
+tagGDX1Consumable_AttributeReset_Desc="Наполняет вас неприятным теплом, разливающимся по всему телу, в результате чего ваше тело, по-видимому, меняет форму"
+
+
+
+#ItemEnchantment
+
+tagGDX1EnchantA101A=Звёздная пыль
+tagGDX1EnchantA101Desc="Пыль упавшей звезды, бережно собранная чтобы её мистические свойства не ослабевали"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantA102A=Мощная звёздная пыль
+tagGDX1EnchantA102Desc="Пыль упавшей звезды, бережно собранная чтобы её мистические свойства не ослабевали"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantA103A=Пудра из хлыстов лозы
+tagGDX1EnchantA103Desc="Хлысты лоз тяжело, а иногда и смертельно собирать, но они повсеместно применяются как в медицине, так и в магии"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantA104A=Мощная пудра из хлыстов лозы
+tagGDX1EnchantA104Desc="Хлысты лоз тяжело, а иногда и смертельно собирать, но они повсеместно применяются как в медицине, так и в магии"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantA105A=Колдовской поцелуй
+tagGDX1EnchantA105Desc="Мощное средство, используемое ковеном для уничтожения особо стойких паразитов"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantA106A=Мощный колдовской поцелуй
+tagGDX1EnchantA106Desc="Мощное средство, используемое ковеном для уничтожения особо стойких паразитов"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantA107A=Гнойники ядовитого зверя
+tagGDX1EnchantA107Desc="Не смотря на то, что некромантия не популярна среди членов ковена, у неё есть свои преимущества. Гной ядовитых животных, если его правильно собрать, обладает тайными свойствами"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantA108A=Мощные гнойники ядовитого зверя
+tagGDX1EnchantA108Desc="Не смотря на то, что некромантия не популярна среди членов ковена, у неё есть свои преимущества. Гной ядовитых животных, если его правильно собрать, обладает тайными свойствами"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantA109A=Прах гнилой плоти
+tagGDX1EnchantA109Desc="Создатель этого средства утверждал, что это просто высушенный прах из раздувшихся человеческих трупов, выловленных в Угденской топи, но никто не захотел досконально в этом разбираться"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantA110A=Язык пустоты
+tagGDX1EnchantA110Desc="Порошок из языка Хтонийского демона пустоты"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantA111A=Порошок из магических колпаков
+tagGDX1EnchantA111Desc="Магические колпаки буйно разрастаются во влажной земле Угденской топи, обеспечивая ковен как пропитанием, так и материалом для их ремесла"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantA112A=Колдовское цветение
+tagGDX1EnchantA112Desc="Это растение пока новое для ковена, вероятно оно прошло через ослабленную завесу между реальностями, подобно разломным гончим и другим существам, однако его тайные свойства прочно утвердили его в хранилищах ковена"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantA113A=Шипы кровавой розы
+tagGDX1EnchantA113Desc="Названная так благодаря невероятно острым шипам и ярко красному цвету, кровавая роза вырабатывает мощный яд вызывающий кровотечение при больших концентрациях"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantA114A=Колдовской восторг
+tagGDX1EnchantA114Desc="Порошок, полученный из редкого гриба, растущего только в Угденской топи. Среди обычных людей считается деликатесов, а среди ведьм ковена - мощным магическим ингридиентом"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantA115A=Пудра механика
+tagGDX1EnchantA115Desc="Созданный на одной из прославленных фабрик Мальмута, таинственный порошок укрепляет металл, что делает его крепче и долговечнее"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantA116A=Мощная пудра механика
+tagGDX1EnchantA116Desc="Созданный на одной из прославленных фабрик Мальмута, таинственный порошок укрепляет металл, что делает его крепче и долговечнее"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantA117A=Дёготь пустоты
+tagGDX1EnchantA117Desc="Несмотря на сложность в работе и неустойчивость, арканисты Мальмута нашли пользу в применении этого густого материала в своих чарах"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantA118A=Мощный дёготь пустоты
+tagGDX1EnchantA118Desc="Несмотря на сложность в работе и неустойчивость, арканисты Мальмута нашли пользу в применении этого густого материала в своих чарах"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantA119A=Порошок из глаз беса
+tagGDX1EnchantA119Desc="Порошок, полученный из раздутых глаз эфириальных бесов"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantA120A=Мощный порошок из глаз беса
+tagGDX1EnchantA120Desc="Порошок, полученный из раздутых глаз эфириальных бесов"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantA121A=Порошок из искроцвета
+tagGDX1EnchantA121Desc="Порошок из ярких цветов, растущих в окресностях Мальмута, известного своими тонизирующими лепестками"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantA122A=Мощный порошок из искроцвета
+tagGDX1EnchantA122Desc="Порошок из ярких цветов, растущих в окресностях Мальмута, известного своими тонизирующими лепестками"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantA123A=Пудра пылкого сердца
+tagGDX1EnchantA123Desc="Молотые сердца огненных зверей"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantA124A=Деформирующий порошок
+tagGDX1EnchantA124Desc="Этот зачарованный порошок должен быть тщательно обработан и упакован, чтобы не допустить открытого соприкосновения с ним. Однако, добыча его компонентов из эфирного заражения, наверное, самая сложная часть в процессе его изготовления"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantA125A=Пепел пустоты
+tagGDX1EnchantA125Desc="Пепел из Хтонийской реальности, иногда встречающийся на телах убитых хтонийцев. Вы не найдёте никого достаточно глупого, кто войдёт в хтонийский разлом"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantA126A=Полироль ночной стали
+tagGDX1EnchantA126Desc="Производится исключительно в Мальмуте, но очень популярен среди ночных клинков по всему Эрулану"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantA127A=Порошок целителей
+tagGDX1EnchantA127Desc="Приготовлен выжившими Мальмута для быстрого заживления ран прямо на поле боя"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantA128A=Позвонки колосса
+tagGDX1EnchantA128Desc="Эфириальные колоссы не боятся ничего, но даже падение одного обеспечит запасом материалов на несколько месяцев"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantA129A=Мех вендиго
+tagGDX1EnchantA129Desc="Порошок из пучков меха вендиго, подарок Опустошителя"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantA130A=Мощный мех вендиго
+tagGDX1EnchantA130Desc="Порошок из пучков меха вендиго, подарок Опустошителя"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantA131A=Порошок из кровавой чешуи
+tagGDX1EnchantA131Desc="Порошок, полученный из чешуи кровавых слисов, которые водятся в Угденской топи"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantA132A=Мощный порошок из кровавой чешуи
+tagGDX1EnchantA132Desc="Порошок, полученный из чешуи кровавых слисов, которые водятся в Угденской топи"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantA133A=Молотый карапакс шипастого панцирника
+tagGDX1EnchantA133Desc="Порошок, полученный из спинного панциря Угденского шипастого панцирника. Чтобы растереть эту прочную оболочку в порошок, потребуется много терпения и сил"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantA134A=Мощный молотый карапакс шипастого панцирника
+tagGDX1EnchantA134Desc="Порошок, полученный из спинного панциря Угденского шипастого панцирника. Чтобы растереть эту прочную оболочку в порошок, потребуется много терпения и сил"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantA135A=Призрачный порошок
+tagGDX1EnchantA135Desc="Порошок, оставленный призраками иногда наблюдаемых вокруг Угденской топи"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantA136A=Мощный призрачный порошок
+tagGDX1EnchantA136Desc="Порошок, оставленный призраками иногда наблюдаемых вокруг Угденской топи"^w^n(Для двуручного оружия)
+
+
+tagGDX1EnchantB101A=Остроумие ковена
+tagGDX1EnchantB101Desc="Специальный волшебный порошок, созданный ковеном для усиления своего тёмного искусства"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantB102A=Мощное остроумие ковена
+tagGDX1EnchantB102Desc="Специальный волшебный порошок, созданный ковеном для усиления своего тёмного искусства"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantB103A=Коварство ковена
+tagGDX1EnchantB103Desc="Специальный волшебный порошок, созданный ковеном для обострения своих чувств"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantB104A=Мощное коварство ковена
+tagGDX1EnchantB104Desc="Специальный волшебный порошок, созданный ковеном для обострения своих чувств"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantB105A=Ужас ковена
+tagGDX1EnchantB105Desc="Особый яд, насыщенный проклятиями ковена, чтобы сокрушать разум врагов ужасающими видениями"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantB106A=Мощный ужас ковена
+tagGDX1EnchantB106Desc="Особый яд, насыщенный проклятиями ковена, чтобы сокрушать разум врагов ужасающими видениями"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantB107A=Погибель ковена
+tagGDX1EnchantB107Desc="Отвратительный токсин из различных растений Угденской топи объединённый с магией ковена для для максимальной эффективности"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantB108A=Мощная погибель ковена
+tagGDX1EnchantB108Desc="Отвратительный токсин из различных растений Угденской топи объединённый с магией ковена для для максимальной эффективности"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantB109A=Чёрное пламя ведьм
+tagGDX1EnchantB109Desc="Зачастую используются в ритуалах, свершаемых культами во имя Колдовских богов, но именно ковен использует этот мерзкий порошок особенно часто"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantB110A=Крик призрака
+tagGDX1EnchantB110Desc="При помощи ужасающего ритуала призыва, проклинатели ковена способны захватывать и разлагать призраков Угденской топи"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantB111A=Порох из небесного осколка
+tagGDX1EnchantB111Desc="Первоначально создан магистром мистиков Трозаном, ковен широко использует мистический потенциал рождённых небом объектов"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantB112A=Укус василиска
+tagGDX1EnchantB112Desc="Мощный токсин из ядовитых желёз василисков Угденской топи"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantB113A=Взор василиска
+tagGDX1EnchantB113Desc="Мощный токсин из приводящих в оцепенение глаз василисков Угденской топи"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantB114A=Эссенция Сильваррии
+tagGDX1EnchantB114Desc="Легенды гласят о мифическом существе, растущем в Угденской топи, чьи корни простираются через всё болото. Будучи названным в честь этого существа, примесь наследует свойства многих растений этой местности"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantB115A=Сердце Угденской топи
+tagGDX1EnchantB115Desc="Мощная примесь, созданная из каменных сердец самых могущественных големов Угденской топи"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantB116A=Искупление Мальмута
+tagGDX1EnchantB116Desc="Мощная примесь, созданная выжившими в Мальмуте для своей защиты от эфириалов"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantB117A=Мощное искупление Мальмута
+tagGDX1EnchantB117Desc="Мощная примесь, созданная выжившими в Мальмуте для своей защиты от эфириалов"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantB118A=Воля Мальмута
+tagGDX1EnchantB118Desc="Мощная примесь, созданная кузнецами Мальмута для укрепления своего замаха, что также эффективно и в битве"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantB119A=Мощная воля Мальмута
+tagGDX1EnchantB119Desc="Мощная примесь, созданная кузнецами Мальмута для укрепления своего замаха, что также эффективно и в битве"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantB120A=Душа Мальмута
+tagGDX1EnchantB120Desc="Усиливающий порошок, наполненный волей людей"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantB121A=Мощная душа Мальмута
+tagGDX1EnchantB121Desc="Усиливающий порошок, наполненный волей людей"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantB122A=Сердце Мальмута
+tagGDX1EnchantB122Desc="Невероятно мощный порошок, созданный от отчаяния во время первых атак на Мальмут. И хотя он многое позаимствовал у эфира и в конце концов может погубить человечество, на данный момент он служит благой цели"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantB123A=Мощное сердце Мальмута
+tagGDX1EnchantB123Desc="Невероятно мощный порошок, созданный от отчаяния во время первых атак на Мальмут. И хотя он многое позаимствовал у эфира и в конце концов может погубить человечество, на данный момент он служит благой цели"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantB124A=Порошок мистического сердца
+tagGDX1EnchantB124Desc="Нестабильный колдовской порошок, который горит так сильно, что способен расплавить броню, но его потенциал также делает риски многим мистическим практикам"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantB125A=Порошок падающего молота
+tagGDX1EnchantB125Desc="Порошок собранный из окалины мистически кованой стали"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantB126A=Порошок из стального цветка
+tagGDX1EnchantB126Desc="Зачарованный порошок, получаемый из необычного сталецвета, цветка, содержащего большое количество металла в своих стеблях, извлечённого из почвы через разветвлённую корневую систему"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantB127A=Тайфун-пудра
+tagGDX1EnchantB127Desc="Разрушающая сила тайфуна загадочным образом впиталась в этот порошок"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantB128A=Кузнечный огонь
+tagGDX1EnchantB128Desc="Облюбованный кузнецами Мальмута, этот порошок часто используется в кузницах, чтобвы увеличить температуру пламени, но он так же хорошо может послужить для усиления оружия"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantB129A=Ядовитое пойло
+tagGDX1EnchantB129Desc="Смертельный яд, созданный ночными клинками, но многие из его компонентов можно разыскать только в окресностях Мальмута"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantB130A=Мистическая пыль
+tagGDX1EnchantB130Desc="Специально разработанный Гильдам Арканум, этот порошок служит для усиления мистических возможностей использующего его"^w^n(Для колец и амулетов)
+
+tagGDX1EnchantB131A=Жатва Опустошителя
+tagGDX1EnchantB131Desc="Подарок Опустошителя своей проклятой пастве. Он вселяет ненасытный голод"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantB132A=Мощная жатва Опустошителя
+tagGDX1EnchantB132Desc="Подарок Опустошителя своей проклятой пастве. Он вселяет ненасытный голод"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantB133A=Око Опустошителя
+tagGDX1EnchantB133Desc="Подарок Опустошителя своей проклятой пастве как поощрение за бесподобную преданность"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantB134A=Мощное око Опустошителя
+tagGDX1EnchantB134Desc="Подарок Опустошителя своей проклятой пастве как поощрение за бесподобную преданность"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantB135A=Ярость Опустошителя
+tagGDX1EnchantB135Desc="Подарок Опустошителя своей проклятой пастве. Он вызывает неуправляемый гнев"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantB136A=Мощная ярость Опустошителя
+tagGDX1EnchantB136Desc="Подарок Опустошителя своей проклятой пастве. Он вызывает неуправляемый гнев"^w^n(Для двуручного оружия)
+
+tagGDX1EnchantB137A=Дыхание Опустошителя
+tagGDX1EnchantB137Desc="Подарок Опустошителя своей проклятой пастве. Его прикосновения оставляют тяжёлые раны и волдыри на плоти"^w^n(Для одноручного оружия, щитов и тотемов)
+
+tagGDX1EnchantB138A=Мощное дыхание Опустошителя
+tagGDX1EnchantB138Desc="Подарок Опустошителя своей проклятой пастве. Его прикосновения оставляют тяжёлые раны и волдыри на плоти"^w^n(Для двуручного оружия)
+
+
+tagGDX1EnchantC101A=Защитный порошок ковена
+tagGDX1EnchantC101Desc="Волшебный порошок, созданный ковеном для защиты себя во время выполнения ритуалов"^w^n(Для любой брони)
+tagGDX1EnchantC102A=Чёрный пепел ковена
+tagGDX1EnchantC102Desc="Пепел, создаваемый кустарями ковена из крови хтонийцев"^w^n(Для любой брони)
+tagGDX1EnchantC103A=Кровавый пепел ковена
+tagGDX1EnchantC103Desc="Пепел, создаваемый кустарями ковена из крови вендиго"^w^n(Для любой брони)
+tagGDX1EnchantC104A=Мальмутская пудра защиты души
+tagGDX1EnchantC104Desc="Волшебный порошок, созданный в Мальмуте, для защиты выживших от влияния эфира. Но смельчаков для его испытания не нашлось"^w^n(Для любой брони)
+tagGDX1EnchantC105A=Мальмутский прижигатель ран
+tagGDX1EnchantC105Desc="Волшебный порошок, часто используемый при сильных ранениях в критических ситуациях. Довольно болезненная процедура, но намного более желательная, чем кровотечение"^w^n(Для любой брони)
+tagGDX1EnchantC106A=Мальмутская укрепляющая пудра
+tagGDX1EnchantC106Desc="Волшебный порошок, используемый для быстрого восстановления сил даже после самых изнурительных боёв"^w^n(Для любой брони)
+tagGDX1EnchantC107A=Запах крови вендиго
+tagGDX1EnchantC107Desc="Дар Опустошителя своим последователям, применяется для подавления кровотечения и затрудняет отслеживание использовавшего его"^w^n(Для любой брони)
+tagGDX1EnchantC108A=Запах души вендиго
+tagGDX1EnchantC108Desc="Дар Опустошителя своим последователям для защиты души от агрессивных призраков"^w^n(Для любой брони)
+tagGDX1EnchantC109A=Пудра тела вендиго
+tagGDX1EnchantC109Desc="Дар Опустошителя своим последователям для укрепления смертной оболочки"^w^n(Для любой брони)
+
+
+
+
+#ItemComponents
+
+tagGDX1CompA101Name=Печать мощи
+tagGDX1CompA101Desc="Печать, начертанная Ульгардом Могучим, что фокусирует значительную часть своей магической силы в непревзойдённую физическую мощь"^w^n(Для любого оружия, щитов, книг и тотемов)
+
+tagGDX1CompA102Name=Печать клинков
+tagGDX1CompA102Desc="Печать, придуманная легендарным ночным клинком Белготианом, оттачивает и без того смертоносные удары убийцы, стимулируя кровотечение ран у цели"^w^n(Для любого оружия, щитов, книг и тотемов)
+
+tagGDX1CompA103Name=Печать небес
+tagGDX1CompA103Desc="Печать, впервые начертанная Трозаном, отшельником и магистром тайной магии, призывает силы самих небесных светил"^w^n(Для любого оружия, щитов, книг и тотемов)
+
+tagGDX1CompA104Name=Печать отравы
+tagGDX1CompA104Desc="Печать, налитая силой Троих, что призывает на жертву все болезни и недуги, которыми она болела в прошлом"^w^n(Для любого оружия, щитов, книг и тотемов)
+
+tagGDX1CompA105Name=Печать искажения
+tagGDX1CompA105Desc="Хотя имя создателя этой печати давно позабыто, её способностью проводить эфир нельзя пренебрегать"^w^n(Для любого оружия, щитов, книг и тотемов)
+
+tagGDX1CompA106Name=Печать пустоты
+tagGDX1CompA106Desc="Для сотворения печати сей деяния ужасные надобно свершить. Тот же, кто сию печать использовать станет, как еретик, гнусный и развратный, обличён будет"^w^n(Для любого оружия, щитов, книг и тотемов)
+
+tagGDX1CompA107Name=Печать ночи
+tagGDX1CompA107Desc="Печать, разработанная ночным клинком Амарастой для подготовки к ликвидации необычайно неуловимых целей"^w^n(Для любого оружия, щитов, книг и тотемов)
+
+tagGDX1CompA108Name=Печать разрушения
+tagGDX1CompA108Desc="Печать, созданная во славу Ульзуина, обрекающая на гибель в пламени всех тех, кто презирает небожителей"^w^n(Для любого оружия, щитов, книг и тотемов)
+
+tagGDX1CompA109Name=Печать теней
+tagGDX1CompA109Desc="Любимая печать ночного клинка Нидаллы, наполняющая оружие едкой кислотой"^w^n(Для любого оружия, щитов, книг и тотемов)
+
+tagGDX1CompA110Name=Печать резонанса
+tagGDX1CompA110Desc="Печать, созданная в полном соответствии с особым запросом люминари, наделяет оружие магическими свойствами, даже если его владелец не владеет тайной магией"^w^n(Для любого оружия, щитов, книг и тотемов)
+
+tagGDX1CompA111Name=Порченое сердце
+tagGDX1CompA111Desc="Всё ещё бьётся, отбивая жуткий ритм в унисон с эфирным искажением"^w^n(Для амулетов и медалей)
+
+tagGDX1CompA112Name=Полыхающий рубин
+tagGDX1CompA112Desc="Сверкающее пламя пляшет на гранях этого драгоценного камня"^w^n(Для амулетов и медалей)
+
+tagGDX1CompA113Name=Рунный топаз
+tagGDX1CompA113Desc="Руна, вырезанная на лицевой стороне этого самоцвета, наделяет его защитными свойствами"^w^n(Для колец, амулетов и медалей)
+
+tagGDX1CompA114Name=Кровавый кристалл
+tagGDX1CompA114Desc="Когда-то жемчужно-белый, этот кристалл словно впитал в себя небывалое кровопролитие"^w^n(Для колец, амулетов и медалей)
+
+tagGDX1CompA115Name=Зачарованная земля
+tagGDX1CompA115Desc="Эта земля словно светится жизненной энергией, обещая рост и здоровье"^w^n(Для любой брони)
+
+tagGDX1CompA116Name=Опалённая чарами броня
+tagGDX1CompA116Desc="Остатки доспехов, переживших смертоносную магическую атаку; магические энергии оказались заключены в ловушку внутри металла"^w^n(Для любой брони)
+
+tagGDX1CompA117Name=Клинковая броня
+tagGDX1CompA117Desc="Броня, покрытая рядами смертоносных лезвий, особенно любимая среди разбойников и безжалостных тиранов"^w^n(Для любой брони)
+
+tagGDX1CompA118Name=Угденская кожа
+tagGDX1CompA118Desc="Кожа животных Угденской топи, агрессивная среда обитания которых взрастила одних из наиопаснейших хищников Каирна"^w^n(Для любой брони)
+
+
+tagGDX1CompB101Name=^kСвященный щиток
+tagGDX1CompB101Desc="Щиток из набора некогда могучих доспехов, по слухам, благословлённого самим Эмпирионом"^w^n(Для наплечников, нагрудной брони и шлемов)
+
+tagGDX1CompB102Name=^kЖивая броня
+tagGDX1CompB102Desc="Броневая пластина, большей частью из плоти, чем из металла, извивается в ваших руках. Наверняка, причиной этому послужила обработка брони эфиром"^w^n(Для наплечников, нагрудной брони и шлемов)
+
+tagGDX1CompB103Name=^kЩиток титана
+tagGDX1CompB103Desc="Невероятно толстая броня. Полный набор такой брони должен весить больше, чем любой обычный человек может на себя взвалить, не говоря о том, чтобы сделать в такой броне хоть шаг"^w^n(Для нагрудной брони и шлемов)
+
+tagGDX1CompB104Name=^kЖуткое зеркало
+tagGDX1CompB104Desc="Поверхность зеркала играет всеми цветами радуги, а взгляд в него вызывает жуткую головную боль, будто вы заглянули в совершенно иной мир"^w^n(Для нагрудной брони и шлемов)
+
+tagGDX1CompB105Name=^kПечать уничтожения
+tagGDX1CompB105Desc="Эта мистическая печать призывает к насилию и резне, даже при малейшем прикосновении. Она жаждет смерти"^w^n(Для амулетов)
+
+tagGDX1CompB106Name=^kПечать предков
+tagGDX1CompB106Desc="Эта мистическая печать вызывает воспоминания о ваших предках, даже о тех, кого вы и в глаза не видели при жизни"^w^n(Для амулетов)
+
+
+
+#ItemFactionBoosters
+tagGDX1BoosterCU_A01=Приказ Угденского ковена
+tagGDX1BoosterCU_B01=Мандат Угденского ковена
+tagGDX1BoosterCW_A01=Приказ Могильного кургана
+tagGDX1BoosterCW_B01=Мандат Могильного кургана
+tagGDX1BoosterPM_A01=Приказ жителей Мальмута
+tagGDX1BoosterPM_B01=Мандат жителей Мальмута
+
+tagGDX1BoosterAetherialVanguard_C01=Ордер Авангарда эфириалов
+tagGDX1BoosterWendigo_C01=Ордер Могильного кургана
+tagGDX1BoosterBeast_C01="Ордер" зверей
+tagGDX1BoosterBeastDesc=Тут надпись, явно накорябанная рукою гробла, выглядит она неразборчиво, но отчего-то угрожающе. Внизу нацарапано что-то, отдалённо напоминающее ваш портрет.
+
+#Misc
+
+
+# Bonuses
+
+#Devotion
+
+#Attributes
+tagAttributeReset={^E}Используйте для сброса очков характеристик
+tagAttributeNoPointsUsed={^r}[Нет очков характеристик для сброса]
+tagAttributeResetConfirmation=Сбросить все очки характеристик?
+
+#ItemSets
+tagGDX1ItemSetC018CName=Страдание Алкамоса
+
+tagGDX1ItemSetC101Name=Развратитель духов
+tagGDX1ItemSetC101BName=Развратитель душ
+tagGDX1ItemSetC101Desc="Духи склоняются перед вашей волей"
+
+tagGDX1ItemSetC102Name=Серебряный часовой
+tagGDX1ItemSetC102BName=Серебряный блюститель
+tagGDX1ItemSetC102Desc="Защищённые от магии, серебряные блюстители всегда были бдительны к оккультным угрозам"
+
+tagGDX1ItemSetC103Name=Пламенный пророк
+tagGDX1ItemSetC103Desc="Ваше сердце словно пылающий уголь, неутолимый и жаждущий разрушений"
+
+tagGDX1ItemSetC104Name=Верховный маг
+tagGDX1ItemSetC104Desc="Регалии, некогда принадлежавшие Холгусу Эвеллиону, уважаемому члену императорского двора и мистику"
+
+tagGDX1ItemSetC105Name=Воплощённый ужас
+tagGDX1ItemSetC105Desc="Само присутствие Воплощённого ужаса заставляет окружающую жизнь валиться от неизвестной болезни"
+
+tagGDX1ItemSetC106Name=Регалии люминари
+tagGDX1ItemSetC106Desc="Особая экипировка люминари, выдаваемая высокопоставленным членам ордена для выполнения опасных поручений"
+
+tagItemSetC009BName=Невидящий взор
+tagItemSetC010BName=Долг стрелка
+tagItemSetC011BName=Оскверняющий завет
+tagItemSetC016BName=Парагон Панетти
+tagItemSetC017BName=Щит рассвета
+tagItemSetC021BName=Клятва востока
+tagItemSetC024BName=Пылающий владыка
+tagItemSetC025BName=Защита Каллидора
+tagItemSetC026BName=Оплот мирмидона
+tagItemSetC027BName=Мир Могдрогена
+tagItemSetC028BName=Мистическая буря
+tagItemSetC029BName=Стихийная гармония
+
+
+tagGDX1ItemSetD101Name=Вооружение Крига
+tagGDX1ItemSetD101Desc="Форма бывшего коменданта Чертополоха, навсегда деформированная эфириальной сущностью"
+
+tagGDX1ItemSetD102Name=Мститель природы
+tagGDX1ItemSetD102Desc="Эти доспехи, благословлённые самим Могдрогеном, предназначены для его избранников, что твёрдо встанут на защиту законов природы"
+
+tagGDX1ItemSetD103Name=Пастырь потерянных душ
+tagGDX1ItemSetD103Desc="Великая сила лежит за завесой. Научитесь управлять ей и сама смерть покажется вам развлечением. - Уроборуук"
+
+tagGDX1ItemSetD104Name=Пыл Октавиуса
+tagGDX1ItemSetD104Desc="Октавиус Галладор был одним из самых награждённых охотников среди люминари, занимавшем должность Главы Цитадели до самой смерти"
+
+tagGDX1ItemSetD105Name=Катаклизм
+tagGDX1ItemSetD105Desc="Во имя безопасности всего мира, люминари разделили эти артефакты и укрыли их в разных схронах, дабы никто более не собрал их воедино и их катастрофическая сила никогда не увидела свет"
+
+tagGDX1ItemSetD106Name=Каменный страж
+tagGDX1ItemSetD106Desc="Снаряжение Каменного стража, убеждённого защитника веры Менгира"
+
+tagGDX1ItemSetD107Name=Твердыня Легиона
+tagGDX1ItemSetD107Desc="Амуниция Паллионы Дар, щитоносицы Чёрного легиона"
+
+tagGDX1ItemSetD108Name=Ярость Корбы
+tagGDX1ItemSetD108Desc="Доспехи Корбы, дикой дочери Гротнара, заслужившей прозвище Клык Великого белого волка"
+
+tagGDX1ItemSetD109Name=Наряд тёмного зарева
+tagGDX1ItemSetD109Desc="Экипировка, отмеченная Колдовским богом Солаэлем, дарованная своим слугам во время войны Троих"
+
+tagGDX1ItemSetD110Name=Бич магии
+tagGDX1ItemSetD110Desc="Эти боевые доспехи украшает столь редкий сплав боевого искусства и мастерства мистиков"
+
+tagGDX1ItemSetD111Name=Убийца магов
+tagGDX1ItemSetD111Desc="Доспехи убийц магов, особого подразделения люминари, специально обученных ночными клинками искусству ликвидации магов-изгоев на территории империи"
+
+tagGDX1ItemSetD112Name=Жажда Вальгуура
+tagGDX1ItemSetD112Desc="Став благословлённым Опустошителем духом вендиго, Вальгуур был проклят неутолимой жаждой чужих жизней"
+
+tagGDX1ItemSetD113Name=Начертатель рун
+tagGDX1ItemSetD113Desc="Защитные доспехи Таллиоса Начертателя рун, первого смотрителя Схрона люминари"
+
+tagGDX1ItemSetD114Name=Облачение Уроборуука
+tagGDX1ItemSetD114Desc="Облачения бессмертного некроманта Уроборуука во время своего пребывания в Арковии; ранее его одеяния считались утерянными в веках, однако они по-прежнему полны скрытым потенциалом"
+
+tagGDX1ItemSetD115Name=Шедевр Аллагаста
+tagGDX1ItemSetD115Desc="Мастер Аллагаст был ближайшим союзником люминари, внёсшим большой вклад в изучение и раскрытие потенциала их артефактов"
+
+tagGDX1ItemSetD116Name=Разрушения Дагаллона
+tagGDX1ItemSetD116Desc="Дагаллон был неортодоксальным инквизитором, чьи методы вызвали немало пересудов, хотя мало кого из люминари по-настоящему беспокоит способ казни еретиков"
+
+tagGDX1ItemSetD117Name=Попечитель смерти
+tagGDX1ItemSetD117Desc="Хранитель долины, попечитель последних врат"
+
+tagGDX1ItemSetD118Name=Видения прорицателя
+tagGDX1ItemSetD118Desc="Звёзды хранят множество секретов, но нашёптывают их только тем, кто достаточно дерзок, чтобы выслушивать"
+
+tagGDX1ItemSetD119Name=Дар Тёмного
+tagGDX1ItemSetD119Desc="Дар Х'тона смертным, добивающимся его возвращения"
+
+tagGDX1ItemSetD120Name=Кровопролитие Белготиана
+tagGDX1ItemSetD120Desc="Доспехи Белготиана, печально известного магистра ночных клинков, чья кровожадность и неуёмная тяга к кровопролитию доставляла проблемы даже его работодателям"
+
+tagGDX1ItemSetD121Name=Прихоть Радаггана
+tagGDX1ItemSetD121Desc="Доспехи Астора Радаггана, еретика и предателя люминари, ставшего верным слугой Великого Хранителя"
+
+tagGDX1ItemSetD122Name=Морозный язык
+tagGDX1ItemSetD122Desc="Доспехи Морозного языка, изворотливого дипломата императорского двора, мастера шпионажа и политических диверсий"
+
+tagGDX1ItemSetD123Name=Кровавый рыцарь
+tagGDX1ItemSetD123Desc="Окровавленные доспехи Владыки Назарана, Короля в багрянце, ранее известного как кровавый рыцарь"
+
+
+tagItemSetD001BName=Страж правосудия
+tagItemSetD002BName=Священная гармония
+tagItemSetD003BName=Регалии укротителя природы
+tagItemSetD004BName=Преследующий тьму
+tagItemSetD005BName=Послание предвестника
+tagItemSetD006BName=Судьбоносные знаки
+tagItemSetD007BName=Вооружение демоноборца
+tagItemSetD008BName=Близнецы-разрушители
+tagItemSetD009BName=Авангард дикого сердца
+tagItemSetD010BName=Средоточие ясновидца
+tagItemSetD011BName=Воля Покорителя
+tagItemSetD012BName=Бастион Марковиана
+tagItemSetD013BName=Адское воплощение Ульзуина
+tagItemSetD014BName=Обман Дрига
+tagItemSetD015BName=Тень чистильщика
+tagItemSetD016BName=Единение Искандры
+tagItemSetD017BName=Шторм Ультоса
+tagItemSetD018BName=Небеса Трозана
+tagItemSetD019BName=Предательство Вальдуна
+tagItemSetD020BName=Клятва отравителя
+tagItemSetD021BName=Ковенант чёрного ожога
+tagItemSetD022BName=Страж света
+tagItemSetD023BName=Инфернальный чемпион
+tagItemSetD024BName=Ярость Агривикса
+tagItemSetD025BName=Оплот битворождённого
+tagItemSetD026BName=Бесконечное неистовство Кровожадного
+tagItemSetD027BName=Страшные знаки палача
+
+
+#Prefixes
+tagGDX1PrefixAA101=[ms]просвещённый[fs]просвещённая[ns]просвещённое[np]просвещённые
+
+tagGDX1PrefixAA022=[ms]{^Y}инквизиторский[fs]{^Y}инквизиторская[ns]{^Y}инквизиторское[np]{^Y}инквизиторские
+tagGDX1PrefixAA023=[ms]{^Y}некромантский[fs]{^Y}некромантская[ns]{^Y}некромантское[np]{^Y}некромантские
+
+tagGDX1PrefixAD101=[ms]непробиваемый[fs]непробиваемая[ns]непробиваемое[np]непробиваемые
+
+tagGDX1PrefixAO101=[ms]превосходный[fs]превосходная[ns]превосходное[np]превосходные
+
+tagGDX1PrefixB101_WpnMelee1h_A=[ms]{^G}поглощающий[fs]{^G}поглощающая[ns]{^G}поглощающее[np]{^G}поглощающие
+tagGDX1PrefixB102_WpnMelee1h_A=[ms]{^G}камнеликий[fs]{^G}камнеликая[ns]{^G}камнеликое[np]{^G}камнеликие
+tagGDX1PrefixB103_WpnMelee1h_A=[ms]{^G}рунический[fs]{^G}руническая[ns]{^G}руническое[np]{^G}рунические
+tagGDX1PrefixB104_WpnMelee1h_A=[ms]{^G}укрощающий[fs]{^G}укрощающая[ns]{^G}укрощающее[np]{^G}укрощающие
+tagGDX1PrefixB105_WpnMelee1h_A=[ms]{^G}штормовой[fs]{^G}штормовая[ns]{^G}штормовое[np]{^G}штормовые
+
+tagGDX1PrefixB101_Ar_A=[ms]{^G}камнеликий[fs]{^G}камнеликая[ns]{^G}камнеликое[np]{^G}камнеликие
+tagGDX1PrefixB102_Ar_A=[ms]{^G}рунический[fs]{^G}руническая[ns]{^G}руническое[np]{^G}рунические
+tagGDX1PrefixB103_Ar_A=[ms]{^G}укрощающий[fs]{^G}укрощающая[ns]{^G}укрощающее[np]{^G}укрощающие
+tagGDX1PrefixB104_Ar_A=[ms]{^G}штормовой[fs]{^G}штормовая[ns]{^G}штормовое[np]{^G}штормовые
+
+tagPrefixB022_Class_A=[ms]{^G}тактический[fs]{^G}тактическая[ns]{^G}тактическое[np]{^G}тактические
+tagPrefixB023_Class_A=[ms]{^G}искоренительский[fs]{^G}искоренительская[ns]{^G}искоренительское[np]{^G}искоренительские
+tagPrefixB024_Class_A=[ms]{^G}изменнический[fs]{^G}изменническая[ns]{^G}изменническое[np]{^G}изменнические
+tagPrefixB025_Class_A=[ms]{^G}шпионский[fs]{^G}шпионская[ns]{^G}шпионское[np]{^G}шпионские
+tagPrefixB026_Class_A=[ms]{^G}маголовческий[fs]{^G}маголовческая[ns]{^G}маголовческое[np]{^G}маголовческие
+tagPrefixB027_Class_A=[ms]{^G}поборнический[fs]{^G}поборническая[ns]{^G}поборническое[np]{^G}поборнические
+tagPrefixB028_Class_A=[ms]{^G}отступнический[fs]{^G}отступническая[ns]{^G}отступническое[np]{^G}отступнические
+tagPrefixB029_Class_A=[ms]{^G}рыцарский[fs]{^G}рыцарская[ns]{^G}рыцарское[np]{^G}рыцарские
+tagPrefixB030_Class_A=[ms]{^G}оскверняющий[fs]{^G}оскверняющая[ns]{^G}оскверняющее[np]{^G}оскверняющие
+tagPrefixB031_Class_A=[ms]{^G}каббалистический[fs]{^G}каббалистическая[ns]{^G}каббалистическое[np]{^G}каббалистические
+tagPrefixB032_Class_A=[ms]{^G}жнеческий[fs]{^G}жнеческая[ns]{^G}жнеческое[np]{^G}жнеческие
+tagPrefixB033_Class_A=[ms]{^G}заклинательский[fs]{^G}заклинательская[ns]{^G}заклинательское[np]{^G}заклинательские
+tagPrefixB034_Class_A=[ms]{^G}ритуалистский[fs]{^G}ритуалистская[ns]{^G}ритуалистское[np]{^G}ритуалистские
+tagPrefixB035_Class_A=[ms]{^G}дознавательский[fs]{^G}дознавательская[ns]{^G}дознавательское[np]{^G}дознавательские
+tagPrefixB036_Class_A=[ms]{^G}теургический[fs]{^G}теургическая[ns]{^G}теургическое[np]{^G}теургические
+
+tagGDX1PrefixB101_Sh_A=[ms]{^G}поглощающий[fs]{^G}поглощающая[ns]{^G}поглощающее[np]{^G}поглощающие
+tagGDX1PrefixB102_Sh_A=[ms]{^G}жёлчный[fs]{^G}жёлчная[ns]{^G}жёлчное[np]{^G}жёлчные
+tagGDX1PrefixB103_Sh_A=[ms]{^G}рунический[fs]{^G}руническая[ns]{^G}руническое[np]{^G}рунические
+tagGDX1PrefixB104_Sh_A=[ms]{^G}штормовой[fs]{^G}штормовая[ns]{^G}штормовое[np]{^G}штормовые
+tagGDX1PrefixB105_Sh_A=[ms]{^G}укрощающий[fs]{^G}укрощающая[ns]{^G}укрощающее[np]{^G}укрощающие
+tagGDX1PrefixB106_Sh_A=[ms]{^G}оберегающий[fs]{^G}оберегающая[ns]{^G}оберегающее[np]{^G}оберегающие
+tagGDX1PrefixB107_Sh_A=[ms]{^G}камнеликий[fs]{^G}камнеликая[ns]{^G}камнеликое[np]{^G}камнеликие
+
+
+#Suffixes
+tagGDX1SuffixA101=
+
+tagGDX1SuffixB101_Wpn_A={^G}замученных душ
+tagGDX1SuffixB102_Wpn_A={^G}сохранённых душ
+tagGDX1SuffixB103_Wpn_A={^G}обжигающих рун
+tagGDX1SuffixB104_Wpn_A={^G}пленённых душ
+tagGDX1SuffixB105_Wpn_A={^G}небесного гнева
+
+tagGDX1SuffixB101_Ar_A={^G}замученных душ
+tagGDX1SuffixB102_Ar_A={^G}замученных душ
+tagGDX1SuffixB103_Ar_A={^G}сохранённых душ
+tagGDX1SuffixB104_Ar_A={^G}обжигающих рун
+tagGDX1SuffixB105_Ar_A={^G}пленённых душ
+tagGDX1SuffixB106_Ar_A={^G}пленённых душ
+
+tagGDX1SuffixB101_Sh_A={^G}замученных душ
+tagGDX1SuffixB102_Sh_A={^G}обжигающих рун
+tagGDX1SuffixB103_Sh_A={^G}пленённых душ
+tagGDX1SuffixB104_Sh_A={^G}небесного гнева
+tagGDX1SuffixB105_Sh_A={^G}мистического щита
+tagGDX1SuffixB106_Sh_A={^G}величавости
+
+
+#ItemSkills
+
+
+#LootChests
+
+tagGDX1ChestWoodA01=Потёртый сундук
+tagGDX1ChestAltarD01=Капище вендиго
+tagGDX1ChestMalmouthC01=Стальной сундук
+tagGDX1ChestMalmouthD01=Декорированный сундук
+tagGDX1ChestFleshC01=Сундук из плоти
+tagGDX1ChestFleshD01=Сундук эфироморфов
+
+tagGDX1ChestSpecial01=Богатый сундук
+tagGDX1ChestBucket01=Труп бедолаги
+
+tagGDX1ChestFleshshaper=Сокровищница Повелителя
+tagGDX1ChestNemesis03=Сокровищница гладиатора
+
+tagGDX1ChestSecret01=Клад эфироморфов
+
+tagGDX1BreakableA01=Гнилой пень
+tagGDX1BreakableA02=Тайник ковена
+tagGDX1Breakable_UgdenbogA01=Угденский гриб
+tagGDX1Breakable_WendigoDoor=Клетка вендиго
+
+tagGDX1ChestBoss_Kraken=Полузатопленный сундук
+tagGDX1Chest_Barrowholm=Личный сундук Скорва
+tagGDX1Chest_DravisClue=Старый аналой
+
+tagGDX1ChestBossOneShot_Fleshshaper=Коллекция Повелителя
+tagGDX1ChestOneShot_Flesh=Схрон эфироморфов
+tagGDX1ChestOneShot_GloomwaldHidden=Схрон Нэйна
+tagGDX1ChestOneShot_MalmouthHidden=Схрон Риктора
+
+tagGDX1Chest_MadRamblingsReward=Подарок Ивонды
+tagGDX1Chest_MadRamblingsLoot=Сундук Ивонды
+tagGDX1Chest_MadRamblingsNote=Шкатулка Ивонды
+
+tagGDX1Chest_KatrineCorpse=Останки Катрины
+tagGDX1Chest_RenochCorpse=Останки Риноха
+tagGDX1Chest_UnknownCorpse=Гниющий труп
+
+tagGDX1ChestGauntletChestD01=Забытый реликварий
+
+
+#Interactive Objects
+
+tagGDX1DoorWendigoLocked= {^R} ~ Закрыто Скорвом Эгденором
+tagGDX1DoorPuppetmasterLocked= {^R} ~ Запечатано эфириалами
+tagGDX1DoorSlumsLocked= {^R} ~ Запечатано Сопротивлением
+tagGDX1DoorDocksLocked= {^R} ~ Запечатано эфириалами
+tagGDX1DoorEnclaveLocked= {^R} ~ Запечатано эфириалами
+
+tagGDX1LeverFleshFactory=Эфирный кристалл
+tagGDX1AetherialRift=Разлом эфириалов
+
+
+#Quest Items
+
+
+#Breakables
+tagGDX1Quest_CorpseWagon_01=Телега с трупами
+tagGDX1Quest_FactoryVent=Затянутый плотью люк
+tagGDX1Quest_ObsidianCrystal=Рунный обсидиан
+
+#Dungeon Doors
+tagGDX1UGDoorFactoryEntrance=Затянутый плотью проход
+tagGDX1UGDoorSlums=Свечной квартал
+tagGDX1UGDoorIndust=Литейный квартал
+tagGDX1UGDoorHideout=Убежище Сопротивления
+tagGDX1UGDoorFactoryGeneric=Затянутая плотью дверь
+tagGDX1UGDoorFactoryHeart=Сердце
+tagGDX1UGDoorSewerGeneric=Труба канализации
+tagGDX1RiftVoidExit=Выход из Пустоты
+tagGDX1WendioDoor=Дверь подвала
+tagGDX1WitchDoor=Дверь жилища
+tagGDX1FleshFactoryDoor=Затянутый плотью проход
+tagGDX1DoorMapleStump01=Нора
+tagGDX1DoorOvergrownCave=Заросший проход
+tagGDX1DoorLighthouse=Дверь маяка
+tagGDX1CarraxusDoor=Берлога Карраксуса
+
+tagGDX1DoorOneWayAncientGrove=Проход
+tagGDX1EpicDoor_AncientGrove=Врата Древней рощи
+tagGDX1EpicDoor_AncientGroveLocked= {^R} ~ запечатано Могдрогеном (Требуется скелетный ключ)
+
+#Doors
+tagGDX1Door_Vine=Лоза
+tagGDX1Door_Flesh=Дверь из живой плоти
+tagGDX1Door_Puppetmaster=Дверь из живой плоти
+
+
+#DLC
+tagGDX1DLCIllusionA01=Иллюзия: Доспехи Чёрного рыцаря
+tagGDX1DLCA01=Доспехи Чёрного рыцаря
+tagGDX1DLCA01Desc="Зловещие доспехи Чёрного рыцаря"
+
+tagGDX1DLCIllusionA02=Иллюзия: Доспехи Серебряного рыцаря
+tagGDX1DLCA02=Доспехи Серебряного рыцаря
+tagGDX1DLCA02Desc="Священные доспехи Чёрного рыцаря"
+
+tagGDX1DLCIllusionA03=Иллюзия: Комплект Генерала Драконов
+tagGDX1DLCA03=Комплект Генерала Драконов
+tagGDX1DLCA03Desc="Знаменитый комплект Генерала Драконов"
+
+tagGDX1DLCIllusionA04=Иллюзия: Белый маг
+tagGDX1DLCA04=Одеяния Белого мага
+tagGDX1DLCA04Desc="Загадочные одеяния Белого мага"
+
+tagGDX1DLCIllusionA05=Иллюзия: Тёмный маг
+tagGDX1DLCA05=Одеяния Тёмного мага
+tagGDX1DLCA05Desc="Мерзкие одеяния Тёмного мага"
+
+tagGDX1DLCIllusionA06=Иллюзия: Доспехи Великого волка
+tagGDX1DLCA06=Доспехи Великого волка
+tagGDX1DLCA06Desc="Дикарский доспех Великого волка"
+
+tagGDX1DLCIllusionB01=Иллюзия: божественный доспех Могдрогена
+tagGDX1DLCB01=Божественный доспех Могдрогена
+tagGDX1DLCB01Desc="Доспех зверобога Могдрогена".
+
+tagGDX1DLCIllusionB02=Иллюзия: божественное одеяние Раттоша
+tagGDX1DLCB02=Божественное одеяние Раттоша
+tagGDX1DLCB02Desc="Одеяние Раттоша, хранителя завесы".
+
+tagGDX1DLCIllusionB03=Иллюзия: божественный доспех Эмпириона
+tagGDX1DLCB03=Божественный доспех Эмпириона
+tagGDX1DLCB03Desc="Доспех Эмпириона, величайшего из богов".
+
+tagGDX1DLCIllusionB04=Иллюзия: божественное снаряжение Х'тона
+tagGDX1DLCB04=Божественное снаряжение Х'тона
+tagGDX1DLCB04Desc="Разорванные цепи мёртвого бога Х'тона".
+
+tagGDX1DLCIllusionB05=Иллюзия: одеяние Круга Пяти
+tagGDX1DLCB05=Одеяние Круга Пяти
+tagGDX1DLCB05Desc="Одеяние эфирных владык — Совета Пяти".
+
+tagGDX1DLCIllusionHelmInvisible=Невидимый шлем
+tagGDX1DLCIllusionHelmInvisibleDesc="100% защиты при 0% веса. А теперь и без лактозы"
+
+tagGDX1DLCIllusionShouldersInvisible=Невидимые наплечники
+tagGDX1DLCIllusionShouldersInvisibleDesc="100% защиты при 0% веса. А теперь и без лактозы"
+
+tagGDX1DLCIllusionMedalInvisible=Невидимая медаль
+tagGDX1DLCIllusionMedalInvisibleDesc="100% почёта без проколов на одежде. А теперь и без лактозы"

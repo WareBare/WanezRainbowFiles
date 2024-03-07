@@ -1,0 +1,619 @@
+#Region Names
+
+tagGDX1MapDarkWood=Gloomwald
+tagGDX1MapUgdenbog=Ugdenbog
+tagGDX1MapUgdenbogVillage=Barrowholm
+tagGDX1MapUgdenbogCoven=Skrytá Lóže čarodějek
+tagGDX1MapUgdenbogAltar=Rattoshův oltář
+tagGDX1MapUgdenbogAncient=Doupě starobylých
+
+tagGDX1MapMalmouthEntry=Osamělá hlídka
+tagGDX1MapMalmouthOutskirts=Údolí nářků
+tagGDX1MapMalmouthOutskirtsRuins=Malmouthské předměstí
+tagGDX1MapMalmouthOutskirtsMine=Jerrethonův důl
+tagGDX1MapMalmouth=Malmouth
+tagGDX1MapUgdenbogSlums=Svíčková čtvrť
+tagGDX1MapMalmouthIndustrial=Železný bodec
+tagGDX1MapMalmouthInner=Korunní kopec
+tagGDX1MapMalmouthDocks=Malmouthský přístav
+
+
+#Riftgate Names
+
+tagGDX1RiftGloomwaldEntrance=Gloomwaldská brána
+tagGDX1RiftGloomwaldRiverCrossing=Brána na Gloomwaldské křižovatce
+tagGDX1RiftUgdenbogCoven=Brána ve skryté Lóži čarodějek
+tagGDX1RiftUgdenbogCenter=Brána v Ugdenbogu
+tagGDX1RiftUgdenbogVillage=Brána v Barrowholmu
+tagGDX1RiftMalmouthAetherfire=Brána u Osamělé hlídky
+tagGDX1RiftMalmouthOutskirts=Brána na Malmouthském předměstí
+tagGDX1RiftMalmouthIndustrial=Brána v Železném bodci
+tagGDX1RiftMalmouthInner=Brána na Korunním kopci
+tagGDX1RiftMalmouthSewers=Brána v Malmouthských stokách
+
+#World Map Labels
+
+tagGDX1WorldMapGloomwald=Gloomwald
+tagGDX1WorldMapUgdenbog=Ugdenbog
+tagGDX1WorldMapUgdenbogVillage=Barrowholm
+tagGDX1WorldMapUgdenbogCoven=Skrytá Lóže{^n}čarodějek
+
+tagGDX1WorldMapMalmouthOutskirts=Údolí{^n}nářků
+tagGDX1WorldMapMalmouthOutskirtsRuins=Malmouthské{^n}předměstí
+tagGDX1WorldMapMalmouthMine=Jerrethonův{^n}důl
+tagGDX1WorldMapMalmouthEntry=Osamělá{^n}hlídka
+tagGDX1WorldMapMalmouth=Malmouth
+tagGDX1WorldMapMalmouthSlums=Svíčková{^n}čtvrť
+tagGDX1WorldMapMalmouthIndustrial=Železný{^n}bodec
+tagGDX1WorldMapMalmouthInner=Korunní{^n}kopec
+tagGDX1WorldMapMalmouthDocks=Malmouthský{^n}přístav
+tagGDX1WorldMapMalmouthFactory=Jatka
+
+tagGDX1WorldMapBeastRoguelike=Starověký{^n}hrob
+
+
+
+#Underground Names
+
+tagGDX1UGUgdenbogMine01=Barrowholmský důl
+tagGDX1UGUgdenbogCave01=Janaxiino doupě
+tagGDX1UGUgdenbogCave02=Larriin brloh
+tagGDX1UGUgdenbogCave03=Podrost
+tagGDX1UGUgdenbogCave04=Ugdallova hrobka
+tagGDX1UGUgdenbogCave05=Carraxovo doupě
+tagGDX1UGUgdenbogCellar01=Zaroslý sklep
+tagGDX1UGUgdenbogCellar02=Zchátralý sklep
+tagGDX1UGUgdenbogWendigo01=Polorozpadlý sklep
+tagGDX1UGUgdenbogWendigo02=Doupě Wendiga
+tagGDX1UGUgdenbogVoidRift01=Zpustlá pustina
+tagGDX1UGUgdenbogVoidRift02=Seškvařená pustina
+tagGDX1UGUgdenbogVoidRift03=Konec Prázdnoty
+tagGDX1UGUgdenbogVoidRift04=Mezní příčetnost
+
+tagGDX1UGMalmouthSewer01=Malmouthské stoky
+tagGDX1UGMalmouthSewer02=Vyvýšené hlubiny
+tagGDX1UGMalmouthHideout01=Skrýš ve stokách
+tagGDX1UGMalmouthHideout02=Skrýš Obránců Malmouthu
+tagGDX1UGMalmouthOutskirtsCellar01=Hořící sklep
+tagGDX1UGMalmouthAetherialFactory01=Zamořená továrna
+tagGDX1UGMalmouthAetherialFactory02=Jatka
+tagGDX1UGMalmouthAetherialFactory03=Zvěřinec
+tagGDX1UGMalmouthAetherialFactory04=Lůno
+tagGDX1UGMalmouthAetherialFactory05=Svatyně masa
+tagGDX1UGMalmouthCathedral01=Hrobka Heralda Mathise
+tagGDX1UGMalmouthCathedral01B=Ivondin úkryt
+tagGDX1UGMalmouthLighthouse01=Vypleněný maják
+tagGDX1UGMalmouthFort01=Komnata Nejvyšší rady
+
+tagGDX1UGAncientGrove01=Starodávný háj
+tagGDX1UGAncientGrove01A=Divoká houština
+tagGDX1UGAncientGrove01B=Otrávený les
+tagGDX1UGAncientGrove01C=Srdce lesa
+tagGDX1UGAncientGrove01D=Zkouška zkaženosti
+
+tagGDX1UGSecret01=Svatyně Vyvoleného
+tagGDX1UGSecret02=Aréna smrti
+
+#Signs
+
+tagGDX1Sign_DarkWoodRoad=Trnité pobřeží
+tagGDX1Sign_UgenbogVillage=Barrowholm
+tagGDX1Sign_UgenbogMine=Barrowholmský důl
+tagGDX1Sign_Malmouth=Malmouth
+tagGDX1Sign_MalmouthSlums=Svíčková čtvrť
+tagGDX1Sign_MalmouthIndustrial=Železný bodec
+tagGDX1Sign_MalmouthInner=Korunní kopec
+tagGDX1Sign_MalmouthDocks=Malmouthský přístav
+
+tagGDX1Gravestone_DC01=Zde leží: Sahdina
+tagGDX1Gravestone_DC02=Zde leží: Harmond
+tagGDX1Gravestone_DC03=Zde leží: Rook
+tagGDX1Gravestone_DC04=Zde leží: Kerrick
+
+
+#Points of Interest
+
+tagGDX1POICarraxusDenA=Vstup do Carraxova doupěte
+tagGDX1POICarraxusDenB=Východ z Carraxova doupěte
+
+tagGDX1POIBarrowholm=Barrowholm
+
+tagGDX1POIAbandonedMineA=Vstup do Barrowholmského dolu
+tagGDX1POIAbandonedMineB=Východ z Barrowholmského dolu
+
+tagGDX1POIBarrowholmCellarA=Vstup do Barrowholmských sklepení
+tagGDX1POIBarrowholmCellarB=Východ z Barrowholmských sklepení
+
+tagGDX1POIWendigoCaveA=Vstup do doupěte Wendiga
+tagGDX1POIWendigoCaveB=Východ z doupěte Wendiga
+
+tagGDX1POIJanaxiaDenA=Vstup do Janaxiina doupěte
+tagGDX1POIJanaxiaDenB=Východ z Janaxiina doupěte
+
+tagGDX1POILarriaDenA=Vstup do Larriia brlohu
+tagGDX1POILarriaDenB=Východ z Larriia brlohu
+
+tagGDX1POITheUndergrowthA=Vstup do Podrostu
+tagGDX1POITheUndergrowthB=Východ z Podrostu
+
+
+tagGDX1POI001A=Vstup
+tagGDX1POI001B=Východ
+
+tagGDX1POIFloodedPassageA=Vstup do Zaplaveného průchodu
+tagGDX1POIFloodedPassageB=Východ ze Zaplaveného průchodu
+
+tagGDX1POI_BeastRoguelike01A=Vstup do Starodávného háje
+tagGDX1POI_BeastRoguelike01B=Východ ze Starodávného háje
+tagGDX1POI_BeastRoguelike02A=Vstup do Divoké houštiny
+tagGDX1POI_BeastRoguelike02B=Východ z Divoké houštiny
+tagGDX1POI_BeastRoguelike03A=Vstup do Otráveného lesa
+tagGDX1POI_BeastRoguelike03B=Východ z Otráveného lesa
+tagGDX1POI_VoidExit=Východ z Prázdnoty
+
+tagGDX1POI_CandleDistrictEntrance=Svíčková čtvrť
+tagGDX1POI_CandleDistrictExit=Skrýš obránců
+tagGDX1POI_CrownHillRiftgate=Brána na Korunním kopci
+tagGDX1POI_FactoryEntrance=Vstup do Továrny
+tagGDX1POI_FactoryExit=Východ z Továrny
+tagGDX1POI_FactoryHeartEntrance=Vstup do Svatyně masa
+tagGDX1POI_FactoryHeartExit=Východ ze Svatyně masa
+tagGDX1POI_GatesOfMalmouth=Malmouthské brány
+tagGDX1POI_MalmouthDocks=Černoželezné doky
+tagGDX1POI_MalmouthDocksEntrance=Vstup do Černoželezných doků
+tagGDX1POI_MalmouthDoor=Černoželezné dveře
+tagGDX1POI_MQSewersEntrance=Vstup do Malmouthských stok
+tagGDX1POI_MQSewersExit=Východ z Malmouthských stok
+tagGDX1POI_ResistanceBase=Tvrz Obránců
+tagGDX1POI_ResistanceHideout=Skrýš Obránců
+tagGDX1POI_SteelcapDistrictEntrance=Železný bodec
+tagGDX1POI_SteelcapDistrictExit=Útočiště Obránců
+tagGDX1POI_FleshwrappedEnclaveEntrance=Vstup do Komnaty Nejvyšší rady
+tagGDX1POI_FleshwrappedEnclaveExit=Východ z Komnaty Nejvyšší rady
+tagGDX1POI_TheWomb=Lůno
+tagGDX1POI_BridgeLever=Ovládání Malmouthského mostu
+
+
+
+
+#Notifications
+
+tagNotification_AreaE_Barrowholm_Clue01=Ze suterénu slyšíš nějaké zneklidňující zvuky...
+tagNotification_AreaE_Barrowholm_Clue02=Barrowholm má jistě velmi pestrou historii...
+tagNotification_AreaE_Barrowholm_Clue03=V tomto receptu něco úplně nesedí...
+tagNotification_AreaE_Barrowholm_CellarOpen=Scorvův klíč vypadá, že jím půjde odemknout zámek od dveří do sklepa...
+
+tagNotification_AreaF_OuterBridgeRiftgateEvent=Kolem Brány se to hemží Aetheriany.
+tagNotification_AreaF_OuterBridgeRiftGateEventClear=Brána je zproštěna nepřátel.
+tagNotification_AreaF_RebelBaseRiftgateEvent=Základnu Obránců obklopují Aetheriané.
+tagNotification_AreaF_RebelBaseRiftgateEventClear=Základna je odproštěna od nepřátel.
+tagNotification_AreaF_LiberateRebels01Found=Nedaleká skupina vězňů volá o pomoc.
+tagNotification_AreaF_LiberateRebels02Found=Někdo tady poblíž křičí o pomoc.
+tagNotification_AreaF_EmberCrags=Podařilo se ti uprchnout z Prázdnoty a dostat se na předměstí Malmouthu!
+tagNotification_AreaF_MadRamblingsDoorOpened=Slyšíš poblíž sebe rachot padajícího kamení...
+tagNotification_AreaF_CantLeaveThem=Bohužel na záchranu těchto lidí je příliš pozdě...
+tagNotification_AreaF_CantLeaveThemNoQuest=To co udělali těmto lidem je... zneklidňující...
+tagNotification_AreaF_DocksRiftgateEvent=Černoželezné doky jsou zamořené nepřáteli.
+tagNotification_AreaF_DocksEventFinished=Aetheriané v Černoželezných docích byli poraženi!
+
+tagNotification_WarningAncientGroveGates=Cesta do Starodávného háje je otevřena. Ale pospěš, chodba nebude přístupná dlouho...
+tagNotification_WarningAncientGroveGatesLocked=Starodávný háj je zapečetěn a v této herní relaci se ti jej už nepodaří otevřít.
+tagNotification_WarningAncientGroveChallenge=Zkaženost odezněla!
+
+tagNotification_WarningAreaFSecret01=Malá vzpomínka na Sahdinu, která zůstala v tom masakru...
+
+#NPC Names
+
+tagGDX1NPC_AreaE_01=Garradia
+tagGDX1NPC_AreaE_02=Matróna Malostria
+tagGDX1NPC_AreaE_03=Jasnovidka Rugia
+tagGDX1NPC_AreaE_04=Scorv Egdenor
+tagGDX1NPC_AreaE_05=Tyvald Hallows
+tagGDX1NPC_AreaE_06=Pustošitel
+tagGDX1NPC_AreaE_07=Ugdall
+tagGDX1NPC_AreaE_08=Krvepřísežnice Nimia
+tagGDX1NPC_AreaE_09=Jordyth Evelline
+tagGDX1NPC_AreaE_10=Aurin Evelline
+tagGDX1NPC_AreaE_11=Bowen Ostarg
+tagGDX1NPC_AreaE_12=Leora Karns
+tagGDX1NPC_AreaE_13=Larria
+tagGDX1NPC_AreaE_14=Amala Torven
+tagGDX1NPC_AreaE_15=Garett Torven
+tagGDX1NPC_AreaE_16=Thomas
+tagGDX1NPC_AreaE_17=Nathan
+tagGDX1NPC_AreaE_18=Maurene
+tagGDX1NPC_AreaE_19=Aeyla
+tagGDX1NPC_AreaE_20=Annaria
+tagGDX1NPC_AreaE_21=Nuralla
+tagGDX1NPC_AreaE_22=Aetherická bariéra
+tagGDX1NPC_AreaE_23=Rattoshův oltář
+tagGDX1NPC_AreaE_24=Krvonosič Rodrig
+tagGDX1NPC_AreaE_25=Krvepřísežnice Naea
+tagGDX1NPC_AreaE_26=Nidalia
+tagGDX1NPC_AreaE_27=Seržant Havos
+tagGDX1NPC_AreaE_28=Strážkyně Syndia
+
+tagGDX1WitchWard=Totem ochrany
+
+tagGDX1NPC_AreaF_01=Korinia
+tagGDX1NPC_AreaF_02=Kapitán Wilfor
+tagGDX1NPC_AreaF_03=Ivonda
+tagGDX1NPC_AreaF_04=Rivia Hol
+tagGDX1NPC_AreaF_05=Allostria
+tagGDX1NPC_AreaF_06=Nadia
+tagGDX1NPC_AreaF_07=Rena
+tagGDX1NPC_AreaF_08=Hyram
+tagGDX1NPC_AreaF_09=Markus
+tagGDX1NPC_AreaF_10=Farron
+tagGDX1NPC_AreaF_11=Kaylon
+tagGDX1NPC_AreaF_12=Podivná formace krystalů
+tagGDX1NPC_AreaF_13=Odložené zbraně
+tagGDX1NPC_AreaF_14=Odložené alchymistické zásoby
+tagGDX1NPC_AreaF_15=Karna
+tagGDX1NPC_AreaF_16=Nella
+tagGDX1NPC_AreaF_17=Garrund
+tagGDX1NPC_AreaF_18=Henry
+tagGDX1NPC_AreaF_19=Ginny
+tagGDX1NPC_AreaF_20=Eraline
+tagGDX1NPC_AreaF_21=Thad
+tagGDX1NPC_AreaF_22=Ničitel Lůna
+tagGDX1NPC_AreaF_23=Nicoh Erin
+tagGDX1NPC_AreaF_24=Nissa
+tagGDX1NPC_AreaF_25=Timor
+tagGDX1NPC_AreaF_26=Rictor Clarke
+tagGDX1NPC_AreaF_27=Vivian Neven
+
+tagNPC_UgdenbogBridge=Staveniště mostu do Ugdenbogu
+
+tagGDX1_NPC_S=Lokarr
+tagGDX1_NPC_S_H=(S) {^F}Lokarrovo hledí
+tagGDX1_NPC_S_S=(S) {^F}Lokarrův plášť
+tagGDX1_NPC_S_T=(S) {^F}Lokarrův kabát
+tagGDX1_NPC_S_F=(S) {^F}Lokarrovy boty
+tagGDX1_NPC_S_Set=Lokarrovy zmetky
+tagGDX1_NPC_S_SetDesc="Ozdoby poloboha, získané v krvavém souboji."
+
+
+#Flavor NPC Names
+
+tagGDX1NPC_Flavor_AreaE_01=Callia
+tagGDX1NPC_Flavor_AreaE_02=Ralkama
+tagGDX1NPC_Flavor_AreaE_03=Wuulavia
+tagGDX1NPC_Flavor_AreaE_04=Hastria
+tagGDX1NPC_Flavor_AreaE_05=Lagarria
+tagGDX1NPC_Flavor_AreaE_06=Andros
+tagGDX1NPC_Flavor_AreaE_07=Ivok
+tagGDX1NPC_Flavor_AreaE_08=Terise
+tagGDX1NPC_Flavor_AreaE_09=Arina
+tagGDX1NPC_Flavor_AreaE_10=Kalive
+tagGDX1NPC_Flavor_AreaE_11=Markon
+tagGDX1NPC_Flavor_AreaE_12=Sherna Stol
+
+tagGDX1NPC_Flavor_AreaF_01=Markiv
+tagGDX1NPC_Flavor_AreaF_02=Orlon
+tagGDX1NPC_Flavor_AreaF_03=Hagarond
+tagGDX1NPC_Flavor_AreaF_04=
+tagGDX1NPC_Flavor_AreaF_05=
+tagGDX1NPC_Flavor_AreaF_06=
+
+
+#Quest Items
+
+tagQuestItemCovenTribute=Carraxovo srdce
+tagQuestItemCovenTributeDesc="Zvláštně tvarované srdce obrovského korýše. Páchne mořskými řasami."
+
+tagQuestItemCovenRitual=Fetiš z Ugdenbogu
+tagQuestItemCovenRitualDesc="Fetiš se zdá být poškozená, pravděpodobně neopatrným zacházením, ale je to přesně ta, kterou chtěla Garradia."
+
+tagQuestItemInquisitorsRune=Creedův přívěsek
+tagQuestItemInquisitorsRuneDesc="Na první pohled se zdá, že se jedná o obyčejný přívěsek s ozdobnou runou uprostřed. Přesto z něj vychází moc."
+
+tagGDX1QuestItemUlgrimHeirloom=Ulgrimova památka
+tagGDX1QuestItemUlgrimHeirloom_Desc="Poměrně světský předmět s ohledem na svou moc. Inkvizitor Creed v něm vidí naději na nalezení místa, kde se může Ulgrim nacházet."
+tagGDX1QuestItemUlgrimHeirloom02=Ulgrimova památka
+tagGDX1QuestItemUlgrimHeirloom02_Desc="Označen magií Čarodějnic, což by mohlo, alespoň doufejme, otevřít cestu k Ulgrimovi."
+
+tagGDX1QuestItemCellarKey_Name=Klíček od sklepa z Barrowholm
+tagGDX1QuestItemCellarKey_Desc="Obyčejný kovaný klíček. Vypadá mnohem starší a opotřebovanější než cokoliv jiného v celém Barrowholmu."
+
+
+
+tagGDX1QuestItemCovenMaterial_01=Jedová žluč
+tagGDX1QuestItemCovenMaterial_01_Desc="Smrdí hůř než vypadá."
+tagGDX1QuestItemCovenMaterial_02=Roh listohřívného alfa samce
+tagGDX1QuestItemCovenMaterial_02_Desc="I přes hluboké škrábance je neporušený, pravděpodobně z těžkého souboje o pozici alfa samce."
+
+tagGDX1QuestItemWendigoHeart_01=Handarrothovo srdce
+tagGDX1QuestItemWendigoHeart_01_Desc="Hlasitý tlukot srdce se rozléhá po okolí i po smrti příšery."
+tagGDX1QuestItemWendigoHeart_02=Olliviothovo srdce
+tagGDX1QuestItemWendigoHeart_02_Desc="Hlasitý tlukot srdce se rozléhá po okolí i po smrti příšery."
+tagGDX1QuestItemWendigoHeart_03=Yuvollothovo srdce
+tagGDX1QuestItemWendigoHeart_03_Desc="Hlasitý tlukot srdce se rozléhá po okolí i po smrti příšery."
+
+tagGDX1QuestItemDravisClue_01=Dravisův dopis
+tagGDX1QuestItemDravisClue_01_Desc=Drahá sestro,{^n}opět jsem se načapal při tom, že ti vlastně nemám co říct. Proč pořád bráníš svou vlastní krev? Proč se ke mně nechceš znát, když jsem tak blízko pravdě?{^n}{^n}Ale ať už tak či onak, brečet nad posledním vydechnutím našeho otce budu s tebou nebo bez tebe. Pokud tohle čteš, tak je to samozřejmě zase pozdě, protože jsem se odvážil tam, kam mrtví nechodí, tam, kde se krev žijících spojuje s mistrem. Čas k tomu, aby ses ke mně přidala, dávno minul, drahá Dailo. Takže se vrať zpátky, protože tam, kam mířím, nemůžeš jít se mnou...{^n}Dravis
+
+tagGDX1QuestItemDravisClue_02=Dravisova nabídka
+tagGDX1QuestItemDravisClue_02_Desc="Ke květině je připíchnuta poznámka: Pichlavá kytka pro pichlavou ženskou. -D"
+
+tagGDX1QuestItemMadRamblings_01=Ivondina vzpomínka
+tagGDX1QuestItemMadRamblings_01_Desc="Psaní je povětšinou plné šílených překlepů a nesmyslů, ale některé pasáže jsou poměrně zajímavé. Teda pokud by dávaly aspoň trochu smysl."
+
+tagQuestItemRebelBomb=Bomba Obránců
+tagQuestItemRebelBombDesc="Improvizovaná výbušnina. Nepůsobí, že by způsobila nějaké velké škody."
+tagQuestItemCreedsAdditive=Creedova přísada
+tagQuestItemCreedsAdditiveDesc="Pastovitý odvar zatuchlého zápachu. Inkvizitor Creed se dušuje, že Bomba Obránců bude s touto příměsí mnohem působivější."
+
+
+#Journals
+
+tagGDX1LoreObj_InquisitorCreedA09Name=Deník inkvizitora Creeda - 9. zápis
+tagGDX1LoreObj_InquisitorCreedA09codexTitle=Inkvizitor Creed - 9. zápis
+tagGDX1LoreObj_InquisitorCreedA09Text=S pomocí Osvobozeného jsme zasadili poměrně zásadní ránu Kultu Ch'thona. Nechci nějak snižovat důležitost tohoto aktu, ale vzhledem k naší síle a omezeným zdrojům mi přijde, že nás to stálo více než by bylo vhodné. A zatímco jsme se zabývali uzavřením Loghorreanova vstupu na tento svět, Aetheriané nezaháleli.{^n}{^n}Mnozí z Ďáblova průsmyku zaplatili velmi vysokou cenu, ale taková už válka bývá, a ačkoliv to může znít jakkoliv tvrdě, ty oběti za to stály. Ztratili jsme jen hrstku přeživších a zároveň zabránili přívalu další obrovské armády z Prázdnoty, která by mohla zaplavit náš svět. Můžeme to tedy brát jako dílčí výhru pro lidstvo.{^n}{^n}Znepokojuje mne ztráta Ulgrima kdesi v Prázdnotě. Bourbon zjevně nesdílí můj zájem a myslí si o mně, že jsem hodně sentimentální. Bourbon viděl Ulgrima, ale jsem si jistý, že pro něj znamenal mnohem víc. Jsem přesvědčený, že ho ctí jako člověka, který se stal polobohem.{^n}{^n}Ulgrim dokáže předstírat velmi žoviální a nesnesitelnou povahu, ale soudě dle jeho očí má v sobě mnohem víc. Dokázal si dát dvě a dvě dohromady a veškeré poznatky logicky pospojovat, navíc získal i některé velmi důležité osobní vzpomínky. I přes všechen jeho černý humor se držel nohama na zemi a byl svědkem mnohých událostí. Myslím, že mnohem více, než je možné zvládnout za jeden lidský život.{^n}{^n}I po tom všem, i když se to snažil bagatelizovat, měl Ulgrim na chlapa středního věku pozoruhodnou sílu a energii. Často se pohyboval zlehka a uvolněně, naprosto v klidu, ale jakmile šlo do tuhého, uměl zabrat a hýbat se neuvěřitelnou rychlostí.{^n}{^n}Jsem si jistý, že mohl udělat v boji proti nepřátelům lidstva mnohem víc, takže moc nechápu, proč se držel tolik stranou. Pravděpodobně se to už nikdy nedozvím. Možná má Bourbon pravdu, možná že je Ulgrim ztracený někde v Prázdnotě. Nějak tuším, že ještě zasáhne do našich životů, a pokud tomu tak bude, nejspíše dojde i k potvrzení mých domněnek.{^n}{^n}A tak opět v těchto těžkých časech znovu povstává bezejmenný hrdina odříznutý z oprátky, aby se stal největším hrdinou všech dob.{^n}{^n}Pokud Osvobozený bude pokračovat po své cestě a přežije tuhle válku, pak by mě zajímalo, zda bude jeho hvězda i nadále stoupat.
+
+tagGDX1LoreObj_InquisitorCreedA10Name=Deník inkvizitora Creeda - 10. zápis
+tagGDX1LoreObj_InquisitorCreedA10codexTitle=Inkvizitor Creed - 10. zápis
+tagGDX1LoreObj_InquisitorCreedA10Text=Osvobozený si proklestil cestu z Burrwitche skrz Gloomwald, aby sestoupil zpátky do samotné Prázdnoty, kde se nesetkal s nikým ne méně důležitým než byl samotný Ulgrim. Nyní se mi zdá nemožné zapudit myšlenku, že se z Ulgrima stane legenda a nesmrtelný super hrdina.{^n}{^n}Tak jako jsem vděčný za to, že máme v této válce tak mocného spojence na své straně, na druhou stranu se cítím trochu nesvůj, když je někde poblíž. Jsem znepokojen z nedávných zvěstí o Ulgrimovi a Mogdrogenovi, aby se náhodou ostatní božstva nezačala příliš zapojovat do světských záležitostí. Jak se říká, něco podobného už tady kdysi dávno bylo.{^n}{^n}Vede mne to zpět k zahalenému tajemství mistra Kymona. Je zjevné, že on a jeho věřící přitahují moc nějakého jiného božstva, ale kdo nebo co to je? Velmi pochybuji o Kymonově tvrzení, že je to samotný Empyrion, kdo jej vede, ačkoliv to stále tvrdí. Sílu, kterou pociťuji od Kymonova vyslance z Homesteadu, byla taková... zlovolná.{^n}{^n}Kymon kdysi patřil mezi bratrstvo inkvizitorů, ale několik let před Ponurým úsvitem se stal zlodějem. Zřejmě není jedním z Aetherianů, ale soudím, že se umluvil nějaké neznámé zlé síle. Navíc kdyby se Empyrion, podle legendy nejvyšší bůh, vrátil zpět do Cairnu, jeho sílu by pocítilo větší množství lidí než jen jeden bezvýznamný fanatik vedoucí skupinku podivných existencí.{^n}{^n}Nicméně ať už stojí za Kymonovými Vyvolenými cokoliv, má to zjevně významnou sílu. Jsem znepokojen tím, že neznám jeho identitu nebo snad motivaci.
+
+#AreaE Notes
+#Barrowholm_01
+tagGDX1LoreObj_AreaE_Barrowholm_A01Name=Co má budoucnost?
+tagGDX1LoreObj_AreaE_Barrowholm_A01Text=V těchto těžkých časech se často přistihnu, jak se modlím. Mé myšlenky naplňují otázky, na které si nedokážu odpovědět. A nebo, pokud bych to dokázal, jsem si jist, zda je chci skutečně znát?{^n}{^n}Bohové nám opravdu tvoří spletité cesty. Náš patron dává i bere, ale věřím, že je velkorysý hlavně k těm, kteří nekladou žádné otázky. Nyní rozumím smyslu naší existence, že naše rozhodnutí mají nějaké následky a že musíme mít hlavy skloněné k tomu, co nám bylo dáno.{^n}{^n}Nikdy nesmíme zapomenout, že bez Něho bychom nebyli vůbec nic. Naše domovy by nám vzala voda z močálů a naši lidé by byli povražděni wendigy, jež jsou naprosto šílení. Z nich si musíme vzít příklad. Za naší neposlušnost následuje smrt a tak musíme zůstat silní v našem odhodlání.
+
+#Barrowholm_02
+tagGDX1LoreObj_AreaE_Barrowholm_A02Name=Aurinin recept
+tagGDX1LoreObj_AreaE_Barrowholm_A02Text=Pořádný kus masa je v těchto dnech spíš vzácností, takže je nutné, abychom se radovali z každé příležitosti, než abychom byli pořád vážní. No a protože z našich lomů zbyly jen drobné kamínky, tak jsem se rozhodla potěšit se čerstvě zabitým jelenem. Nejdřív se mi teda chtělo z toho zvracet, ale pak jsem si začala to jemné maso skutečně vychutnávat.{^n}{^n}Jako jeden z největších oblíbenkyň ve Scorvově bandě jsem si mohla vždycky dovolit vybírat z těch nejkvalitnějších částí, takže jsem si s potěšením vybírala masitá stehýnka nebo prsíčka. Navíc jsem vyžadovala, aby nebyly vyndavány kosti, protože po uvaření tomu dodávají opravdu výtečnou chuť a maso zůstává krásně šťavnaté. Nicméně po krátkém experimentování jsem došla k závěru, že největší zadostiučinění je pro mně pouze krátce povařená surovina.{^n}{^n}S trochou najemno pokrájené černé cibule a posekanými Wightmirskými bylinkami dosáhlo maso takových chuťových rozměrů, že mi musel závidět úplně každý obyvatel v Barrowholmu. Trik je v tom, že zatímco cibule a koření jsou na povrchu masa, všechna šťávička zůstává pěkně uvnitř.{^n}{^n}Sám Scorv říkal, že ta moje inspirace dokáže zahnat i skutečný hlad, ale já vím, že to říkal pouze proto, aby povzbudil mou ješitnost. Ale takové chvály já nejsem vůbec hodna.{^n}{^n}-Aurin Evelline
+
+#Barrowholm_03
+tagGDX1LoreObj_AreaE_Barrowholm_A03Name=Díky svému tělu jsem se stala jeho Vyvoleným
+tagGDX1LoreObj_AreaE_Barrowholm_A03Text=Nikdy jsem tomu nepřišla na chuť.{^n}{^n}Zpočátku to bylo naprosto odporné. Svalovina byla tuhá a ta pachuť mi znemožňovala polknout byť jen jediné sousto, protože kdo by jedl syrové maso. Ale Scorv trval na tom, že je nutné přijímat dary Velikého a musíme se naučit mít požitek z přírody, bez nějakého koření či tepelné úpravy.{^n}{^n}Dlouho jsem odolávala, stejně jako ostatní, ale po čase mi to nějak začalo chutnat. Ta čerstvá krev, která mi tepala mezi zuby, ta železitá chuť a teplo, které mi ulpívalo na jazyku... Hlad mi možná trochu vypomohl, tím jsem si jistá, ale teď mne trochu běhá mráz po zádech, když pomyslím na příští oběť. Věřím, že to je to, o čem Scorv mluvil, když chtěl, abychom byli blíž našemu mistrovi.{^n}{^n}Vzrušení, energie, změna... cítím se proměněná. Roste to ve mně. Začalo to ztmavením mých očí hlubokou karmínovou barvou. Společníci, kteří ještě nejsou na konci své cesty, vyjádřili obavy z bolesti v kostech pronikající do celého těla. Scorv nás ale ujistil, že to je zcela normální a že to přejde.{^n}{^n}Ať už mi to přinese jakoukoliv změnu, s radostí na to čekám, i když jsem trošku rozrušená. Jediné, co si přeji, je být blíže Pustošiteli.{^n}{^n}-Olidia
+
+#Barrowholm_04
+tagGDX1LoreObj_AreaE_Barrowholm_A04Name=Pustošitel
+tagGDX1LoreObj_AreaE_Barrowholm_A04Text=Křivda. To je celý příběh Velikého. Křivda a zrada.{^n}{^n}Pustošitel jednou přišel mezi nás, nádherná stvoření, ztělesnění rovnováhy přírody. Dostal se mezi své uctívače a dal jim mnoho darů. Ale nebyl jediný, kdo byl požehnán takovou mocí.{^n}{^n}Bůh všech nestvůr se převtělil do jednoho z Pustošitelových vyznavačů. Pod rouškou temnoty vyhledal bůh Pustošitelovo doupě a s pomocí jeho vlastních otroků vyhnal Velikého z tohoto světa.{^n}{^n}Bez těla a zapomenutý se Pustošitele vrhl proti svému duchovnímu vězení. Pokusil se vrátit do našeho světa a ospravedlnit se ze špatností na něm spáchaných; a skrze naše oběti se blíží den jeho soudu. Budeme stoupenci jeho víry a patroni jeho milosrdenství. A až se Pustošitelovy čelisti zatnou do hrdla jeho zrádce, budeme chlemtat jeho krev a povstaneme nad těmi, kdo nás ponižovali.
+
+#DarkWood_01
+tagGDX1LoreObj_AreaE_NoteA01Name=Krví nasáklá čmáranice
+tagGDX1LoreObj_AreaE_NoteA01Text=Z Burrwitche jsme vypadli ani ne před tejdnem. Dělo se tam něco divnýho a báby povídaly, že kolem Kriegovy rezidence se pohybuje cosi divnýho. Frasier tak dostal ten pitomej nápad, že bysme se měli zdejchnout a dát se na sever. Že prej je docela pěkný město hnedka po cestě. Věděl to dobře, protože tam necelej rok žil. Takže jenom řek, že dostat se tam možná bude těžký, ale pokud zůstanem pohromadě, tak to dáme. Větší hovadinu vymyslet nemohl.{^n}{^n}Nebyli jsme víc jak den z města a věci se začly srát. Nejdřív dostala Beatrix šílenou horečku. Její pleť úplně zbledla a oči byly totálně skelný. Tu noc na nás začala vyjíždět, celá se třásla, furt blila a řvala, že v lese je nějaká příšera, co na ní pořád čumí. Další den se to samý stalo Heinrichovi.{^n}{^n}S oběma nemocnejma se naše cesta výrazně zpomalila. Frasier a já jsme je táhli za sebou na provizorních sáňkách. Na to, abysme se vrátili zpátky do Burrwitche, jsme byli už kurva daleko, ale Frasier řek že zná hospodu necelej den cesty od nás, takže jsme pokračovali v cestě. Jenže když jsme se tam konečně dostali, tak nikde nikdo a ve vzduchu smrděla smrt. Jenže jsme byli totálně v pr... zoufalí a potřebovali jsme nějakej úkryt a tak jsme tam zůstali.{^n}{^n}Tu noc začal ten bordel. Frasier mi tvrdil že nic neslyší, ale já to slyšela dost hlasitě a jasně. Znělo to jako bručení nějakýho zvířete, který se hejbalo hnedle za hospodou. Během noci to pokračovalo, ten hluk byl čím dál hlasitější a já si začla připadat, že jsem nějakej magor. Frasier mně totiž furt ujišťoval, že vůbec nic neslyší a já to přitom slyšela jako by to bylo hned za zdí hospody. Za rozbřesku jsem se nechtěla odtamtud hnout, ale Frasier mně dotáhnul ven a ukázal mi to místo za hospodou, kde nic nebylo. Ale měli jsme pokračovat v cestě, protože bysme jinak asi nebyli úplně v bezpečí. Takže jsme se dál táhli se sáněma po zarostlý silnici bůh ví kam na sever.{^n}{^n}Jak jsme šli dál, slyšela jsem, jak nás něco pronásleduje. Stav Beatrix a Heinricha se z minuty na minutu brutálně zhoršil a zanedlouho jsme byli utahaní i my dva tím, jak jsme je vláčeli na saních. Moje ruce byly samej puchejř a nohy jsem měla rozdrápaný z tý hrbolatý cesty plný bordelu a keřů. Frasier navrhnul, ať je tam necháme, ale s tím jsem odmítala souhlasit. To prostě nešlo. Kurevsky jsme se zhádali do krve a čím dál víc jsme byli nasranější. V tu chvíli vytáhnul Frasier svojí táborovou sekeru a začal vyhrožovat, že je na místě zabije. Že prej pokud je tam nenechám, tak to udělá právě kvůli mně. Úplně si nevybavuju, co se pak stalo, ale byla jsem vyděšená a ty zvuky na mně začaly zase dolíhat a hlavu jsem měla v jednom ohni. Strčila jsem do něj a von zakopnul a přepadnul přes kořen stromu, a spadnul čelem k zemi přímo na tu svojí sekeru, která se mu zaryla do hrudníku. Podíval se na mně zděšeným pohledem a začal chrchlat krev.{^n}{^n}Najednou jsem si všimla, že za Frasierem na kraji lesa něco stálo. Obrovská nechutná postava s hlavou zdechlýho zvířete. Stála jsem tam jak opařená a pak jsem začala zdrhat co nejdál od cesty. I za běhu jsem slyšela Frasierův mučivej řev a prosby, ať ho neopouštim.{^n}{^n}Pořád slyším jejich hlasy, všech třech jak řvali ve tmě jako když piští králík, kterýho žere liška. Už je to několik hodin, proč nemůžou konečně skapat? Je tam pořád ta věc? Mám si to nějak vyčítat? Nemůžu jít nikam dál, nedokážu s tímhle žít...
+
+#Darkwood_02
+tagGDX1LoreObj_AreaE_NoteA02Name=Rozkazy Cratche Moora
+tagGDX1LoreObj_AreaE_NoteA02Text=Nedávno se tady v těchto končinách objevilo několik cizinců. Hospoda funguje na plné obrázky, více než je obvyklé v tomto ročním období. To ale neznamená, že bych si na to chtěl nějak stěžovat.{^n}{^n}Sice později, než bývá obvyklé, ale přeci jen se do mých kapes dostal dostatečný obnos, abych dál sledoval, co se tady děje. Lidé, kteří se tady teď pohybují, nejsou ničím podobní těm, které jsme zvyklí vídat. Jsou to běžní lidé ze vzdáleného jihu kolem Ďáblova průsmyku a pak skupinky mužů a žen s neznámými znaky na zbroji a oblečení. Chytili jsme tady chlapíka, co sem přišel až z hlavního města. Prý to byl kuchař hledající práci. Neměl jsem tu pro něj místo, tak jsem ho požádal, ať to zkusí v Burrwitchi.{^n}{^n}Ale nejsou to jen lidé, co je tady divného. Jistě jste si všiml, že v lese je taková neklidná atmosféra. Neviděl jsem, a ani vlastně neslyšel, žádného ptáka po více jak týden. Za poslední tři dny se tady neukázal ani jeden nový člověk. Critch z bažin dotáhnul před pár dny obrovského jelena, tuším že to byl dvanácterák. Takováto mršina obvykle přiláká supy, ale jeho zranění byla způsobena někde v lese a byla zanícená, což si nedovedu úplně vysvětlit. Pokud to bude trvat déle, jsem si jist, že to vytáhne Carraxa z doupěte. Vsadím se, že ten starý bastard od posledně, co jsem ho viděl, jistě vyrostl minimálně dvojnásobně a je stejně tak hnusnej. V hospodě se vloni ukázal jenom dvakrát a ukradl tam nějaké věci. Pravděpodobně ukradl i jednu krávu z Gretchenovy stáje. Nechci si ani představovat, co se stane s tou hnusnou věcí. Dřív se bál ohně, ale tím jak roste, se stal odvážnějším. Jestli někdo najde jeho doupě, tak uzří hromadu špíny, odpadků a krabů více, než by dokázal sníst jediný člověk za celý svůj život. Pokud by se neživil ničím jiným.{^n}{^n}V každém případě je třeba dokončit práci. Zejména s těmi všemi lidmi co žijí na venkově. Pokud chcete obchodovat, pak bych si rád objednal 3 soudky Redmirského piva, 2 bedny Černého listí a 20 lahví Kamenného vína.{^n}{^n}Platit budu jako obvykle.{^n}{^n}Cratch Moore.
+
+#Coven_01
+tagGDX1LoreObj_AreaE_NoteA03Name=Šepoty odjinud
+tagGDX1LoreObj_AreaE_NoteA03Text=Jejich slova byla nejdříve přesvědčivá, jako příjemné poškrabkání na zádech, ale bylo to v mé mysli. Byla sice zkomolená a nebylo z toho možné pochopit jejich smysl. Ale nepřestávali, prostě to neutichalo. Začali mně neustále zdržovat od čehokoliv jiného, jako by to bylo Malostřino poselství, které mne táhlo na tohle místo; pouze když Matka vstoupila do mých snů, tato slova ustoupila a zmizela v nenávratnu. Pociťuji, že se má pozornost vytracuje i při dělání těch nejjednodušších úkolů.{^n}{^n}Čas od času jako by se jeden z hlasů povznesl nad ostatní a začal mluvit rozčíleněji a pak jsem ho nemohl dostat z hlavy. Nikdy to netrvalo moc dlouho a tenhle hlas se zase vrátil. Nikdy se ten jeden hlas nezařadil mezi ostatní. Pokaždé to bylo jako by někdo stál vedle mně a mluvil mi přímo do ucha. Ty hlasy mluvily o pavučinách a pavoucích, a o místech, které jsem nikdy neviděl ani o nich neslyšel. Párkrát jsem se díky nim probudil úplně vyděšený, když na mně křičeli z plamenů a mluvili o pomstě ve světě, který jsem nikdy nespatřil.{^n}{^n}Promluvil jsem si o tom s Matkou a její oči se podívaly ke staré Rugii, než se přenesly zpět ke mně. Pokoušela se mně utěšit, ale oba jsme věděli, jaký osud čeká ty, kteří se probudí s tímhle prokletím. Jen bych si přál pochopit nějaký význam těch slov ještě dřív, než mne temnota přivede k šílenství a pohltí mou duši.{^n}{^n}Zdá se, že nic není tak, jak má být...
+
+#Coven_02
+tagGDX1LoreObj_AreaE_NoteA04Name=Tristin diář
+tagGDX1LoreObj_AreaE_NoteA04Text=Celá tahle věc se mi pořád zdá dost zvláštní. Jsou tady sestry, které zasvětily celý svůj život studiu a řemeslu, ale já o těchto věcech nevím vůbec nic. Nemám žádné znalosti o bylinkách či léčitelství, absolutně nic netuším o chemických vazbách a jejich propojeních. Neznám žádné příběhy o Trojici, ani nemám žádné vyhlídky. Nedokážu vyvolávat duchy a přesto... jsem tady. Byla jsem sem dotažena jako ryba, která se má rozmnožit a já netuším proč. Nemyslím si, že se některé sestry znají. Slyšela jsem, jak si někteří starší o mně povídají. V jejich hlasech nebylo slyšet opovržení, ale zřejmě také netuší, proč tu vůbec jsem.{^n}{^n}Během krátké doby jsem se naučila spoustu věcí a navzdory mému nedostatečnému zaměření jsem rozhodnuta pochytit co nejvíce informací, které mi toto místo může poskytnout. Lóže Čarodějek je obrovská studnice informací a historie. Tajně jsem poslouchala rozhovory nejstarších sester, jak se bavily o časech, kdy se to tu všechno utvářelo, o časech, kdy jednotlivé čarodějky byly odvážné a dychtivé po znalostech. Odhalily tajemství, která jsou lidem dodnes neznámá, naučily se používat zdroje, které jim dávaly obrovskou moc. Společně dosáhly věcí, o kterých si můžeme my ostatní nechat jen zdát, ale za všechno zaplatily obrovskou cenu. Jejich arogance rozlítila Trojici a od té doby nezůstalo nic jako dřív.{^n}{^n}Moje vrstevnice mluví o této době pouze šeptavými hlasy, ale mám-li být upřímná, děsně jim závidím. Musely být tak dravé, mít naprosto přesně dané zájmy. Opravdu je to tak špatné studovat ztracené znalosti? Neustanu, dokud neodhalím jejich tajemství a dokud tato mocná místa nám nebudou opět na dosah. Čarodějní bohové jsou zapovězení. Ale jak se pohybuju mezi svými sestrami, pozoruji, že pro některé z nich je Trojice téměř svatá. Díky nim si bohové zachovávají svůj klid a toto místo nepřitahuje jejich pozornost, i přesto, co tady děláme. Musím zůstat diskrétní a skromná. Tvář pitomé neznalé novicky mne může nějakou dobu krýt.{^n}{^n}
+
+#UgdenbogRuins_01
+tagGDX1LoreObj_AreaE_NoteA05Name=Yeathleanisův rukopis
+tagGDX1LoreObj_AreaE_NoteA05Text=Doufali jsme, že modlitba a rituál nás ochrání a vzdálenost bude pro nás jistou výhodou. Ale i v těchto vzdálených chrámech nás dohnala arogance našich Oligarchů a obrovský podvod nekromantů.{^n}{^n}Koukal jsem na stařešiny mého řádu, jak bezmocně upadají do nekonečného šílenství a nejmladší z nás se modlil za smrt, která nikdy nepřijde. Ale našel jsem sílu ve věčnosti. Zaměřil jsem se na staré texty, rituály a učení těch, kteří zde byli před námi. Je tady tolik vědomostí, že mám o zábavu postaráno na celý svůj nesmrtelný život. A tak zatím co se mé tělo rozkládá, modlím se, aby mé myšlenky zůstaly čiré.{^n}{^n}Pakliže existuje rituál, který nás spojil s tímto prokletým osudem, musí přeci existovat i něco, co nás zbaví této kruté vazby.{^n}{^n}Čas hraje v můj prospěch, a já tu odpověď najdu.
+
+#Altar_01
+tagGDX1LoreObj_AreaE_NoteA06Name=Dary Bohů
+tagGDX1LoreObj_AreaE_NoteA06Text=Mysleli jsme si, jak jsme moudří, mistři svého řemesla. Ale pýcha často předchází pád...{^n}{^n}U Rattoshova oltáře jsme hravě zvládli základní tvorbu kouzel našich předků. Udělali jsme se mladšími, silnějšími, mocnějšími... ale ve srovnání s tím, co oltář nabízel, bylo tohle všechno jako plivnutí do oceánu. Dostali jsme se za hranice světa smrtelníků a vazbami našich duší a přinutili je vyzradit pradávná tajemství. Ale ani to nám nestačilo. Chtěli jsme víc a věděli jsme, kde to najít - v Pokřiveném světě.{^n}{^n}Pokřivený svět je zvláštní svět, kde fyzikální zákony zcela neodpovídají svému chování a magie se tam šíří zcela nekontrolovaně. Stvoření zde vypadají jako zvířata a přesto jimi nejsou. Některá z nich jsou schopna používat základní kouzla, některá dokonce hovoří jazyky, které v životě nepochopíme. Ale pro nás, pro nás to byl především zdroj obrovské magické moci. Vstup do této říše by znamenalo získat sílu, kterou si ani nedovedeme představit. Ale taková arogance už si zasluhuje první výstrahy.{^n}{^n}Bylo to za úplňku, když jsme se sešli. Společně jsme chtěli použít oltář a vstoupit do Pokřiveného světa. To by byl asi náš největší triumf, ale místo toho to byl náš nejvíce ponižující okamžik. Na naše zvolání se runy kolem oltáře rozzářily a pak... nic?! Jako vážně? Když tu najednou... Kouzlo náhle vyprchalo a my jsme byli odmrštěni rázovou vlnou vycházející ze středu oltáře. Něco přicházelo.{^n}{^n}Před námi stály tři děsivě vypadající bytosti. Jejich přítomnost byla takřka oslepující a jejich vztek absolutní. Byl jsem nucen dívat se na to, jak mé sestry se rozpadají v plamenech nebo se taví při pohledu do tisíců neexistující očí. Pavouci obklopili další oběti a sežrali je kompletně až na kosti.{^n}{^n}Zbyli jsme pouze my tři, ztuhlí hrůzou, protože bohové, kterými jsme opovrhovali, nás ztrestali za naši pýchu a aroganci. A pak, jak rychli přišli, stejně rychle zmizeli. Nejprve jsme se divili, proč zrovna nás ušetřili, ale časem jsme se dobrali pravdy. Žijeme pouze proto, aby nikdo další nemohl opakovat naše chyby.{^n}{^n}Pokud si čteš v těchto řádcích, vyslechni naše varování. Vrať se zpátky a opusť tohle děsivé místo. Vymaž ho ze svých vzpomínek a nedovol, aby se bohové opět vrátili a opět ulevili svému hněvu.
+
+tagGDX1LoreObj_AreaE_NoteA07Name=Nanova skrýš
+tagGDX1LoreObj_AreaE_NoteA07Text=Fakt netuším, vo co mu de, ale už dvakrát jsem viděl Nana, jak jede se svym plně naloženym povozem po severní cestě kolem starýho mlejnu. A pak se zas vrátil, ale už komplet vyloženej. Musí tam něco skrejvat a já mu na to přijdu, né že ne. Estli vono to má bejt jako významný, tak chci taky bejt prospěšnej, ať mi z toho něco kápne.
+
+#AncientGrove
+tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Name=Mogdrogenovo zamyšlení
+tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Text=Nedávné události přináší do mého srdce útrapy.{^n}{^n}Smrtelníče. Jeden z Erulanských inkvizitorů, kterého nazývají Kymon, na něco narazil. Na něco... velmi starého a zapomenutého. A stejně jako každý nerozvážný smrtelník nepřestal bádat nad tím, co mělo zůstat skryto a navždy zapomenuto. Hluboko pod Korvanskou plošinou se v tuto chvíli rozdmychává přímo děsivý žár. Zvířata z celého Cairnu jsou neklidná, cítí to také.{^n}{^n}Je složité rozlousknout toto tajemství, protože běžně rozmarní falešní bohové jsou neobvykle tiší. Mám podezření, že se stáhli do svých vlastních světů. To načasování nemůže být úplně náhodné. Čarodějní bohové se bojí. Jejich pozornost je teď přitahována ke stejné síle, která užírá duše Kymona a jeho Vyvolených. To fanatické uctívání smrtelníků ho živí, dává mu sílu a formuje ho.{^n}{^n}Klevetění mezi lidmi naznačuje velikánský návrat Empyriona, ale já vím, že to jsou pouze falešné naděje bezmocných ubožáků. Pravá identita této zapomenuté moci mi uniká, ale přesto mi přijde tak... povědomá.{^n}{^n}Jediné, čím jsem si jist, je to, že se na nás valí kataklyzmatická proměna. Cítím to v zemi. Pocítil jsem to ve větru. Síly, o kterých jsem neslyšel po tisíce let, touží po pomstě a krvi.{^n}{^n}Musím shromáždit své Rhowari. Blíží se doba, kdy bude jejich oddanost těžce zkoušena.
+
+#Kraken
+tagGDX1LoreObj_AreaE_Kraken_NoteA01Name=Tajemství Ugdenbogu
+tagGDX1LoreObj_AreaE_Kraken_NoteA01Text=Podle výnosu samotného Erulanského císaře jsem se vydal se svými váženými kolegy prozkoumat širší okolí říše, abychom popsali a zařadili nové druhy z fauny a flóry v dané oblasti. Málokdy jsem o tom přemýšlel, ale ne všechny úkoly mají vždycky stejný záměr... tím myslím to, že teď píšu zpoza zatuchlého místa plného temné mlhy nazývajícího se Ugdenbog, který se nachází daleko za Burrwitchem.{^n}{^n}Po třech týdnech, co jsme dorazili, jsme ztratili už dva členy naší výpravy a je opravdu důvod k obavám ze smrti díky zdejším rostlinám. Empyrionem zatraceným rostlinám. Snad mohu zmínit, že jsem se vždy zaměřoval na kritické účinky tajemných energií na živočišnou říši, ale nikdy jsem nezkoumal, jak může obyčejný úponek rostliny rozpůlit chlapa od hlavy až k patě, zatímco obrovský květ požírá druhého!{^n}{^n}Kdybych nebyl týdny vzdálený od Erulanu, okamžitě bych požádal o přeložení. Cesta nebyla úplně neúspěšná, protože jsem mohl pozorovat některé pozoruhodné jevy a stvoření, které se sice zdály přirozené, ale nedokázal jsem je zařadit do standardního rozmezí známých fenotypů, které jsem v této oblasti očekával. Zdálo se, jako by byli vyhnáni z jiných míst a všichni najednou se přesunuli do těchto močálů.{^n}{^n}Nejvíce fascinující ovšem byl rozhovor s tuláky před několika dny, kteří zmínili místní nestvůru známou jako Kra'vall, starodávného obyvatele vodních hlubin. Zatím jsme pouze na chvilku zahlédli jedno z jeho obrovských chapadel. Můžu jen hádat skutečnou velikost téhle příšery, ale bude to skutečně obrovské a zcela nepodobné čemukoliv, co se nachází ve vodách Ugdenbogu.{^n}{^n}Naše cesta nás dovedla až k místu, o kterém se domnívám, že je to podvodní doupě. Moje společnice inkvizitorka si okamžitě začala stěžovat na bolesti hlavy podobné těm, které zažila při zkoumání vysoké koncentrace starodávné magie. Bolesti hlavy spojené s jeho neobvyklým vzhledem mne přivedlo k závěru, že toto stvoření, a jiné jemu podobné, jsou pravděpodobně hříčkou matky přírody. Ale jsou tyhle projevy dočasnou hříčkou Čarodějných bohů nebo se jedná úplně o něco jiného?{^n}{^n}-Gallad Nico, císařský archivář
+
+
+#AreaF Notes
+#CultOfChthon_01
+tagGDX1LoreObj_AreaF_NoteA01Name=Věrnost až za hrob
+tagGDX1LoreObj_AreaF_NoteA01Text=Nové zprávy nás zastihly v nočních hodinách. Rituál na západě selhal a Thalonis, Pán krve, žel bohu padl.{^n}{^n}Pod tíhou těchto neštěstí jsou mezi vámi někteří, jež se chtějí vzdát své víry, zříci se své oddanosti a opustit naši velkou věc. Toto nebude nikdy a za žádnou cenu tolerováno! Musíte zachovat svou loajálnost, nebo se sami odsoudíte a vyčerpáte svou mysl do stavu bezbožného chaosu.{^n}{^n}Jde pouze o jedno z dalších selhání v této nekonečné sérii útrap, které nás ovšem vedou po té naší cestě k tomu být velikány. Ch'thon nás vyzývá, zkouší naši víru a my nesmíme zaváhat. Vy, nepoddajné děti krve, musíte nalézt ty nejslabší z vás mezi sebou, a potrestat je za jejich slabou vůli.{^n}{^n}Thalonis je pryč, ale jiný z vás povstane a zaujme jeho místo a pouze věřící budou odměněni za svou píli.{^n}{^n}Pouze skrze oddanost ve Ch'thona a obětavost za naši věc znovu nalezneme cestu.{^n}{^n}- Velekněz Ulto Treig
+
+#CultOfChthon_02
+tagGDX1LoreObj_AreaF_NoteA02Name=Úřední dopis krvepřísežníkovi z Údolí nářků
+tagGDX1LoreObj_AreaF_NoteA02Name_Codex=Dopis do Údolí nářků
+tagGDX1LoreObj_AreaF_NoteA02Text=Bratři a sestry krve,{^n}{^n}k mým uším se donesly znepokojivé zprávy. Zvěstuje se, že někteří z vás začali pochybovat o naší věci, a zpochybňují ty, jež slyší volání Prázdnoty. Věříte, že jste byli podvedeni falešnými proroky, ale dovolte mi pár slov, abych vás uklidnil.{^n}{^n}Vyslal jsem své věrné pokrevní bratry, aby mi přivedli tři tucty těch, kdo se odvážili zpochybňovat naše odhodlání v těchto krušných časech. Pomocí jejich falešných vizí bude vaše vůle odměněna. Jejich krev bude sloužit tam, kde jejich mysl selhala. Sklízejte ovoce jejich obětí, nové problémy, které zaplaví samotné srdce říše Mrtvého boha. Skrze ně povstanou zástupci mučitelů, bytosti stvořené z čiré temnoty, jež budou prolévat krev patřící Ch'thonovi.{^n}{^n}Nebojte se, moji bratři a sestry, vaše víra ve Ch'thona není mylná. Nedopustíme selhání jednoho, aby zhatil celou naši věc. Budeme vzývat temnotu a temnota nám přinese sílu, která otřese samotnými základy Cairnu. Nastane nový soudný den; den, kdy věřící vytlačí falešné bohy a obnoví slávu Ch'thona.{^n}{^n}-Ulto Treig, Velekněz
+
+#CultOfChthon_03
+tagGDX1LoreObj_AreaF_NoteA03Name=Volání stínů
+tagGDX1LoreObj_AreaF_NoteA03Text=Jsme jako ztracené děti, osamělí, bez úmyslů. zírající do temnoty a věřící pouze našemu vůdci. Ničíme svá těla a utápíme svět v krvi a zoufale tak hledáme čistotu v hlubinách Prázdnoty. A to úplně marně, bez sebemenší odezvy.{^n}{^n}Naléhavě vás prosíme, vyznavači Prázdnoty. Vyslyšte naše volání a utopte tento svět v temnotě. Přijď, Tvůrče temnot, veď děti krve ke slávě, abychom mohli následovat Ch'thona. Veď nás, Ekket'Zule, abychom mohli tento svět zbavit bezvěrců.{^n}{^n}Kabalista Gulle
+
+#MalmouthOutskirts_01
+tagGDX1LoreObj_AreaF_NoteA04Name=Deník Aimee Brenoch - 1. zápis
+tagGDX1LoreObj_AreaF_NoteA04Text=Nějak netuším, proč si vlastně něco píšu.{^n}{^n}Nejspíše proto, že Eral je velmi přesvědčivý v tom, co chce. Říkal mi, že nám tyto poznámky o těchto dnech pomůžou vzpomínat na naše životy až budeme staří a přemýšlet, jak se nám dařilo. "Tyhle dny můžou být ty nejkrásnější, který kdy vůbec zažijem, má nejmilovanější Aimee", to jsou ta jeho slova, co mi s nadšením říká. Myslím si, že má pravdu a i proto se vždycky vracím k tomu pár slov napsat.{^n}{^n}Jako vždy měl pravdu, jak jsem se již několikrát přesvědčila od doby, kdy jsme odešli z města. "Tohle město je strašně zaplněný, moje milovaná, měli bysme odsud odejít a založit rodinu na venkově". A jak řekl, tak jsme udělali. Jen jsme si zabalili to nejnutnější, co jsme unesli a prošli poslední městskou branou. Byla jsem zděšena. Nedokázala jsem si představit život někde jinde ani nějak jinak než tady. Malmouth byl můj domov, narodila jsem se tady, uprostřed špinavého Železného bodce. Ale Eral měl pravdu, ve městě žila hlava na hlavě a tohle venkovské prostředí a krajina všude kolem jsou vskutku nádherné.{^n}{^n}Našli jsme si malou chaloupku s úrodnou půdou kolem dokola, kde bychom mohli farmařit. Je tady tolik místa, že by nám mohl leckdo závidět. Je to tady úplně ideální místo pro založení rodiny a také jsme s tím moc dlouho neotáleli. Teď už jsem ve druhém měsíci. Bude to naše první děťátko a já už vím, že to bude holčička. Stále čekám na nejvhodnější chvilku, kdy to povím Eralovi, ale má teď spoustu práce s farmou a běháním do města pro všechny ty zásoby a věci, které potřebujeme. Nechci to před ním skrývat moc dlouho, chci aby byl také šťastný.{^n}{^n}Opravdu jsou to ty nejkrásnější dny, které prožíváme.{^n}{^n}-Aimee
+
+#MalmouthOutskirts_02
+tagGDX1LoreObj_AreaF_NoteA05Name=Deník Aimee Brenoch - 2. zápis
+tagGDX1LoreObj_AreaF_NoteA05Text=Ve městě se stalo něco strašného.{^n}{^n}Dnes ráno k nám na farmu přišla spousta lidí, byly jich tucty. Utekli z Malmouthu, někteří běželi celou cestu, někteří byli sotva schopni dojít. Všichni vypadali strašně vyděšeně a bavili se o tom, co se tam stalo. Mnoho z nich postrádalo členy svých rodin, další zase ty, kteří byli uneseni v noci z jejich domů. Nechce se mi tomu věřit, ale zní to hrozně děsivě.{^n}{^n}Dělala jsem, co jsem mohla, abych každému pomohla co nejvíce, ale jsem z toho všeho vyděšená. Navíc Eral včera odjel do města jako každý den pro čerstvé zásoby. Měl se vrátit dnes ráno, ale zatím není po něm ani stopy. Modlím se k bohům, aby se nedostal do problémů, které tam vyvstaly.{^n}{^n}Pokud se neozve do zítřejšího rána, vyrazím do města ho najít. Bude to pro mě náročná cesta s tím malým andílkem v bříšku, ale nemůžu zůstat sedět doma, když možná Eral potřebuje mou pomoc.{^n}{^n}-Aimee
+
+#MalmouthIndustrial_03
+tagGDX1LoreObj_AreaF_NoteA05AName=Dopis pro Aimee Brenoch
+tagGDX1LoreObj_AreaF_NoteA05AText=Má milovaná Aimee.{^n}{^n}Nedělám si naději, že se tenhle dopis k tobě někdy vůbec dostane. Ale je to jediná možnost, jak ti svěřit svoje poslední myšlenky.{^n}{^n}Pořád si pamatuju ten výraz ve tvý tváři, když si zjistila, že seš obtěžkaná děťátkem. Jak sis mohla myslet, že to přede mnou skreješ celý ty dlouhý týdny? To víš že jsem to na tobě hnedka poznal. Ta radost vepsaná do tvých tváří se nedala přehlídnout. To si budu pamatovat až do svý poslední hodinky.{^n}{^n}Musíš mi odpustit, lásko moje, ale já už se k tobě nevrátím. Ve městě se stalo něco nepopsatelnýho. Je tady tolik mrtvých, zabitých během bojů, který vypukly za hluboký noci. Jsou tady děsivý věci, úplně nepředstavitelný, který tady šmejdí po městě a doslova loví přeživší lidi. Vyčmuchají každého, ať se skrývá kdekoliv.{^n}{^n}Bylo mi řečeno, že z města neexistuje žádná cesta ven. Brány jsou zabarikádovaný a most se zhroutil. Ale pořád jsou tady lidi, kteří přežili. Aimee, ti lidi potřebujou pomoc a já se rozhodl jim tu pomoc poskytnout. Prosím tě o odpuštění.{^n}{^n}Pokud se tato slova přeci jen k tobě dostanou, odejdi prosím tě z tohohle prokletýho místa, dokud můžeš. Odejdi z farmy hned jak budeš moci a nikdy se tam nevracej. Bojím se, že to co se stalo v Malmouthu se bude dál rozpínat za městský zdi. Běž rychle a s nikým nemluv. Musíš zachránit sebe a naše dítě. Najdi si nový domov, nějaký skrytý místo a vychovej naše děťátko jak nejlépe dovedeš.{^n}{^n}Kamkoliv půjdeš Aimee, jestli se z tohohle místa dostanu, najdu si tě kdekoliv na světě. To ti slibuju.{^n}{^n}S láskou mým nejdražším,{^n}{^n}Eral Brenoch
+
+#MalmouthSlums_01
+tagGDX1LoreObj_AreaF_NoteA06Name=Dopis pro radního Colea
+tagGDX1LoreObj_AreaF_NoteA06Text=Vážený pane Cole... Ctihodnosti, nebo jak si to vlastně řikáš.{^n}{^n}Teď už nejsem žádnej gentleman ani špičkovej obchodník, a dovedu si představit tu vaší bombastickou smetánku, co se slejzá na Korunním kopci a opovrhujou těma sračkama jako jsem já, co bydlí ve Svíčkový čtvrti. Ale řeknu ti, jestli budeš srát na ty dole, budeš mít co dělat se vzpourou, a to jako fakt. Všechno se vám vymklo kontrole. Chybí tady čistá voda i jídlo. Ulice se topí ve sračkách, všude je špína a bordel a lidi toho maj dost. Nemluvě o tom, že jich je tady tolik, že se nedá pomalu ani projít. Fakt nechápu, proč ste zastavili ve Svíčkový výstavbu. Kde maj ty lidi bydlet? Nemůžete se přece takhle chovat k lidem a pak čekat, že vám budou zobat z rukou jak si tam nahoře zamanete.{^n}{^n}No ale neber to jako že ti vyhrožuju. To já jen že seš tam novej, tak ti tohle píšu jako varování. Lidi si mě tu vybrali, abych je zastupoval a to hodlám dělat. Nevim, co tam nahoře děláte, ale lidi toho maj už vážně dost. Doufám, ve vašem vlastním zájmu, že si někdo vod vás najde čas a zajde se sem za náma podívat na zdejší problémy a začne to trochu řešit.{^n}{^n}S pozdravem,{^n}{^n}Samuel Rackford
+
+#MalmouthCrownHill_03
+tagGDX1LoreObj_AreaF_NoteA06AName=Z kanceláře radního Colea
+tagGDX1LoreObj_AreaF_NoteA06AText=Vážený pane Rackforde.{^n}{^n}Má krásná nová sekretářka mne upozornila na závažnost problému, který vyvstal s hromadou nepořádku v naší oblíbené Svíčkové čtvrti. Takové poklady, jako jsou tyto historické ulice, nesmí být zanedbávány a já skutečně cítím s těmi, jež musí žít v takových nesnesitelných podmínkách.{^n}{^n}Udělal jsem všechno, co bylo v mých silách a má kancelář si mohla dovolit, a rád bych se ujistil, že je situace již napravena.{^n}{^n}Ze všeho nejdříve vyšleme povozy do Svíčkové čtvrti, aby odvezli všechny ženy a děti. Tito nejzranitelnější občané se přesunou do zcela nových domů na Korunním kopci, kde bude o ně náležitě postaráno.{^n}{^n}Ihned poté budou mít všichni práce schopní muži příležitost pracovat na výstavbě nového výrobního závodu. S vaší pomocí budou stát lidé ze Svíčkové čtvrti u založení zbrusu nového Malmouthu.{^n}{^n}Neočekávám, že by měly vyvstat nějaké potíže ze strany vašich spoluobčanů. Já konec konců hledím na dobro vašich lidí.{^n}{^n}S úctou,{^n}{^n}Radní z Rezidence{^n}{^n}Dreven S. Cole
+
+#MalmouthSlums_02
+tagGDX1LoreObj_AreaF_NoteA07Name=Varování Rennocha Krysy
+tagGDX1LoreObj_AreaF_NoteA07Text=V noci nás postihla zkáza. Všechno přišlo tak náhle a bez varování, všude smrt a výkřiky lidí, kteří byli vražděni. Strážnice přišla na řadu jako první. Byli tam vybíjeni postupně, běhali sem a tam jako hejno slepic na dvorku. Útočníky byli hrůzy ze stínů, které si nikdo nedovede ani představit. Viděl jsem to ze své chatrče, stál jsem tam úplně zkoprnělý. V několika málo okamžicích přišla Svíčková čtvrť o jakoukoliv naději na obranu. Pak útočníci vyšli do ulic jako nechutná zelená vlna smrti. Před úpícími výkřiky těch mužů a starších lidí se nedalo uniknout a vzduch byl zatížen hustým kouřem ze zelených ohňů, které zahalily celou čtvrť.{^n}{^n}Má zvědavost mne táhla blíž, abych viděl co nejvíce. Vydal jsem se k jižní zdi, tiše jsem našlapoval a sledoval, jak se do těch chudých domečků vkrádá smrt. Lidé byli úplně všude jako  roj švábů a byli zadupáváni postupujícími nepřáteli. Nejprve se malá skupinka dostala k jižnímu mostu a stačili utéci dříve, než byl vyhozen do povětří. Zbytek utekl na sever k branám Korunního kopce, kde zjistili, že jsou brány zamčené a zabarikádované. Jak se ty hrůzy k nim přibližovaly, někteří z nich se zoufale snažili vylézt na zdi, ale ty zatracené kluzké kameny byly otesány tak, aby nikdo nemohl utéci. Většina z nich tak spadla dolů a byli zamordováni otřesným způsobem. Těch pár, kterým se podařilo přelézt zeď a informovat strážce Korunního kopce o situaci, byli zděšeni absolutní nečinností a arogancí vůči tomu, co se dole děje.{^n}{^n}Vraždění netrvalo nijak dlouho. Teď jsou všechny ty domky a chatrče tiché. Nepřátelé začali pročesávat město a odklízet mrtvá těla padlých. A ti, kteří přežili, chraň bůh jejich duše, když si je nepřátelé odváděli neznámo kam.{^n}{^n}Zůstávám tady a nemám žádnou touhu utíkat. Nemá to smysl. Svět nemá proti podobným nepřátelům žádnou naději a tak raději strávím své poslední chvilky života v klidu.{^n}{^n}-Rennoch Krysa
+
+#MalmouthSlums_03
+tagGDX1LoreObj_AreaF_NoteA08Name=Přetržený list - horní polovina
+tagGDX1LoreObj_AreaF_NoteA08Text=Vůbec nemám ponětí, pro koho tohle vůbec píšu, ale aspoň my to dodává ňákou vodvahu a důvod přežít o něco dýl.{^n}{^n}Jsem tady totálně opuštěnej, unavenej a sežral bych i špinavou botu, kdyby se tu někde válela. S tenčícíma zásobama se moje mysl čím dál výc zatemňuje. Zoufale sem se snažil najít jakoukoliv cestu z tohohle zkurvenýho města, ale prostě nejni šance. Most je zvednutej a hlídá ho nějakej abnormálně vobrovskej šmejd hnusnej už vod pohledu. A abych přelez zeď, na to jsem mrňavej, takže by mě našla první hlídka a nebo bych sletěl a zabil se jako plno jinejch.{^n}{^n}A tak hniju tady v podkroví s malym okýnkem, odkud můžu čumět ven, co se vlastně děje. Slyšim je tam venku, jak sténaj a křičej, když umíraj pod nátlakem těch zrůd. Ty prolejzaj město skrz naskrz, sbíraj mrtvý a přeživší, co nemaj sílu zemřít nebo zdrhnout. Nechci si před stavovat, co s nima pak dělaj. Jsem si jistej, že je to enom otázkou času, než mně tady najdou a naloží se mnou obdobně.{^n}{^n}Doufám, že tady zdechnu rychle.
+
+#MalmouthSlums_04
+tagGDX1LoreObj_AreaF_NoteA08AName=Přetržený list - dolní polovina
+tagGDX1LoreObj_AreaF_NoteA08AText=Všechno je jinak.{^n}{^n}Možná že existuje způsob, jak vodsud vypadnout. Zrovna dneska ráno, když jsem zase vočumoval město z toho svýho prťavýho vokna, se na ulici zdvihnulo víko kanálu a vyskočil z něj chlap. Vypadal dost nabušeně, i nějakou slušnou zbroj měl na sobě. Hnedka zanim další 3 chlapy z tý díry, to sem nežral. No a pak ještě další! Třeba tam někde dole žijou. Třeba hledaj nějaký přeživší. Musim najít způsop, jak se s nima spojit, a nebo aspoň jak vlézt do toho kanálu.{^n}{^n}Dneska večer, hnedle po setmění ocud vypadnu a zkusim najít nějakou cestu do toho kanálu.{^n}{^n}Pokud někdo najde můj škrabopis, měl by udělat to samý. Naše naděje je nejspíš někde pod městem.
+
+#MalmouthIndustrial_01
+tagGDX1LoreObj_AreaF_NoteA09Name=Záznam městských stráží
+tagGDX1LoreObj_AreaF_NoteA09Text=Minulou noc byly přepadeny kasárna v Železném bodci. Stalo se to tak náhle a smrt přišla v té nejtemnější hodině. Dveře byly vyraženy a vlna nepřátel se rozlila mezi strážce jako když se řezník vrhne na porážku jehňat. Jejich výkřiky jsou jako když se vzbudíte ze spánku z té nejtemnější noční můry. Stále mi zní v uších.{^n}{^n}Byl jsem úplně podělaný strachy. Pokud by kapitán Wilfor rychle nezasáhl, nikdo z nás by nepřežil. Moje jednotka společně se mnou měla to štěstí, že jsme den před tím byli převeleni do oblasti hlavních nocleháren. Když vypukl útok, kapitán se rychle zorientoval a začal na nás křičet jeden rozkaz za druhým. Náš výcvik vzal za své a my jsme zabarikádovali hlavní vstupní dveře a odřízli si tak možnost ústupu. To, co na nás čekalo, si nedokáže nikdo ani představit.{^n}{^n}Celý svět byl v jednom ohni. Městem se linul odporný smrad a nad Svíčkovou čtvrtí se rozlilo zelené světlo. Za úsvitu jsme zaslechli řadu výbuchů, které otřásly základy města jako obrovské zemětřesení. Rozsah tohoto útoku je nepředstavitelný a škody budou nevyčíslitelné.{^n}{^n}Na Wilforův rozkaz jsme se tiše přesunuli skrze trosky města do bývalých kasáren a hledali nějaké přeživší strážné. Ale u všech jsme viděli stejně děsivý scénář: každý z nich ležel ve své posteli a zavražděn ve spánku.{^n}{^n}Začínám se obávat, že jsme jediní přeživší. Wilfor nám nařídil chránit několik civilistů, zatímco se vydal pátrat po dalších skupinkách městských stráží. Před několika hodinami jsme našli umírajícího muže, který tvrdil, že poblíž Svíčkové čtvrti byla nedávno postavena pevnost, kde se usídlili stráže. Modlím se, ať je to pravda.{^n}{^n}Dnes jsme byli svědky takových hrůz, spousta lidí je zraněných nebo psychicky zcela zlomených. Nejsem si jist, zda se nám podaří zachovat klid a vůli.{^n}{^n}Bůh s námi.{^n}{^n}Raiken Baeron
+
+#MalmouthIndustrial_02
+tagGDX1LoreObj_AreaF_NoteA10Name=Nearanův výkaz práce
+tagGDX1LoreObj_AreaF_NoteA10Text=Na základě Vaší žádosti budu zapisovat jednotlivé pracovní záznamy. Doufám, že vám tyto informace budou k něčemu užitečné.{^n}{^n}Černoželezné doky byly poslední dobou dost zatíženy vojenskými dodávkami, ale i přes přehnané požadavky správců přístavu jsme byli schopni vykládat obchodní lodě. Zdá se, že množství zboží proudícího do města se v posledních několika měsících zdvojnásobilo. Dříve jsme vykládali zhruba dvě lodě denně, teď jsou čtyři a více.{^n}{^n}Je zajímavé, že velké množství těchto nových lodí připlouvá z Valburského přístavu. Připlouvají v brzkých ranních hodinách dvakrát týdně, někdy i častěji. Každá z nich je zaplněna až po okraj bednami zboží s místem určení na Korunní kopec bez bližšího určení příjemce. Nechápu, k čemu ti fajnoví lidi, vás nevyjímaje, potřebujete tolik zásob, ale předpokládám, že nejsem placený za to, abych se na tohle ptal.{^n}{^n}Nedávno došlo k menšímu nedorozumění, když jsem chytil mladého Oritha, jak se prochází přístavem se zvláštním zeleným krystalem v ruce, ostrým jako čepel. Zeptal jsem se ho, kde to vzal, no samozřejmě ani necekl. A když jsem mu začal vyhrožovat, že ho vyrazím, rychle to vyklopil. Řekl mi, že to ukradl z jedné z dodávek na Korunní kopec. Donutil jsem ho to tam jít vrátit.{^n}{^n}Abych ho potrestal, snížil jsem mu odměnu za práci na polovinu, s čímž ochotně souhlasil. Nepředpokládám, že s Orithem budeme mít další problémy. Je to hodný kluk, jen je prostě hloupější.{^n}{^n}To je asi tak vše, co se minulý týden událo. Dejte mi prosím vědět, pokud jste se dozvěděl o tom, po čem jste pátral. Budu pokračovat v těchto záznamech každý týden, jak jsme se dohodli.{^n}{^n}-Nearan Lehner
+
+#MalmouthCrownHill_01
+tagGDX1LoreObj_AreaF_NoteA11Name=Dopis pro Ronalda Mariona
+tagGDX1LoreObj_AreaF_NoteA11Text=Nevím, co si ten zasranej Marcell o sobě vůbec myslí, že rozpustil městskou radu a do všech funkcí si dosadil ty svoje kamarádíčky. Nedovedu si představit větší potupu a ponížení skupiny lidí, která sloužila takovou dobu našemu milovanému městu. Jakým právem má vůbec tu drzost se po tak dlouhé době vrátit, když odešel za svými vlastními zájmy do hlavního města, a omezit většinu nejbohatších rodin města?{^n}{^n}Bylo to výsostné právo mé rodiny sloužit v městské radě po čtyři generace. Nehodlám tady nečinně stát a nechat Marcellovu rodinu, aby si dělala v politických strukturách našeho města co se jim zlíbí. Doufám, že to vidíš úplně stejně.{^n}{^n}Poslal jsem oficiální stížnost přímo do Erulanu jejich Nejvyšší radě k rukám lorda Regenta a chtěl bych tě požádat, abys mne podpořil a odmítl nelegitimní nárok Theodina Marcella soustřeďovat veškerou moc ve městě do svých rukou. Víš co jsem slyšel? Dost znepokojující zprávu o jeho rádoby vzdělanosti v nemocnici hlavního města. Prý ho tam vyrazili za obrovské zneužívání pravomocí. Pokud je to skutečně pravda, může to přispět k naší žádosti.{^n}{^n}Mezitím podniku kroky k získání opozice vůči očividným politickým ambicím Marcellova rodu a plánu se osobně sejít s každým zástupcem jednotlivých rodin Korunního kopce a hledat u nich podporu. Ty seš první, kterému píšu, protože naše rody se ukázaly být pevnými spojenci v tom politickém moři našeho milovaného města.{^n}{^n}Jsem připraven podniknout veškeré kroky proti Marcellovi a rodinám těch srandistů, kteří byli dosazeni do rady a já doufám, že budeš stát za mnou, až nastane vhodná chvíle.{^n}{^n}S pozdravem,{^n}{^n}-Fredric Greystone
+
+#MalmouthCrownHill_02
+tagGDX1LoreObj_AreaF_NoteA12Name=Dopis pro Theodina Marcella
+tagGDX1LoreObj_AreaF_NoteA12Text=Dobře jsem pochopil Vaše návrhy a souhlasím se všemi podmínkami, ale neměl jsem ani tušení, že byste chtěl své plány uskutečnit tak rychle.{^n}{^n}Rozpuštění rady a jmenování nových členů dle vlastního výběru byl odvážný krok, ale chápu jej, stejně jako ostatní rody, které souhlasily přidat se k vašemu novému uspořádání, za cenu hrozícího zatracení. Zrovna dnes ráno jsem obdržel zprávu od rodu Greystonů, kde Fredric Greystone vyhrožoval, že vás nahlásí Nejvyšší radě v Erulanu a žádal mne o podporu proti "vyvrácení" vašeho "nelegitimního převzetí pravomocí". V tuto chvíli nemám jinou možnost, než se přidat k jeho malé skupince vzbouřenců a chránit tak čest rodu Marionů.{^n}{^n}Greystone měl také řadu zajímavých obvinění ohledně vašeho působení v hlavním městě. Rád bych to s ním osobně probral.{^n}{^n}Mimochodem, naše operace ve Svíčkové čtvrti se setkaly s výrazným odporem. Ti odporní švábi, kteří zamořují ulice města, snad mají pocit, že mohou klást požadavky vůči Korunnímu kopci a vyhrožují vzpourou, pokud jim nevyjdeme vstříc.{^n}{^n}Zatím nemám nejmenší pochybnosti, že splníte svou část naší dohody a modlím se za oba naše rody, že najdete nějaké řešení jak se vypořádat s tím rozšiřujícím se problémem dříve, než nám přeroste přes hlavu. Přeci ten plevel, co považuje Svíčkovou čtvrť za svůj domov, nebudeme donekonečna trpět.{^n}{^n}S úctou,{^n}{^n}-Ronald Marion
+
+#MalmouthAetherialEnclave_01
+tagGDX1LoreObj_AreaF_NoteA13Name=Hlášení rady pro Theodina Marcella
+tagGDX1LoreObj_AreaF_NoteA13codexTitle=Hlášení rady
+tagGDX1LoreObj_AreaF_NoteA13Text=S potěšením mohu oznámit, že navzdory našim počátečním zpožděním se naše úsilí ve Valburském přístavu vyplatilo a náš plán se může uskutečnit v plném rozsahu. Zprávy od Nejvyššího radního Van Aldritche naznačují, že sbírka vzorků je nyní kompletní a budou zabaleny a připraveny pro vaše další osobní potřeby. Zdá se, že naše investice do těchto otroků se vyplatila, jak jste sám usoudil.{^n}{^n}Naším posledním úkolem je přesunout vzorky do přístavu. Přesměroval jsem dodávky do Černoželezných doků, kde je důkladnější prohlídka nákladu méně pravděpodobná díky častým vojenským dodávkám a vytíženosti přístavních dělníků, takže jsou zaneprázdněni natolik, aby neměli čas pokládat nějaké hloupé otázky.{^n}{^n}Navzdory tomu máme přes to všechno malý dohled nad přesuny. Vernath, jakožto šéf přístavu, se ukázal být překvapivě snadný cíl. Je to drobný a nejistý chlápek, což jsou vlastnosti zajišťující snadnou manipulaci. Skrze něj můžeme kontrolovat ostatní správce přístavu, nařídili jsme jim, aby posílali týdenní výkazy o tom, co se děje, každou neobvyklou aktivitu nebo neočekávané připlutí. Tím můžeme sledovat, co se v přístavu děje mnohem podrobněji a umlčet jakýkoliv nešťastný únik informací o našich plánech dříve, než nastane Slavnostní úsvit. Rychlé vypořádání se s nehodami nažene strach mezi přístavní dělníky zajistí, aby se předešlo dalším nehodám a dávali si větší pozor.{^n}{^n}Mimochodem, zpracování rodů z Korunního kopce proběhlo poměrně rychle. Jak je mezi těmito lidmi poměrně běžné, bohatí lidé tohoto města jsou ješitní, neloajální a prahnoucí po moci. Soupeří mezi sebou i v rámci vlastní rodiny a stačí jim k tomu sebemenší záminka. Radní bude pokračovat v rozdmýchávání sporů, dokud nebudeme mít dostatečný vliv na městskou elitu a nevybereme z nich ty nejsnadnější cíle, které budeme moci ovládnout.{^n}{^n}S úctou,{^n}{^n}Radní z rezidence{^n}{^n}Alberran Rein
+
+#MalmouthAetherialFactory_01
+tagGDX1LoreObj_AreaF_NoteA14Name=Nová dohoda
+tagGDX1LoreObj_AreaF_NoteA14Text=Naše nedávné nezdary v Homesteadu a i ty pozdější nejsme schopni jen tak přejít. Ačkoliv, věřím že můžeme tyto nešťastné situace využít v náš prospěch. Nesmíme ustat v podněcování roztržek mezi těmito podřadnými stvůrami. Zatímco jsou lidé zaslepeni vírou v děti Mrtvého boha, musíme využít příležitost k tomu, abychom přehodnotili naše priority. Na doporučení nejvyššího pána Van Aldritche jsem se rozhodl změnit naši nedávnou dohodu.{^n}{^n}Tato dohoda spočívá v tom, že náš chirurg bude okamžitě přesunut zpět do Malmouthu, aby dokončil svou práci bez dalších přerušení. Pokrok na Jatkách v jeho nepřítomnosti zcela ustrnul, což je závažná chyba.{^n}{^n}Marcell bude zpět dosazen do křesla v radě Malmouthu, kde se zaměří na rozjetí továrny a bude zde klíčovým prvkem. Tento projekt nesmí být už oddalován. Nedostatek vzorků tak už nebude tolerován.{^n}{^n}Všechny okolní oblasti musí zdvojnásobit sběry a okamžitě začít přesměrovávat veškeré dodávky do Malmouthu.{^n}{^n}-Orin Vostra, Čtvrtý z Kruhu pěti
+
+#MalmouthAetherialFactory_02
+tagGDX1LoreObj_AreaF_NoteA15Name=Porodní úspěchy
+tagGDX1LoreObj_AreaF_NoteA15Text=S potěšením oznamuji, že naše nedávné experimenty s lidskými ženami byly výjimečně úspěšné.{^n}{^n}Zdá se, že hostitelky jsou mnohem vnímavější vůči našim způsobům oplození, než si původně myslely. Navíc mladší a vyzrálejší vzorky měly za následek mnohem rychlejší vývoj plodů. Jejich těla jsou odolnější a mnohem častěji nám umožňují zvyšovat frekvenci oplodňování s úchvatnými výsledky. Tyhle vzorky se ukázaly být schopné hostit dvě nebo více vajíček ve svém lůně. Snížili jsme tak požadovanou dobu březosti o polovinu a díky dlouhověkosti mladších hostitelek jsme přesvědčeni, že bychom mohli proces ještě více urychlit.{^n}{^n}Plně věřím, že můžeme dosáhnout dalších vylepšení, pokud budeme udržovat stálou zásobu vzorků. Nicméně tím, jak se populace v Malmouthu povážlivě tenčí, bude pravděpodobně potřeba začít využívat našich rezerv živých lidí z Erulanu a dalších oblastí.
+
+#MalmouthAetherialFactory_03
+tagGDX1LoreObj_AreaF_NoteA16Name=Úřední dopis Mistrovskému řezníkovi
+tagGDX1LoreObj_AreaF_NoteA16Text=Nejprve se chci omluvit za mou obhroublou mluvu při naší nedávné komunikaci. Vaše dřívější pokusy v Malmouthu znepokojily Kruh a měli jsme za to, že jste se odklonil od Plánu. Teď už víme, že jsme se v našem úsudku spletli.{^n}{^n}Kruh se pečlivě seznámil s výsledky Vašich pokusů s živou lidskou tkání a přiřadil jim nejvyšší prioritu. Pokud se Vaše závěry ukáží jako pravdivé, pak okamžitě přehodnotíme celý Plán bez jakéhokoliv otálení; přeci jen tyto nové poznatky přináší zcela nové vize.{^n}{^n}To nás přivádí k další věci, kvůli které Vám píši. Kruh byl varován před mísením Aetheru a případnými následky. Velké oči upoutaly pozornost k tomuto světu. Pokud je někdo informuje, pak může být všechno, co jsme vytvořili, a všechno, co jsme získali, ve velkém ohrožení. Naše velká vize nesmí být přerušena nějakým rozjímáním z druhého konce vesmíru.{^n}{^n}Vítězství máme na dosah, jen jej uchopit. Je třeba být prozíravý a splnit svou část úkolu bez nějakého selhání. Já pevně věřím, že máte dostatek zkušeností a budete předcházet komplikacím, Mistře. Žádná zpoždění Vám nebudou tolerována. Už si nemůžeme dovolit dále čekat.{^n}{^n}-Orin Vostra, Čtvrtý z Kruhu pěti
+
+#MalmouthIndustrial_04 Theodin
+tagGDX1LoreObj_AreaF_NoteA17Name=Rozvrácení města
+tagGDX1LoreObj_AreaF_NoteA17Text=Dorazil jsem do rodiště svého podřízeného, tak jak byla dohoda. Teď se musím pečlivě snažit splnit svůj úkol a zajistit, aby naše operace v Malmouthu probíhaly podle plánu a v daných časových úsecích.{^n}{^n}Tento poddaný se ukázal být ideálním partnerem, se kterým mohu dokonat pád celého města. Dostal vzdělání v hlavním městě, jelikož si to jeho bohatá rodina mohla dovolit. Ta také měla kontakty na všechny lepší lidi, kteří v Malmouthu žili. Absolutně mu chybí představa o tom, jak to chodí v nižších společenských třídách, jakýkoliv soucit a empatie, a vůbec nějaké cítění k bližnímu svému. Dychtil být vzdělaným, nabýt vědomosti, kterým se ostatní vyhýbali nebo je nepovažovali za důležité. Tím se vlastně sám vyčlenil ze společnosti a zcela nenásilně jsem nad ním mohl převzít kontrolu. Teď je celý můj.{^n}{^n}Jako Theodin Marcell se teď pustím do městské smetánky a roznesu zkázu mezi lidi podobně jako když začne řádit šelma mezi stádem svých obětí. Jak se dá jednoduše rozvrátit město? Tím, že zaseješ semeno zla mezi nejslabší články společnosti o tom, jak na jejich úkor ti druzí vzkvétají. A mou rukou bude ten rozkvět pořádný.{^n}{^n}-Theodin Marcell, chirurg
+
+
+tagGDX1LoreObj_AreaF_MadRamblingsName=Úryvek z Ivondiny paměti
+tagGDX1LoreObj_AreaF_MadRamblingsCodexTitle=Ivondina paměť
+tagGDX1LoreObj_AreaF_MadRamblingsText=Pod točitou věží,{^n} pod podlahou, tam kde posel leží,{^n}tam sejdeš po schodech, a do skrytých dveří{^n}klíč, kde hořící uhlí...
+
+tagLoreObj_AreaF_KatrineNote_Name=Katrinin dopis Alici
+tagLoreObj_AreaF_KatrineNote_Text=Má nejdražší Alice, zklamala jsem tě.{^n}{^n}Hledala jsem tě tak dlouho, dokud mé choré nohy mne dokázaly nést a teď jsem na pokraji smrti.{^n}{^n}Tím jak je má cesta téměř na konci, je mé srdce naplněno hrůzou. Přeji si jediné, naposledy tě chytit za ruku a slyšet bít tvé srdce, vidět tvůj úsměv na tváři... vím, že se mi tohle už nepoštěstí.{^n}{^n}Svět není nakloněn přáním a naděje mě dávno opustila. Ale modlím se, aby tys přežila všechny ty hrůzy, které nás vyhnaly z domova.{^n}{^n}Kamkoliv půjdu, ať se děje cokoliv, vždycky tě budu hledat, mé milované děťátko. S láskou, máma.
+
+tagGDX1LoreObj_AreaF_Puppetmaster01Name=Allostriiny příkazy
+tagGDX1LoreObj_AreaF_Puppetmaster01Text=Dle našeho nařízení se musíte neprodleně odebrat do Malmouthu. Využijte veškeré zdroje, aby tato výprava proběhla co nejrychleji a neztráceli jste čas. Jakmile dorazíte, zjistěte, jaký je posun vlády Mistrovského řezníka. Máme určité důvody se domnívat, že jeho nedávné aktivity byly v rozporu s původním posláním a naše společné vize jsou ohroženy.{^n}{^n}Pokud se potvrdí naše obavy, pak jej okamžitě dopravte zpět do Erulanu a zaujměte jeho pozici v srdci našich operací v Malmouthu. Pokud se ovšem naše domněnky nepotvrdí, ihned odešlete hlášení a zajistěte, aby naše společné plány systematicky pokračovaly.{^n}{^n}Musíme být v našich akcích rychlí, Jejich oko nás neustále sleduje. Žádný kousek skládačky nesmí vypadnout a rozmary jednoho nesmí převýšit celý plán. Nechceme být v ohrožení, když je vítězství tak blízko.{^n}{^n}-Orin Vostra, Čtvrtý z Kruhu pěti
+
+tagGDX1LoreObj_AreaF_Special01Name=Otoč to!
+tagGDX1LoreObj_AreaF_Special01Text=Vnímám tvé smysly, dobrodruhu, tu neochvějnou touhu. Ale nakonec se většina smrtelníků snaží vyhnout své smrti. Pokud se dostatečně nebojíš, pak opravdu směle pokračuj dál.{^n}{^n}Jsi nějak pobledlý, smrtelníku. Až se Oheň setká s Plamenem, cesta bude otevřena a naše setkání bude o krok blíže.
+
+tagGDX1LoreObj_AreaF_Special02Name=Tvá poslední šance!
+tagGDX1LoreObj_AreaF_Special02Text=Cesta vpřed je dlážděna kostmi vyzyvatelů, a ty jsi jen další z nich. Všichni procitli do reality, která nemá co dočinění s porozuměním.{^n}{^n}Vrať se, dokud můžeš, smrtelníku, aby má říše nepromluvila i k tobě.
+
+tagGDX1LoreObj_AreaF_Special03Name=Vypadni!
+tagGDX1LoreObj_AreaF_Special03Text=Tvá vytrvalost mě baví, smrtelníku. Chováš se jako gladiátor v aréně života, který se snaží neurvale prorvat davem průměrnosti.{^n}{^n}Ale tady, v mé říši, seš pouze další blázen hledající cenu, která by z tebe udělala hrdinu. Nakonec je přeci jen chamtivost Zárodkem všeho zla, která je vykoupena krví.
+
+
+#Guards
+
+
+#Merchants and Other Services
+
+tagGDX1NPC_MerchantC101=Vinelton
+tagGDX1StoreTitle_MerchantC101=Harampádí
+
+#Area E
+tagGDX1NPC_ReallocatorA01=Novi
+tagGDX1StoreTitle_ReallocatorA01=Kaplanka
+
+tagGDX1NPC_MerchantA01=Igallia
+tagGDX1StoreTitle_MerchantA01=Čarodějné předměty
+
+tagGDX1NPC_MerchantA02=Slečna Wealay
+tagGDX1StoreTitle_MerchantA02=Běžné předměty
+
+tagGDX1NPC_SmugglerA01=Ogarra
+tagGDX1StoreTitle_SmugglerA01=Pašerák
+
+#Area F
+tagGDX1NPC_ReallocatorA02=Rena
+tagGDX1StoreTitle_ReallocatorA02=Kaplanka
+
+tagGDX1NPC_InventorA01=Nadia
+tagGDX1StoreTitle_InventorA01=Vynálezkyně
+
+tagGDX1NPC_MerchantA03=Hyram
+tagGDX1StoreTitle_MerchantA03=Vzácné zboží
+
+tagGDX1NPC_MerchantA04=Hannah
+tagGDX1StoreTitle_MerchantA04=Zboží uprchlíků
+
+tagGDX1NPC_SmugglerA02=Igor
+tagGDX1StoreTitle_SmugglerA02=Pašerák
+
+tagGDX1NPC_SmithA01=Kaylon
+tagGDX1StoreTitle_SmithA01=Mistrovský kovář
+tagGDX1StoreDesc_SmithA01_1={}Skuté v Malmouthu
+tagGDX1StoreDesc_SmithA01_2=Kaylon je mistr vyučený v Malmouthských kovárnách. Jeho zbraně a výstroje nemají v širokém okolí konkurenci.
+tagGDX1StoreDesc_SmithA01_3=
+tagGDX1StoreDesc_SmithA01_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
+
+tagGDX1NPC_SmithA02=Gaius Ember
+tagGDX1StoreTitle_SmithA02=Kovář ohně
+tagGDX1StoreDesc_SmithA02_1={}Trýznivý oheň
+tagGDX1StoreDesc_SmithA02_2=Gaius je prokletý věčným utrpením, trýzněním, které převedl do své práce.
+tagGDX1StoreDesc_SmithA02_3=
+tagGDX1StoreDesc_SmithA02_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
+
+tagGDX1NPC_SmithA03=Bella Fald
+tagGDX1StoreTitle_SmithA03=Nebeská kovářka
+tagGDX1StoreDesc_SmithA03_1={}Nebeská výheň
+tagGDX1StoreDesc_SmithA03_2=Povídá se, že kladivo Belly Fald bylo skuto přímo ze samotných hvězd, jelikož je schopné vytvořit legendární předmět až do 94. úrovně.
+tagGDX1StoreDesc_SmithA03_3=
+tagGDX1StoreDesc_SmithA03_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
+
+tagGDX1NPC_SmithA04=Arcturus
+tagGDX1StoreTitle_SmithA04=Prokletý kovář
+tagGDX1StoreDesc_SmithA04_1={}Temná výheň
+tagGDX1StoreDesc_SmithA04_2=Arcturovo kladivo bylo zdeformováno temnou magií, což bylo sice zbytečné, ale stále schopné plnit vůli svého pána.
+tagGDX1StoreDesc_SmithA04_3=
+tagGDX1StoreDesc_SmithA04_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
+
+tagGDX1NPC_IllusionistA01=Wevala
+tagGDX1NPC_IllusionistA02=Paulia
+tagGDX1NPC_IllusionistA03=Allios
+tagGDX1NPC_IllusionistA04=Grados
+tagGDX1StoreTitle_IllusionistA01=Iluzionista
+
+
+
+
+
+#Faction Quartermasters
+tagGDX1NPC_FactionQuartermaster_01=Falonestra
+tagGDX1StoreTitle_FactionQuartermaster_01=Čarodějné předměty
+
+tagGDX1NPC_FactionQuartermaster_02=Plaudia
+tagGDX1StoreTitle_FactionQuartermaster_02=Forman
+
+tagGDX1NPC_FactionQuartermaster_03=Igrid Galstrom
+tagGDX1StoreTitle_FactionQuartermaster_03=Kustod
+
+tagGDX1NPC_FactionQuartermaster_04=Ronan Karkan
+tagGDX1StoreTitle_FactionQuartermaster_04=Forman
+
+
+#Faction Bounty Tables
+tagGDX1NPC_FactionTable_01=Vývěska u Lóže čarodějek v Ugdenbogu
+tagGDX1NPC_FactionTable_02=Vývěska v Barrowholmu
+tagGDX1NPC_FactionTable_03=Vývěska v Malmouthu
+
+
+#Devotion Shrines
+tagGDX1DevotionShrineE01=Gloomwald
+tagGDX1DevotionShrineE02=Ugdenbog
+
+tagGDX1DevotionShrineF01=Malmouth
+tagGDX1DevotionShrineF02=Korunní kopec
+tagGDX1DevotionShrineF03=Starodávný háj
+
+tagGDX1DevotionShrineS03=???
+

@@ -1,0 +1,1347 @@
+
+#Weapons
+tagGDX2WeaponSwordB201=[ns]{^L}Płonące Ostrze Korvaaka
+tagGDX2WeaponSwordB201_Desc="Oddany przez Korvaaka lojalnym wybrańcom, do dowodzenia pomniejszymi przywołańcami."
+tagGDX2WeaponSwordB202=[ns]{^L}Burzowe Ostrze Korvaaka
+tagGDX2WeaponSwordB202_Desc="Oddany przez Korvaaka lojalnym wybrańcom, by razić linie wroga."
+tagGDX2WeaponSwordB203=[ns]{^L}Uświęcone Ostrze Kymona
+tagGDX2WeaponSwordB203_Desc="Ostrze uświęcone krwią Korvaaka, przekazywane jego czempionom."
+tagGDX2WeaponSwordB204=[fs]{^L}Zemsta Krwawego Władcy
+tagGDX2WeaponSwordB205=[ms]{^L}Szpon Ravny
+tagGDX2WeaponSwordB206=[ns]{^L}Ostrze Narena Kura
+tagGDX2WeaponSwordB206_Desc="Okazuje się, że istniały granice, których nie chcieli przekroczyć nawet akroviańscy oligarchowie."
+
+tagGDX2WeaponSwordC201=[fs]{^B}Cnota Płomienia
+
+tagGDX2WeaponSwordD201=[fs]{^I}Latorośl Toksycznych Ran
+tagGDX2WeaponSwordD201_Desc="Jad wypełniający to ostrze śmierdzi żółcią i zgnilizną."
+tagGDX2WeaponSwordD202=[ns]{^I}Ostrze Dusz
+tagGDX2WeaponSwordD205=[ns]{^I}Serce Chłodu
+tagGDX2WeaponSwordD205_Desc="Na rękojeści pospiesznie wyryte słowa 'utknąłem w innej rzeczywistości, proszę wysłać pomoc'"
+tagGDX2WeaponSwordD206=[ns](S) {^I}Ostrze Wydmowego Wroga
+tagGDX2WeaponSwordD207=(S) {^I}Przecinak Wydmowego Wroga
+tagGDX2WeaponSwordD208={^I}Noctirn
+
+tagGDX2WeaponSwordF201=[ns]{^B}Ostrze Bysmiel
+tagGDX2WeaponSwordF202={^B}Przecinak Solaela
+tagGDX2WeaponSwordF203={^I}Krwawy Oprawiacz
+
+
+tagGDX2WeaponBluntB201={^L}Obijacz Skorpiona
+tagGDX2WeaponBluntB202=[fs]{^L}Maczuga Skorpiona
+tagGDX2WeaponBluntB203=[ns]{^L}Ukąszenie Gannar'vakkara
+tagGDX2WeaponBluntB204={^L}Korzeń Bargolla
+tagGDX2WeaponBluntB204Desc="Korzeń Bargoll wygłodniale szuka magicznych źródeł."
+
+tagGDX2WeaponBluntC201={^B}Młotek Kalastorian
+
+tagGDX2WeaponBluntD201={^I}Młotek Wygłodniałych Dusz
+tagGDX2WeaponBluntD202={^I}Herald Amatoka
+tagGDX2WeaponBluntD203=(S) {^I}Pobijak Targo
+tagGDX2WeaponBluntD204={^I}Całkowicie Zwyczajny Puklerz
+tagGDX2WeaponBluntD205={^I}Całkowicie Zwyczajny Odłamek
+tagGDX2WeaponBluntD206=[fs]{^I}Całkowicie Zwyczajna Zapora
+tagGDX2WeaponBluntD207={^I}Prześladowca Krypt
+tagGDX2WeaponBluntD208={^F}Całkiem Zwyczajny Arbiter
+tagGDX2WeaponBluntD208_Desc="To nie jest tarcza, której poszukujesz."
+tagGDX2WeaponBluntD209={^F}Całkiem Zwyczajny Obrońca
+tagGDX2WeaponBluntD209_Desc="Leworęczni będą zawiedzeni."
+
+tagGDX2WeaponBluntF201={^B}Młot Bojowy Bysmiel
+tagGDX2WeaponBluntF202={^B}Młot Bojowy Solaela
+tagGDX2WeaponBluntF203={^I}Chwyt Bysmiel
+
+
+tagGDX2WeaponAxeB201=[fs]{^L}Szatkownica Piaskowego Pazura
+tagGDX2WeaponAxeB202=[fs]{^L}Szatkownica Stopionego Pazura
+tagGDX2WeaponAxeB203=[fs]{^L}Szatkownica Szczelinowego Pazura
+tagGDX2WeaponAxeB204=[fs]{^L}Kościana Szatkownica
+tagGDX2WeaponAxeB205=[fs]{^L}Brzytwa Służącego
+tagGDX2WeaponAxeB206=[ns]{^L}Zakażone Ostrze Bulgura
+
+tagGDX2WeaponAxeC201=[fs]{^B}Krawędź Zasłony
+
+tagGDX2WeaponAxeD201={^I}Żużelnik
+tagGDX2WeaponAxeD202=[fs]{^I}Latorośl Purpurowego Przebudzenia
+tagGDX2WeaponAxeD202_Desc="Powietrze pulsuje od intensywnego ciepła krążącego wokół ostrza tej broni."
+tagGDX2WeaponAxeD203={^I}Burzorozrywacz
+tagGDX2WeaponAxeD203_Desc="Ostrze rozrywa powietrze z pierwotną mocą burzy."
+
+tagGDX2WeaponAxeF201={^B}Tasak Bysmiel
+tagGDX2WeaponAxeF202={^B}Tasak Dreega
+tagGDX2WeaponAxeF203={^I}Koruption
+
+
+tagGDX2WeaponGun1hB201={^L}Żmijowy Świst Piasku
+tagGDX2WeaponGun1hB202={^L}Żmijowy Wykrwawiacz
+tagGDX2WeaponGun1hB203={^L}Powtarzacz Ugdenbog
+tagGDX2WeaponGun1hB103Desc="Wypełniony duchem samego Wendigo."
+tagGDX2WeaponGun1hB204={^L}Detonator Rutnicka
+tagGDX2WeaponGun1hB204Desc="Desperacja prowadzi do okrutnych rozwiązań."
+
+tagGDX2WeaponGun1hC201=[ns]{^B}Pustynne Ukąszenie
+tagGDX2WeaponGun1hC202={^B}Wzmacniacz Cieniociernia
+
+tagGDX2WeaponGun1hD201=[fs]{^I}Latorośl Płonącej Zemsty
+tagGDX2WeaponGun1hD202={^I}Nosiciel Przysięgi
+tagGDX2WeaponGun1hD202_Desc="Naznaczony przez niezłomne przysięgi, uwolniony przez śmierć."
+tagGDX2WeaponGun1hD203={^I}Arcanum Frigus
+tagGDX2WeaponGun1hD204=[fs](S) {^I}Broń Osobista Ludrigana
+tagGDX2WeaponGun1hD205={^I}Łamacz Faz
+tagGDX2WeaponGun1hD205_Desc="Pociski wystrzelone z tej broni, mkną przez światy jakby przez zwyczajne powietrze."
+
+tagGDX2WeaponGun1hF201=[ns]Ręczne Działo Bysmiel
+tagGDX2WeaponGun1hF202=[ns]Ręczne Działo Dreega
+tagGDX2WeaponGun1hF203={^I}Krwawy Świder
+
+tagGDX2WeaponGun2hB201={^L}Powtarzacz Posłańca
+tagGDX2WeaponGun2hB201_Desc="Każdy pocisk to zwiastun niszczycielskiej zemsty Korvaaka."
+tagGDX2WeaponGun2hB202=[ns]{^L}Płomienne Działo Posłańca
+tagGDX2WeaponGun2hB202_Desc="Każdy pocisk to zwiastun niszczycielskiej zemsty Korvaaka."
+tagGDX2WeaponGun2hB203={^L}Miotacz Ognia Ugdenbog
+
+tagGDX2WeaponGun2hC201={^B}Sangvinar
+
+tagGDX2WeaponGun2hD201={^I}Korvański Wyrm
+tagGDX2WeaponGun2hD201_Desc="Wielki Wyrm przemienia wszystko czego dotknie w pył."
+tagGDX2WeaponGun2hD202={^I}Soullance
+tagGDX2WeaponGun2hD202_Desc="Każdy strzał został napełniony wieczną męką Korvańskiej duszy."
+
+tagGDX2WeaponGun2hF201=[fs]{^B}Kusza Dreega
+tagGDX2WeaponGun2hF202=[fs]{^B}Kusza Solaela
+tagGDX2WeaponGun2hF203={^I}Pożeracz Solaela
+
+
+tagGDX2WeaponMelee2hB201=[fs]{^L}Korvańska Płonąca Halabarda
+tagGDX2WeaponMelee2hB202=[fs]{^L}Korvańska Burzowa Halabarda
+tagGDX2WeaponMelee2hB203=[fs]{^L}Halabarda Ochmistrza
+tagGDX2WeaponMelee2hB203_Desc="Tętniący niesłychaną mocą samych gwiazd."
+tagGDX2WeaponMelee2hB204={^L}Młot Barthollema
+tagGDX2WeaponMelee2hB205=[fs]{^L}Korvańska Nadprzyrodzona Halabarda
+tagGDX2WeaponMelee2hB206=[fs]{^L}Korvańska Kosząca Halabarda
+tagGDX2WeaponMelee2hB207=[fs]{^L}Korvańska Niebiańska Halabarda
+tagGDX2WeaponMelee2hB207_Desc="To ostrze umiera z głodu."
+tagGDX2WeaponMelee2hB209={^L}Dwuręczniak Zwiastuna Słońca
+
+tagGDX2WeaponMelee2hC201=[ns]{^B}Ostrze Zjawy
+tagGDX2WeaponMelee2hC202=[ns]{^B}Ostrze Furii
+tagGDX2WeaponMelee2hC203={^Z}Gniew Morgonetha
+tagGDX2WeaponMelee2hC203_Desc="Potężny młot, którym władał Morgoneth przed swoim upadkiem w ciemność."
+
+tagGDX2WeaponMelee2hD201={^I}Dreegal'anore
+tagGDX2WeaponMelee2hD201_Desc="Ceniona broń Athula Plugawiciela, drugiego czempiona Wielkiego Strażnika."
+tagGDX2WeaponMelee2hD202={^I}Zasięg Nadaana
+tagGDX2WeaponMelee2hD202_Desc="Legendarne ostrze wykute na cześć patrona złodziei i zabójców, dzierżone przez niezliczone nocne ostrza na przestrzeni wieków, zanim przepadło na całe stulecia."
+tagGDX2WeaponMelee2hD203={^I}Gniew Tenebris
+tagGDX2WeaponMelee2hD203_Desc="Złodziej życia Tenebris, Spijający Krew, uświęcony w sercu pustki."
+tagGDX2WeaponMelee2hD204={^F}Przyzywacz Nocy
+tagGDX2WeaponMelee2hD204_Desc="Potężna broń Morgonetha, wykuta ze spadającej gwiazdy."
+tagGDX2WeaponMelee2hD205={^I}Potomek Magicznych Mocy
+tagGDX2WeaponMelee2hD206={^I}Potomek Krzyczącej Przesłony
+
+tagGDX2WeaponMelee2hF201={^B}Wielki Miecz Dreega
+tagGDX2WeaponMelee2hF202={^B}Ścinacz Solaela
+tagGDX2WeaponMelee2hF203={^I}Rancor
+tagGDX2WeaponMelee2hF203_Desc="Ostrze, o którym sądzi się, że było dzierżone przez samego Dreega w jego śmiertelnym wcieleniu."
+tagGDX2WeaponMelee2hF204={^I}Złość
+tagGDX2WeaponMelee2hF204_Desc="Żądło Sekty Dreega."
+
+tagGDX2WeaponCaster1hB201=[ns]{^L}Zatrute Ostrze Segariusa
+tagGDX2WeaponCaster1hB201_Desc="Święte niegdyś ostrze, skażone dotykiem otchłani."
+tagGDX2WeaponCaster1hB202=[ns]{^L}Wyświęcone Ostrze Segariusa
+tagGDX2WeaponCaster1hB202_Desc="Święte ostrze przekazane przez samego Ojca Kymona."
+tagGDX2WeaponCaster1hB203=[ns]{^L}Szkarłatne Berło Zohydzenia
+tagGDX2WeaponCaster1hB204=[ns]{^L}Szkarłatne Berło Tajemnicy
+tagGDX2WeaponCaster1hB205={^L}Autorytet Panującego
+
+tagGDX2WeaponCaster1hC201=[fs]{^B}Zasłona Mroku
+tagGDX2WeaponCaster1hC202=[ns]{^B}Wezwanie Alakriana
+tagGDX2WeaponCaster1hC202_Desc="Nieortodoksyjna praktyka Alakriana przekształcania esencji życiowej w siłę magii, nie spotkała się z entuzjazmem w Gildam Arcanum."
+
+tagGDX2WeaponCaster1hD201=[fs]{^I}Magiczna Klinga Alladraha
+tagGDX2WeaponCaster1hD201_Desc="Rdzeń tego ostrza stanowi pojedyncze pióro feniksa."
+tagGDX2WeaponCaster1hD202={^I}Dekret Koła Pięciu
+tagGDX2WeaponCaster1hD202_Desc="Ich wola, ich głos, ich rozkaz..."
+tagGDX2WeaponCaster1hD203=[fs]{^I}Latorośl Gorzkich Wiatrów
+tagGDX2WeaponCaster1hD203_Desc="To berło odbija się echem wraz z gorzkim wiatrem przełęczy."
+tagGDX2WeaponCaster1hD204=[fs]{^I}Łaska Empyriona
+tagGDX2WeaponCaster1hD205=[ns](S) {^I}Ostrze Mroźnego Szeptu
+tagGDX2WeaponCaster1hD206=(S) {^I}Wyrok Trójcy
+tagGDX2WeaponCaster1hD207=(S) {^I}Wykrawacz Pana Zarazy
+tagGDX2WeaponCaster1hD208=[fs]{^I}Iglica Otchłani
+
+tagGDX2WeaponCaster1hF201={^B}Przyzywacz Burz Bysmiel
+tagGDX2WeaponCaster1hF202={^B}Przyzywacz Dusz Bysmiel
+tagGDX2WeaponCaster1hF203={^B}Tkacz Przesłony Dreega
+tagGDX2WeaponCaster1hF204={^B}Tkacz Trucizny Dreega
+tagGDX2WeaponCaster1hF205={^B}Władca Płomieni Solaela
+tagGDX2WeaponCaster1hF206={^B}Władca Krwi Solaela
+tagGDX2WeaponCaster1hF207={^I}Tkacz Umysłu Bysmiel
+tagGDX2WeaponCaster1hF208={^I}Vampirris
+
+
+
+#Shields
+tagGDX2ShieldB201=[fs]{^L}Skorupa Skarabeusza
+tagGDX2ShieldB202={^L}Pancerz Skarabeusza
+tagGDX2ShieldB203={^L}Kolosalny Obrońca
+tagGDX2ShieldB204={^L}Powykrzywiany Obrońca
+tagGDX2ShieldB205={^L}Obsydianowy Obrońca
+tagGDX2ShieldB206={^L}Szkielet Chillblood'a
+
+tagShieldC015B=[ms]{^B}Gladiator
+
+tagGDX2ShieldC201=[fs]{^B}Burzowa Garda
+tagGDX2ShieldC201_Desc="Przepełniony nagromadzoną mocą potężnej burzy z piorunami."
+tagGDX2ShieldC202={^B}Obserwator z Krainy Mroźnej Północy
+tagGDX2ShieldC203=[fs](S) {^B}Beluarda Kamiennego Ojca
+
+tagGDX2ShieldD201={^I}Bramblevin
+tagGDX2ShieldD202={^I}Grobowy Dotyk
+tagGDX2ShieldD203=(S) {^I}Obrońca Cnoty
+tagGDX2ShieldD204=(S) {^I}Obrońca Trójcy
+tagGDX2ShieldD205=[fs](S) {^I}Zapora Pochłoniętej Duszy
+tagGDX2ShieldD206=[fs]{^I}Zapora Hyriana
+tagGDX2ShieldD207=[fs]{^I}Nocna Skorupa
+
+tagGDX2ShieldF201={^B}Obrońca Bysmiel
+tagGDX2ShieldF202={^B}Protektor Dreega
+tagGDX2ShieldF203=[ns]{^I}Zaćmienie
+
+
+
+#Focus
+tagGDX2FocusB201=[fs]{^L}Piaskowa Kukła Grobli
+tagGDX2FocusB202=[fs]{^L}Szmatława Kukła Grobli
+tagGDX2FocusB203=[ns]{^L}Wzbudzone Widmo
+tagGDX2FocusB204=[ns]{^L}Zniewolone Widmo
+tagGDX2FocusB205=[ns]{^L}Archiwum Zarthuzellana
+tagGDX2FocusB206=[ns]{^L}Kazanie Ojca Abaddotha
+tagGDX2FocusB206_Desc="Nie jest do końca jasne, kiedy nauki Abaddoth'a przekształciły się z przesłania Menhira w szepty mroku, ani ilu akolitów przyciągnęła jego sekta."
+
+tagGDX2FocusC201={^B}Kodeks Rozliczenia
+tagGDX2FocusC202={^B}Manifestarius
+tagGDX2FocusC203=(S) {^B}Tom Gnijącego Blasku
+tagGDX2FocusC204={^B}Ślad Tropionej Bestii
+tagGDX2FocusC204_Desc="To z pewnością wiele... emocji."
+
+tagGDX2FocusD201={^I}Wyrok Empyriona
+tagGDX2FocusD201_Desc="Teksty przechowywane niegdyś w Iglicy Empyriona, której lokalizacja została na zawsze utracona."
+tagGDX2FocusD202={^I}Uchwyt Śmierci
+tagGDX2FocusD203={^I}Kodeks Gwałtownych Szczelin
+tagGDX2FocusD204=[fs]{^I}Księga Pojednania
+tagGDX2FocusD204_Desc="Pojednanie przez czyn."
+tagGDX2FocusD205=[fs]{^F}Głowa Inashkora
+tagGDX2FocusD205_Desc="Potężny strażnik ludu Korvan poległ, ale jego upiorna moc pozostaje nietknięta."
+tagGDX2FocusD206=[fs](S) {^I}Kukła Cyklonu
+tagGDX2FocusD207=[fs]{^F}Zdeprawowana Głowa Inashkora
+tagGDX2FocusD207_Desc="Potężny strażnik ludu Korvan padł z ręki Chtonickiego najeźdźcy, a jego niegdyś chwalebna moc została na zawsze skażona pustką."
+tagGDX2FocusD208=[fs](S) {^I}Kukła Pyrana
+tagGDX2FocusD209=[fs]{^F}Głowa Jarinthora
+tagGDX2FocusD209_Desc="Głowa strażnika Korvanu, o historii której lepiej zapomnieć."
+tagGDX2FocusD210=[fs]{^F}Głowa Hallanxa
+tagGDX2FocusD210_Desc="Choć wykonana z kamienia, głowa tego strażnika cuchnie zgnilizną."
+tagGDX2FocusD211={^I}Potomek Niebiańskich Przepowiedni
+tagGDX2FocusD212=[fs]{^I}Brama Wielu Światów
+tagGDX2FocusD212_Desc="Splot rzeczywistości wiję się, zagrażając światom rozplątaniem."
+
+tagGDX2FocusF201=[fs]{^B}Kukła Pustoognia Bysmiel
+tagGDX2FocusF202=[fs]{^B}Splamiona Kukła Bysmiel
+tagGDX2FocusF203=[fs]{^B}Księga Duchów Dreega
+tagGDX2FocusF204=[fs]{^B}Księga Przesłony Dreega
+tagGDX2FocusF205=[fs]{^B}Tom Niebiańskiego Tworzenia Solaela
+tagGDX2FocusF206=[fs]{^B}Tom Pustki Solaela
+tagGDX2FocusF207=[ns]{^I}Słowo Solaela
+tagGDX2FocusF207_Desc="Okrutne słowa Solaela przekazane jego kapłanom."
+
+
+
+#ArmorHead
+tagGDX2HeadB201=[ns]{^L}Oblicze Wybranych
+tagGDX2HeadB202=[fs]{^L}Maska Wybranych
+tagGDX2HeadB203={^L}Korvański Kask
+tagGDX2HeadB204={^L}Korvański Hełm
+tagGDX2HeadB205=[ns]{^L}Spojrzenie Wybranych
+tagGDX2HeadB206=[ns]{^L}Korvańskie Spojrzenie
+tagGDX2HeadB207=[ns]{^L}Oblicze Gargulca
+tagGDX2HeadB208=[ns]{^L}Spojrzenie Gargulca
+tagGDX2HeadB209=[ns]{^L}Oblicze Królów
+
+tagGDX2HeadC201={^B}Kapelusz Rozrywanego Nieba
+tagGDX2HeadC202=[fs]{^B}Korona Piekielnych Klejnotów
+tagGDX2HeadC203={^B}Kaptur Wiążącego Nieprzyjaciół
+tagGDX2HeadC204=[fs]{^B}Maska Fettan
+tagGDX2HeadC204_Desc="Właściciel tego niezwykłego hełmu, jest konsumowany na przestrzeni tysięcy lat."
+tagGDX2HeadC205=[fs](S) {^B}Maska Baldira
+tagGDX2HeadC206=[fs](S) {^B}Maska Sztormowego Węża
+tagGDX2HeadC207=[fs](S) {^B}Maska Gnijącego Blasku
+tagGDX2HeadC208=(S) {^B}Kaptur Daegi
+tagGDX2HeadC209=(S) {^B}Hełm Kamiennego Ojca
+tagGDX2HeadC210=[ns]{^Z}Spojrzenie Callagadry
+tagGDX2HeadC210_Desc="Manifestacja przerażenia ludzi Korvanu, podczas ucieczki przed zniszczeniem."
+
+tagGDX2HeadD201=[ns]{^I}Spojrzenie Odłamka Świtu
+tagGDX2HeadD201_Desc="Wykute z najczystszego odłamka kryształu soladryny."
+tagGDX2HeadD202=[fs]{^I}Korona Zmartwychwstałego Króla
+tagGDX2HeadD202_Desc="Śmierć składa pokłon przed swym królem."
+tagGDX2HeadD203={^I}Hełm Soulare'a
+tagGDX2HeadD203_Desc="Słońce razi tak silnie."
+tagGDX2HeadD204=[np]{^F}Rogi Korvaaka
+tagGDX2HeadD204_Desc="Robi Niebiańskiego Władcy Nadprzyrodzonej Krainy."
+tagGDX2HeadD205=[ns]{^F}Oblicze Okalotha
+tagGDX2HeadD206=[fs](S) {^I}Maska Roztrzaskanej Krainy
+tagGDX2HeadD207=(S) {^I}Hełm Zwycięzcy
+tagGDX2HeadD208=[fs](S) {^I}Korona Mroźnego Szeptu
+tagGDX2HeadD209=(S) {^I}Kapelusz Ludrigana
+tagGDX2HeadD210=(S) {^I}Kaptur Handlarza Kości
+tagGDX2HeadD211=[ns](S) {^I}Oblicze Cnoty
+tagGDX2HeadD212=(S) {^I}Kaptur Harra
+tagGDX2HeadD213=[fs](S) {^I}Maska Cyklonu
+tagGDX2HeadD214=(S) {^I}Kaptur Pana Zarazy
+tagGDX2HeadD215=[ns]{^F}Oblicze Callagadra
+tagGDX2HeadD215_Desc="Manifestacja przerażenia ludzi Korvanu, podczas ucieczki przed zniszczeniem.."
+tagGDX2HeadD216=[fs](S) {^I}Maska Wydmowego Wroga
+tagGDX2HeadD217=[ns](S) {^I}Oblicze Pyrana
+tagGDX2HeadD218=(S) {^I}Hełm Targo
+tagGDX2HeadD219=[ns](S) {^I}Oblicze Pochłoniętej Duszy
+tagGDX2HeadD220=[fs](S) {^I}Maska Czerwonego Ducha
+tagGDX2HeadD221=[ns](S) {^F}Oblicze Morgonetha
+tagGDX2HeadD222=[fs]{^I}Ceremonialna Maska Roztrzaskanej Krainy
+tagGDX2HeadD223=[fs](S) {^I}Maska Strażnika Zasłony 
+tagGDX2HeadD224=[fs](S) {^I}Maska Konesera Flaków
+tagGDX2HeadD225=[fs](S) {^I}Maska Wzywających Zgliszczy
+
+tagGDX2HeadF201={^G}Kask Nocnego Całunu
+tagGDX2HeadF202={^G}Kaptur Przerażenia Bysmiel
+tagGDX2HeadF203=[fs]{^G}Osłona Głowy Burzowego Całunu Bysmiel
+tagGDX2HeadF204=[fs]{^G}Osłona Głowy Płomiennego Całunu Bysmiel
+tagGDX2HeadF205={^G}Kask Przerażenia Dreega
+tagGDX2HeadF206={^G}Kask Bojownika Dreega
+tagGDX2HeadF207={^G}Kaptur Zatrutego Całunu Dreega
+tagGDX2HeadF208=[fs]{^G}Osłona Głowy Obrońcy Dreega
+tagGDX2HeadF209={^G}Kask Bojownika Solaela
+tagGDX2HeadF210={^G}Kask Pustki Solaela
+tagGDX2HeadF211={^G}Kaptur Czarnego Płomienia Solaela
+tagGDX2HeadF212=[fs]{^G}Podła Osłona Głowy Solaela
+
+
+
+#ArmorShoulders
+tagGDX2ShoulderB201=[np]{^L}Naramienniki Wybranych
+tagGDX2ShoulderB202=[np]{^L}Pagony Wybranych
+tagGDX2ShoulderB203=[np]{^L}Korvańskie Naramienniki
+tagGDX2ShoulderB204=[np]{^L}Korvańskie Epolety
+tagGDX2ShoulderB205=[np]{^L}Kolce Gargulca
+tagGDX2ShoulderB206=[np]{^L}Naramienniki Królów
+
+tagGDX2ShoulderC201=[np]{^B}Narzuty Spopielonych Żył
+tagGDX2ShoulderC202=[np]{^B}Osłony Ramion Kurzyciela
+tagGDX2ShoulderC203=[np](S) {^B}Okrycia Ramion Baldira
+tagGDX2ShoulderC204=[np](S) {^B}Okrycia Ramion Gnijącego Blasku
+tagGDX2ShoulderC205=[np](S) {^B}Okrycia Ramion Daegi
+
+tagGDX2ShoulderD201=[np]{^I}Naramienniki Odłamka Świtu
+tagGDX2ShoulderD201_Desc="Wykute z najczystszego odłamka kryształu soladryny."
+tagGDX2ShoulderD202=[np]{^I}Naramienniki Kościanej Udręki
+tagGDX2ShoulderD203=[np]{^I}Okrycia Ramion Wymrożenia
+tagGDX2ShoulderD204=[np](S) {^I}Okrycia Ramion Roztrzaskanej Krainy
+tagGDX2ShoulderD205=[np](S) {^I}Okrycia Ramion Zwycięzcy
+tagGDX2ShoulderD206=[np](S) {^I}Okrycia Ramion Mroźnego Szeptu
+tagGDX2ShoulderD207=[np](S) {^I}Osłony Ramion Handlarza Kości
+tagGDX2ShoulderD208=[np](S) {^I}Osłony Ramion Cnoty
+tagGDX2ShoulderD209=[np](S) {^I}Naramienniki Trójcy
+tagGDX2ShoulderD210=[np](S) {^I}Naramienniki Harra
+tagGDX2ShoulderD211=[np](S) {^I}Okrycia Ramion Cyklonu
+tagGDX2ShoulderD212=[np](S) {^I}Naramienniki Rah'Zina
+tagGDX2ShoulderD213=[np](S) {^I}Osłony Ramion Pana Zarazy
+tagGDX2ShoulderD214=[np](S) {^I}Osłony Ramion Ghola
+tagGDX2ShoulderD215=[np](S) {^I}Narzuty Pyrana
+tagGDX2ShoulderD216=[np](S) {^I}Osłony Ramion Targo
+tagGDX2ShoulderD217=[np](S) {^I}Narzuty Pochłoniętej Duszy
+tagGDX2ShoulderD218=[np](S) {^I}Osłony Ramion Czerwonego Ducha
+tagGDX2ShoulderD219=[np](S) {^I}Ciemne Narzuty Morgonetha
+tagGDX2ShoulderD220=[np]{^I}Ceremonialne Naramienniki Roztrzaskanej Krainy
+tagGDX2ShoulderD221=[np](S) {^I}Naramienniki Strażnika Zasłony
+tagGDX2ShoulderD222=[np](S) {^I}Naramienniki Konesera Flaków
+tagGDX2ShoulderD223=[np](S) {^I}Naramienniki Wzywających Zgliszczy
+
+tagGDX2ShoulderF201=[np]{^G}Magiczne Naramienniki Bysmiel
+tagGDX2ShoulderF202=[np]{^G}Osłony Ramion Burzowego Całunu Bysmiel
+tagGDX2ShoulderF203=[np]{^G}Naramienniki Obrońcy Bysmiel
+tagGDX2ShoulderF204=[np]{^G}Osłony Ramion Płomiennego Całunu Bysmiel
+tagGDX2ShoulderF205=[np]{^G}Naramienniki Przerażenia Dreega
+tagGDX2ShoulderF206=[np]{^G}Naramienniki Bojownika Dreega
+tagGDX2ShoulderF207=[np]{^G}Naramienniki Ohydy Dreega
+tagGDX2ShoulderF208=[np]{^G}Osłony Ramion Zatrutego Całunu Dreega
+tagGDX2ShoulderF209=[np]{^G}Naramienniki Wojownika Solaela
+tagGDX2ShoulderF210=[np]{^G}Osłony Ramion Krwawego Całunu Solaela
+tagGDX2ShoulderF211=[np]{^G}Osłony Ramion Czarnego Płomienia Solaela
+tagGDX2ShoulderF212=[np]{^G}Naramienniki Ohydy Solaela
+
+
+
+#ArmorTorso
+tagGDX2TorsoB201=[fp]{^L}Szaty Wybranych
+tagGDX2TorsoB201_Desc="Te szaty są wzmocnione mocami wielu wrogów Korvaaka."
+tagGDX2TorsoB202={^L}Ubiór Wybranych
+tagGDX2TorsoB203={^L}Korvański Pancerz
+tagGDX2TorsoB204=[fs]{^L}Korvańska Zbroja
+tagGDX2TorsoB205=[fs]{^L}Zbroja Królów
+
+tagGDX2TorsoC201=[fs]{^B}Kortozjańska Osłona Klatki
+tagGDX2TorsoC202=[fs]{^B}Osłona Klatki Wzmocniona Runami
+tagGDX2TorsoC203=[fs](S) {^B}Zbroja Baldira
+tagGDX2TorsoC204=[fs](S) {^B}Zbroja Sztormowego Węża
+tagGDX2TorsoC205=[fp](S) {^B}Szaty Gnijącego Blasku
+tagGDX2TorsoC206=[fp](S) {^B}Szaty Daegi
+tagGDX2TorsoC207=[fs](S) {^B}Zbroja Kamiennego Ojca
+
+tagGDX2TorsoD201=[fs]{^I}Kolczuga Odłamka Świtu
+tagGDX2TorsoD201_Desc="Wykute z najczystszego odłamka kryształu soladryny."
+tagGDX2TorsoD202=[fp]{^I}Szaty Upadłej Wiary
+tagGDX2TorsoD202_Desc="Rozczarowana złamanymi przysięgami kapłanów Menhirianu, Thalia znalazła inny głos, który odpowiedział na jej modlitwy."
+tagGDX2TorsoD203=[ns]{^I}Serce Yugola
+tagGDX2TorsoD203_Desc="Objawiła się ciemność w tym podłym sercu bestii żyjącej w harmonii z niebiańskim gobelinem."
+tagGDX2TorsoD204=[fs](S) {^I}Zbroja Roztrzaskanej Krainy
+tagGDX2TorsoD205=[fs](S) {^I}Zbroja Zwycięzcy
+tagGDX2TorsoD206=[fp](S) {^I}Szaty Mroźnego Szeptu
+tagGDX2TorsoD207=[fs](S) {^I}Kurtka Ludrigana
+tagGDX2TorsoD208=[fs](S) {^I}Osłona Klatki Handlarza Kości
+tagGDX2TorsoD209=[fs](S) {^I}Zbroja Cnoty
+tagGDX2TorsoD210=[fs](S) {^I}Zbroja Trójcy
+tagGDX2TorsoD211=[fs](S) {^I}Osłona Klatki Harra
+tagGDX2TorsoD212=[fs](S) {^I}Zbroja Rah'Zina
+tagGDX2TorsoD213=[fp](S) {^I}Szaty Ghola
+tagGDX2TorsoD214=[fs](S) {^I}Kurtka Wydmowego Wroga
+tagGDX2TorsoD215=[fp](S) {^I}Szaty Pyrana
+tagGDX2TorsoD216=[fs](S) {^I}Osłona Klatki Targo
+tagGDX2TorsoD217=[fs](S) {^I}Zbroja Pochłoniętej Duszy
+tagGDX2TorsoD218=[fs](S) {^I}Osłona Klatki Czerwonego Ducha
+tagGDX2TorsoD219=[ns](S) {^I}Czarne Serce Morgonetha
+tagGDX2TorsoD220=[fs]{^I}Ceremonialna Zbroja Roztrzaskanej Krainy
+tagGDX2TorsoD221=[fs](S) {^I}Zbroja Strażnika Zasłony 
+tagGDX2TorsoD222=[fs](S) {^I}Zbroja Konesera Flaków
+tagGDX2TorsoD223=[fs](S) {^I}Zbroja Wzywających Zgliszczy
+
+tagGDX2TorsoF201=[fs]{^G}Osłona Klatki Nocnego Całunu Bysmiel
+tagGDX2TorsoF202=[fp]{^G}Szaty Ohydy Bysmiel
+tagGDX2TorsoF203={^G}Pancerz Burzowego Całunu Bysmiel
+tagGDX2TorsoF204={^G}Pancerz Płomiennego Całunu Bysmiel
+tagGDX2TorsoF205=[fs]{^G}Osłona Klatki Przerażenia Dreega
+tagGDX2TorsoF206=[fs]{^G}Osłona Klatki Bojownika Dreega
+tagGDX2TorsoF207=[fp]{^G}Magiczne Szaty Dreega
+tagGDX2TorsoF208={^G}Pancerz Obrońcy Dreega
+tagGDX2TorsoF209=[fs]{^G}Osłona Klatki Bojownika Solaela
+tagGDX2TorsoF210=[fp]{^G}Szaty Pustki Solaela
+tagGDX2TorsoF211=[fp]{^G}Szaty Czarnego Płomienia Solaela
+tagGDX2TorsoF212={^G}Pancerz Ohydy Solaela
+
+
+
+#ArmorHands
+tagGDX2HandsB201=[np]{^Y}Chwytaki Strażnika Zarazy
+tagGDX2HandsB202=[np]{^Y}Rękawice Strażnika Żaru
+
+tagGDX2HandsC201=[np]{^B}Chwytaki Turina
+tagGDX2HandsC201_Desc="Rękawice Turyna, Tarczownika z Ikon, który poległ w służbie Empyriona."
+tagGDX2HandsC202=[np]{^B}Osłony Rąk Rytuałów Śmierci
+tagGDX2HandsC203=[np]{^B}Chwytaki Tropu
+tagGDX2HandsC203_Desc="Są z pewnością skuteczne w zbieraniu... emocji."
+tagGDX2HandsC204=[np]{^B}Klamry Podłej Pogardy
+
+tagGDX2HandsD201=[np]{^I}Szpony Rozdzierającej Pustki
+tagGDX2HandsD201_Desc="Wbite w krwawiące serce ryloka."
+tagGDX2HandsD202={^I}Uścisk Odłamka Świtu
+tagGDX2HandsD202_Desc="Wykute z najczystszego odłamka kryształu soladryny."
+tagGDX2HandsD203=[np]{^I}Rękawice Piaskowego Rozbójnika
+tagGDX2HandsD203_Desc="Noszący te rękawice przelał krew na te niekończące się piaski, niezliczoną ilość razy."
+tagGDX2HandsD204=(S) {^I}Chwyt Ghola
+tagGDX2HandsD205=(S) {^F}Chwyt Morgonetha
+
+
+
+#ArmorLegs
+tagGDX2LegsB201=[np]{^Y}Legginsy Burzowej Osłony
+tagGDX2LegsB202=[np]{^Y}Nagolenniki Oszronionej Osłony
+
+tagGDX2LegsC201=[np]{^B}Osłony Nóg Podłej Pogardy
+tagGDX2LegsC202=[np]{^B}Astralne Osłony Nóg
+
+tagGDX2LegsD201=[np]{^I}Osłony Nóg Oszronionego Kamienia 
+tagGDX2LegsD202=[np]{^I}Osłony Nóg Odciśniętych Run
+tagGDX2LegsD203=[np]{^I}Legginsy Magicznych Przepływów
+tagGDX2LegsD204=[np]{^F}Osłony Nóg Morgonetha
+
+
+
+#ArmorFeet
+tagGDX2FeetC201={^B}Krok Turina
+tagGDX2FeetC201_Desc="Turin, Tarczownik z Ikon, stawiał w tych butach swe ostatnie kroki w służbie Empyriona."
+tagGDX2FeetC202=[np]{^B}Onuce Szczelinowych Kolców
+tagGDX2FeetC203=[np]{^B}Onuce Ohydnej Pogardy
+
+tagGDX2FeetD201=[np]{^I}Buty Pierwotnej Furii
+tagGDX2FeetD202=[np]{^I}Kamienne Kroki
+tagGDX2FeetD203={^I}Krok Amatoka
+tagGDX2FeetD203_Desc="Pobłogosławiony na zamrożonym szczycie, w czasie gdy gwiazda Amatoka była widoczna na nocnym niebie."
+tagGDX2FeetD204={^I}Wdzięk Stąpającej Śmierci
+tagGDX2FeetD205={^F}Krok Morgonetha
+
+
+
+#ArmorWaist
+tagGDX2WaistB201={^L}Pas Gargulca
+tagGDX2WaistB202=[fs]{^L}Przepaska Gargulca
+
+tagGDX2WaistC201={^B}Pas Stalowego Serca
+tagGDX2WaistC202={^B}Pas Ze Skóry Wroga
+tagGDX2WaistC203=[fs](S) {^B}Pętla Sztormowego Węża
+
+tagGDX2WaistD201={^I}Pasterz Burzy
+tagGDX2WaistD202={^I}Karmazynowy Lotos
+tagGDX2WaistD202_Desc="Przepaska z Karmazynowego Lotosu, którą zobaczyłby świat ogarnięty płomieniami."
+tagGDX2WaistD203=[np]{^I}Łańcuchy Nocnego Ognia
+tagGDX2WaistD204={^I}Biały Lotos
+tagGDX2WaistD204_Desc="Opaska z Białego Lotosu, opiekunów niebiańskiego kwiatu, który kwitnie na ziemiach Korvan."
+tagGDX2WaistD205={^I}Nosferattis
+tagGDX2WaistD206=[fs](S) {^I}Przepaska Rah'Zina
+tagGDX2WaistD207={^I}Pocałunek Murmura
+tagGDX2WaistD208={^I}Paczka Zabójczych Możliwości
+tagGDX2WaistD208_Desc="Plotka głosi, że kiedyś należała do mistrzyni nocnych ostrzy Nidalli. Każda fiolka jest wypełniona unikalną toksyną. Niektóre można nawet łączyć, aby uzyskać zupełnie nowe, zabójcze efekty."
+tagGDX2WaistD209={^F}Sznurek Robali
+tagGDX2WaistD209_Desc="Dumne trofeum z podbojów."
+
+tagGDX2WaistF201A=[fs]{^G}Zabójcza Przepaska Bysmiel
+tagGDX2WaistF201B={^G}Zabójczy Pas Bysmiel
+tagGDX2WaistF202A={^G}Pas Jadowego Kolca Dreega
+tagGDX2WaistF202B=[fs]{^G}Przepaska Jadowego Kolca Dreega
+tagGDX2WaistF203A={^G}Pas Ohydy Solaela
+tagGDX2WaistF203B=[fs]{^G}Przepaska Ohydy Solaela
+
+
+
+#Rings
+tagGDX2RingB201={^L}Pełzający Pierścień
+
+tagGDX2RingC201=[fs]{^B}Obrączka Karmazynowej Róży
+tagGDX2RingC202=[fs]{^B}Obrączka Strażnika Zasłony
+tagGDX2RingC203=[fs]{^Z}Obrączka Sethrisa
+tagGDX2RingC203_Desc="Jedna z siedmiu obrączek Królów Korvanu. Talizman, który zaznaczy twój status pośród mieszkańców Korvanu."
+tagGDX2RingC204=[fs]{^Z}Obrączka Orissia
+tagGDX2RingC205=[fs]{^Z}Obrączka Anubara
+tagGDX2RingC206=[fs]{^Z}Obrączka Tawrota
+tagGDX2RingC207=[fs]{^Z}Obrączka Basti
+tagGDX2RingC208=[fs]{^Z}Obrączka Shurotha
+tagGDX2RingC209=[fs]{^Z}Obrączka Khonsara
+
+tagGDX2RingD201={^I}Menhirian
+tagGDX2RingD201_Desc="Pieczęć ze Świątyni Menhira, darowana jego najbardziej gorliwym sługom."
+tagGDX2RingD202=[fs]{^I}Przysięga Światła
+tagGDX2RingD203=[fs]{^I}Posoka Yugola
+tagGDX2RingD203_Desc="Ocieka mrokiem, który grozi pochłonięciem twego ciała."
+tagGDX2RingD204=[fs]{^I}Opaska Wiecznego Stosu
+tagGDX2RingD205={^I}Glif Burzowej Wiedźmy
+tagGDX2RingD206=(S) {^I}Autorytet Bysmiel
+tagGDX2RingD207=[ns](S) {^I}Oddziaływanie Bysmiel
+tagGDX2RingD208={^F}Pierścień Sethrisa
+tagGDX2RingD208_Desc="Jeden z siedmiu pierścieni Królów Korvanu. Przy ich pomocy, zostali związani z ciemnością."
+tagGDX2RingD209={^F}Pierścień Orissia
+tagGDX2RingD210={^F}Pierścień Anubara
+tagGDX2RingD211={^F}Pierścień Tawrota
+tagGDX2RingD212={^F}Pierścień Basti
+tagGDX2RingD213={^F}Pierścień Shurotha
+tagGDX2RingD214={^F}Pierścień Khonsara
+tagGDX2RingD215={^F}Naczelny Pierścień Morgonetha
+tagGDX2RingD215_Desc="Pierścień Wielkiego Magusa Morgoneth szepcze do ciebie w przeklętym języku. Dzięki temu pierścieniowi, władza Morgonetha nad Królami była absolutna."
+
+tagGDX2RingF201=[fs]{^B}Pieczęć Ohydy Bysmiel
+tagGDX2RingF202=[fs]{^B}Chłodząca Pieczęć Bysmiel
+tagGDX2RingF203=[fs]{^B}Trująca Pieczęć Dreega
+tagGDX2RingF204=[fs]{^B}Pieczęć Ostrzy Dreega
+tagGDX2RingF205=[fs]{^B}Pieczęć Burzowego Ognia
+tagGDX2RingF206=[fs]{^B}Pokręcona Pieczęć Solaela
+
+
+
+#Necklaces
+tagGDX2NecklaceB200={^F}Cudowny Klejnot Wojenny Wilhelma
+tagGDX2NecklaceB200_Desc="Ahhhhhhhhhh."
+tagGDX2NecklaceB201=[ns]{^L}Płonące Oko Kaisana
+tagGDX2NecklaceB201_Desc="Nieśmiertelne oko Kaisana spogląda na ciebie z wnętrza tego wisiorka."
+tagGDX2NecklaceB202=[ns]{^L}Nadprzyrodzone Oko Kaisana
+tagGDX2NecklaceB202_Desc="Nieśmiertelne oko Kaisana spogląda na ciebie z wnętrza tego wisiorka."
+tagGDX2NecklaceB203=[ms]{^L}Wisior Bolvara
+
+tagGDX2NecklaceD113I={^I}Kondukt Boskich Szeptów
+
+tagGDX2NecklaceC201=[np]{^B}Klejnoty Magicznego Chłodu
+tagGDX2NecklaceC202=[ns]{^B}Chaotyczne Spojrzenie
+
+tagGDX2NecklaceD201=[ns]{^I}Wcielenie Porządku
+tagGDX2NecklaceD201_Desc="Druga z siedmiu świętych cnót ludzkości."
+tagGDX2NecklaceD202=[np]{^I}Piaski Azrakaa
+tagGDX2NecklaceD203=[ns]{^I}Wcielenie Chaosu
+tagGDX2NecklaceD203_Desc="Trzecia z siedmiu świętych cnót ludzkości, wypaczona ponad miarę przez pustkę."
+tagGDX2NecklaceD204=[fs]{^I}Wola Klingi
+tagGDX2NecklaceD205=[ns]{^F}Serce Piaskowego Króla
+tagGDX2NecklaceD205_Desc="Serce Gannar'vakkara, króla Korvańskich Piasków."
+tagGDX2NecklaceD206=[fs](S) {^I}Straż Roztrzaskanej Krainy
+tagGDX2NecklaceD207=(S) {^I}Klejnot Zwycięzcy
+tagGDX2NecklaceD208=(S) {^I}Klejnot Handlarza Kości
+tagGDX2NecklaceD209=[fs](S) {^I}Straż Cnoty
+tagGDX2NecklaceD210=[fs](S) {^I}Straż Harra
+tagGDX2NecklaceD211=(S) {^I}Klejnot Rah'Zina
+tagGDX2NecklaceD212=(S) {^I}Roznosiciel Pana Zarazy
+tagGDX2NecklaceD213=[fs](S) {^I}Tęczówka Bysmiel
+tagGDX2NecklaceD214=(S) {^I}Emblemat Czerwonego Ducha
+tagGDX2NecklaceD215=[fs](S) {^I}Straż Konesera Flaków
+
+tagGDX2NecklaceF201={^B}Wisior Czempiona Bysmiel
+tagGDX2NecklaceF202={^B}Osłonięty Wisior Bysmiel
+tagGDX2NecklaceF203={^B}Magiczny Wisior Dreega
+tagGDX2NecklaceF204={^B}Wisior Trującego Kolca Dreega
+tagGDX2NecklaceF205={^B}Wisior Burzowego Ognia Solaela
+tagGDX2NecklaceF206={^B}Wisior Pustki Solaela
+tagGDX2NecklaceF207={^I}Wisior Nocnego Prześladowcy
+tagGDX2NecklaceF208={^I}Trujący Ogień
+tagGDX2NecklaceF209=[fs]{^I}Krwawa Kipiel
+
+
+
+#Medals
+tagGDX2MedalA200=[fs]Odznaka Wytrwałości
+
+tagGDX2MedalB201={^L}Kieł Bazyliszka
+tagGDX2MedalB201_Desc="Jego kły nadal kipią toksycznym jadem."
+tagGDX2MedalB202={^L}Blask Wendigo
+tagGDX2MedalB202_Desc="Krwawe oko spogląda ochoczo na twą zdobycz."
+tagGDX2MedalB203={^L}Znak Galeslice'a "Bezwzględnego"
+tagGDX2MedalB203_Desc="Świst ostrzy w powietrzu, to jedyne czego kiedykolwiek potrzebował ten Dranghoul."
+tagGDX2MedalB204=[fp]{^G}Dystynkcje Awanturnika
+tagGDX2MedalB204_Desc="Pojedynki to wyczerpujące zawody, w których dwie zmęczone dusze walczą w błocie o władzę. Zwycięża tylko jeden."
+
+tagGDX2MedalC201={^B}Znak Udręczonych Kłamstw
+tagGDX2MedalC202={^B}Znak Jęczącej Śmierci
+tagGDX2MedalC203=(S) {^B}Znak Kamiennego Ojca
+
+tagGDX2MedalD201={^I}Herb Zimowego Męstwa
+tagGDX2MedalD202={^I}Odcisk Korvaaka
+tagGDX2MedalD202_Desc="Palący żar dla oznaczenia lojalnych poddanych."
+tagGDX2MedalD203={^I}Znak Krwawego Zakończenia
+tagGDX2MedalD204={^I}Znak Tragicznego Pożądania
+tagGDX2MedalD204_Desc="Z rozkazu władcy."
+tagGDX2MedalD205={^I}Znak Nieżywota
+tagGDX2MedalD206=(S) {^I}Znak Ludrigana
+tagGDX2MedalD207=(S) {^I}Znak Cyklonu
+tagGDX2MedalD208=(S) {^I}Znak Ghola
+tagGDX2MedalD209=(S) {^I}Znak Bysmiel
+tagGDX2MedalD210=(S) {^I}Herb Strażnika Zasłony 
+tagGDX2MedalD211=(S) {^I}Herb Wzywających Zgliszczy
+
+tagGDX2MedalF201={^B}Znak Manipulacji Bysmiel 
+tagGDX2MedalF202={^B}Znak Burzy Bysmiel
+tagGDX2MedalF203={^B}Znak Chłodu Dreega
+tagGDX2MedalF204={^B}Znak Czarnego Płomienia Dreega
+tagGDX2MedalF205={^B}Znak Rzezi Solaela
+tagGDX2MedalF206={^B}Znak Krwi Solaela
+tagGDX2MedalF207={^I}Znak Królowej Cienia
+tagGDX2MedalF208={^I}Znak Jasnowidza
+tagGDX2MedalF209={^I}Znak Płonących Cieni
+
+
+
+#Blueprints
+tagGDX2Blueprint_RelicC201=Schemat: Relikt - Wytrzymałość
+
+tagGDX2Blueprint_RelicD201=Schemat: Relikt - Medytacja
+tagGDX2Blueprint_RelicD202=Schemat: Relikt - Honor
+tagGDX2Blueprint_RelicD203=Schemat: Relikt - Epoka Azrakkaa
+tagGDX2Blueprint_RelicD204=Schemat: Relikt - Głód Yugola
+tagGDX2Blueprint_RelicD205=Schemat: Relikt - Spokój
+tagGDX2Blueprint_RelicD206=Schemat: Relikt - Rozgrzeszenie
+
+tagGDX2Blueprint_WaistF201A=Schemat: Zabójcza Przepaska Bysmiel
+tagGDX2Blueprint_WaistF201B=Schemat: Zabójczy Pas Bysmiel
+tagGDX2Blueprint_WaistF202A=Schemat: Pas Jadowego Kolca Dreega
+tagGDX2Blueprint_WaistF202B=Schemat: Przepaska Jadowego Kolca Dreega
+tagGDX2Blueprint_WaistF203A=Schemat: Pas Ohydy Solaela
+tagGDX2Blueprint_WaistF203B=Schemat: Przepaska Ohydy Solaela
+
+tagGDX2Blueprint_WeaponD201=Schemat: Mityczna Latorośl Gorzkich Wiatrów
+tagGDX2Blueprint_WeaponD202=Schemat: Wyrok Trójcy
+
+tagGDX2Blueprint_WeaponF201=Schemat: Krwawy Świder
+tagGDX2Blueprint_WeaponF202=Schemat: Chwyt Bysmiel
+tagGDX2Blueprint_WeaponF203=Schemat: Tkacz Umysłu Bysmiel
+tagGDX2Blueprint_WeaponF204=Schemat: Koruption
+tagGDX2Blueprint_WeaponF205=Schemat: Rancor
+tagGDX2Blueprint_WeaponF206=Schemat: Zaćmienie
+tagGDX2Blueprint_WeaponF207=Schemat: Krwawy Oprawiacz
+tagGDX2Blueprint_WeaponF208=Schemat: Pożeracz Solaela
+tagGDX2Blueprint_WeaponF209=Schemat: Słowo Solaela
+tagGDX2Blueprint_WeaponF210=Schemat: Vampirris
+tagGDX2Blueprint_WeaponF211=Schemat: Złość
+
+tagGDX2Blueprint_ArmorB201=Schemat: Chwytaki Strażnika Zarazy
+tagGDX2Blueprint_ArmorB202=Schemat: Rękawice Strażnika Żaru
+tagGDX2Blueprint_ArmorB203=Schemat: Legginsy Burzowej Osłony
+tagGDX2Blueprint_ArmorB204=Schemat: Nagolenniki Oszronionej Osłony
+
+tagGDX2Blueprint_ArmorC201=Schemat: Mityczna Twarz Potępienia
+tagGDX2Blueprint_ArmorC202=Schemat: Hełm Kamiennego Ojca 
+
+tagGDX2Blueprint_ArmorD201=Schemat: Spojrzenie Odłamka Świtu
+tagGDX2Blueprint_ArmorD202=Schemat: Korona Zmartwychwstałego Króla
+tagGDX2Blueprint_ArmorD203=Schemat: Hełm Soulare'a
+tagGDX2Blueprint_ArmorD204=Schemat: Mityczne Spojrzenie Odłamka Świtu
+tagGDX2Blueprint_ArmorD205=Schemat: Mityczna Korona Zmartwychwstałego Króla
+tagGDX2Blueprint_ArmorD206=Schemat: Mityczny Hełm Soulare'a
+tagGDX2Blueprint_ArmorD207=Schemat: Korona Mroźnego Szeptu
+tagGDX2Blueprint_ArmorD208=Schemat: Kapelusz Ludrigana
+tagGDX2Blueprint_ArmorD209=Schemat: Kaptur Handlarza Kości
+tagGDX2Blueprint_ArmorD210=Schemat: Oblicze Cnoty
+tagGDX2Blueprint_ArmorD211=Schemat: Kaptur Harra
+tagGDX2Blueprint_ArmorD212=Schemat: Maska Cyklonu
+tagGDX2Blueprint_ArmorD213=Schemat: Zbroja Rah'Zina
+tagGDX2Blueprint_ArmorD214=Schemat: Kaptur Pana Zarazy
+tagGDX2Blueprint_ArmorD215=Schemat: Szaty Ghola
+tagGDX2Blueprint_ArmorD216=Schemat: Maska Wydmowego Wroga
+tagGDX2Blueprint_ArmorD217=Schemat: Oblicze Pyrana
+tagGDX2Blueprint_ArmorD218=Schemat: Hełm Targo
+tagGDX2Blueprint_ArmorD219=Schemat: Oblicze Pochłoniętej Duszy
+tagGDX2Blueprint_ArmorD220=Schemat: Maska Czerwonego Ducha
+
+tagGDX1Blueprint_AccessoryD121I=Schemat: Kondukt Boskich Szeptów
+
+tagGDX2Blueprint_AccessoryD201=Schemat: Biały Lotos
+tagGDX2Blueprint_AccessoryD202=Schemat: Mityczny Karmazynowy Lotos
+tagGDX2Blueprint_AccessoryD203=Schemat: Mityczny Znak Tragicznego Pożądania
+tagGDX2Blueprint_AccessoryD204=Schemat: Mityczna Posoka Yugola
+
+tagGDX2Blueprint_AccessoryF201=Schemat: Wisior Nocnego Prześladowcy
+tagGDX2Blueprint_AccessoryF202=Schemat: Trujący Ogień
+tagGDX2Blueprint_AccessoryF203=Schemat: Krwawa Kipiel
+tagGDX2Blueprint_AccessoryF204=Schemat: Znak Królowej Cienia
+tagGDX2Blueprint_AccessoryF205=Schemat: Znak Jasnowidza
+tagGDX2Blueprint_AccessoryF206=Schemat: Znak Płonących Cieni
+
+
+tagGDX2Blueprint_RuneC201=Schemat: Emblemat Szybkości z Korvan
+tagGDX2Blueprint_RuneC202=Schemat: Glif Szybkości z Korvan
+tagGDX2Blueprint_RuneC203=Schemat: Runa Szybkości z Korvan
+tagGDX2Blueprint_RuneC204=Schemat: Emblemat Nosiciela Dreega
+tagGDX2Blueprint_RuneC205=Schemat: Glif Nosiciela Dreega
+tagGDX2Blueprint_RuneC206=Schemat: Runa Nosiciela Dreega
+tagGDX2Blueprint_RuneC207=Schemat: Emblemat Potęgi Rahna
+tagGDX2Blueprint_RuneC208=Schemat: Glif Potęgi Rahna
+tagGDX2Blueprint_RuneC209=Schemat: Runa Potęgi Rahna
+
+tagGDX2Blueprint_RuneC210=Schemat: Glif Pośpiechu Wendigo
+tagGDX2Blueprint_RuneC211=Schemat: Glif Taranującej Prędkości
+tagGDX2Blueprint_RuneC212=Schemat: Glif Bezcielesnych Wiatrów
+tagGDX2Blueprint_RuneC213=Schemat: Glif Sejsmicznego Skoku
+tagGDX2Blueprint_RuneC214=Schemat: Glif Huknięcia Burzy
+tagGDX2Blueprint_RuneC215=Schemat: Glif Doskoku Mantykory
+tagGDX2Blueprint_RuneC216=Schemat: Glif Tajemnej Szczeliny
+tagGDX2Blueprint_RuneC217=Schemat: Glif Palącej Szczeliny
+tagGDX2Blueprint_RuneC218=Schemat: Glif Szczeliny Ostrzy
+tagGDX2Blueprint_RuneC219=Schemat: Glif Nieładu
+tagGDX2Blueprint_RuneC220=Schemat: Glif Wykiwania
+tagGDX2Blueprint_RuneC221=Schemat: Glif Powstania Feniksa
+tagGDX2Blueprint_RuneC222=Schemat: Glif Upiornego Odwrotu
+tagGDX2Blueprint_RuneC223=Schemat: Glif Uniku Asasyna
+tagGDX2Blueprint_RuneC224=Schemat: Glif Uderzenia Chaosu
+tagGDX2Blueprint_RuneC225=Schemat: Glif Nagłego Uderzenia
+tagGDX2Blueprint_RuneC226=Schemat: Glif Uderzenia Skorpiona
+tagGDX2Blueprint_RuneC227=Schemat: Glif Uderzenia Duszy
+
+tagGDX2Blueprint_RuneD201=Schemat: Runa Oddechu Amatoka
+tagGDX2Blueprint_RuneD202=Schemat: Runa Woli Upadłych Królów
+tagGDX2Blueprint_RuneD203=Schemat: Runa Gwałtownej Frajdy
+tagGDX2Blueprint_RuneD204=Schemat: Runa Spadania Ulzuina
+tagGDX2Blueprint_RuneD205=Schemat: Runa Tajemnej Niestabilności
+tagGDX2Blueprint_RuneD206=Schemat: Runa Skrzydeł Ryloka
+tagGDX2Blueprint_RuneD207=Schemat: Runa Potęgi Pancernika
+tagGDX2Blueprint_RuneD208=Schemat: Runa Ran Dreega
+tagGDX2Blueprint_RuneD209=Schemat: Runa Uderzenia Nadaana
+tagGDX2Blueprint_RuneD210=Schemat: Runa Przybycia Ultosa
+tagGDX2Blueprint_RuneD211=Schemat: Runa Astralnej Szczeliny
+tagGDX2Blueprint_RuneD212=Schemat: Runa Przemieszczenia
+tagGDX2Blueprint_RuneD213=Schemat: Runa Tajfunu
+tagGDX2Blueprint_RuneD214=Schemat: Runa Szaleństwa Ulzaada
+tagGDX2Blueprint_RuneD215=Schemat: Runa Nieszczęśliwego Pragnienia
+tagGDX2Blueprint_RuneD216=Schemat: Runa Pocałunku Murmura
+tagGDX2Blueprint_RuneD217=Schemat: Runa Łaski Ishtaka
+tagGDX2Blueprint_RuneD218=Schemat: Runa Wampirycznych Cieni
+tagGDX2Blueprint_RuneD219=Schemat: Runa Mrocznego Pragnienia
+tagGDX2Blueprint_RuneD220=Schemat: Runa Szarży Burzowego Tytana
+tagGDX2Blueprint_RuneD221=Schemat: Runa Płonącej Szarży
+
+
+#Relics
+tagGDX2RelicC201=Wytrzymałość
+tagGDX2RelicC201Desc="Chęć kontynuowania pomimo wielu przeciwności."
+
+tagGDX2RelicD201=Medytacja
+tagGDX2RelicD201Desc="Obecność umysłu, by dostrzec szerszy obraz."
+
+tagGDX2RelicD202=Honor
+tagGDX2RelicD202Desc="Nieustanne dążenie do prawości w świecie, który jej pozbawił."
+
+tagGDX2RelicD203=Epoka Azrakkaa
+tagGDX2RelicD203Desc="Zmarszczka w fałdach czasu."
+
+tagGDX2RelicD204=Głód Yugola
+tagGDX2RelicD204Desc="Nienasycenie nieporównywalna z całym stworzeniem."
+
+tagGDX2RelicD205=Spokój
+tagGDX2RelicD205Desc="Pokój w sobie."
+
+tagGDX2RelicD206=Rozgrzeszenie
+tagGDX2RelicD206Desc="Siła woli do zapewnienia prawdziwego Prawa i Sprawiedliwości."
+
+
+
+#Crafting
+tagCraftTabArtifactA=Relikty i Runy
+tagCraftTabArtifactB=Talizmany, relikty i artefakty o wielkiej mocy. Runy, które obdarzają cię nowymi umiejętnościami.
+
+tagGDX1CraftRandomLegendaryDesc2B=Kowal spaja w przedmiotach surową magiczną moc, by stworzyć przedmioty legendarne do poziomu 94, ale bez przedmiotów wykutych przez Zapomnianych Bogów. Postacie poniżej poziomu 58, otrzymają od niego przedmiot epicki zamiast legendarnego.
+tagGDX1CraftRandomLegendaryAccessoryDesc2B=Kowal spaja w przedmiotach surową magiczną moc, by stworzyć przedmioty legendarne do poziomu 94, ale bez przedmiotów wykutych przez Zapomnianych Bogów. Postacie poniżej poziomu 58, otrzymają od niego przedmiot epicki zamiast legendarnego.
+tagGDX1CraftRandomLegendaryItemDesc2B=Ten kowal wytwarza wzmocnione legendarne przedmioty zbliżone do poziomu twojej postaci, aż do poziomu 94, ale bez przedmiotów wykutych przez Zapomnianych Bogów.
+
+tagGDX2CraftRandomCraftingMaterial=Materiał Rzemieślniczy
+tagGDX2CraftRandomCraftingMaterialDesc=Czerpiąc z samej esencji stworzenia, kowal uzyskuje specjalny materiał, przydatny do tworzenia potężnego sprzętu oraz reliktów.
+
+tagGDX2CraftRandomLegendaryDesc3=Kowal spaja w przedmiotach surową magiczną moc, by stworzyć przedmioty legendarne do poziomu 94, a także te wykute przez samych Zapomnianych Bogów. Postacie poniżej poziomu 58, otrzymają od niego przedmiot epicki zamiast legendarnego.
+tagGDX2CraftRandomLegendaryAccessoryDesc3=Kowal spaja w przedmiotach surową magiczną moc, by stworzyć przedmioty legendarne do poziomu 94, a także te wykute przez samych Zapomnianych Bogów. Postacie poniżej poziomu 58, otrzymają od niego przedmiot epicki zamiast legendarnego.
+tagGDX2CraftRandomLegendaryItemDesc3=Ten kowal wytwarza wzmocnione legendarne przedmioty zbliżone do poziomu twojej postaci, aż do poziomu 94, a także te wykute przez samych Zapomnianych Bogów.
+
+tagGDX2CraftMaterial_Eldritch=Upiorna Esencja
+tagGDX2CraftMaterial_Eldritch_Desc="Lepka i kipiąca surową magiczną mocą substancja z Nadprzyrodzonej Krainy."
+
+tagGDX2CraftMaterial_Lotus=Niebiański Lotos
+tagGDX2CraftMaterial_Lotus_Desc="Kwiat znajdujący się tylko wokół Płaskowyżu Korvan i jego tajemniczych ruin. Ci, których uważano za dotkniętych przez bogów, błyszczą niebiańskim światłem gwiazd i są uważani za wróżbę szczęścia."
+
+tagGDX2CraftMaterial_Sacrifice=Niebiańska Esencja
+tagGDX2CraftMaterial_Sacrifice_Desc="Esencja rzeczywistości, samej egzystencji. Może być użyta w potężnych rytuałach, jeśli znajdzie się odpowiednie miejsce dla tak wątpliwych czynów."
+
+tagGDX2CraftMaterial_IronExchange_01=Żelazna Sztabka
+tagGDX2CraftMaterial_IronExchange_01_Desc=Cenny surowiec w świecie spustoszonym przez śmierć.^w^n^nGarrus, Strażnik Żelaza w Konklawe Trójcy, chętnie wymieni ją na 50 000 żelaznych monet.
+
+tagGDX2CraftMaterial_IronExchange_02=Solidna Żelazna Sztaba
+tagGDX2CraftMaterial_IronExchange_02_Desc=Cenny surowiec w świecie spustoszonym przez śmierć.^w^n^nGarrus, Strażnik Żelaza w Konklawe Trójcy, chętnie wymieni ją na 500 000 żelaznych monet.
+
+#Consumables
+tagGDX2Consumable_01=Tajemnicza Kula
+tagGDX2Consumable_01_Desc="Cel istnienia tej kuli, czy nawet źródło pochodzenia, pozostają tajemnicą. Czy byłoby rozsądnym korzystać z takiej rzeczy..."
+
+tagGDX2Consumable_02=Niebiańska Kula
+tagGDX2Consumable_02_Desc="Pozostałość po Roztrzaskanej Krainie. Kto wie jakiemu celowi posłuży..."
+
+tagGDX2Consumable_03=Kula Otchłani
+tagGDX2Consumable_03_Desc="Ta kula mieni się energią pustki. Prawdopodobnie nie jest bezpieczne ją dzierżyć..."
+
+tagGDX2Consumable_04=Posoka Yugola
+tagGDX2Consumable_04_Desc="Czarna ciecz w środku jest bezwonna, jednak mimo tego przyciąga cię. Jej sama obecność wydaje się powstrzymywać magię."
+
+
+#ItemEnchantment
+tagGDX2EnchantA201A=Korvański Słoneczny Proszek
+tagGDX2EnchantA201Desc="Kryształy nasycone palącym słońcem Płaskowyżu Korvan."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantA202A=Silny Korvański Słoneczny Proszek
+tagGDX2EnchantA202Desc="Kryształy nasycone palącym słońcem Płaskowyżu Korvan."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantA203A=Żmijowy Jad
+tagGDX2EnchantA203Desc="Jad Korvańskiej żmii, starannie wyjęty i przechowywany w zaczarowanej sakiewce tak, aby nie rozpuścić pojemnika."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantA204A=Silny Żmijowy Jad
+tagGDX2EnchantA204Desc="Jad Korvańskiej żmii, starannie wyjęty i przechowywany w zaczarowanej sakiewce tak, aby nie rozpuścić pojemnika."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantA205A=Kieł Piaskowego Pazura
+tagGDX2EnchantA205Desc="Drobno zmielony kieł, zmieniony w czarodziejski proszek, zebrany z sandałów wędrujących po Korvańskich wydmach."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantA206A=Silny Kieł Piaskowego Pazura
+tagGDX2EnchantA206Desc="Drobno zmielony kieł, zmieniony w czarodziejski proszek, zebrany z sandałów wędrujących po Korvańskich wydmach."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantA207A=Łuska Piaskowego Pazura
+tagGDX2EnchantA207Desc="Gdy matrony piaskowych pazurów linieją, niektóre z ich łusek pochłaniają więcej nadprzyrodzonej energii otoczenia od innych. To właśnie z nich wykonuje się najmocniejsze wzmocnienia."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantA208A=Żmijowa Łuska
+tagGDX2EnchantA208Desc="Łuski zebrane z Korvańskich Żmij, prawie tak samo trudne do zdobycia, jak ich kolce jadowe."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantA209A=Proszek ze Spopielonej Kory
+tagGDX2EnchantA209Desc="Popiół z kory drzew spopielonych przez zapomnianego boga."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantA210A=Proszek z Gnijącej Winorośli
+tagGDX2EnchantA210Desc="Smród dolatujący z tego proszku, to jedynie próbka groteskowych zapachów emitowanych przez samą roślinę."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantA211A=Proszek z Korvańskich Kaktusów
+tagGDX2EnchantA211Desc="Korvańskie Kaktusy zachłannie gromadzą cenną wodę z Płaskowyżu Korvan i wchłaniają wraz z nią obecne tam magiczne energie."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantA212A=Silny Proszek z Korvańskich Kaktusów
+tagGDX2EnchantA212Desc="Korvańskie Kaktusy zachłannie gromadzą cenną wodę z Płaskowyżu Korvan i wchłaniają wraz z nią obecne tam magiczne energie."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantA213A=Proszek z Nadprzyrodzonego Kwiatu
+tagGDX2EnchantA213Desc="Proszek pochodzący z rzadkiej rośliny występującej tylko na Płaskowyżu Korvan, jego biologia zdaje się nie przypominać żadnej innej fauny w tym regionie."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantA214A=Silny Proszek z Nadprzyrodzonego Kwiatu
+tagGDX2EnchantA214Desc="Powder derived from a rare plant found only within the Korvan Plateau, its biology seems to be unlike any other fauna in the region."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantA215A=Proszek ze Skorupy Skarabeusza
+tagGDX2EnchantA215Desc="Skorupy Skarabeuszy zmieniają się w świetny czarodziejski proszek, jeśli tylko uda się je zmiażdżyć."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantA216A=Silny Proszek ze Skorupy Skarabeusza
+tagGDX2EnchantA216Desc="Skorupy Skarabeuszy zmieniają się w świetny czarodziejski proszek, jeśli tylko uda się je zmiażdżyć."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantA217A=Kieł Gargulca
+tagGDX2EnchantA217Desc="Kieł z mitycznego dziwacznego stworzenia rzadko spotykanego poza Nadprzyrodzoną Krainą."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantA218A=Proszek z Ciernia Mędrca
+tagGDX2EnchantA218Desc="Cierń Mędrca jest uważany przez naukowców za nieoceniony z powodu ciemnoczerwonego tuszu, ale zbierający go muszą zachować ostrożność wokół ciernistej powierzchni, aby uniknąć uszkodzeń, które nigdy się nie zagoją."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantA219A=Proszek z Robaków Zasłony
+tagGDX2EnchantA219Desc="Proszek pochodzący z niepokojących manifestacji z pustki, które widocznie pasą się na granicy między rzeczywistościami."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantA220A=Sól z Pustki
+tagGDX2EnchantA220Desc="Czarujący proszek pochodzący z popiołów wewnątrz samej Pustki. Da się wyczuć w tej mieszance odrobinę ludzkiej duszy, ale nie ma pewności czy to dodatek, czy może kolejny niepokojący mieszkaniec samej pustki."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantA221A=Łuska Gargulca
+tagGDX2EnchantA221Desc="Wypełnione magicznymi mocami, prawie niemożliwe do przemiany w proszek bez korzystania z czarodziejskich narzędzi."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantA222A=Silna Łuska Gargulca
+tagGDX2EnchantA222Desc="Wypełnione magicznymi mocami, prawie niemożliwe do przemiany w proszek bez korzystania z czarodziejskich narzędzi."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantA223A=Kwiat Zmierzchu
+tagGDX2EnchantA223Desc="Sproszkowane płatki potężnej rośliny, która rosła w okolicy dzisiaj rzadko występujących zbiorników wodnych na Płaskowyżu Korvan."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantA224A=Silny Kwiat Zmierzchu
+tagGDX2EnchantA224Desc="Sproszkowane płatki potężnej rośliny, która rosła w okolicy dzisiaj rzadko występujących zbiorników wodnych na Płaskowyżu Korvan."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantA225A=Szpon Gryfa
+tagGDX2EnchantA225Desc="Proszek uzyskiwany ze szponów gryfów zamieszkujących Płaskowyż Korvan."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantA226A=Silny Szpon Gryfa
+tagGDX2EnchantA226Desc="Proszek uzyskiwany ze szponów gryfów zamieszkujących Płaskowyż Korvan."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantA227A=Język Pustyni
+tagGDX2EnchantA227Desc="Proszek uzyskiwany z krwisto-czerwonej rośliny rosnącej na Płaskowyżu Korvan."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantA228A=Jad Skorpiona
+tagGDX2EnchantA228Desc="Jad z gruczołów ogonowych zabójczych stworzeń przemierzających pustynne piaski."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantA229A=Esencja Opiekuna
+tagGDX2EnchantA229Desc="Tajemna esencja różnych strażników przemierzających świątynie Płaskowyżu Korvan"^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantA230A=Proszek Wypaczonych Dusz
+tagGDX2EnchantA230Desc="Esencja duchów-zjaw związanych z mączką kostną służąca do magicznych zastosowań."^w^n(Można zastosować do amuletów i pierścieni)
+
+
+tagGDX2EnchantB201A=Kontrola Bysmiel
+tagGDX2EnchantB201Desc="Podarunek od bogini wiedźm Bysmiel, idealnie dopasowany do umysłów przywołańców."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantB202A=Silna Kontrola Bysmiel
+tagGDX2EnchantB202Desc="Podarunek od bogini wiedźm Bysmiel, idealnie dopasowany do umysłów przywołańców."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantB203A=Przebiegłość Bysmiel
+tagGDX2EnchantB203Desc="Podarunek od bogini wiedźm Bysmiel, dający jej sługom przewagę w fizycznej walce, kiedy to wycofanie się w cień nie jest możliwe."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantB204A=Silna Przebiegłość Bysmiel
+tagGDX2EnchantB204Desc="Podarunek od bogini wiedźm Bysmiel, dający jej sługom przewagę w fizycznej walce, kiedy to wycofanie się w cień nie jest możliwe."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantB205A=Całun Bysmiel
+tagGDX2EnchantB205Desc="Podarunek od bogini wiedźm Bysmiel, dostosowany do zasłony, która dzieli żywych od umarłych."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantB206A=Silny Całun Bysmiel
+tagGDX2EnchantB206Desc="A gift from the witch god Bysmiel, attuned to the veil that divides the living from the dead."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantB207A=Wola Ateph
+tagGDX2EnchantB207Desc="Potężny czarujący proszek pochodzący z reliktów znalezionych w Świątyni Ateph, przeznaczony do wzmacniania więzi między mistrzem, a przywołańcem."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantB208A=Blask Ateph
+tagGDX2EnchantB208Desc="Potężny czarujący proszek pochodzący z reliktów znalezionych w Świątyni Ateph, który napełnia sprzęt mroźnym dotykiem."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantB209A=Dowództwo Ateph
+tagGDX2EnchantB209Desc="Potężny czarujący proszek pochodzący z reliktów znalezionych w Świątyni Ateph, który gwarantuje egzekutorowi pragnienie krwi."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantB210A=Obietnica Ateph
+tagGDX2EnchantB210Desc="Potężny czarujący proszek pochodzący z reliktów znalezionych w Świątyni Ateph, który chroni egzekutora przed obrażeniami."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantB211A=Dalekowzroczność Dreega
+tagGDX2EnchantB211Desc="Dar od boga wiedźm Dreega, który obdarza posiadacza zaledwie próbką wizji Wielkiego Strażnika Cairn."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantB212A=Silna Dalekowzroczność Dreega
+tagGDX2EnchantB212Desc="Dar od boga wiedźm Dreega, który obdarza posiadacza próbką wizji Wielkiego Strażnika Cairn."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantB213A=Cierniowy Pył Dreega
+tagGDX2EnchantB213Desc="Dar od boga wiedźm Dreega, uzyskiwany z jednego z kolców Wielkiego Strażnia, które zawsze ociekają kwasem."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantB214A=Silny Cierniowy Pył Dreega
+tagGDX2EnchantB214Desc="Dar od boga wiedźm Dreega, uzyskiwany z jednego z kolców Wielkiego Strażnika, które zawsze ociekają kwasem."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantB215A=Terror Dreega
+tagGDX2EnchantB215Desc="Dar, a raczej klątwa, od boga wiedźm Dreega, który gwarantuje posiadaczowi fragment możliwej przyszłości, w której pustka króluje nad całym stworzeniem."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantB216A=Silny Terror Dreega
+tagGDX2EnchantB216Desc="Dar, a raczej klątwa, od boga wiedźm Dreega, który gwarantuje posiadaczowi fragment możliwej przyszłości, w której pustka króluje nad całym stworzeniem."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantB217A=Hart Osyra
+tagGDX2EnchantB217Desc="Gęsty, czarujący proszek pochodzący z wyschniętych szczątków kapłaństwa Osyra, skażonych nienazwaną ciemnością."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantB218A=Męstwo Osyra
+tagGDX2EnchantB218Desc="Gęsty, czarujący proszek pochodzący z wyschniętych szczątków kapłaństwa Osyra, wciąż błogosławiony słowem zaginionego boga."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantB219A=Przewodnictwo Osyra
+tagGDX2EnchantB219Desc="Gęsty, czarujący proszek pochodzący z wyschniętych szczątków kapłaństwa Osyra, dostrojony do sztuki opanowania magicznych stworzeń."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantB220A=Mądrość Osyra
+tagGDX2EnchantB220Desc="Gęsty, czarujący proszek pochodzący z wyschniętych szczątków kapłaństwa Osyra, wciąż wypełniony magiczną energią."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantB221A=Wizja Solaela
+tagGDX2EnchantB221Desc="Dar od boga wiedźm Solaela, A gift from the witch god Solael, gwarantujący niewypowiedziane zniszczenia jego wrogom."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantB222A=Silna Wizja Solaela
+tagGDX2EnchantB222Desc="Dar od boga wiedźm Solaela, gwarantujący niewypowiedziane zniszczenia jego wrogom."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantB223A=Żarłoczność Solaela
+tagGDX2EnchantB223Desc="Dar od boga wiedźm Solaela, gwarantujący posiadaczowi smak nieskończonego głodu Nadprzyrodzonych Płomieni."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantB224A=Silna Żarłoczność Solaela
+tagGDX2EnchantB224Desc="Dar od boga wiedźm Solaela, gwarantujący posiadaczowi smak nieskończonego głodu Nadprzyrodzonych Płomieni."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantB225A=Blask Solaela
+tagGDX2EnchantB225Desc="Dar od boga wiedźm Solaela, napełniony esencją woli nadprzyrodzonych płomieni."^w^n(Można zastosować do wszystkich 1-ręcznych broni, tarcz i podręcznych przedmiotów magicznych)
+
+tagGDX2EnchantB226A=Silny Blask Solaela
+tagGDX2EnchantB226Desc="Dar od boga wiedźm Solaela, napełniony esencją woli nadprzyrodzonych płomieni."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
+
+tagGDX2EnchantB227A=Ogień Duszy Irraha
+tagGDX2EnchantB227Desc="Drobny, czarujący proszek pochodzący z popiołów ze stosów w świątyni Irraha, wciąż nasyconym fragmentami dusz tamtejszych ofiar."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantB228A=Cierpliwość Irraha
+tagGDX2EnchantB228Desc="Drobny, czarujący proszek pochodzący z popiołów ze stosów w świątyni Irraha, który wypełnia właściciela ponad-naturalnym spokojem."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantB229A=Zatruty Jęzor Irraha
+tagGDX2EnchantB229Desc="Drobny, czarujący proszek pochodzący z popiołów ze stosów w świątyni Irraha, nasycony różnymi toksynami występującymi wśród flory i fauny Płaskowyżu Korvan."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantB230A=Krew Irraha
+tagGDX2EnchantB230Desc="Drobny, czarujący proszek pochodzący z popiołów ze stosów w świątyni Irraha, mówi się, że jest nasycony niebiańską krwią."^w^n(Można zastosować do amuletów i pierścieni)
+
+tagGDX2EnchantC201A=Srebrny Piasek Bysmiel
+tagGDX2EnchantC201Desc="Dar od bogini wiedźm Bysmiel, niewiarygodnie drobny, srebrny proszek często używany w iluzjach, ale przydatny również do zakładania barier ochronnych."^w^n(Używany we wszystkich elementach pancerza)
+
+tagGDX2EnchantC202A=Pustynny Zadzior Bysmiel
+tagGDX2EnchantC202Desc="Dar od bogini wiedźm Bysmiel; śmiercionośny pocałunek Intrygantki wypełnia ten magiczny proszek."^w^n(Używany we wszystkich elementach pancerza)
+
+tagGDX2EnchantC203A=Dotyk Zasłony Bysmiel
+tagGDX2EnchantC203Desc="Dar od bogini wiedźm Bysmiel, proszek magicznie połączony z zasłoną, która dzieli żyjących i umarłych."^w^n(Używany we wszystkich elementach pancerza)
+
+tagGDX2EnchantC204A=Omen Dreega
+tagGDX2EnchantC204Desc="Dar od Boga Wiedźm Dreega, który zapewnia użytkownikowi krótkie przebłyski przyszłości."^w^n(Używany we wszystkich elementach pancerza)
+
+tagGDX2EnchantC205A=Bariera Zasłony Dreega
+tagGDX2EnchantC205Desc="Dar od Boga Wiedźm Dreega, stworzony by chronić przed wizjami zmieniającymi umysł, przekazywanymi przez Wielkiego Strażnika swoim wyznawcom."^w^n(Używany we wszystkich elementach pancerza)
+
+tagGDX2EnchantC206A=Krew Wrogów Dreega
+tagGDX2EnchantC206Desc="Dar od Boga Wiedźm Dreega, wywodzący się z chtonickich wrogów zmiażdżonych przez Wielkiego Strażnika w bramach Nadprzyrodzonej Krainy."^w^n(Używany we wszystkich elementach pancerza)
+
+tagGDX2EnchantC207A=Krwawe Związanie Solaela
+tagGDX2EnchantC207Desc="Dar od Boga Wiedźm Solaela, cuchnący proszek używany w rytuałach związania na adresatach przymierza z Solaelem."^w^n(Używany we wszystkich elementach pancerza)
+
+tagGDX2EnchantC208A=Bariera Zasłony Solaela
+tagGDX2EnchantC208Desc="Dar od Boga Wiedźm Solaela, stworzony z intencją ochrony umysłu przed niszczycielską pustką, tak by Nadprzyrodzony Płomień mógł studiować jej sekrety bez przeszkód."^w^n(Używany we wszystkich elementach pancerza)
+
+tagGDX2EnchantC209A=Związanie Dusz Solaela
+tagGDX2EnchantC209Desc="Dar od Boga Wiedźm Solaela, podły proszek użyty w rytuałach wiążących duchy do pochłaniania przez Nadprzyrodzone Płomienie."^w^n(Używany we wszystkich elementach pancerza)
+
+#Mobility Runes
+tagGDX2RuneBDesc="Typowy symbol mocy używany przez sekty Bogów Wiedźm."^w^n(Dodawany do Medali)
+tagGDX2RuneCDesc="Potężny symbol mocy, możliwy do odnalezienia jedynie w najdalszych zakątkach Cairn."^w^n(Dodawany do Medali)
+tagGDX2RuneDDesc="Starożytny symbol mocy, uważany za utracony w roztrzaskanej rzeczywistości."^w^n(Dodawany do Medali)
+
+tagGDX2RuneB201=Emblemat Cienistego Skrytobójcy
+tagGDX2RuneB202=Emblemat Skaczącej Modliszki
+tagGDX2RuneB203=Emblemat Skupionej Wściekłości
+tagGDX2RuneB204=Emblemat Szczelinowego Prześladowcy
+tagGDX2RuneB205=Emblemat Szarżującego Byka
+tagGDX2RuneB206=Emblemat Zwinnej Łowczyni
+
+tagGDX2RuneC201=Emblemat Szybkości z Korvan
+tagGDX2RuneC202=Glif Szybkości z Korvan
+tagGDX2RuneC203=Runa Szybkości z Korvan
+tagGDX2RuneC204=Emblemat Nosiciela Dreega
+tagGDX2RuneC205=Glif Nosiciela Dreega
+tagGDX2RuneC206=Runa Nosiciela Dreega
+tagGDX2RuneC207=Emblemat Potęgi Rahna
+tagGDX2RuneC208=Glif Potęgi Rahna
+tagGDX2RuneC209=Runa Potęgi Rahna
+tagGDX2RuneC210=Glif Pośpiechu Wendigo
+tagGDX2RuneC211=Glif Taranującej Prędkości
+tagGDX2RuneC212=Glif Bezcielesnych Wiatrów
+tagGDX2RuneC213=Glif Sejsmicznego Skoku
+tagGDX2RuneC214=Glif Huknięcia Burzy
+tagGDX2RuneC215=Glif Doskoku Mantykory
+tagGDX2RuneC216=Glif Tajemnej Szczeliny
+tagGDX2RuneC217=Glif Palącej Szczeliny
+tagGDX2RuneC218=Glif Szczeliny Ostrzy
+tagGDX2RuneC219=Glif Nieładu
+tagGDX2RuneC220=Glif Wykiwania
+tagGDX2RuneC221=Glif Powstania Feniksa
+tagGDX2RuneC222=Glif Upiornego Odwrotu
+tagGDX2RuneC223=Glif Uniku Asasyna
+tagGDX2RuneC224=Glif Uderzenia Chaosu
+tagGDX2RuneC225=Glif Nagłego Uderzenia
+tagGDX2RuneC226=Glif Uderzenia Skorpiona
+tagGDX2RuneC227=Glif Uderzenia Duszy
+
+tagGDX2RuneD201=Runa Oddechu Amatoka
+tagGDX2RuneD202=Runa Woli Upadłych Królów
+tagGDX2RuneD203=Runa Gwałtownej Frajdy
+tagGDX2RuneD204=Runa Spadania Ulzuina
+tagGDX2RuneD205=Runa Tajemnej Niestabilności
+tagGDX2RuneD206=Runa Skrzydeł Ryloka
+tagGDX2RuneD207=Runa Potęgi Pancernika
+tagGDX2RuneD208=Runa Ran Dreega
+tagGDX2RuneD209=Runa Uderzenia Nadaana
+tagGDX2RuneD210=Runa Przybycia Ultosa
+tagGDX2RuneD211=Runa Astralnej Szczeliny
+tagGDX2RuneD212=Runa Przemieszczenia
+tagGDX2RuneD213=Runa Tajfunu
+tagGDX2RuneD214=Runa Szaleństwa Ulzaada
+tagGDX2RuneD215=Runa Nieszczęśliwego Pragnienia
+tagGDX2RuneD216=Runa Pocałunku Murmura
+tagGDX2RuneD217=Runa Łaski Ishtaka
+tagGDX2RuneD218=Runa Wampirycznych Cieni
+tagGDX2RuneD219=Runa Mrocznego Pragnienia
+tagGDX2RuneD220=Runa Szarży Burzowego Tytana
+tagGDX2RuneD221=Runa Płonącej Szarży
+
+
+#ItemComponents
+
+
+#ItemFactionBoosters
+tagGDX2BoosterWGB_A01=Glejt Sekty Bysmiel
+tagGDX2BoosterWGB_B01=Mandat Sekty Bysmiel
+tagGDX2BoosterWGD_A01=Glejt Sekty Dreega
+tagGDX2BoosterWGD_B01=Mandat Sekty Dreega
+tagGDX2BoosterWGS_A01=Glejt Sekty Solaela
+tagGDX2BoosterWGS_B01=Mandat Sekty Solaela
+
+tagGDX2BoosterEldritch_C01=Nakaz Aresztowania Korvaaka
+
+
+#Misc
+
+
+
+#ItemSets
+tagItemSetC008CName=Amnestia
+tagItemSetC007CName=Augur
+tagItemSetC013CName=Szaleństwo Wiernych Przysiędze
+tagItemSetC015BName=Rzeźnia Wantona
+
+tagGDX2ItemSetC201Name=Płyta Baldira
+tagGDX2ItemSetC201BName=Regalia Baldira
+tagGDX2ItemSetC201Desc="Baldir stał się wzorem cnoty i wiary Erulanu. Składał przysięgę na schodach cesarskiego pałacu, obiecując  bronić bezbronnych i pokornych przed złem tego świata. Przysięga ta nigdy nie została złamana."
+
+tagGDX2ItemSetC202Name=Sztormowy Wąż
+tagGDX2ItemSetC202Desc="Pogański kult niebiańskiego węża został dawno temu wytępiony przez Luminari, jednak relikty tej zapomnianej religii wciąż istnieją."
+
+tagGDX2ItemSetC203Name=Gnijący Blask
+tagGDX2ItemSetC203Desc="Okrutne pragnienia rozszarpały serce Idrii, a więc pozwoliła całemu światu spłonąć wraz z nią."
+
+tagGDX2ItemSetC204Name=Przysięga Daegi
+tagGDX2ItemSetC204Desc="Daega szukała odpowiedzi, których kapłani Empyriona nie mogli udzielić, ale w swojej desperacji odkryła głębszą prawdę za wstawiennictwem Dreega."
+
+tagGDX2ItemSetC205Name=Kamienny Ojciec
+tagGDX2ItemSetC205Desc="Zbroja Kamiennego Ojca, niezłomnego i nieugiętego obrońcy wiary Menhira."
+
+tagGDX2ItemSetD201Name=Roztrzaskany Strażnik
+tagGDX2ItemSetD201Desc="Strażnik królestwa pożeranego przez ciemność, pozbawiony patrona i obrońcy."
+
+tagGDX2ItemSetD202Name=Zwycięzca
+tagGDX2ItemSetD202Desc="Zdobywca tego co zakazane, tryumfujący nad wszystkimi wrogami."
+
+tagGDX2ItemSetD203Name=Mroźny Szept
+tagGDX2ItemSetD203Desc="W tej zbroi kołaczą się echa szeptów demonów śmierci. Założenie jej oznacza stanie się mistrzem śmierci."
+
+tagGDX2ItemSetD204Name=Duma Ludrigana
+tagGDX2ItemSetD204Desc="Duma legendy Luminari, Ludrigana, który wykorzystywał szamańskie relikty do zwyciężania wrogów imperium Erulanu."
+
+tagGDX2ItemSetD205Name=Handlarz Kości
+tagGDX2ItemSetD205Desc="Zbroja Handlarza Kości, zdrajcy wiary i kolekcjonera makabrycznych trofeów."
+
+tagGDX2ItemSetD206Name=Światło Cnoty
+tagGDX2ItemSetD206Desc="Podobno pobłogosławiona przez Empyriona, największego pośród bogów. Światło Cnoty jest światłem nadziei i sprawiedliwości w świecie desperacko potrzebującym obu tych wartości."
+
+tagGDX2ItemSetD207Name=Strażnik Trójcy
+tagGDX2ItemSetD207Desc="Zbroja Strażnika, opiekuna przysięgi Trójcy i ich śmiertelnych interesów."
+
+tagGDX2ItemSetD208Name=Podstęp Harra
+tagGDX2ItemSetD208Desc="Harra rozkoszował się kombinacją ostrza i magii, ćwicząc zarówno z tajemniczymi Nocnymi Ostrzami jak i z Gildam Arcanum."
+
+tagGDX2ItemSetD209Name=Cyklon
+tagGDX2ItemSetD209Desc="Galaron nauczał o tragicznym końcu Cairn, w którym powietrze zmieni się w płomienie, a niego rozerwą wieczne burze. Jego słowa w momencie śmierci, zapowiedziały przybycie zapomnianego."
+
+tagGDX2ItemSetD210Name=Udręka Rah'Zina
+tagGDX2ItemSetD210Desc="Koszmary Rah'Zina zostały wchołnięte przez pustkę, wypaczając wszystkie jego myśli i pragnienia, aż w końcu stał się tym, czego się sam obawiał."
+
+tagGDX2ItemSetD211Name=Pan Zarazy
+tagGDX2ItemSetD211Desc="Nikt nie znał prawdziwej tożsamości Pana Zarazy, a tylko zbrodnie które popełnił. Kiedy wreszcie go ujęto, jego twarz była tak zmieniona przez choroby i zgniliznę, że nikt nie był w stanie go rozpoznać."
+
+tagGDX2ItemSetD212Name=Złośliwość Ghola
+tagGDX2ItemSetD212Desc="Ghol był dziki, ale błyskotliwy. Te cechy przyciągnęły uwagę Pani Szeptów i dzięki nim zyskał jej błogosławieństwo."
+
+tagGDX2ItemSetD213Name=Świecidełka Bysmiel
+tagGDX2ItemSetD213Desc="W swych śmiertelnych dniach Pani Szeptów znana była z gromadzenia potężnych przedmiotów, które zwiększały kontrolę nad pomniejszymi stworzeniami. Po wstąpieniu na tron nie potrzebowała już tych lichych świecidełek."
+
+tagGDX2ItemSetD214Name=Korvański Wydmowy Wróg
+tagGDX2ItemSetD214Desc="Korvański Wydmowy Wróg chciał być jak żmije Korvańskich piasków, nieuchwytne, szybkie i... zabójcze."
+
+tagGDX2ItemSetD215Name=Rozmyślania Pyrana
+tagGDX2ItemSetD215Desc="Wzgardzony przez swych nauczycieli, Pyran postanowił odcisnąć piętno na historii sztuki magicznej, nawet jeśli jego eksperymenty miały zatruć i powykręcać jego własne ciało."
+
+tagGDX2ItemSetD216Name=Rzemiosło Targo
+tagGDX2ItemSetD216Desc="Mówi się, że został wykuty przez zapomnianego mistrza z samych gwiazd. Pancerz ten uosabia siłę woli i ciała."
+
+tagGDX2ItemSetD217Name=Dusza z Otchłani
+tagGDX2ItemSetD217Desc="Ta niegdyś błogosławiona zbroja roi się teraz od złowrogich energii. Pustka pożarła jej serce na wieki."
+
+tagGDX2ItemSetD218Name=Czerwony Duch
+tagGDX2ItemSetD218Desc="Czerwony duch rozkoszował się rzezią człowieka i podobnych stworzeń, a nawet nosił ciało swej ofiary na długo po tym, gdy zaczęło gnić."
+
+tagGDX2ItemSetD219Name=Zbroja Wiecznej Nocy
+tagGDX2ItemSetD219Desc="Morgoneth wpatrywał się w ciemność tak długo, aż ciemność się odwzajemniła."
+tagGDX2ItemSetD220Name=Strażnik Zasłony
+tagGDX2ItemSetD220Desc="Regalia noszone niegdyś przez rezolutnych Strażników Ralyoth, którzy przed wiekami byli opiekunami zapomnianego boga."
+
+tagGDX2ItemSetD221Name=Chłeptacz Posoki
+tagGDX2ItemSetD221Desc="Regalia noszone niegdyś przez rezolutnych Strażników Ralyoth, którzy przed wiekami byli opiekunami zapomnianego boga."
+
+tagGDX2ItemSetD222Name=Wzywające Zgliszcza
+tagGDX2ItemSetD222Desc="Regalia noszone niegdyś przez rezolutnych Strażników Ralyoth, którzy przed wiekami byli opiekunami zapomnianego boga."
+
+
+
+#LootChests
+
+
+tagGDX2KorvanChestB01=Używana Skrzynia
+tagGDX2KorvanChestC01=Urocza Skrzynia
+tagGDX2KorvanChestD01=Zasobna Skrzynia
+
+tagGDX2EldritchChestB01=Upiorne Zapasy
+tagGDX2EldritchChestC01=Upiorny Zachowanek
+tagGDX2EldritchChestD01=Upiorny Skarbiec
+tagGDX2EldritchChestD02=Sekrety Korvanu
+tagGDX2EldritchChestD03=Kolekcje Skrzyń
+
+tagGDX2KorvanSarcophagusB01=Sarkofag Szlachcica
+tagGDX2KorvanSarcophagusC01=Królewski Sarkofag
+tagGDX2KorvanSarcophagusD01=Niebiański Sarkofag
+
+tagGDX2BloodSwornCorpse=Zakrwawione Zwłoki
+
+tagGDX2Breakable_Beetle=Gniazdo Skarabeusza
+tagGDX2Breakable_Eggs=Jaja Gadów
+
+tagGDX2ChestKorvaak=Skarbiec Korvaaka
+tagGDX2ChestTombOfHeretic=Kolekcja Morgonetha
+
+tagGDX2ChestOneShot_=Skrzynia z Korvan
+tagGDX2ChestBossOneShot_Korvaak=Esencja Korvaaka
+
+tagGDX2InventorsApprenticeCorpse=Zwłoki Canen
+
+tagGDX2UroboruukRemains=Dobytek Uroboruuka
+
+tagGDX2ChestGauntletChestD01=Zapomniany Relikwiarz
+
+tagGDX2ChestMawOfEnaht_01=Szczątki Carmaca
+
+
+#Interactive Objects
+
+tagGDX2DoorLocked_Korvaak= {^R} ~ Zamknięte przez potężnego strażnika
+tagGDX2DoorLocked_Roguelike= {^R} ~ Zapieczętowane przez potężne runy
+
+
+
+#Breakables
+tagGDX2Quest_BindingConduit_01=Wiążący Element
+tagGDX2Crate=Skromna Skrzynia
+
+#Dungeon Doors
+tagGDX2UGDoorEntrance= Wejście
+tagGDX2UGDoorBeetle=Wejście do Gniazda Chrząszczy
+tagGDX2UGDoorEntrance= Wejście
+tagGDX2UGDoorSolaelFaction=Pokój Map w Rahn
+tagGDX2UGDoorBlocked= {^R} ~ Zablokowane
+tagGDX2UGDoorTombEntrance=Wejście do grobowca
+tagGDX2UGDoorTombDoor=Drzwi Grobowca
+tagGDX2UGDoorKorvaakTomb=Wejście do Grobowca Upiornego Słońca
+tagGDX2UGDoorMessenger=Rozpadlina Odkupienia
+tagGDX2UGDoorKymonExit=Przedsionek do Upiornej Bramy
+tagGDX2UGDoorKorvaakFinal=Zejście do Upiornego Tronu
+
+tagGDX2UGDoorFort=Wejście do Fortu
+tagGDX2UGDoorMaw=Wejście do Paszczy
+
+
+tagGDX2POI_AREAG_MeatTunnelA=Paszcza Enhata Wejście
+tagGDX2POI_AREAG_MeatTunnelB=Paszcza Enhata Wyjście
+tagGDX2POI_AREAG_MeatTunnelC=Przejście w Paszczy
+tagGDX2UGDoorLostOasisPassage=Przejście do Zagubionej Oazy
+tagGDX2UGDoorLostOasisGardenEntrance=Dwór Królów Wejście
+tagGDX2UGDoorLostOasisGardenExit=Dwór Królów Wyjście
+tagGDX2UGDoorLostOasisPathEntrance=Ścieżka Przeklętych Wejście
+tagGDX2UGDoorLostOasisPathExit=Ścieżka Przeklętych Wyjście
+tagGDX2UGDoorSandFort_Entrance=Bastion Forlorn Wejście
+tagGDX2UGDoorSandFort_Exit=Bastion Forlorn Wyjście
+tagGDX2UGDoorSandFort_StairsUp=Schody do góry Fortu
+tagGDX2UGDoorSandFort_StairsDown=Schody w dół Fortu
+tagGDX2UGDoor_HowlingDepthsA=Wyjące Głębiny Wejście
+tagGDX2UGDoor_HowlingDepthsB=Wyjące Głębiny Wyjście
+tagGDX2UGDoor_HowlingDepthsC=Przejście w Wyjących Głębinach
+
+
+
+#Doors
+tagGDX2Door_PortcullisGold=Złota Opuszczana Krata
+tagGDX2Door_Lava=Bariera z Magmy
+tagGDX2EldritchRift=Upiorna Szczelina
+tagGDX2TombOfHereticDoor=Manifestacja Ciemności
+tagGDX2TombOfHereticSeal=Pieczęć Heretyka
+
+tagGDX2DoorOneWayTombOfHeretic=Ucieczka od Nocy
+tagGDX2EpicDoor_TombOfHeretic=Pieczęć do Szaleństwa Morgonetha
+tagGDX2EpicDoor_TombOfHereticLocked= {^R} ~ Zapieczętowane przez ciemność (Wymaga kościanego klucza)
+
+
+tagPrefixB037_Class_A=$[ms]{^G}Watażkowy[fs]{^G}Watażkowa[ns]{^G}Watażkowe[mp]{^G}Watażkowe[fp]{^G}Watażkowe[np]{^G}Watażkowe
+tagPrefixB038_Class_A=$[ms]{^G}Tarczowniczy[fs]{^G}Tarczownicza[ns]{^G}Tarczownicze[mp]{^G}Tarczownicze[fp]{^G}Tarczownicze[np]{^G}Tarczownicze
+tagPrefixB039_Class_A=$[ms]{^G}Strażniczy[fs]{^G}Strażnicza[ns]{^G}Strażnicze[mp]{^G}Strażnicze[fp]{^G}Strażnicze[np]{^G}Strażnicze
+tagPrefixB040_Class_A=$[ms]{^G}Derwiszowy[fs]{^G}Derwiszowa[ns]{^G}Derwiszowe[mp]{^G}Derwiszowe[fp]{^G}Derwiszowe[np]{^G}Derwiszowe
+tagPrefixB041_Class_A=$[ms]{^G}Templarski[fs]{^G}Templarska[ns]{^G}Templarskie[mp]{^G}Templarskie[fp]{^G}Templarskie[np]{^G}Templarskie
+tagPrefixB042_Class_A=$[ms]{^G}Archontowy[fs]{^G}Archontowa[ns]{^G}Archontowe[mp]{^G}Archontowe[fp]{^G}Archontowe[np]{^G}Archontowe
+tagPrefixB043_Class_A=$[ms]{^G}Paladyński[fs]{^G}Paladyńska[ns]{^G}Paladyńskie[mp]{^G}Paladyńskie[fp]{^G}Paladyńskie[np]{^G}Paladyńskie
+tagPrefixB044_Class_A=$[ms]{^G}Opresorski[fs]{^G}Opresorska[ns]{^G}Opresorska[mp]{^G}Opresorska[fp]{^G}Opresorska[np]{^G}Opresorska
+tagPrefixB045_Class_A=$[ms]{^G}Odkupicielski[fs]{^G}Odkupicielska[ns]{^G}Odkupicielskie[mp]{^G}Odkupicielskie[fp]{^G}Odkupicielskie[np]{^G}Odkupicielskie
+
+
+#Affixes
+tagGDX2PrefixAA024=$[ms]{^Y}Wierny[fs]{^Y}Wierna[ns]{^Y}Wierne[mp]{^Y}Wierne[fp]{^Y}Wierne[np]{^Y}Wierne
+
+#Difficulty Unlocks
+tagGDX2DifficultyUnlock01=Odznaka Zasług Mistrza
+tagGDX2DifficultyUnlock01_Desc=Dowód podbicia Cairn i odblokowania Elitarnego poziomu. Strzeż się: wejście na wyższe poziomy trudności, przyniesie trudne wyzwania. ^oPrzedmiot może być przekazywany innym twoim postaciom.
+tagGDX2DifficultyUnlock02=Odznaka Zasług Zbawiciela
+tagGDX2DifficultyUnlock02_Desc=Dowód podbicia Cairn i odblokowania poziomu Ultimate. Strzeż się: wejście na wyższe poziomy trudności, przyniesie trudne wyzwania. ^oPrzedmiot może być przekazywany innym twoim postaciom.
+tagGDX2DifficultyUnlockStats={^E}Odblokowuje atrybuty, nagrody za zadania i dodatkowe punkty umiejętności z niższych poziomów trudności.
+tagGDX2DifficultyUnlockTeleporters={^E}Odblokowuje szczeliny do wszystkich miejsc na niższych poziomach trudności.
+tagGDX2DifficultyUnlockBags={^E}Odblokowuje wszystkie przegrody w plecaku postaci.
+
+
+

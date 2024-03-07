@@ -1,0 +1,234 @@
+#Region Names
+tagGDX2MapEndlessDungeon=Pokřivený svět
+tagGDX2MapEndlessBoss=Území místního strážce
+tagGDX2MapEndlessTreasure=Krása Pokřiveného světa
+
+#Shattered Bosses
+tagGDX2EndlessDungeon_Boss01=Warden Kriev, Pokřivený strážce
+tagGDX2EndlessDungeon_Boss02=Darius Connolay, Pokřivená duše
+tagGDX2EndlessDungeon_Boss03=Zlomený Karriv
+tagGDX2EndlessDungeon_Boss03B=Karrivova duše
+tagGDX2EndlessDungeon_Boss04=Ekket'Zal, Yugolův posel
+tagGDX2EndlessDungeon_Boss05=Theodin Maurin, Pokřivený řezník
+tagGDX2EndlessDungeon_Boss06=Pokřivený stevard
+tagGDX2EndlessDungeon_Boss07=Lucian, Pokřivený velitel
+tagGDX2EndlessDungeon_Boss08=Alkamir, Pokřivený popravčí
+tagGDX2EndlessDungeon_Boss09=Shar'Zal, Yugolův následník
+tagGDX2EndlessDungeon_Boss10=Gargaban, Pokřivené srdce
+tagGDX2EndlessDungeon_Boss11=Pokřivený hlídkař
+tagGDX2EndlessDungeon_Boss12=Pokřivený vyvrhel
+tagGDX2EndlessDungeon_Boss13=Salazin, Pokřivená čepel
+tagGDX2EndlessDungeon_Boss14=Hinass, Pokřivená břitva
+tagGDX2EndlessDungeon_Boss15=Strážce Pokřivených bran
+tagGDX2EndlessDungeon_Boss16=Ztělesnění hladu
+tagGDX2EndlessDungeon_Boss16_Tentacle=Hladové chapadlo
+tagGDX2EndlessDungeon_Boss16_Void=Hladová Prázdnota
+
+tagGDX2EndlessDungeon_Special01=Fanatik ~ Kult Dolu
+tagGDX2EndlessDungeon_Special02=První pozorovatel
+tagGDX2EndlessDungeon_Special03=Pátrač Zatracených
+tagGDX2EndlessDungeon_Special04=Bedýnka zábavy
+tagGDX2EndlessDungeon_Special05=Skromná bedýnka
+tagGDX2EndlessDungeon_Special06=POJMENUJ MĚ
+tagGDX2EndlessDungeon_Special07=Dokonalý běžně přerostlý červ
+tagGDX2EndlessDungeon_Special07B=Přerostlý červ
+tagGDX2EndlessDungeon_Special08=Duch vývojářů
+tagGDX2EndlessDungeon_Special09=Vybledlý dromedár
+tagGDX2EndlessDungeon_Special10=Vybledlý dromedár ~ šampión
+tagGDX2EndlessDungeon_Special11=Vybledlý dromedár ~ pozorovatel
+tagGDX2EndlessDungeon_Special12=Vyhladovělý červ
+tagGDX2EndlessDungeon_Special13=Zapálený červ
+tagGDX2EndlessDungeon_Special14=Nafouklý červ
+tagGDX2EndlessDungeon_Special15=Přežraný červ
+tagGDX2EndlessDungeon_Special16=Nestabilní hltoun
+tagGDX2EndlessDungeon_Special17=Vyžraný polykač
+tagGDX2EndlessDungeon_Special18=Otesánek
+
+tagGDX2EndlessDungeon_Lever01=Červená páka
+tagGDX2EndlessDungeon_Lever02=Zelená páka
+tagGDX2EndlessDungeon_Lever03=Modrá páka
+tagGDX2EndlessDungeon_Lever04=Žlutá páka
+tagGDX2EndlessDungeon_Lever05=Fialová páka
+tagGDX2EndlessDungeon_Lever06=Bílá páka
+tagGDX2EndlessDungeon_Door01=Očarovaná padací mříž
+tagGDX2EndlessDungeon_Door01_Lock= {^R} ~ uzamčeno pomocí pák v okolí
+
+
+tagGDX2EndlessDungeon_Boss_Skill01=Hladovějící tvář
+tagGDX2EndlessDungeon_Boss_Skill01_Desc=Hladová temnota se do tebe vkrade a bude snižovat tvé zdraví.
+
+tagGDX2EndlessDungeon_Boss_Summon01=Nebeská larva
+tagGDX2EndlessDungeon_Boss_Summon02=Hladová temnota
+tagGDX2EndlessDungeon_Boss_Summon02_Skill=Hladová temnota
+tagGDX2EndlessDungeon_Boss_Summon02_Skill_Desc=Hladová zima z nekonečné temnoty tě rozežírá... pomaloučku...
+
+tagGDX2EndlessDungeon_S201=Úplně normální štít
+tagGDX2EndlessDungeon_S201_Desc="Chmatáci z jihu jistě pochopí."
+tagGDX2EndlessDungeon_S202={^L}Halapartna z vybledlé kosti
+tagGDX2EndlessDungeon_S203={^I}Leovinův prsten
+tagGDX2EndlessDungeon_S203_Desc="Krásně zachovalý prsten vyrobený ze zvláštního, velmi měkkého materiálu. Vypadá poměrně prostě.."
+
+#NPCs
+tagGDX2EndlessDungeon_NPC_Event01=Mazaan, strážce portálů
+
+tagGDX2EndlessDungeon_NPC_Merchant01=Ullana
+tagGDX2EndlessDungeon_ StoreTitle_Merchant01=Pokřivený zlodějíček
+tagGDX2EndlessDungeon_ StoreTitle_Merchant02=Pokřivený zeman
+tagGDX2EndlessDungeon_ StoreTitle_Merchant03=Pokřivený rytíř
+tagGDX2EndlessDungeon_ StoreTitle_Merchant04=Pokřivená panna
+tagGDX2EndlessDungeon_ StoreTitle_Merchant05=Pokřivený strážce
+
+
+tagGDX2EndlessDungeon_NPC_Smith01=Ikarrod
+tagGDX2EndlessDungeon_StoreTitle_Smith01=Prokletý kovář
+tagGDX2EndlessDungeon_StoreDesc_Smith01_1={}Dar neživého
+tagGDX2EndlessDungeon_StoreDesc_Smith01_2=Ikarrod je obdarován tisíciletými kovářskými znalostmi, které jsou podložené jeho značnou výjimečností... totiž samotnout existencí.
+tagGDX2EndlessDungeon_StoreDesc_Smith01_3= 
+tagGDX2EndlessDungeon_StoreDesc_Smith01_4=Vyrobené zbraně, zbroj a příslušenství jsou prodchnuty jednou z následujících vlastností:
+
+tagGDX2EndlessDungeon_NPC_Smuggler01=Agnath
+tagGDX2EndlessDungeon_StoreTitle_Smuggler01=Nesmrtelný pašerák
+
+tagGDX2EndlessDungeon_NPC_Reallocator01=Rathia
+tagGDX2EndlessDungeon_StoreTitle_Reallocator01=Kaplanka
+
+tagGDX2EndlessDungeon_NPC_Inventor01=Laduna
+tagGDX2EndlessDungeon_StoreTitle_Inventor01=Roztřesený vynálezce
+
+tagGDX2EndlessDungeon_NPC_PowerUps01=Callagadra, následovnice Pouště
+
+#Shrines
+tagGDX2EndlessDungeon_Shrine01=Azrakaaova svatyně
+tagGDX2EndlessDungeon_Shrine01_Desc=Uzavři smlouvu s Azrakaou, díky níž získáš zvýšenou rychlost pohybu a tvé útoky budou na nepřátele vrhat přízračné čepele.
+tagGDX2EndlessDungeon_Shrine01Skill=Dohoda s Azrakaou
+tagGDX2EndlessDungeon_Shrine01Skill_Desc=Povedlo se ti uzavřít dohodu s Azrakaou, která ti zaručuje zvýšenou rychlost pohybu a způsobuje, že tvé útoky vrhají na nepřátele spektrální čepele.
+tagGDX2EndlessDungeon_Shrine01SkillProc=Spektrální čepel
+
+tagGDX2EndlessDungeon_Shrine02=Oleronova svatyně
+tagGDX2EndlessDungeon_Shrine02_Desc=Nasyť se Oleronovou touhou po krvi, která ti zajistí zvýšenou rychlost pohybu a výrazně zvýšenou % útočnost.
+tagGDX2EndlessDungeon_Shrine02Skill=Oleronova touha po krvi
+tagGDX2EndlessDungeon_Shrine02Skill_Desc=Povedlo se ti naplnit se Oleronovou touhou po krvi, která ti dává zvýšenou rychlost pohybu a výrazně zvýšené % útočných schopností.
+
+tagGDX2EndlessDungeon_Shrine03=Rattoshova svatyně
+tagGDX2EndlessDungeon_Shrine03_Desc=Získej moc strážce závoje, která ti umožní zvýšit rychlost pohybu a způsobí, že tvé útoky budou z nepřátel vysávat život.
+tagGDX2EndlessDungeon_Shrine03Skill=Rattoshův závoj
+tagGDX2EndlessDungeon_Shrine03Skill_Desc=Máš sílu závoje, která ti propůjčuje zvýšenou rychlost pohybu a způsobuje, že tvé útoky vysávají z nepřátel život.
+tagGDX2EndlessDungeon_Shrine03SkillProc=Kohoutek života
+
+tagGDX2EndlessDungeon_Shrine04=Amatokův svatyně
+tagGDX2EndlessDungeon_Shrine04_Desc=Z okolního vzduchu vysává teplo, což zvyšuje tvou rychlost pohybu a občas způsobuje, že útoky proti tobě vyvolávají mrazivý výbuch.
+tagGDX2EndlessDungeon_Shrine04Skill=Amatokův šepot
+tagGDX2EndlessDungeon_Shrine04Skill_Desc=Odčerpáváš teplo z okolního vzduchu, což zvyšuje tvou rychlost pohybu a útoky proti tobě někdy vyvolávají mrazivý výbuch.
+tagGDX2EndlessDungeon_Shrine04SkillProc=Mrazivý výbuch
+
+tagGDX2EndlessDungeon_Shrine05=Svatyně smrti
+tagGDX2EndlessDungeon_Shrine05_Desc=Uzavři dohodu se smrtí, díky níž zvýšíš rychlost pohybu a nikdo tě nedokáže porazit.
+tagGDX2EndlessDungeon_Shrine05Skill=Smrtelná přání
+tagGDX2EndlessDungeon_Shrine05Skill_Desc=Povedlo se ti uzavřít dohodu se smrtí, díky níž se zvýšila rychlost tvého pohybu a nikdo tě nedokáže porazit.
+
+
+#Powerups
+tagGDX2EndlessDungeon_Powerup01=Esence Pokřiveného světa
+tagGDX2EndlessDungeon_Powerup01_Desc=Pozřeš duši Pokřiveného světa, která ti na krátkou dobu poskytne ohromnou sílu a houževnatost. ^oTento efekt je možné aplikovat až pětkrát, a dále je možné jej navyšovat v dalších oblastech tohoto světa.
+tagGDX2EndlessDungeon_Powerup02_Desc=Pozřeš duši Pokřiveného světa, která ti na krátkou dobu poskytne ohromnou sílu a houževnatost. ^oTento efekt je možné aplikovat až osmkrát, a dále je možné jej navyšovat v dalších oblastech tohoto světa.
+tagGDX2EndlessDungeon_Powerup03_Desc=Pozřeš duši Pokřiveného světa, která ti na krátkou dobu poskytne ohromnou sílu a houževnatost. ^oTento efekt je možné aplikovat až devětkrát, a dále je možné jej navyšovat v dalších oblastech tohoto světa.
+tagGDX2EndlessDungeon_Powerup04_Desc=Pozřeš duši Pokřiveného světa, která ti na krátkou dobu poskytne ohromnou sílu a houževnatost. ^oTento efekt je možné aplikovat až desetkrát.
+
+
+#Items
+tagGDX2EndlessDungeon_Essence_01=Pokřivená duše
+tagGDX2EndlessDungeon_Essence_02=Mocná pokřivená duše
+tagGDX2EndlessDungeon_Essence_03=Nebeská pokřivená duše
+tagGDX2EndlessDungeon_Essence_04=Ohromná pokřivená duše
+
+tagGDX2EndlessDungeon_Key_01=Rozbitý hraniční kámen
+tagGDX2EndlessDungeon_Key_01_Desc=Rozbitý hraniční kámen má obrovský potenciál. Umožňuje Mazaanovi otevřít cestu do alespoň 5. oblastí, nejvýše však do 15. oblastí Pokřiveného světa.
+tagGDX2EndlessDungeon_Key_01_Blueprint=Plánek: Rozbitý hraniční kámen
+
+tagGDX2EndlessDungeon_Key_02=Rezonující hraniční kámen
+tagGDX2EndlessDungeon_Key_02_Desc=Rezonující hraniční kámen je už pouze zlomek své bývalé moci. Umožňuje Mazaanovi otevřít cestu do alespoň 20. oblastí, nejvýše však do 30. oblastí Pokřiveného světa.
+tagGDX2EndlessDungeon_Key_02_Blueprint=Plánek: Rezonující hraniční kámen
+
+tagGDX2EndlessDungeon_Key_03=Strašidelný hraniční kámen
+tagGDX2EndlessDungeon_Key_03_Desc=Strašidelná hraniční kámen je prodchnut duchy mrtvých. Umožňuje Mazaanovi otevřít cestu do alespoň 35. oblastí, nejvýše však do 45. oblastí Pokřiveného světa.
+tagGDX2EndlessDungeon_Key_03_Blueprint=Plánek: Strašidelná hraniční kámen
+
+tagGDX2EndlessDungeon_Key_04=Znesvěcený hraniční kámen
+tagGDX2EndlessDungeon_Key_04_Desc=Znesvěcený hraniční kámen byl posvěcen otrávenou krví. Umožňuje Mazaanovi otevřít cestu do alespoň 50. oblastí, nejvýše však do 60. oblastí Pokřiveného světa.
+tagGDX2EndlessDungeon_Key_04_Blueprint=Plánek: Znesvěcený hraniční kámen
+
+tagGDX2EndlessDungeon_Key_05=Nebeský hraniční kámen
+tagGDX2EndlessDungeon_Key_05_Desc=Nebeský hraniční kámen byl plně obnoven a pulzuje v něm jeho božský potenciál. Umožňuje Mazaanovi otevřít cestu do alespoň 65. oblastí, nejvýše však do 75. oblastí Pokřiveného světa. ^n^nTento hraniční kámen není pro jedince se slabým srdcem.
+tagGDX2EndlessDungeon_Key_05_Blueprint=Plánek: Nebeský hraniční kámen
+
+tagGDX2EndlessDungeon_Key_06=Hraniční kámen věčnosti
+tagGDX2EndlessDungeon_Key_06_Desc=Kámen, který napíná vlákna reality a ohýbá je kolem sebe. Umožňuje Mazaanovi otevřít cestu nejméně k 80. až 90. střepu Roztříštěné říše. ^n^nTento kámen by neměli používat lidé se slabým srdcem.
+tagGDX2EndlessDungeon_Key_06_Blueprint=Plánek: Hraniční kámen věčnosti
+
+tagGDX2EndlessDungeon_Key_07=Hraniční kámen smrti
+tagGDX2EndlessDungeon_Key_07_Desc=Hraniční kámen poskvrněný mocí smrti nyní otevírá cestu vpřed do nevyzpytatelných nebezpečí, kde nečeká žádná odměna, ale sláva za dobytí. ^n^nUmožňuje Mazaanovi otevřít cestu přinejmenším k 95. střepu Roztříštěné říše a ještě dál. ^n^nTento kámen by neměli používat lidé se slabým srdcem.
+tagGDX2EndlessDungeon_Key_07_Blueprint=Plánek: Hraniční kámen smrti
+
+tagGDX2ItemTest={^F}Miss Zevlák
+tagGDX2ItemTestDesc="Vrcholný úspěch mezi oblečením bezdomovce."
+tagGDX2ItemTest2={^F}Trochu zábavná krabička
+tagGDX2ItemTest2Desc="Inspirováno událostmi reálného života."
+
+#Traps
+tagGDX2Trap_A01=Sloup mrazu
+tagGDX2Trap_A02=Sloup pekla
+tagGDX2Trap_A03=Sloup smrti
+tagGDX2Trap_A04=Sloup jedu
+tagGDX2Trap_A09=Tajemný sloup
+
+tagGDX2Trap_A09_Skill01=Tajemná aura
+tagGDX2Trap_A09_Skill01_Desc=Surové tajemné energie obklopují tento krystal, posilují okolní nepřátele a zároveň tě zraňují.
+
+
+#Notifications
+tagGDX2Notification_FloorActive=Vezmi Pokřivené duše ze svých nepřátel
+tagGDX2Notification_FloorFinished=Pokračuj k dalšímu portálu
+tagGDX2Notification_BossActive=Zlikviduj všechny nepřátele
+tagGDX2Notification_BossFinished=Promluv si s Mazaanem
+tagGDX2Notification_Reward=Tvá odměna čeká za dalším portálem
+tagGDX2Notification_Reset=(volitelné) Promluv si s Mazaanem v Konkláve Tří o dalším pokusu
+
+tagGDX2Notification_ArkovianPrison_01=Nedaleká padací mříž se zvedla!
+tagGDX2Notification_TreasureTrap_01=Poblíž se to hemží dušema!
+tagGDX2Notification_Special=Vypadá to, že je něco špatně...
+tagGDX2Notification_Special02=Slyšíš skřípějící kamenný zvuk někde tady poblíž...
+
+
+#Doors
+tagGDX2EndlessDungeonEntrance=Portál do Pokřiveného světa
+tagGDX2EndlessDungeonFloorEntrance=Portál Pokřiveného světa
+tagGDX2EndlessDungeonNextFloor=Pokračovat dál
+tagGDX2EndlessDungeonTreasureRoom=Portál k věčnému bohatství
+tagGDX2EndlessDungeonExit=Útěk do Cairnu
+
+
+#Rewards
+tagGDX2Item_ChestA01=Tovaryšova truhlička
+tagGDX2Item_ChestB01=Šampiónova truhla
+tagGDX2Item_ChestC01=Vítězná truhla
+tagGDX2Item_ChestD01=Zdobená truhla
+tagGDX2Item_ChestE01=Truhlice hrdinů
+tagGDX2Item_ChestF01=Hodnotná truhlice
+tagGDX2Item_ChestG01=Velká truhlice
+tagGDX2Item_ChestH01=Obrovská truhlice
+tagGDX2Item_ChestI01=Překrásná truhlice
+tagGDX2Item_ChestJ01=Nádherná truhlice
+tagGDX2Item_ChestK01=Vynikající truhlice
+tagGDX2Item_ChestL01=Mstitelův poklad
+tagGDX2Item_ChestM01=Stoupencův poklad
+tagGDX2Item_ChestN01=Tajemný poklad
+tagGDX2Item_ChestO01=Nebeský poklad
+tagGDX2Item_ChestP01=Poklad prvního
+tagGDX2Item_ChestQ01=Poklad z počátku světa
+tagGDX2Item_ChestR01=Nadpozemská hrobka
+tagGDX2Item_ChestS01=Polobožská hrobka
+
+tagGDX2Item_SpecialChestA01=Tajemství Pokřiveného světa
+tagGDX2Item_SpecialChestA02=Dary Pokřiveného světa
+
+

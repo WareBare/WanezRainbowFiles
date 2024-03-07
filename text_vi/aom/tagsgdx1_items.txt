@@ -1,0 +1,1938 @@
+
+#Weapons
+
+
+tagGDX1WeaponSwordB101={^L}Wendigo Claw
+tagGDX1WeaponSwordB101Desc="Móng vuốt bốc mùi hôi thối nồng nặc."
+tagGDX1WeaponSwordB102={^L}Wendigo Barb
+tagGDX1WeaponSwordB102Desc="Móng vuốt dính đầy những thứ bẩn thỉu."
+
+tagGDX1WeaponSwordC101={^B}Cleansed Blade of Elgoloth
+tagGDX1WeaponSwordC101_Desc="Từng bị vấy bẩn bởi bàn tay ô uế của Quái vật Chthon, thanh đao này đã được hồi phục nguyên trạng bởi Hội Luminari."
+tagGDX1WeaponSwordC104={^B}Legionnaire's Pride
+
+tagGDX1WeaponSwordD101={^I}Edge of Death
+tagGDX1WeaponSwordD102={^I}Pagar's Betrayal
+tagGDX1WeaponSwordD102_Desc="Chẳng có sự phản bội nào nặng nề bằng cái ngày Người Phán Quyết Pagar bị phát hiện có liên hệ với thế lực Hư Không tại Trường đào tạo của Hội Luminari."
+tagGDX1WeaponSwordD105={^I}Misery
+tagGDX1WeaponSwordD106={^I}Blazeheart
+tagGDX1WeaponSwordD106_Desc="Một chữ D được khắc trên cán gươm đẫm máu."
+tagGDX1WeaponSwordD107=(S) {^I}Belgothian's Slicer
+
+tagGDX1WeaponSwordF101={^B}Malmouth Slicer
+tagGDX1WeaponSwordF102={^B}Malmouth Blade
+tagGDX1WeaponSwordF103={^B}Wendigo Jawbone
+tagGDX1WeaponSwordF104={^I}Redeemer of Malmouth
+
+
+tagGDX1WeaponBluntB101={^L}Bargoll's Heart
+tagGDX1WeaponBluntB101Desc="Trái tim đá của Bargoll phát ra một luồng khí lạnh chết người."
+tagGDX1WeaponBluntB102={^L}Bargoll's Core
+tagGDX1WeaponBluntB102Desc="Lõi cây từng phát triển mạnh mẽ của Bargoll thèm khát nguồn năng lượng sống để sinh vật này có thể được tái sinh lần nữa."
+
+tagGDX1WeaponBluntC101={^B}Deadbeater
+
+tagGDX1WeaponBluntD101={^I}Malakor's Infusion
+tagGDX1WeaponBluntD101_Desc="Ma Pháp Sư Malakor, đồng minh thân cận của Hội Luminari, rèn vũ khí này bằng ngọn lửa nguyên tố để đánh bại các Thế Lực Cổ Xưa."
+tagGDX1WeaponBluntD103={^I}Amarastan Crusher
+tagGDX1WeaponBluntD104={^I}The Pummeler
+tagGDX1WeaponBluntD105=(S) {^I}Stoneguard Pummeler
+
+tagGDX1WeaponBluntF101={^B}Malmouth Warhammer
+tagGDX1WeaponBluntF102={^B}Malmouth Mace
+tagGDX1WeaponBluntF103={^B}Wendigo Mace
+tagGDX1WeaponBluntF104={^I}Howl of the Wendigo
+
+tagGDX1WeaponAxeB101={^L}Servitor's Slicer
+tagGDX1WeaponAxeB102={^L}Servitor's Corruptor
+tagGDX1WeaponAxeB103={^Y}Bloodspill Cleaver
+
+tagGDX1WeaponAxeC101={^B}Halvor's Skinner
+
+tagGDX1WeaponAxeD101={^I}Ravager's Bite
+tagGDX1WeaponAxeD101_Desc="Được tạo nên từ móng vuốt Hiện Thân Ravager."
+tagGDX1WeaponAxeD103={^I}Nightclaw
+tagGDX1WeaponAxeD104={^I}Edge of Sanity
+tagGDX1WeaponAxeD104_Desc="Không rõ là vũ khí này sẽ khiến cho nạn nhân của nó trở nên điên loạn... hay khiến người cầm nó trở nên điên loạn nữa."
+tagGDX1WeaponAxeD105=(S) {^I}Korba's Decapitator
+tagGDX1WeaponAxeD106=(S) {^I}Korba's Frenzy
+
+tagGDX1WeaponAxeF101={^B}Coven Cleaver
+tagGDX1WeaponAxeF102={^B}Coven Axe
+tagGDX1WeaponAxeF103={^B}Wendigo Cleaver
+tagGDX1WeaponAxeF104={^I}Witch Moon
+
+
+tagGDX1WeaponGun1hB101={^L}Ugdenbog Howler
+tagGDX1WeaponGun1hB101Desc="Vũ khí này được truyền vào một linh hồn Wendigo."
+tagGDX1WeaponGun1hB102={^L}Ugdenbog Venom Launcher
+tagGDX1WeaponGun1hB102Desc="Mỗi viên đạn của vũ khí này được tẩm một loại hỗn hợp độc dược được lấy từ nhiều loại quái thú sống quanh Ugdenbog."
+tagGDX1WeaponGun1hB103={^Y}Stormsurge Pistol
+
+tagWeaponGun1hC013B={^B}Mediator
+tagGDX1WeaponGun1hC101={^B}The Dissenter
+tagGDX1WeaponGun1hC101B={^B}Dissenter
+tagGDX1WeaponGun1hC102={^B}Aldur's Inquisition
+tagGDX1WeaponGun1hC102_Desc="Vũ khí mang bên mình của Người Phán Quyết Aldur, nổi tiếng vì đã thanh trừng vô số kẻ tà giáo và tiêu diệt Galbar'Thuul."
+tagGDX1WeaponGun1hC103={^Z}Core of Gargabol
+tagGDX1WeaponGun1hC103_Desc="Ánh sáng từ ngọn lửa của một Vệ Thần đã từng rất quyền uy vẫn còn loé lên bên trong lõi tâm của nó."
+tagGDX1WeaponGun1hC108={^B}Stormlauncher of Ultos
+tagGDX1WeaponGun1hC110=(S) {^B}Luminari Sidearm
+
+tagGDX1WeaponGun1hD101={^I}Morguul's Mortality
+tagGDX1WeaponGun1hD101_Desc="Tử Linh Đại Sư Morguul đã chế tạo một loại đạn đặc biệt cho cây súng này, kết hợp năng lượng tử khí với những loại độc dược chết người để tạo ra một hợp chất có khả năng thúc đẩy quá trình hoại tử và thối rửa."
+tagGDX1WeaponGun1hD102={^I}Anderos' Amplifier
+tagGDX1WeaponGun1hD102_Desc="Vũ khí này được chế tạo chuyên biệt bởi Người Phán Quyết Anderos để tối ưu hoá khả năng sử dụng Ma Vật của ông ta."
+tagGDX1WeaponGun1hD103={^I}Arcanum Electrollis
+tagGDX1WeaponGun1hD103_Desc="Được chế tạo theo đúng chuyên môn của Sư Phụ Agrivix, Đại Pháp Sư của Toà Tháp Bạc."
+tagGDX1WeaponGun1hD107={^I}Cindercore
+tagGDX1WeaponGun1hD108=(S) {^I}Stronghold Revolver
+tagGDX1WeaponGun1hD109=(S) {^I}Darkblaze Incinerator
+tagGDX1WeaponGun1hD110=(S) {^I}Dagallon's Destroyer
+tagGDX1WeaponGun1hD110_Desc="Nòng súng được khắc cổ ngữ ở bên trong để gia tăng sức mạnh cho những viên đạn bằng một thế lực siêu nhiên."
+tagGDX1WeaponGun1hD111=(S) {^I}Dagallon's Annihilator
+tagGDX1WeaponGun1hD112={^I}Hagarradian Enforcer
+tagGDX1WeaponGun1hD112_Desc="Hộp đạn trong súng được đính một mảnh của Ma Vật Hagarrad nguyên bản, khiến mục tiêu lạnh thấu xương khi trúng đạn."
+tagGDX1WeaponGun1hD114={^F}Corruption of Gargabol
+tagGDX1WeaponGun1hD114_Desc="Từng là vị thần đáng kính của tự nhiên, giờ đây bị tha hoá bởi bàn tay ô uế của Thế Lực Hư Không."
+
+tagGDX1WeaponGun1hF101={^B}Coven Handcannon
+tagGDX1WeaponGun1hF101_Desc="Mặc dù thiết kế trông rất thô sơ, Hội Phù Thuỷ đã bí mật yểm chú ma thuật vào vũ khí này."
+tagGDX1WeaponGun1hF102={^B}Coven Venomlauncher
+tagGDX1WeaponGun1hF102_Desc="Mặc dù thiết kế trông rất thô sơ, Hội Phù Thuỷ đã bí mật yểm chú ma thuật vào vũ khí này."
+tagGDX1WeaponGun1hF103={^B}Wendigo Repeater
+tagGDX1WeaponGun1hF104={^I}Hex Launcher
+
+
+tagGDX1WeaponGun2hB101={^L}Ugdenbog Sparkthrower
+tagGDX1WeaponGun2hB101Desc="Lõi đá từ một thạch nhân vùng đầm lầy đã được kiểm chứng là cực kỳ dễ uốn nắn khi tiếp xúc với năng lượng ma thuật, cho phép rèn thành giáp, dụng cụ và cả súng ống."
+tagGDX1WeaponGun2hB102={^L}Ugdenbog Bilelauncher
+tagGDX1WeaponGun2hB103={^L}Ugdenbog Boltthrower
+tagGDX1WeaponGun2hB104={^L}Ugdenbog Arcaneweaver
+tagGDX1WeaponGun2hB105={^Y}Flamewarder Rifle
+
+tagGDX1WeaponGun2hC101={^B}The Interrogator
+tagGDX1WeaponGun2hC101B={^B}Interrogator
+tagGDX1WeaponGun2hC102={^B}Spirit Cannon
+tagGDX1WeaponGun2hC102_Desc="Được rèn bằng năng lượng của những linh hồn thống khổ."
+tagGDX1WeaponGun2hC103={^B}Burning Purifier
+tagGDX1WeaponGun2hC106={^B}Amarastan Bladethrower
+tagGDX1WeaponGun2hC106_Desc="Một loại vũ khí độc đáo được tạo bởi Đao Sĩ Bóng Đêm Bậc Thầy, Amarasta."
+tagGDX1WeaponGun2hC110={^B}Cosmic Torrent
+
+tagWeaponGun2hD001B={^I}Adversary
+tagWeaponCrossbow2hD003B={^I}Northern Wyrm
+tagGDX1WeaponGun2hD101={^I}Evoker of Elgoloth
+tagGDX1WeaponGun2hD102={^I}Dreadscorcher
+tagGDX1WeaponGun2hD102_Desc="Ngọn lửa cháy rực toả ra từ vũ khí này không chỉ gây hại đối với mục tiêu mà còn đe doạ người cầm nó."
+tagGDX1WeaponGun2hD104={^I}Gildor's Pulverizer
+tagGDX1WeaponGun2hD104_Desc="Chứa đựng những bí mật của Hội Luminari, vũ khí này phóng thích một sức mạnh chưa được biết đến trong mỗi phát bắn."
+tagGDX1WeaponGun2hD106={^I}Venomlance
+tagGDX1WeaponGun2hD107=(S) {^I}Runebinder's Spellthrower
+
+tagGDX1WeaponGun2hF101={^B}Malmouth Carbine
+tagGDX1WeaponGun2hF102={^B}Malmouth Rifle
+tagGDX1WeaponGun2hF103={^B}Wendigo Stakethrower
+tagGDX1WeaponGun2hF104={^I}The Desolator
+tagGDX1WeaponGun2hF104_Desc="Mỗi kẻ địch chỉ giúp trì hoãn sự huỷ diệt sắp sửa diễn ra."
+
+
+tagGDX1WeaponMelee2hB101={^L}Fleshwarped Core
+tagGDX1WeaponMelee2hB102={^L}Fleshwarped Shard
+tagGDX1WeaponMelee2hB103={^Y}Gutcrush Warmaul
+
+tagGDX1WeaponMelee2hC101={^B}Soulsplitter
+tagGDX1WeaponMelee2hC101_Desc="Tương truyền rằng lưỡi hái sắc bén này không chỉ cứa vào da thịt, mà sâu tận linh hồn nạn nhân."
+tagGDX1WeaponMelee2hC102={^B}Cesarin's Conviction
+tagGDX1WeaponMelee2hC107={^B}Fist of Ultos
+
+tagWeaponMelee2hD002B={^I}Guillotine
+tagGDX1WeaponMelee2hD101={^I}Death's Reach
+tagGDX1WeaponMelee2hD102={^I}Guardian of Death's Gates
+tagGDX1WeaponMelee2hD102_Desc="Người ta đồn rằng vũ khí này từng được Uroboruuk sử dụng, chỉ cần một cú chạm nhẹ, lưỡi sắc bén của nó có thể hấp thụ linh hồn kẻ địch."
+tagGDX1WeaponMelee2hD103={^I}Arcanor, Blade of the Luminari
+tagGDX1WeaponMelee2hD103_Desc="Đao hành lễ của hội Luminari đã được truyền qua nhiều đời Hội Trưởng suốt nhiều thế kỷ."
+tagGDX1WeaponMelee2hD107={^I}Gutsmasher
+tagGDX1WeaponMelee2hD107_Desc="Lúc nào cũng dính đầy nội tạng của những kẻ địch bị kết liễu bởi nó."
+tagGDX1WeaponMelee2hD108=(S) {^I}Avenger's Crusher
+
+tagGDX1WeaponMelee2hF101={^B}Coven Headcrusher
+tagGDX1WeaponMelee2hF102={^B}Malmouth Greatsword
+tagGDX1WeaponMelee2hF103={^B}Wendigo Decapitator
+tagGDX1WeaponMelee2hF104={^I}Blazerush
+
+
+tagGDX1WeaponCaster1hA101={^W}Preserver Scepter
+tagGDX1WeaponCaster1hA102={^W}Redeemer Scepter
+tagGDX1WeaponCaster1hA103={^W}Preserver Dagger
+tagGDX1WeaponCaster1hA104={^W}Redeemer Dagger
+
+tagGDX1WeaponCaster1hB101={^L}Ugdenbog Flamestrife
+tagGDX1WeaponCaster1hB102={^L}Ugdenbog Chillstrife
+tagGDX1WeaponCaster1hB103={^L}Ugdenbog Stormstrife
+tagGDX1WeaponCaster1hB104={^L}Ascendant Conduit
+tagGDX1WeaponCaster1hB105={^L}Ascendant Source
+tagGDX1WeaponCaster1hB106={^Y}Rime-Rotten Wand
+tagGDX1WeaponCaster1hB107={^Y}Deathborne Scepter
+tagGDX1WeaponCaster1hB108={^L}Heart of Theodin Marcell
+tagGDX1WeaponCaster1hB108_Desc="Một phần sức mạnh chủ nhân của nó vẫn còn đập bên trong."
+
+tagGDX1WeaponCaster1hC101={^B}Ravager's Barb
+tagGDX1WeaponCaster1hC102={^B}Jaravuuk's Bite
+tagGDX1WeaponCaster1hC102_Desc="Người ta bảo rằng, đao hành lễ của Tử Linh Đại Sư Jaravuuk có khả năng chọc thủng bức màn giữa sự sống và cái chết."
+tagGDX1WeaponCaster1hC103={^B}Ulzaad's Channeler
+tagGDX1WeaponCaster1hC103_Desc="Một hơi thở thiên thần, bị kẹt vĩnh hằng bên trong cây trượng này."
+tagGDX1WeaponCaster1hC104={^B}Arcane Storm Evoker
+tagGDX1WeaponCaster1hC105={^B}Finger of Gar'Dalvur
+tagGDX1WeaponCaster1hC105_Desc="Gar'Dalvur trước khi chết đã nói một điều với những kẻ hành quyết ông ta."
+tagGDX1WeaponCaster1hC113={^B}Rageflame Spellblade
+tagGDX1WeaponCaster1hC114={^B}Cyclonic Invoker
+tagGDX1WeaponCaster1hC115=(S) {^B}Dreadwalker Carver
+tagGDX1WeaponCaster1hC116={^Z}Scepter of Malmouth
+tagGDX1WeaponCaster1hC116_Desc="Quang cảnh của Thành phố Cảng Valbury bị sụp đổ tràn ngập tâm trí bạn."
+
+tagGDX1WeaponCaster1hD101={^I}Dreadfire
+tagGDX1WeaponCaster1hD102={^I}Veilpiercer
+tagGDX1WeaponCaster1hD102_Desc="Thanh kiếm sượt qua hai thế giới một cách dễ dàng, giống như một chiếc chìa khoá vừa vặn với ổ khoá của nó."
+tagGDX1WeaponCaster1hD103={^I}Dreadweaver
+tagGDX1WeaponCaster1hD104={^I}Chillflame Evoker
+tagGDX1WeaponCaster1hD105={^I}Rune of Elgoloth
+tagGDX1WeaponCaster1hD105_Desc="Một vũ khí được lấy cảm hứng từ Ma vật Hộp Bão Táp của Elgoloth, cổ ngữ trên đó được khắc vào thanh quyền trượng này."
+tagGDX1WeaponCaster1hD106={^I}Spelldrinker
+tagGDX1WeaponCaster1hD106_Desc="Nó thèm khát năng lượng ma thuật, đến nỗi như muốn nuốt chửng người cầm nó."
+tagGDX1WeaponCaster1hD113={^I}Pandemic
+tagGDX1WeaponCaster1hD114={^I}Spark of Reality
+tagGDX1WeaponCaster1hD114_Desc="Nhìn vào vũ khí này cứ như nhìn vào một khoảng hư không vô tận, rộng lớn và bao la."
+tagGDX1WeaponCaster1hD115=(S) {^I}Beacon of Lost Souls
+tagGDX1WeaponCaster1hD116=(S) {^I}Allagast's Stormbinder
+tagGDX1WeaponCaster1hD117=(S) {^I}Deathguard Blade
+tagGDX1WeaponCaster1hD118={^F}Decree of Malmouth
+tagGDX1WeaponCaster1hD118Desc="Quang cảnh của Thành phố Cảng Valbury bị sụp đổ tràn ngập tâm trí bạn."
+
+tagGDX1WeaponCaster1hF101={^B}Coven Aetherspark
+tagGDX1WeaponCaster1hF102={^B}Coven Biletouch
+tagGDX1WeaponCaster1hF103={^B}Coven Spellweaver
+tagGDX1WeaponCaster1hF104={^B}Malmouth Flamecaster
+tagGDX1WeaponCaster1hF105={^B}Malmouth Stormcaster
+tagGDX1WeaponCaster1hF106={^B}Malmouth Chillbearer
+tagGDX1WeaponCaster1hF107={^B}Wendigo Blooddrinker
+tagGDX1WeaponCaster1hF108={^B}Wendigo Chaosweaver
+tagGDX1WeaponCaster1hF109={^B}Wendigo Aetherweaver
+tagGDX1WeaponCaster1hF110={^I}Hexflame 
+tagGDX1WeaponCaster1hF111={^I}Claw of Hagaraz
+
+
+#Shields
+tagGDX1ShieldB101={^L}Colossal Fortress
+tagGDX1ShieldB101Desc="Kích thước của khiên yêu cầu một sức mạnh to lớn xứng tầm."
+tagGDX1ShieldB102={^L}Colossal Bulwark
+tagGDX1ShieldB103={^Y}Stonewall Defender
+
+tagGDX1ShieldC101={^B}Dreadguard
+tagGDX1ShieldC102={^B}Legionnaire's Rebuke
+tagGDX1ShieldC102_Desc="Lịch sử về chiếc khiên này xưa như tuổi đời của Quân Đoàn Đen."
+tagGDX1ShieldC107={^B}Stormscourge Bulwark
+
+tagShieldD002B={^I}Final Stop
+tagShieldD003B={^I}Untouchable
+tagGDX1ShieldD101={^I}Maw of the Damned
+tagGDX1ShieldD101_Desc="Mãi mãi bị nguyền rủa là số phận của những kẻ chấp nhận đặc ân từ Wendigo."
+tagGDX1ShieldD102={^I}Watcher of Erulan
+tagGDX1ShieldD102_Desc="Có tin đồn là khuôn mặt bằng đá trên đó chỉ mở mắt khi vương quốc lâm vào tình thế nguy cấp."
+tagGDX1ShieldD103={^I}Turrion's Reprisal
+tagGDX1ShieldD107={^I}The Grey Knight
+tagGDX1ShieldD107_Desc="Vật chống đỡ của một vệ binh không rõ mặt nhân danh Menhir, một chiến binh đơn thân độc mã chống lại những kẻ tà giáo để giành lấy sự vinh quang."
+tagGDX1ShieldD108=(S) {^I}Bulwark of Octavius
+tagGDX1ShieldD109=(S) {^I}Stronghold Defender
+tagGDX1ShieldD110=(S) {^I}Spellscourge Bulwark
+tagGDX1ShieldD110_Desc="Chiếc khiên ẩn chứa trong nó một sức mạnh huỷ diệt."
+
+tagGDX1ShieldF101={^B}Coven Protector
+tagGDX1ShieldF102={^B}Malmouth Defender
+tagGDX1ShieldF103={^B}Wendigo Spiritguard
+tagGDX1ShieldF104={^I}Wrathguard
+
+
+#Focus
+tagGDX1FocusA101={^W}Exalted Tome
+tagGDX1FocusA102={^W}Exalted Effigy
+tagGDX1FocusA103={^W}Preserver Archive
+tagGDX1FocusA104={^W}Preserver Sphere
+
+tagGDX1FocusB101={^L}Terrnox's Aether Tome
+tagGDX1FocusB101Desc="Chứa đựng sự hiểu biết về Aether, phần nhiều trong đó vẫn chưa thể giải mã."
+tagGDX1FocusB102={^L}Terrnox's Arcane Tome
+tagGDX1FocusB102Desc="Chứa đựng kiến thức về ma thuật mà chỉ Terrnox mới hiểu được."
+tagGDX1FocusB103={^L}Bound Wraith
+tagGDX1FocusB104={^L}Enslaved Wraith
+tagGDX1FocusB105={^L}Fleshwarped Tome
+tagGDX1FocusB105Desc="Quyển sách quằn quại trong bàn tay của bạn."
+tagGDX1FocusB106={^L}Fleshwarped Codex
+tagGDX1FocusB107={^L}Fleshwarped Archive
+tagGDX1FocusB108={^Y}Spellshock Tome
+tagGDX1FocusB109={^Y}Smoldering Tome
+tagGDX1FocusB110={^L}Leafmane Horn
+tagGDX1FocusB111={^L}Leafmane Trophy
+
+tagGDX1FocusC101={^B}Padala's Will
+tagGDX1FocusC102={^B}Virulent Maw
+tagGDX1FocusC102_Desc="Thủ cấp thối rửa này rỉ ra một chất dịch dơ bẩn, nhưng độc tố chứa trong nó còn nguy hiểm hơn nhiều."
+tagGDX1FocusC103={^B}Codex of Malligosta
+tagGDX1FocusC103_Desc="Malligosta là bậc thầy trong kỹ thuật chuyển hoá năng lượng tinh thần thành những loại phép thuật mang tính huỷ diệt. Bà ta cân bằng sức mạnh giữa Tử Linh Pháp Sư và Ma Pháp Sư."
+tagGDX1FocusC104={^B}Word of Inquisitor Abalon
+tagGDX1FocusC104_Desc="Người Phán Quyết Abalon là một trong những Người Phán Quyết dũng cảm nhất trong thời đại của ông ta, sẵn sàng sử dụng bất cứ Ma Vật nào chỉ để thực hiện sứ mệnh bảo vệ vương quốc. Một số người sau này gọi phương pháp của ông ta mang tính tà đạo."
+tagGDX1FocusC105={^B}Tome of Frigid Winds
+tagGDX1FocusC113={^B}Helltome
+tagGDX1FocusC114={^B}Sphere of Many Blades
+tagGDX1FocusC114_Desc="Trò thú vị chính là cầm quả cầu này mà không làm bản thân bị thương."
+tagGDX1FocusC115=(S) {^B}Dreadwalker Tome
+
+tagGDX1FocusD101={^I}Reaper of the Accursed
+tagGDX1FocusD101_Desc="Thanh lưỡi hái rung lên mỗi khi có một linh hồn nào đó đến gần."
+tagGDX1FocusD102={^I}Contagion
+tagGDX1FocusD103={^I}Fiendgaze Tome
+tagGDX1FocusD104={^I}Codex of Truths
+tagGDX1FocusD104_Desc="Những chân lý thiêng liêng của Empyrion, được tổng hợp bởi Agathia Haggar, Quan Chấp Chính đầu tiên."
+tagGDX1FocusD105={^I}Ixillor's Rageflame
+tagGDX1FocusD105_Desc="Ngọn lửa ma thuật này không ổn định và khó chế ngự. Chỉ cần một sơ suất nhỏ khi tập trung tinh thần, ngọn lửa này sẽ cháy lan vào chủ nhân của nó."
+tagGDX1FocusD111={^I}Farath's Cube
+tagGDX1FocusD111_Desc="Khối lập phương ma thuật của Farath chỉ từng được giải mã một lần trước đó, nhưng người cầm nó được kể là đã bị mù khi chứng kiến sự kỳ vĩ của ma thuật ẩn chứa bên trong."
+tagGDX1FocusD112={^I}Hellscourge
+tagGDX1FocusD113=(S) {^I}Cataclysm's Eye
+tagGDX1FocusD114=(S) {^I}Valguur's Focus
+tagGDX1FocusD115=(S) {^I}Uroboruuk's Effigy
+tagGDX1FocusD116=(S) {^I}Diviner's Codex
+
+tagGDX1FocusF101={^B}Coven Vile Effigy
+tagGDX1FocusF102={^B}Coven Arcane Effigy
+tagGDX1FocusF103={^B}Coven Venom Effigy
+tagGDX1FocusF104={^B}Malmouth Void Tome
+tagGDX1FocusF105={^B}Malmouth Corrupted Tome
+tagGDX1FocusF106={^B}Malmouth Infernal Tome
+tagGDX1FocusF107={^B}Wendigo Life Effigy
+tagGDX1FocusF108={^B}Wendigo Chilling Effigy
+tagGDX1FocusF109={^B}Wendigo Caustic Effigy
+tagGDX1FocusF110={^I}Stormbringer of Malmouth
+
+
+#ItemStyles
+tagGDX1ArmorStyle001={^S}Preserver
+tagGDX1ArmorStyle002={^S}Redeemer
+tagGDX1WeaponQuality001={^S}Exalted
+tagGDX1WeaponQuality002={^S}Preserver
+
+#ArmorHead
+tagGDX1HeadB101={^L}Ascendant Hood
+tagGDX1HeadB102={^L}Ascendant Cowl
+tagGDX1HeadB103={^L}Packla's Skins
+tagGDX1HeadB103_Desc="Bạn không biết được chiếc mặt nạ này được làm từ bao nhiêu nạn nhân."
+tagGDX1HeadB104={^L}Packla's Visage
+tagGDX1HeadB104_Desc="Mùi hôi thối bốc ra từ chiếc mặt nạ này thật không thể chịu nổi."
+tagGDX1HeadB105={^L}Death's Whisper Hood
+tagGDX1HeadB106={^L}Skybreaker Circlet
+tagGDX1HeadB107={^L}Namadea's Horns
+tagGDX1HeadB107_Desc="Một luồng khí lạnh chết người bao trùm chiếc mũ này."
+
+tagGDX1HeadC101={^B}Wreath of Souls
+tagGDX1HeadC101_Desc="Những linh hồn bị giam giữ trong chiếc vòng đeo này thỉnh thoảng thì thầm những bí mật vào người đội, dù không phải lúc nào cũng là những thứ mà người đội nó muốn nghe."
+tagGDX1HeadC102={^B}Rotmender's Hat
+tagGDX1HeadC103={^B}Purging Gaze
+tagGDX1HeadC103_Desc="Thế giới đầy rẫy những kẻ dị giáo và tà đạo, nhờ công lao của Hội Luminari, những kẻ đáng nguyền rủa đó sẽ được quét sạch."
+tagGDX1HeadC104={^B}Bounty Hunter's Hat
+tagGDX1HeadC105={^Z}Horns of Ekket'Zul
+tagGDX1HeadC105_Desc="Chiếc sừng trên đó vẫn còn chứa đầy sức mạnh hắc ám không tưởng."
+tagGDX1HeadC106={^Z}Soulless Gaze
+tagGDX1HeadC107={^Z}Tainted Gaze
+tagGDX1HeadC108={^Z}Ravager's Gaze
+tagGDX1HeadC108_Desc="Dù đã tan biến khỏi thế giới vật chất, một số mảnh linh hồn của wendigo Ravager vẫn còn tồn tại trong chiếc mặt nạ ghê tởm này."
+tagGDX1HeadC109=(S) {^B}Corruptor's Mask
+tagGDX1HeadC110=(S) {^B}Silver Sentinel's Mask
+tagGDX1HeadC115={^B}Stormherald's Visage
+tagGDX1HeadC122=(S) {^B}Dreadwalker Cowl
+tagGDX1HeadC123=(S) {^B}Luminari Hat
+tagGDX1HeadC124={^B}Cauldron of Excitement
+tagGDX1HeadC124_Desc="Tràn đầy sự phấn khích, người ta có thể nói như thế."
+
+tagGDX1HeadD101={^I}Necrolord's Gaze
+tagGDX1HeadD102={^I}Venomancer's Guile
+tagGDX1HeadD103={^I}Spellgaze
+tagGDX1HeadD104={^I}Wyrmbone Mask
+tagGDX1HeadD109={^I}Voice of Dreeg
+tagGDX1HeadD109_Desc="Một ơn huệ, và một lời nguyền, được ban cho người mang tiếng nói của Dreeg, giọng nói mà vị Ma Thần dùng để chuyển những sắc chỉ ma quái của ông ta."
+tagGDX1HeadD110={^I}Gaze of Empyrion
+tagGDX1HeadD110_Desc="Ánh sáng thần thánh của Empyrion soi rọi những người đội chiếc vương miện này."
+tagGDX1HeadD111={^F}Ravager's Dreadgaze
+tagGDX1HeadD111_Desc="Dù đã tan biến khỏi thế giới vật chất, một số mảnh linh hồn của Ravager vẫn còn tồn tại trong chiếc mặt nạ ghê tởm này."
+tagGDX1HeadD112=(S) {^F}Krieg's Mask
+tagGDX1HeadD113=(S) {^I}Mask of Lost Souls
+tagGDX1HeadD114=(S) {^I}Visor of Octavius
+tagGDX1HeadD115=(S) {^I}Korba's Hood
+tagGDX1HeadD116=(S) {^I}Darkblaze Headguard
+tagGDX1HeadD117=(S) {^I}Spellscourge Visor
+tagGDX1HeadD118=(S) {^I}Mageslayer's Hood
+tagGDX1HeadD119=(S) {^I}Valguur's Gems
+tagGDX1HeadD120=(S) {^I}Runebinder's Hat
+tagGDX1HeadD121=(S) {^I}Uroboruuk's Visage
+tagGDX1HeadD122=(S) {^I}Dagallon's Faceguard
+tagGDX1HeadD123=(S) {^I}Deathguard Hood
+tagGDX1HeadD124=(S) {^I}Diviner's Mask
+tagGDX1HeadD125=(S) {^F}Dark One's Hood
+tagGDX1HeadD126=(S) {^I}Belgothian's Mask
+tagGDX1HeadD127=(S) {^I}Radaggan's Mask
+tagGDX1HeadD128=(S) {^I}Rimetongue Mask
+tagGDX1HeadD129=(S) {^I}Blood Knight's Visage
+
+tagGDX1HeadF101={^G}Coven Mindbender Hood
+tagGDX1HeadF102={^G}Coven Tamer's Hood
+tagGDX1HeadF103={^G}Coven Arcane Hood
+tagGDX1HeadF104={^G}Coven Combatant Casque
+tagGDX1HeadF105={^G}Coven Flameweaver Casque
+tagGDX1HeadF106={^G}Coven Defender Casque
+tagGDX1HeadF107={^G}Malmouth Enforcer Headguard
+tagGDX1HeadF108={^G}Malmouth Destroyer Headguard
+tagGDX1HeadF109={^G}Malmouth Chilling Headguard
+tagGDX1HeadF110={^G}Malmouth Flamewarder Casque
+tagGDX1HeadF111={^G}Malmouth Dread Casque
+tagGDX1HeadF112={^G}Malmouth Defender Casque
+tagGDX1HeadF113={^G}Wendigo Dread Mask
+tagGDX1HeadF114={^G}Wendigo Vile Mask
+tagGDX1HeadF115={^G}Wendigo Spellweaver Mask
+tagGDX1HeadF116={^G}Wendigo Bladed Headguard
+tagGDX1HeadF117={^G}Wendigo Vile Headguard
+tagGDX1HeadF118={^G}Wendigo Tempered Headguard
+
+
+#ArmorShoulders
+tagGDX1ShoulderB101={^L}Ascendant Pauldrons
+tagGDX1ShoulderB102={^L}Ascendant Shoulderguards
+tagGDX1ShoulderB103={^L}Kra'vall Shoulderguards
+tagGDX1ShoulderB103_Desc="Lớp da cứng của một con thuỷ quái tại Đầm Lầy Ugdenbog có thể khó xử lý, nhưng được đánh giá cao bởi các nghệ nhân vì một lý do đặc biệt."
+tagGDX1ShoulderB104={^L}Kra'vall Shoulderpads
+
+tagGDX1ShoulderC101={^B}Wraithcaller's Mantle
+tagGDX1ShoulderC102={^B}Wraith Knight's Pauldrons
+tagGDX1ShoulderC103={^B}Stormscorched Shoulderguards
+tagGDX1ShoulderC103_Desc="Sức mạnh của hàng trăm cơn bão cũng chưa đủ để phá vỡ mảnh giáp này."
+tagGDX1ShoulderC104={^B}Bounty Hunter's Shoulderguards
+tagGDX1ShoulderC105=(S) {^B}Corruptor's Mantle
+tagGDX1ShoulderC106=(S) {^B}Silver Sentinel's Shoulderguard
+tagGDX1ShoulderC111={^B}Spellstalker's Mantle
+
+tagGDX1ShoulderD101={^I}Lifeblaze Mantle
+tagGDX1ShoulderD102={^I}Dread Knight's Guard
+tagGDX1ShoulderD103={^I}The Cortosian Scrolls
+tagGDX1ShoulderD103B={^I}Cortosian Scrolls
+tagGDX1ShoulderD103_Desc="Những cuộn giấy ma thuật được kết nối với nhau chứa đựng phép thuật và các tuyệt kỹ được viết bởi nhiều thế hệ Ma Pháp Sư Cortosian."
+tagGDX1ShoulderD104={^I}Blazeborn Mantle
+tagGDX1ShoulderD109={^I}Venomtongue Mantle
+tagGDX1ShoulderD110={^I}Embercore Shoulderguard
+tagGDX1ShoulderD110_Desc="Mảnh giáp khiến tâm khảm người sử dụng tràn đầy một ngọn lửa cuồng nộ không thể dập tắt."
+tagGDX1ShoulderD111=(S) {^F}Krieg's Shoulderguards
+tagGDX1ShoulderD112=(S) {^I}Avenger's Pauldrons
+tagGDX1ShoulderD113=(S) {^I}Mantle of Lost Souls
+tagGDX1ShoulderD114=(S) {^I}Pauldrons of Octavius
+tagGDX1ShoulderD115=(S) {^I}Spellscourge Vanguard
+tagGDX1ShoulderD116=(S) {^I}Mageslayer's Shoulderguard
+tagGDX1ShoulderD117=(S) {^I}Runebinder's Shoulderguard
+tagGDX1ShoulderD118=(S) {^I}Uroboruuk's Mantle
+tagGDX1ShoulderD119=(S) {^I}Allagast's Mantle
+tagGDX1ShoulderD120=(S) {^I}Diviner's Mantle
+tagGDX1ShoulderD121=(S) {^F}Dark One's Mantle
+tagGDX1ShoulderD122=(S) {^I}Belgothian's Shoulderguard
+tagGDX1ShoulderD123=(S) {^I}Deathguard Mantle
+tagGDX1ShoulderD124=(S) {^I}Radaggan's Mantle
+tagGDX1ShoulderD125=(S) {^I}Rimetongue Shoulderguard
+tagGDX1ShoulderD126=(S) {^I}Blood Knight's Scrolls
+
+tagGDX1ShoulderF101={^G}Coven Wrath Mantle
+tagGDX1ShoulderF102={^G}Coven Lifebinder Mantle
+tagGDX1ShoulderF103={^G}Coven Arcane Mantle
+tagGDX1ShoulderF104={^G}Coven Combatant's Spaulders
+tagGDX1ShoulderF105={^G}Coven Warder Spaulders
+tagGDX1ShoulderF106={^G}Coven Arcane Spaulders
+tagGDX1ShoulderF107={^G}Malmouth Chilling Mantle
+tagGDX1ShoulderF108={^G}Malmouth Aetherblaze Mantle
+tagGDX1ShoulderF109={^G}Malmouth Tainted Mantle
+tagGDX1ShoulderF110={^G}Malmouth Vanguard Pauldrons
+tagGDX1ShoulderF111={^G}Malmouth Void Pauldrons
+tagGDX1ShoulderF112={^G}Malmouth Defender Pauldrons
+tagGDX1ShoulderF113={^G}Wendigo Bladed Pauldrons
+tagGDX1ShoulderF114={^G}Wendigo Vile Spaulders
+tagGDX1ShoulderF115={^G}Wendigo Spellweaver Spaulders
+tagGDX1ShoulderF116={^G}Wendigo Tempered Pauldrons
+tagGDX1ShoulderF117={^G}Wendigo Vile Pauldrons
+tagGDX1ShoulderF118={^G}Wendigo Guardian Pauldrons
+
+
+#ArmorTorso
+tagGDX1TorsoB101={^L}Galakros Singed Plating
+tagGDX1TorsoB102={^L}Galakros Dread Plating
+tagGDX1TorsoB103={^L}Valaxteria's Arcane Robes
+tagGDX1TorsoB103_Desc="Y phục lấp lánh những ma vật được đính vào một cách công phu."
+tagGDX1TorsoB104={^L}Valaxteria's Skytorn Robes
+
+tagGDX1TorsoC101={^B}Deathbringer Raiment
+tagGDX1TorsoC102={^B}Darkflame Chestguard
+tagGDX1TorsoC103={^B}Astral Robes
+tagGDX1TorsoC103_Desc="Thường được mặc bởi những Người Dẫn Dắt Linh Hồn, y phục này là biểu tượng của một nhà tiên tri tài ba. Được số mệnh ban cho tính cách vô thường, họ đôi lúc bị hiểu lầm là những kẻ bịp bợm."
+tagGDX1TorsoC104={^B}High Consillar's Coat
+tagGDX1TorsoC104_Desc="Rõ ràng là được may cho một nhà quý tộc xứ Erulan, chiếc áo khi sờ vào cảm thấy rất mềm mại và cũng rất dẻo dai."
+tagGDX1TorsoC105=(S) {^B}Corruptor's Robe
+tagGDX1TorsoC106=(S) {^B}Silver Sentinel's Armor
+tagGDX1TorsoC111={^B}Infector's Shade
+tagGDX1TorsoC114=(S) {^B}Dreadwalker Raiment
+tagGDX1TorsoC115=(S) {^B}Luminari Jacket
+
+tagGDX1TorsoD101={^I}Venomancer's Raiment
+tagGDX1TorsoD102={^I}Necrolord's Shroud
+tagGDX1TorsoD103={^I}Rune Armor of Ignaffar
+tagGDX1TorsoD103_Desc="Dù chủ nhân gốc của chiếc áo giáp này đã bị khuất phục dưới ngọn lửa triệu hồi từ một Ma Pháp Sư tà ác, nó vẫn nguyên vẹn một cách thần kỳ dưới ngọn lửa huỷ diệt đó."
+tagGDX1TorsoD104={^I}Stormweave Armor
+tagGDX1TorsoD109={^I}Fateweaver's Raiment
+tagGDX1TorsoD109_Desc="Vô thường và luôn biến chuyển, sợi tơ số phận dệt nên vận mệnh của con người theo một cách không thể lường trước."
+tagGDX1TorsoD110={^I}Gildor's Guard
+tagGDX1TorsoD111=(S) {^F}Krieg's Chestguard
+tagGDX1TorsoD112=(S) {^I}Avenger's Armor
+tagGDX1TorsoD113=(S) {^I}Platemail of Octavius
+tagGDX1TorsoD114=(S) {^I}Korba's Furs
+tagGDX1TorsoD115=(S) {^I}Valguur's Raiment
+tagGDX1TorsoD116=(S) {^I}Runebinder's Armor
+tagGDX1TorsoD117=(S) {^I}Uroboruuk's Robes
+tagGDX1TorsoD118=(S) {^I}Allagast's Robe
+tagGDX1TorsoD119=(S) {^I}Dagallon's Armor
+tagGDX1TorsoD120=(S) {^I}Deathguard Shroud
+tagGDX1TorsoD121=(S) {^I}Diviner's Raiment
+tagGDX1TorsoD122=(S) {^F}Dark One's Raiment
+tagGDX1TorsoD123=(S) {^I}Belgothian's Armor
+tagGDX1TorsoD124=(S) {^I}Radaggan's Shroud
+tagGDX1TorsoD125=(S) {^I}Rimetongue Chestguard
+tagGDX1TorsoD126=(S) {^I}Blood Knight's Armor
+
+tagGDX1TorsoF101={^G}Coven Wrath Vestments
+tagGDX1TorsoF102={^G}Coven Lifebinder Vestments
+tagGDX1TorsoF103={^G}Coven Arcane Vestments
+tagGDX1TorsoF104={^G}Coven Combatant's Chestguard
+tagGDX1TorsoF105={^G}Coven Warder Chestguard
+tagGDX1TorsoF106={^G}Coven Arcane Chestguard
+tagGDX1TorsoF107={^G}Malmouth Chilling Vestments
+tagGDX1TorsoF108={^G}Malmouth Aetherblaze Vestments
+tagGDX1TorsoF109={^G}Malmouth Tainted Vestments
+tagGDX1TorsoF110={^G}Malmouth Vanguard Cuirass
+tagGDX1TorsoF111={^G}Malmouth Void Cuirass
+tagGDX1TorsoF112={^G}Malmouth Defender Cuirass
+tagGDX1TorsoF113={^G}Wendigo Bladed Chestguard
+tagGDX1TorsoF114={^G}Wendigo Vile Chestguard
+tagGDX1TorsoF115={^G}Wendigo Spellweaver Chestguard
+tagGDX1TorsoF116={^G}Wendigo Tempered Cuirass
+tagGDX1TorsoF117={^G}Wendigo Vile Cuirass
+tagGDX1TorsoF118={^G}Wendigo Guardian Cuirass
+
+
+#ArmorHands
+tagGDX1HandsC101={^B}Haruud's Frigid Grip
+tagGDX1HandsC101_Desc="Cái nắm tay từ Haruud được kể là chứa đựng hơi lạnh chết người ở trong nó."
+tagGDX1HandsC102={^B}Touch of Command
+tagGDX1HandsC103={^B}Runesinged Handguards
+tagGDX1HandsC104={^B}Purging Touch
+tagGDX1HandsC104_Desc="Chỉ cần chạm nhẹ một cái, những thứ xấu xa bỏ chạy trong nỗi sợ hãi."
+tagGDX1HandsC111={^B}Bloodrite Gauntlets
+
+tagGDX1HandsD101={^I}Riftwarped Grasp
+tagGDX1HandsD101_Desc="Đôi găng tay này đã bị tha hoá mãi mãi vì từng chạm vào Cõi Hư Không."
+tagGDX1HandsD102={^I}Overlord's Iron Grip
+tagGDX1HandsD103={^I}Gauntlets of Ignaffar
+tagGDX1HandsD104={^I}Chilling Grip of Hagarrad
+tagGDX1HandsD109={^I}The Crimson Claws
+tagGDX1HandsD109_Desc="Luôn rỉ máu và thèm khát nhiều hơn, cặp vuốt này nóng lòng muốn săn lùng những con mồi tươi nguyên."
+tagGDX1HandsD110={^I}Cindertouch
+tagGDX1HandsD111=(S) {^I}Mageslayer's Armguard
+tagGDX1HandsD112=(S) {^I}Valguur's Touch
+tagGDX1HandsD113=(S) {^F}Krieg's Grip
+tagGDX1HandsD114=(S) {^F}Dark One's Grasp
+
+
+#ArmorLegs
+tagGDX1LegsB101={^L}Aleksander's Legguards
+tagGDX1LegsB102={^L}Aleksander's Chausses
+tagGDX1LegsB103={^L}Grava'Thul's Leggings
+tagGDX1LegsB104={^L}Grava'Thul's Legguards
+tagGDX1LegsB105={^L}Kubacabra's Legguards
+tagGDX1LegsB106={^L}Kubacabra's Chausses
+tagGDX1LegsB107={^L}Reaper's Leggings
+tagGDX1LegsB108={^L}Reaper's Legguards
+
+tagGDX1LegsC101={^B}Scorchrune Legwraps
+tagGDX1LegsC102={^B}Dreadrune Legguards
+tagGDX1LegsC103={^B}Shadoweave Leggings
+tagGDX1LegsC103_Desc="Bằng một cách nào đó, bóng tối đã được dệt vào sợi vải làm nên chiếc quần này."
+tagGDX1LegsC104={^B}Runeward Legguards
+tagGDX1LegsC111={^B}Spellstalker's Legwraps
+
+tagLegsD013B={^I}Really Great Pants
+tagLegsD013BDesc="Hoá ra là, vẫn rất ngầu!"
+
+tagGDX1LegsD101={^I}Wendigomane Leggings
+tagGDX1LegsD101_Desc="Lớp lông thú vẫn còn mùi tanh của máu, không rõ là nó được làm từ lũ Wendigo hay nạn nhân của chúng."
+tagGDX1LegsD102={^I}Dread Knight's Legplates
+tagGDX1LegsD103={^I}Runeplates of Ignaffar
+tagGDX1LegsD104={^I}Mageguard Legguards
+tagGDX1LegsD109={^I}Venomskin Legwraps
+tagGDX1LegsD110={^I}Feralmane Legplates
+tagGDX1LegsD110_Desc="Con thú đã cởi bỏ lớp lông để làm nên mảnh giáp này dường như không tồn tại ở Erulan."
+
+
+#ArmorFeet
+tagGDX1FeetB101={^Y}Intrepid Warboots
+tagGDX1FeetB102={^Y}Stoneplate Greaves
+
+tagGDX1FeetC101={^B}Grim Harvest Boots
+tagGDX1FeetC102={^B}Deadwalker Footpads
+tagGDX1FeetC102_Desc="Không rõ là những khúc xương đính vào đôi giày này là lấy từ thú... hay từ người."
+tagGDX1FeetC103={^B}Sellecor's March
+tagGDX1FeetC104={^B}Emberstone Treads
+tagGDX1FeetC111={^B}Stormstep Footguards
+
+tagGDX1FeetD101={^I}Fiendflesh Greaves
+tagGDX1FeetD102={^I}Greaves of Ill Omens
+tagGDX1FeetD103={^I}Timewarped Walkers
+tagGDX1FeetD103_Desc="Truyền thuyết kể rằng đôi giày này có khả năng đi xuyên qua thời gian, nhưng chẳng ai hình dung ra cách để kích hoạt sức mạnh đó."
+tagGDX1FeetD104={^I}Runeguard Greaves
+tagGDX1FeetD109={^I}Galewind Treads
+tagGDX1FeetD110={^I}Stormbearers
+tagGDX1FeetD110_Desc="Đôi giày này chứa đựng sức mạnh huỷ diệt của một trận bão sấm và vẫn chưa phóng thích hết năng lượng của nó vào mặt đất bên dưới."
+tagGDX1FeetD111=(S) {^F}Krieg's Boots
+
+
+#ArmorWaist
+tagGDX1WaistA101={^W}Preserver Belt
+tagGDX1WaistA102={^W}Redeemer Waistguard
+
+tagGDX1WaistB101={^L}Ugdenbog Girdle
+tagGDX1WaistB102={^L}Ugdenbog Waistguard
+tagGDX1WaistB103={^L}Lunal'Valgoth's Girdle
+tagGDX1WaistB104={^L}Lunal'Valgoth's Waistguard
+tagGDX1WaistB105={^Y}Trollheart Waistguard
+tagGDX1WaistB106={^Y}Puppetmaster Links
+tagGDX1WaistB107={^Y}Stoneplate Waistguard
+
+tagGDX1WaistC101={^B}Spitewraith Girdle
+tagGDX1WaistC102={^B}Soulweave Girdle
+tagGDX1WaistC102_Desc="Những linh hồn bị trói buộc được dệt vào từng sợi chỉ của chiếc thắt lưng này."
+tagGDX1WaistC103={^B}Shadowfiend's Cord
+tagGDX1WaistC104={^B}Star Seer's Cord
+tagGDX1WaistC105={^B}Chains of the Hungering Void
+tagGDX1WaistC106={^B}Arcanoweave Cord
+tagGDX1WaistC115={^B}Scorchbearer Sash
+tagGDX1WaistC116={^B}Sanguinus
+tagGDX1WaistC116_Desc="Mặt kim loại của chiếc thắt lưng dính đầy máu bắn ra từ khắp chiến trường."
+tagGDX1WaistC117=(S) {^B}Blazeseer Girdle
+
+tagGDX1WaistD101={^I}Cord of Violent Decay
+tagGDX1WaistD102={^I}Gladiator's Distinction
+tagGDX1WaistD103={^I}Spiritseeker Cord
+tagGDX1WaistD103_Desc="Những linh hồn lang thang được thu thập để dệt nên chiếc thắt lưng này."
+tagGDX1WaistD104={^I}Pack of Treacherous Means
+tagGDX1WaistD104_Desc="Chứa rất nhiều các loại độc dược và chất độc có khả năng gây ra các phản ứng hoá học, khiến đạn dược và súng ống trở thành một kẻ địch đáng gờm không thua gì các loại ma thuật."
+tagGDX1WaistD105={^I}Cord of Deception
+tagGDX1WaistD106={^I}Scales of Beronath
+tagGDX1WaistD106_Desc="Lớp vảy từ con quái thú khổng lồ Beronath vẫn không tàn phai theo năm tháng, và dường như sẽ không bao giờ."
+tagGDX1WaistD113={^I}Cinderplate Girdle
+tagGDX1WaistD114={^I}Lacerator Girdle
+tagGDX1WaistD115=(S) {^I}Avenger's Girdle
+tagGDX1WaistD116=(S) {^I}Cataclysm's Pact
+tagGDX1WaistD117=(S) {^I}Stoneguard Girdle
+tagGDX1WaistD118=(S) {^I}Stronghold Waistguard
+tagGDX1WaistD119=(S) {^I}Darkblaze Ammo Belt
+
+tagGDX1WaistF101A={^G}Coven Vile Waistguard
+tagGDX1WaistF101B={^G}Coven Vile Girdle
+tagGDX1WaistF102A={^G}Coven Lethal Waistguard
+tagGDX1WaistF102B={^G}Coven Lethal Girdle
+tagGDX1WaistF103A={^G}Malmouth Bladed Waistguard
+tagGDX1WaistF103B={^G}Malmouth Bladed Girdle
+tagGDX1WaistF104A={^G}Malmouth Arcane Waistguard
+tagGDX1WaistF104B={^G}Malmouth Arcane Girdle
+tagGDX1WaistF105A={^G}Wendigo Tainted Waistguard
+tagGDX1WaistF105B={^G}Wendigo Tainted Girdle
+tagGDX1WaistF106A={^G}Wendigo Warder Waistguard
+tagGDX1WaistF106B={^G}Wendigo Warder Girdle
+
+
+#Rings
+tagGDX1RingA101={^W}Exalted Ring
+tagGDX1RingA102={^W}Exalted Band
+tagGDX1RingA103={^W}Preserver Ring
+tagGDX1RingA104={^W}Preserver Band
+
+tagGDX1RingB101={^L}Living Ring
+tagGDX1RingB101_Desc="Gai xung quanh chiếc nhẫn có thể hút máu, mà có vẻ như là để mọc lại những dây leo."
+tagGDX1RingB102={^L}Vine Ring
+tagGDX1RingB103={^L}Gargabol's Ring
+tagGDX1RingB103_Desc="Chiếc nhẫn đang cháy rực rất đau khi chạm vào, tuy nhiên không gây nên bất kỳ tổn thương thể chất nào."
+
+tagGDX1RingC101={^B}Cursebearer
+tagGDX1RingC101_Desc="Người ta bảo rằng, chiếc nhẫn được bện tròn này đã mang đến một lời nguyền khủng khiếp cho chủ nhân của nó, và lời nguyền trong đó vẫn còn tồn tại đến ngày nay."
+tagGDX1RingC102={^B}Wraithstalker Band
+tagGDX1RingC103={^B}Rotmender's Ring
+tagGDX1RingC104={^B}Signet of the Runefather
+tagGDX1RingC104_Desc="Biểu tượng của Ma Vật Sư Tổ, người tạo ra những Ma Vật nguyên thuỷ mà được sử dụng phổ biến bởi Hội Luminari ngày nay."
+tagGDX1RingC105={^B}Signet of Astral Ruminations
+tagGDX1RingC105_Desc="Chiếc nhẫn này thì thầm bí mất của những vì sao trên trời, những đôi tai không được tập luyện sẽ không thể hiểu ý nghĩa của chúng."
+tagGDX1RingC106={^B}Widow's Sting
+tagGDX1RingC115={^B}Nightscorn
+tagGDX1RingC116={^B}Hysteria
+tagGDX1RingC117=(S) {^B}Blazeseer Signet
+tagGDX1RingC118=(S) {^B}Magelord Signet
+tagGDX1RingC119=(S) {^B}Magelord Band
+
+tagGDX1RingD101={^I}Deathlord's Band
+tagGDX1RingD102={^I}Spiritbinder Glyph
+tagGDX1RingD102_Desc="Nghe nói phần chạm trổ trên chiếc nhẫn này là một biểu tượng phong ấn linh hồn rất mạnh của Hội Tử Linh Hộ Vệ."
+tagGDX1RingD103={^I}Voidwhisper Band
+tagGDX1RingD103_Desc="Lời thì thầm phát ra từ chiếc nhẫn này đe doạ lòng thiện tâm của bạn."
+tagGDX1RingD104={^I}Combustion Band
+tagGDX1RingD105={^I}Jaxxon's Lucky Bullet
+tagGDX1RingD106={^I}Reign of Ice and Fire
+tagGDX1RingD113={^I}Bladetwister Signet
+tagGDX1RingD114={^I}Voidheart
+tagGDX1RingD115=(S) {^I}Allagast's Stormgem
+tagGDX1RingD116={^I}Deathguard Sigil
+
+tagGDX1RingF101={^B}Coven Storm Seal
+tagGDX1RingF102={^B}Coven Sky Seal
+tagGDX1RingF103={^B}Coven Defender Seal
+tagGDX1RingF104={^B}Malmouth Arcane Seal
+tagGDX1RingF105={^B}Malmouth Blade Seal
+tagGDX1RingF106={^B}Malmouth Aetherblaze Seal
+tagGDX1RingF107={^B}Wendigo Warped Seal
+tagGDX1RingF108={^B}Wendigo Conjuring Seal
+
+
+
+#Necklaces
+tagGDX1NecklaceA101={^W}Exalted Amulet
+tagGDX1NecklaceA102={^W}Exalted Pendant
+tagGDX1NecklaceA103={^W}Preserver Amulet
+tagGDX1NecklaceA104={^W}Preserver Pendant
+
+tagGDX1NecklaceB100={^G}Sahdina's Memento
+tagGDX1NecklaceB100_Desc="Một sợi dây chuyền đơn giản dùng để xua đuổi tà ma. Một dòng chữ khắc trên đó nói là: Lưới Ma Thuật mà chúng tôi dệt nên mang trong mình điềm báo về một viễn cảnh không may. - Jay Peggins"
+tagGDX1NecklaceB101={^L}Gulgazor's Heart
+tagGDX1NecklaceB102={^L}Vilgazor's Heart
+
+tagGDX1NecklaceC101={^B}Whispers of the Dead
+tagGDX1NecklaceC102={^B}Dismember Stone
+tagGDX1NecklaceC103={^B}Withered Heart
+tagGDX1NecklaceC103_Desc="Trong những khoảnh khắc hiếm hoi, trái tim vẫn còn nhịp đập."
+tagGDX1NecklaceC104={^B}Serenity Stone
+tagGDX1NecklaceC104_Desc="Giữa sự hỗn loạn và đau thương trên khắp Cairn, hòn đá mang lại cho bạn một cảm giác thanh thản và an yên đến không ngờ."
+tagGDX1NecklaceC105={^B}Weeping Ruby
+tagGDX1NecklaceC106={^B}Runed Topaz of Gillad
+tagGDX1NecklaceC106_Desc="Bùa trừ tà của Người Phán Quyết Gillad, bị thất lạc từ lúc ông ta bị đột kích bởi những kẻ dị giáo trong quá trình điều tra một ngôi làng sát biên giới, còn thi thể của ông ta vẫn chưa được tìm thấy."
+tagGDX1NecklaceC115={^B}Aspirant's Ward
+tagGDX1NecklaceC116={^B}Runefather's Gem
+
+tagNecklaceD005B={^I}Peerless Eye of Beronath
+tagGDX1NecklaceD101={^I}Soulcatcher
+tagGDX1NecklaceD101_Desc="Linh hồn của mỗi kẻ địch bị giết nhanh chóng bị hút vào trong sợi dây chuyền này."
+tagGDX1NecklaceD102={^I}Flames of Wrath
+tagGDX1NecklaceD103={^I}Vigar's Hunger
+tagGDX1NecklaceD103_Desc="Chiếc bình nhỏ chứa đầy máu từ wendigo Ravager."
+tagGDX1NecklaceD104={^I}Tainted Ruby of Gar'dal
+tagGDX1NecklaceD105={^I}Executioner's Judgement
+tagGDX1NecklaceD106={^I}Stormseer Sapphire
+tagGDX1NecklaceD113A={^I}Conduit of Warring Whispers
+tagGDX1NecklaceD113B={^I}Conduit of Destructive Whispers
+tagGDX1NecklaceD113C={^I}Conduit of Eldritch Whispers
+tagGDX1NecklaceD113D={^I}Conduit of Night Whispers
+tagGDX1NecklaceD113E={^I}Conduit of Arcane Whispers
+tagGDX1NecklaceD113F={^I}Conduit of Wild Whispers
+tagGDX1NecklaceD113G={^I}Conduit of Runic Whispers
+tagGDX1NecklaceD113H={^I}Conduit of Undying Whispers
+tagGDX1NecklaceD113_Desc="Nhìn chăm chú vào con mắt hé lộ hình ảnh về một vùng đất rộng lớn và kỳ bí, tràn đầy các sinh vật và ma quỷ không giống ở bất cứ nơi đâu trên lục địa Cairn."
+tagGDX1NecklaceD114={^I}Shard of the Eternal Flame
+tagGDX1NecklaceD114_Desc="Ngọn lửa toả ra từ viên pha lê này chưa bao giờ phát huy hết sức mạnh của nó."
+tagGDX1NecklaceD115=(S) {^I}Shard of Lost Souls
+tagGDX1NecklaceD116=(S) {^I}Cataclysm's Catalyst
+tagGDX1NecklaceD117=(S) {^I}Stoneguard Ward
+tagGDX1NecklaceD118=(S) {^I}Darkblaze Source
+tagGDX1NecklaceD119=(S) {^I}Spellscourge Deflector
+tagGDX1NecklaceD120=(S) {^I}Mageslayer's Protector
+tagGDX1NecklaceD121=(S) {^I}Runebinder's Gem
+tagGDX1NecklaceD122=(S) {^I}Uroboruuk's Eye
+tagGDX1NecklaceD123=(S) {^I}Radaggan's Gem
+tagGDX1NecklaceD124=(S) {^I}Rimetongue Pendant
+tagGDX1NecklaceD125=(S) {^I}Blood Knight's Pendant
+
+tagGDX1NecklaceF101={^B}Coven Darkener Pendant
+tagGDX1NecklaceF102={^B}Coven Manipulator Pendant
+tagGDX1NecklaceF103={^B}Coven Blade Pendant
+tagGDX1NecklaceF104={^B}Malmouth Stormbinder Pendant
+tagGDX1NecklaceF105={^B}Malmouth Warped Pendant
+tagGDX1NecklaceF106={^B}Malmouth Defender Pendant
+tagGDX1NecklaceF107={^B}Wendigo Vile Pendant
+tagGDX1NecklaceF108={^B}Wendigo Sky Pendant
+tagGDX1NecklaceF109={^I}Aetherbolt Pendant
+tagGDX1NecklaceF110={^I}Heart of Malmouth
+tagGDX1NecklaceF111={^I}Reaver's Hunger
+
+
+#Medals
+tagGDX1MedalA101={^W}Exalted Star
+tagGDX1MedalA102={^W}Preserver Crest
+
+tagGDX1MedalB101={^L}Basilisk Crest
+tagGDX1MedalB101_Desc="Chiếc nanh vẫn còn dính đầy chất độc nguy hiểm."
+tagGDX1MedalB102={^L}Basilisk Mark
+tagGDX1MedalB102_Desc="Chiếc nanh vẫn còn dính chất độc gây chảy máu."
+tagGDX1MedalB103={^L}Rylok Crest
+tagGDX1MedalB103_Desc="Chiếc vảy của sinh vật Chthon vẫn còn khát máu."
+tagGDX1MedalB104={^L}Rylok Mark
+tagGDX1MedalB104_Desc="Chiếc vảy của sinh vật Chthon chứa đầy bóng đêm từ cõi hư không."
+tagGDX1MedalB105={^L}Wendigo Eye
+tagGDX1MedalB105_Desc="Con mắt đỏ rực vẫn còn động đậy khi thấy máu ở gần đó."
+tagGDX1MedalB106={^L}Wendigo Gaze
+tagGDX1MedalB106_Desc="Con mắt đỏ rực khiến những sinh vật thấp bé cảm thấy hoang mang khi nhìn vào nó."
+tagGDX1MedalB107={^Y}Nimble Crest
+tagGDX1MedalB108={^Y}Watcher Crest
+tagGDX1MedalB109={^L}Slathsarr's Crest
+tagGDX1MedalB109_Desc="Chiếc nanh dính đầy chất độc bị nhiễm Aether."
+tagGDX1MedalB110={^L}Mark of Plagius
+tagGDX1MedalB111={^L}Namadea's Eye
+tagGDX1MedalB111_Desc="Con mắt vẫn còn động đậy này chứa đầy năng lượng chết chóc."
+
+tagGDX1MedalC101={^B}Solemn Mark
+tagGDX1MedalC102={^B}Mark of Impurity
+tagGDX1MedalC103={^B}Mark of Forgotten Spirits
+tagGDX1MedalC103_Desc="Gợi nhớ về những kẻ lạc lối và bị lãng quên."
+tagGDX1MedalC104={^B}Mark of Broken Oaths
+tagGDX1MedalC104_Desc="Chiếc huy chương này thuộc về một Người Phán Quyết bị xoá tên trong sử sách, thanh danh của ông ta bị vấy bẩn vì đã phản bội lời thề của Hội Luminari."
+tagGDX1MedalC105={^B}Vaultkeeper's Mark
+tagGDX1MedalC105_Desc="Dấu hiệu của Người Canh Giữ Mật Thất, những người bảo vệ thần thánh Mật Thất của Hội Luminari."
+tagGDX1MedalC106={^B}Sanctus Crest
+tagGDX1MedalC115={^B}Mark of Infernal Misery
+tagGDX1MedalC116={^B}Mark of Stone Will
+tagGDX1MedalC117=(S) {^B}Blazeseer Crest
+tagGDX1MedalC118=(S) {^B}Luminari Commendation
+
+tagGDX1MedalD101={^I}Mark of the Dreadblade
+tagGDX1MedalD102={^I}Dreadchill Mark
+tagGDX1MedalD103={^I}Rotdrinker Crest
+tagGDX1MedalD104={^I}Gildam Arcanum Commendation
+tagGDX1MedalD104_Desc="Phần thưởng cao quý từng được trao cho thành viên của Hội Gildam Arcanum người đã xoá bỏ căng thẳng giữa Hội Luminari các Ma Pháp Sư để chọn lấy một tương lai tốt đẹp hơn: duy trì sự tồn tại của loài người."
+tagGDX1MedalD105={^I}Serenir's Commendation
+tagGDX1MedalD105_Desc="Phần thưởng cao quý từng được trao cho Thẩm Phán Serenir, người đã dũng cảm sử dụng Chiếc Sừng của Gandarr, đơn thương độc mã chống lại một giáo phái tà đạo."
+tagGDX1MedalD106={^I}Mark of Kalastor
+tagGDX1MedalD113={^I}Mark of Ulzuin
+tagGDX1MedalD113_Desc="Được những người trung thành với Ulzuin sử dụng để đốt cháy da thịt mình và hiến thân cho vị thần hung bạo."
+tagGDX1MedalD114={^I}Mark of Consumption
+
+tagGDX1MedalF101={^B}Coven Mark of Blades
+tagGDX1MedalF102={^B}Coven Mark of the Arcane
+tagGDX1MedalF103={^B}Malmouth Badge of Desecration
+tagGDX1MedalF104={^B}Malmouth Badge of the Elements
+tagGDX1MedalF105={^B}Wendigo Tainted Mark
+tagGDX1MedalF106={^B}Wendigo Defender's Mark
+tagGDX1MedalF107={^I}Mark of Lethal Intents
+tagGDX1MedalF108={^I}The Overseer
+tagGDX1MedalF109={^I}Mark of the Voracious One
+
+
+#Blueprints
+tagGDX1Blueprint_RelicB101=Bản Thiết Kế: Thánh Vật - Tham Lam
+tagGDX1Blueprint_RelicB102=Bản Thiết Kế: Thánh Vật - Linh Hồn
+tagGDX1Blueprint_RelicB103=Bản Thiết Kế: Thánh Vật - Nóng Giận
+tagGDX1Blueprint_RelicB104=Bản Thiết Kế: Thánh Vật - Ngoan Cường
+tagGDX1Blueprint_RelicB105=Bản Thiết Kế: Thánh Vật - Cuồng Loạn
+
+tagGDX1Blueprint_RelicC101=Bản Thiết Kế: Thánh Vật - Tử Vong
+tagGDX1Blueprint_RelicC102=Bản Thiết Kế: Thánh Vật - Căm Hận
+
+tagGDX1Blueprint_RelicD101=Bản Thiết Kế: Thánh Vật - Ô Uế
+tagGDX1Blueprint_RelicD102=Bản Thiết Kế: Thánh Vật - Báo Thù
+tagGDX1Blueprint_RelicD103=Bản Thiết Kế: Thánh Vật - Sầu Khúc của Arkovia
+tagGDX1Blueprint_RelicD104=Bản Thiết Kế: Thánh Vật - Phá Huỷ
+tagGDX1Blueprint_RelicD105=Bản Thiết Kế: Thánh Vật - Diệt Vong
+tagGDX1Blueprint_RelicD106=Bản Thiết Kế: Thánh Vật - Sự Lừa Dối của Korvaak
+tagGDX1Blueprint_RelicD107=Bản Thiết Kế: Thánh Vật - Giao Ước Thần Bí
+tagGDX1Blueprint_RelicD108=Bản Thiết Kế: Thánh Vật - Sự Bộc Phát của Nidalla
+tagGDX1Blueprint_RelicD109=Bản Thiết Kế: Thánh Vật - Vĩnh Hằng
+tagGDX1Blueprint_RelicD110=Bản Thiết Kế: Thánh Vật - Thảm Sát
+tagGDX1Blueprint_RelicD111=Bản Thiết Kế: Thánh Vật - Nhát Chém của Uroboruuk
+tagGDX1Blueprint_RelicD112=Bản Thiết Kế: Thánh Vật - Ngọn Lửa của Ignaffar
+tagGDX1Blueprint_RelicD113=Bản Thiết Kế: Thánh Vật - Nhuệ Khí của Mogdrogen
+tagGDX1Blueprint_RelicD114=Bản Thiết Kế: Thánh Vật - Kẻ Săn Mồi Chết Chóc
+
+
+tagGDX1Blueprint_ComponentA101=Bản Thiết Kế: Dấu Ấn Sức Mạnh
+tagGDX1Blueprint_ComponentA102=Bản Thiết Kế: Dấu Ấn Đao Kiếm
+tagGDX1Blueprint_ComponentA103=Bản Thiết Kế: Dấu Ấn Thiên Không
+tagGDX1Blueprint_ComponentA104=Bản Thiết Kế: Dấu Ấn Suy Tàn
+tagGDX1Blueprint_ComponentA105=Bản Thiết Kế: Dấu Ấn Tha Hoá
+tagGDX1Blueprint_ComponentA106=Bản Thiết Kế: Dấu Ấn Hư Không
+tagGDX1Blueprint_ComponentA107=Bản Thiết Kế: Dấu Ấn Bóng Đêm
+tagGDX1Blueprint_ComponentA108=Bản Thiết Kế: Dấu Ấn Phá Huỷ
+tagGDX1Blueprint_ComponentA109=Bản Thiết Kế: Dấu Ấn Hắc Ám
+tagGDX1Blueprint_ComponentA110=Bản Thiết Kế: Dấu Ấn Cộng Hưởng
+tagGDX1Blueprint_ComponentA111=Bản Thiết Kế: Trái Tim Ô Uế
+tagGDX1Blueprint_ComponentA112=Bản Thiết Kế: Hồng Ngọc Rực Lửa
+tagGDX1Blueprint_ComponentA113=Bản Thiết Kế: Hoàng Ngọc Khắc Cổ Ngữ
+tagGDX1Blueprint_ComponentA114=Bản Thiết Kế: Pha Lê Máu
+tagGDX1Blueprint_ComponentA115=Bản Thiết Kế: Mẩu Đất Ma Thuật
+tagGDX1Blueprint_ComponentA116=Bản Thiết Kế: Mảnh Giáp Ma Thuật
+tagGDX1Blueprint_ComponentA117=Bản Thiết Kế: Mảnh Giáp Đao Kiếm
+tagGDX1Blueprint_ComponentA118=Bản Thiết Kế: Da Thú Đầm Lầy Ugdenbog
+
+tagGDX1Blueprint_ComponentC101=Bản Thiết Kế: Mảnh Giáp Thánh
+tagGDX1Blueprint_ComponentC102=Bản Thiết Kế: Mảnh Giáp Xác Thịt
+tagGDX1Blueprint_ComponentC103=Bản Thiết Kế: Mảnh Giáp Titan
+tagGDX1Blueprint_ComponentC104=Bản Thiết Kế: Gương Thần Bí
+tagGDX1Blueprint_ComponentC105=Bản Thiết Kế: Dấu Ấn Huỷ Diệt
+tagGDX1Blueprint_ComponentC106=Bản Thiết Kế: Dấu Ấn Tổ Tiên
+
+
+tagGDX1Blueprint_WaistF101A=Bản Thiết Kế: Coven Vile Waistguard
+tagGDX1Blueprint_WaistF101B=Bản Thiết Kế: Coven Vile Girdle
+tagGDX1Blueprint_WaistF102A=Bản Thiết Kế: Coven Lethal Waistguard
+tagGDX1Blueprint_WaistF102B=Bản Thiết Kế: Coven Lethal Girdle
+tagGDX1Blueprint_WaistF103A=Bản Thiết Kế: Malmouth Bladed Waistguard
+tagGDX1Blueprint_WaistF103B=Bản Thiết Kế: Malmouth Bladed Girdle
+tagGDX1Blueprint_WaistF104A=Bản Thiết Kế: Malmouth Arcane Waistguard
+tagGDX1Blueprint_WaistF104B=Bản Thiết Kế: Malmouth Arcane Girdle
+tagGDX1Blueprint_WaistF105A=Bản Thiết Kế: Wendigo Tainted Waistguard
+tagGDX1Blueprint_WaistF105B=Bản Thiết Kế: Wendigo Tainted Girdle
+tagGDX1Blueprint_WaistF106A=Bản Thiết Kế: Wendigo Warder Waistguard
+tagGDX1Blueprint_WaistF106B=Bản Thiết Kế: Wendigo Warder Girdle
+
+
+tagGDX1Blueprint_WeaponB101=Bản Thiết Kế: Stormsurge Pistol
+tagGDX1Blueprint_WeaponB102=Bản Thiết Kế: Flamewarder Rifle
+tagGDX1Blueprint_WeaponB103=Bản Thiết Kế: Bloodspill Cleaver
+tagGDX1Blueprint_WeaponB104=Bản Thiết Kế: Gutcrush Warmaul
+tagGDX1Blueprint_WeaponB105=Bản Thiết Kế: Stonewall Defender
+tagGDX1Blueprint_WeaponB106=Bản Thiết Kế: Spellshock Tome
+tagGDX1Blueprint_WeaponB107=Bản Thiết Kế: Smoldering Tome
+tagGDX1Blueprint_WeaponB108=Bản Thiết Kế: Rime-Rotten Wand
+tagGDX1Blueprint_WeaponB109=Bản Thiết Kế: Deathborne Scepter
+
+tagGDX1Blueprint_WeaponC101=Bản Thiết Kế: The Dissenter
+tagGDX1Blueprint_WeaponC102=Bản Thiết Kế: Thần Thoại - Aldur's Inquisition
+tagGDX1Blueprint_WeaponC103=Bản Thiết Kế: Cosmic Torrent
+tagGDX1Blueprint_WeaponC104=Bản Thiết Kế: Rageflame Spellblade
+tagGDX1Blueprint_WeaponC105=Bản Thiết Kế: Thần Thoại - Burrwitch Peacekeeper
+tagGDX1Blueprint_WeaponC106=Bản Thiết Kế: Thần Thoại - Hellmaw Shotgun
+tagGDX1Blueprint_WeaponC107=Bản Thiết Kế: Thần Thoại - Doomsaw of Gluttony
+tagGDX1Blueprint_WeaponC108=Bản Thiết Kế: Thần Thoại - Blessed Torch
+tagGDX1Blueprint_WeaponC109=Bản Thiết Kế: Thần Thoại - Duelist's Sabre
+tagGDX1Blueprint_WeaponC110=Bản Thiết Kế: Thần Thoại - Wrathmourne
+tagGDX1Blueprint_WeaponC111=Bản Thiết Kế: Thần Thoại - Hellrune Carver
+tagGDX1Blueprint_WeaponC112=Bản Thiết Kế: Thần Thoại - Tainted Blade of Nera'Val
+tagGDX1Blueprint_WeaponC113=Bản Thiết Kế: Thần Thoại - Lichguard
+tagGDX1Blueprint_WeaponC114=Bản Thiết Kế: Thần Thoại - Banshee's Misery
+
+tagGDX1Blueprint_WeaponD101=Bản Thiết Kế: Cindercore
+tagGDX1Blueprint_WeaponD102=Bản Thiết Kế: Venomlance
+tagGDX1Blueprint_WeaponD103=Bản Thiết Kế: Thần Thoại - Edge of Death
+tagGDX1Blueprint_WeaponD104=Bản Thiết Kế: Thần Thoại - Chillflame Evoker
+tagGDX1Blueprint_WeaponD105=Bản Thiết Kế: Thần Thoại - Deathdealer's Sidearm
+tagGDX1Blueprint_WeaponD106=Bản Thiết Kế: Thần Thoại - Northern Wyrm
+tagGDX1Blueprint_WeaponD107=Bản Thiết Kế: Thần Thoại - Vortex of Souls
+tagGDX1Blueprint_WeaponD108=Bản Thiết Kế: Thần Thoại - Crescent Moon
+tagGDX1Blueprint_WeaponD109=Bản Thiết Kế: Thần Thoại - Plaguebearer of Dreeg
+tagGDX1Blueprint_WeaponD110=Bản Thiết Kế: Thần Thoại - Beronath, Reforged
+tagGDX1Blueprint_WeaponD111=Bản Thiết Kế: Thần Thoại - Stormreaver
+tagGDX1Blueprint_WeaponD112=Bản Thiết Kế: Thần Thoại - Temporal Arcblade
+tagGDX1Blueprint_WeaponD113=Bản Thiết Kế: Thần Thoại - Shard of Asterkarn
+tagGDX1Blueprint_WeaponD114=Bản Thiết Kế: Thần Thoại - Fang of Ch'thon
+tagGDX1Blueprint_WeaponD115=Bản Thiết Kế: Thần Thoại - Zolhan's Revenge
+tagGDX1Blueprint_WeaponD116=Bản Thiết Kế: Thần Thoại - Blood Orb of Ch'thon
+tagGDX1Blueprint_WeaponD117=Bản Thiết Kế: Thần Thoại - Wretched Tome of Nar'adin
+
+tagGDX1Blueprint_WeaponF101=Bản Thiết Kế: Hex Launcher
+tagGDX1Blueprint_WeaponF102=Bản Thiết Kế: The Desolator
+tagGDX1Blueprint_WeaponF103=Bản Thiết Kế: Witch Moon
+tagGDX1Blueprint_WeaponF104=Bản Thiết Kế: Howl of the Wendigo
+tagGDX1Blueprint_WeaponF105=Bản Thiết Kế: Redeemer of Malmouth
+tagGDX1Blueprint_WeaponF106=Bản Thiết Kế: Blazerush
+tagGDX1Blueprint_WeaponF107=Bản Thiết Kế: Hexflame
+tagGDX1Blueprint_WeaponF108=Bản Thiết Kế: Claw of Hagaraz
+tagGDX1Blueprint_WeaponF109=Bản Thiết Kế: Wrathguard
+tagGDX1Blueprint_WeaponF110=Bản Thiết Kế: Stormbringer of Malmouth
+
+
+
+tagGDX1Blueprint_ArmorB101=Bản Thiết Kế: Intrepid Warboots
+tagGDX1Blueprint_ArmorB102=Bản Thiết Kế: Stoneplate Greaves
+
+tagGDX1Blueprint_ArmorC101=Bản Thiết Kế: Stormherald's Visage
+tagGDX1Blueprint_ArmorC102=Bản Thiết Kế: Thần Thoại - Bounty Hunter's Shoulderguard
+tagGDX1Blueprint_ArmorC103=Bản Thiết Kế: Dreadwalker Cowl
+tagGDX1Blueprint_ArmorC104=Bản Thiết Kế: Luminari Hat
+tagGDX1Blueprint_ArmorC105=Bản Thiết Kế: Thần Thoại - Magelord's Greaves
+tagGDX1Blueprint_ArmorC106=Bản Thiết Kế: Thần Thoại - Rifthound Leather Boots
+tagGDX1Blueprint_ArmorC107=Bản Thiết Kế: Thần Thoại - Soul's Touch
+tagGDX1Blueprint_ArmorC108=Bản Thiết Kế: Thần Thoại - Quickdraw Gloves
+tagGDX1Blueprint_ArmorC109=Bản Thiết Kế: Thần Thoại - Spellweave Legwraps
+tagGDX1Blueprint_ArmorC110=Bản Thiết Kế: Thần Thoại - Amarastan Pauldrons
+tagGDX1Blueprint_ArmorC111=Bản Thiết Kế: Thần Thoại - Nighthunter's Chestguard
+tagGDX1Blueprint_ArmorC112=Bản Thiết Kế: Thần Thoại - Doomforged Breastplate
+tagGDX1Blueprint_ArmorC113=Bản Thiết Kế: Thần Thoại - Cowl of the Blind Assassin
+tagGDX1Blueprint_ArmorC114=Bản Thiết Kế: Thần Thoại - Sharpshooter's Glass Eye
+tagGDX1Blueprint_ArmorC115=Bản Thiết Kế: Thần Thoại - Unholy Visage of the Covenant
+tagGDX1Blueprint_ArmorC116=Bản Thiết Kế: Thần Thoại - Dawnguard Helm
+tagGDX1Blueprint_ArmorC117=Bản Thiết Kế: Thần Thoại - Flame Keeper's Jacket
+tagGDX1Blueprint_ArmorC118=Bản Thiết Kế: Thần Thoại - Callidor's Vestments
+tagGDX1Blueprint_ArmorC119=Bản Thiết Kế: Thần Thoại - Myrmidon Visor
+tagGDX1Blueprint_ArmorC120=Bản Thiết Kế: Thần Thoại - Cowl of Mogdrogen
+tagGDX1Blueprint_ArmorC121=Bản Thiết Kế: Thần Thoại - Cowl of the Paragon
+
+tagGDX1Blueprint_ArmorD101=Bản Thiết Kế: Necrolord's Gaze
+tagGDX1Blueprint_ArmorD102=Bản Thiết Kế: Venomancer's Guile
+tagGDX1Blueprint_ArmorD103=Bản Thiết Kế: Spellgaze
+tagGDX1Blueprint_ArmorD104=Bản Thiết Kế: Wyrmbone Mask
+tagGDX1Blueprint_ArmorD105=Bản Thiết Kế: Thần Thoại - Necrolord's Gaze
+tagGDX1Blueprint_ArmorD106=Bản Thiết Kế: Thần Thoại - Venomancer's Guile
+tagGDX1Blueprint_ArmorD107=Bản Thiết Kế: Thần Thoại - Spellgaze
+tagGDX1Blueprint_ArmorD108=Bản Thiết Kế: Thần Thoại - Wyrmbone Mask
+tagGDX1Blueprint_ArmorD109=Bản Thiết Kế: Voice of Dreeg
+tagGDX1Blueprint_ArmorD110=Bản Thiết Kế: Gaze of Empyrion
+tagGDX1Blueprint_ArmorD113=Bản Thiết Kế: Mask of Lost Souls
+tagGDX1Blueprint_ArmorD114=Bản Thiết Kế: Visor of Octavius
+tagGDX1Blueprint_ArmorD115=Bản Thiết Kế: Korba's Hood
+tagGDX1Blueprint_ArmorD116=Bản Thiết Kế: Darkblaze Headguard
+tagGDX1Blueprint_ArmorD117=Bản Thiết Kế: Spellscourge Visor
+tagGDX1Blueprint_ArmorD118=Bản Thiết Kế: Mageslayer's Hood
+tagGDX1Blueprint_ArmorD119=Bản Thiết Kế: Valguur's Gems
+tagGDX1Blueprint_ArmorD120=Bản Thiết Kế: Runebinder's Hat
+tagGDX1Blueprint_ArmorD121=Bản Thiết Kế: Uroboruuk's Visage
+tagGDX1Blueprint_ArmorD122=Bản Thiết Kế: Dagallon's Faceguard
+tagGDX1Blueprint_ArmorD123=Bản Thiết Kế: Deathguard Hood
+tagGDX1Blueprint_ArmorD124=Bản Thiết Kế: Diviner's Mask
+
+tagGDX1Blueprint_ArmorD125=Bản Thiết Kế: Thần Thoại - Maw of Despair
+tagGDX1Blueprint_ArmorD126=Bản Thiết Kế: Thần Thoại - Dread-Mask of Gurgoth
+tagGDX1Blueprint_ArmorD127=Bản Thiết Kế: Thần Thoại - Whisperer of Secrets
+tagGDX1Blueprint_ArmorD128=Bản Thiết Kế: Thần Thoại - Abyssal Mask
+tagGDX1Blueprint_ArmorD129=Bản Thiết Kế: Thần Thoại - Circlet of the Great Serpent
+tagGDX1Blueprint_ArmorD130=Bản Thiết Kế: Thần Thoại - Mask of Infernal Truth
+tagGDX1Blueprint_ArmorD131=Bản Thiết Kế: Thần Thoại - Faceguard of Justice
+tagGDX1Blueprint_ArmorD132=Bản Thiết Kế: Thần Thoại - Beastcaller Cowl
+tagGDX1Blueprint_ArmorD133=Bản Thiết Kế: Thần Thoại - Mask of the Harbinger
+tagGDX1Blueprint_ArmorD134=Bản Thiết Kế: Thần Thoại - Demonslayer's Hat
+tagGDX1Blueprint_ArmorD135=Bản Thiết Kế: Thần Thoại - Clairvoyant's Hat
+tagGDX1Blueprint_ArmorD136=Bản Thiết Kế: Thần Thoại - Markovian's Visor
+tagGDX1Blueprint_ArmorD137=Bản Thiết Kế: Thần Thoại - Ulzuin's Headguard
+tagGDX1Blueprint_ArmorD138=Bản Thiết Kế: Thần Thoại - Hood of Dreeg
+tagGDX1Blueprint_ArmorD139=Bản Thiết Kế: Thần Thoại - Deathmarked Hood
+tagGDX1Blueprint_ArmorD140=Bản Thiết Kế: Thần Thoại - Iskandra's Hood
+tagGDX1Blueprint_ArmorD141=Bản Thiết Kế: Thần Thoại - Ultos' Hood
+tagGDX1Blueprint_ArmorD142=Bản Thiết Kế: Thần Thoại - Crown of the Winter King
+tagGDX1Blueprint_ArmorD143=Bản Thiết Kế: Thần Thoại - Trozan's Hat
+tagGDX1Blueprint_ArmorD144=Bản Thiết Kế: Thần Thoại - Valdun's Hat
+tagGDX1Blueprint_ArmorD145=Bản Thiết Kế: Eldritch Gaze
+tagGDX1Blueprint_ArmorD146=Bản Thiết Kế: Covenant of the Three
+tagGDX1Blueprint_ArmorD147=Bản Thiết Kế: Thần Thoại - Cowl of the Venomblade
+tagGDX1Blueprint_ArmorD148=Bản Thiết Kế: Thần Thoại - Visage of the Black Flame
+tagGDX1Blueprint_ArmorD149=Bản Thiết Kế: Thần Thoại - Light's Defender Helm
+tagGDX1Blueprint_ArmorD150=Bản Thiết Kế: Thần Thoại - Infernal Knight's Faceguard
+tagGDX1Blueprint_ArmorD151=Bản Thiết Kế: Thần Thoại - Warborn Visor
+tagGDX1Blueprint_ArmorD152=Bản Thiết Kế: Thần Thoại - Bloodrager's Cowl
+
+tagGDX1Blueprint_ArmorD153=Bản Thiết Kế: Thần Thoại - Blazeborn Mantle
+tagGDX1Blueprint_ArmorD154=Bản Thiết Kế: Thần Thoại - Stormweave Armor
+tagGDX1Blueprint_ArmorD155=Bản Thiết Kế: Avenger's Armor
+tagGDX1Blueprint_ArmorD156=Bản Thiết Kế: Allagast's Robe
+tagGDX1Blueprint_ArmorD157=Bản Thiết Kế: Thần Thoại - Windshear Greaves
+tagGDX1Blueprint_ArmorD158=Bản Thiết Kế: Thần Thoại - Footpads of the Grey Magi
+tagGDX1Blueprint_ArmorD159=Bản Thiết Kế: Thần Thoại - Wyrmbone Handguards
+tagGDX1Blueprint_ArmorD160=Bản Thiết Kế: Thần Thoại - Iceskorn Talons
+tagGDX1Blueprint_ArmorD161=Bản Thiết Kế: Thần Thoại - Arcane Harmony Leggings
+tagGDX1Blueprint_ArmorD162=Bản Thiết Kế: Really Great Pants
+tagGDX1Blueprint_ArmorD163=Bản Thiết Kế: Thần Thoại - Titan Pauldrons
+tagGDX1Blueprint_ArmorD164=Bản Thiết Kế: Thần Thoại - Vileblood Mantle
+tagGDX1Blueprint_ArmorD165=Bản Thiết Kế: Thần Thoại - Dread Armor of Azragor
+tagGDX1Blueprint_ArmorD166=Bản Thiết Kế: Thần Thoại - Divinesteel Hauberk
+
+tagGDX1Blueprint_ArmorD167=Bản Thiết Kế: Belgothian's Mask
+
+tagGDX1Blueprint_ArmorD168=Bản Thiết Kế: Radaggan's Mask
+tagGDX1Blueprint_ArmorD169=Bản Thiết Kế: Rimetongue Mask
+tagGDX1Blueprint_ArmorD170=Bản Thiết Kế: Blood Knight's Visage
+
+tagGDX1Blueprint_AccessoryB101=Bản Thiết Kế: Nimble Crest
+tagGDX1Blueprint_AccessoryB102=Bản Thiết Kế: Watcher Crest
+tagGDX1Blueprint_AccessoryB103=Bản Thiết Kế: Trollheart Waistguard
+tagGDX1Blueprint_AccessoryB104=Bản Thiết Kế: Puppetmaster Links
+tagGDX1Blueprint_AccessoryB105=Bản Thiết Kế: Stoneplate Waistguard
+
+tagGDX1Blueprint_AccessoryC101=Bản Thiết Kế: Thần Thoại - Serenity Stone
+tagGDX1Blueprint_AccessoryC102=Bản Thiết Kế: Runefather's Gem
+tagGDX1Blueprint_AccessoryC103=Bản Thiết Kế: Sanguinus
+tagGDX1Blueprint_AccessoryC104=Bản Thiết Kế: Thần Thoại - Sanctus Crest
+tagGDX1Blueprint_AccessoryC105=Bản Thiết Kế: Thần Thoại - Widow's Sting
+tagGDX1Blueprint_AccessoryC106=Bản Thiết Kế: Thần Thoại - Shard of Command
+tagGDX1Blueprint_AccessoryC107=Bản Thiết Kế: Thần Thoại - Amulet of Scorched Earth
+tagGDX1Blueprint_AccessoryC108=Bản Thiết Kế: Thần Thoại - Chains of Anguish
+tagGDX1Blueprint_AccessoryC109=Bản Thiết Kế: Thần Thoại - Alchemist's Belt
+tagGDX1Blueprint_AccessoryC110=Bản Thiết Kế: Thần Thoại - Volcanum
+tagGDX1Blueprint_AccessoryC111=Bản Thiết Kế: Thần Thoại - Combat Medic's Mark
+tagGDX1Blueprint_AccessoryC112=Bản Thiết Kế: Thần Thoại - Amarastan Sigil
+tagGDX1Blueprint_AccessoryC113=Bản Thiết Kế: Thần Thoại - Goliath Signet
+tagGDX1Blueprint_AccessoryC114=Bản Thiết Kế: Thần Thoại - Ruby of Elemental Balance
+tagGDX1Blueprint_AccessoryC115=Bản Thiết Kế: Thần Thoại - Sapphire of Elemental Balance
+
+tagGDX1Blueprint_AccessoryD101=Bản Thiết Kế: Thần Thoại - Stormseer Sapphire
+tagGDX1Blueprint_AccessoryD102=Bản Thiết Kế: Thần Thoại - Pack of Treacherous Means
+tagGDX1Blueprint_AccessoryD103=Bản Thiết Kế: Cinderplate Girdle
+tagGDX1Blueprint_AccessoryD104=Bản Thiết Kế: Thần Thoại - Mark of Kalastor
+tagGDX1Blueprint_AccessoryD105=Bản Thiết Kế: Mark of Consumption
+tagGDX1Blueprint_AccessoryD106=Bản Thiết Kế: Thần Thoại - Reign of Ice and Fire
+tagGDX1Blueprint_AccessoryD107=Bản Thiết Kế: Stoneguard Girdle
+tagGDX1Blueprint_AccessoryD108=Bản Thiết Kế: Stronghold Waistguard
+tagGDX1Blueprint_AccessoryD109=Bản Thiết Kế: Thần Thoại - Avatar of Mercy
+tagGDX1Blueprint_AccessoryD110=Bản Thiết Kế: Thần Thoại - Pestilence of Dreeg
+tagGDX1Blueprint_AccessoryD111=Bản Thiết Kế: Thần Thoại - Avenger of Cairn
+tagGDX1Blueprint_AccessoryD112=Bản Thiết Kế: Thần Thoại - Tinker's Ingenuity
+tagGDX1Blueprint_AccessoryD113=Bản Thiết Kế: Thần Thoại - Hammerfall Girdle
+tagGDX1Blueprint_AccessoryD114=Bản Thiết Kế: Thần Thoại - Sash of the Immortal Sage
+tagGDX1Blueprint_AccessoryD115=Bản Thiết Kế: Thần Thoại - Mark of Dark Dreams
+tagGDX1Blueprint_AccessoryD116=Bản Thiết Kế: Thần Thoại - Mark of Anathema
+tagGDX1Blueprint_AccessoryD117=Bản Thiết Kế: Thần Thoại - Glyph of Kelphat'Zoth
+tagGDX1Blueprint_AccessoryD118=Bản Thiết Kế: Thần Thoại - Time-Flux Band
+tagGDX1Blueprint_AccessoryD119=Bản Thiết Kế: Thần Thoại - Band of the Eternal Haunt
+tagGDX1Blueprint_AccessoryD120=Bản Thiết Kế: Cataclysm's Pact
+tagGDX1Blueprint_AccessoryD121A=Bản Thiết Kế: Conduit of Warring Whispers
+tagGDX1Blueprint_AccessoryD121B=Bản Thiết Kế: Conduit of Destructive Whispers
+tagGDX1Blueprint_AccessoryD121C=Bản Thiết Kế: Conduit of Eldritch Whispers
+tagGDX1Blueprint_AccessoryD121D=Bản Thiết Kế: Conduit of Night Whispers
+tagGDX1Blueprint_AccessoryD121E=Bản Thiết Kế: Conduit of Arcane Whispers
+tagGDX1Blueprint_AccessoryD121F=Bản Thiết Kế: Conduit of Wild Whispers
+tagGDX1Blueprint_AccessoryD121G=Bản Thiết Kế: Conduit of Runic Whispers
+tagGDX1Blueprint_AccessoryD121H=Bản Thiết Kế: Conduit of Undying Whispers
+
+tagGDX1Blueprint_AccessoryF101=Bản Thiết Kế: Aetherbolt Pendant
+tagGDX1Blueprint_AccessoryF102=Bản Thiết Kế: Heart of Malmouth
+tagGDX1Blueprint_AccessoryF103=Bản Thiết Kế: Reaver's Hunger
+tagGDX1Blueprint_AccessoryF104=Bản Thiết Kế: Mark of Lethal Intents
+tagGDX1Blueprint_AccessoryF105=Bản Thiết Kế: The Overseer
+tagGDX1Blueprint_AccessoryF106=Bản Thiết Kế: Mark of the Voracious One
+
+#Relics
+tagGDX1RelicB101=Tham Lam
+tagGDX1RelicB101Desc="Sự thèm khát vô tận."
+tagGDX1RelicB102=Linh Hồn
+tagGDX1RelicB102Desc="Một linh hồn thống khổ vẫn còn đang quằn quại trong phiến đá này."
+tagGDX1RelicB103=Nóng Giận
+tagGDX1RelicB103Desc="Cơn thịnh nộ của vạn vật."
+tagGDX1RelicB104=Ngoan Cường
+tagGDX1RelicB104Desc="Lòng dũng cảm trên chiến trường."
+tagGDX1RelicB105=Cuồng Loạn
+tagGDX1RelicB105Desc="Điên loạn ngay cả sau khi chết."
+
+tagGDX1RelicC101=Tử Vong
+tagGDX1RelicC101Desc="Cảm giác ray rứt muốn mọi thứ phải bị huỷ diệt."
+tagGDX1RelicC102=Căm Hận
+tagGDX1RelicC102Desc="Không ngừng nghỉ truy lùng một kẻ địch cổ xưa."
+
+tagGDX1RelicD101=Ô Uế
+tagGDX1RelicD101Desc="Năng lượng ma thuật thuần khiết, bị làm ô uế bởi những dục vọng đen tối."
+tagGDX1RelicD102=Báo Thù
+tagGDX1RelicD102Desc="Quân tử báo thù, mười năm chưa muộn."
+tagGDX1RelicD103=Sầu Khúc của Arkovia
+tagGDX1RelicD103Desc="Một bài hát ghê rợn phát ra từ phiến đá này."
+tagGDX1RelicD104=Phá Huỷ
+tagGDX1RelicD104Desc="Sự huỷ diệt giáng xuống kẻ địch."
+tagGDX1RelicD105=Diệt Vong
+tagGDX1RelicD105Desc="Trở thành người định đoạt số mệnh và phong ấn vận mệnh của kẻ địch."
+tagGDX1RelicD106=Sự Lừa Dối của Korvaak
+tagGDX1RelicD106Desc="Phục tùng ta là vì lợi ích của Cairn.  -Empyrion"
+tagGDX1RelicD107=Giao Ước Thần Bí
+tagGDX1RelicD107Desc="Điều khoản ràng buộc từ Tam Thần không thể không thực hiện."
+tagGDX1RelicD108=Sự Bộc Phát của Nidalla
+tagGDX1RelicD108Desc="Độc dược chết người là bí quyết để ám sát thành công."
+tagGDX1RelicD109=Vĩnh Hằng
+tagGDX1RelicD109Desc="Chớp mắt một cái, nhìn thấu sự đời."
+tagGDX1RelicD110=Thảm Sát
+tagGDX1RelicD110Desc="Vùng vẫy trong biển máu."
+tagGDX1RelicD111=Nhát Chém của Uroboruuk
+tagGDX1RelicD111Desc="Được truyền lại bởi chính bậc thầy am hiểu về cái chết."
+tagGDX1RelicD112=Ngọn Lửa của Ignaffar
+tagGDX1RelicD112Desc="Hoả Thạch của Ignaffar không phải là bảo vật duy nhất được Hội Luminari tìm thấy tại một nghĩa trang cổ và thanh tẩy để sử dụng sau đó."
+tagGDX1RelicD113=Nhuệ Khí của Mogdrogen
+tagGDX1RelicD113Desc="Một con sói hy sinh để cả đàn sống sót."
+tagGDX1RelicD114=Kẻ Săn Mồi Chết Chóc
+tagGDX1RelicD114Desc="Một linh hồn tà ác khao khát được tự do."
+
+
+
+#Crafting
+tagGDX1CraftRandomLegendaryDesc2=Thợ Rèn có thể kết hợp năng lượng ma thuật thuần khiết bên trong những vật phẩm này để tạo nên một món đồ có phẩm chất Huyền Thoại, cao nhất là cấp 94. Các nhân vật có cấp độ dưới 58 có thể chế tạo một món đồ có phẩm chất Epic thay thế.
+tagGDX1CraftRandomLegendaryAccessoryDesc2=Thợ Rèn có thể kết hợp năng lượng ma thuật thuần khiết bên trong những vật phẩm này để tạo nên một món đồ có phẩm chất Huyền Thoại, cao nhất là cấp 94. Các nhân vật có cấp độ dưới 58 có thể chế tạo một món đồ có phẩm chất Epic thay thế.
+tagGDX1CraftRandomLegendaryItemDesc2=Thợ Rèn có thể chế tạo một vật phẩm Huyền Thoại phù hợp với cấp độ của bạn, cao nhất là cấp 94.
+
+tagGDX1CraftMaterial_AetherialVanguard=Công Văn Aether
+tagGDX1CraftMaterial_AetherialVanguard_Desc="Những dòng chữ bí ẩn có chứa năng lượng Aether. Có vẻ như dùng để truyền đạt những thông tin mà mắt người trần không đọc được."
+
+tagGDX1CraftMaterial_AetherialVanguard02=Tác Nhân Đột Biến Aether
+tagGDX1CraftMaterial_AetherialVanguard02_Desc="Chất dịch nhiễm Aether sền sệt này phản ứng mãnh liệt trong bình chứa khi tới gần da thịt sinh vật sống."
+
+tagGDX1CraftMaterial_Wendigo=Linh Hồn Wendigo
+tagGDX1CraftMaterial_Wendigo_Desc="Một linh hồn tà ác chứa đựng sức mạnh hắc ám tiềm tàng. Nó thì thầm vào tai bạn một lời hứa ban cho sức mạnh."
+
+tagGDX1CraftMaterial_Ugdenbloom=Hoa Ugdenbog
+tagGDX1CraftMaterial_Ugdenbloom_Desc=Dù có màu sắc rực rỡ và trông rất đẹp, nhưng nó phát ra một mùi hôi thối kinh khủng."
+
+tagGDX1CraftMaterial_HeartOfDarkness=Trái Tim Đen Tối
+tagGDX1CraftMaterial_HeartOfDarkness_Desc="Chứa đầy năng lượng tà ác, nó khao khát muốn tìm đến Tế Đàn Tro Bụi."
+
+#Consumables
+
+tagGDX1ConsumableBlueprintA01=Công Thức: Thuốc Mỡ Kháng Lửa
+
+tagGDX1ConsumableA101=Tinh Thể của Hargate
+tagGDX1ConsumableA101Desc="Nó phát ra một nguồn năng lượng kỳ lạ, như thể có thứ gì đó bên trong đang cố gắng thoát ra ngoài..."
+
+tagGDX1ConsumableA102=Tinh Thể của Kasparov
+tagGDX1ConsumableA102Desc="Nó phát ra một nguồn năng lượng kỳ lạ, như thể có thứ gì đó bên trong đang cố gắng thoát ra ngoài..."
+
+tagGDX1ConsumableBlueprintB101=Công Thức: Nước Ép Ugden
+tagGDX1ConsumableBlueprintB102=Công Thức: Thuốc Đắp Ugden
+tagGDX1ConsumableBlueprintB103=Công Thức: Thuốc Bôi Sẹo Quỷ
+tagGDX1ConsumableBlueprintB104=Công Thức: Thần Dược Dranghoul
+tagGDX1ConsumableBlueprintB105=Công Thức: Thần Dược Mogdrogen
+
+tagGDX1ConsumableB101=Nước Ép Ugden
+tagGDX1ConsumableB101Desc="Một hỗn hợp có hương thơm ngọt ngào được chiết xuất từ hoa Đầm Lầy Ugdenbog."
+tagGDX1ConsumableB102=Thuốc Đắp Ugden
+tagGDX1ConsumableB102Desc="Một hỗn hợp mang lại cảm giác dễ chịu được làm từ dịch chiết của hoa Đầm Lầy Ugdenbog."
+tagGDX1ConsumableB103=Thuốc Bôi Sẹo Quỷ
+tagGDX1ConsumableB103Desc="Một hỗn hợp rất mạnh có thể khiến vết thương mau khô."
+tagGDX1ConsumableB104=Thần Dược Dranghoul
+tagGDX1ConsumableB104Desc="Một loại thần dược rất mạnh được chế tạo từ cuống hoa Đầm Lầy Ugdenbog."
+tagGDX1ConsumableB105=Thần Dược Mogdrogen
+tagGDX1ConsumableB105Desc="Một loại thần dược được làm bởi chính Mogdrogen."
+
+tagGDX1ConsumableF101=Tinh Dầu Ma Thuật
+tagGDX1ConsumableF101Desc="Một loại tinh dầu chứa đựng những lời nguyền từ Hội Phù Thuỷ."
+tagGDX1ConsumableF102=Ma Dược Nguyền Rủa
+tagGDX1ConsumableF102Desc="Đập vỡ chiếc bình sẽ phóng thích một lời nguyền tàn ác vào kẻ địch gần đó."
+tagGDX1ConsumableF103=Tinh Dầu Kháng Aether
+tagGDX1ConsumableF103Desc="Một loại tinh dầu giúp vũ khí của bạn kháng lại năng lượng Aether."
+tagGDX1ConsumableF104=Ma Dược Lôi Hoả
+tagGDX1ConsumableF104Desc="Đập vỡ chiếc bình sẽ tạo ra một vụ nổ mang năng lượng Lửa và Sét."
+tagGDX1ConsumableF105=Tinh Dầu Kẻ Khát Máu
+tagGDX1ConsumableF105Desc="Khiến vũ khí của trở nên khát máu như một Wendigo."
+tagGDX1ConsumableF106=Ma Dược Oán Linh
+tagGDX1ConsumableF106Desc="Đập vỡ chiếc bình, phóng thích một linh hồn tà ác theo ám kẻ địch của bạn."
+tagGDX1ConsumableF107=Thần Dược Thông Thái
+tagGDX1ConsumableF107Desc="Một chất lỏng hơi sệt chứa đầy những sức mạnh tiềm ẩn." ^oCó thể bỏ vào Rương Đồ Chung để sử dụng cho các nhân vật khác.
+
+tagGDX1Consumable_AttributeReset=Thần Dược Tái Tạo
+tagGDX1Consumable_AttributeReset_Desc="Khiến bạn cảm thấy nóng bức khó chịu vì cơ thể bạn dường như đang định hình trở lại."
+
+
+
+
+#ItemEnchantment
+
+tagGDX1EnchantA101A=Bụi Sao
+tagGDX1EnchantA101Desc="Bụi rơi ra từ một sao băng, được thu thập tỉ mỉ để những đặc tính ma thuật của nó không bị vơi đi."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantA102A=Bụi Sao - Cường Hoá
+tagGDX1EnchantA102Desc="Bụi rơi ra từ một sao băng, được thu thập tỉ mỉ để những đặc tính ma thuật của nó không bị vơi đi."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantA103A=Bột Dây Leo Gai
+tagGDX1EnchantA103Desc="Dây leo gai rất khó thu hoạch, có khi gây nguy hiểm chết người, nhưng các công dụng trong y dược và ma thuật của nó khiến điều này rất đáng."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantA104A=Bột Dây Leo Gai - Cường Hoá
+tagGDX1EnchantA104Desc="Dây leo gai rất khó thu hoạch, có khi gây nguy hiểm chết người, nhưng các công dụng trong y dược và ma thuật của nó khiến điều này rất đáng."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantA105A=Nụ Hôn Phù Thuỷ
+tagGDX1EnchantA105Desc="Một loại bột ma thuật rất mạnh được sử dụng bởi Hội Phù Thuỷ để trừ khử những mối đe doạ không mong muốn."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantA106A=Nụ Hôn Phù Thuỷ - Cường Hoá
+tagGDX1EnchantA106Desc="Một loại bột ma thuật rất mạnh được sử dụng bởi Hội Phù Thuỷ để trừ khử những mối đe doạ không mong muốn."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantA107A=Mụn Nhọt Của Quái Thú Dịch Bệnh
+tagGDX1EnchantA107Desc="Dù tử linh ma thuật hiếm khi được sử dụng trong Hội Phù Thuỷ, nó vẫn có chức năng riêng biệt của mình. Nốt mụn từ Quái Thú Dịch Bệnh có những đặc tính ma thuật độc đáo nếu được chiết xuất hợp lý."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantA108A=Mụn Nhọt Của Quái Thú Dịch Bệnh - Cường Hoá
+tagGDX1EnchantA108Desc="Dù tử linh ma thuật hiếm khi được sử dụng trong Hội Phù Thuỷ, nó vẫn có chức năng riêng biệt của mình. Nốt mụn từ Quái Thú Dịch Bệnh có những đặc tính ma thuật độc đáo nếu được chiết xuất hợp lý."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantA109A=Bột Ma Thuật Xác Thối
+tagGDX1EnchantA109Desc="Người chế tạo một mực bảo rằng nó đơn giản chỉ là một loại bột ma thuật làm từ xác người trương phình xung quanh Đầm Lầy Ugdenbog. Chắc rằng sẽ không ai muốn biết rõ nguồn gốc của nó."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantA110A=Lưỡi Hư Không
+tagGDX1EnchantA110Desc="Lưỡi được nghiền thành bột từ một loại quái vật Chthon."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantA111A=Bột Nấm Ma Pháp
+tagGDX1EnchantA111Desc="Nấm Ma Pháp mọc nhiều ở những nơi ẩm ướt của Đầm Lầy Ugdenbog, là nguồn cung cấp thực phẩm và vật liệu ma thuật cho Hội Phù Thuỷ."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantA112A=Hoa Tà Thuật
+tagGDX1EnchantA112Desc="Loại thực vật này dường như chỉ mới xuất hiện ở Cairn, có thể đã được mang từ thế giới bên kia qua đây khi bức màn giữa hai thế giới bị suy yếu, giống như cách mà Chó Săn Xuyên Không và các loại Sinh Vật Khe Nứt khác đã từng thực hiện, tuy nhiên đặc tính ma thuật đặc biệt khiến nó nhanh chóng chiếm được một vị trí trong kho vật liệu của Hội Phù Thuỷ."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantA113A=Gai Hoa Hồng Máu
+tagGDX1EnchantA113Desc="Gọi như thế là bởi vì gai của nó cực kỳ sắc và nó có màu đỏ thẫm như máu, Gai Hoa Hồng Máu chứa một loại chất độc gây xuất huyết khi được chiết xuất ra."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantA114A=Niềm Vui Của Phù Thuỷ
+tagGDX1EnchantA114Desc="Loại bột tinh chế từ một loại nấm hiếm gặp mọc ở Đầm Lầy Ugdenbog. Nó được xem là món ngon bởi những cư dân nơi đây, và là một nguyên liệu cực mạnh bởi Hội Phù Thuỷ."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantA115A=Bột Ma Thuật Thợ Máy
+tagGDX1EnchantA115Desc="Trở nên nổi tiếng vào thời đại cách mạng công nghiệp của Malmouth, thứ bột ma thuật này khiến kim loại chắc chắn hơn để có thể chịu được những đòn tấn công rất mạnh."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantA116A=Bột Ma Thuật Thợ Máy - Cường Hoá
+tagGDX1EnchantA116Desc="Trở nên nổi tiếng vào thời đại cách mạng công nghiệp của Malmouth, thứ bột ma thuật này khiến kim loại chắc chắn hơn để có thể chịu được những đòn tấn công rất mạnh."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantA117A=Nhựa Hư Không
+tagGDX1EnchantA117Desc="Dù khó sử dụng và cực kỳ không ổn định, các Ma Pháp Sư của Malmouth đã khám phá ra công dụng của hợp chất đặc quánh này trong việc sử dụng ma thuật của họ."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantA118A=Nhựa Hư Không - Cường Hoá
+tagGDX1EnchantA118Desc="Dù khó sử dụng và cực kỳ không ổn định, các Ma Pháp Sư của Malmouth đã khám phá ra công dụng của hợp chất đặc quánh này trong việc sử dụng ma thuật của họ."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantA119A=Bột Ma Thuật Mắt Tiểu Quỷ
+tagGDX1EnchantA119Desc="Powder extracted from the bloated eyes of Aetherial imps."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantA120A=Bột Ma Thuật Mắt Tiểu Quỷ - Cường Hoá
+tagGDX1EnchantA120Desc="Loại bột được làm từ con mắt rơi ra của Tiểu Quỷ Aether."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantA121A=Bột Ma Thuật Hoa Đốm Lửa 
+tagGDX1EnchantA121Desc="Bột ma thuật được làm từ một loại hoa rực rỡ mọc ở vùng ngoại ô thành phố Malmouth, được biết đến qua những cánh hoa có màu như ngọn lửa cháy."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantA122A=Bột Ma Thuật Hoa Đốm Lửa - Cường Hoá
+tagGDX1EnchantA122Desc="Bột ma thuật được làm từ một loại hoa rực rỡ mọc ở vùng ngoại ô thành phố Malmouth, được biết đến qua những cánh hoa có màu như ngọn lửa cháy."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantA123A=Bột Ma Thuật Hoả Tâm
+tagGDX1EnchantA123Desc="Bột ma thuật được làm từ trái tim cháy rực của các loại hoả thú."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantA124A=Bột Ma Thuật Xác Thịt
+tagGDX1EnchantA124Desc="Loại bột này cần được sử dụng thận trọng sao cho nó không chạm vào da thịt con người, tuy nhiên việc thu thập nguyên liệu từ các Sinh vật Aether Đột Biến có lẽ mới là khâu khó nhất."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantA125A=Tro Hư Không
+tagGDX1EnchantA125Desc="Tro lấy từ thế giới của Cthon, thỉnh thoảng được tìm thấy trên xác chết của quái vật Chthon. Bạn sẽ không tìm ra được kẻ nào ngu ngốc đến độ bước vào thế giới của Chthon."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantA126A=Nước Đánh Bóng Dạ Thiết
+tagGDX1EnchantA126Desc="Sản vật của Malmouth, thèm muốn sở hữu bởi các Đao Sĩ Bóng Đêm của vương quốc Erulan."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantA127A=Bột Ma Thuật Người Chữa Thương
+tagGDX1EnchantA127Desc="Được bào chế bởi những người sống sót ở Malmouth, sử dụng để nhanh chóng hồi phục vết thương trên chiến trường."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantA128A=Xương Sống Cự Nhân
+tagGDX1EnchantA128Desc="Chẳng có cớ gì mà đi đùa giỡn với những sinh vật Aether khổng lồ, nhưng một khi đã hạ được một tên thì có thể cung cấp nguyên vật liệu đủ dùng cho nhiều tháng."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantA129A=Lông Thú Wendigo
+tagGDX1EnchantA129Desc="Bột ma thuật được bào chế từ một chùm lông nhỏ trên bộ lông của Wendigo, là món quà từ Ravager."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantA130A=Lông Thú Wendigo - Cường Hoá
+tagGDX1EnchantA130Desc="Bột ma thuật được bào chế từ một chùm lông nhỏ trên bộ lông của Wendigo, là món quà từ Ravager."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantA131A=Bột Ma Thuật Vảy Máu
+tagGDX1EnchantA131Desc="Bột ma thuật được làm từ lớp vảy của Slith Vảy Máu, thỉnh thoảng thấy chúng gầm vang khắp Đầm Lầy Ugdenbog."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantA132A=Bột Ma Thuật Vảy Máu - Cường Hoá
+tagGDX1EnchantA132Desc="Bột ma thuật được làm từ lớp vảy của Slith Vảy Máu, thỉnh thoảng thấy chúng gầm vang khắp Đầm Lầy Ugdenbog."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantA133A=Bột Ma Thuật Vỏ Gai
+tagGDX1EnchantA133Desc="Bột ma thuật được nghiền ra từ vỏ cứng của Cua Vỏ Gai Đầm Lầy Ugdenbog. Tốn rất nhiều thời gian và công sức để nghiền nát vỏ cứng này thành một loại nguyên liệu giá trị."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantA134A=Bột Ma Thuật Vỏ Gai - Cường Hoá
+tagGDX1EnchantA134Desc="Bột ma thuật được nghiền ra từ vỏ cứng của Cua Vỏ Gai Đầm Lầy Ugdenbog. Tốn rất nhiều thời gian và công sức để nghiền nát vỏ cứng này thành một loại nguyên liệu giá trị."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantA135A=Bột Ma Thuật Ám Ảnh
+tagGDX1EnchantA135Desc="Bột để lại bởi các hồn ma thỉnh thoảng thấy xuất hiện quanh Đầm Lầy Ugdenbog."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantA136A=Bột Ma Thuật Ám Ảnh - Cường Hoá
+tagGDX1EnchantA136Desc="Bột để lại bởi các hồn ma thỉnh thoảng thấy xuất hiện quanh Đầm Lầy Ugdenbog."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+
+tagGDX1EnchantB101A=Trí Tuệ Của Phù Thuỷ
+tagGDX1EnchantB101Desc="Một loại bột ma thuật đặc biệt được làm bởi Hội Phù Thuỷ để tăng sức mạnh cho các loại ma thuật hắc ám."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantB102A=Trí Tuệ Của Phù Thuỷ - Cường Hoá
+tagGDX1EnchantB102Desc="Một loại bột ma thuật đặc biệt được làm bởi Hội Phù Thuỷ để tăng sức mạnh cho các loại ma thuật hắc ám."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantB103A=Mánh Khoé Của Phù Thuỷ
+tagGDX1EnchantB103Desc="Một loại bột ma thuật được làm bởi Hội Phù Thuỷ, khiến các giác quan của họ trở nên nhạy bén hơn."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantB104A=Mánh Khoé Của Phù Thuỷ - Cường Hoá
+tagGDX1EnchantB104Desc="Một loại bột ma thuật được làm bởi Hội Phù Thuỷ, khiến các giác quan của họ trở nên nhạy bén hơn."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantB105A=Sự Khủng Khiếp Của Phù Thuỷ
+tagGDX1EnchantB105Desc="Một loại độc dược được yếm chú ma thuật bởi Hội Phù Thuỷ, khiến lý trí của kẻ địch tràn đầy những ám ảnh kinh hoàng."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantB106A=Sự Khủng Khiếp Của Phù Thuỷ - Cường Hoá
+tagGDX1EnchantB106Desc="Một loại độc dược được yếm chú ma thuật bởi Hội Phù Thuỷ, khiến lý trí của kẻ địch tràn đầy những ám ảnh kinh hoàng."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantB107A=Lời Nguyền Phù Thuỷ
+tagGDX1EnchantB107Desc="Một loại độc dược được lấy từ nhiều loài thực vật khác nhau mọc quanh Đầm Lầy Ugdenbog, kết hợp với ma thuật của Hội Phù Thuỷ để tối ưu hoá sức mạnh của nó."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantB108A=Lời Nguyền Phù Thuỷ - Cường Hoá
+tagGDX1EnchantB108Desc="Một loại độc dược được lấy từ nhiều loài thực vật khác nhau mọc quanh Đầm Lầy Ugdenbog, kết hợp với ma thuật của Hội Phù Thuỷ để tối ưu hoá sức mạnh của nó."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantB109A=Hắc Hoả Của Phù Thuỷ
+tagGDX1EnchantB109Desc="Thường có liên quan đến các nghi lễ của những người sùng bái ba vị Thần Phù Thuỷ, Hội Phù Thuỷ sử dụng loại bột nguy hiểm này khi một nghi lễ nào đó cần đến chúng."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantB110A=Tiếng Thét Hồn Ma
+tagGDX1EnchantB110Desc="Thông qua một nghi thức trói buộc kinh hoàng, một Tà Thuật Sư của Hội Phù Thuỷ có thể thu phục và huỷ diệt một Hồn Ma Đầm Lầy Ugdenbog."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantB111A=Bột Ma Thuật Thiên Thạch
+tagGDX1EnchantB111Desc="Vốn được chế tạo bởi Đại Pháp Sư Trozan, Hội Phù Thuỷ đã tận dụng triệt để tính chất ma thuật của những vật thể đến từ bầu trời."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantB112A=Nhát Cắn Của Xà Quái
+tagGDX1EnchantB112Desc="Một loại độc dược được chiết xuất từ tuyến nọc độc của Xà Quái Đầm Lầy Ugdenbog."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantB113A=Tử Nhãn Của Xà Quái
+tagGDX1EnchantB113Desc="Một loại độc dược được bào chế từ cặp mắt gây tê liệt của Xà Quái Đầm Lầy Ugdenbog."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantB114A=Tinh Chất Của Sylvarria
+tagGDX1EnchantB114Desc="Truyền thuyết kể về một thực thể huyền thoại mọc trong khu vực Đầm Lầy Ugdenbog, rễ của nó lan khắp vùng đầm lầy này. Được đặt theo tên của nó, loại bột ma thuật này được bào chế từ nhiều loại thực vật mọc quanh đầm lầy."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantB115A=Trái Tim Đầm Lầy Ugdenbog
+tagGDX1EnchantB115Desc="Một loại bột ma thuật rất mạnh được làm từ trái tim bằng đá của các Người Đá mạnh mẽ sống trong khu vực Đầm Lầy Ugdenbog."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantB116A=Sự Cứu Rỗi Của Malmouth
+tagGDX1EnchantB116Desc="Một loại bột ma thuật rất mạnh được chế tạo từ những người sống sót ở Malmouth để bảo vệ họ khỏi các sinh vật Aether."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantB117A=Sự Cứu Rỗi Của Malmouth - Cường Hoá
+tagGDX1EnchantB117Desc="Một loại bột ma thuật rất mạnh được chế tạo từ những người sống sót ở Malmouth để bảo vệ họ khỏi các sinh vật Aether."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantB118A=Ý Chí Của Malmouth
+tagGDX1EnchantB118Desc="Một loại bột ma thuật rất mạnh được chế tạo từ các thợ rèn của Malmouth để tăng sức mạnh cho đôi tay của họ khi rèn, nhưng cũng rất hữu hiệu trong những trận chiến."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantB119A=Ý Chí Của Malmouth - Cường Hoá
+tagGDX1EnchantB119Desc="Một loại bột ma thuật rất mạnh được chế tạo từ các thợ rèn của Malmouth để tăng sức mạnh cho đôi tay của họ khi rèn, nhưng cũng rất hữu hiệu trong những trận chiến."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantB120A=Linh Hồn Malmouth
+tagGDX1EnchantB120Desc="Một loại bột ma thuật kết tinh từ ý chí sắt thép của người dân Malmouth."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantB121A=Linh Hồn Malmouth - Cường Hoá
+tagGDX1EnchantB121Desc="Một loại bột ma thuật kết tinh từ ý chí sắt thép của người dân Malmouth."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantB122A=Trái Tim Malmouth
+tagGDX1EnchantB122Desc="Một loại bột với sức mạnh đáng kinh ngạc được chế tạo vào thời khắc tuyệt vọng lúc đợt tấn công đầu tiên tràn vào Malmouth. Dù mượn sức mạnh từ Aether và được chứng minh có thể dẫn đến sự huỷ diệt của nhân loại, giờ đây nó lại có mục đích cao cả hơn."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantB123A=Trái Tim Malmouth - Cường Hoá
+tagGDX1EnchantB123Desc="Một loại bột với sức mạnh đáng kinh ngạc được chế tạo vào thời khắc tuyệt vọng lúc đợt tấn công đầu tiên tràn vào Malmouth. Dù mượn sức mạnh từ Aether và được chứng minh có thể dẫn đến sự huỷ diệt của nhân loại, giờ đây nó lại có mục đích cao cả hơn."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantB124A=Bột Trái Tim Ma Thuật
+tagGDX1EnchantB124Desc="Một loại bột ma thuật có tính ổn định không cao, khi cháy có thể gây hại cho giáp phục, nhưng sức mạnh tiềm tàng của nó khiến nó rất đáng để sử dụng, đặc biệt là cho những người dùng phép thuật."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantB125A=Bột Ma Thuật Búa Giáng
+tagGDX1EnchantB125Desc="Bột này được thu thập từ tro tàn của các loại thép được rèn bằng ma pháp."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantB126A=Bột Ma Thuật Hoa Thép
+tagGDX1EnchantB126Desc="Một loại bột có nguồn gốc từ Hoa Thép - một loại hoa kỳ lạ mà người ta phát hiện trong thân của nó chứa một lượng lớn các phân tử kim loại mà nó hấp thụ từ trong lòng đất thông qua hệ thống rễ mọc rất sâu."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantB127A=Bột Ma Thuật Cuồng Phong
+tagGDX1EnchantB127Desc="Sức mạnh của một trận cuồng phong có tính huỷ diệt cao chứa đựng trong loại bột ma thuật này."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantB128A=Lửa Thợ Rèn
+tagGDX1EnchantB128Desc="Loại bột được ưa chuộng bởi các thợ rèn Malmouth, được sử dụng trong quá trình rèn đúc để khiến lửa cháy to và nóng hơn, nhưng cũng hữu hiệu tương tự khi dùng trên trang bị."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantB129A=Độc Dược Nội Tạng Thối
+tagGDX1EnchantB129Desc="Một chất độc chết người được chế tạo bởi các Đao Sĩ Bóng Đêm, rất nhiều nguyên liệu cần thiết để chế tạo nó chỉ có ở khu vực Malmouth."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantB130A=Bụi Ma Pháp
+tagGDX1EnchantB130Desc="Loại bột đặc biệt được làm bởi Hội Gildam Arcanum, loại ma thuật cường hoá trang bị này giúp phát huy tối đa khả năng ma thuật của người sử dụng."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+tagGDX1EnchantB131A=Thành Quả Của Ravager
+tagGDX1EnchantB131Desc="Một lễ vật từ Ravager dùng để ban cho những kẻ sùng bái đáng nguyền rủa của ông ta. Nó chứa đựng một sự thèm khát vô tận."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantB132A=Thành Quả Của Ravager - Cường Hoá
+tagGDX1EnchantB132Desc="Một lễ vật từ Ravager dùng để ban cho những kẻ sùng bái đáng nguyền rủa của ông ta. Nó chứa đựng một sự thèm khát vô tận."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantB133A=Con Mắt Của Ravager
+tagGDX1EnchantB133Desc="Một lễ vật từ Ravager dùng để ban cho những kẻ sùng bái đáng nguyền rủa của ông ta. khiến người sử dụng có một lòng trung thành tuyệt đối."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantB134A=Con Mắt Của Ravager - Cường Hoá
+tagGDX1EnchantB134Desc="Một lễ vật từ Ravager dùng để ban cho những kẻ sùng bái đáng nguyền rủa của ông ta, khiến người sử dụng có một lòng trung thành tuyệt đối."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantB135A=Cơn Thịnh Nộ Của Ravager
+tagGDX1EnchantB135Desc="Một lễ vật từ Ravager dùng để ban cho những kẻ sùng bái đáng nguyền rủa của ông ta. Nó kích động một sự cuồng nộ không thể chế ngự."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantB136A=Cơn Thịnh Nộ Của Ravager - Cường Hoá
+tagGDX1EnchantB136Desc="Một lễ vật từ Ravager dùng để ban cho những kẻ sùng bái đáng nguyền rủa của ông ta. Nó kích động một sự cuồng nộ không thể chế ngự."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+tagGDX1EnchantB137A=Hơi Thở Của Ravager
+tagGDX1EnchantB137Desc="Một lễ vật từ Ravager dùng để ban cho những kẻ sùng bái đáng nguyền rủa của ông ta, hơi thở này khi tiếp xúc với da thịt sẽ tạo nên những vết thương lở loét và mưng mủ."^w^n(Sử dụng cho tất cả các loại Vũ khí Một Tay, Khiên và Pháp Khí)
+
+tagGDX1EnchantB138A=Hơi Thở Của Ravager - Cường Hoá
+tagGDX1EnchantB138Desc="Một lễ vật từ Ravager dùng để ban cho những kẻ sùng bái đáng nguyền rủa của ông ta, hơi thở này khi tiếp xúc với da thịt sẽ tạo nên những vết thương lở loét và mưng mủ."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
+
+
+tagGDX1EnchantC101A=Bột Trừ Tà Của Hội Phù Thuỷ
+tagGDX1EnchantC101Desc="Loại bột ma thuật được chế tạo bởi Hội Phù Thuỷ, dùng để bảo vệ họ trong suốt quá trình thực hiện các nghi lễ."^w^n(Sử dụng cho Tất Cả Các Bộ Phận của Giáp Phục)
+tagGDX1EnchantC102A=Tro Đen Hội Phù Thuỷ
+tagGDX1EnchantC102Desc="Tro ma thuật tẩm máu của sinh vật Cthon, được bào chế bởi Hội Phù Thuỷ."^w^n(Sử dụng cho Tất Cả Các Bộ Phận của Giáp Phục)
+tagGDX1EnchantC103A=Tro Máu Của Hội Phù Thuỷ
+tagGDX1EnchantC103Desc="Tro ma thuật tẩm máu Wendigo, được bào chế bởi Hội Phù Thuỷ."^w^n(Sử dụng cho Tất Cả Các Bộ Phận của Giáp Phục)
+tagGDX1EnchantC104A=Bột Hộ Linh Malmouth
+tagGDX1EnchantC104Desc="Bột ma thuật được chế tạo tại Malmouth, giúp những người sống sót chống lại sự khống chế của các sinh vật Aether, tuy nhiên chẳng ai đủ can đảm để đi kiểm tra công hiệu của nó."^w^n(Sử dụng cho Tất Cả Các Bộ Phận của Giáp Phục)
+tagGDX1EnchantC105A=Bột Cầm Máu Malmouth
+tagGDX1EnchantC105Desc="Bột ma thuật thường được sử dụng để làm khô vết thương trong trường hợp khẩn cấp. Rất đau khi sử dụng, nhưng còn hơn là để vết thương chảy máu ồ ạt."^w^n(Sử dụng cho Tất Cả Các Bộ Phận của Giáp Phục)
+tagGDX1EnchantC106A=Bột Hồi Sức Malmouth
+tagGDX1EnchantC106Desc="Bột ma thuật được sử dụng để hồi phục sức khoẻ, ngay cả khi sức lực cạn kiệt hết sau nhiều giờ chiến đấu liên tục."^w^n(Sử dụng cho Tất Cả Các Bộ Phận của Giáp Phục)
+tagGDX1EnchantC107A=Bột Huyết Hương Wendigo
+tagGDX1EnchantC107Desc="Một lễ vật từ Ravager dùng để bổ sung lượng máu bị mất và giúp người sử dụng khó bị truy lùng."^w^n(Sử dụng cho Tất Cả Các Bộ Phận của Giáp Phục)
+tagGDX1EnchantC108A=Bột Tử Linh Hương Wendigo
+tagGDX1EnchantC108Desc="Một lễ vật từ Ravager dùng để bảo vệ người sử dụng khỏi các loại ma quỷ."^w^n(Sử dụng cho Tất Cả Các Bộ Phận của Giáp Phục)
+tagGDX1EnchantC109A=Bột Sinh Khí Wendigo
+tagGDX1EnchantC109Desc="Một lễ vật từ Ravager dùng để tăng sức mạnh cho thể xác phàm nhân."^w^n(Sử dụng cho Tất Cả Các Bộ Phận của Giáp Phục)
+
+
+
+
+#ItemComponents
+
+tagGDX1CompA101Name=Dấu Ấn Sức Mạnh
+tagGDX1CompA101Desc="Dấu ấn được khắc bởi Thần Sức Mạnh Ulgard, tập trung toàn bộ sức mạnh ma pháp của người chế tạo ra nó và chuyển hoá thành sức mạnh vật lý vô song."^w^n(Sử dụng cho tất cả các loại Vũ Khí, Khiên và Pháp Khí)
+
+tagGDX1CompA102Name=Dấu Ấn Đao Kiếm
+tagGDX1CompA102Desc="Dấu Ấn được tạo bởi Đao Sĩ Bóng Đêm huyền thoại Belgothian, tối ưu hoá sức mạnh chết chóc từ những đòn tấn công sát thủ và khiến mục tiêu bị chảy máu dữ dội."^w^n(Sử dụng cho tất cả các loại Vũ Khí, Khiên và Pháp Khí)
+
+tagGDX1CompA103Name=Dấu Ấn Thiên Không
+tagGDX1CompA103Desc="Dấu ấn nguyên thuỷ được tạo bởi bậc thầy về ma thuật Trozan, triệu gọi sức mạnh đến từ bầu trời."^w^n(Sử dụng cho tất cả các loại Vũ Khí, Khiên và Pháp Khí)
+
+tagGDX1CompA104Name=Dấu Ấn Suy Tàn
+tagGDX1CompA104Desc="Dấu Ấn chứa đựng sức mạnh từ Tam Thần, gieo rắc nhiều loại dịch bệnh mà nạn nhân đã mắc phải trong quá khứ."^w^n(Sử dụng cho tất cả các loại Vũ Khí, Khiên và Pháp Khí)
+
+tagGDX1CompA105Name=Dấu Ấn Sa Đoạ
+tagGDX1CompA105Desc="Dù người tạo ra dấu ấn này đã bị lãng quên trong sử sách, khả năng khống chế năng lượng Aether của nó là vô hạn."^w^n(Sử dụng cho tất cả các loại Vũ Khí, Khiên và Pháp Khí)
+
+tagGDX1CompA106Name=Dấu Ấn Hư Không
+tagGDX1CompA106Desc="Người chế tạo dấu ấn này yêu cầu thực hiện những việc không thể tiết lộ. Những kẻ sử dụng nó đều bị tha hoá và thèm khát sức mạnh dữ dội."^w^n(Sử dụng cho tất cả các loại Vũ Khí, Khiên và Pháp Khí)
+
+tagGDX1CompA107Name=Dấu Ấn Bóng Đêm
+tagGDX1CompA107Desc="Dấu ấn được tạo bởi Đao Sĩ Bóng Đêm Amarasta trong lúc chuẩn bị trừ khử một mục tiêu cứng đầu."^w^n(Sử dụng cho tất cả các loại Vũ Khí, Khiên và Pháp Khí)
+
+tagGDX1CompA108Name=Dấu Ấn Phá Huỷ
+tagGDX1CompA108Desc="Dấu ấn được tạo ra để vinh danh Ulzuin và được dùng để trừng phạt những kẻ dám báng bổ vị thần này."^w^n(Sử dụng cho tất cả các loại Vũ Khí, Khiên và Pháp Khí)
+
+tagGDX1CompA109Name=Dấu Ấn Hắc Ám
+tagGDX1CompA109Desc="Là vật ưa thích của Đao Sĩ Bóng Đêm Nidalla, dấu ấn này tẩm lên vũ khí một loại axít ăn mòn."^w^n(Sử dụng cho tất cả các loại Vũ Khí, Khiên và Pháp Khí)
+
+tagGDX1CompA110Name=Dấu Ấn Cộng Hưởng
+tagGDX1CompA110Desc="Được chế tạo theo đúng chuyên môn của Hội Luminari, dấu ấn này cường hoá vũ khí bằng những thuộc tính ma pháp, hiệu quả đối với cả những loại vũ khí không phải là vũ khí ma thuật."^w^n(Sử dụng cho tất cả các loại Vũ Khí, Khiên và Pháp Khí)
+
+tagGDX1CompA111Name=Trái Tim Ô Uế
+tagGDX1CompA111Desc="Trái tim bị Aether làm ô uế vẫn còn nhịp đập."^w^n(Sử dụng cho Dây Chuyền và Huân Chương)
+
+tagGDX1CompA112Name=Hồng Ngọc Rực Lửa
+tagGDX1CompA112Desc="Một ngọn lửa sáng chói đang nhảy múa bên trong viên ngọc này."^w^n(Sử dụng cho Dây Chuyền và Huân Chương)
+
+tagGDX1CompA113Name=Hoàng Ngọc Khắc Cổ Ngữ
+tagGDX1CompA113Desc="Ký tự cổ khắc trên bề mặt của viên đá này khiến nó chứa đựng những thuộc tính bảo vệ."^w^n(Sử dụng cho Nhẫn, Dây Chuyền và Huân Chương)
+
+tagGDX1CompA114Name=Pha Lê Máu
+tagGDX1CompA114Desc="Viên pha lê từng trắng sáng như ngọc trai này đã hấp thụ một lượng máu vô cùng lớn."^w^n(Sử dụng cho Nhẫn, Dây Chuyền và Huân Chương)
+
+tagGDX1CompA115Name=Mẩu Đất Ma Thuật
+tagGDX1CompA115Desc="Mẩu đất chứa đựng tinh hoa của sự sống thúc đẩy sự hồi phục và phát triển."^w^n(Sử dụng cho Tất Cả Các Bộ Phận của Giáp Phục)
+
+tagGDX1CompA116Name=Mảnh Giáp Ma Thuật
+tagGDX1CompA116Desc="Tàn tích của một chiếc áo giáp từng chịu đựng một đòn đánh ma thuật chết người; năng lượng của các loại ma thuật có vẻ như vẫn còn tồn tại trong đó."^w^n(Sử dụng cho Tất Cả Các Bộ Phận của Giáp Phục)
+
+tagGDX1CompA117Name=Mảnh Giáp Đao Kiếm
+tagGDX1CompA117Desc="Mảnh giáp được đính những hàng đao sắc bén. Được ưa chuộng bởi những kẻ cướp bóc và những tên bạo chúa ngang tàn."^w^n(Sử dụng cho Tất Cả Các Bộ Phận của Giáp Phục)
+
+tagGDX1CompA118Name=Da Thú Đầm Lầy Ugdenbog
+tagGDX1CompA118Desc="Lớp da từ các loại quái thú cư ngụ ở Đầm Lầy Ugdenbog. Bản chất khắc nghiệt của vùng đầm lầy này tạo ra những loài quái thú mạnh mẽ nhất trên lục địa Cairn."^w^n(Sử dụng cho Tất Cả Các Bộ Phận của Giáp Phục)
+
+
+tagGDX1CompB101Name=^kMảnh Giáp Thánh
+tagGDX1CompB101Desc="Mảnh giáp từ một bộ giáp đã từng rất quyền uy, người ta đồn rằng nó được ban phước bởi chính Empyrion."^w^n(Sử dụng cho Vai, Áo Giáp và Mũ)
+
+tagGDX1CompB102Name=^kMảnh Giáp Xác Thịt
+tagGDX1CompB102Desc="Mảnh giáp này có vẻ như được cấu tạo từ xác thịt sinh vật hơn là kim loại, nó quằn quại trong tay của bạn, rõ ràng là đã bị thao túng bởi các sinh vật Aether."^w^n(Sử dụng cho Vai, Áo Giáp và Mũ)
+
+tagGDX1CompB103Name=^kMảnh Giáp Titan
+tagGDX1CompB103Desc="Một loại mảnh giáp cực kỳ dày. Bộ giáp hoàn chỉnh chắc hẳn nặng đến mức không người đàn ông bình thường nào chịu đựng được, tuy nhiên vẫn có thể cử động thoải mái khi mặc vào."^w^n(Sử dụng cho Áo Giáp và Mũ)
+
+tagGDX1CompB104Name=^kGương Thần Bí
+tagGDX1CompB104Desc="Mặt gương toả ra nhiều màu sắc, nhìn chằm chằm vào nó khiến đầu đau nhức khó chịu, như thể đang nhìn qua một thế giới khác."^w^n(Sử dụng cho Áo Giáp và Mũ)
+
+tagGDX1CompB105Name=^kDấu Ấn Huỷ Diệt
+tagGDX1CompB105Desc="Dấu Ấn này mang đến cảm giác bạo lực và giết chóc dù chỉ chạm nhẹ một cái. Nó thèm khát cái chết."^w^n(Sử dụng cho Dây Chuyền)
+
+tagGDX1CompB106Name=^kDấu Ấn Tổ Tiên
+tagGDX1CompB106Desc="Dấu ấn ma thuật khơi gợi ký ức về tổ tiên của bạn, ngay cả những người mà bạn chưa bao giờ gặp trên cuộc đời này."^w^n(Sử dụng cho Dây Chuyền)
+
+
+
+
+#ItemFactionBoosters
+tagGDX1BoosterCU_A01=Giấy Chứng Nhận của Hội Phù Thuỷ Ugdenbog
+tagGDX1BoosterCU_B01=Giấy Uỷ Quyền của Hội Phù Thuỷ Ugdenbog
+tagGDX1BoosterCW_A01=Giấy Chứng Nhận của Barrowholm
+tagGDX1BoosterCW_B01=Giấy Uỷ Quyền của Barrowholm
+tagGDX1BoosterPM_A01=Giấy Chứng Nhận của Người Dân Malmouth
+tagGDX1BoosterPM_B01=Giấy Uỷ Quyền của Người Dân Malmouth
+
+tagGDX1BoosterAetherialVanguard_C01=Lệnh Truy Nã của Quân Tiên Phong Aether
+tagGDX1BoosterWendigo_C01=Lệnh Truy Nã của Barrowholm
+tagGDX1BoosterBeast_C01=Lệnh Truy Nã của Quái Thú
+tagGDX1BoosterBeastDesc=Rõ ràng là được viết bởi một tên groble, người trong tấm hình vẽ nguệch ngoạc trên đó trông khá là dữ dằn và bạn chắc chắn đó chính là mình.
+
+#Misc
+
+
+# Bonuses
+
+#Devotion
+
+#Attributes
+tagAttributeReset={^E}Sử dụng để phân phối lại Điểm Tiềm Năng
+tagAttributeNoPointsUsed={^r}[Không có Điểm Tiềm Năng nào để phân phối lại]
+tagAttributeResetConfirmation=Bạn có muốn phân phối lại tất cả Điểm Tiềm Năng của mình?
+
+#ItemSets
+tagGDX1ItemSetC018CName=Nỗi Đau của Alkamos
+
+tagGDX1ItemSetC101Name=Kẻ Tha Hoá Lý Trí
+tagGDX1ItemSetC101BName=Kẻ Tha Hoá Linh Hồn
+tagGDX1ItemSetC101Desc="Các linh hồn bị khuất phục bởi ý chí của bạn."
+
+tagGDX1ItemSetC102Name=Hộ Vệ Bạc
+tagGDX1ItemSetC102BName=Vệ Binh Bạc
+tagGDX1ItemSetC102Desc="Các Hộ Vệ Bạc của hoàng gia ngày đêm duy trì sự cảnh giác cao độ đối với các thế lực sử dụng ma thuật, bí thuật để bảo vệ vương quốc khỏi các hiểm hoạ gây ra từ chúng."
+
+tagGDX1ItemSetC103Name=Hoả Tiên Tri
+tagGDX1ItemSetC103Desc="Trái tim bạn như một hòn than rực lửa, không thể dập tắt và thèm khát sự huỷ diệt."
+
+tagGDX1ItemSetC104Name=Lãnh Chúa Pháp Thuật
+tagGDX1ItemSetC104Desc="Vật phẩm mang tính biểu trưng từng được sử dụng bởi Holgus Evellion, thành viên đáng kính của toà án hoàng gia, đồng thời là một Ma Pháp Sư."
+
+tagGDX1ItemSetC105Name=Kẻ Gieo Rắc Sợ Hãi
+tagGDX1ItemSetC105Desc="Sự hiện diện của Kẻ Gieo Rắc Sợ Hãi khiến những sinh vật sống gần đó bị suy yếu và tàn lụi mà không rõ nguyên nhân."
+
+tagGDX1ItemSetC106Name=Trang Phục Luminari
+tagGDX1ItemSetC106Desc="Trang bị đặc biệt của Hội Luminari, ban cho các thành viên cấp cao khi thực hiện những nhiệm vụ nguy hiểm."
+
+tagItemSetC009BName=Cặp Mắt Vô Hình
+tagItemSetC010BName=Nghĩa Vụ của Tay Súng Thiện Xạ
+tagItemSetC011BName=Giao Kèo của Kẻ Báng Bổ
+tagItemSetC016BName=Tuyệt Phẩm của Panetti
+tagItemSetC017BName=Thủ Hộ Bình Minh
+tagItemSetC021BName=Lời Thề Phương Đông
+tagItemSetC024BName=Người Giữ Lửa
+tagItemSetC025BName=Hàng Phòng Ngự của Callidor
+tagItemSetC026BName=Đồn Trú Kẻ Đánh Thuê
+tagItemSetC027BName=Hoà Ước của Mogdrogen
+tagItemSetC028BName=Cơn Bão Ma Thuật
+tagItemSetC029BName=Sự Hài Hoà của Nguyên Tố
+
+
+tagGDX1ItemSetD101Name=Quân Phục của Krieg
+tagGDX1ItemSetD101Desc="Bộ giáp của tên cai ngục cũ Làng Burrwitch, mãi mãi bị biến dạng bởi năng lượng Aether ô uế."
+
+tagGDX1ItemSetD102Name=Thiên Nhiên Phục Hận
+tagGDX1ItemSetD102Desc="Bộ giáp được Mogdrogen ban phước, được mặc bởi các chiến binh vĩ đại chiến đấu bảo vệ trật tự tự nhiên."
+
+tagGDX1ItemSetD103Name=Người Dẫn Lối Linh Hồn
+tagGDX1ItemSetD103Desc="Sức mạnh vĩ đại ẩn sau bức màn giữa hai thế giới. Học cách chế ngự nó, và cái chết bản thân nó sẽ chẳng là gì ngoài một trò tiêu khiển. - Uroboruuk"
+
+tagGDX1ItemSetD104Name=Nhiệt Huyết của Octavius
+tagGDX1ItemSetD104Desc="Octavius Gallador là một trong những sát thủ có nhiều đóng góp to lớn cho Hội Luminari, phụng sự Hội Trưởng cho đến hơi thở cuối cùng."
+
+tagGDX1ItemSetD105Name=Huỷ Diệt
+tagGDX1ItemSetD105Desc="Vì lý do an toàn, các bảo vật này bị phân thành nhiều mảnh và cất giấu bởi Hội Luminari, vì e sợ một ai đó sẽ lại tìm thấy và phóng thích sức mạnh huỷ diệt bên trong chúng."
+
+tagGDX1ItemSetD106Name=Thạch Hộ Vệ
+tagGDX1ItemSetD106Desc="Trang bị của Thạch Hộ Vệ, một vệ binh trung thành với Đức Tin Menhir."
+
+tagGDX1ItemSetD107Name=Pháo Đài của Quân Đoàn
+tagGDX1ItemSetD107Desc="Trang bị của Palliona Dar, nữ kỵ sĩ của Quân Đoàn Đen."
+
+tagGDX1ItemSetD108Name=Cơn Cuồng Nộ của Korba
+tagGDX1ItemSetD108Desc="Giáp của Korba, đứa con gái ngỗ ngược của Hrothnar, người có biệt danh là Nanh Sói Trắng Khổng Lồ."
+
+tagGDX1ItemSetD109Name=Trang Bị Hắc Hoả
+tagGDX1ItemSetD109Desc="Trang bị được Thần Phù Thuỷ Solael khắc ấn, ban cho bầy tôi trung thành trong thời kỳ chiến tranh ác liệt giữa ba vị thần."
+
+tagGDX1ItemSetD110Name=Tai Ương Ma Pháp
+tagGDX1ItemSetD110Desc="Sự kết hợp khó tin giữa kỹ năng chiến đấu và sức mạnh ma pháp, ẩn tàng trong bộ giáp chiến đấu này."
+
+tagGDX1ItemSetD111Name=Thợ Săn Pháp Sư
+tagGDX1ItemSetD111Desc="Bộ giáp của những Thợ Săn Pháp Sư, một nhánh nhỏ của Hội Luminari được huấn luyện bởi các Đao Sĩ Bóng Đêm chuyên trừ khử những tên tội phạm sử dụng phép thuật trong vương quốc."
+
+tagGDX1ItemSetD112Name=Cơn Khát của Valguur
+tagGDX1ItemSetD112Desc="Valguur bị trúng một lời nguyền khiến bản thân luôn thèm khát dữ dội sự sống của các sinh vật khác, nhưng nhờ vậy mà ông ta được ban phước bởi Ravager - một linh hồn Wendigo."
+
+tagGDX1ItemSetD113Name=Cổ Ngữ Phong Ấn Giả
+tagGDX1ItemSetD113Desc="Giáp bảo hộ của Cổ Ngữ Phong Ấn Giả Tallios, người quản lý đầu tiên của Mật Thất Hội Luminari."
+
+tagGDX1ItemSetD114Name=Ngoại Trang của Uroboruuk
+tagGDX1ItemSetD114Desc="Trang phục của Tử Linh Pháp Sư bất tử Uroboruuk khi còn xuất hiện ở Arkovia; dù bị thất lạc từ xa xưa nhưng vẫn còn chứa đựng những quyền năng tiềm tàng."
+
+tagGDX1ItemSetD115Name=Kiệt Tác của Allagast
+tagGDX1ItemSetD115Desc="Đại Pháp Sư Allagast là đồng minh thân thiết của Hội Luminari, đã đóng góp rất nhiều trong quá trình nghiên cứu cũng như kích hoạt sức mạnh tiềm ẩn trong các bảo vật của hội."
+
+tagGDX1ItemSetD116Name=Sự Huỷ Diệt của Dagallon
+tagGDX1ItemSetD116Desc="Dagallon là một Người Phán Quyết không chính thống. Những phương pháp của ông thường nhận nhiều lời chỉ trích, tuy nhiên rất ít thành viên Luminari thật sự quan tâm đến việc làm sao để đưa những kẻ dị giáo ra pháp luật."
+
+tagGDX1ItemSetD117Name=Hộ Vệ Tử Thần
+tagGDX1ItemSetD117Desc="Người canh gác thung lũng, và là người bảo vệ cánh cổng cuối cùng."
+
+tagGDX1ItemSetD118Name=Tầm Nhìn của Nhà Tiên Tri
+tagGDX1ItemSetD118Desc="Những vì sao chứa đựng rất nhiều bí mật, chúng chỉ thì thầm vào tai những ai đủ can đảm để lắng nghe."
+
+tagGDX1ItemSetD119Name=Món Quà từ Kẻ Hắc Ám
+tagGDX1ItemSetD119Desc="Một món quà từ Ch'thon ban cho những phàm nhân chào đón sự trở về của ông ta."
+
+tagGDX1ItemSetD120Name=Sự Cuồng Sát của Belgothian
+tagGDX1ItemSetD120Desc="Bộ giáp từng được mặc bởi Đao Kiếm Đại Sư điều tiếng Belgothian, sự khát máu và cuồng sát của ông ta khiến ngay cả những kẻ phục tùng cảm thấy lo sợ."
+
+tagGDX1ItemSetD121Name=Sự Điên Cuồng của Radaggan
+tagGDX1ItemSetD121Desc="Bộ giáp của Astor Radaggan, kẻ theo tà đạo và là tên phản đồ của Hội Luminari vì đã chuyển sang trung thành với Thần Bảo Hộ Vĩ Đại."
+
+tagGDX1ItemSetD122Name=Lưỡi Băng
+tagGDX1ItemSetD122Desc="Giáp của Lưỡi Băng, thành viên bí ẩn của Toà Án Hoàng Gia, bậc thầy trong lĩnh vực đột nhập và gây rối chính trị."
+
+tagGDX1ItemSetD123Name=Huyết Kỵ Sĩ
+tagGDX1ItemSetD123Desc="Giáp phục đẫm máu của Lãnh Chúa Nazaran - Huyết Vương, ngày trước được biết đến với tên gọi Huyết Kỵ Sĩ."
+
+
+tagItemSetD001BName=Thẩm Phán Bảo Hộ
+tagItemSetD002BName=Sự Hài Hoà Thần Thánh
+tagItemSetD003BName=Biểu Tượng của Tiếng Gọi Thiên Nhiên
+tagItemSetD004BName=Ánh Sáng của Người Tìm Bình Minh
+tagItemSetD005BName=Lời Nhắn từ Sứ Giả
+tagItemSetD006BName=Dấu Ấn của Thẩm Phán
+tagItemSetD007BName=Trang Bị của Kẻ Diệt Quỷ
+tagItemSetD008BName=Vũ Khí Huỷ Diệt của Thợ Rèn Súng
+tagItemSetD009BName=Người Tiên Phong Hoang Dã
+tagItemSetD010BName=Sự Tập Trung của Trí Giả
+tagItemSetD011BName=Ý Chí Người Cầu Nguyện
+tagItemSetD012BName=Thành Luỹ của Markovian
+tagItemSetD013BName=Hiện Thân Rực Lửa của Ulzuin
+tagItemSetD014BName=Sự Lừa Dối của Dreeg
+tagItemSetD015BName=Bóng Ma của Tử Ấn
+tagItemSetD016BName=Sự Hợp Nhất của Iskandra
+tagItemSetD017BName=Cơn Cuồng Phong của Ultos
+tagItemSetD018BName=Lỗ Thủng Bầu Trời của Trozan
+tagItemSetD019BName=Sự Phản Bội của Valdun
+tagItemSetD020BName=Khế Ước của Tà Đao Sĩ
+tagItemSetD021BName=Khế Ước Hắc Hoả
+tagItemSetD022BName=Người Bảo Vệ Ánh Sáng
+tagItemSetD023BName=Hoả Ngục Đấu Sĩ
+tagItemSetD024BName=Cơn Thịnh Nộ của Agrivix
+tagItemSetD025BName=Thành Luỹ Chiến Tranh
+tagItemSetD026BName=Sự Điên Cuồng Vô Tận của Huyết Nộ Giả
+tagItemSetD027BName=Dấu Ấn Kinh Hoàng của Alkamos
+
+
+#Prefixes
+tagGDX1PrefixAA101=Enlightening
+
+tagGDX1PrefixAA022={^Y}Inquisitor's
+tagGDX1PrefixAA023={^Y}Necromancer's
+
+tagGDX1PrefixAD101=Impenetrable
+
+tagGDX1PrefixAO101=Superior
+
+tagGDX1PrefixB101_WpnMelee1h_A={^G}Essence Drinker's
+tagGDX1PrefixB102_WpnMelee1h_A={^G}Stonefaced
+tagGDX1PrefixB103_WpnMelee1h_A={^G}Runecarved
+tagGDX1PrefixB104_WpnMelee1h_A={^G}Wraithbound
+tagGDX1PrefixB105_WpnMelee1h_A={^G}Magestorm
+
+tagGDX1PrefixB101_Ar_A={^G}Stonefaced
+tagGDX1PrefixB102_Ar_A={^G}Runecarved
+tagGDX1PrefixB103_Ar_A={^G}Wraithbound
+tagGDX1PrefixB104_Ar_A={^G}Magestorm
+
+tagPrefixB022_Class_A={^G}Tactician's
+tagPrefixB023_Class_A={^G}Purifier's
+tagPrefixB024_Class_A={^G}Deceiver's
+tagPrefixB025_Class_A={^G}Infiltrator's
+tagPrefixB026_Class_A={^G}Mage Hunter's
+tagPrefixB027_Class_A={^G}Vindicator's
+tagPrefixB028_Class_A={^G}Apostate's
+tagPrefixB029_Class_A={^G}Death Knight's
+tagPrefixB030_Class_A={^G}Defiler's
+tagPrefixB031_Class_A={^G}Cabalist's
+tagPrefixB032_Class_A={^G}Reaper's
+tagPrefixB033_Class_A={^G}Spellbinder's
+tagPrefixB034_Class_A={^G}Ritualist's
+tagPrefixB035_Class_A={^G}Interrogator's
+tagPrefixB036_Class_A={^G}Theurgist's
+
+tagGDX1PrefixB101_Sh_A={^G}Essence Drinker's
+tagGDX1PrefixB102_Sh_A={^G}Bileridden
+tagGDX1PrefixB103_Sh_A={^G}Runecarved
+tagGDX1PrefixB104_Sh_A={^G}Magestorm
+tagGDX1PrefixB105_Sh_A={^G}Wraithbound
+tagGDX1PrefixB106_Sh_A={^G}Wraithwarded
+tagGDX1PrefixB107_Sh_A={^G}Stonefaced
+
+
+#Suffixes
+tagGDX1SuffixA101=of 
+
+tagGDX1SuffixB101_Wpn_A={^G}of Tormented Souls
+tagGDX1SuffixB102_Wpn_A={^G}of Soulwarding
+tagGDX1SuffixB103_Wpn_A={^G}of Scorched Runes
+tagGDX1SuffixB104_Wpn_A={^G}of Caged Souls
+tagGDX1SuffixB105_Wpn_A={^G}of Celestial Wrath
+
+tagGDX1SuffixB101_Ar_A={^G}of Tormented Souls
+tagGDX1SuffixB102_Ar_A={^G}of Tormented Souls
+tagGDX1SuffixB103_Ar_A={^G}of Soulwarding
+tagGDX1SuffixB104_Ar_A={^G}of Scorched Runes
+tagGDX1SuffixB105_Ar_A={^G}of Caged Souls
+tagGDX1SuffixB106_Ar_A={^G}of Caged Souls
+
+tagGDX1SuffixB101_Sh_A={^G}of Tormented Souls
+tagGDX1SuffixB102_Sh_A={^G}of Scorched Runes
+tagGDX1SuffixB103_Sh_A={^G}of Caged Souls
+tagGDX1SuffixB104_Sh_A={^G}of Celestial Wrath
+tagGDX1SuffixB105_Sh_A={^G}of Arcane Barriers
+tagGDX1SuffixB106_Sh_A={^G}of Imposing Presence
+
+
+#ItemSkills
+
+
+#LootChests
+
+tagGDX1ChestWoodA01=Rương Rỉ Sét
+tagGDX1ChestAltarD01=Tế Đàn Wendigo
+tagGDX1ChestMalmouthC01=Rương Thép
+tagGDX1ChestMalmouthD01=Rương Tinh Xảo
+tagGDX1ChestFleshC01=Rương Bọc Thịt
+tagGDX1ChestFleshD01=Rương Xác Thịt
+
+tagGDX1ChestSpecial01=Rương Huyền Bí
+tagGDX1ChestBucket01=Xác Chết Kẻ Không May
+
+tagGDX1ChestFleshshaper=Kho Báu của Lãnh Chúa
+tagGDX1ChestNemesis03=Kho Báu của Đấu Sĩ
+
+tagGDX1ChestSecret01=Kho Báu Xác Thịt
+
+tagGDX1BreakableA01=Gốc Cây Thối Rữa
+tagGDX1BreakableA02=Kho Báu Hội Phù Thuỷ
+tagGDX1Breakable_UgdenbogA01=Nấm Đầm Lầy Ugdenbog
+tagGDX1Breakable_WendigoDoor=Chuồng Nhốt của Wendigo
+
+tagGDX1ChestBoss_Kraken=Rương Báu Chứa Đầy Nước
+tagGDX1Chest_Barrowholm=Tư Trang của Scorv
+tagGDX1Chest_DravisClue=Bục Giảng Cũ
+
+tagGDX1ChestBossOneShot_Fleshshaper=Bộ Sưu Tập của Lãnh Chúa
+tagGDX1ChestOneShot_Flesh=Kho Tàng Xác Thịt
+tagGDX1ChestOneShot_GloomwaldHidden=Kho Tàng của Nane
+tagGDX1ChestOneShot_MalmouthHidden=Kho Tàng của Rictor
+
+tagGDX1Chest_MadRamblingsReward=Món Quà từ Ivonda
+tagGDX1Chest_MadRamblingsLoot=Kho Báu của Ivonda
+tagGDX1Chest_MadRamblingsNote=Rương của Ivonda
+
+tagGDX1Chest_KatrineCorpse=Thi Hài của Katrine
+tagGDX1Chest_RenochCorpse=Thi Hài của Renoch
+tagGDX1Chest_UnknownCorpse=Xác Chết Thối Rữa
+tagGDX1ChestGauntletChestD01=Hòm Châu Báu Thất Lạc
+
+#Interactive Objects
+
+tagGDX1DoorWendigoLocked= {^R} ~ Bị Khoá bởi Scorv Egdenor
+tagGDX1DoorPuppetmasterLocked= {^R} ~ Bị Khoá bởi bọn Aetherial
+tagGDX1DoorSlumsLocked= {^R} ~ Bị Khoá bởi Quân Kháng Chiến
+tagGDX1DoorDocksLocked= {^R} ~ Bị Khoá bởi bọn Aetherial
+tagGDX1DoorEnclaveLocked= {^R} ~ Bị Khoá bởi bọn Aetherial
+
+tagGDX1LeverFleshFactory=Tinh Thể Aether
+tagGDX1AetherialRift=Cổng Dịch Chuyển Aetherial
+
+
+#Quest Items
+
+
+#Breakables
+tagGDX1Quest_CorpseWagon_01=Xe Chở Xác của Aetherial
+tagGDX1Quest_FactoryVent=Lỗ Thông Hơi Xác Thịt
+tagGDX1Quest_ObsidianCrystal=Hắc Diệu Thạch Khắc Cổ Ngữ
+
+#Dungeon Doors
+tagGDX1UGDoorFactoryEntrance=Lối Vào Phủ Đầy Thịt Người
+tagGDX1UGDoorSlums=Quận Thắp Nến
+tagGDX1UGDoorIndust=Quận Mũ Thép
+tagGDX1UGDoorHideout=Trại tị nạn Quân Kháng Chiến
+tagGDX1UGDoorFactoryGeneric=Cửa Xác Thịt
+tagGDX1UGDoorFactoryHeart=Trung Tâm Xưởng Thịt
+tagGDX1UGDoorSewerGeneric=Đường Cống Thoát Nước
+tagGDX1RiftVoidExit=Lối Thoát Hư Không
+tagGDX1WendioDoor=Lối Vào Hầm Chứa
+tagGDX1WitchDoor=Lối Vào Nơi Trú Ẩn
+tagGDX1FleshFactoryDoor=Lối Vào Phủ Đầy Thịt Người
+tagGDX1DoorMapleStump01=Lối Vào Thân Cây Rỗng
+tagGDX1DoorOvergrownCave=Lối Vào Hang Dưới Rễ Cây
+tagGDX1DoorLighthouse=Lối Vào Ngọn Hải Đăng
+tagGDX1CarraxusDoor=Hang của Carraxus
+
+tagGDX1DoorOneWayAncientGrove=Thoát khỏi Khu Rừng Cổ Xưa
+tagGDX1EpicDoor_AncientGrove=Cổng vào Khu Rừng Cổ Xưa
+tagGDX1EpicDoor_AncientGroveLocked= {^R} ~ Bị Phong Ấn bởi Mogdrogen (Yêu cầu một chiếc Chìa Khoá Xương)
+
+#Doors
+tagGDX1Door_Vine=Dây Leo
+tagGDX1Door_Flesh=Cửa Thịt Sống
+tagGDX1Door_Puppetmaster=Cửa Thịt Sống
+
+
+#DLC
+tagGDX1DLCIllusionA01=Ảo Ảnh: Kỵ Sĩ Bóng Đêm
+tagGDX1DLCA01=Bộ Giáp của Kỵ Sĩ Bóng Đêm
+tagGDX1DLCA01Desc="Bộ giáp của Kỵ Sĩ Bóng Đêm Tà Ác."
+
+
+tagGDX1DLCIllusionA02=Ảo Ảnh: Kỵ Sĩ Bạc
+tagGDX1DLCA02=Bộ Giáp của Kỵ Sĩ Bạc
+tagGDX1DLCA02Desc="Bộ giáp của Kỵ Sĩ Bạc Thần Thánh."
+
+tagGDX1DLCIllusionA03=Ảo Ảnh: Long Thần Tướng
+tagGDX1DLCA03=Bộ Giáp của Long Thần Tướng
+tagGDX1DLCA03Desc="Bộ giáp của Long Thần Tướng Cao Quý."
+
+tagGDX1DLCIllusionA04=Ảo Ảnh: Bạch Pháp Sư
+tagGDX1DLCA04=Trang Phục của Bạch Pháp Sư
+tagGDX1DLCA04Desc="Bộ trang phục của Bạch Pháp Sư Huyền Bí."
+
+tagGDX1DLCIllusionA05=Ảo Ảnh: Hắc Pháp Sư
+tagGDX1DLCA05=Trang Phục của Hắc Pháp Sư
+tagGDX1DLCA05Desc="Bộ trang phục của Hắc Pháp Sư Độc Ác."
+
+tagGDX1DLCIllusionA06=Ảo Ảnh: Sói Thần
+tagGDX1DLCA06=Bộ Giáp của Sói Thần
+tagGDX1DLCA06Desc="Bộ giáp của Sói Thần Cuồng Bạo."
+
+tagGDX1DLCIllusionB01=Ảo Ảnh: Giáp Thánh Của Mogdrogen
+tagGDX1DLCB01=Giáp Thánh Của Mogdrogen
+tagGDX1DLCB01Desc="Giáp của thần thú, Mogdrogen."
+
+tagGDX1DLCIllusionB02=Ảo Ảnh: Y Phục Thánh Của Rattosh
+tagGDX1DLCB02=Y Phục Thánh Của Rattosh
+tagGDX1DLCB02Desc="Lễ phục của người canh giữ bức màn thực tại, Rattosh."
+
+tagGDX1DLCIllusionB03=Ảo Ảnh: Giáp Thánh Của Empyrion
+tagGDX1DLCB03=Giáp Thánh Của Empyrion
+tagGDX1DLCB03Desc="Áo giáp của vị thần vĩ đại nhất trong số các vị thần, Empyrion."
+
+tagGDX1DLCIllusionB04=Ảo Ảnh: Lễ Phục Thánh Của Ch'thon
+tagGDX1DLCB04=Lễ Phục Thánh Của Ch'thon
+tagGDX1DLCB04Desc="Dây xích bị đứt của vị thần đã chết, Ch'thon."
+
+tagGDX1DLCIllusionB05=Ảo Ảnh: Lễ Phục Của Hội Đồng Ngũ Vương
+tagGDX1DLCB05=Lễ Phục Của Hội Đồng Ngũ Vương
+tagGDX1DLCB05Desc="Lễ phục của những người cai trị Aether, Hội Đồng Ngũ Vương."
+
+tagGDX1DLCIllusionHelmInvisible=Mũ Vô Hình
+tagGDX1DLCIllusionHelmInvisibleDesc="100% khả năng bảo vệ với 0% trọng lượng. Hoàn toàn không bơ sữa."
+
+tagGDX1DLCIllusionShouldersInvisible=Vai Vô Hình
+tagGDX1DLCIllusionShouldersInvisibleDesc="100% khả năng bảo vệ với 0% trọng lượng. Hoàn toàn không bơ sữa."
+
+tagGDX1DLCIllusionMedalInvisible=Huân Chương Vô Hình
+tagGDX1DLCIllusionMedalInvisibleDesc="100% khả năng nhận biết mà không cần phải ghim vào ngực áo. Hoàn toàn không bơ sữa."
+
+

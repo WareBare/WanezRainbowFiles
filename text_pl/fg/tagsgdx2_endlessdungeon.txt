@@ -1,0 +1,235 @@
+#Region Names
+tagGDX2MapEndlessDungeon=Roztrzaskana Kraina
+tagGDX2MapEndlessBoss=Strażnik Roztrzaskanych Włości
+tagGDX2MapEndlessTreasure=Wspaniałości Roztrzaskanej Krainy 
+
+#Shattered Bosses
+tagGDX2EndlessDungeon_Boss01=Warden Kriev, Roztrzaskany Strażnik
+tagGDX2EndlessDungeon_Boss02=Darius Connolay, Roztrzaskana Dusza
+tagGDX2EndlessDungeon_Boss03=Karriv Złamany
+tagGDX2EndlessDungeon_Boss03B=Dusza Karriva
+tagGDX2EndlessDungeon_Boss04=Ekket'Zal, Zwiastun Yugola
+tagGDX2EndlessDungeon_Boss05=Theodin Maurin, Rzeźbiarz Roztrzaskania
+tagGDX2EndlessDungeon_Boss06=Roztrzaskany Gospodarz
+tagGDX2EndlessDungeon_Boss07=Lucian, Dowódca Roztrzaskanych
+tagGDX2EndlessDungeon_Boss08=Alkamir, Roztrzaskany Egzekutor
+tagGDX2EndlessDungeon_Boss09=Shar'Zal, Potomek Yugola
+tagGDX2EndlessDungeon_Boss10=Gargaban, Roztrzaskane Serce
+tagGDX2EndlessDungeon_Boss11=Roztrzaskany Wartownik
+tagGDX2EndlessDungeon_Boss12=Roztrzaskany Wygnaniec
+tagGDX2EndlessDungeon_Boss13=Salazin Roztrzaskane Ostrze
+tagGDX2EndlessDungeon_Boss14=Hinass Stwórca Roztrzaskanych
+tagGDX2EndlessDungeon_Boss15=Strój Roztrzaskanych Bram
+tagGDX2EndlessDungeon_Boss16=Uosobienie Głodu
+tagGDX2EndlessDungeon_Boss16_Tentacle=Odnóże Głodomora
+tagGDX2EndlessDungeon_Boss16_Void=Wygłodniała Otchłań
+
+tagGDX2EndlessDungeon_Special01=Fanatyk ~ Kult Kopalni
+tagGDX2EndlessDungeon_Special02=Gazer Prymus
+tagGDX2EndlessDungeon_Special03=Poszukiwacz Przeklętych
+tagGDX2EndlessDungeon_Special04=Skrzynia Rozrywki
+tagGDX2EndlessDungeon_Special05=Skromna Skrzynia
+tagGDX2EndlessDungeon_Special06=NAZWIJ MNIE
+tagGDX2EndlessDungeon_Special07=Całkowicie Zwyczajna Przerośnięta Larwa
+tagGDX2EndlessDungeon_Special07B=Przerośnięta Larwa
+tagGDX2EndlessDungeon_Special08=Duch Skrzyni
+tagGDX2EndlessDungeon_Special09=Dromader Bielonej Kości
+tagGDX2EndlessDungeon_Special10=Dromader Bielonej Kości ~ Czempion
+tagGDX2EndlessDungeon_Special11=Dromader Bielonej Kości ~ Obserwator
+tagGDX2EndlessDungeon_Special12=Wygłodniała Larwa
+tagGDX2EndlessDungeon_Special13=Rozpalona Larwa
+tagGDX2EndlessDungeon_Special14=Wzdęta Larwa
+tagGDX2EndlessDungeon_Special15=Spasiona Larwa
+tagGDX2EndlessDungeon_Special16=Niestabilny Pożeracz
+tagGDX2EndlessDungeon_Special17=Wzdęty Pożeracz
+tagGDX2EndlessDungeon_Special18=Głodomór
+
+tagGDX2EndlessDungeon_Lever01=Czerwona Dźwignia
+tagGDX2EndlessDungeon_Lever02=Zielona Dźwignia
+tagGDX2EndlessDungeon_Lever03=Niebieska Dźwignia
+tagGDX2EndlessDungeon_Lever04=Żółta Dźwignia
+tagGDX2EndlessDungeon_Lever05=Filetowa Dźwignia
+tagGDX2EndlessDungeon_Lever06=Biała Dźwignia
+tagGDX2EndlessDungeon_Door01=Zaczarowana Krata
+tagGDX2EndlessDungeon_Door01_Lock= {^R} ~ Zablokowana przez pobliskie dźwignie
+
+
+tagGDX2EndlessDungeon_Boss_Skill01=Wygłodniały Byt
+tagGDX2EndlessDungeon_Boss_Skill01_Desc=Głód ciemności przyciąga cię, redukując twoje zdrowie.
+
+tagGDX2EndlessDungeon_Boss_Summon01=Niebiański Robal
+tagGDX2EndlessDungeon_Boss_Summon02=Wygłodniały Mrok
+tagGDX2EndlessDungeon_Boss_Summon02_Skill=Wygłodniała Ciemność
+tagGDX2EndlessDungeon_Boss_Summon02_Skill_Desc=Głodny chłód nieskończonej ciemności pochłania cię ... powoli ...
+
+tagGDX2EndlessDungeon_S201=Całkowicie Normalna Tarcza
+tagGDX2EndlessDungeon_S201_Desc="Leworęczni zrozumieją."
+tagGDX2EndlessDungeon_S202={^L}Halabarda Bielonej Kości
+tagGDX2EndlessDungeon_S203={^I}Pierścień Leovinusa
+tagGDX2EndlessDungeon_S203_Desc="Świetnie zachowany pierścień wykonany z dziwnego, bardzo plastycznego materiału. Wygląda raczej głupio."
+
+
+#NPCs
+tagGDX2EndlessDungeon_NPC_Event01=Mazaan, Opiekun Portali
+
+tagGDX2EndlessDungeon_NPC_Merchant01=Ullana
+tagGDX2EndlessDungeon_ StoreTitle_Merchant01=Kramarz z Roztrzaskanej Krainy
+tagGDX2EndlessDungeon_ StoreTitle_Merchant02=Giermek z Roztrzaskanej Krainy
+tagGDX2EndlessDungeon_ StoreTitle_Merchant03=Rycerz z Roztrzaskanej Krainy
+tagGDX2EndlessDungeon_ StoreTitle_Merchant04=Pani z Roztrzaskanej Krainy
+tagGDX2EndlessDungeon_ StoreTitle_Merchant05=Strażnik z Roztrzaskanej Krainy
+
+
+tagGDX2EndlessDungeon_NPC_Smith01=Ikarrod
+tagGDX2EndlessDungeon_StoreTitle_Smith01=Przeklęty Kowal
+tagGDX2EndlessDungeon_StoreDesc_Smith01_1={}Dar Życia
+tagGDX2EndlessDungeon_StoreDesc_Smith01_2=Ikarrod posiada wielowiekową wiedzę kowalską, wzmocnioną przez jego dość unikalny... stan istnienia.
+tagGDX2EndlessDungeon_StoreDesc_Smith01_3= 
+tagGDX2EndlessDungeon_StoreDesc_Smith01_4=Wytworzone bronie, pancerze czy akcesoria otrzymują dodatkowo jedną z poniższych statystyk:
+
+tagGDX2EndlessDungeon_NPC_Smuggler01=Agnath
+tagGDX2EndlessDungeon_StoreTitle_Smuggler01=Nieśmiertelny Szmugler
+
+tagGDX2EndlessDungeon_NPC_Reallocator01=Rathia
+tagGDX2EndlessDungeon_StoreTitle_Reallocator01=Duchowy Przewodnik
+
+tagGDX2EndlessDungeon_NPC_Inventor01=Laduna
+tagGDX2EndlessDungeon_StoreTitle_Inventor01=Roztrzaskany Wynalazca
+
+tagGDX2EndlessDungeon_NPC_PowerUps01=Callagadra, Potomek Piasków
+
+#Shrines
+tagGDX2EndlessDungeon_Shrine01=Kapliczka Azrakaa
+tagGDX2EndlessDungeon_Shrine01_Desc=Zawrzyj pakt z Azrakaa, dzięki czemu zwiększysz szybkość przemieszczania się, a twoje ataki będą miotać w przeciwników widmowe ostrza.
+tagGDX2EndlessDungeon_Shrine01Skill=Interes Azrakaa
+tagGDX2EndlessDungeon_Shrine01Skill_Desc=Zawierasz umowę z Azrakaa, dzięki czemu zwiększysz szybkość przemieszczania się, a twoje ataki będą miotać w przeciwników widmowe ostrza.
+tagGDX2EndlessDungeon_Shrine01SkillProc=Widmowe ostrze
+
+tagGDX2EndlessDungeon_Shrine02=Kapliczka Olerona
+tagGDX2EndlessDungeon_Shrine02_Desc=Napełnij się żądzą krwi Olerona, dzięki czemu zwiększysz szybkość przemieszczania się, a do tego znacznie zwiększysz zdolności ofensywne.
+tagGDX2EndlessDungeon_Shrine02Skill=Żądza krwi Olerona
+tagGDX2EndlessDungeon_Shrine02Skill_Desc=Wypełnia cię żądza krwi Olerona, która zwiększa szybkość przemieszczania się, a do tego znacznie zwiększa zdolności ofensywne.
+
+tagGDX2EndlessDungeon_Shrine03=Kapliczka Rattosha
+tagGDX2EndlessDungeon_Shrine03_Desc=Zyskaj moc strażnika zasłony, dzięki czemu zwiększysz szybkość przemieszczania się, a do tego twoje ataki będą wysysać życie z twoich przeciwników.
+tagGDX2EndlessDungeon_Shrine03Skill=Zasłona Rattosha
+tagGDX2EndlessDungeon_Shrine03Skill_Desc=Zyskujesz moc zasłony, dzięki czemu zwiększasz szybkość przemieszczania się, a do tego twoje ataki będą wysysać życie z twoich przeciwników.
+tagGDX2EndlessDungeon_Shrine03SkillProc=Wysysanie życia
+
+tagGDX2EndlessDungeon_Shrine04=Kapliczka Amatoka
+tagGDX2EndlessDungeon_Shrine04_Desc=Wysysaj ciepło z powietrza, dzięki czemu zwiększysz szybkość przemieszczania się, a do tego kierowane w twoją stronę ataki będą czasami wyzwalały zimny podmuch.
+tagGDX2EndlessDungeon_Shrine04Skill=Szept Amatoka
+tagGDX2EndlessDungeon_Shrine04Skill_Desc=Wysysasz ciepło z powietrza, dzięki czemu zwiększasz szybkość przemieszczania się, a do tego kierowane w twoją stronę ataki czasami wyzwalają zimny podmuch.
+tagGDX2EndlessDungeon_Shrine04SkillProc=Zimny podmuch
+
+tagGDX2EndlessDungeon_Shrine05=Kapliczka Śmierci
+tagGDX2EndlessDungeon_Shrine05_Desc=Zawrzyj pakt ze śmiercią, dzięki czemu zwiększysz szybkość przemieszczania się, a do tego staniesz się niezwyciężoną istotą.
+tagGDX2EndlessDungeon_Shrine05Skill=Śmiertelne pragnienia
+tagGDX2EndlessDungeon_Shrine05Skill_Desc=Zawierasz pakt ze śmiercią, dzięki czemu zwiększasz szybkość przemieszczania się, a do tego stajesz się niezwyciężoną istotą.
+
+
+#Powerups
+tagGDX2EndlessDungeon_Powerup01=Esencja Roztrzaskanej Krainy
+tagGDX2EndlessDungeon_Powerup01_Desc=Pochłaniasz duszę Roztrzaskanej Krainy, zapewniającą ogromną siłę i wytrzymałość na krótki czas. ^oTen efekt kumuluje się do 5 razy. Więcej poziomów na ładowania do zdobycia w kolejnych Skorupach.
+tagGDX2EndlessDungeon_Powerup02_Desc=Pochłaniasz duszę Roztrzaskanej Krainy, zapewniającą ogromną siłę i wytrzymałość na krótki czas. ^oTen efekt kumuluje się do 8 razy. Więcej poziomów na ładowania do zdobycia w kolejnych Skorupach.
+tagGDX2EndlessDungeon_Powerup03_Desc=Pochłaniasz duszę Roztrzaskanej Krainy, zapewniającą ogromną siłę i wytrzymałość na krótki czas. ^oTen efekt kumuluje się do 9 razy. Więcej poziomów na ładowania do zdobycia w kolejnych Skorupach.
+tagGDX2EndlessDungeon_Powerup04_Desc=Pochłaniasz duszę Roztrzaskanej Krainy, zapewniającą ogromną siłę i wytrzymałość na krótki czas. ^oTen efekt kumuluje się do 10 razy. Więcej poziomów na ładowania do zdobycia w kolejnych Skorupach.
+
+
+#Items
+tagGDX2EndlessDungeon_Essence_01=Roztrzaskana Dusza
+tagGDX2EndlessDungeon_Essence_02=Potężna Roztrzaskana Dusza
+tagGDX2EndlessDungeon_Essence_03=Niebiańska Roztrzaskana Dusza
+tagGDX2EndlessDungeon_Essence_04=Przytłaczająca Roztrzaskana Dusza
+
+tagGDX2EndlessDungeon_Key_01=Roztrzaskany Kamień Postępu
+tagGDX2EndlessDungeon_Key_01_Desc=Roztrzaskany Kamień Postępu ma niesamowite właściwości. Pozwala Mazaanowi otworzyć portal prowadzący do Roztrzaskanej Krainy od razu do Skorupy na poziomie od #5 do #15.
+tagGDX2EndlessDungeon_Key_01_Blueprint=Schemat: Roztrzaskany Kamień Postępu
+
+tagGDX2EndlessDungeon_Key_02=Rezonujący Kamień Postępu
+tagGDX2EndlessDungeon_Key_02_Desc=Rezonujący Kamień Postępu mieni się częścią swojej dawnej mocy. Pozwala Mazaanowi otworzyć portal prowadzący do Roztrzaskanej Krainy od razu do Skorupy na poziomie od #20 do #30.
+tagGDX2EndlessDungeon_Key_02_Blueprint=Schemat: Rezonujący Kamień Postępu
+
+tagGDX2EndlessDungeon_Key_03=Nawiedzony Kamień Postępu
+tagGDX2EndlessDungeon_Key_03_Desc=Nawiedzony Kamień Postępu został wypełniony duchami zmarłych. Pozwala Mazaanowi otworzyć portal prowadzący do Roztrzaskanej Krainy od razu do Skorupy na poziomie od #35 do #45.
+tagGDX2EndlessDungeon_Key_03_Blueprint=Schemat: Nawiedzony Kamień Postępu
+
+tagGDX2EndlessDungeon_Key_04=Zbezczeszczony Kamień Postępu
+tagGDX2EndlessDungeon_Key_04_Desc=Zbezczeszczony Kamień Postępu zostały skąpany w skażonej krwi. Pozwala Mazaanowi otworzyć portal prowadzący do Roztrzaskanej Krainy od razu do Skorupy na poziomie od #50 do #60.
+tagGDX2EndlessDungeon_Key_04_Blueprint=Schemat: Zbezczeszczony Kamień Postępu
+
+tagGDX2EndlessDungeon_Key_05=Niebiański Kamień Postępu
+tagGDX2EndlessDungeon_Key_05_Desc=Niebiański Kamień Postępu został w pełni przywrócony do swojego boskiego potencjału. Pozwala Mazaanowi otworzyć portal prowadzący do Roztrzaskanej Krainy od razu do Skorupy na poziomie od #65 do #75. ^n^nUżywać z rozwagą, nie dla ludzi o słabym sercu.
+tagGDX2EndlessDungeon_Key_05_Blueprint=Schemat: Niebiański Kamień Postępu
+
+tagGDX2EndlessDungeon_Key_06=Odwieczny Kamień Postępu
+tagGDX2EndlessDungeon_Key_06_Desc=Kamień Postępu zaburzający i naginający rzeczywistość. Dzięki niemu Mazaan może otworzyć drogę do co najmniej 80. Skorupy (a nawet do 90.) Roztrzaskanej Krainy. ^n^nTen Kamień Postępu nie powinien wylądować w rękach ludzi o słabym sercu.
+tagGDX2EndlessDungeon_Key_06_Blueprint=Schemat: Odwieczny Kamień Postępu
+
+tagGDX2EndlessDungeon_Key_07=Śmiertelny Kamień Postępu
+tagGDX2EndlessDungeon_Key_07_Desc=Kamień Postępu natchniony mocą śmierci, obecnie otwiera drogę do niezbadanych niebezpieczeństw, w których nie czeka na ciebie żadna nagroda, jedyną motywacją jest chwała.^n^nDzięki niemu Mazaan może otworzyć drogę do co najmniej 95. Skorupy Roztrzaskanej Krainy. ^n^nTen kamień postępu nie powinien wylądować w rękach ludzi o słabym sercu.
+tagGDX2EndlessDungeon_Key_07_Blueprint=Schemat: Śmiertelny Kamień Postępu
+
+tagGDX2ItemTest={^F}Zezowaty Gazer
+tagGDX2ItemTestDesc="Ukoronowanie osiągnięć w temacie strojów Gazera."
+tagGDX2ItemTest2={^F}Lekko Zabawne Pudełko
+tagGDX2ItemTest2Desc="Inspirowane wydarzeniami z prawdziwego życia."
+
+#Traps
+tagGDX2Trap_A01=Mroźny Pylon
+tagGDX2Trap_A02=Piekielny Pylon
+tagGDX2Trap_A03=Śmiertelny Pylon
+tagGDX2Trap_A04=Toksyczny Pylon
+tagGDX2Trap_A09=Nadprzyrodzony Pylon
+
+tagGDX2Trap_A09_Skill01=Upiorna Aura
+tagGDX2Trap_A09_Skill01_Desc=Surowa upiorna moc otacza ten kryształ, wzmacniając twych wrogów,a ciebie osłabiając.
+
+
+#Notifications
+tagGDX2Notification_FloorActive=Zdobywaj Roztrzaskane Dusze ze swych nieprzyjaciół
+tagGDX2Notification_FloorFinished=Udaj się do kolejnego portalu
+tagGDX2Notification_BossActive=Zniszcz wszystkich przeciwników
+tagGDX2Notification_BossFinished=Porozmawiaj z Mazaanem by kontynuować
+tagGDX2Notification_Reward=Twoje nagrody czekają za kolejnym portalem
+tagGDX2Notification_Reset=(Opcjonalnie) Porozmawiaj z Mazaanem w Konklawe Trójcy o podjęciu kolejnej próby
+
+tagGDX2Notification_ArkovianPrison_01=Kraty w pobliżu podnoszą się!
+tagGDX2Notification_TreasureTrap_01=Jakaś dusza ukazała się nieopodal!
+tagGDX2Notification_Special=Coś chyba poszło nie tak...
+tagGDX2Notification_Special02=Słyszysz odgłos przesuwających się nieopodal kamieni...
+
+
+#Doors
+tagGDX2EndlessDungeonEntrance=Portal do Roztrzaskanej Krainy
+tagGDX2EndlessDungeonFloorEntrance=Portal do Roztrzaskanej Krainy
+tagGDX2EndlessDungeonNextFloor=Przejdź Dalej
+tagGDX2EndlessDungeonTreasureRoom=Portal do wiecznego bogactwa
+tagGDX2EndlessDungeonExit=Ucieknij do Cairn
+
+
+#Rewards
+tagGDX2Item_ChestA01=Skrzynia Podróżnika
+tagGDX2Item_ChestB01=Skrzynia Czempiona
+tagGDX2Item_ChestC01=Skrzynia Tryumfalna
+tagGDX2Item_ChestD01=Skrzynia Ozdobna
+tagGDX2Item_ChestE01=Skrzynia Heroiczna
+tagGDX2Item_ChestF01=Skrzynia Walecznych
+tagGDX2Item_ChestG01=Skrzynia Okazałości
+tagGDX2Item_ChestH01=Skrzynia Niezwykłości
+tagGDX2Item_ChestI01=Skrzynia Wspaniałości
+tagGDX2Item_ChestJ01=Skrzynia Pełna Chwały
+tagGDX2Item_ChestK01=Skrzynia Transcendentna
+tagGDX2Item_ChestL01=Skarbnica Nemezisa
+tagGDX2Item_ChestM01=Skarbnica Wyniesionego
+tagGDX2Item_ChestN01=Skarbnica Nadprzyrodzonego
+tagGDX2Item_ChestO01=Skarbnica Niebiańskości
+tagGDX2Item_ChestP01=Skarbnica Pierwotnych
+tagGDX2Item_ChestQ01=Skarbnica Wieczności
+tagGDX2Item_ChestR01=Nieziemskie znalezisko
+tagGDX2Item_ChestS01=Znalezisko półboga
+
+tagGDX2Item_SpecialChestA01=Sekrety Roztrzaskanej Krainy
+tagGDX2Item_SpecialChestA02=Dary Roztrzaskanej Krainy
+
+

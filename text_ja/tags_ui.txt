@@ -1,0 +1,2542 @@
+tagHUD_LootModeDescription=どのような戦利品を表示するかの オプションを 調整する。 アイテムの 表示/非表示を 切り替えると､ 乱闘の間は 全ドロップ品を 非表示にして､ 終了後に再び 表示させる ことができる。{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.9{^n}for Grim Dawn: v1.2.0.4{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+#General
+
+tagGameDifficultySetting01=難易度ノーマル
+tagGameDifficultySetting02=難易度エリート
+tagGameDifficultySetting03=難易度アルティメット
+tagDifficultyUnlocked=難易度解除
+tagDifficultyLevelUnlocked={^g}{%s0}{^w} でのプレイが可能！！
+
+tagAutosort=インベントリの自動整理
+
+tagPromptButtonYes=はい
+tagPromptButtonNo=いいえ
+tagPromptButtonOkay=了解
+tagPromptButtonClose=閉じる
+
+tagGraveName=プレイヤーの墓 ~ {%t0}
+tagGraveSlainBy={%t0} に殺された
+tagGraveXPRecovered=回収した経験値 : {%d0}
+tagHeroXP={%d0} 敵のヒーロー XP
+tagBossXP={%d0} 敵のボス XP
+tagHeroKilled=敵ヒーローを斃した
+tagBossKilled=敵のボスを斃した
+tagXPAwarded={%d0} XP 獲得
+tagReputationBonus=名声ボーナス
+tagRepAwarded=+{%d0} の名声を {^g}{%s1} {^w}で獲得
+tagLoreBonus=知識習得ボーナス
+
+tagLevelUp=レベル アップ
+tagLevelReached={^y}レベル {%d0} に達しました
+
+#Devotion
+
+tagDevotionPointAwarded={%d0} 祈祷ポイントを獲得
+tagDevotionPointsAwarded={%d0} 祈祷ポイントを獲得
+tagDevotionShrine=祠の浄化
+tagDevotionShrineGuardian=祠の守護者
+tagDevotionUpdate=祈祷レベル
+tagDevotionSkillLevelUp={^g}{%s0} {^w}のランクが {%d1} に達しました！
+tagDevotionSkillMaxLevel={^g}{%s0} {^w}の最高ランクに達しました！
+tagDevotionAffinityBonus=星座完成ボーナス:
+tagDevotionAffinity=親和性:
+tagDevotionSelected= (選択済み)
+tagDevotionInUse= (使用中)
+tagDevotionConfirm=セレスチャル パワーを置き換えますか？
+tagDevotionExperienceFormat=経験値: {^y}{%d0}{^w} / {^y}{%d1}
+tagDevotionSkillRank=現在のレベル : {%d0} / {%d1}
+
+tagUndo=取り消し
+Chat=Chat :
+
+tagGamePaused=ゲームを一時停止
+
+tagSkillNotReady={^r}スキル準備中
+
+tagTransferStashError={^r}そこにこのアイテムを置くことはできません
+
+#Riftgate
+
+tagRiftgatePersonal=個人用リフト
+tagRiftgateDestination=目的地
+tagRiftgateError01=このリフトを使うことは できません。 あなたのグループの プレイヤーが 作ったものでは ないからです。
+tagRiftgateError02=同じリフトゲート間で テレポートする 事はできません。
+tagRiftgateError03=ここからこのリフトゲートに テレポートすることは できません。
+tagRiftgateDialog01=新たなリフトを開くと既存のものは閉じます。続けますか？
+tagRiftGateMapA01=ケアン
+
+#Quest
+
+tagQuests=遂行中のクエスト
+tagQuestLogNameNumber={%t0} ({%d1})
+tagQuestJournalNoQuests=クエストはありません
+tagQuestJournalNoComplete=完了したクエストはありません
+tagQuestIncentives=動機:
+tagQuestObjectives=目標:
+tagQuestRewards=報酬:
+tagCodexJournalNoNotes=項目はありません
+tagCodexJournalSubHeadingEnemy=敵の見識
+tagCodexJournalSubHeadingFaction=派閥
+tagCodexJournalSubHeadingCreed=尋問官クリード
+tagCodexJournalSubHeadingArkovia=歴史 - アーコヴィア
+tagCodexJournalSubHeadingNecropolis=歴史 - ネクロポリス
+tagCodexJournalSubHeadingSurvivorBlackLegion=生存者たち - ブラック リージョン
+tagCodexJournalSubHeadingSurvivorBurrwitch=生存者たち - バーウィッチ
+tagCodexJournalSubHeadingSurvivorsHomestead=生存者たち - ホームステッド
+tagCodexJournalSubHeadingSurvivorsDarkvale=生存者たち - ダークヴェイル
+tagCodexJournalSubHeadingSurvivorsValbury=生存者たち - ヴァルバリー港
+tagCodexJournalSubHeadingHistoryGods=歴史 - ケアンの神々
+tagCodexJournalSubHeadingDefault=雑多
+tagDevotionJournalTitle={%d0}/{%d1} 祈祷の祠
+tagAccept=承諾
+tagDecline=拒否
+tagContinue=続ける
+tagEndConversation=会話終了
+tagQuestPrimary=(プライマリ)
+tagQuestSecondary=(セカンダリ)
+tagQuestElite=(エリート)
+tagQuestAccepted=承諾したクエスト: {^n}"{%t0}"
+tagQuestCompleted=完了したクエスト: {^n}"{%t0}"
+tagQuestUpdate=クエスト進行状況
+tagQuestUpdated=クエスト更新: {^n}"{%t0}"
+tagQuestFailed=クエスト失敗: {^n}"{%t0}"
+tagActionGiveMoney={%d0} 鉄
+tagActionGiveTribute={%d0} トリビュート
+tagActionGiveTributes={%d0} トリビュート
+tagActionGiveExperience={%d0} 経験値
+tagActionGiveFaction={%d0} {%t1} 派閥
+tagActionGiveLevel={%d0} レベル
+tagActionGiveLevels={%d0} レベル
+tagActionGiveSkillPoint={%d0} スキルポイント
+tagActionGiveSkillPoints={%d0} スキルポイント
+tagActionGiveAttributePoint={%d0} 属性ポイント
+tagActionGiveAttributePoints={%d0} 属性ポイント
+tagActionGiveDevotionPoint={%d0} 祈祷ポイント
+tagActionGiveDevotionPoints={%d0} Devotion Points
+tagConditionHasKilled={%t0} ({%d1}/{%d2})
+tagConditionHasItem={%t0} ({%d1}/{%d2})
+tagQuestRewardWindowTitle=クエスト完了
+tagQuestRewardWindowInterim=クエスト遂行中
+tagQuestRewardTitle=報酬:
+tagQuestRewardMoney={%d0} 鉄
+tagQuestRewardXP=XP : {%d0}
+tagQuestRewardReputationPositive=+{%d0} {%s1} の評判
+tagQuestRewardReputationNegative=-{%d0} {%s1} の評判
+tagQuestRewardAcceptButton=閉じる
+tagQuestBlockedDescription=このセッションのクエストは､ ホストの 進捗具合を 基にして ロックされ ています。
+
+tagObjectives=目標
+
+#Faction
+
+tagFaction={%s0}
+tagFactionStanding=評判 : {^s}{%t0}
+tagFactionQuestReq=追加のクエスト: {^s}{%+d0}
+tagFactionAlone=単独
+tagFactionInvisible=不可視
+tagFactionGenericMonster=モンスター
+tagFactionPlayer=プレイヤー
+tagFactionSurvivors=デビルズ クロッシング
+tagFactionSurvivorsInfo=本拠地 : デビルズ クロッシング {^n}{^n} 生存者... それはデビルズ クロッシングの 頑健な居住者を 描写するときに､ しばしば使われる 言葉である。 見捨てられた 刑務所の残骸で 小さな共同体 を組織し､ グリム ドーンを 乗り切った 男と女たち。 彼らは､ あまりにも 多くの友と家族を 「乗っ取られ」､ すなわち イセリアルに 憑依されて失った。{^n}{^n} 彼らの信頼を得るのは 容易な仕事とは 言えないが､ 供給物が 尽きつつあり､ イセリアルの脅威が 迫りつつある中で､ まさしく 一か八かの チャンスが あるかもしれない。
+tagFactionSurvivorsRewards1=N/A
+tagFactionSurvivorsRewards2=N/A
+tagFactionSurvivorsRewards3=N/A
+tagFactionSurvivorsRewards4=Empty
+tagFactionSurvivorsRewards5=　新クエスト {^n}　派閥の商人と取引できる
+tagFactionSurvivorsRewards6=　新クエスト {^n}　バウンティ テーブルの利用 {^n}　派閥の武器 {^n}　派閥の防具 {^n}　派閥の設計図
+tagFactionSurvivorsRewards7=　新たなダンジョン / 新クエスト {^n}　派閥の増強剤 {^n}　派閥の装飾品 {^n}　派閥の 承認状 {^n}　派閥の設計図
+tagFactionSurvivorsRewards8=　レアな増強剤 {^n}　派閥の委任状 {^n}　派閥のエリート武器 {^n}　派閥のエリート防具
+tagFactionAetherials=イセリアル
+tagFactionAetherialsInfo= 愚かにも､ そして強欲にもケアンのアルカニストたちは､ イーサーとして 知られている 魔法のベールの 内側を詮索する ことに没頭した。{^n}{^n} イセリアルは不意に襲い掛かって､ 現在周知の グリム ドーンの状況に ケアンを陥れ､ 無数の人間に憑依し 余った者を虐殺した。 すべての中で 最も卑劣なのは､ 死者を ミュータント化した アンデッド クリーチャー として蘇らせ､ 侵略のための 非情な歩兵に し始めたことである。 ケアンにおける 彼らの存在そのものが 野生生物を 突然変異させ､ かつては従順だった 生き物を 邪悪な怪物に してしまう。{^n}{^n} だが､ すべての中で最も不思議なのは､ 明らかに クトーニアンを憎悪し､ 機会ある毎に 虚無界からのホラーに対して 戦いを臨む ことである。
+tagFactionAetherialsRewards1=　ネメシス (強敵) 発生
+tagFactionAetherialsRewards2=　追加のヒーロー発生
+tagFactionAetherialsRewards3=　発生数増加
+tagFactionAetherialsRewards4=Empty
+tagFactionAetherialsRewards5=N/A
+tagFactionAetherialsRewards6=N/A
+tagFactionAetherialsRewards7=N/A
+tagFactionAetherialsRewards8=N/A
+tagFactionCthonians=クトーニアン
+tagFactionCthoniansInfo= 虚無界からのホラー､ クトーニアンは悪夢の 「もの」である。 グリム ドーンの前､ クトーニアンは 正道を踏み外した アルケインの儀式 によるか､ 力ある魔術師が 招き寄せることで､ ケアンに見られる だけだった。{^n}{^n} その試みを 根絶する努力 にもかかわらず､ 血の儀式や クトーニアンの 生物祈祷を 中心として 教団が形成された。 教団信者たちが 特に一つの名前を 唱えているのが 耳にされた､ それが 「クトーン」である。 世界の混乱と共に 教団は強く成長し､ 理に適わなくなった 世界の答えを 必死で求める 新たな信者たちを 集めている。{^n}{^n} クトーニアンとそれに忠実な教団は､ イセリアルとは 不和のようであり､ 血のために 無力な人間を 熱心に収穫し､ イセリアルの 憑依物として 使えぬようにしている。
+tagFactionCthoniansRewards1=　ネメシス (強敵) 発生
+tagFactionCthoniansRewards2=　追加のヒーロー発生
+tagFactionCthoniansRewards3=　発生数増加
+tagFactionCthoniansRewards4=Empty
+tagFactionCthoniansRewards5=N/A
+tagFactionCthoniansRewards6=N/A
+tagFactionCthoniansRewards7=N/A
+tagFactionCthoniansRewards8=N/A
+tagFactionOutlaws=クロンリーのギャング
+tagFactionOutlawsInfo= うろつき回っている山賊の大抵のグループ と異なり､ クロンリーの ギャングは 極めて組織的 かつ重装に 身を固め､ 自称リーダーの ダリウス クロンリーにだけ 応じているようだ。{^n}{^n} グリム ドーンの結果生じた混沌の後に､ デビルズ クロッシング 刑務所を 脱走した この犯罪者たちは 今､ かつて彼らの自由を 拒否した 世界でただ一つの 場所を 奪うことに 余念がない。 クロンリーの ギャング構成員は､ サディスティックで 凶暴であり､ 同類たる 人間に対して 侵略的傾向にある。 それは､ 人類に対する 最大の脅威は おそらく人類自身なのだ ということを 典型的に 示している。
+tagFactionOutlawsRewards1=　ネメシス (強敵) 発生
+tagFactionOutlawsRewards2=　追加のヒーロー発生
+tagFactionOutlawsRewards3=　発生数増加
+tagFactionOutlawsRewards4=Empty
+tagFactionOutlawsRewards5=N/A
+tagFactionOutlawsRewards6=N/A
+tagFactionOutlawsRewards7=N/A
+tagFactionOutlawsRewards8=N/A
+tagFactionBeasts=獣
+tagFactionBeastsInfo=獣は獣でなければならない。
+tagFactionUser0=放浪民
+tagFactionUser0Info=本拠地 : オールド アーコヴィア {^n}{^n} ローワリ､ あるいは一般に放浪民と呼ばれる 彼らは､ 永住の故郷を 持たぬ人々の 集まりである。 彼らにとっては 一般道路が 常に必要な 唯一の故郷であり､ 彼ら自身の 現世の誘惑と 文明の堕落を 浄化するために､ 生涯をかけて ケアンの世界を 旅するのである。 彼らの歴史の多くは 長い年月の間に 失われ､ ほとんどの文化は 彼らを 浮浪者ないし コソ泥としか 考えていない。{^n}{^n} 放浪民は暴力を忌み嫌い､ いかなる犠牲を 払っても 避けようとする。 そしてそのことが､ しばしば より強暴な者たちの 手による虐待へ と導いたのである。
+tagFactionUser0Rewards1=N/A
+tagFactionUser0Rewards2=N/A
+tagFactionUser0Rewards3=N/A
+tagFactionUser0Rewards4=Empty
+tagFactionUser0Rewards5=　新クエスト {^n}　派閥の商人と取引できる
+tagFactionUser0Rewards6=　バウンティ テーブルの利用 {^n}　派閥の武器 {^n}　派閥の防具 {^n}　派閥の設計図
+tagFactionUser0Rewards7=　新クエスト {^n}　派閥の増強剤 {^n}　派閥の装飾品 {^n}　派閥の承認状 {^n}　派閥の設計図
+tagFactionUser0Rewards8=　レアな増強剤 {^n}　派閥の委任状 {^n}　派閥のエリート武器 {^n}　派閥のエリート防具
+tagFactionUser1=中立
+tagFactionUser1Info=N/A
+tagFactionUser2=ホームステッド
+tagFactionUser2Info=本拠地: ホームステッド {^n}{^n} 北の農地に問題が起きたときはいつでも､ 農民たちと その家族は ホームステッドに 結集する。 人類が絶滅に 直面したとき､ この共同体意識が 今までよりも更に 重要であること が判明した。{^n}{^n} ブラック リージョンの支援を受けて､ ホームステッドは 死によって荒廃した世界で 相対的に安全な場所､ 紛れなき要塞に 変貌した。 しかし､ あらゆる方向から 強力な敵が 侵入してくる という状況下で､ 若干の者は 一定の場所に 陣取ることが 賢明な判断だった のではないかと 思い始めている。{^n}{^n} イセリアルとクトーニアンに心を 奪われている ブラック リージョンに対して､ ホームステッドの人々は ずっと家に近い 脅威に焦点を 置いている。 貪欲なハサミムシの群れが 猛烈な勢いで広がり､ 今 彼らが退去した畑を 荒らしている からである。
+tagFactionUser2Rewards1=N/A
+tagFactionUser2Rewards2=N/A
+tagFactionUser2Rewards3=N/A
+tagFactionUser2Rewards4=Empty
+tagFactionUser2Rewards5=　派閥の商人と取引できる
+tagFactionUser2Rewards6=　バウンティ テーブルの利用 {^n}　派閥の武器 {^n}　派閥の防具 {^n}　派閥の設計図
+tagFactionUser2Rewards7=　新クエスト {^n}　派閥の増強剤 {^n}　派閥の装飾品 {^n}　派閥の承認状 {^n}　派閥の設計図
+tagFactionUser2Rewards8=　レアな増強剤 {^n}　派閥の委任状 {^n}　派閥のエリート武器 {^n}　派閥のエリート防具
+tagFactionUser3=コリガン鉱山の自由民
+tagFactionUser3Info=本拠地 : コリガン鉱山 {^n}{^n} WORDS
+tagFactionUser3Rewards1=N/A
+tagFactionUser3Rewards2=N/A
+tagFactionUser3Rewards3=N/A
+tagFactionUser3Rewards4=Empty
+tagFactionUser3Rewards5=N/A
+tagFactionUser3Rewards6=N/A
+tagFactionUser3Rewards7=N/A
+tagFactionUser3Rewards8=N/A
+tagFactionUser4=追放者
+tagFactionUser4Info=本拠地 : アイコン砦 {^n}{^n} 謎めいたアナステリアについて､ そしてなぜ 彼女が イセリアルと 彼らの計画について かくも多くの事を 知っているのか については､ ほとんど 分かっていない。 彼女は一見 どこからともなく訪れて､ 貴重な命を 救うことになった 敵の活動に 関する情報を､ ブラック リージョンに 提供した。{^n}{^n} 尋問官クリードが彼女の命を守るよう 強く主張する にも拘らず､ ブラック リージョンの 多くの者は 魔女だという 烙印を押して､ 彼女が火刑の中で 燃えるのを 喜んで眺めるだろう。
+tagFactionUser4Rewards1=追放者の復讐
+tagFactionUser4Rewards2=追放者の激怒
+tagFactionUser4Rewards3=追放者のしもべ
+tagFactionUser4Rewards4=Empty
+tagFactionUser4Rewards5=　新クエスト
+tagFactionUser4Rewards6=　新クエスト {^n}　バウンティ テーブルの利用
+tagFactionUser4Rewards7=　新クエスト {^n}　派閥の商人と取引できる
+tagFactionUser4Rewards8=　レアな増強剤 {^n}　派閥の委任状 {^n}　派閥のエリート武器 {^n}　派閥のエリート防具
+tagFactionUser5=死の目醒め修道会
+tagFactionUser5Info=本拠地 : 悲嘆の砦 {^n}{^n} 死の目醒め修道会は､ ほとんど失われた 死霊術との 最後の繋がりを 象徴するものであり､ 会員は グランドマスター､ ウロボルークから 貴重な知識を授かる。{^n}{^n} 修道会の会員は死を恐れない。 それどころか､ 彼らは死の支配を通して 世界そのものと 調和することが できると信じ､ 厳しい訓練の すべてを受け入れる。{^n}{^n} 何世紀もの間､ 帝国の手による迫害に 会っている 修道会は､ 偏見と論争には 慣れているが､ カイモンの選民ほど 容赦のない敵には 会ったことがなかった。
+tagFactionUser5Rewards1=　ネメシス (強敵) 発生
+tagFactionUser5Rewards2=　追加のヒーロー発生
+tagFactionUser5Rewards3=　発生数増加
+tagFactionUser5Rewards4=Empty
+tagFactionUser5Rewards5=　派閥の商人と取引できる
+tagFactionUser5Rewards6=　新クエスト {^n}　バウンティ テーブルの利用 {^n}　派閥の武器 {^n}　派閥の防具 {^n}　派閥の設計図
+tagFactionUser5Rewards7=　新クエスト {^n}　派閥の増強剤 {^n}　派閥の装飾品 {^n}　派閥の承認状 {^n}　派閥の設計図
+tagFactionUser5Rewards8=　レアな増強剤 {^n}　派閥の委任状 {^n}　派閥のエリート武器 {^n}　派閥のエリート防具
+tagFactionUser6=アーコヴィアのアンデッド
+tagFactionUser6Info= アーコヴィアの廃墟を果てしなく徘徊している アンデッド について､ 多くの悲劇が 語られている。 ある者たちは､ 約束された 死後の世界に 渡ることができぬ､ 生者の領域に 捉われた霊 だと信じている。 また他の者たちは､ 邪悪な死霊術の 仕業であり､ 残酷なマスターに 仕えさせるための 呪われた アンデッド軍隊 だと主張する。 おそらく真実は､ その間の どこかに 横たわっている のだろう。{^n}{^n} 誰もが同意し得る一つの事は､ アンデッドが 生きているものに 極めて危険 だということである。 それゆえ､ 彼らの忘れられた 残骸を 略奪するのは 無分別な仕事だと 考えられている。
+tagFactionUser6Rewards1=　ネメシス (強敵) 発生
+tagFactionUser6Rewards2=　追加のヒーロー発生
+tagFactionUser6Rewards3=　発生数増加
+tagFactionUser6Rewards4=Empty
+tagFactionUser6Rewards5=N/A
+tagFactionUser6Rewards6=N/A
+tagFactionUser6Rewards7=N/A
+tagFactionUser6Rewards8=N/A
+tagFactionUser7=ブラック リージョン
+tagFactionUser7Info=本拠地 : アイコン砦 {^n}{^n} ブラック リージョンは､ 大きな偏見と共に 皇帝の意志を 実行するために 送られる 帝権の精鋭､ 死の旗手である。 彼らの剛勇の伝説には､ よくある残虐性と暴力の 物語が同程度に 混ざり合っている。{^n}{^n} 尊敬されるか恐れられるかに関わらず､ ブラック リージョンは､ グリム ドーンの後に 陥落した首都から 逃れた唯一の 帝国連隊だった。 そして､ 今や これまでの反撃で残った 人類の希望を代表する 唯一のものかもしれない。
+tagFactionUser7Rewards1=N/A
+tagFactionUser7Rewards2=N/A
+tagFactionUser7Rewards3=N/A
+tagFactionUser7Rewards4=Empty
+tagFactionUser7Rewards5=　バウンティ テーブルの利用 {^n}　派閥の商人と取引できる
+tagFactionUser7Rewards6=　新たなバウンティ {^n}　派閥の武器 {^n}　派閥の防具 {^n}　派閥の設計図
+tagFactionUser7Rewards7=　新たなダンジョン / 新クエスト {^n}　派閥の増強剤 {^n}　派閥の装飾品 {^n}　派閥の承認状 {^n}　派閥の設計図
+tagFactionUser7Rewards8=　レアな増強剤 {^n}　派閥の委任状 {^n}　派閥のエリート武器 {^n}　派閥のエリート防具
+tagFactionUser8=カイモンの選民
+tagFactionUser8Info=本拠地 : 悲嘆の砦 {^n}{^n} カイモンの選民は､ 光の運び手エンピリオンの 熱狂的な 信奉者たちである。 彼らは､ エンピリオンが 燃えるような 栄光の中に ケアンを戻し､ 教団と繁栄の 新たな夜明けに 選ばれし者を 案内するだろう と信じているのだ。{^n}{^n} カイモン神父として知られている カリスマ的な 伝道者に導かれ､ 信仰によって 守られて､ 下劣な クトーンのホラーであろうが 死を操作する ネクロマンサーであろうが 関係なく､ 選民は ケアンから あらゆる腐敗を 撲滅することを 熱望している。
+tagFactionUser8Rewards1=　ネメシス (強敵) 発生
+tagFactionUser8Rewards2=　追加のヒーロー発生
+tagFactionUser8Rewards3=　発生数増加
+tagFactionUser8Rewards4=Empty
+tagFactionUser8Rewards5=　派閥の商人と取引できる
+tagFactionUser8Rewards6=　新クエスト {^n}　バウンティ テーブルの利用 {^n}　派閥の武器 {^n}　派閥の防具 {^n}　派閥の設計図
+tagFactionUser8Rewards7=　新クエスト {^n}　派閥の増強剤 {^n}　派閥の装飾品 {^n}　派閥の承認状 {^n}　派閥の設計図
+tagFactionUser8Rewards8=　レアな増強剤 {^n}　派閥の委任状 {^n}　派閥のエリート武器 {^n}　派閥のエリート防具
+tagFactionUser9=User9
+tagFactionUser9Info=
+tagFactionUser9Rewards1=Nemesis Spawns
+tagFactionUser9Rewards2=Additional Hero Spawns
+tagFactionUser9Rewards3=Extra Spawns
+tagFactionUser9Rewards4=Empty
+tagFactionUser9Rewards5=Rewards
+tagFactionUser9Rewards6=Rewards
+tagFactionUser9Rewards7=Rewards
+tagFactionUser9Rewards8=Rewards
+tagFactionUser10=User10
+tagFactionUser10Info=
+tagFactionUser10Rewards1=Nemesis Spawns
+tagFactionUser10Rewards2=Additional Hero Spawns
+tagFactionUser10Rewards3=Extra Spawns
+tagFactionUser10Rewards4=Empty
+tagFactionUser10Rewards5=Rewards
+tagFactionUser10Rewards6=Rewards
+tagFactionUser10Rewards7=Rewards
+tagFactionUser10Rewards8=Rewards
+tagFactionUser11=User11
+tagFactionUser11Info=
+tagFactionUser11Rewards1=Nemesis Spawns
+tagFactionUser11Rewards2=Additional Hero Spawns
+tagFactionUser11Rewards3=Extra Spawns
+tagFactionUser11Rewards4=Empty
+tagFactionUser11Rewards5=Rewards
+tagFactionUser11Rewards6=Rewards
+tagFactionUser11Rewards7=Rewards
+tagFactionUser11Rewards8=Rewards
+tagFactionUser12=User12
+tagFactionUser12Info=
+tagFactionUser12Rewards1=Nemesis Spawns
+tagFactionUser12Rewards2=Additional Hero Spawns
+tagFactionUser12Rewards3=Extra Spawns
+tagFactionUser12Rewards4=Empty
+tagFactionUser12Rewards5=Rewards
+tagFactionUser12Rewards6=Rewards
+tagFactionUser12Rewards7=Rewards
+tagFactionUser12Rewards8=Rewards
+tagFactionUser13=User13
+tagFactionUser13Info=
+tagFactionUser13Rewards1=Nemesis Spawns
+tagFactionUser13Rewards2=Additional Hero Spawns
+tagFactionUser13Rewards3=Extra Spawns
+tagFactionUser13Rewards4=Empty
+tagFactionUser13Rewards5=Rewards
+tagFactionUser13Rewards6=Rewards
+tagFactionUser13Rewards7=Rewards
+tagFactionUser13Rewards8=Rewards
+tagFactionUser14=User14
+tagFactionUser14Info=
+tagFactionUser14Rewards1=Nemesis Spawns
+tagFactionUser14Rewards2=Additional Hero Spawns
+tagFactionUser14Rewards3=Extra Spawns
+tagFactionUser14Rewards4=Empty
+tagFactionUser14Rewards5=Rewards
+tagFactionUser14Rewards6=Rewards
+tagFactionUser14Rewards7=Rewards
+tagFactionUser14Rewards8=Rewards
+tagFactionUser15=User15
+tagFactionUser15Info=
+tagFactionUser15Rewards1=Nemesis Spawns
+tagFactionUser15Rewards2=Additional Hero Spawns
+tagFactionUser15Rewards3=Extra Spawns
+tagFactionUser15Rewards4=Empty
+tagFactionUser15Rewards5=Rewards
+tagFactionUser15Rewards6=Rewards
+tagFactionUser15Rewards7=Rewards
+tagFactionUser15Rewards8=Rewards
+tagFactionUnknown=Unknown
+tagFactionStateEnemy5=ネメシス (復讐) 
+tagFactionStateEnemy4=憎悪
+tagFactionStateEnemy3=嫌悪
+tagFactionStateEnemy2=軽蔑
+tagFactionStateEnemy1=敵対
+tagFactionStateNeutral=許容
+tagFactionStateFriend1=友好
+tagFactionStateFriend2=敬意
+tagFactionStateFriend3=信頼
+tagFactionStateFriend4=栄誉
+tagFactionStateFriend5=崇拝
+tagFactionStateNemesis=ネメシス (復讐) 
+tagFactionStateHated=憎悪
+tagFactionStateReviled=非難
+tagFactionStateHostile=敵対
+tagFactionStateUnfriendly=非友好
+tagFactionStateSuspicious=懐疑的
+tagFactionStateFriendly=友好
+tagFactionStateTrusted=信頼
+tagFactionStateHonored=栄誉
+tagFactionStateRevered=崇拝
+
+#Faction Window
+
+tagFactionUpdated=評判の更新
+tagFactionStatusChange={^w}あなたに対する {^b}{%s1} {^w}の評判が {%s0} {^w}になりました
+tagFactionNegativeStatusChange={^w}あなたに対する {^b}{%s1} {^w}の評判が {%s0} {^w}に達しました
+tagFactionDoorLocked={^b}{%s0} {^r}に属してない者がここに入ることはできません
+tagFactionWindowName=派閥
+tagFactionWindowFactionTitle={%s0} - {%s1}
+tagFactionReputation=名声獲得事由: {^n}
+tagFactionReputationKilling={%s0} 退治 {^n}
+tagFactionReputationBounties=バウンティ{^n}
+tagFactionReputationQuests=クエスト{^n}
+tagFactionDiscountPositive=　派閥による割引率: {^r}+ {%.0f0}%
+tagFactionDiscountNegative=　派閥による割引率: {^g}- {%.0f0}%
+tagFactionDiscountZero=　派閥による割引率: {^s}{%.0f0}%
+tagFactionProgress={%s0}{^w} に必要なポイント: {^b}{%d1}
+tagFactionKillingGain=名声を得る殺し:
+tagFactionKillingLoss=悪評を買う殺し:
+tagFactionRewardsTier={%s0}{^w}で解放される事柄:
+tagFactionKillCommon=　普通のモンスター
+tagFactionKillChampion=　チャンピオン モンスター
+tagFactionKillHero=　ヒーロー モンスター
+tagFactionKillBoss=　ボス モンスター
+tagFactionBonusRep=ボーナスの名声: {%d0}%
+tagFactionBonusInfamy=ボーナスの悪評: {%d0}%
+
+#Achievements
+
+tagAchievements=実績
+tagAchievementUnlocked=実績が解除されました！
+tagAchievementsComplete={%d0} / {%d1}
+
+#HUD
+
+tagHUDMenu=メニューボタン
+tagHUDAttacks=現在の攻撃
+tagHUDSkills=クイック スロット
+tagHUD_PotionHealth=治癒薬
+tagHUD_PotionEnergy=精神の霊薬
+
+tagPortraitKick=サーバーから追放
+tagPortraitTrade=取引
+tagPortraitRemove=グループから消去
+tagPortraitChat=チャット
+tagPortraitDisband=ペット解放
+
+tagHUDHealth_Head=({%t0}/{%t1})
+tagHUDPlayerHealth_Head={%t0}({%t1}/{%t2})
+tagHUDRoll_Health={%s0}  {%d1} / {%d2}
+tagHUDRoll_XP={%s0} {%d1}  ~  {%s2} {%d3}
+tagHUDXP_Current=経験
+tagHUDXP_Next=次のレベル
+tagMaxLevel=最大レベルに到達しました
+tagSkillRefreshTime=-{%.1f0} {%z1} 現在の全アクティブスキルをクールダウン
+tagSkillRefreshTimeInfinate=100% {^E}リチャージ時間短縮
+tagSkillRefreshBaseSkillTime=-{%.1f0} {%z1} ベース スキルのクールダウン
+
+tagSkillUnusableLowMana=エナジーが足りません
+tagSkillUnusableCooldown=スキルリチャージ中
+tagSkillUnusableConfiguration=スキル使用には装備が必要です
+tagSkillUnusableNotLearned=スキルを学んでません
+
+tagHUD_Riftgate=現実の構造を引き裂いて 出入り口を作り､ 既知の 他のリフトへ 抜け出る。
+tagHUD_EmptySlot_R=空きクイックスロット
+tagHUD_EmptySlot_R1=右クリックでスキルを割り当てる。
+tagHUD_LeftMouse_R=マウスの左に割り当てる
+tagHUD_LeftMouse_R1=プライマリの攻撃。 右クリックで違うスキルに割り当てる。
+tagHUD_RightMouse_R=マウスの右に割り当てる
+tagHUD_RightMouse_R1=セカンダリの攻撃。 右クリックで違うスキルに割り当てる。
+tagHUD_CompassToggleName=コンパス地図のトグル
+tagHUD_CompassToggleDescription=クリックで､ 地図のサイズ変更ないし最小化をする。
+tagHUD_LootMode=ルート フィルター
+tagHUD_LootHide=アイテムの表示/非表示 を切り替える
+tagHUD_LootModeDescription=どのような戦利品を表示するかの オプションを 調整する。 アイテムの 表示/非表示を 切り替えると､ 乱闘の間は 全ドロップ品を 非表示にして､ 終了後に再び 表示させる ことができる。
+tagHUD_LootModeToggleOff=戦利品の自動表示 ^S(Off)
+tagHUD_LootModeToggleCommon=戦利品の自動表示 (コモン+)
+tagHUD_LootModeToggleMagic=戦利品の自動表示 ^Y(マジック+)
+tagHUD_LootModeToggleRare=戦利品の自動表示 ^G(レア+)
+tagHUD_LootModeToggleEpic=戦利品の自動表示 ^B(エピック+)
+tagHUD_LootModeToggleLegendary=戦利品の自動表示 ^P(レジェンダリー+)
+
+tagHUD_LootModeToggleDescription=クリックで､ 自動的に表示される戦利品タイプを変更。
+
+tagHUD_LeftMouse=左
+tagHUD_RightMouse=右
+
+tagHUDPortraitLevelUP=レベルアップ
+tagHUDWeaponSwap=武器交換
+tagHUDWeaponSwapRoll=装着する武器の交換設定。 第2の武器を 装備してなければ ならない。
+tagHUDWeaponSwapHelpRoll=武器交換を使えるようにするには､ キャラクター ウィンドウの 交換用武器スロットに 第2のセットを 装備していなければ ならない。
+
+tagHUDRiftgateButton=リフト トラベル
+tagHUDRiftgateButtonRoll=リフトの中に小さな入口 を切り裂き､ 既知のリフトゲートや 他のグループメンバー が作ったゲート を抜けて出る。
+
+tagHUDQuickslot=割り当ててないクイックスロット
+tagHUDQuickslotRoll=右クリックでスキルを割り当てる。
+tagHUDQuickslotLM=左クリックの割り当て
+tagHUDQuickslotLMRoll=プライマリの攻撃。 右クリックでスキルを割り当てる。
+tagHUDQuickslotRM=右クリックの割り当て
+tagHUDQuickslotRMRoll=セカンダリの攻撃。 右クリックでスキルを割り当てる。
+tagHUDQuickslotBarSwap=クイックスロット バーを交互に選択する。
+
+tagHUDButtonCharacter=キャラクター ウィンドウ
+tagHUDButtonSkills=スキル ウィンドウ
+tagHUDButtonGroup=グループ ウィンドウ
+tagHUDButtonQuest=古写本 ウィンドウ
+tagHUDButtonMap=地図 ウィンドウ
+tagHUDButtonChat=チャット ウィンドウ
+tagHUDButtonFaction=派閥ウィンドウ
+tagHUDButtonAchievements=実績 ウィンドウ
+tagHUDButtonOptions=オプション メニュー
+
+tagHUDButtonRollCharacter=キャラクターの属性､ インベントリ､ 装備の管理。
+tagHUDButtonRollSkills=スキルクラスの選択と スキルおよび祈祷 の割り当て。
+tagHUDButtonRollGroup=プレイヤーの招待とグループ管理。
+tagHUDButtonRollQuest=クエストログ､ 知識､ 祈祷の祠､ およびゲーム内 のヘルプ。
+tagHUDButtonRollMap=地域と世界の地図
+tagHUDButtonRollChat=ゲーム内で他のプレイヤーにメッセージを送る。
+tagHUDButtonRollFaction=ケアンに住む様々な派閥の詳細。
+tagHUDButtonRollAchievements=実績完了。
+tagHUDButtonRollOptions=セーブ､ 終了､ ゲームオプションの設定。
+
+#LootFilterUI
+tagLootFilterWindowTitle=ルート フィルター
+tagLootFilterToggleOn=アイテムを表示する
+tagLootFilterToggleOff=アイテムを隠す
+tagLootFilterTitle01=品質
+tagLootFilterTitle02=タイプ
+tagLootFilterTitle03=ダメージ
+tagLootFilterTitle04=キャラクター
+
+tagLootFilterReset=デフォルト
+tagLootFilterResetInfo=フィルタの設定を デフォルトに リセットします。
+tagLootFilterResetConfirm=本当に､ フィルタの設定を デフォルトにリセット しますか？
+
+tagLootFilter01=コモン
+tagLootFilter01Info=コモン (白) アイテムを､ 表示 非表示にする。
+tagLootFilter02=マジック
+tagLootFilter02Info=マジック (黄) アイテムを､ 表示 非表示にする。
+tagLootFilter03=レア
+tagLootFilter03Info=レア (緑) アイテムを､ 表示 非表示にする。 特定の 敵が落とす､ MI (モンスター希少品) としても知られている アイテムを含む。
+tagLootFilter04=MI
+tagLootFilter04Info=特定の 敵が落とす､ MI (モンスター希少品) としても 知られているアイテムを､ 表示 非表示にする。{^N}{^N}MIに分類されるレア アイテムだけを 表示したい 場合は､ レア フィルターを オフにして このフィルターを 使用すること。
+tagLootFilter05=エピック
+tagLootFilter05Info=エピック (青) アイテムを､ 表示 非表示にする。 セットの一部 である アイテムを含む。
+tagLootFilter06=レジェンダリ
+tagLootFilter06Info=レジェンダリ (紫) アイテムを､ 表示 非表示にする。 セットの一部 である アイテムを含む。
+tagLootFilter07=セット
+tagLootFilter07Info=セットの一部である アイテムを､ 表示 非表示にする。 セットの 一部である エピックと レジェンダリ アイテムだけを 表示したい 場合は､ エピックと レジェンダリの フィルターを オフにして このフィルターを 使用すること。
+tagLootFilter08=常にユニークを表示
+tagLootFilter08Info=チェックボックスをオン にする と､ フィルタの 設定に 関係なく 常に ユニーク品 (エピックと レジェンダリ) が表示 される。{^N}{^N}特定のマジック､ レア､ MI アイテムを探したいが､ なお ドロップしたユニーク 品を 全部収集したい場合 は､ この設定を使用 すること。
+
+tagLootFilter09=近接片手
+tagLootFilter09Info=片手持ちの斧､ メイス､ 剣を､ 表示 非表示にする。
+tagLootFilter10=近接両手
+tagLootFilter10Info=両手持ちの斧､ メイス､ 剣を､ 表示 非表示にする。
+tagLootFilter11=遠隔片手
+tagLootFilter11Info=片手持ちの銃を､ 表示 非表示にする。
+tagLootFilter12=遠隔両手
+tagLootFilter12Info=両手持ちの銃と クロスボウを､ 表示 非表示にする。
+tagLootFilter13=ダガー/セプター
+tagLootFilter13Info=ダガーとセプターを､ 表示 非表示にする。
+tagLootFilter14=詠唱者用 オフハンド
+tagLootFilter14Info=詠唱用オフハンドを､ 表示 非表示にする。
+tagLootFilter15=盾
+tagLootFilter15Info=盾を､ 表示 非表示にする。
+tagLootFilter16=防具
+tagLootFilter16Info=ヘルメット､ 肩､ 胴着､ パンツ､ ブーツ､ グローブを､ 表示 非表示にする。
+tagLootFilter17=アクセサリー
+tagLootFilter17Info=アミュレット､ 指輪､ メダル､ ベルトを､ 表示 非表示にする。
+
+tagLootFilter18=物理
+tagLootFilter18Info=物理ないし体内損傷 ダメージが 増加する アイテムを表示。
+tagLootFilter19=刺突
+tagLootFilter19Info=刺突 ダメージが 増加する アイテムを表示。
+tagLootFilter20=火炎
+tagLootFilter20Info=火炎ないし燃焼 ダメージが 増加する アイテムを表示。
+tagLootFilter21=冷気
+tagLootFilter21Info=冷気ないし凍傷 ダメージが 増加する アイテムを表示。
+tagLootFilter22=雷
+tagLootFilter22Info=雷ないし感電 ダメージが 増加する アイテムを表示。
+tagLootFilter23=酸
+tagLootFilter23Info=酸ないし毒 ダメージが 増加する アイテムを表示。
+tagLootFilter24=生命力
+tagLootFilter24Info=生命力ないし生命力減衰 ダメージが 増加する アイテムを表示。
+tagLootFilter25=イーサー
+tagLootFilter25Info=イーサー ダメージが 増加する アイテムを表示。
+tagLootFilter26=カオス
+tagLootFilter26Info=カオス ダメージが 増加する アイテムを表示。
+tagLootFilter27=出血
+tagLootFilter27Info=出血 ダメージが 増加する アイテムを表示。
+tagLootFilter28=ペット ボーナス
+tagLootFilter28Info=ペットにボーナスを 与える アイテムを表示。
+
+tagLootFilter29=自分のマスタリー
+tagLootFilter29Info=選択したマスタリーの スキル ランクを高める アイテムを 表示。
+tagLootFilter30=他のマスタリー
+tagLootFilter30Info=選択していないマスタリー のスキルランクを高める アイテムを 表示。
+tagLootFilter31=速度
+tagLootFilter31Info=攻撃､ 詠唱､ 走行 速度を 高める アイテムを表示。
+tagLootFilter32=クールダウン短縮
+tagLootFilter32Info=スキルのクールダウンを 短縮する アイテムを表示。
+tagLootFilter33=クリティカルダメージ
+tagLootFilter33Info=クリティカルダメージが 増加する アイテムを表示。
+tagLootFilter34=攻撃能力
+tagLootFilter34Info=攻撃能力を高める アイテムを表示。
+tagLootFilter35=防御能力
+tagLootFilter35Info=防御能力を高める アイテムを表示。
+tagLootFilter36=耐性
+tagLootFilter36Info=ダメージやクラウド コントロール､ あるいは 反射ダメージ のような 風変わりな 効果への 耐性を 高め､ 持続的ダメージを 下げるアイテムを 表示する。
+tagLootFilter37=報復
+tagLootFilter37Info=報復ダメージが増加する アイテムを表示。
+
+tagLootFilter38=コンポーネント
+tagLootFilter38Info=コンポーネントを､ 表示 非表示にする。
+tagLootFilter39=常にダブルレアを表示
+tagLootFilter39Info=チェックボックスをオン にする と､ フィルタの 設定に 関係なく 常に ダブルレア品 (レアとMI) が 表示される。{^N}{^N}この設定は､ 最も強力な レアないしMIだけを 求める 場合に使用すること。
+
+
+
+#SkillUI
+
+tagSkillUndoClass=クラス選択を取消す
+tagSkillUndoPoints=ポイントを取消す
+tagSkillUndoGeneric=取消す
+tagSkillClassSelect=クラスを選択する
+tagCurrentLevel=現在のレベル : {%d0}
+tagNextLevel=次のレベル : {%d0}
+tagSkillClassSelectInfo=鍛錬するクラスを選択して下さい{^n}{^n} 選択後にスキル ウィンドウを 終了すると､ 選択は 永久のものになります。
+tagSkillReq01=あと {%d0} ポイント {%t1} ^rに必要です。
+tagSkillReq01Singular=あと {%d0} ポイント {%t1} ^rに必要です。
+tagSkillReq02=あと {%d0} ポイント {%s1} と {%s2} スキルに必要です。
+tagSkillReq02Singular=あと {%d0} ポイント {%t1} と {%s2} スキルに必要です。
+tagSkillReq03={%s1} スキルが必要です。
+tagSkillPointsRemain={%d0} 残りのポイント
+tagSkillPointsRemainSingular={%d0} 残りのポイント
+
+#Character
+
+GenderFormat={%t0}{%0a1}
+
+tagInventoryBag=インベントリ バッグ
+tagInventoryBagDescription=インベントリの サイズを広げる
+
+tagStatsResistanceTitle=耐性
+tagStatsResistance01=火炎
+tagStatsResistance01Desc=火炎ないし燃焼ダメージを与える 焼夷性の攻撃や呪文に対する耐性。
+tagStatsResistance02=雷
+tagStatsResistance02Desc=雷ないし感電ダメージを与える攻撃や呪文からの 電気とショックに対する耐性。
+tagStatsResistance03=冷気
+tagStatsResistance03Desc=冷気ないし凍傷ダメージを与える 冷たい氷の攻撃や呪文に対する耐性。
+tagStatsResistance04=毒酸
+tagStatsResistance04Desc=毒酸ダメージを与える ひどい毒と 強い酸への耐性。
+tagStatsResistance05=刺突
+tagStatsResistance05Desc=刺突ダメージを与える 装甲貫通性の 投射物と刃への耐性。
+tagStatsResistance06=出血
+tagStatsResistance06Desc=出血ダメージを与える 裂傷や呪文で惹き起こされた 出血に対する耐性。
+tagStatsResistance07=生命力
+tagStatsResistance07Desc=生命力ないし生命力減衰ダメージを与える 生命力流出の呪文に対する耐性。
+tagStatsResistance08=イーサー
+tagStatsResistance08Desc=イーサー ダメージを与える イーサーと結合した 攻撃と魔術に対する耐性。
+tagStatsResistance09=気絶
+tagStatsResistance09Desc=攻撃や呪文による 反撃不能な気絶時間を減少。
+tagStatsResistance10=カオス
+tagStatsResistance10Desc=しばしばクトーニアンが用いる､ 宇宙それ自体の 不安定なエナジー によって与えられる カオス ダメージに対する耐性。
+tagStatsResistance11=ノックダウン
+tagStatsResistance11Desc=ノックダウンに対する耐性。
+tagStatsResistance12=混乱
+tagStatsResistance12Desc=呪文と能力の使用を 妨害する効果 に対する耐性。
+
+tagCharStatsTab1Name=プライマリ
+tagCharStatsTab2Name=セカンダリ
+tagCharAttributeTitle=属性
+tagCharAttributeName01=狡猾性
+tagCharAttributeName02=体格
+tagCharAttributeName03=精神力
+tagCharAttributeName04=ヘルス
+tagCharAttributeName05=エナジー
+
+tagCharAttributeDescription01=狡猾な知性は､ 戦闘技術を 向上させ､ 物理・刺突・出血・体内損傷 の各ダメージを 増強する。狡猾性 (Cunning) は 痛みの受容力や 近接 / 遠隔攻撃 およびクリティカルヒット の命中率も高める。
+
+tagCharAttributeDescription02=身体の調整によって､ 重い装備で 戦う力や 敵の攻撃を 避ける 機敏性が得られる。 体格 (Physique) は､ 痛みの受容力､ 怪我を治す能力 および クリティカルヒットを 避ける能力を 大幅に強化する。
+
+tagCharAttributeDescription03=精神力が強ければ､ 術者の中に流れる エナジーが増え､ より強力な 魔法アイテムを 使う精神的負荷に 耐えられる ようになる。 精神力 (Spirit) は､ 痛みの受容力を高め 魔法攻撃の ダメージも 増幅させる。
+
+tagCharAttributeDescription04=ヘルスは､ 衰弱して死ぬ前に どれだけ痛みと 傷害に 耐えられるか の基準である。
+
+tagCharAttributeDescription05=エナジーは､ 魔法のエナジーを 保つ 精神的容量の 基準である。 この容量が大きければ､ 再生を待つ前に 直ちに引き出せる エナジーの蓄えが 大きくなる。
+
+tagCharBonusHealth=ボーナス ヘルス:
+tagCharBonusHealthRegen=ボーナス ヘルス再生:
+tagCharBonusEnergy=ボーナス エナジー:
+tagCharBonusEnergyRegen=ボーナス エナジー再生:
+
+tagCharBonusPhysicalDmg=ボーナス 物理ダメージ:
+tagCharBonusPierceDmg=ボーナス 刺突ダメージ:
+tagCharBonusMagicalDmg=ボーナス 魔法ダメージ:
+tagCharBonusDurDmg=ボーナス 持続性ダメージ:
+
+tagCharAttributeIncrement01=ポイント1つにつき､ 狡猾性が10増えます。
+tagCharAttributeIncrement02=ポイント1つにつき､ 体格が10増えます。
+tagCharAttributeIncrement03=ポイント1つにつき､ 精神力が10増えます。
+tagCharAttributeIncrement04=ポイント1つにつき､ ヘルスが50増えます。
+tagCharAttributeIncrement05=ポイント1つにつき､ エナジーが50増えます。
+
+tagCharStatsOAAlert=攻撃能力 {^b}(?)
+tagCharStatsOA=攻撃能力 
+tagCharStatsOALast=最後にした攻撃: 
+tagCharStatsOAHit=命中率:
+tagCharStatsOACrit=クリティカル率:
+tagCharStatsOADescription=攻撃能力(OA: Offensive Ability) が高いほど､ 攻撃と呪文の 成功率､ クリティカルヒット率､ およびクリティカル ダメージが増える。 攻撃能力が 敵の防御能力 より低い場合は､ 失敗率が 非常に高まる (ただし､ 命中率が55%を 下回ることはない)。 攻撃能力は､ スキル､ アイテム､ 狡猾性 の影響を受ける。
+
+tagCharStatsDAAlert=防御能力 {^b}(?) 
+tagCharStatsDA=防御能力 
+tagCharStatsDALast=最後にされた攻撃: 
+tagCharStatsDAHit=被打率:
+tagCharStatsDACrit=クリティカル率:
+tagCharStatsDADescription=防御能力(DA: Defensive Ability) が高いほど､ 敵の攻撃を頻繁に避け､ クリティカルヒットを 被る確率を減らし､ クリティカルで受けるダメージ を減少させる (ただし､ 最低被打率は55%)。 防御能力は､ スキル､ アイテム､ 体格 の影響を受ける。
+
+tagOverCapResist={%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% 限度超過) 
+tagOverCapResistInt={%s0} {^b}{%d1}% {^s}(+{%d2}% 限度超過) 
+
+tagRollFormat01={%s0} {^b}{%d1}
+tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
+tagRollFormat03={%s0}     {%+.0f1}%
+tagRollFormat04={%s0}  ({^y}{%t1}{^w})
+tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
+tagRollFormat06={%s0} {^b}{%.0f1}%
+tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
+tagRollFormat08={%s0} {^b}{%.2f1}
+tagRollFormat09={%s0} {^b}+ {%.1f1}%
+tagRollFormat10={%s0} {^b}{%.0f1} - {%.0f2}
+tagRollFormat11={%s0} {^b}{%d1} - {%d2}
+tagRollFormat12={%s0} {^b}{%.0f1}% - {%.0f2}%
+tagRollFormat13={%s0} {^b}{%.1f1}%
+tagRollFormat14={%s0} {^b}{%.0f1}
+tagRollFormat15={%s0} {^b}+ {%.1f1}% + {%.0f2}
+tagRollFormat16={%s0} {^s}{%.2f1} {^b}- {%.2f2}
+tagRollFormat17={%s0} {^b}{%.1f1}% + {%.2f2}
+tagRollFormat18={^b}{%.0f0} - {%.0f1}
+tagRollFormat19={^b}{%.0f0}
+tagRollFormat20={%s0} {^b}{%d1}%
+tagFormatPercent={%.0f}%
+tagFormatPlusPercent=+ {%.0f}%
+tagFormatMinusPercent=- {%.0f}%
+tagFormatPlus=+ {%d0}
+tagFormatDash={%d0} - {%d1} 
+tagFormatDashPercent={%d0}% - {%d1}%
+tagCharPointAvailable={^y}{%d0}{^w} 利用可能ポイント
+tagCharPointsAvailable={^y}{%d0}{^w} 利用可能ポイント
+tagCharLevel=レベル {%d0}
+tagCharXP=XP : {%t0}
+tagCharLevelAndClass=レベル {%d0}  {%t1}
+
+tagCharRollLeftHand=オフハンド:
+tagCharRollRightHand=メイン ハンド:
+
+tagInfoPage=情報ページ :
+
+tagTimePlayedName=プレイした時間
+tagTimePlayedNumber={%d0} :{%d1} :{%d2}
+
+tagCharHeaderResistance=耐性
+tagCharHeaderDefense=防御値
+tagCharHeaderOffense=攻撃値
+tagCharHeaderCombat=戦闘統計値
+tagCharHeaderDPS=ヒットごとのダメージ (DPH)
+tagCharHeaderCharacter=キャラクター
+tagCharHeaderPhysical=物理的
+tagCharHeaderMagical=魔法的
+tagCharHeaderPets=ペット ボーナス
+tagCharHeaderDefenseSection=防御
+tagCharHeaderRetaliation=報復
+tagCharHeaderStats=各種統計データ
+tagCharHeaderMisc=Misc
+
+tagCharStatsDPSTitle=秒ごとのダメージ
+tagCharStatsDPS=DPS {^b}(?)
+tagCharStatsDPSWeapon=武器攻撃
+tagCharStatsDPSDescription=単独の標的に対する､ 左右のマウス ボタンに 当てた 能力を 合わせた 秒ごとの 平均ダメージ (Damage Per Second)で､ クール ダウンと 装備 およびスキル から来る すべてのボーナス によって 修正 されたもの。 敵の 防御は 考慮されない。
+tagCharStatsDPSRightDescription=単独の標的に対する､ 右マウス ボタンに 当てた 能力の ダメージ 明細で､ 装備 およびスキル から来る すべての ボーナス によって 修正 されたもの。 敵の 防御は 考慮されない。
+tagCharStatsDPSLeftDescription=単独の標的に対する､ 左マウス ボタンに 当てた 能力の ダメージ 明細で､ 装備 およびスキル から来る すべての ボーナス によって 修正 されたもの。 敵の 防御は 考慮されない。
+
+tagCharStatsArmorTotalAlert=装甲値 {^b}(?)
+tagCharStatsArmorTotal=装甲値
+tagCharStatsAbsorption=装甲 吸収率
+tagCharStatsArmorTotalDescription=装甲値が高いほど､ 物理攻撃 から 受ける ダメージが 減少する。 スキルや 非防具品 による ボーナスは､ すべての 防具 スロットに 追加される。
+tagCharStatsHitArmor=各部位の 被打率 
+tagCharStatsArmorUnprotected= 無防備
+tagCharStatsArmorNA= N/A
+tagCharStatsArmorBonus= ボーナス  :
+tagCharStatsArmorHead= 頭  :
+tagCharStatsArmorChest= 胸  :
+tagCharStatsArmorArms= 腕  :
+tagCharStatsArmorLegs= 脚  :
+tagCharStatsArmorJewelry= 装飾品  :
+tagCharStatsArmorFeet= 足  :
+tagCharStatsArmorWaist= 腰  :
+tagCharStatsArmorShoulders= 肩  :
+
+tagFormulaLearned=設計図を習得しました
+tagFormulaLearn01=習得したクラフト {%t0}
+tagFormulaLearn02={^r}この設計図はすでに習得済みです
+tagFormulaLearn03={^r}[すでに習得済み]
+
+tagItemCompareEquipped=現在の装備
+tagItemCompareVendor=売却アイテム
+tagItemCompareInventory=インベントリのアイテム
+tagItemCompareGround=地上のアイテム
+tagItemInsufficientStatus={^r}派閥の信望が足りません
+
+
+#Char Stats Tab 2
+
+tagCharStatsMaximumSpeed=最大速度
+
+#Character
+tagCharStatsAttacksPerSecond=秒あたりの攻撃
+tagCharStatsAttacksPerSecondInfoo=ボーナスを含む､ 武器の一秒あたりの攻撃数。
+tagCharStatsRunSpeed=走行速度
+tagCharStatsRunSpeedInfo=ベースラインと比較した 走行可能速度 (総合速度を含む)。
+tagCharStatsCritDmg=クリティカルダメージ
+tagCharStatsCritDmgInfo=クリティカル ストライク ダメージへの パーセント ボーナス。 クリティカル ストライクの確率は､ 標的の防御能力 との比較の上で､ あなたの攻撃能力による 影響を受けます
+tagCharStatsLifeRegen=ヘルス再生
+tagCharStatsLifeRegenInfo=戦闘中のヘルス補給レート。 パーセント ボーナスは､ 体格に基づく ベース再生からではなく 装備とスキルからのみ 再生に影響を与える。
+tagCharStatsEnergyRegen=エナジー再生
+tagCharStatsEnergyRegenInfo=エナジーの補給レート。 パーセント ボーナスは､ 精神力に基づく ベース再生からではなく 装備とスキルからのみ 再生に影響を与える。
+tagCharStatsEnergyAbsorption=エナジー吸収
+tagCharStatsEnergyAbsorptionInfo=術者に対する攻撃と呪文に 使った エナジーの 現パーセントが､ 術者のエナジーの 蓄えとして 補給される。
+tagCharStatsConstitution=活力ボーナス
+tagCharStatsConstitutionInfo=活力の 最大値を増やす パーセンテージ ボーナス。
+tagCharStatsExpGainedBonus=経験値増加
+tagCharStatsExpGainedBonusInfo=モンスターを殺して得た 全経験値に対する パーセント ボーナス。
+tagCharStatsLightRadiusBonus=照明半径
+tagCharStatsLightRadiusBonusInfo=キャラクターの周囲を照らす半径の パーセント ボーナス。
+tagCharStatsAllSkillsBonus=全スキル
+tagCharStatsAllSkillsBonusInfo=プレイヤーのマスタリー で習得した､ 全スキルに対する ボーナス。
+tagCharStatsSoldierSkillsBonus=ソルジャー スキル
+tagCharStatsSoldierSkillsBonusInfo=ソルジャー マスタリー で習得した 全スキルに対する ボーナス。
+tagCharStatsDemoSkillsBonus=デモリッショニスト スキル
+tagCharStatsDemoSkillsBonusInfo=デモリッショニスト マスタリー で習得した 全スキルに対する ボーナス。
+tagCharStatsOccuSkillsBonus=オカルティスト スキル
+tagCharStatsOccuSkillsBonusInfo=オカルティスト マスタリー で習得した 全スキルに対する ボーナス。
+tagCharStatsNightbladeSkillsBonus=ナイトブレイド スキル
+tagCharStatsNightbladeSkillsBonusInfo=ナイトブレイド マスタリー で習得した 全スキルに対する ボーナス。
+tagCharStatsArcanistSkillsBonus=アルカニスト スキル
+tagCharStatsArcanistSkillsBonusInfo=アルカニスト マスタリー で習得した 全スキルに対する ボーナス。
+tagCharStatsShamanSkillsBonus=シャーマン スキル
+tagCharStatsShamanSkillsBonusInfo=シャーマン マスタリー で習得した 全スキルに対する ボーナス。
+
+#Physical
+tagCharStatsAttackSpeed=攻撃速度
+tagCharStatsAttackSpeedDescription=ベースラインと比較した 攻撃速度 (総合速度を含む)。 遅い武器は､ 攻撃速度 ボーナスの パーセントよりも 少なくなる。
+tagCharStatsAvgDmg=武器ダメージ
+tagCharStatsAvgDmgDescription=ボーナスを含めて､ 武器攻撃が１ヒット したときに 与えるダメージ。
+
+tagCharStatsPhysicalAbsDmg=物理ダメージ
+tagCharStatsPhysicalAbsDmgInfo=ボーナスを含めて､ 武器攻撃が１ヒット したときに 与える 物理ダメージ。
+tagCharStatsPhysicalPercentDmg=物理修正
+tagCharStatsPhysicalPercentDmgInfo=武器攻撃と呪文による すべての物理ダメージに対する パーセント ボーナス。 狡猾性による ボーナスは 含まれない。 パーセント 全ダメージ は含まれる。
+
+tagCharStatsPierceAbsDmg=刺突ダメージ
+tagCharStatsPierceAbsDmgInfo=ボーナスを含めて､ 武器攻撃が１ヒット したときに 与える 刺突ダメージ。
+tagCharStatsPiercePercentDmg=刺突修正
+tagCharStatsPiercePercentDmgInfo=武器攻撃と呪文による すべての刺突ダメージに対する パーセント ボーナス。 狡猾性による ボーナスは 含まれない。 パーセント 全ダメージ は含まれる。
+
+tagCharStatsBleedAbsDmg=出血ダメージ
+tagCharStatsBleedAbsDmgInfo=ボーナスを含めて､ 武器攻撃が ヒットする毎に ３秒に渡って 適用される､ １秒当たりの 出血ダメージ。
+tagCharStatsBleedPercentDmg=出血修正
+tagCharStatsBleedPercentDmgInfo=武器攻撃と呪文による すべての出血ダメージに対する パーセント ボーナス。 狡猾性による ボーナスは 含まれない。 パーセント 全ダメージ は含まれる。
+tagCharStatsBleedDuration=出血時間
+tagCharStatsBleedDurationInfo=出血ダメージ 攻撃の 持続時間への パーセント ボーナス。 DPSは増加しない。
+
+tagCharStatsInternalTraumaAbsDmg=体内損傷ダメージ
+tagCharStatsInternalTraumaAbsDmgInfo=ボーナスを含めて､ 武器攻撃が ヒットする毎に ５秒に渡って 適用される､ １秒当たりの 体内損傷ダメージ。
+tagCharStatsInternalTraumaPercentDmg=体内損傷修正
+tagCharStatsInternalTraumaPercentDmgInfo=武器攻撃と呪文による すべての 体内損傷ダメージに対する パーセント ボーナス。 狡猾性による ボーナスは 含まれない。 パーセント 全ダメージ は含まれる。
+tagCharStatsInternalTraumaDuration=体内損傷時間
+tagCharStatsInternalTraumaDurationInfo=体内損傷ダメージ 攻撃の 持続時間への パーセント ボーナス。 DPSは増加しない。
+
+tagCharStatsDamageToHealth=ライフ スティール
+tagCharStatsDamageToHealthInfo=敵に与えた武器攻撃 ダメージの 現パーセントが､ プレイヤーの ヘルスに 補給される。
+
+#Magical
+tagCharStatsCastSpeed=詠唱速度
+tagCharStatsCastSpeedInfo=ベースラインと比較した 詠唱速度 (総合速度を含む)。
+
+tagCharStatsCooldownReduction=クールダウン短縮
+tagCharStatsCooldownReductionInfo=スキルのクールダウンが どれだけ短縮されるかを パーセントで表示。 アイテムによって付与されたスキルは､ クールダウン 短縮ボーナスや 効果の恩恵 を受けない。
+
+tagCharStatsManaCostReduction=スキルエナジーコスト
+tagCharStatsManaCostReductionInfo=スキルのエナジーコストがどれだけ減るかを パーセントで表示。
+
+tagCharStatsPercentHealthDamage=ヘルス ダメージ
+tagCharStatsPercentHealthDamageInfo=標的が現在有するヘルス に対し､ 術者の 武器攻撃が １ヒットした ときに与える ダメージと なる率。
+
+tagCharStatsFireAbsDmg=火炎ダメージ
+tagCharStatsFireAbsDmgInfo=ボーナスを含めて､ 武器攻撃が１ヒット したときに 与える 火炎ダメージ。
+tagCharStatsFirePercentDmg=火炎修正
+tagCharStatsFirePercentDmgInfo=武器攻撃と呪文による すべての火炎ダメージに対する パーセント ボーナス。 精神力による ボーナスは 含まれない。 パーセント 全ダメージ は含まれる。
+
+tagCharStatsColdAbsDmg=冷気ダメージ
+tagCharStatsColdAbsDmgInfo=ボーナスを含めて､ 武器攻撃が１ヒット したときに 与える 冷気ダメージ。
+tagCharStatsColdPercentDmg=冷気修正
+tagCharStatsColdPercentDmgInfo=武器攻撃と呪文による すべての冷気ダメージに対する パーセント ボーナス。 精神力による ボーナスは 含まれない。 パーセント 全ダメージ は含まれる。
+
+tagCharStatsLightningAbsDmg=雷ダメージ
+tagCharStatsLightningAbsDmgInfo=ボーナスを含めて､ 武器攻撃が１ヒット したときに 与える 雷ダメージ。
+tagCharStatsLightningPercentDmg=雷修正
+tagCharStatsLightningPercentDmgInfo=武器攻撃と呪文による すべての雷 ダメージに対する パーセント ボーナス。 精神力による ボーナスは 含まれない。 パーセント 全ダメージ は含まれる。
+
+tagCharStatsAcidAbsDmg=酸ダメージ
+tagCharStatsAcidAbsDmgInfo=ボーナスを含めて､ 武器攻撃が１ヒット したときに 与える 酸ダメージ。
+tagCharStatsAcidPercentDmg=酸修正
+tagCharStatsAcidPercentDmgInfo=武器攻撃と呪文による すべての酸ダメージに対する パーセント ボーナス。 精神力による ボーナスは 含まれない。 パーセント 全ダメージ は含まれる。
+
+tagCharStatsVitalityAbsDmg=生命力ダメージ
+tagCharStatsVitalityAbsDmgInfo=ボーナスを含めて､ 武器攻撃が１ヒット したときに 与える 生命力ダメージ。
+tagCharStatsVitalityPercentDmg=生命力修正
+tagCharStatsVitalityPercentDmgInfo=武器攻撃と呪文による すべての生命力ダメージに対する パーセント ボーナス。 精神力による ボーナスは 含まれない。 パーセント 全ダメージ は含まれる。
+
+tagCharStatsAetherAbsDmg=イーサー ダメージ
+tagCharStatsAetherAbsDmgInfo=ボーナスを含めて､ 武器攻撃が１ヒット したときに 与える イーサー ダメージ。
+tagCharStatsAetherPercentDmg=イーサー修正
+tagCharStatsAetherPercentDmgInfo=武器攻撃と呪文による すべてのイーサー ダメージに対する パーセント ボーナス。 精神力による ボーナスは 含まれない。 パーセント 全ダメージ は含まれる。
+
+tagCharStatsChaosAbsDmg=カオス ダメージ
+tagCharStatsChaosAbsDmgInfo=ボーナスを含めて､ 武器攻撃が１ヒット したときに 与える カオス ダメージ。
+tagCharStatsChaosPercentDmg=カオス修正
+tagCharStatsChaosPercentDmgInfo=武器攻撃と呪文による すべてのカオス ダメージに対する パーセント ボーナス。 精神力による ボーナスは 含まれない。 パーセント 全ダメージ は含まれる。
+
+tagCharStatsBurnAbsDmg=燃焼ダメージ
+tagCharStatsBurnAbsDmgInfo=ボーナスを含めて､ 武器攻撃が ヒットする毎に ３秒に渡って 適用される､ １秒当たりの 燃焼ダメージ。
+tagCharStatsBurnPercentDmg=燃焼修正
+tagCharStatsBurnPercentDmgInfo=武器攻撃と呪文による すべての燃焼ダメージに対する パーセント ボーナス。 精神力による ボーナスは 含まれない。 パーセント 全ダメージ は含まれる。
+tagCharStatsBurnDuration=燃焼時間
+tagCharStatsBurnDurationInfo=燃焼ダメージ 攻撃の 持続時間への パーセント ボーナス。 DPSは増加しない。
+
+tagCharStatsColdburnAbsDmg=凍傷ダメージ
+tagCharStatsColdburnAbsDmgInfo=ボーナスを含めて､ 武器攻撃が ヒットする毎に ３秒に渡って 適用される､ １秒当たりの 凍傷ダメージ。
+tagCharStatsColdburnPercentDmg=凍傷修正
+tagCharStatsColdburnPercentDmgInfo=武器攻撃と呪文による すべての凍傷ダメージに対する パーセント ボーナス。 精神力による ボーナスは 含まれない。 パーセント 全ダメージ は含まれる。
+tagCharStatsColdburnDuration=凍傷時間
+tagCharStatsColdburnDurationInfo=凍傷ダメージ 攻撃の 持続時間への パーセント ボーナス。 DPSは増加しない。
+
+tagCharStatsElectrocuteAbsDmg=感電ダメージ
+tagCharStatsElectrocuteAbsDmgInfo=ボーナスを含めて､ 武器攻撃が ヒットする毎に ３秒に渡って 適用される､ １秒当たりの 感電ダメージ。
+tagCharStatsElectrocutePercentDmg=感電修正
+tagCharStatsElectrocutePercentDmgInfo=武器攻撃と呪文による すべての感電ダメージに対する パーセント ボーナス。 精神力による ボーナスは 含まれない。 パーセント 全ダメージ は含まれる。
+tagCharStatsElectrocuteDuration=感電時間
+tagCharStatsElectrocuteDurationInfo=感電ダメージ 攻撃の 持続時間への パーセント ボーナス。 DPSは増加しない。
+
+tagCharStatsPoisonAbsDmg=毒ダメージ
+tagCharStatsPoisonAbsDmgInfo=ボーナスを含めて､ 武器攻撃が ヒットする毎に ５秒に渡って 適用される､ １秒当たりの 毒ダメージ。
+tagCharStatsPoisonPercentDmg=毒修正
+tagCharStatsPoisonPercentDmgInfo=武器攻撃と呪文による すべての毒ダメージに対する パーセント ボーナス。 精神力による ボーナスは 含まれない。 パーセント 全ダメージ は含まれる。
+tagCharStatsPoisonDuration=中毒時間
+tagCharStatsPoisonDurationInfo=毒ダメージ 攻撃の 持続時間への パーセント ボーナス。 DPSは増加しない。
+
+tagCharStatsVitalityDecayAbsDmg=生命力減衰ダメージ
+tagCharStatsVitalityDecayAbsDmgInfo=ボーナスを含めて､ 武器攻撃が ヒットする毎に ３秒に渡って 適用される､ １秒当たりの 生命力減衰ダメージ。
+tagCharStatsVitalityDecayPercentDmg=生命力減衰修正
+tagCharStatsVitalityDecayPercentDmgInfo=武器攻撃と呪文による すべての 生命力減衰ダメージに対する パーセント ボーナス。 精神力による ボーナスは 含まれない。 パーセント 全ダメージ は含まれる。
+tagCharStatsVitalityDecayDuration=生命力減衰時間
+tagCharStatsVitalityDecayDurationInfo=生命力減衰ダメージ 攻撃の 持続時間への パーセント ボーナス。 DPSは増加しない。
+
+tagCharStatsPhysical=物理 
+tagCharStatsPierce=刺突 
+tagCharStatsCold=冷気 
+tagCharStatsFire=火炎 
+tagCharStatsAcid=酸 
+tagCharStatsLightning=雷 
+tagCharStatsVitality=生命力 
+tagCharStatsChaos=カオス 
+tagCharStatsAether=イーサー 
+tagCharStatsLifeLeech=ライフ吸収 
+tagCharStatsManaLeech=マナ吸収 
+tagCharStatsDurInternalTrauma=体内損傷 
+tagCharStatsDurFrostburn=凍傷 
+tagCharStatsDurBurn=燃焼 
+tagCharStatsDurPoison=毒 
+tagCharStatsDurElectrocute=感電 
+tagCharStatsDurVitalityDecay=生命力減衰 
+tagCharStatsDurBleeding=出血 
+tagCharStatsDurLifeLeech=ライフ吸収 
+tagCharStatsDurManaLeech=マナ吸収 
+
+#Pets
+tagCharStatsPetHealth=ライフ
+tagCharStatsPetHealthInfo=ペット及び召喚したしもべの ヘルスに対する パーセント ボーナス。
+
+tagCharStatsPetDamage=ダメージ
+tagCharStatsPetDamageInfo=ペット及び召喚したしもべの ダメージに対する パーセント ボーナス。 ペットの報復 ダメージには 影響しない。
+
+tagCharStatsPetAttackSpeed=攻撃速度
+tagCharStatsPetAttackSpeedInfo=ペット及び召喚したしもべの 攻撃速度に対する パーセント ボーナス。
+
+tagCharStatsPetCastSpeed=詠唱速度
+tagCharStatsPetCastSpeednfo=ペット及び召喚したしもべの 詠唱速度に対する パーセント ボーナス。
+
+tagCharStatsPetRunSpeed=走行速度
+tagCharStatsPetRunSpeednfo=ペット及び召喚したしもべの 走行速度に対する パーセント ボーナス。
+
+tagCharStatsPetOA=攻撃能力
+tagCharStatsPetOAInfo=ペット及び召喚したしもべの 攻撃能力に対する パーセント ボーナス。
+
+tagCharStatsPetDA=防御能力
+tagCharStatsPetDAInfo=ペット及び召喚したしもべの 防御能力に対する パーセント ボーナス。
+
+tagCharStatsPetPhysicalResist=物理耐性
+tagCharStatsPetPhysicalResistInfo=ペット及び召喚したしもべの 物理耐性に対する パーセント ボーナス。
+
+tagCharStatsPetFireResist=火炎耐性
+tagCharStatsPetFireResistInfo=ペットと召喚したしもべの 火炎耐性への パーセント ボーナス。
+
+tagCharStatsPetColdResist=冷気耐性
+tagCharStatsPetColdResistInfo=ペットと召喚したしもべの 冷気耐性への パーセント ボーナス。
+
+tagCharStatsPetLightningResist=雷耐性
+tagCharStatsPetLightningResistInfo=ペットと召喚したしもべの 雷耐性への パーセント ボーナス。
+
+tagCharStatsPetPoisonResist=毒酸耐性
+tagCharStatsPetPoisonResistInfo=ペットと召喚したしもべの 毒酸耐性への パーセント ボーナス。
+
+tagCharStatsPetPierceResist=刺突耐性
+tagCharStatsPetPierceResistInfo=ペットと召喚したしもべの 刺突耐性への パーセント ボーナス。
+
+tagCharStatsPetBleedResist=出血耐性
+tagCharStatsPetBleedResistInfo=ペットと召喚したしもべの 出血耐性への パーセント ボーナス。
+
+tagCharStatsPetVitalityResist=生命力耐性
+tagCharStatsPetVitalityResistInfo=ペットと召喚したしもべの 生命力耐性への パーセント ボーナス。
+
+tagCharStatsPetAetherResist=イーサー耐性
+tagCharStatsPetAetherResistInfo=The ペットと召喚したしもべの イーサー耐性への パーセント ボーナス。
+
+tagCharStatsPetChaosResist=カオス耐性
+tagCharStatsPetChaosResistInfo=ペットと召喚したしもべの カオス耐性への パーセント ボーナス。
+
+#Char Stats Tab 3
+
+#Defense
+tagCharStatsBlockChance=ブロック率
+tagCharStatsBlockChanceDescription=敵の攻撃をブロックする確率。
+
+tagCharStatsBlockAmount=ダメージブロック
+tagCharStatsBlockAmountDescription=ブロックの成功によって 否定される ダメージの総量。
+
+tagCharStatsBlockRecovery=ブロック回復
+tagCharStatsBlockRecoveryInfo=ブロックが回復するまでの 時間の 減少率。
+
+tagCharStatsDodgeChance=ドッジ率
+tagCharStatsDodgeChanceInfo=近接攻撃をかわす確率､ 完全に ダメージが 否定される。
+
+tagCharStatsProjDeflectChance=逸らし率
+tagCharStatsProjDeflectChanceInfo=遠隔攻撃を逸らす確率､ 完全に ダメージが 否定される
+
+tagCharStatsPhysicalResist=物理耐性
+tagCharStatsPhysicalResistInfo=物理的損傷と体内損傷を起こす 呪文と攻撃に 対する耐性。
+
+tagCharStatsDisruptionResist=妨害耐性
+tagCharStatsDisruptionResistInfo=プレイヤーのスキル使用を 妨害する 呪文や攻撃に 対する耐性。
+
+tagCharStatsLifeLeechResist=ライフ吸収耐性
+tagCharStatsLifeLeechResistInfo=ライフを排出させる攻撃に 対する耐性。
+
+tagCharStatsEnergyLeechResist=エナジー吸収耐性
+tagCharStatsEnergyLeechResistInfo=エナジーを排出させる攻撃に 対する耐性。
+
+tagCharStatsTrapResist=トラップ耐性
+tagCharStatsTrapResistInfo=プレイヤーを動けなくする罠効果に 対する耐性。
+
+tagCharStatsPetrifyResist=石化耐性
+tagCharStatsPetrifyResistInfo=肉を石化させて､ 反応できない ようにする 呪文に対する耐性。
+
+tagCharStatsFreezeResist=凍結耐性
+tagCharStatsFreezeResistInfo=硬く凍結させて､ 反応できない ようにする 呪文に対する耐性。
+
+tagCharStatsSleepResist=睡眠耐性
+tagCharStatsSleepResistInfo=熟睡のような状態に置き､ 打撃 されるまで 反応できない ようにする 呪文に 対する耐性。
+
+tagCharStatsSlowResist=減速耐性
+tagCharStatsSlowResistInfo=攻撃､ 呪文詠唱､ 走行の 速度を 遅くする 効果に 対する耐性。
+
+#Retaliation
+tagCharStatsDamageReflect=ダメージ反射
+tagCharStatsDamageReflectInfo=受けたダメージのうち､ 攻撃者に反射される割合。
+
+tagCharStatsCurrentLifeReflect=ライフ報復
+tagCharStatsCurrentLifeReflectInfo=ヒットされたときに､ 攻撃者の現在ヘルスの 何パーセントかを ダメージとして与える。
+
+tagCharStatsPhysicalRet=物理
+tagCharStatsPhysicalRetInfo=ヒットされたときに､ 攻撃者に与える 物理ダメージ。
+tagCharStatsPhysicalPercentRet=物理修正
+tagCharStatsPhysicalPercentRetInfo=すべての物理ダメージ 報復効果への パーセントボーナス。 パーセント 全ダメージは､ 報復ダメージに 影響しない。
+
+tagCharStatsPierceRet=刺突
+tagCharStatsPierceRetInfo=ヒットされたときに､ 攻撃者に与える 刺突ダメージ。
+tagCharStatsPiercePercentRet=刺突修正
+tagCharStatsPiercePercentRetInfo=すべての刺突ダメージ 報復効果への パーセントボーナス。 パーセント 全ダメージは､ 報復ダメージに 影響しない。
+
+tagCharStatsBleedRet=出血
+tagCharStatsBleedRetInfo=ヒットされると常に ３秒に渡って 攻撃者に対して 適用される､ １秒当たりの 出血ダメージ。
+tagCharStatsBleedPercentRet=出血修正
+tagCharStatsBleedPercentRetInfo=すべての出血ダメージ 報復効果への パーセントボーナス。 パーセント 全ダメージは､ 報復ダメージに 影響しない。
+
+tagCharStatsInternalTraumaRet=体内損傷
+tagCharStatsInternalTraumaRetInfo=ヒットされると常に ５秒に渡って 攻撃者に対して 適用される､ １秒当たりの 体内損傷ダメージ。
+tagCharStatsInternalTraumaPercentRet=体内損傷修正
+tagCharStatsInternalTraumaPercentRetInfo=すべての体内損傷ダメージ 報復効果への パーセントボーナス。 パーセント 全ダメージは､ 報復ダメージに 影響しない。
+
+tagCharStatsFireRet=火炎
+tagCharStatsFireRetInfo=ヒットされたときに､ 攻撃者に与える 火炎ダメージ。
+tagCharStatsFirePercentRet=火炎修正
+tagCharStatsFirePercentRetInfo=すべての火炎ダメージ 報復効果への パーセントボーナス。 パーセント 全ダメージは､ 報復ダメージに 影響しない。
+
+tagCharStatsColdRet=冷気
+tagCharStatsColdRetInfo=ヒットされたときに､ 攻撃者に与える 冷気ダメージ。
+tagCharStatsColdPercentRet=冷気修正
+tagCharStatsColdPercentRetInfo=すべての冷気ダメージ 報復効果への パーセントボーナス。 パーセント 全ダメージは､ 報復ダメージに 影響しない。
+
+tagCharStatsLightningRet=雷
+tagCharStatsLightningRetInfo=ヒットされたときに､ 攻撃者に与える 雷ダメージ。
+tagCharStatsLightningPercentRet=雷修正
+tagCharStatsLightningPercentRetInfo=すべての雷ダメージ 報復効果への パーセントボーナス。 パーセント 全ダメージは､ 報復ダメージに 影響しない。
+
+tagCharStatsAcidRet=酸
+tagCharStatsAcidRetInfo=ヒットされたときに､ 攻撃者に与える 酸ダメージ。
+tagCharStatsAcidPercentRet=酸修正
+tagCharStatsAcidPercentRetInfo=すべての酸ダメージ 報復効果への パーセントボーナス。 パーセント 全ダメージは､ 報復ダメージに 影響しない。
+
+tagCharStatsVitalityRet=生命力
+tagCharStatsVitalityRetInfo=ヒットされたときに､ 攻撃者に与える 生命力ダメージ。
+tagCharStatsVitalityPercentRet=生命力修正
+tagCharStatsVitalityPercentRetInfo=すべての生命力ダメージ 報復効果への パーセントボーナス。 パーセント 全ダメージは､ 報復ダメージに 影響しない。
+
+tagCharStatsAetherRet=イーサー
+tagCharStatsAetherRetInfo=ヒットされたときに､ 攻撃者に与える イーサー ダメージ。
+tagCharStatsAetherPercentRet=イーサー修正
+tagCharStatsAetherPercentRetInfo=すべてのイーサー ダメージ 報復効果への パーセントボーナス。 パーセント 全ダメージは､ 報復ダメージに 影響しない。
+
+tagCharStatsChaosRet=カオス
+tagCharStatsChaosRetInfo=ヒットされたときに､ 攻撃者に与える カオス ダメージ。
+tagCharStatsChaosPercentRet=カオス修正
+tagCharStatsChaosPercentRetInfo=すべてのカオス ダメージ 報復効果への パーセントボーナス。 パーセント 全ダメージは､ 報復ダメージに 影響しない。
+
+tagCharStatsBurnRet=燃焼
+tagCharStatsBurnRetInfo=ヒットされると常に ３秒に渡って 攻撃者に対して 適用される､ １秒当たりの 燃焼ダメージ。
+tagCharStatsBurnPercentRet=燃焼修正
+tagCharStatsBurnPercentRetInfo=すべての燃焼ダメージ 報復効果への パーセントボーナス。 パーセント 全ダメージは､ 報復ダメージに 影響しない。
+
+tagCharStatsColdburnRet=凍傷
+tagCharStatsColdburnRetInfo=ヒットされると常に ３秒に渡って 攻撃者に対して 適用される､ １秒当たりの 凍傷ダメージ。
+tagCharStatsColdburnPercentRet=凍傷修正
+tagCharStatsColdburnPercentRetInfo=すべての凍傷ダメージ 報復効果への パーセントボーナス。 パーセント 全ダメージは､ 報復ダメージに 影響しない。
+
+tagCharStatsElectrocuteRet=感電
+tagCharStatsElectrocuteRetInfo=ヒットされると常に ３秒に渡って 攻撃者に対して 適用される､ １秒当たりの 感電ダメージ。
+tagCharStatsElectrocutePercentRet=感電修正
+tagCharStatsElectrocutePercentRetInfo=すべての感電ダメージ 報復効果への パーセントボーナス。 パーセント 全ダメージは､ 報復ダメージに 影響しない。
+
+tagCharStatsPoisonRet=毒
+tagCharStatsPoisonRetInfo=ヒットされると常に ５秒に渡って 攻撃者に対して 適用される､ １秒当たりの 毒ダメージ。
+tagCharStatsPoisonPercentRet=毒修正
+tagCharStatsPoisonPercentRetInfo=すべての毒ダメージ 報復効果への パーセントボーナス。 パーセント 全ダメージは､ 報復ダメージに 影響しない。
+
+tagCharStatsVitalityDecayRet=生命力減衰
+tagCharStatsVitalityDecayRetInfo=ヒットされると常に ３秒に渡って 攻撃者に対して 適用される､ １秒当たりの 生命力減衰ダメージ。
+tagCharStatsVitalityDecayPercentRet=生命力減衰修正
+tagCharStatsVitalityDecayPercentRetInfo=すべての生命力減衰ダメージ 報復効果への パーセントボーナス。 パーセント 全ダメージは､ 報復ダメージに 影響しない。
+
+#Stats
+tagCharStatsItemLevel=平均アイテムレベル
+tagCharStatsItemLevelInfo=装備している全アイテムの平均レベル。
+
+tagRecordTime=経過時間
+tagRecordTimeNumber={%d0} :{%d1} :{%d2}
+tagRecordTimeInfo=日時分表示による総プレイ時間。
+
+tagRecordMonsterKills=モンスター殺害数
+tagRecordMonsterKillsInfo=殺したモンスターの総数。
+
+tagRecordChampionKills=ボスとヒーロー殺害数
+tagRecordChampionKillsInfo=敵のボスとヒーローの総殺害数。
+
+tagRecordHighestMonster=斃した最強モンスター
+tagRecordHighestMonsterInfo=殺した中で､ 最も強力なモンスター。
+
+tagRecordHighestDamage=与えたダメージ
+tagRecordHighestDamageInfo=これまでに､ 一度の攻撃で与えた 最大ダメージ。
+
+tagRecordHighestDamageTaken=受けたダメージ
+tagRecordHighestDamageTakenInfo=これまでに､ 一度の攻撃で受けた 最大ダメージ。
+
+tagRecordDeath=死亡数
+tagRecordDeathInfo=キャラクターが死んだ回数。
+
+tagCharStatsSecondaryResist=二次耐性:
+
+tagCharacterStats=キャラクターの統計
+tagCharStatsFactionTitle=派閥
+tagCPercentageValue={%.0f}%
+
+#Vendor
+
+tagVendorTabArtifactA=アーティファクト
+tagVendorTabArtifactB=代替物
+tagVendorTab01A=近接武器
+tagVendorTab01B=放棄された家､ 死んで久しい､ あるいは間もない 人から回収した､ 戦争武器の 各種組み合わせ。
+tagVendorTab02A=遠隔武器
+tagVendorTab02B=合わない部品を継ぎ合せた ピストルから､ 自動回転 メカニズムで 修復した 古いクロスボウに至るまでの すべて。
+tagVendorTab03A=防具
+tagVendorTab03B=使い古した布と鉄屑から 組み立てた､ 防具の コレクション。 昔の戦場から 回収した 本物の防具の 板金を､ 継ぎ接ぎした ものすらある。
+tagVendorTab04A=装飾品と消耗品
+tagVendorTab04B=古い遺物と自家醸造 治療薬の混合。
+tagVendorTab05A=買戻し
+tagVendorTab05B=気が変わりましたか？ 商店にいる間は､ 余分な支出をせずに 品物を買い戻す ことができます。しかし､ その場を離れれば すぐに売却は 確定されます。
+tagVendorSearchBoxInfo=アイテム名や目的の統計値に基づいた アイテムを ふるい分けるよう､ 検索項目を入力します。
+
+tagFactionVendorTab01A=友好
+tagFactionVendorTab01B=友好でアンロックする派閥の報酬。
+tagFactionVendorTab02A=敬意
+tagFactionVendorTab02B=敬意でアンロックする派閥の報酬。
+tagFactionVendorTab03A=栄誉
+tagFactionVendorTab03B=栄誉でアンロックする派閥の報酬。
+tagFactionVendorTab04A=崇拝
+tagFactionVendorTab04B=崇拝でアンロックする派閥の報酬。
+
+tagVendorRolloverName=廃品回収商
+tagVendorRolloverDescription=人間の拠点を越える勇気ある者 たちによって 回収され､ 盗まれた品物 を売る。 そういうやり方で､ 商人は 人類の不幸から 利益を 得ています。 品物の出処は､ 尋ねぬのが 最良です。
+
+MarketCostAffordable={^g}費用  {%d0}
+MarketCostTooExpensive={^r}費用  {%d0} ~ 鉄が不足
+MarketCostReputationTooLow={^r}費用  {%d0} ~ 名声不足
+MarketCostPreviousTransaction={^g}費用  {%d0} ~ 元の売価
+MarketCostPreviousTransactionTooExpensive={^r}費用  {%d0} ~ 鉄が不足
+MarketValue={^g}売価  {%d0}
+MarketValuePreviousTransaction={^g}売戻し  {%d0} ~ 元の買値
+MarketSalePending=売却保留
+MarketPurchasePending=購入保留
+
+tagMarketError01=鉄が足りません。
+tagMarketError02=インベントリに十分な空きが ありません。
+tagMarketError03=そのアイテムは売られました。
+tagMarketError04=そのアイテムは売ることが できません。
+tagMarketError05=派閥における地位が十分では ありません。
+CanNotBeSoldHere=この商人はこのアイテムには 応じません。
+Sold=Sold
+
+
+#Crafting
+
+tagCrafting=製作
+tagInventorNamePlate=発明家
+tagCraftingComponentCount=インベントリにある材料の量
+tagCraftingComponentMissing=この材料は現在､ インベントリに ありません。
+tagCraftingWindowTitle=発明家
+tagCraftingPanelA=装備品の一部変更
+tagCraftingPanelB=装備品の分離
+tagCraftingCost=費用:
+tagCraftingBlueprint=設計図
+tagCraftingComponent=構成材
+tagCraftingComponentRequired=材料:
+tagCraftingCombine=合成
+tagCraftingDisplayBoxHelp=装備を作り始めるには､ 設計図を 作業台の上に 置いて ください。
+tagCraftingBlueprintInfo=鍛冶屋は､ 回収した様々な 材料によって アップグレードした アイテムを 造るために､ 設計図を使う ことができます。
+tagCraftingDeviceCost=鉄の費用:  {%t0}
+tagCraftingCreate=製作:
+tagCraftingLearn=[右クリックで習得]
+tagCraftingRandom={^E}+ランダムな能力
+tagCraftingQuantity={%d0}/{%d1}
+tagCraftingLargeQuantity=99+/{%d0}
+tagCraftingLargeStack=99+
+
+tagCraftingItemType00= ~ 装置
+tagCraftingItemType01= ~ 完成したコンポーネント
+tagCraftingItemType02= ~ 完成した材料
+tagCraftingItemType03= ~ 巻物
+tagCraftingItemType04= ~ 道具
+
+tagCraftingButtonInfo=製作ウィンドウに置かれた アイテムを 合成します。このボタンは､ 必要な材料が すべて加えられた ときに明るく 表示されます。
+tagCraftingConfirmation=本当に､ この組み合わせで 仕上げますか？
+
+tagCraftingDetatchmentInfo=
+
+tagCraftingProductBoxInfo=必要なコンポーネントが 場所に 置かれると､ 組み立てられた アイテムが ここに現れます。
+tagCraftingProductBoxCompletion=作業台から新たに組み立てられた アイテムを 取ってください。
+
+tagCraftingInsterComponent=これらのスロットに､ 設計図が指定する コンポーネントを 入れてください。
+
+tagCraftingSearchBoxInfo=アイテム名や希望の統計に基づいて 設計図を フィルタリングする､ 検索項目を 入力します。
+
+#Subheadings
+
+tagCraftingAxes=斧
+tagCraftingBlunt=鈍器
+tagCraftingSwords=剣
+tagCraftingImplements=器具
+tagCraftingTwoHandedMelee=両手近接
+tagCraftingSpears=槍
+tagCraftingStaves=杖
+
+tagCraftingOneHanded=片手遠隔
+tagCraftingTwoHanded=両手遠隔
+
+tagCraftingBelts=ベルト
+tagCraftingHelms=ヘルム
+tagCraftingTorso=胸
+tagCraftingShoulders=肩
+tagCraftingLegs=脚
+tagCraftingHands=腕
+tagCraftingFeet=足
+tagCraftingOffhands=詠唱者用 オフハンド
+tagCraftingShields=盾
+
+tagCraftingComponents=コンポーネント
+tagCraftingAccessories=アクセサリー
+tagCraftingConsumables=消耗品
+tagCraftingMaterials=材料
+
+tagCraftingRelicsTier01=通常の レリック
+tagCraftingRelicsTier02=超越的 レリック
+tagCraftingRelicsTier03=神話的 レリック
+
+tagDividerTab01=回収
+tagDividerRoll01=回収室は､ アイテムから コンポーネントを 取り出すために 使われます。 残念ながら 処理過程は 不完全であり､ 常にアイテムか コンポーネントが 壊れます。 とはいえ､ どちらを回収し 犠牲にするか を決めること はできます。 アイテムを回収する場合は､ 適用された 増強剤は 何であろうと 除去される でしょう。 ソウルバウンドの 増強剤が このようにして 除去され､ アイテムが 当初から ソウルバウンド でなければ ソウルバウンドの 状態も同じく 除去される でしょう。
+
+tagDividerTab02=解体
+tagDividerRoll02=解体室は､ 強力な魔法のアイテムを 基本的な 部品に 分解するのに 使われます。 発明家は まだこの能力を 習得していません。
+tagDividerRoll02B=解体室は､ 強力な魔法のアイテムを 基本的な 部品に 分解するのに 使われます。 この処理には大きなエネルギーを 要するので､ 賢い発明家は 機能実現のために ダイナマイトを 利用しました。
+
+tagDividingButtonKeepItem=アイテムを保存
+tagDividingBoxInfo=コンポーネントか増強剤 の付いた アイテムを､ 部屋に置いて ください。
+tagDividingButtonKeepComponent=付加物を保存
+tagDividingButtonRemoveAugment=増強剤を除去
+tagDividingKeepItemWarning=アイテムの回収を選ぶと､ 付加 された コンポーネントは 壊れ､ いかなる 増強剤も 除去されます。
+tagDividingKeepComponentWarning=コンポーネントの回収を 選ぶと､ アイテムは 壊れ､ いかなる 増強剤も 除去されます。
+tagDividingRemoveAugmentWarning=増強剤は除去されると 壊れますが､ 増強剤によって 付いた ソウルバウンド 特性も 取り除かれます。
+tagDividingCost=回収費用:
+
+tagDismantleDynamiteTotal=ダイナマイトの総数 :
+tagDismantleCost=解体費用:
+tagDismantleButton=解体を選ぶと､ このアイテムは 壊れます。
+tagDismantleDestroyItemWarning=解体を選ぶと､ このアイテムは 壊れます。 続けますか？
+tagDismantleDestroyItemComponentWarning=解体を選ぶと､ このアイテムは 壊れ､ コンポーネントが残ります。 続けますか？
+tagDismantleBoxInfo=コモン品よりも高い アイテムを､ 部屋に置いて ください。
+
+#Shrine
+
+tagShrineDesecrated=穢れた祠
+tagShrineRuined=荒廃した祠
+tagShrineRestored=修復した祠
+tagShrineButton01=奉納
+tagShrineButton02=始める
+tagShrineButton03=キャンセル
+tagShrineButtonInfo=社の近くにこの供物を 置いてください
+tagShrineWarning=この祠は破壊されているため､ 修復する 必要が あります 本当に この供物を 置きますか？
+tagShrineConfirmProxy=この祠は穢されているため､ 浄化する 必要が あります。 中に閉じ込め られているものを 呼び出しますか？
+tagShrineActivated=この祠はもう修復されました。
+tagShrineHostActivated=この祠はもうホストによって修復されました。
+tagShrineHostNotActivated=この祠は､ 既に別のセッションで 修復されました。
+tagShrineBusy=この祠は別のプレイヤーに 使われています。
+tagShrineLocked=祠は休眠中です。
+
+#Smuggler
+
+tagStorageRefund=倉庫の払戻し
+tagCaravanTitle=密輸業者
+tagCaravanCost=費用: {%d0}
+tagCaravanRefund=払戻し : {%d0}
+tagCaravanExpand=スタッシュ拡張
+tagCaravanItemStorage=アイテム スタッシュ
+tagStorageInfo01=アイテム スタッシュを インベントリの拡張として 使用しましょう。 アイテム スタッシュは､ Shift + 左クリックか ドラッグ アンド ドロップで 出し入れします。 こうにして 収納した アイテムは､ ゲーム内のすべての 密輸業者で 利用できます。
+tagTransferCost=転送費用: {%d0}
+tagTransferAdd=本当に､ このアイテムを 共有貯蔵庫に 加えますか？
+tagTransferInfo01=他のキャラクターにアイテムを 転送するのに 密輸業者を 使いましょう。 ただアイテムを そこに落とすだけで､ 他のすべての キャラクターが 使えるように なります。
+tagCaravanItemTransfer=アイテム 転送
+tagTransferInfo02=密輸業者がすべてのキャラクターに 提供できる ようにするには､ アイテムを 転送エリアに 置きましょう。
+tagCaravanError01=このアイテムを転送するのに 必要な鉄片が ありません。
+tagStorageError01=貯蔵庫の拡張をするのに 必要な鉄片が ありません。
+tagTransferError01=貯蔵庫を買うには {%d0} 鉄片が必要です。
+tagTransferPurchase01={%d0} 鉄片を払って 貯蔵庫を買いますか？
+tagTransferTab01=Tab 1
+tagTransferTab02=Tab 2
+tagTransferTab03=Tab 3
+tagTransferTab04=Tab 4
+tagCaravanSort=本当にアイテムを 自動整理しますか？
+
+#Chat
+
+tagChatSend=送る...
+tagChatCommand01=グループ
+tagChatCommand02=全員
+tagChatCommand03=返事
+tagChatCommand04=話す
+tagChatCommand05=ミュート
+tagChatCommand06=アンミュート
+tagChatBrag=[{%t0}{%t1}{^-}]
+
+#NPC Conversation
+tagNpcConversationBusy=そのNPCは､ 他のプレイヤーとの 会話で 忙しい。
+
+#Treasure Trove
+tagTroveBusy=そのオブジェクトは､ 別のプレイヤー によって 相互に作用します。
+
+#Maps
+
+tagAerialMapCenteredButton=センター
+tagAerialMapZoomText=ズーム
+
+tagMapWindowName=ローカル マップ
+tagRiftWindowName=リフト マップ
+tagWorldMapWindowName=ワールド マップ
+
+tagMapSymbolAOI=注目点
+tagMapSymbolAOIDesc=興味深い地点。
+tagMapSymbolSmuggler=密輸業者
+tagMapSymbolSmugglerDesc=あなたのアイテムを貯蔵し､ 他のキャラクターに転送するいかがわしい人物。
+tagMapSymbolHero=プレイヤー
+tagMapSymbolHeroDesc=あなたが現在いる場所。
+tagMapSymbolInventor=発明家
+tagMapSymbolInventorDesc=コンポーネントをアイテムから取り除くことができる機械マニア。
+tagMapSymbolMission=クエスト
+tagMapSymbolMissionDesc=現在遂行中のクエスト。
+tagMapSymbolNPC=NPC
+tagMapSymbolNPCDesc=操作できない人物。
+tagMapSymbolGroup=グループ
+tagMapSymbolGroupDesc=あなたのグループメンバーの所在地。
+tagMapSymbolRespawn=ヒーラー
+tagMapSymbolRespawnDesc=ヒーラーは､ 若返りと重い傷を塞ぐ訓練を積んでいます。
+tagMapSymbolRiftgate=リフトゲート
+tagMapSymbolRiftgateDesc=あなたを他の場所に輸送できる､ 異世界のリフト (裂け目) 。
+tagMapSymbolVendor=商人
+tagMapSymbolVendorDesc=戦争用品の商人。
+tagMapSymbolWitch=スピリットガイド
+tagMapSymbolWitchDesc=スキル知識を捨てたいときに 助力できる精神的人物。
+tagMapSymbolShrine=祠
+tagMapSymbolShrineDesc=星と古き神々に捧げられた古代の祠。
+tagMapSymbolSmith=鍛冶屋
+tagMapSymbolSmithDesc=新しいアイテムを造ることができる熟練の職人。
+
+#SystemStatsSkillUI
+
+tagOptionsMenuReturn=ゲームに戻る
+tagOptionsMenuExit=メインメニューに抜ける
+tagOptionsMenuQuit=デスクトップに去る
+tagOptionsMenuOptions=オプション メニュー
+tagOptionsMenuGameSaved=ゲームをセーブしました
+tagOptionsMenuExitMenuConfirm=本当にメイン メニューに 抜けますか？
+tagOptionsMenuExitGameConfirm=本当にデスクトップに 去りますか？
+tagInfoTitle=情報
+tagInfoButtonYes=はい
+tagInfoButtonNo=いいえ
+tagInfoButtonOk=OK
+tagGameOver=あなたは死んだ！
+
+SimpleStringFormat={%s0}
+SimpleStringsFormat={%s0}{%s1}
+TripleStringFormat={%s0}{%s1}{%s2}
+TripleStringFormat2={%s0} {%s1}{%s2}
+QuadStringFormat={%s0}{%s1}{%s2}{%s3}
+SkillBaseNamesFormat={    %s0}
+CostFormat=費用: {%d0}
+ManaDisplayFormat=エナジー  {%d0} / {%d1} ({%d2} 予約量)
+LifeDisplayFormat=ヘルス  {%d0} / {%d1}
+ExperienceDisplayFormat=現在の経験値 : {^y}{%d0}{^w}  ~  次のレベルへの経験値 : {^y}{%d1}
+
+tagExpDisplayFormat=現在の経験値 : {^y}{%t0}{^w}  ~  次のレベルまでの経験値 : {^y}{%t1}
+
+tagCharPointsSpent=使ったポイント:
+
+tagCharAttribute01={%+.0f0} {^F}狡猾性{^E}
+tagCharAttribute02={%+.0f0} {^F}体格{^E}
+tagCharAttribute03={%+.0f0} {^F}精神力{^E}
+tagCharAttribute04={%+.0f0} {^F}ヘルス{^E}
+tagCharAttribute05={%+.0f0} {^F}エナジー{^E}
+tagCharConstitution={%+.0f0} {^E}活力
+tagCharLifeRegen={%+.1f0} {^E}ヘルス再生 / 秒
+tagCharManaRegen={%+.1f0} {^E}エナジー再生 / 秒
+
+tagCharAttribute01Modifier={%+.0f0}% {^F}狡猾性{^E}
+tagCharAttribute02Modifier={%+.0f0}% {^F}体格{^E}
+tagCharAttribute03Modifier={%+.0f0}% {^F}精神力{^E}
+tagCharAttribute04Modifier={%+.0f0}% {^F}ヘルス{^E}
+tagCharAttribute05Modifier={%+.0f0}% {^F}エナジー{^E}
+tagCharConstitutionModifier={%+.0f0}% {^E}活力
+tagCharLifeRegenModifier={^E}ヘルス再生量増加 {^H}{%.0f0}%
+tagCharManaRegenModifier={^E}エナジー再生量増加 {^H}{%.0f0}%
+
+tagCharManaLimitReserve={%.0f0} {^E}エナジー予約量
+tagCharManaLimitReserveMod={%+.0f0} {^E}エナジー予約量
+tagCharManaLimitReserveReduction=-{%.0f0} {^E}予約エナジーコスト
+tagCharManaLimitReserveModifier={+%.0f0}% {^E}エナジー予約量
+tagCharManaLimitReserveReductionModifier=-{%.0f0}% {^E}エナジー予約量
+
+tagCharRunSpeed={%+.0f0}% {^X}移動速度{^E}
+tagCharSpellCastSpeed={%+.0f0}% {^X}詠唱速度{^E}
+tagCharAttackSpeed={%+.0f0}% {^X}攻撃速度{^E}
+tagCharTotalSpeedModifier={%+.0f0}% {^X}総合速度{^E}
+tagCharRunSpeedModifier={%+.0f0}% {^X}移動速度{^E}
+tagCharSpellCastSpeedModifier={%+.0f0}% {^X}詠唱速度{^E}
+tagCharAttackSpeedModifier={%+.0f0}% {^X}攻撃速度{^E}
+
+tagCharAttribute01R={%+.0f0}-{%.0f1} {^F}狡猾性{^E}
+tagCharAttribute02R={%+.0f0}-{%.0f1} {^F}体格{^E}
+tagCharAttribute03R={%+.0f0}-{%.0f1} {^F}精神力{^E}
+tagCharAttribute04R={%+.0f0}-{%.0f1} {^F}ヘルス{^E}
+tagCharAttribute05R={%+.0f0}-{%.0f1} {^F}エナジー{^E}
+tagCharLifeRegenR={%+.1f0}-{%.1f1} {^E}ヘルス再生 / 秒
+tagCharManaRegenR={%+.1f0}-{%.1f1} {^E}エナジー再生 / 秒
+tagCharAttribute01ModifierR={%+.0f0}-{%.0f1}% {^F}狡猾性{^E}
+tagCharAttribute02ModifierR={%+.0f0}-{%.0f1}% {^F}体格{^E}
+tagCharAttribute03ModifierR={%+.0f0}-{%.0f1}% {^F}精神力{^E}
+tagCharAttribute04ModifierR={%+.0f0}-{%.0f1}% {^F}ヘルス{^E}
+tagCharAttribute05ModifierR={%+.0f0}-{%.0f1}% {^F}エナジー{^E}
+tagCharLifeRegenModifierR={^E}ヘルス再生量増加 {^H}{%.0f0}-{%.0f1}%
+tagCharManaRegenModifierR={^E}エナジー再生量増加 {^H}{%.0f0}-{%.0f1}%
+tagCharManaLimitReserveR={%+.0f0}-{%.0f1} {^E}エナジー予約量
+tagCharManaLimitReserveReductionR=-({%.0f0}-{%.0f1}) {^E}予約エナジーコスト
+tagCharManaLimitReserveModifierR={+%.0f0}-{%.0f1}% {^E}エナジー予約量
+tagCharManaLimitReserveReductionModifierR=-({%.0f0}-{%.0f1}%) {^E}エナジー予約量
+tagCharRunSpeedR={%+.0f0}-{%.0f1}% {^X}移動速度{^E}
+tagCharSpellCastSpeedR={%+.0f0}-{%.0f1}% {^X}詠唱速度{^E}
+tagCharAttackSpeedR={%+.0f0}-{%.0f1}% {^X}攻撃速度{^E}
+tagCharTotalSpeedModifierR={%+.0f0}-{%.0f1}%{^X} 総合速度{^E}
+tagCharRunSpeedModifierR={%+.0f0}-{%.0f1}%{^X} 移動速度{^E}
+tagCharSpellCastSpeedModifierR={%+.0f0}-{%.0f1}%{^X} 詠唱速度{^E}
+tagCharAttackSpeedModifierR={%+.0f0}-{%.0f1}%{^X} 攻撃速度{^E}
+tagCharOffensiveAbilityR={%+.0f0}-{%.0f1} {^X}攻撃能力{^E}
+tagCharDefensiveAbilityR={%+.0f0}-{%.0f1} {^X}防御能力{^E}
+tagCharOffensiveAbilityModifierR={%+.0f0}-{%.0f1}%{^X} 攻撃能力{^E}
+tagCharDefensiveAbilityModifierR={%+.0f0}-{%.0f1}%{^X} 防御能力{^E}
+tagCharDefensiveBlockRecoveryReductionR=-({%.0f0}-%.0f1})% {^E}シールド回復時間
+tagCharEnergyAbsorptionPercentR={%+.0f0}-{%.0f1}%{^E} 敵の呪文からエナジーを吸収
+tagCharDodgePercentR={%.0f0}-{%.0f1}%{^E} 近接攻撃回避率
+tagCharDeflectProjectilesR={%.0f0}-{%.0f1}%{^E} 投射物回避率
+tagCharIncreasedExperienceR={%+.0f0}-{%.0f1}%{^X} 経験値獲得{^E}
+tagCharLightRadiusR={%+.0f0}-{%.0f1}%{^E} 照明半径
+tagCharItemGlobalReductionR={%.0f0}-{%.0f1}%{^E} すべての必要属性値を減少
+tagCharLevelReqReductionR=-({%.0f0}-{%.0f1}) {^E}アイテムに要するプレイヤー レベル
+tagCharArmorStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}防具に要する体格
+tagCharArmorDexterityReqReductionR=-({%.0f0}--{%.0f1}%) {^E}防具に要する狡猾性
+tagCharArmorIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}防具に要する精神力
+tagCharJewelryIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}装飾品に要する精神力
+tagCharJewelryStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}装飾品に要する体格
+tagCharJewelryDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}装飾品に要する狡猾性
+tagCharShieldStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}盾に要する体格
+tagCharShieldIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}盾に要する精神力
+tagCharShieldDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}盾に要する狡猾性
+tagCharMeleeStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}近接武器に要する体格
+tagCharMeleeDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}近接武器に要する狡猾性
+tagCharMeleeIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}近接武器に要する精神力
+tagCharHuntingStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}遠隔武器に要する体格
+tagCharHuntingDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}遠隔武器に要する狡猾性
+tagCharHuntingIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}遠隔武器に要する精神力
+tagCharStaffIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}杖に要する精神力
+tagCharStaffStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}杖に要する体格
+tagCharStaffDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}杖に要する狡猾性
+tagCharWeapon2HIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}両手持ち武器に要する精神力
+tagCharWeapon2HStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}両手持ち武器に要する体格
+tagCharWeapon2HDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}両手持ち武器に要する狡猾性
+tagCharWeaponIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}すべての武器に要する精神力
+tagCharWeaponStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}すべての武器に要する体格
+tagCharWeaponDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}すべての武器に要する狡猾性
+
+SkillManaCostReductionR=-{%.0f0}% {^E}スキルエナジーコスト
+SkillCooldownReductionR=+{%.0f0}% {^E}スキルクールダウン短縮
+SkillProjectileSpeedModifierR={%+.0f0}% {^E}投射物の速度が向上
+SkillManaCostReductionModifierR=-{%.0f0}% {^E}スキルエナジーコスト
+SkillCooldownReductionModifierR=-{%.0f0}% {^E}スキルリチャージ
+
+tagDamageConversion={%.0f0}% {^E}{%s1}を{%s2} に変換
+tagDamageRemoval={%.0f0}% {^E}{%s1} 減少
+tagConversionPhysical={^K}物理ダメージ{^E}
+tagConversionPierce={^R}刺突ダメージ{^E}
+tagConversionElemental={^Y}エレメンタルダメージ{^E}
+tagConversionCold={^C}冷気ダメージ{^E}
+tagConversionFire={^O}火炎ダメージ{^E}
+tagConversionPoison={^L}酸ダメージ{^E}
+tagConversionLightning={^Z}雷ダメージ{^E}
+tagConversionLife={^M}生命力ダメージ{^E}
+tagConversionChaos={^P}カオスダメージ{^E}
+tagConversionAether={^A}イーサーダメージ{^E}
+tagConversionStun=気絶時間
+
+tagAttackSpeedNotSet=速度 : 指定なし
+tagAttackSpeedVerySlow=速度 : 非常に遅い
+tagAttackSpeedSlow=速度 : 遅い
+tagAttackSpeedAverage=速度 : 平均的
+tagAttackSpeedFast=速度 : 速い
+tagAttackSpeedVeryFast=速度 : 非常に速い
+
+tagAttackSpeed={^W}{%.2f0} {^S}攻撃 / 秒
+tagAttackSpeedR={^W}{%.2f0} - {%.2f1} {^S}攻撃 / 秒
+
+tagCharOffensiveAbility={%+.0f0} {^X}攻撃能力{^E}
+tagCharDefensiveAbility={%+.0f0} {^X}防御能力{^E}
+tagCharOffensiveAbilityModifier={%+.0f0}% {^X}攻撃能力{^E}
+tagCharDefensiveAbilityModifier={%+.0f0}% {^X}防御能力{^E}
+
+tagCharDefensiveBlockRecoveryReduction={-%.0f0}% {^E}シールド回復時間
+tagCharEnergyAbsorptionPercent={%+.0f0}% {^E}敵の呪文からエナジーを吸収
+tagCharDodgePercent={%.0f0}% {^E}近接攻撃回避率
+tagCharDeflectProjectiles={%.0f0}% {^E}投射物回避率
+
+tagCharIncreasedExperience={%+.0f0}% {^X}経験値獲得{^E}
+tagCharLightRadius={%+.0f0}% {^E}照明半径
+
+tagCharItemGlobalReduction={%.0f0}% {^E}すべての必要属性値を減少
+tagCharLevelReqReduction=-{%.0f0} {^E}アイテムに要するプレイヤー レベル
+tagCharArmorStrengthReqReduction=-{%.0f0}% {^E}防具に要する体格
+tagCharArmorDexterityReqReduction=-{%.0f0}% {^E}防具に要する狡猾性
+tagCharArmorIntelligenceReqReduction=-{%.0f0}% {^E}防具に要する精神力
+tagCharJewelryIntelligenceReqReduction=-{%.0f0}% {^E}装飾品に要する精神力
+tagCharJewelryStrengthReqReduction=-{%.0f0}% {^E}装飾品に要する体格
+tagCharJewelryDexterityReqReduction=-{%.0f0}% {^E}装飾品に要する狡猾性
+tagCharShieldStrengthReqReduction=-{%.0f0}% {^E}盾に要する体格
+tagCharShieldIntelligenceReqReduction=-{%.0f0}% {^E}盾に要する精神力
+tagCharShieldDexterityReqReduction=-{%.0f0}% {^E}盾に要する狡猾性
+tagCharMeleeStrengthReqReduction=-{%.0f0}% {^E}近接武器に要する体格
+tagCharMeleeDexterityReqReduction=-{%.0f0}% {^E}近接武器に要する狡猾性
+tagCharMeleeIntelligenceReqReduction=-{%.0f0}% {^E}近接武器に要する精神力
+tagCharHuntingStrengthReqReduction=-{%.0f0}% {^E}遠隔武器に要する体格
+tagCharHuntingDexterityReqReduction=-{%.0f0}% {^E}遠隔武器に要する狡猾性
+tagCharHuntingIntelligenceReqReduction=-{%.0f0}% {^E}遠隔武器に要する精神力
+tagCharStaffIntelligenceReqReduction=-{%.0f0}% {^E}杖に要する精神力
+tagCharStaffStrengthReqReduction=-{%.0f0}% {^E}杖に要する体格
+tagCharStaffDexterityReqReduction=-{%.0f0}% {^E}杖に要する狡猾性
+tagCharWeapon2HIntelligenceReqReduction=-{%.0f0}% {^E}両手持ち武器に要する精神力
+tagCharWeapon2HStrengthReqReduction=-{%.0f0}% {^E}両手持ち武器に要する体格
+tagCharWeapon2HDexterityReqReduction=-{%.0f0}% {^E}両手持ち武器に要する狡猾性
+tagCharWeaponIntelligenceReqReduction=-{%.0f0}% {^E}すべての武器に要する精神力
+tagCharWeaponStrengthReqReduction=-{%.0f0}% {^E}すべての武器に要する体格
+tagCharWeaponDexterityReqReduction=-{%.0f0}% {^E}すべての武器に要する狡猾性
+
+tagChanceOf={%.1f0}% {^E}{の確率で {^H}
+tagChanceTo={%.1f0}% {^E}{の確率で {^H}
+
+Strength=体格
+Dexterity=狡猾性
+Intelligence=精神力
+Life=ヘルス
+Mana=エナジー
+UnusedPointsText={%d0} 使用済みポイント
+LifeText={%.0f0} ヘルス
+ManaText={%.0f0} エナジー
+StrengthText={%.0f0} 体格
+DexterityText={%.0f0} 狡猾性
+IntelligenceText={%.0f0} 精神力
+FloatFormat={%.0f0}
+Float1Format={%.1f0}
+Float2Format={%.2f0}
+NegativeFloat2Format=- {%.2f0}
+IntFormat={%d0}
+CharacterLevelDescription={%s0} - [レベル {%d1}]
+ObjectIdFormat=({%d0})  
+SkillLevelFormat={%d0} / {%d1}
+ShortManaText=エナジー {%.0f0} / {%.0f1} / {%.1f2}
+ShortLifeText=ヘルス {%.0f0} / {%.0f1}
+ShortExperienceText=Exp {%d0} / {%d1}
+ShortLevel=レベル {%d0}
+HitFormat={%.0f0}
+CriticalHitFormat={%.0f0}
+CriticalHitFormatMult={%.0f0} (x{%.2f1})
+DurationCriticalHit=クリティカル
+DurationCriticalHitMult=クリティカル (x{%.2f0})
+tagMiss=ミス
+tagFumble=ファンブル
+tagDodge=ドッジ
+tagBlock=ブロック
+tagDeflect=逸らす
+tagInvulnerable=不死身
+GiveMoneyFormat=+{%d0} 鉄
+TakeMoneyFormat={%d0} 鉄
+ExperienceFormat=+{%d0} 経験値
+FactionFormat=+{%d0} {%s1} 評判
+FactionUnlocked={%s0} アンロック
+LevelUpFormat=レベル アップ！
+SkillPointFormat={%d0} スキル ポイント
+AttributePointFormat={%d0} 属性 ポイント
+MenuName=Name: 
+MenuLevel=レベル:   {%d0}
+ItemSkillIncrement={+%d0} {^E} {%s1}
+ItemMasteryIncrement={+%d0} {^X} {%s1}の全スキル{^E}
+ItemAllSkillIncrement={+%d0} {^X}全スキル{^E}
+ItemBasicAttributeBanner={^w}
+ItemBonusAttributeBanner={^b}
+tagPerSecond= / 秒
+tagDPS={%.1g0} ダメージ / 秒
+
+LevelRequirement=プレイヤー レベル
+ShieldBlockAbsorption={%.0f0}% 吸収
+ShieldBlockRecoveryTime={%.2f0}秒 ブロック回復
+MeetsRequirement=必要な {%s0}: {%.0f1}
+MeetsRequirementWithReduction=必要な {%s0}: {%.0f1} [ {^r%.0f2 ^y- %.0f3}% 減少]
+FailsRequirementWithReduction={^r}必要な {%s0: %.0f1} [ {%.0f2 ^y- %.0f3}% 減少]
+FailsRequirement={^r}必要な {%s0: %.0f1}
+SkillIntFormat={%d0 %s1}
+SkillFloatFormat={%.0f0 %s1}
+SkillFloat1Format={%.1f0 %s1}
+SkillFloat2Format={%.2f0 %s1}
+SkillSecondFormat={%.1f0 {^E}秒 %s1}
+SkillSecondFormatMod=+{%.1f0 {^E}秒 %s1}
+SkillDistanceFormat={%.1f0 {^E}m %s1}
+SkillDistanceFormatMod=+{%.1f0 {^E}m %s1}
+SkillCostFormat={%.1f0 %s1}
+SkillCostFormatMod=+{%.1f0 %s1}
+SkillPercentFormat={%.0f0% %s1}
+SkillNumProjectilesFormat=発射数 {%d0} 投射物
+SkillWeaponDamageFormat={%.0f0%} {^E}武器ダメージ
+SkillWeaponDamageValuesFormat={%.0f0%} {^E}武器ダメージ ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageMainhandFormat={%.0f0%} {^E}メイン ハンド ダメージ ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageOffhandFormat={%.0f0%} {^E}オフ-ハンド ダメージ ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamagePetFormat={%.0f0%} {^E}ペットの基本ダメージ
+SkillChargeFactor=チャージレベルごと
+SkillChargeMax={^E}チャージレベル: 
+SkillChargeLevel={^H}{%d0}%
+SkillChargeLevel2={^E}, {^H}{%d0}%
+SkillChargeLevelMod={%d0}%
+SkillChargeLevelMod2=, {%d0}%
+SkillChargeDuration=チャージレベル時間
+SkillChargeFactorMod=チャージレベルごとに増加
+SkillChargeMaxMod=チャージレベル: 
+SkillChargeDurationMod=チャージ時間延長
+SkillChanceWeight={%d0}% {^E}技が使われる率
+SkillActivationChance={^E}発動率
+SkillDamageAbsorption={%.0f0} {^E}ダメージ吸収
+SkillDamageAbsorptionPercent={%.0f0}% {^E}ダメージ吸収
+SkillPetBurstSpawn={^E}召喚 {^H}{%d0}
+SkillPetBurstSpawnMod=+{%d0} {^E}召喚
+SkillPetBurstSpawnsMod=+{%d0} {^E}召喚
+SkillPetLimit={%d0} {^E} 召喚上限
+SkillPetLimitMod=+{%d0} {^E} 召喚上限
+SkillLifeBonus={%+.1f0} {^E}ヘルス回復
+SkillManaBonus={%+.1f0} {^E}エナジー回復
+SkillLifePercent={%.1f0}% {^E}ヘルス回復
+SkillManaPercent={%.1f0}% {^E}エナジー回復
+SkillLifeBonusAndPercent={%.0f1}% + {%.0f0} {^E}ヘルス回復
+SkillManaBonusAndPercent={%.0f1}% + {%.0f0} {^E}エナジー回復
+SkillPetDescriptionHeading={%s0} 属性 :
+tagSkillPetAbilities={%s0} 能力 :
+SkillPetDescriptionNextHeading=次の {%s0} レベル :
+SkillPetDescriptionHealth={%.0f0}  {^E}ヘルス
+SkillPetDescriptionMana={%.0f0}  {^E}エナジー
+SkillPetDescriptionDamageMinOnly={%.0f0} ダメージ
+SkillPetDescriptionDamageMinMax={%.0f0} - {%.0f1} ダメージ
+tagSkillPetTimeToLive={^E}存続時間 {^H}{%.1f0} {^E}秒
+tagSkillPetTimeToLiveMod={^E}存続時間 {^H}{%+.1f0} {^E}秒
+tagSkillPrevious=... 前
+tagSkillNext=次... 
+HoldCtrlToShowBaseValues=基本値を表示するには CTRL キーを押してください。
+PressToAddUnusedSkillPoints=左クリックで 未使用のスキル ポイントを加える。
+PressToAddUnusedDevotionPoints=左クリックで 未使用の祈祷 ポイントを加える
+PressToActivateDevotion=左クリックで活性化
+PressToAssignDevotion=左クリックで割り当てる
+AssignDevotionForExp=経験を得るには､ 割り当てなければ なりません
+SkillEnhancement=+{%d0} 全スキル
+NoSkillPointsToAdd=追加すべきスキルポイント がありません。
+NoDevotionPointsToAdd=利用可能な祈祷ポイントがありません
+LockedDevotion=ロック - まず星座の星を活動させる 必要が あります
+ActiveDevotion=活動中
+YouMustIncreaseMasteryLevel=よりポイントを加えるには､ マスタリー レベルを 増やさなければ なりません。
+EnableOneBaseSkill=少なくとも一つの必須スキルが､ 利用可能 でなければ なりません
+MaxSkillLevelReached=最大のスキル レベルに達しました
+ActiveMasteriesAllowedReached=許容される有効な マスタリーの数に 達しました
+LifeMonitorPercent={^E}ヘルスが {^H}{%.1f0}% {^E}を下回ったときに発動
+FailedSkillDependancy={%s0} スキルが必要です
+FailedSkillDependancyAll=次のスキルが必要です:
+FailedSkillDependancyOne=次のスキルのうち一つが必要です:
+FailedSkillDependancyName={%s0}
+FailedDevotionDependency=必要な親和性:
+FailedDevotionDependencyName={%d0} {%s1}
+FailedConstellationDependency=帰属する星座:
+ManaCost={^E}エナジーコスト
+FailedConstellationSelfLocked=この星座は自身の親和性に 依存しています。 これを捨てる前に､ 他の星座から もっと多くの 親和性が必要です。
+ManaCostPerSecond={^E}エナジー / 秒
+ActiveLifeCost={^E}ヘルス / 秒
+ActiveManaCost={^E}エナジー / 秒
+ActiveDuration=持続時間
+Interval=間隔
+TargetRadius=標的エリア
+TargetAngle={%.0f0} {^E}度の攻撃角度
+TargetAngleMod=+{%.0f0} {^E}度の攻撃角度
+TargetNumber={%d0} {^E}最大標的数
+TargetNumberMod=+{%d0} {^E}最大標的数
+CooldownTime={^E}スキルリチャージ
+ExplosionRadius=半径
+TargetRange=範囲
+ProjectileLaunchRotation={%.1f0} 砲弾の広がり
+ProjectileLaunchNumber={%d0} {^E}砲弾数
+ProjectileLaunchNumberMod=+{%d0} {^E}砲弾数
+ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} {^E}破片数
+ProjectileFragmentsLaunchNumber={%d0} {^E}破片数
+ProjectilePiercingChance={%.1f0}% {^E}貫通確率
+ProjectilePiercingChanceMod=+{%.1f0}% {^E}貫通確率
+
+tagTooltipPetsHeader=ペット
+tagTooltipSkillsHeader=付与されたスキル
+
+#Skill Wheel
+tagSkillConfig01=設定 1
+tagSkillConfig02=設定 2
+
+#Gamepad HUD
+tagGamePadSelect=選択
+tagGamePadBack=戻る
+tagGamePadEquip=装備
+tagGamePadDrop=捨てる
+tagGamePadUseItem=使う
+tagGamePadSellItem=売る
+tagGamePadMoveItem=移す
+tagGamePadScroll=スクロール
+tagGamePadAssignSkills=スキルの割り当て
+tagGamePadSwapConfig=スワップ設定
+tagGamePadMove=移動
+tagGamePadZoomIn=ズーム イン
+tagGamePadZoomOut=ズーム アウト
+tagGamePadExit=終了
+tagGamePadRevert=戻る
+tagGamePadSplitStack=分割
+tagGamePadNone=N/A
+
+tagGamePadCharacter=キャラクター
+tagGamePadSkills=スキル
+tagGamePadMap=マップ
+tagGamePadFactions=派閥
+tagGamePadAchieve=実績
+tagGamePadLootFilter=ルート フィルター
+tagGamePadDevotionSearch=検索
+tagGamePadMinimapSize=ミニマップ
+
+tagControllerUIWarning=現在の画面解像度は､ コントローラ のユーザー インターフェイスを サポートして いません。
+
+tagShieldBlockInfo={%.0f0}% の確率で {^W}{%.0f1} ダメージをブロック
+
+
+
+SkillManaCostReduction=-{%.0f0}% {^E}スキルエナジーコスト
+SkillCooldownReduction=+{%.0f0}% {^E}スキルクールダウン短縮
+SkillProjectileSpeedModifier={%+.0f0}% {^E}砲弾速度の向上
+SkillManaCostReductionModifier=-{%.0f0}% {^E}スキルエナジーコスト
+SkillCooldownReductionModifier=-{%.0f0}% {^E}スキルリチャージ
+
+GlobalChanceOfAllTag={^E}の確率で: {^H}
+GlobalChanceOfOneTag={^E}次のうち一つの確率: {^H}
+GlobalPercentChanceOfAllTag={%.1f0}% {^E}の確率で:{^H}
+GlobalPercentChanceOfOneTag={%.1f0}% {^E}次のうち一つの確率:{^H}
+tagIndent={   }
+tagDamageAbsorptionTitle={^E}防御する攻撃の種類 :
+formatQualifyingDamage={     {^E}%s0}
+tagQualifyingDamagePhysical=物理
+tagQualifyingDamagePierce=刺突
+tagQualifyingDamageLightning=雷
+tagQualifyingDamageFire=火炎
+tagQualifyingDamageCold=冷気
+tagQualifyingDamagePoison=毒酸
+tagQualifyingDamageLife=生命力
+tagQualifyingDamageBleeding=出血
+tagQualifyingDamageElemental=エレメンタル
+tagQualifyingDamageAether=イーサー
+tagQualifyingDamageChaos=カオス
+
+DamageSingleFormat={%.0f0}
+DamageRangeFormat={%.0f0}-{%.0f1}
+DamageInfluenceSingleFormat={%.1f0}
+DamageInfluenceRangeFormat={%.1f0}-{%.1f1}
+DamageReflexSingleFormat={%.1f0}
+DamageReflexRangeFormat={%.1f0}-{%.1f1}
+DamageSingleFormatSecond= {^E} ({^H}{%.1f0} {^E}秒間で)
+DamageSingleFormatTime= {^E} ({^H}{%.1f0} {^E}秒間で)
+DamageRangeFormatTime= {^E} ({^H}{%.1f0}-{%.1f1} {^E}秒間で)
+DamageFixedSingleFormatSecond= {^H}{%.1f0} {^E}秒
+DamageFixedSingleFormatTime= {^H}{%.1f0} {^E}秒
+DamageFixedRangeFormatTime= {^H}{%.1f0} - {%.1f1} {^E}秒
+RetaliationFixedSingleFormatSecond={^H}{%.1f0} {^E}秒
+RetaliationFixedSingleFormatTime={^H}{%.1f0} {^E}秒
+RetaliationFixedRangeFormatTime={^H}{%.1f0} - {%.1f1} {^E}秒
+tagDurationDamageOverTime={%d0} {^E}ダメージ/秒
+tagDotReductionAbsolute={%d0} {^E}減少
+tagDotReductionPercent={%d0}% {^E}減少
+tagDotTimeRemaining={^E}残り{^H}{%.0f0} {^E}秒
+tagDotTimeRemainingPrecise={^E}残り{^H}{%.1f0} {^E}秒
+tagDurationFumble={%d0}% {^E}ミス確率
+tagDotBleeding=出血
+tagDotCold=冷却
+tagDotFire=燃焼
+tagDotPoison=中毒
+tagDotLightning=感電
+tagDotChaos=カオス
+tagDotAether=イーサー
+tagDotVitality=生命力減衰
+tagDotLifeLeech=ライフ吸収
+tagDotManaLeech=エナジー吸収 
+tagDotPhysical=体内損傷
+tagDotAttackSpeed=攻撃速度
+tagDotCastSpeed=詠唱速度
+tagDotRunSpeed=走行速度
+tagDotOffensiveAbility=攻撃能力
+tagDotDefensiveAbility=防御能力
+tagDotFumble=近接戦闘力低下
+tagDotRangedFumble=遠隔戦闘力低下
+tagDotTotalDamageReduction=ダメージ総計
+tagDotPhysicalDamageReduction=物理ダメージ
+tagDotElementalDamageReduction=エレメンタルダメージ
+tagDotTotalResistReduction=総耐性
+tagDotPhysicalResistReduction=物理耐性
+tagDotElementalResistReduction=エレメンタル耐性
+tagDotStun=気絶
+tagDotSleep=睡眠
+tagDotTrap=捕縛
+tagDotFreeze=凍結
+tagDotPetrify=石化
+
+tagSetItems=({%d0}) セット
+tagSecond={^E}秒
+tagSeconds={^E}秒
+DamagePerSecond={%.0f0} {^S}ダメージ / 秒 (装備した場合)
+DamagePerSecondOffHand={%.0f0} {^S}ダメージ / 秒 (オフハンド)
+DamagePhysicalChance={%t0} {^K}物理ダメージ{^E}
+DamageBasePhysical={%t0} {^K}物理ダメージ{^S}
+DamageBasePierceRatio={%.0f0}% {^S}装甲貫通
+DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}装甲貫通
+DamageBonusPhysical={%t0} {^K}物理ダメージ{^E}
+tagDamageBaseFire={%t0} {^O}火炎ダメージ{^S}
+tagDamageBaseLightning={%t0} {^Z}雷ダメージ{^S}
+tagDamageBaseCold={%t0} {^C}冷気ダメージ{^S}
+tagDamageBaseVitality={%t0} {^M}生命力ダメージ{^S}
+tagDamageBasePoison={%t0} {^L}酸ダメージ{^S}
+tagDamageBaseChaos={%t0} {^P}カオスダメージ{^S}
+tagDamageBaseAether={%t0} {^A}イーサーダメージ{^S}
+DamageCold={%t0} {^C}冷気ダメージ{^E}
+DamageFire={%t0} {^O}火炎ダメージ{^E}
+DamageAether={%t0} {^A}イーサーダメージ{^E}
+DamageChaos={%t0} {^P}カオスダメージ{^E}
+DamageLife={%t0} {^M}生命力ダメージ{^E}
+DamageLifeLeech={%t0}% {^E}攻撃ダメージをヘルスに変換
+DamageLightning={%t0} {^Z}雷ダメージ{^E}
+DamageElemental={%t0} {^Y}エレメンタルダメージ{^E}
+DamageModifierElemental={%+.0f0}% {^Y}エレメンタルダメージ{^E}
+DamageModifierElementalR={%+.0f0}-{%.0f1}% {^Y}エレメンタルダメージ{^E}
+DamagePhysical=+{%t0} {^K}物理ダメージ{^E}
+DamagePierce={%t0} {^R}刺突ダメージ{^E}
+DamagePoison={%t0} {^L}酸ダメージ{^E}
+DamageKnockdown={^E}標的をノックダウン{^H}{%t0}
+DamageStun={^E}標的を気絶{%t0}
+DamageFreeze={^E}標的を凍結{%t0}
+DamagePetrify={^E}標的を石化{%t0}
+DamageTrap={^E}標的を移動不能{%t0}
+DamageTaunt={^E}標的を挑発
+DamageThreat={^E}標的からのヘイトを増加
+DamageConvert={^E}標的を精神支配{%t0}
+DamageFear={^E}標的を恐怖{%t0}
+DamageConfusion={^E}標的を混乱{%t0}
+DamageDisruption={^E}標的のスキル妨害{%t0}
+DamagePercentCurrentLife={%t0}% {^E}敵のヘルス減少
+DamageManaDrain={%t0}% {^E}エナジー燃焼
+DamageManaBurnRatio= {^E}({^H}燃焼エナジーの {%.0f0}% {^E}ダメージ)
+DamageModifierManaBurn=燃焼エナジーの {%.0f0}% {^E}ダメージ
+
+DamageDurationAttackSpeed=% {^E}敵の攻撃速度低下
+DamageDurationCold= {^C}凍傷ダメージ{^E}
+DamageDurationReduced= {^E}防御削減
+DamageDurationFire= {^O}燃焼ダメージ{^E}
+DamageDurationLife= {^M}生命力減衰ダメージ{^E}
+DamageDurationLifeLeach= {^E}ライフ吸収
+DamageDurationLightning= {^Z}感電ダメージ{^E}
+DamageDurationManaLeach= {^E}エナジー吸収
+DamageDurationOffensiveAbility= {^E}標的の攻撃能力低下
+DamageDurationOffensiveReduction= {^E}標的の物理ダメージ減少
+DamageDurationDefensiveAbility= {^E}標的の防御能力低下
+DamageDurationDefensiveReduction= {^E}標的の装甲弱化
+DamageDurationPhysical= {^K}体内損傷ダメージ{^E}
+DamageDurationPoison= {^L}毒ダメージ{^E}
+DamageDurationTotalSpeed=% {^E}標的の総合速度低下
+DamageDurationRunSpeed=% {^E}標的の移動速度低下
+DamageDurationSpellCastSpeed=% {^E}標的の詠唱速度低下
+DamageDurationBleeding= {^R}出血ダメージ{^E}
+DamageDurationElemental= {^Y}エレメンタル ブレーズ{^E}
+
+DamageTotalDamageReductionPercent=% {^E}標的のダメージ減少
+DamageTotalDamageReductionAbsolute= {^E}標的のダメージ減少
+DamagePhysicalReductionPercent=% {^E}標的の物理ダメージ減少
+DamageElementalReductionPercent=% {^E}標的のエレメンタル ダメージ減少
+DamageTotalResistanceReductionPercent=% {^E}標的の耐性減少
+DamageTotalResistanceReductionAbsolute= {^E}標的の耐性減少
+DamagePhysicalResistanceReductionPercent=% {^E}標的の物理耐性減少
+DamagePhysicalResistanceReductionAbsolute= {^E}標的の物理耐性減少
+DamageElementalResistanceReductionPercent=% {^E}標的のエレメンタル耐性減少
+DamageElementalResistanceReductionAbsolute= {^E}標的のエレメンタル耐性減少
+DamageDurationFumble=% {^E}標的が近接攻撃を外す確率
+DamageDurationProjectileFumble=% {^E}標的が遠隔攻撃を外す確率
+
+DamageModifierPhysical={%+.0f0}% {^K}物理ダメージ{^E}
+DamageModifierPhysicalR={%+.0f0}-{%.0f1}% {^K}物理ダメージ{^E}
+DamageModifierPierceRatio={%+.0f0}% {^E}装甲貫通を増加
+DamageModifierPierceRatioR={%+.0f0}-{%.0f1}% {^E}装甲貫通を増加
+DamageModifierPierce={%+.0f0}% {^R}刺突ダメージ{^E}
+DamageModifierPierceR={%+.0f0}-{%.0f1}% {^R}刺突ダメージ{^E}
+DamageModifierCold={%+.0f0}% {^C}冷気ダメージ{^E}
+DamageModifierColdR={%+.0f0}-{%.0f1}% {^C}冷気ダメージ{^E}
+DamageModifierFire={%+.0f0}% {^O}火炎ダメージ{^E}
+DamageModifierFireR={%+.0f0}-{%.0f1}% {^O}火炎ダメージ{^E}
+DamageModifierPoison={%+.0f0}% {^L}酸ダメージ{^E}
+DamageModifierPoisonR={%+.0f0}-{%.0f1}% {^L}酸ダメージ{^E}
+DamageModifierLightning={%+.0f0}% {^Z}雷ダメージ{^E}
+DamageModifierLightningR={%+.0f0}-{%.0f1}% {^Z}雷ダメージ{^E}
+DamageModifierLife={%+.0f0}% {^M}生命力ダメージ{^E}
+DamageModifierLifeR={%+.0f0}-{%.0f1}% {^M}生命力ダメージ{^E}
+DamageModifierStun={%+.0f0}% {^E}気絶時間
+DamageModifierStunR={%+.0f0}-{%.0f1}% {^E}気絶時間
+DamageModifierChaos={%+.0f0}% {^P}カオスダメージ{^E}
+DamageModifierChaosR={%+.0f0}-{%.0f1}% {^P}カオスダメージ{^E}
+DamageModifierAether={%+.0f0}% {^A}イーサーダメージ{^E}
+DamageModifierAetherR={%+.0f0}-{%.0f1}% {^A}イーサーダメージ{^E}
+DamageModifierKnockdown={%+.0f0}% {^E}ノックダウン時間
+DamageModifierKnockdownR={%+.0f0}-{%.0f1}% {^E}ノックダウン時間
+DamageModifierTrap={%+.0f0}% {^E}捕縛時間
+DamageModifierTrapR={%+.0f0}-{%.0f1}% {^E}捕縛時間
+DamageModifierFreeze={%+.0f0}% {^E}凍結時間
+DamageModifierFreezeR={%+.0f0}-{%.0f1}% {^E}凍結時間
+DamageModifierPetrify={%+.0f0}% {^E}石化時間
+DamageModifierPetrifyR={%+.0f0}-{%.0f1}% {^E}石化時間
+
+DamageDurationModifierPhysical={%+.0f0}% {^K}体内損傷ダメージ{^E}
+DamageDurationModifierBleeding={%+.0f0}% {^R}出血ダメージ{^E}
+DamageDurationModifierCold={%+.0f0}% {^C}凍傷ダメージ{^E}
+DamageDurationModifierFire={%+.0f0}% {^O}燃焼ダメージ{^E}
+DamageDurationModifierPoison={%+.0f0}% {^L}毒ダメージ{^E}
+DamageDurationModifierLightning={%+.0f0}% {^Z}感電ダメージ{^E}
+DamageDurationModifierLife={%+.0f0}% {^M}生命力減衰ダメージ{^E}
+DamageDurationModifierAttackSpeed={%+.0f0}% {^E}攻撃速度低下
+DamageDurationModifierSpellCastSpeed={%+.0f0}% {^E}詠唱速度低下
+DamageDurationModifierRunSpeed={%+.0f0}% {^E}移動速度低下
+DamageDurationModifierLifeLeach={%+.0f0}% {^E}ライフ吸収ダメージ
+DamageDurationModifierManaLeach={%+.0f0}% {^E}エナジー吸収
+DamageDurationModifierOffensiveAbility={%+.0f0}% {^E}標的の攻撃能力低下
+DamageDurationModifierDefensiveAbility={%+.0f0}% {^E}標的の防御能力低下
+DamageDurationModifierOffensiveReduction={%+.0f0}% {^E}標的の物理ダメージ減少
+ImprovedTimeFormat= {^E}かつ {^H}{%+.0f0}% {^E}持続時間延長
+ImprovedTimeFormatR= {^E}かつ {^H}{%+.0f0}-{%.0f1}% {^E}持続時間延長
+IncreasedDuration={^H}{%+.0f0}% {^E}{%s1} 持続時間延長
+
+RetaliationCold={%t0} {^C}冷気報復{^E}
+RetaliationFire={%t0} {^O}火炎報復{^E}
+RetaliationLife={%t0} {^M}生命力報復{^E}
+RetaliationLightning={%t0} {^Z}雷報復{^E}
+RetaliationElemental={%t0} {^Y}エレメンタル報復{^E}
+RetaliationPhysical={%t0} {^K}物理報復{^E}
+RetaliationPierce={%t0} {^R}刺突報復{^E}
+RetaliationPoison={%t0} {^L}酸報復{^E}
+RetaliationAether={%t0} {^A}イーサー報復{^E}
+RetaliationChaos={%t0} {^P}カオス報復{^E}
+RetaliationStun={%t0} 気絶報復
+RetaliationFreeze={%t0} 凍結報復
+RetaliationPetrify={%t0} 石化報復
+RetaliationTrap={%t0} 移動不能報復
+RetaliationConvert={%t0} 精神支配報復
+RetaliationFear={%t0} 恐怖報復
+RetaliationConfusion={%t0} 混乱報復
+RetaliationSleep={%t0} 睡眠報復
+RetaliationPercentCurrentLife={^E}{^H}{%t0}% {^E}敵のヘルス減少報復
+RetaliationDurationAttackSpeed=% {^E}攻撃速度低下報復
+RetaliationDurationCold= {^C}凍傷報復{^E}
+RetaliationDurationDefensiveAbility= {^E}防御削減報復
+RetaliationDurationFire= {^O}燃焼報復{^E}
+RetaliationDurationLife= {^M}生命力減衰報復{^E}
+RetaliationDurationLifeLeach= {^E}ライフ吸収報復
+RetaliationDurationLightning= {^Z}感電報復{^E}
+RetaliationDurationManaLeach= {^E}エナジー吸収報復
+RetaliationDurationOffensiveAbility= {^E}攻撃能力減少報復
+RetaliationDurationOffensiveReduction= {^E}ダメージ減少報復
+RetaliationDurationPhysical= {^K}体内損傷報復{^E}
+RetaliationDurationBleeding= {^R}出血報復{^E}
+RetaliationDurationPoison= {^L}毒報復{^E}
+RetaliationDurationRunSpeed=% {^E}移動速度低下報復
+RetaliationDurationSpellCastSpeed=% {^E}詠唱速度低下報復
+RetaliationModifierPhysical={%+.0f0}% {^K}物理報復{^E}
+RetaliationModifierPierceRatio={%+.0f0}% {^R}刺突報復{^E}
+RetaliationModifierPierce={%+.0f0}% {^R}刺突報復{^E}
+RetaliationModifierCold={%+.0f0}% {^C}冷気報復{^E}
+RetaliationModifierFire={%+.0f0}% {^O}火炎報復{^E}
+RetaliationModifierPoison={%+.0f0}% {^L}酸報復{^E}
+RetaliationModifierLightning={%+.0f0}% {^Z}雷報復{^E}
+RetaliationModifierAether={%+.0f0}% {^A}イーサー報復{^E}
+RetaliationModifierChaos={%+.0f0}% {^P}カオス報復{^E}
+RetaliationModifierElemental={%+.0f0}% {^Y}エレメンタル報復{^E}
+RetaliationModifierLife={%+.0f0}% {^M}生命力報復{^E}
+RetaliationModifierStun={%+.0f0}% {^E}気絶報復
+RetaliationModifierSleep={%+.0f0}% {^E}睡眠報復
+RetaliationDurationModifierPhysical={%+.0f0}% {^K}体内損傷報復{^E}
+RetaliationDurationModifierBleeding={%+.0f0}% {^R}出血報復{^E}
+RetaliationDurationModifierCold={%+.0f0}% {^C}凍傷報復{^E}
+RetaliationDurationModifierDefensiveAbility={%+.0f0}% {^E}防御削減報復
+RetaliationDurationModifierFire={%+.0f0}% {^O}燃焼報復{^E}
+RetaliationDurationModifierLife={%+.0f0}% {^M}生命力減衰報復{^E}
+RetaliationDurationModifierLifeLeach={%+.0f0}% {^E}ライフ吸収報復
+RetaliationDurationModifierLightning={%+.0f0}% {^Z}感電報復{^E}
+RetaliationDurationModifierManaLeach={%+.0f0}% {^E}エナジー吸収報復
+RetaliationDurationModifierOffensiveAbility={%+.0f0}% {^E}攻撃能力低下報復
+RetaliationDurationModifierOffensiveReduction={%+.0f0}% {^E}ダメージ減少報復
+RetaliationDurationModifierPoison={%+.0f0}% {^L}毒報復{^E}
+
+DefenseAbsorptionProtection={%.0f0} 装甲
+DefenseAbsorptionProtectionR={%.0f0}-{%.0f1} 装甲
+DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}装甲
+DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^E}装甲
+DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}ボーナス 装甲
+DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}ボーナス 装甲
+DefensePhysical={%.0f0}% {^K}物理耐性{^E}
+DefensePhysicalR={%.0f0}-{%.0f1}% {^K}物理耐性{^E}
+DefensePierce={%.0f0}% {^R}刺突耐性{^E}
+DefensePierceR={%.0f0}-{%.0f1}% {^R}刺突耐性{^E}
+DefenseElementalResistance={%.0f0}% {^Y}エレメンタル耐性{^E}
+DefenseElementalResistanceR={%.0f0}-{%.0f1}% {^Y}エレメンタル耐性{^E}
+DefenseCold={%.0f0}% {^C}冷気耐性{^E}
+DefenseColdR={%.0f0}-{%.0f1}% {^C}冷気耐性{^E}
+DefenseFire={%.0f0}% {^O}火炎耐性{^E}
+DefenseFireR={%.0f0}-{%.0f1}% {^O}火炎耐性{^E}
+DefenseAether={%.0f0}% {^A}イーサー耐性{^E}
+DefenseAetherR={%.0f0}-{%.0f1}% {^A}イーサー耐性{^E}
+DefenseChaos={%.0f0}% {^P}カオス耐性{^E}
+DefenseChaosR={%.0f0}-{%.0f1}% {^P}カオス耐性{^E}
+DefensePoison={%.0f0}% {^L}毒酸耐性{^E}
+DefensePoisonR={%.0f0}-{%.0f1}% {^L}毒酸耐性{^E}
+DefenseLightning={%.0f0}% {^Z}雷耐性{^E}
+DefenseLightningR={%.0f0}-{%.0f1}% {^Z}雷耐性{^E}
+DefenseLife={%.0f0}% {^M}生命力耐性{^E}
+DefenseLifeR={%.0f0}-{%.0f1}% {^M}生命力耐性{^E}
+DefenseStun={%.0f0}% {^E}気絶時間短縮
+DefenseStunNegative={%.0f0}% {^E}気絶耐性
+DefenseStunR={%.0f0}-{%.0f1}% {^E}気絶時間短縮
+DefenseLifeLeach={%.0f0}% {^E}ライフ吸収耐性
+DefenseLifeLeachR={%.0f0}-{%.0f1}% {^E}ライフ吸収耐性
+DefenseManaLeach={%.0f0}% {^E}エナジー吸収耐性
+DefenseManaLeachR={%.0f0}-{%.0f1}% {^E}エナジー吸収耐性
+DefenseTrap={%.0f0}% {^E}捕縛時間短縮
+DefenseTrapNegative={%.0f0}% {^E}捕縛耐性
+DefenseTrapR={%.0f0}-{%.0f1}% {^E}捕縛時間短縮
+DefenseFreeze={%.0f0}% {^E}凍結時間短縮
+DefenseFreezeNegative={%.0f0}% {^E}凍結耐性
+DefenseFreezeR={%.0f0}-{%.0f1}% {^E}凍結時間短縮
+DefenseKnockdown={%.0f0}% {^E}ノックダウン時間短縮
+DefenseKnockdownNegative={%.0f0}% {^E}ノックダウン耐性
+DefenseKnockdownR={%.0f0}-{%.0f1}% {^E}ノックダウン時間短縮
+DefensePetrify={%.0f0}% {^E}石化時間短縮
+DefensePetrifyNegative={%.0f0}% {^E}石化耐性
+DefensePetrifyR={%.0f0}-{%.0f1}% {^E}石化時間短縮
+DefenseTaunt={%.0f0}% {^E}挑発からの保護
+DefenseConvert={%.0f0}% {^E}精神支配時間短縮
+DefenseFear={%.0f0}% {^E}恐怖時間短縮
+DefenseConfusion={%.0f0}% {^E}混乱耐性
+DefenseDisruption={%.0f0}% {^E}スキル妨害耐性
+DefensePercentLife={%.0f0}% {^E}生命力減衰耐性
+DefenseBleeding={%.0f0}% {^R}出血耐性{^E}
+DefenseBleedingR={%.0f0}-{%.0f1}% {^R}出血耐性{^E}
+DefenseBlock={%.0f0} {^E}ダメージブロック
+DefenseReflect={%.0f0}% {^E}ダメージ反射
+DefenseReflectR={^H}{%.0f0}-{%.0f1}% {^E}ダメージ反射
+DefensePhysicalDuration={%.0f0}% {^K}体内損傷時間短縮{^E}
+DefenseBleedingDuration={%.0f0}% {^R}出血時間短縮{^E}
+DefenseColdDuration={%.0f0}% {^C}凍傷時間短縮{^E}
+DefenseFireDuration={%.0f0}% {^O}燃焼時間短縮{^E}
+DefensePoisonDuration={%.0f0}% {^L}中毒時間短縮{^E}
+DefenseLightningDuration={%.0f0}% {^Z}感電時間短縮{^E}
+DefenseLifeDuration={%.0f0}% {^M}生命力減衰時間短縮{^E}
+DefenseLifeLeachDuration={%.0f0}% {^E}ライフ吸収時間短縮
+DefenseManaLeachDuration={%.0f0}% {^E}エナジー吸収時間短縮
+DefensePercentCurrentLife={%.0f0}% {^E}ヘルス減少耐性
+DefenseManaBurnRatio={%.0f0}% {^E}マナ燃焼耐性
+DefenseProtectionModifier={^E}装甲強化 {^H}{%.0f0}%
+DefenseProtectionModifierR={^E}装甲強化 {^H}{%.0f0}-{%.0f1}%
+DefenseAbsorptionModifier={^E}装甲吸収率増加 {^H}{%.0f0}%
+DefenseAbsorptionModifierR={^E}装甲吸収率増加 {^H}{%.0f0}-{%.0f1}%
+DefensePhysicalModifier={^K}現在の物理耐性向上 {^H}{%.0f0}%{^E}
+DefensePierceModifier={^R}現在の刺突耐性向上 {^H}{%.0f0}%{^E}
+DefenseColdModifier={^C}現在の冷気耐性向上 {^H}{%.0f0}%{^E}
+DefenseFireModifier={^O}現在の火炎耐性向上 {^H}{%.0f0}%{^E}
+DefensePoisonModifier={^L}現在の毒酸耐性向上 {^H}{%.0f0}%{^E}
+DefenseLightningModifier={^Z}現在の雷耐性向上 {^H}{%.0f0}%{^E}
+DefenseLifeModifier={^M}現在の生命力耐性向上 {^H}{%.0f0}%{^E}
+DefenseChaosModifier={^P}現在のカオス耐性向上 {^H}{%.0f0}%{^E}
+DefenseAetherModifier={^A}現在のイーサー耐性向上 {^H}{%.0f0}%{^E}
+DefenseStunModifier={^E}現在の気絶耐性向上 {^H}{%.0f0}%
+DefenseBlockModifier={%+.0f0}% {^E}シールドブロック率
+DefenseBlockAmountModifier={%+.0f0}% {^E}シールドダメージブロック
+DefenseBlockAmountModifierR={%+.0f0}-{%+.0f1}% {^E}シールドダメージブロック
+DefenseReflectModifier={%+.0f0}% {^E}ダメージ反射
+DefenseLifeLeachModifier={^E}現在のライフ吸収耐性向上 {^H}{%.0f0}%
+DefenseManaLeachModifier={^E}現在のエナジー吸収耐性向上 {^H}{%.0f0}%
+DefensePercentLifeModifier={^E}パーセントの生命力耐性向上 {^H}{%.0f0}%
+DefenseBleedingModifier={^R}現在の出血耐性向上 {^H}{%.0f0}%{^E}
+DefenseElementalModifier={^Y}現在のエレメンタル耐性向上 {^H}{%.0f0}%{^E}
+DefensePhysicalDurationModifier={%+.0f0}% {^K}怪我時間短縮{^E}
+DefenseBleedingDurationModifier={%+.0f0}% {^E}出血時間短縮
+DefenseColdDurationModifier={%+.0f0}% {^C}凍傷時間短縮{^E}
+DefenseFireDurationModifier={%+.0f0}% {^O}燃焼時間短縮{^E}
+DefensePoisonDurationModifier={%+.0f0}% {^L}中毒時間短縮{^E}
+DefenseLightningDurationModifier={%+.0f0}% {^Z}感電時間短縮{^E}
+DefenseLifeDurationModifier={%+.0f0}% {^M}生命力減衰時間短縮{^E}
+DefenseLifeLeachDurationModifier={%+.0f0}% {^E}ライフ吸収時間短縮
+DefenseManaLeachDurationModifier={%+.0f0}% {^E}エナジー吸収時間短縮
+DefensePhysicalMaxResist={%+.0f0}% {^K}最大物理耐性{^E}
+DefensePhysicalMaxResistR={%+.0f0}-{%.0f1}% {^K}最大物理耐性{^E}
+DefensePierceMaxResist={%+.0f0}% {^R}最大刺突耐性{^E}
+DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^R}最大刺突耐性{^E}
+DefenseColdMaxResist={%+.0f0}% {^C}最大冷気耐性{^E}
+DefenseColdMaxResistR={%+.0f0}-{%.0f1}% {^C}最大冷気耐性{^E}
+DefenseFireMaxResist={%+.0f0}% {^O}最大火炎耐性{^E}
+DefenseFireMaxResistR={%+.0f0}-{%.0f1}% {^O}最大火炎耐性{^E}
+DefenseAetherMaxResist={%+.0f0}% {^A}最大イーサー耐性{^E}
+DefenseAetherMaxResistR={%+.0f0}-{%.0f1}% {^A}最大イーサー耐性{^E}
+DefenseChaosMaxResist={%+.0f0}% {^P}最大カオス耐性{^E}
+DefenseChaosMaxResistR={%+.0f0}-{%.0f1}% {^P}最大カオス耐性{^E}
+DefensePoisonMaxResist={%+.0f0}% {^L}最大毒酸耐性{^E}
+DefensePoisonMaxResistR={%+.0f0}-{%.0f1}% {^L}最大毒酸耐性{^E}
+DefenseLightningMaxResist={%+.0f0}% {^Z}最大雷耐性{^E}
+DefenseLightningMaxResistR={%+.0f0}-{%.0f1}% {^Z}最大雷耐性{^E}
+DefenseLifeMaxResist={%+.0f0}% {^M}最大生命力耐性{^E}
+DefenseLifeMaxResistR={%+.0f0}-{%.0f1}% {^M}最大生命力耐性{^E}
+DefenseStunMaxResist={%+.0f0}% {^E}最大気絶時間短縮
+DefenseStunMaxResistR={%+.0f0}-{%.0f1}% {^E}最大気絶時間短縮
+DefenseLifeLeachMaxResist={%+.0f0}% {^E}最大ライフ吸収耐性
+DefenseLifeLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}最大ライフ吸収耐性
+DefenseManaLeachMaxResist={%+.0f0}% {^E}最大エナジー吸収耐性
+DefenseManaLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}最大エナジー吸収耐性
+DefenseTrapMaxResist={%+.0f0}% {^E}最大捕縛時間短縮
+DefenseTrapMaxResistR={%+.0f0}-{%.0f1}% {^E}最大捕縛時間短縮
+DefenseFreezeMaxResist={%+.0f0}% {^E}最大凍結時間短縮
+DefenseFreezeMaxResistR={%+.0f0}-{%.0f1}% {^E}最大凍結時間短縮
+DefensePetrifyMaxResist={%+.0f0}% {^E}最大石化時間短縮
+DefensePetrifyMaxResistR={%+.0f0}-{%.0f1}% {^E}最大石化時間短縮
+DefenseDisruptionMaxResist={%+.0f0}% {^E}最大スキル妨害耐性
+DefenseDisruptionMaxResistR={%+.0f0}-{%.0f1}% {^E}最大スキル妨害耐性
+DefenseBleedingMaxResist={%+.0f0}% {^R}最大出血耐性{^E}
+DefenseBleedingMaxResistR={%+.0f0}-{%.0f1}% {^R}最大出血耐性{^E}
+DefenseSleepMaxResist={%+.0f0}% {^E}最大睡眠耐性
+DefenseSleepMaxResistR={%+.0f0}-{%.0f1}% {^E}最大睡眠耐性
+DefenseAllMaxResist={%+.0f0}% {^E}最大全耐性
+DefenseAllMaxResistR={%+.0f0}-{%.0f1}% {^E}最大全耐性
+DefenseReflectResist={%.0f0}% {^E}反射ダメージ削減
+DefenseReflectResistR={%+.0f0}-{%.0f1}% {^E}反射ダメージ削減
+
+RacialBonusPercentDamage={%+.0f0}% {^E}{%s1} へのダメージが増加
+RacialBonusAbsoluteDamage={%+.0f0} {^E}{%s1} へのダメージが増加
+RacialBonusPercentDefense={%.0f0}% {^E}{%s1} からのダメージが減少
+RacialBonusAbsoluteDefense={%.0f0} {^E}{%s1} からのダメージが減少
+RacialBonusRaceName={%s0}
+
+
+tagDamageSleep={^E}標的の睡眠{%t0}
+tagDamageModifierSleep={%+.0f0}% {^E}睡眠ダメージ
+tagDefenseSleep={%.0f0}% {^E}睡眠耐性
+tagDefenseSleepModifier={%+.0f0}% {^E}睡眠耐性
+tagDamageModifierTotalDamage={%+.0f0}% {^X}全ダメージ{^E}
+tagDamageModifierCritDamage={%+.0f0}% {^X}クリティカルダメージ{^E}
+tagDamageModifierCritDamageR={%+.0f0}-{%.0f1}% {^X}クリティカルダメージ{^E}
+tagDamageModifierDamageMult={^H}{%.0f0}% {^X}ダメージ修正総計{^E}
+tagRetaliationModifierTotalDamage={%+.0f0}% {^X}全報復ダメージ{^E}
+tagRetaliationModifierTotalDamageR={%+.0f0}-{%.0f1}% {^X}全報復ダメージ{^E}
+tagRetaliationModifierDamageMult={^H}{%.0f0}% {^X}報復ダメージ修正総計{^E}
+tagTotalSpeedResistance={%.0f0}% {^E}減速耐性
+tagTotalSpeedResistanceR={%+.0f0}-{%.0f1}% {^E}減速耐性
+tagMindcontrolledMonster=精神支配
+tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}の確率で､ 最大 {^H}{%d1} {^E}体の標的を襲う
+tagSparkMaxNumberChanceSingleMod={^H}+{%.0f0}% {^E}の確率で､ 最大 {^H}{%d1} {^E}体の標的を襲う
+tagSparkMaxNumberChance={^H}{%.0f0}% {^E}の確率で､ 最大 {^H}{%d1} {^E}体の標的を襲う
+tagSparkMaxNumberChanceMod={^H}+{%.0f0}% {^E}の確率で､ 最大 {^H}{%d1} {^E}体の標的を襲う
+tagSparkMaxNumberSingle={^E}有効標的数 {^H}{%d0}
+tagSparkMaxNumberSingleMod={^E}有効標的数 {^H}+{%d0}
+tagSparkMaxNumber={^E}有効標的数 {^H}{%d0}
+tagSparkMaxNumberMod={^E}有効標的数 {^H}+{%d0}
+
+tagItemGrantSkill=スキル付与:
+tagItemSkill= (アイテムにより付与)
+tagItemSkillShort= (アイテム)
+tagEffect=効果:
+tagSkillGrantEffect=セレスチャル パワー:
+tagDevotionAttached=結合先:
+
+tagItemUseDirections=[右クリックで使用]
+
+tagInspectTitle=調べる
+tagInspectOption=プレイヤーを調べる
+tagInspectWarning=そのプレイヤーは調べるのに遠すぎます。
+tagGroup01=PVP 有効
+tagGroup02=オートグループ有効
+tagAutoItemSkill= (アイテムにより付与 - パッシブの活性化)
+tagExclusiveSkill=^o排他的スキル: 排他的スキルは､ 常に一つしか 発動できません。
+tagItemSkillModified= {^E}: {^Z}{%s0}
+
+tagAutoSort=自動整理
+tagAutoComplete=コンポーネントを完成させる
+tagAttributeUndo=取り消し
+
+tagQuestItem=クエストアイテム
+
+
+tagCR_Jewelry=ジュエリー:
+tagRelicError=エピックやレジェンダリー アイテムには､ レリックやチャーム の適用はできません。
+
+tagExperienceDisplayFormat=現在の経験値 : {^y}{%t0}{^w}  ~  次のレベルまでの経験値 : {^y}{%t1}
+tagCXP=XP : {%t0}
+tagGrave01=プレイヤーの墓 ~ {%t0}
+tagGrave02={%t0} に殺された
+tagGrave03=回収した経験値 : {%d0}
+tagHeroXPShort={%d0} ヒーローのXP
+tagBossXPShort={%d0} ボスのXP
+tagBossXPLong01=殺したボスモンスター
+tagBossXPLong02={%d0} XP 獲得
+tagHeroXPLong01=殺したヒーローモンスター
+tagHeroXPLong02={%d0} XP 獲得
+
+tagPetBonusNameAllPets=すべてのペットへのボーナス
+tagPetBonusNameOnePet={%s0} ペットへのボーナス
+tagPetBonusNameTwoPets={%s0} と {%s1} ペットへのボーナス
+tagPetBonusNameManyPets=ペットへのボーナス
+
+TagSpeakerSetup=スピーカーの設定
+TagHeadphoneSpeakers=ヘッドフォン スピーカー
+Tag41Speakers=4 スピーカー
+Tag51Speakers=5.1 スピーカー
+TagKeybind40=代わりのホットスロットバーを使用
+tagKeybindUnassigned=未割り当て
+
+tagSelectPet1=ペットの選択 1
+tagSelectPet2=ペットの選択 2
+tagSelectPet3=ペットの選択 3
+tagSelectPet4=ペットの選択 4
+tagSelectPet5=ペットの選択 5
+tagSelectAllPets=すべてのペットを選択
+tagPortraitAggressive=攻撃的に指定
+tagPortraitNormal=普通に指定
+tagPortraitDefensive=防御的に指定
+tagPortraitHireling=調べる
+
+tagMove=(マウスポインタの位置に) 移動
+tagForceMove=強制移動
+tagUse=会話/箱開け/出入り口 などの相互作用
+tagPickup=拾う
+tagPushToTalk=プッシュトゥトーク
+tagUC_Button=アンロック コンテンツ
+tagUC_Message=新コンテンツをアンロックするには､ アンロック コードを タイプしてください。
+tagUC_OK=OK
+tagUC_Cancel=キャンセル
+tagUC_Error=このキャラクターは､ すでにそのコンテンツを アンロックしています。 
+
+tagHotSlotSwap=プライマリとセカンダリの間で､ クイック スロット バー を切り替えてください。
+tagHotSlotTitle=交互のクイック スロット バー
+tagEmptyHotSlot=このクイック スロット ボタンをクリア。
+
+tagDevotionUnassigned=スキルなし
+
+#Stack Window
+
+tagStackOk=Ok
+tagStackCancel=キャンセル
+
+#Multiplayer
+
+tagMPTrade=取引
+tagMPGroup=グループ
+tagMPInGame=ゲーム中
+tagMPCharName=キャラクター名
+tagMPCharLevel=レベル
+tagMPCharClass=クラス
+tagMPAdd=追加
+tagMPRemove=消去
+tagMPMessage=メッセージ
+tagMPInvite=招待
+tagMPLeave=グループを離脱
+tagMPBan=追放
+tagMPAvailable=利用可能なプレイヤー
+tagMPGroup1=グループ 1
+tagMPGroup2=グループ 2
+tagMPGroup3=グループ 3
+tagMPNoClass=N/A
+tagMPInviteMessage={%t0} が､ あなたのグループに参加するよう求めています。
+tagMPInviteError={%t0} は､ すでにグループにいます。
+tagMPInviteSend={%t0} に､ あなたのグループに入る招待状が送られました。
+tagMPInviteRemove={%t0} は､ あなたのグループから除かれました。
+tagMPMessageJoin={%t0} が､ あなたのグループに参加しました。
+tagMPMessageLeave={%t0} が､ あなたのグループから離れました。
+tagMPMessageDeny={%t0} は､ あなたの招待を辞退しました。
+tagMPMessageBan={%t0} は､ ゲームから追放されました。
+tagMPMessageGameJoin={%t0} が､ ゲームに参加しました。 難易度が､ 増えたプレイヤーのために調整されました。
+tagMPMessageGameLeave={%t0} は､ ゲームを止めました。
+tagMPQuestionBan=本当に､ {%t0} をゲームから追放しますか？
+tagMPInviteAccept=承諾
+tagMPInviteDeny=拒否
+tagMPStats=ゲーム ステータス:
+tagMPMapName=地図名 :
+tagMPServerName=サーバー名 :
+tagMPServerAddress=サーバー アドレス :
+tagMPPing=Ping :
+tagMPTime=経過時間 :
+tagMPServer=サーバー名: {%t0}
+tagMPIPAddress=IP: {%t0}
+tagMPPort=Port: {%t0}
+tagMPErrorNoTarget=そのプレイヤーは標的として遠すぎます。
+tagMPNameLevel={%t0} ({%d1})
+tagMPClass={%s0}
+tagMPLocation={%s0}
+tagMPLifeMana={^r}{%d0}/{%d1} {^g}{%d2}/{%d3}
+tagMPReport=報告
+tagTradeError01={%t0} は現在､ 別のプレイヤーと取引しています。
+tagTradeError02={%t0} はあなたの取引要請を拒否しました。
+tagTradeError03={%t0} が取引を求めてきました。
+tagTradeError04=この取引を承諾するのに十分な インベントリの 空きがありません。
+tagTradeButton01=取引
+tagTradeButton02=キャンセル
+tagTradeDistance=そのプレイヤーと取引するには遠すぎます。
+tagChatGroup=グループ
+tagChatAll=全部
+tagChatFriends=フレンド
+tagChatReply=返事
+tagChatSpeak=話す . . .
+tagChatError=その名前のプレイヤーは存在しません。
+tagChatMuted={%t0} は現在ミュート中です。
+tagChatUnmuted={%t0} はもうミュートではありません。
+tagChatCommandShort01=p
+tagChatCommandShort02=a
+tagChatCommandShort03=r
+tagChatCommandShort04=t
+tagChatCommandShort05=m
+tagChatCommandShort06=u
+
+#Grim Internals
+tagGI_GrimInternals=Grim Internals v1.99
+tagGI_CombatAttributeType_PhysicalPierce=物理刺突
+tagGI_CombatAttributeType_Physical=物理
+tagGI_CombatAttributeType_PierceRatio=刺突割合
+tagGI_CombatAttributeType_Pierce=刺突
+tagGI_CombatAttributeType_Cold=冷気
+tagGI_CombatAttributeType_Fire=火炎
+tagGI_CombatAttributeType_Poison=中毒
+tagGI_CombatAttributeType_Lightning=雷
+tagGI_CombatAttributeType_Life=生命力
+tagGI_CombatAttributeType_Chaos=カオス
+tagGI_CombatAttributeType_Aether=イーサー
+tagGI_CombatAttributeType_ManaBurn=エナジー燃焼
+tagGI_CombatAttributeType_Disruption=スキル中断
+tagGI_CombatAttributeType_PercentCurrentLife=% ヘルス減少
+tagGI_CombatAttributeType_Bleeding=出血
+tagGI_CombatAttributeType_TotalSpeed=総合速度
+tagGI_CombatAttributeType_AttackSpeed=攻撃速度
+tagGI_CombatAttributeType_SpellCastSpeed=詠唱速度
+tagGI_CombatAttributeType_RunSpeed=走行速度
+tagGI_CombatAttributeType_LifeLeach=ライフ吸収
+tagGI_CombatAttributeType_ManaLeach=エナジー吸収
+tagGI_CombatAttributeType_OffensiveAbility=攻撃能力
+tagGI_CombatAttributeType_DefensiveAbility=防御能力
+tagGI_CombatAttributeType_OffensiveReduction=攻撃能力減少
+tagGI_CombatAttributeType_DefensiveReduction=防御能力減少
+tagGI_CombatAttributeType_Fumble=近接戦闘力低下
+tagGI_CombatAttributeType_ProjectileFumble=遠隔戦闘力低下
+tagGI_CombatAttributeType_TotalDamageReductionPercent=% ダメージ総計減少
+tagGI_CombatAttributeType_TotalDamageReductionAbsolute=ダメージ総計減少
+tagGI_CombatAttributeType_PhysicalDamageReductionPercent=% 物理ダメージ減少
+tagGI_CombatAttributeType_ElementalDamageReductionPercent=% エレメンタルダメージ減少
+tagGI_CombatAttributeType_TotalResistanceReductionPercent=% 総耐性減少
+tagGI_CombatAttributeType_TotalResistanceReductionAbsolute=総耐性減少
+tagGI_CombatAttributeType_PhysicalResistanceReductionPercent=% 物理耐性減少
+tagGI_CombatAttributeType_PhysicalResistanceReductionAbsolute=物理耐性減少
+tagGI_CombatAttributeType_ElementalResistanceReductionPercent=% エレメンタル耐性減少
+tagGI_CombatAttributeType_ElementalResistanceReductionAbsolute=エレメンタル耐性減少
+tagGI_CombatAttributeType_AbsorptionProtection=吸収防御
+tagGI_CombatAttributeType_Absorption=吸収
+tagGI_CombatAttributeType_Protection=防御
+tagGI_CombatAttributeType_ArmorRating=装甲値
+tagGI_CombatAttributeType_Stun=気絶
+tagGI_CombatAttributeType_Sleep=睡眠
+tagGI_CombatAttributeType_Trap=捕縛
+tagGI_CombatAttributeType_Freeze=凍結
+tagGI_CombatAttributeType_Petrify=石化
+tagGI_CombatAttributeType_Immobilize=移動不能
+tagGI_CombatAttributeType_Knockdown=ノックダウン
+tagGI_CombatAttributeType_TakeHit=被打
+tagGI_CombatAttributeType_Taunt=挑発
+tagGI_CombatAttributeType_Convert=転向
+tagGI_CombatAttributeType_Fear=恐怖
+tagGI_CombatAttributeType_Confusion=混乱
+tagGI_CombatAttributeType_BlockModifier=ブロック修正
+tagGI_CombatAttributeType_BlockAmountModifier=ブロック量修正
+tagGI_CombatAttributeType_Reflect=反射
+tagGI_CombatAttributeType_ElementalGroup=エレメンタルグループ
+tagGI_CombatAttributeType_TotalDamageModifier=ダメージ総計修正
+tagGI_CombatAttributeType_CritDamageModifier=クリティカル修正
+tagGI_CombatAttributeType_ManaBurnRatio=エナジー燃焼率
+tagGI_CombatAttributeType_Unknown=不明
+
+#Grim Internals InfoBox Tags
+tagGI_InfoBox_Mem=メモリー
+tagGI_InfoBox_Kills=キル
+tagGI_InfoBox_Items=アイテム
+tagGI_InfoBox_IronBits=鉄片
+tagGI_InfoBox_Exp=経験値
+tagGI_InfoBox_ExpMin=経験値/分
+tagGI_InfoBox_ExpLevelUp=レベルアップ
+tagGI_InfoBox_DealtDPS=与えたDPS
+tagGI_InfoBox_Targets=標的
+tagGI_InfoBox_IncomingDPS=被ったDPS
+tagGI_InfoBox_PetsDPS=ペットのDPS
+tagGI_InfoBox_HealthPotions=ヒール ポーション
+tagGI_InfoBox_EnergyPotions=エナジー ポーション
+tagGI_InfoBox_DebuffReductionPercent=% 減少
+tagGI_InfoBox_DebuffReductionAbsolut=減少
+tagGI_InfoBox_DebuffChanceToMiss=% ミス率
+tagGI_InfoBox_DebuffDPS=DPS
+tagGI_InfoBox_Close={^r}* 設定パネルを閉じてください！ *
+tagGI_FloatingText_RareItemLooted=レアアイテム獲得！
+
+#Grim Internals Cinematic Text Tags
+tagGI_CinematicDeathMsg1={^r}! あなたは死んだ !
+tagGI_CinematicDeathMsg2={^y} R. I. P.
+tagGI_CinematicDeathMsg3={^y} R. I. P. (死亡数: {%d})
+tagGI_CinematicInfoBoxEnabled={^y} 統計情報を有効にしました！
+tagGI_CinematicInfoBoxDisabled={^y} 統計情報を無効にしました！
+tagGI_CinematicNemesisAlert={^y}!! ネメシス アラート !!
+tagGI_CinematicCantTeleport={^r}!! まだテレポートできません !!
+
+#changes in v1.73
+tagGI_InfoBox_ItemsHidden={^r}* ドロップアイテムが隠れてます! (key: {%c})
+
+#new in v1.73
+tagGI_CrucibleMap_Random=坩堝のランダムマップ (デフォルト)
+tagGI_QuickTeleportLocation=テレポート場所
+tagGI_HeroDebuff=ヒーロー デバフ:
+
+#new in v1.73c
+tagGI_QuickTeleportList=クイックテレポート一覧
+
+#new in v1.744
+tagGI_PrefixSearchDisabled=接頭辞検索を無効にしました！
+tagGI_SuffixSearchDisabled=接尾辞検索を無効にしました！
+tagGI_CinematicPrefixFound={^y}接頭辞を発見！
+tagGI_CinematicSuffixFound={^y}接尾辞を発見！
+tagGI_CinematicPrefixSuffixFound={^y}接頭辞 & 接尾辞を発見！
+
+#new in v1.79
+tagGI_InfoBox_GameSpeed={^y}速度:
+
+#new in v1.90
+tagGI_CinematicIllusionAdded={^g}新たなイリュージョンが加わりました！
+
+#new in v1.99
+tagGI_CloudSavingWarning=警告: クラウドセーブが有効になっています！{^n}Grim Internals を使用する場合は､ オプション{^n}メニューで無効にするよう注意してください！
+
+#patch v1.2
+tagExclusiveSkillConflict=^rあなたは既に、より強力な限定スキルをアクティブにしています、{%s0}。
+tagAutoToggledSkill=^oバフは自動的にアクティベートされます。
+CooldownCharges={%d0} {^E}最大キャスト数
+CooldownChargesMod=+{%d0} {^E}最大キャスト数
+PotionCooldownCharges={%d0} {^E}最大使用回数
+PotionCooldownChargesMod=+{%d0} {^E}最大使用回数
+tagCharRunSpeedMaxModifier={%+.0f0}% {^E}最大移動速度
+tagCharSpellCastSpeedMaxModifier={%+.0f0}% {^E}最大キャスト速度
+tagCharAttackSpeedMaxModifier={%+.0f0}% {^E}最大攻撃速度
+tagCharAttribute04MultModifier={^E}総ヘルスが {^H}{%.0f0}% 変更
+tagEvade=回避
+DamageDurationDamageMult=% {^E}破砕
+DamageDurationModifierDamageMult={%+.0f0}% {^E}破砕の上昇
+tagDotDamageMutiplier=破砕
+tagDurationDamageMultiplier={^E}被ダメージ {^H}{%d0}％増加
+tagCharStatsPetTrapResist=トラップ耐性
+tagCharStatsPetTrapResistInfo=ペットと召喚されたミニオンのトラップ耐性へのパーセンテージボーナス。
+tagCharStatsPetPetrifyResist=石化耐性
+tagCharStatsPetPetrifyResistInfo=ペットと召喚されたミニオンの石化耐性へのパーセンテージボーナス。
+tagCharStatsPetFreezeResist=凍結耐性
+tagCharStatsPetFreezeResistInfo=ペットと召喚されたミニオンの凍結耐性へのパーセンテージボーナス。
+tagCharStatsPetSleepResist=睡眠耐性
+tagCharStatsPetSleepResistInfo=ペットと召喚されたミニオンの睡眠耐性へのパーセンテージボーナス。
+tagCharStatsPetSlowResist=スロー耐性
+tagCharStatsPetSlowResistInfo=ペットと召喚されたミニオンのスロー耐性へのパーセンテージボーナス。
+tagToggleUI=UI切り替え
+tagCharStatsPetStunResist=気絶耐性
+tagCharStatsPetStunResistInfo=ペットと召喚されたミニオンの気絶耐性へのパーセンテージボーナス。
+tagCharStatsPetCritDamage=クリティカルダメージ
+tagCharStatsPetCritDamageInfo=ペットと召喚したミニオンのクリティカルダメージへのパーセントボーナス。
+tagCurrentLevelAugment=現在のレベル : {%d0} + ^B{%d1}
+tagNextLevelAugment=次のレベル : {%d0} + ^B{%d1}
+tagCurrentLevelExcessAugment=現在のレベル : {%d0} + ^R{%d1}
+tagNextLevelExcessAugment=次のレベル : {%d0} + ^R{%d1}
+tagCharStatsReflectResist=反射耐性
+tagCharStatsReflectResistInfo=自分にダメージを与える反射効果への耐性。
+tagHUDHealthPercent_Head={%d0}%
+tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
+

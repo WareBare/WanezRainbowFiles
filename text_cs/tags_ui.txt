@@ -1,0 +1,2422 @@
+tagHUD_LootModeDescription=Přizpůsobí předměty na zemi dle parametrů. Přepínačem Zobrazit/skrýt předměty lze skrýt všechno například během boje a poté si je znovu zobrazit.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.9{^n}for Grim Dawn: v1.2.0.4{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+#General
+
+tagGameDifficultySetting01=Normální obtížnost
+tagGameDifficultySetting02=Elitní obtížnost
+tagGameDifficultySetting03=Ultimátní obtížnost
+tagDifficultyUnlocked=Obtížnost odemčena
+tagDifficultyLevelUnlocked=Teď můžeš hrát na {^g}{%s0}{^w}!
+
+tagAutosort=Automatické řazení inventáře
+
+tagPromptButtonYes=Ano
+tagPromptButtonNo=Ne
+tagPromptButtonOkay=OK
+tagPromptButtonClose=Zavřít
+
+tagGraveName=Hrob hráče ~ {%t0}
+tagGraveSlainBy={%t0} tě zabil
+tagGraveXPRecovered=Navrácené zkušenosti: {%d0}
+tagHeroXP={%d0} zkušeností za nepřátelského hrdinu
+tagBossXP={%d0} zkušeností za nepřátelského padoucha
+tagHeroKilled=Nepřátelský hrdina zabit
+tagBossKilled=Nepřátelský padouch zabit
+tagXPAwarded=Získáno {%d0} zkušeností
+tagReputationBonus=Bonus k přízni
+tagRepAwarded=Získáno +{%d0} přízně za frakci {%s1}
+tagLoreBonus=Bonus za přečtení
+
+tagLevelUp=Nová úroveň
+tagLevelReached=Byla dosažena {^y}{%d0}. úroveň
+
+#Devotion
+
+tagDevotionPointAwarded=Získán {%d0} bod oddanosti
+tagDevotionPointsAwarded=Získáno {%d0} body oddanosti
+tagDevotionShrine=Svatyně vyčištěna
+tagDevotionShrineGuardian=Strážci svatyně
+tagDevotionUpdate=Úroveň oddanosti
+tagDevotionSkillLevelUp=Dovednost {^g}{%s0} {^w}dosáhla {%d1}. úrovně!
+tagDevotionSkillMaxLevel=Dovednost {^g}{%s0} {^w}dosáhla nejvyšší úrovně!
+tagDevotionAffinityBonus=Bonus za dokončené souhvězdí:
+tagDevotionAffinity=Spřízněnost:
+tagDevotionSelected= (vybráno)
+tagDevotionInUse= (používáno)
+tagDevotionConfirm=Chceš vyměnit nebeskou sílu?
+tagDevotionExperienceFormat=Zkušenosti: {^y}{%d0}{^w} z {^y}{%d1}
+tagDevotionSkillRank=Současná úroveň: {%d0} / {%d1}
+
+tagUndo=Zpět
+Chat=Chat:
+
+tagGamePaused=Hra je pozastavena
+
+tagSkillNotReady={^r}Tato dovednost není připravena
+
+tagTransferStashError={^r}Tento předmět sem nelze umístit
+
+#Brána
+
+tagRiftgatePersonal=Osobní Brána
+tagRiftgateDestination=Lokace
+tagRiftgateError01=Tuto Bránu nemůžeš použít. Byla vytvořena hráčem, který není ve tvé skupině.
+tagRiftgateError02=Nemůžeš se přenést do téhle samé Brány, vyber si jinou.
+tagRiftgateError03=Odsud se do této vybrané Brány nemůžeš přenést.
+tagRiftgateDialog01=Otevřením nové Brány uzavřeš svoji stávající Bránu. Je to tvým záměrem?
+tagRiftGateMapA01=Cairn
+
+#Quest
+
+tagQuests=Aktivní úkoly
+tagQuestLogNameNumber={%t0} ({%d1})
+tagQuestJournalNoQuests=Žádné úkoly
+tagQuestJournalNoComplete=Žádné dokončené úkoly
+tagQuestIncentives=Pobídky:
+tagQuestObjectives=Cíle:
+tagQuestRewards=Odměny:
+tagCodexJournalNoNotes=Žádné přečtené záznamy
+tagCodexJournalSubHeadingEnemy=Nepřítel v dohledu
+tagCodexJournalSubHeadingFaction=Frakce
+tagCodexJournalSubHeadingCreed=Inkvizitor Creed
+tagCodexJournalSubHeadingArkovia=Historie - Arkovia
+tagCodexJournalSubHeadingNecropolis=Historie - Pohřebiště
+tagCodexJournalSubHeadingSurvivorBlackLegion=Přeživší - Černá legie
+tagCodexJournalSubHeadingSurvivorBurrwitch=Přeživší - Burrwitch
+tagCodexJournalSubHeadingSurvivorsHomestead=Přeživší - Homestead
+tagCodexJournalSubHeadingSurvivorsDarkvale=Přeživší - Darkvale
+tagCodexJournalSubHeadingSurvivorsValbury=Přeživší - Valburský přístav
+tagCodexJournalSubHeadingHistoryGods=Historie - Bohové Cairnu
+tagCodexJournalSubHeadingDefault=Různé
+tagDevotionJournalTitle={%d0}/{%d1} svatyní oddanosti
+tagAccept=Přijmout
+tagDecline=Odmítnout
+tagContinue=Pokračovat
+tagEndConversation=Ukončit rozhovor
+tagQuestPrimary=(primární)
+tagQuestSecondary=(sekundární)
+tagQuestElite=(elitní)
+tagQuestAccepted=Přijatý úkol: {^n}"{%t0}"
+tagQuestCompleted=Dokončený úkol: {^n}"{%t0}"
+tagQuestUpdate=Stav úkolu
+tagQuestUpdated=Aktualizace úkolu: {^n}"{%t0}"
+tagQuestFailed=Úkol selhal: {^n}"{%t0}"
+tagActionGiveMoney={%d0} železných mincí
+tagActionGiveTribute={%d0} bodů cti
+tagActionGiveTributes={%d0} bodů cti
+tagActionGiveExperience={%d0} zkušeností
+tagActionGiveFaction={%d0} {%t1} frakčních bodů
+tagActionGiveLevel={%d0} úroveň
+tagActionGiveLevels={%d0} úrovně
+tagActionGiveSkillPoint={%d0} bod dovednosti
+tagActionGiveSkillPoints={%d0} body dovedností
+tagActionGiveAttributePoint={%d0} bod atributu
+tagActionGiveAttributePoints={%d0} body atributů
+tagActionGiveDevotionPoint={%d0} bod oddanosti
+tagActionGiveDevotionPoints={%d0} body oddanosti
+tagConditionHasKilled={%t0} ({%d1}/{%d2})
+tagConditionHasItem={%t0} ({%d1}/{%d2})
+tagQuestRewardWindowTitle=Úkol byl splněn
+tagQuestRewardWindowInterim=Stav úkolu
+tagQuestRewardTitle=Odměny:
+tagQuestRewardMoney={%d0} železných mincí
+tagQuestRewardXP=Zkušenosti: {%d0}
+tagQuestRewardReputationPositive={%s1}: +{%d0} přízně
+tagQuestRewardReputationNegative={%s1}: -{%d0} přízně
+tagQuestRewardAcceptButton=Zavřít
+tagQuestBlockedDescription=Úkol je dočasně zablokován, hostující hráč jej ještě nedokončil.
+
+tagObjectives=Cíle
+
+#Faction
+
+tagFaction={%s0}
+tagFactionStanding=Postoj: {^s}{%t0}
+tagFactionQuestReq=Přídavný úkol: {^s}{%+d0}
+tagFactionAlone=Osamocený
+tagFactionInvisible=Neviditelný
+tagFactionGenericMonster=Nepřátelé
+tagFactionPlayer=Hráči
+tagFactionSurvivors=Lidé z Ďáblova průsmyku
+tagFactionSurvivorsInfo=Stanoviště: Ďáblův průsmyk {^n}{^n} Přeživší... nejčastěji použité slovo označující charakter obyvatel Ďáblova průsmyku. Muži a ženy, kteří přežili Ponurý úsvit, vytvořili malé společenství v troskách opuštěného vězení. Viděli příliš mnoho přátel a členů svých rodin, které si vzali "Jiní" - ti, kteří jsou posedlí Aetherem.{^n}{^n}Získat si jejich důvěru není zrovna snadný úkol, ale zásoby docházejí a Aetherická hrozba je za humny, takže možná budou ochotni riskovat.
+tagFactionSurvivorsRewards1=-
+tagFactionSurvivorsRewards2=-
+tagFactionSurvivorsRewards3=-
+tagFactionSurvivorsRewards4=nic
+tagFactionSurvivorsRewards5=Nový úkol {^n}Přístup k frakčnímu trhovci
+tagFactionSurvivorsRewards6=Nový úkol {^n}Přístup k frakční vývěsce {^n}Frakční výzbroj {^n}Frakční výstroj {^n}Frakční plánky
+tagFactionSurvivorsRewards7=Nová jeskyně / úkol {^n}Frakční vylepšení {^n}Frakční doplňky {^n}Frakční dokumenty {^n}Frakční plánky
+tagFactionSurvivorsRewards8=Vzácná vylepšení {^n}Frakční udělení {^n}Elitní frakční výzbroj {^n}Elitní frakční výstroj
+tagFactionAetherials=Aetheriané
+tagFactionAetherialsInfo= Jak pošetilí a hamižní byli čarodějové z Cairnu, poblouzněni magickým závojem známým jako Aether, aniž by aspoň pojali nějaké podezření nebo se ohlédli zpětně na své činy.{^n}{^n} Aetheriané vstoupili do Cairnu v době, která je teď známa jako Ponurý úsvit, kdy posedli nespočet lidí a zmasakrovali mnohé další. Nejzavrženíhodnější z toho všeho je, že začali oživovat padlé jako zmutované nemrtvé příšery, bezduché pěšáky určené k další invazi. Jejich přítomnost v Cairnu stačí k tomu, aby začala mutovat i divočina - krotká zvířata se začala měnit v brutální příšery. {^n}{^n} Ovšem nejdivnější je jejich zřejmá nenávist ke Chthonskému kultu, který, stejně jako oni, si nenechá ujít žádnou příležitost bojovat proti hrůzám z Prázdnoty.
+tagFactionAetherialsRewards1=Tábořiště mstitele
+tagFactionAetherialsRewards2=Přídavná tábořiště hrdinů
+tagFactionAetherialsRewards3=Dodatečná tábořiště
+tagFactionAetherialsRewards4=nic
+tagFactionAetherialsRewards5=-
+tagFactionAetherialsRewards6=-
+tagFactionAetherialsRewards7=-
+tagFactionAetherialsRewards8=
+tagFactionCthonians=Chthonský kult
+tagFactionCthoniansInfo= Chthonské bytosti, hrůzné bytosti z Prázdnoty, jsou něco jako noční můry. Před Ponurým úsvitem je bylo možné v Cairnu spatřit pouze pokud se nepodařily temné rituály nebo na příkaz nějakého mocného čaroděje. {^n}{^n} Navzdory snaze zlikvidovat tyto praktiky se zrodil kult vyzvávající krvavé rituály a uctívání chthonické bytosti. Členové kultu jsou často slyšeni, jak vzývají jediné jméno: Ch'thon. Tím jak se ve světě zmítaly nepokoje, kult se stával silnějším, nabíral nové stoupence jako zoufalou odpověď na svět, který nedává žádný smysl. {^n}{^n} Chthonské bytosti a jejich loajální kult se zdá být zcela odlišný od Aetherianů, kteří dychtivě shánějí bezmocné lidi pro jejich krev, tudíž je pak nemohou využívat pro další účely.
+tagFactionCthoniansRewards1=Tábořiště mstitele
+tagFactionCthoniansRewards2=Přídavná tábořiště hrdinů
+tagFactionCthoniansRewards3=Dodatečná tábořiště
+tagFactionCthoniansRewards4=nic
+tagFactionCthoniansRewards5=-
+tagFactionCthoniansRewards6=-
+tagFactionCthoniansRewards7=-
+tagFactionCthoniansRewards8=-
+tagFactionOutlaws=Cronleyova banda
+tagFactionOutlawsInfo= Narozdil od většiny potulných banditů to vypadá, že Cronleyho banda je vysoce organizovaná a těžce ozbrojená tlupa, zodpovědná pouze jedinému, jejich samozvanému vůdci, Dariovi Cronleymu. {^n}{^n} Bandité unikli z věznic Ďáblova průsmyku během chaosu, který vyvstal během Ponurého úsvitu, a nyní se perou o místo na světě, které jim kdysi bylo odepřeno odnětím svobody. Členové Cronleyovy bandy jsou sadističtí, násilní a velice náchylní k jakékoliv agresi vůči jejich bližním. Symbolizují to, že snad největší hrozbou pro lidstvo jsou lidé sami.
+tagFactionOutlawsRewards1=Tábořiště mstitele
+tagFactionOutlawsRewards2=Přídavná tábořiště hrdinů
+tagFactionOutlawsRewards3=Dodatečná tábořiště
+tagFactionOutlawsRewards4=nic
+tagFactionOutlawsRewards5=-
+tagFactionOutlawsRewards6=-
+tagFactionOutlawsRewards7=-
+tagFactionOutlawsRewards8=-
+tagFactionBeasts=Bestie
+tagFactionBeastsInfo=Zvířata budou pořád zvířata
+tagFactionUser0=Tuláci
+tagFactionUser0Info=Stanoviště: Stará Arkovia {^n}{^n}Rhowari, nebo takzvaní Tuláci, jak jsou běžně nazýváni, je skupina lidí bez trvalého domova. Pro ně jsou otevřené cesty jejich jediné domovy, které kdy budou potřebovat, cestujíc po světě Cairnu svou celoživotní pouť a očišťujíc sebe sama od všech světských pokušení a zkažeností civilizace. Mnohé z jejich historie je na věky ztraceno, a většina lidských kultur je považuje za něco více než tuláky a drobné zlodějíčky. {^n}{^n} Tulákům se hnusí násilí a snaží se mu vyhnout za každou cenu, což často vede ke zneužívání těmi, kteří násilí upřednostňují.
+tagFactionUser0Rewards1=-
+tagFactionUser0Rewards2=-
+tagFactionUser0Rewards3=-
+tagFactionUser0Rewards4=nic
+tagFactionUser0Rewards5=Nový úkol {^n}Přístup k frakčnímu trhovci
+tagFactionUser0Rewards6=Přístup k vývěsce {^n}Frakční výzbroj {^n}Frakční výstroj {^n}Frakční plánky
+tagFactionUser0Rewards7=Nový úkol {^n}Frakční vylepšení {^n}Frakční doplňky {^n}Frakční dokumenty {^n}Frakční plánky
+tagFactionUser0Rewards8=Vzácná vylepšení {^n}Frakční udělení {^n}Elitní frakční výzbroj {^n}Elitní frakční výstroj
+tagFactionUser1=Neutrální
+tagFactionUser1Info=není
+tagFactionUser2=Obyvatelé Homesteadu
+tagFactionUser2Info=Stanoviště: Homestead {^n}{^n} Pokaždé, když se objeví potíže v severských zemědělských oblastech, farmáři a jejich rodiny se semknou a sjednotí v Homesteadu. Tento pocit komunity se ukázal být mnohem důležitější než kdy dřív, jelikož teď lidstvo čelí vyhynutí. {^n}{^n} S pomocí Černé legie se Homestead proměnil v opravdovou pevnost, místo relativního bezpečí ve světě zmítaném smrtí, ale s mocnými nepřáteli útočících ze všech stran. Někteří si začínají klást otázku, zda opevnění v jednom jediném místě bylo moudré rozhodnutí. {^n}{^n} Zatímco Černá legie bojuje především s Aetheriany a Chthonským kultem, lidé z Homesteadu se zaměřili na hrozbu mnohem blíže svým domovům - nenasytným rojům Škvorů, které se rozšířily po celé oblasti a nyní napadají jejich opuštěná pole.
+tagFactionUser2Rewards1=-
+tagFactionUser2Rewards2=-
+tagFactionUser2Rewards3=-
+tagFactionUser2Rewards4=nic
+tagFactionUser2Rewards5=Přístup k frakčnímu trhovci
+tagFactionUser2Rewards6=Přístup k frakční vývěsce {^n}Frakční výzbroj {^n}Frakční výstroj {^n}Frakční plánky
+tagFactionUser2Rewards7=Nový úkol {^n}Frakční vylepšení {^n}Frakční doplňky {^n}Frakční dokumenty {^n}Frakční plánky {^n}Elitní frakční výzbroj {^n}Elitní frakční výstroj
+tagFactionUser2Rewards8=Vzácná vylepšení {^n}Frakční udělení
+tagFactionUser3=Svobodní muži Corriganova dolu
+tagFactionUser3Info=Stanoviště: Corriganův důl {^n}{^n} SLOVA
+tagFactionUser3Rewards1=-
+tagFactionUser3Rewards2=-
+tagFactionUser3Rewards3=-
+tagFactionUser3Rewards4=nic
+tagFactionUser3Rewards5=-
+tagFactionUser3Rewards6=-
+tagFactionUser3Rewards7=-
+tagFactionUser3Rewards8=-
+tagFactionUser4=Vyvrhelové
+tagFactionUser4Info=Stanoviště: Pevnost Ikon {^n}{^n} O této záhadné Anasterii není mnoho známo, ani proč zrovna ona ví tolik o Aetherianech a jejich plánech. Přišla zdánlivě odnikud, poskytnuvší Černé legii informace o nepřátelské činnosti, čímž by mohly být zachráněny cenné životy. {^n}{^n} Mnozí v Černé legii ji označili za čarodějnici a rádi by ji viděli upálenou na hranici i přes naléhání inkvizitora Creeda, že musí být její život za každou cenu uchráněn.
+tagFactionUser4Rewards1=Pomsta Vyvrhelů
+tagFactionUser4Rewards2=Hněv Vyvrhelů
+tagFactionUser4Rewards3=Nohsledi Vyvrhelů
+tagFactionUser4Rewards4=nic
+tagFactionUser4Rewards5=Nový úkol
+tagFactionUser4Rewards6=Nový úkol {^n}Přístup k frakčnímu stolu
+tagFactionUser4Rewards7=Nový úkol {^n}Přístup k frakčnímu trhovci
+tagFactionUser4Rewards8=Vzácná vylepšení {^n}Frakční udělení {^n}Elitní frakční výzbroj {^n}Elitní frakční výstroj
+tagFactionUser5=Řád Strážců smrti
+tagFactionUser5Info=Stanoviště: Bašta zármutku {^n}{^n} Řád Strážců smrti představuje poslední pojítko s téměř ztraceným uměním nekromancie - velmi drahých vědomostí předávaných mezi svými členy od jejich velmistra Uroboruuka.{^n}{^n} Členové řádu se nebojí smrti. Místo toho sí osvojují drsné lekce ve víře, že díky ovládnutí mistrovského umění smrti se stanou způsobnější ve světě samotném.{^n}{^n} Přes celá staletí trvající pronásledování říší, nejsou Řádu cizí předsudky a kontroverze, ale nikdy se nesetkal s nepřítelem tak nelítostným jako jsou Kymonovi Vyvolení. Vyvolení se zaměřili pouze na očištění Cairnu od zkaženosti, pro něž je Řád pouze jakousi parodií, která musí být zlikvidována.
+tagFactionUser5Rewards1=Tábořiště mstitele
+tagFactionUser5Rewards2=Přídavná tábořiště hrdinů
+tagFactionUser5Rewards3=Dodatečná tábořiště
+tagFactionUser5Rewards4=nic
+tagFactionUser5Rewards5=Přístup ke frakčnímu trhovci
+tagFactionUser5Rewards6=Nový úkol {^n}Přístup k fračkní vývěsce {^n}Frakční výzbroj {^n}Frakční výstroj {^n}Frakční plánky
+tagFactionUser5Rewards7=Nový úkol {^n}Frakční vylepšení {^n}Frakční doplňky {^n}Frakční dokumenty {^n}Frakční plánky
+tagFactionUser5Rewards8=Vzácná vylepšení {^n}Frakční udělení {^n}Elitní frakční výzbroj {^n}Elitní frakční výstroj
+tagFactionUser6=Arkovianští nemrtví
+tagFactionUser6Info=Mnoho tragických příběhů bylo řečeno o nemrtvých, do nekonečna se potulujících v troskách Arkovie. Někteří věří, že jsou to duchové uvěznění ve světě smrtelníků, bez možnosti přejít do země zaslíbené v jejich dalším životě. Jiní zase tvrdí, že se jedná o práci odporné nekromancie, kdy legie nemrtvých slouží svému krutému veliteli. Pravda ovšem nejspíš bude někde uprostřed. {^n}{^n} Jedna věc, s kterou může každý souhlasit, je ta, že nemrtví jsou velice nebezpeční pro živé bytosti. Stejně jako rabování jejich zapomenutých ostatků by se dalo považovat jako velmi neuvážené jednání.
+tagFactionUser6Rewards1=Tábořiště mstitele
+tagFactionUser6Rewards2=Přídavná tábořiště hrdinů
+tagFactionUser6Rewards3=Dodatečná tábořiště
+tagFactionUser6Rewards4=nic
+tagFactionUser6Rewards5=-
+tagFactionUser6Rewards6=-
+tagFactionUser6Rewards7=-
+tagFactionUser6Rewards8=-
+tagFactionUser7=Černá legie
+tagFactionUser7Info=Stanoviště: Pevnost Ikon {^n}{^n} Černá legie je císařská elita. Smrtonosní vlajkonoši byli vysláni jednat bez císařovy vůle s velkými předsudky. Legendy o jejich statečnosti se mísily s běžnými příběhy o jejich krutosti a násilí. {^n}{^n} Bez ohledu na to, zda jsou respektováni nebo se jich lidé obávají, je Černá legie jediný císařský pluk uniknuvší po pádu hlavního města během Ponurého úsvitu a nyní představují jedinou lidskou naději, která se nikdy nevzdává.
+tagFactionUser7Rewards1=-
+tagFactionUser7Rewards2=-
+tagFactionUser7Rewards3=-
+tagFactionUser7Rewards4=nic
+tagFactionUser7Rewards5=Přístup k frakční vývěsce {^n}Přístup ke frakčnímu trhovci
+tagFactionUser7Rewards6=Frakční výzbroj {^n}Frakční výstroj {^n}Frakční plánky
+tagFactionUser7Rewards7=Nová jeskyně / úkol {^n}Frakční vylepšení {^n}Frakční doplňky {^n}Frakční dokumenty {^n}Frakční plánky
+tagFactionUser7Rewards8=Vzácná vylepšení {^n}Frakční udělení {^n}Elitní frakční výzbroj {^n}Elitní frakční výstroj
+tagFactionUser8=Kymonovi Vyvolení
+tagFactionUser8Info=Stanoviště: Bašta zármutku {^n}{^n}Kymonovi Vyvolení jsou horliví stoupenci světlonoše Empyriona, ve kterém vidí toho, kdo se vrátí do Cairnu v planoucí slávě a povede své Vyvolené k nastolení nového řádu a prosperity. {^n}{^n} Vedeni svým charismatickým kazatelem známým jako Otec Kymon, střeží svou víru a nemohou se dočkat až vymítí veškerou zkaženost a korupci z Cairnu, ať už se jedná o chthonické hrůzy nebo se smrtí manipulující nekromanty. Navíc za jednu ze svých hlavních priorit považují zprovození Řádu strážců smrti ze světa.
+tagFactionUser8Rewards1=Tábořiště mstitele
+tagFactionUser8Rewards2=Přídavná tábořiště hrdinů
+tagFactionUser8Rewards3=Dodatečná tábořiště
+tagFactionUser8Rewards4=nic
+tagFactionUser8Rewards5=Přístup k frakčnímu trhovci
+tagFactionUser8Rewards6=Nový úkol {^n}Přístup k frakční vývěsce {^n}Frakční výzbroj {^n}Frakční výstroj {^n}Frakční plánky
+tagFactionUser8Rewards7=Nový úkol {^n}Frakční vylepšení {^n}Frakční doplňky {^n}Frakční dokumenty {^n}Frakční plánky
+tagFactionUser8Rewards8=Vzácná vylepšení {^n}Frakční udělení {^n}Elitní frakční výzbroj {^n}Elitní frakční výstroj
+tagFactionUser9=Frakce 9
+tagFactionUser9Info=
+tagFactionUser9Rewards1=Tábořiště mstitele
+tagFactionUser9Rewards2=Přídavná tábořiště hrdinů
+tagFactionUser9Rewards3=Dodatečná tábořiště
+tagFactionUser9Rewards4=-
+tagFactionUser9Rewards5=odměny
+tagFactionUser9Rewards6=odměny
+tagFactionUser9Rewards7=odměny
+tagFactionUser9Rewards8=odměny
+tagFactionUser10=Frakce 10
+tagFactionUser10Info=
+tagFactionUser10Rewards1=Tábořiště mstitele
+tagFactionUser10Rewards2=Přídavná tábořiště hrdinů
+tagFactionUser10Rewards3=Dodatečná tábořiště
+tagFactionUser10Rewards4=nic
+tagFactionUser10Rewards5=odměny
+tagFactionUser10Rewards6=odměny
+tagFactionUser10Rewards7=odměny
+tagFactionUser10Rewards8=odměny
+tagFactionUser11=Frakce 11
+tagFactionUser11Info=
+tagFactionUser11Rewards1=Tábořiště mstitele
+tagFactionUser11Rewards2=Přídavná tábořiště hrdinů
+tagFactionUser11Rewards3=Dodatečná tábořiště
+tagFactionUser11Rewards4=nic
+tagFactionUser11Rewards5=odměny
+tagFactionUser11Rewards6=odměny
+tagFactionUser11Rewards7=odměny
+tagFactionUser11Rewards8=odměny
+tagFactionUser12=Frakce 12
+tagFactionUser12Info=
+tagFactionUser12Rewards1=Tábořiště mstitele
+tagFactionUser12Rewards2=Přídavná tábořiště hrdinů
+tagFactionUser12Rewards3=Dodatečná tábořiště
+tagFactionUser12Rewards4=nic
+tagFactionUser12Rewards5=odměny
+tagFactionUser12Rewards6=odměny
+tagFactionUser12Rewards7=odměny
+tagFactionUser12Rewards8=odměny
+tagFactionUser13=Frakce 13
+tagFactionUser13Info=
+tagFactionUser13Rewards1=Tábořiště mstitele
+tagFactionUser13Rewards2=Přídavná tábořiště hrdinů
+tagFactionUser13Rewards3=Dodatečná tábořiště
+tagFactionUser13Rewards4=nic
+tagFactionUser13Rewards5=odměny
+tagFactionUser13Rewards6=odměny
+tagFactionUser13Rewards7=odměny
+tagFactionUser13Rewards8=odměny
+tagFactionUser14=Frakce 14
+tagFactionUser14Info=
+tagFactionUser14Rewards1=Tábořiště mstitele
+tagFactionUser14Rewards2=Přídavná tábořiště hrdinů
+tagFactionUser14Rewards3=Dodatečná tábořiště
+tagFactionUser14Rewards4=nic
+tagFactionUser14Rewards5=odměny
+tagFactionUser14Rewards6=odměny
+tagFactionUser14Rewards7=odměny
+tagFactionUser14Rewards8=odměny
+tagFactionUser15=Frakce 15
+tagFactionUser15Info=
+tagFactionUser15Rewards1=Tábořiště mstitele
+tagFactionUser15Rewards2=Přídavná tábořiště hrdinů
+tagFactionUser15Rewards3=Dodatečná tábořiště
+tagFactionUser15Rewards4=nic
+tagFactionUser15Rewards5=odměny
+tagFactionUser15Rewards6=odměny
+tagFactionUser15Rewards7=odměny
+tagFactionUser15Rewards8=odměny
+tagFactionUnknown=Neznámý
+tagFactionStateEnemy5=Touží se ti pomstít
+tagFactionStateEnemy4=Nenávidí tě
+tagFactionStateEnemy3=Jsou vůči tobě neochotní
+tagFactionStateEnemy2=Pohrdají tebou
+tagFactionStateEnemy1=Jste nepřátelé
+tagFactionStateNeutral=Tolerují tě
+tagFactionStateFriend1=Přátelí se s tebou
+tagFactionStateFriend2=Respektují tě
+tagFactionStateFriend3=Důvěřují ti
+tagFactionStateFriend4=Jsou tebou poctěni
+tagFactionStateFriend5=Uctívají tě
+tagFactionStateNemesis=Toužící po pomstě
+tagFactionStateHated=Nenáviděný
+tagFactionStateReviled=Nadávající
+tagFactionStateHostile=Nepřátelský
+tagFactionStateUnfriendly=Nepřívětivý
+tagFactionStateSuspicious=Podezřelý
+tagFactionStateFriendly=Přátelský
+tagFactionStateTrusted=Důvěryhodný
+tagFactionStateHonored=Poctěný
+tagFactionStateRevered=Uctívaný
+
+#Faction Window
+
+tagFactionUpdated=Změna stavu přízně
+tagFactionStatusChange={^w}Získáváš přízeň "{^b}{%s0} {^w}" vůči frakci {^b}{%s1} {^w}.
+tagFactionNegativeStatusChange={^w}Frakce {^b}{%s1} {^w} vůči tobě změnila svou přízeň. Nový stav přízně: "{%s0}" {^w}.
+tagFactionDoorLocked={^r}Tvá úroveň přízně vůči frakci {^b}{%s0} {^r}ti neumožňuje vstoupit na toto území.
+tagFactionWindowName=Frakce
+tagFactionWindowFactionTitle={%s0} - {%s1}
+tagFactionReputation=Přízeň získáš za: {^n}
+tagFactionReputationKilling=Zabíjení: {%s0}{^n}
+tagFactionReputationBounties=Odměny{^n}
+tagFactionReputationQuests=Úkoly{^n}
+tagFactionDiscountPositive=Sleva z ceny zboží frakčního obchodníka: {^r}{%.0f0}% {^g}
+tagFactionDiscountNegative=Sleva z ceny zboží frakčního obchodníka: {^g}{%.0f0}% {^g}
+tagFactionDiscountZero=Sleva z ceny zboží u frakčního obchodníka: {^s}{%.0f0}% {^w}
+tagFactionProgress=Potřebuješ ještě {^b}{%d1} {^w}bodů na úroveň přízně "{^b}{%s0}{^w}".
+tagFactionKillingGain=Přízeň získáš za vyvražďování frakce
+tagFactionKillingLoss=Nepřízeň si vysloužíš za vyvražďování frakce
+tagFactionRewardsTier=Odemkne se na úrovni přízně "{%s0}{^w}":
+tagFactionKillCommon=běžných příšer
+tagFactionKillChampion=šampionů
+tagFactionKillHero=hrdinů
+tagFactionKillBoss=padouchů
+tagFactionBonusRep=Bonusová přízeň: {%d0}%
+tagFactionBonusInfamy=Bonusová nepřízeň: {%d0}%
+
+#Achievements
+
+tagAchievements=Úspěchy
+tagAchievementUnlocked=Odemčen nový úspěch!
+tagAchievementsComplete={%d0} / {%d1}
+
+#HUD
+
+tagHUDMenu=Tlačítka menu
+tagHUDAttacks=Aktuální útok
+tagHUDSkills=Rychlé volby
+tagHUD_PotionHealth=Léčící tonikum
+tagHUD_PotionEnergy=Elixír ducha
+
+tagPortraitKick=Vykopnout ze serveru
+tagPortraitTrade=Obchodovat
+tagPortraitRemove=Vyhodit ze skupiny
+tagPortraitChat=Chat
+tagPortraitDisband=Propustit spojence
+
+tagHUDHealth_Head=({%t0}/{%t1})
+tagHUDPlayerHealth_Head={%t0}({%t1}/{%t2})
+tagHUDRoll_Health={%s0}  {%d1} / {%d2}
+tagHUDRoll_XP={%s0} {%d1}  ~  {%s2} {%d3}
+tagHUDXP_Current=Zkušenosti
+tagHUDXP_Next=Další úroveň
+tagMaxLevel=Byla dosažena maximální úroveň
+tagSkillRefreshTime=-{%.1f0} {%z1} ke snížení doby nabití všech aktivních dovedností
+tagSkillRefreshTimeInfinate=100% {^E}snížená doba nabíjení
+tagSkillRefreshBaseSkillTime=-{%.1f0} {%z1} snížená doba nabíjení základních dovedností
+
+tagSkillUnusableLowMana=Nedostatek magické energie
+tagSkillUnusableCooldown=Dovednost se dobíjí
+tagSkillUnusableConfiguration=Dovednost vyžaduje vybavení
+tagSkillUnusableNotLearned=Tuto dovednost neovládáš
+
+tagHUD_Riftgate=Rozerve Bránu na titěrné části a ty pak budeš moci vyjít ven skrze jinou známou bránu.
+tagHUD_EmptySlot_R=Prázdná lišta dovedností
+tagHUD_EmptySlot_R1=Pravým kliknutím přiřaď dovednost.
+tagHUD_LeftMouse_R=Akce na levém tlačítku myši
+tagHUD_LeftMouse_R1=Toto je tvůj primární útok. Pravým kliknutím myši přiřaď jinou dovednost.
+tagHUD_RightMouse_R=Akce na pravém tlačítku myši
+tagHUD_RightMouse_R1=Toto je tvůj sekundární útok. Pravým kliknutím myši přiřaď jinou dovednost.
+tagHUD_CompassToggleName=Přepínač kompasové mapy
+tagHUD_CompassToggleDescription=Kliknutím změníš velikost nebo pozici kompasové mapy.
+tagHUD_LootMode=Filtr kořisti
+tagHUD_LootHide=Zobrazit/skrýt předměty
+tagHUD_LootModeDescription=Přizpůsobí předměty na zemi dle parametrů. Přepínačem Zobrazit/skrýt předměty lze skrýt všechno například během boje a poté si je znovu zobrazit.
+tagHUD_LootModeToggleOff=Automatické zobrazování předmětů ^D(vypnuto)
+tagHUD_LootModeToggleCommon=Automatické zobrazování předmětů (běžné a lepší)
+tagHUD_LootModeToggleMagic=Automatické zobrazování předmětů ^Y(magické a lepší)
+tagHUD_LootModeToggleRare=Automatické zobrazování předmětů ^G(vzácné a lepší)
+tagHUD_LootModeToggleEpic=Automatické zobrazování předmětů ^B(epické a lepší)
+tagHUD_LootModeToggleLegendary=Automatické zobrazování předmětů ^P(legendární a lepší)
+
+tagHUD_LootModeToggleDescription=Kliknutím přepínáš, jaké předměty se ti budou automaticky zobrazovat.
+
+tagHUD_LeftMouse=L
+tagHUD_RightMouse=P
+
+tagHUDPortraitLevelUP=Nová úroveň
+tagHUDWeaponSwap=Přehození zbraní
+tagHUDWeaponSwapRoll=Přepíná mezi tvou výzbrojí. Musíš být vyzbrojen sadou zbraní na alternativní pozici.
+tagHUDWeaponSwapHelpRoll=Dříve než budeš moci použít přehození zbraní, musíš se vyzbrojit druhou sadou zbraní do alternativních pozic v přehledu postavy.
+
+tagHUDRiftgateButton=Cestování Branou
+tagHUDRiftgateButtonRoll=Rozerve vzduch a vytvoří malý vstup do Brány s východem v některém z dříve objevených Bran, nebo můžeš vyjít z Bran tvých spojenců.
+
+tagHUDQuickslot=Nepřiřazená rychlá volba
+tagHUDQuickslotRoll=Pravým tlačítkem přiřaď dovednost.
+tagHUDQuickslotLM=Akce na levém tlačítku myši
+tagHUDQuickslotLMRoll=Hlavní útok. Pravým tlačítkem myši přiřaď dovednost.
+tagHUDQuickslotRM=Akce na pravém tlačítku myši
+tagHUDQuickslotRMRoll=Vedlejší útok. Pravým tlačítkem myši přiřaď dovednost.
+tagHUDQuickslotBarSwap=Přepnout na druhou lištu dovedností.
+
+tagHUDButtonCharacter=Přehled postavy
+tagHUDButtonSkills=Přehled dovedností
+tagHUDButtonGroup=Přehled skupiny
+tagHUDButtonQuest=Přehled kodexů
+tagHUDButtonMap=Mapa
+tagHUDButtonChat=Chat
+tagHUDButtonFaction=Přehled frakcí
+tagHUDButtonAchievements=Přehled úspěchů
+tagHUDButtonOptions=Nabídka možností
+
+tagHUDButtonRollCharacter=Správa atributů postavy, inventáře a výbavy.
+tagHUDButtonRollSkills=Výběr povolání, dovedností a oddanosti.
+tagHUDButtonRollGroup=Pozvánky hráče a správa skupiny.
+tagHUDButtonRollQuest=Záznamy úkolů, zápisky, svatyně oddanosti a herní nápověda.
+tagHUDButtonRollMap=Detailní místní a světová mapa.
+tagHUDButtonRollChat=Odesílání zpráv hráčům ve tvé hře.
+tagHUDButtonRollFaction=Podrobnosti o různých frakcích obývajících Cairn.
+tagHUDButtonRollAchievements=Dokončené úspěchy ve hře.
+tagHUDButtonRollOptions=Uložení hry, ukončení hry a herní nastavení.
+
+#LootFilterUI
+tagLootFilterWindowTitle=Filtr kořisti
+tagLootFilterToggleOn=Předměty jsou zobrazeny
+tagLootFilterToggleOff=Předměty jsou skryty
+tagLootFilterTitle01=Kvalita
+tagLootFilterTitle02=Druh
+tagLootFilterTitle03=Zranění
+tagLootFilterTitle04=Postava
+
+tagLootFilterReset=Výchozí
+tagLootFilterResetInfo=Nastaví filtry do jejich výchozích hodnot.
+tagLootFilterResetConfirm=Opravdu chceš nastavit filtry na jejich výchozí hodnoty?
+
+tagLootFilter01=Běžná
+tagLootFilter01Info=Zobrazí/skryje předměty běžné kvality (bílé).
+tagLootFilter02=Magická
+tagLootFilter02Info=Zobrazí/skryje předměty magické kvality (žluté).
+tagLootFilter03=Vzácná
+tagLootFilter03Info=Zobrazí/skryje předměty vzácné kvality (zelené). Platí i pro předměty, které vypadnou ze specifických nepřátel (osobní předměty nepřátel).
+tagLootFilter04=Osobní předměty
+tagLootFilter04Info=Zobrazí/skryje předměty, které vypadávají ze specifických nepřátel (osobní předměty nepřátel).{^N}{^N}Tento filtr použij pokud chceš vidět pouze vzácné předměty, které jsou zároveň označeny jako osobní předměty, a odškrtni vzácné předměty.
+tagLootFilter05=Epická
+tagLootFilter05Info=Zobrazí/skryje předměty epické kvality (modré). Možnost zahrnuje i předměty, které jsou součástí setů.
+tagLootFilter06=Legendární
+tagLootFilter06Info=Zobrazí/skryje předměty běžné kvality (fialové). Možnost zahrnuje i předměty, které jsou součástí setů.
+tagLootFilter07=Sety
+tagLootFilter07Info=Zobrazí/skryje předměty, které jsou součástí setů. Tento filtr použij, pokud chceš vidět pouze epické a legendární předměty a zároveň jsou součástí setu. Zároveň odškrtni filtry epické a legendární kvality.
+tagLootFilter08=Jedinečné předměty
+tagLootFilter08Info=Zaškrtnutím se ti budou zobrazovat všechny jedinečné předměty (epické a legendární kvality) bez ohledu na zvolených filtrech.{^N}{^N}Použij tento filtr, pokud chceš hledat pouze magické, vzácné nebo osobní předměty, ale vždy chceš vidět každý vypadlý jedinečný předmět.
+
+tagLootFilter09=Jednoruční chladné/tupé
+tagLootFilter09Info=Zobrazí/skryje jednoruční sekyry, palcáty a meče.
+tagLootFilter10=Obouručné chladné/tupé
+tagLootFilter10Info=Zobrazí/skryje obouruční sekyry, palcáty a meče.
+tagLootFilter11=Jednoručné střelné
+tagLootFilter11Info=Zobrazí/skryje jednoruční pušky.
+tagLootFilter12=Obouruční střelné
+tagLootFilter12Info=Zobrazí/skryje oboouruční pušky a kuše.
+tagLootFilter13=Dýky/žezla
+tagLootFilter13Info=Zobrazí/skryje dýky a žezla.
+tagLootFilter14=Kouzelnické příruční
+tagLootFilter14Info=Zobrazí/skryje kouzelnické příruční předměty.
+tagLootFilter15=Štíty
+tagLootFilter15Info=Zobrazí/skryje štíty.
+tagLootFilter16=Zbroje
+tagLootFilter16Info=Zobrazí/skryje helmy, nárameníky, hrudní zbroje, chrániče nohou, obuv a rukavice.
+tagLootFilter17=Příslušenství
+tagLootFilter17Info=Zobrazí/skryje amulety, prsteny, medaile a opasky.
+
+tagLootFilter18=Fyzické
+tagLootFilter18Info=Zobrazí předměty, které zvyšují fyzické zranění a zranění vnitřním krvácením.
+tagLootFilter19=Probodnutí
+tagLootFilter19Info=Zobrazí předměty, které zvyšují zranění probodnutím.
+tagLootFilter20=Oheň
+tagLootFilter20Info=Zobrazí předměty, které zvyšují zranění ohněm a popáleninami.
+tagLootFilter21=Chlad
+tagLootFilter21Info=Zobrazí předměty, které zvyšují zranění chladem a omrzlinami.
+tagLootFilter22=Elektrický proud
+tagLootFilter22Info=Zobrazí předměty, které zvyšují zranění elektrickým výbojem a elektrickým šokem.
+tagLootFilter23=Jed
+tagLootFilter23Info=Zobrazí předměty, které zvyšují zranění jedem a kyselinami.
+tagLootFilter24=Životní energie
+tagLootFilter24Info=Zobrazí předměty, které zvyšují zranění sáním životní energie a chřadnutím.
+tagLootFilter25=Aether
+tagLootFilter25Info=Zobrazí předměty, které zvyšují zranění Aetherem.
+tagLootFilter26=Chaos
+tagLootFilter26Info=Zobrazí předměty, které zvyšují Chaosem.
+tagLootFilter27=Krvácení
+tagLootFilter27Info=Zobrazí předměty, které zvyšují zranění krvácením.
+tagLootFilter28=Bonusy spojencům
+tagLootFilter28Info=Zobrazí předměty, které přidávají bonusy spojencům.
+
+tagLootFilter29=Moje povolání
+tagLootFilter29Info=Zobrazí předměty, které zvyšují hodnoty dovedností ve tvých povoláních.
+tagLootFilter30=Cizí povolání
+tagLootFilter30Info=Zobrazí předměty, které zvyšují hodnoty dovedností v povoláních, kterými tvá postava neoplývá.
+tagLootFilter31=Rychlost
+tagLootFilter31Info=Zobrazí předměty, které zvyšují útočnou rychlost, rychlost kouzlení a rychlost pohybu.
+tagLootFilter32=Snížení doby prodlevy
+tagLootFilter32Info=Zobrazí předměty, které snižují prodlevu dovedností.
+tagLootFilter33=Kritické zranění
+tagLootFilter33Info=Zobrazí předměty, které zvyšují kritické zranění.
+tagLootFilter34=Útočná schopnost
+tagLootFilter34Info=Zobrazí předměty, které zvyšují útočnou schopnost.
+tagLootFilter35=Obranná schopnost
+tagLootFilter35Info=Zobrazí předměty, které zvyšují obrannou schopnost.
+tagLootFilter36=Odolnosti
+tagLootFilter36Info=Zobrazí předměty, které zvyšují odolnosti vůči zranění, omezení útoku nebo speciálním efektům jako je odražené zranění nebo snížené zranění v průběhu času.
+tagLootFilter37=Odplácení
+tagLootFilter37Info=Zobrazí předměty, které zvyšují zranění odplatou.
+
+tagLootFilter38=Komponenty
+tagLootFilter38Info=Zobrazí/skryje komponenty.
+tagLootFilter39=Vždy zobrazit dvojitou vzácnost
+tagLootFilter39Info=Zaškrtnutím se zobrazí pouze předměty, které mají dvojitou vzácnost (vzácná kvalita a osobní předmět) bez ohledu na nastavení filtrů.{^N}{^N}Tento filtr použij, pokud chceš najít ty nejkvalitnější předměty těchto typů.
+
+
+
+#SkillUI
+
+tagSkillUndoClass=Změnit povolání
+tagSkillUndoPoints=Vrátit body
+tagSkillUndoGeneric=Vrátit
+tagSkillClassSelect=Vybrat povolání
+tagCurrentLevel=Současná úroveň: {%d0}
+tagNextLevel=Další úroveň: {%d0}
+tagSkillClassSelectInfo=Vyber si povolání své postavy{^n}{^n} Jakmile si některé vybereš a zavřeš přehled dovedností, bude tvůj výběr trvalý.
+tagSkillReq01=Vyžaduje dalších {%d0} bodů v povolání {%t1}.
+tagSkillReq01Singular=Vyžaduje ještě {%d0} bod v povolání {%t1}.
+tagSkillReq02=Vyžaduje dalších {%d0} bodů v povolání {%t1} a dovednost {%s2}.
+tagSkillReq02Singular=Vyžaduje ještě {%d0} bod v povolání {%t1} a dovednost {%s2}.
+tagSkillReq03=Vyžaduje dovednost {%s1}.
+tagSkillPointsRemain={%d0} zbývajících bodů
+tagSkillPointsRemainSingular={%d0} zbývající bod
+
+#Character
+
+GenderFormat={%t0}{%0a1}
+
+tagInventoryBag=Pytel na věci
+tagInventoryBagDescription=Rozšiřuje velikost tvého inventáře
+
+tagStatsResistanceTitle=Odolnosti
+tagStatsResistance01=Oheň
+tagStatsResistance01Desc=Odolnost vůči útokům a kouzlům způsobujícím popáleniny, což je zranění ohněm.
+tagStatsResistance02=Elektrický výboj
+tagStatsResistance02Desc=Odolnost vůči útokům a kouzlům způsobujícím elektrický šok, což jsou zranění elektrickým výbojem a proudem.
+tagStatsResistance03=Chlad
+tagStatsResistance03Desc=Odolnost vůči útokům a kouzlům způsobujícím omrzliny, což jsou zranění chladem a mrazem.
+tagStatsResistance04=Jedy a kyseliny
+tagStatsResistance04Desc=Odolnost vůči otravě zrádnými jedy a silnému poleptání, které lze utrpět při útocích jedem nebo kyselinou.
+tagStatsResistance05=Bodná zranění
+tagStatsResistance05Desc=Odolnost proti proražení zbroje a probodnutí, která způsobují různé projektily a ostří chladných zbraní.
+tagStatsResistance06=Krvácení
+tagStatsResistance06Desc=Odolnost vůči krvácení z tržných ran a vůči kouzlům, která způsobují krvácení.
+tagStatsResistance07=Životní energie
+tagStatsResistance07Desc=Odolnost vůči zaklínadlům způsobující ztrátu životní energie, tedy chřadnutí a sání životní energie.
+tagStatsResistance08=Aether
+tagStatsResistance08Desc=Odolnost vůči ovládnutí mysli Aetherem a vůči čarodějnictví spojené s Aetherem.
+tagStatsResistance09=Omráčení
+tagStatsResistance09Desc=Snižuje dobu trvání omračujících útoků a kouzel, po kterou nemůžeš reagovat na ostatní podněty.
+tagStatsResistance10=Chaos
+tagStatsResistance10Desc=Odolnost vůči zranění Chaosem, způsobeným nestabilními energiemi samotného Vesmíru, které obvykle používají chthonské bytosti.
+tagStatsResistance11=Sražení
+tagStatsResistance11Desc=Odolnost vůči sražení.
+tagStatsResistance12=Ochromení
+tagStatsResistance12Desc=Odolnost vůči vlivům, která přerušují působení tvých kouzel a schopností.
+
+tagCharStatsTab1Name=Primární
+tagCharStatsTab2Name=Sekundární
+tagCharAttributeTitle=Atributy
+tagCharAttributeName01=Rafinovanost
+tagCharAttributeName02=Fyzická kondice
+tagCharAttributeName03=Duchovno
+tagCharAttributeName04=Zdraví
+tagCharAttributeName05=Magická energie
+
+tagCharAttributeDescription01=Rafinovanost zlepšuje tvůj způsob boje, zvyšuje fyzické a bodné zranění, krvácení a vnitřní poranění. Rafinovanost také zvyšuje práh bolesti, a šanci uštědřit ránu, ať již v souboji zblízka nebo na dálku. Dále zvyšuje šanci na kritický zásah nepřítele.
+
+tagCharAttributeDescription02=Fyzická kondice ti dodává sílu bojovat s těžším vybavením a hbitost ve vyhnutí se nepřátelskému útoku. Fyzická kondice ti také výrazně zvyšuje práh bolesti, schopnost léčit tvá zranění a dodává schopnost vyhnout se kritickému útoku.
+
+tagCharAttributeDescription03=Silný duch zvyšuje tok energie tvého bytí a umožňuje ti odolávat duševnímu břemenu při používání silnějších očarovaných předmětů. Duchovno také zvyšuje práh bolesti a zvětšuje zranění magickými útoky.
+
+tagCharAttributeDescription04=Zdraví je měřítkem tvého prahu bolesti a zranění, která ustojíš dříve než zkolabuješ nebo zemřeš.
+
+tagCharAttributeDescription05=Magická energie je měřítkem tvé duševní síly a schopnosti kouzlit. Čím větší je zásoba magické energie, tím větší máš možnost ji čerpat, než budeš muset čekat na její obnovení.
+
+tagCharBonusHealth=Bonus ke zdraví:
+tagCharBonusHealthRegen=Bonus k obnově zdraví:
+tagCharBonusEnergy=Bonus k magické energii:
+tagCharBonusEnergyRegen=Bonus k obnově magické energie:
+
+tagCharBonusPhysicalDmg=Bonus k fyzickému zranění:
+tagCharBonusPierceDmg=Bonus ke zranění probodnutím:
+tagCharBonusMagicalDmg=Bonus k magickému zranění:
+tagCharBonusDurDmg=Bonus k trvání zranění:
+
+tagCharAttributeIncrement01=Každý bod zvyšuje rafinovanost o 10.
+tagCharAttributeIncrement02=Každý bod zvyšuje fyzickou kondici o 10.
+tagCharAttributeIncrement03=Každý bod zvyšuje duchovno o 10.
+tagCharAttributeIncrement04=Každý bod zvyšuje tvé zdraví o 50.
+tagCharAttributeIncrement05=Každý bod zvyšuje tvou magickou energii o 50.
+
+tagCharStatsOAAlert=Útočná schopnost {^b}(?)
+tagCharStatsOA=Útočná schopnost
+tagCharStatsOALast=Poslední zásah:
+tagCharStatsOAHit=Šance na zásah:
+tagCharStatsOACrit=Šance na kritický zásah:
+tagCharStatsOADescription=Vyšší útočná schopnost zvyšuje tvou šanci úspěšně zasáhnout nepřítele útokem nebo kouzlem, uštědřit mu kritický zásah, a také zvyšuje zranění uštědřené kritickým zásahem. Tvá útočná schopnost, pokud je nižší než obranná schopnost nepřítele, razantně zvyšuje šanci na to, že se netrefíš (tvá šance na zásah nemůže klesnout pod 55 %). Útočná schopnost je ovlivněna dovednostmi, předměty a rafinovaností.
+
+tagCharStatsDAAlert=Obranná schopnost {^b}(?)
+tagCharStatsDA=Obranná schopnost
+tagCharStatsDALast=Naposledy zasažen:
+tagCharStatsDAHit=Šance být zasažen:
+tagCharStatsDACrit=Šance obdržet kritický zásah:
+tagCharStatsDADescription=Vyšší obranyschopnost ti umožňuje častěji se vyhnout nepřátelským zásahům (minimální šance zásahu je 55 %), snižuje šanci na obdržení kritického zásahu a snižuje zranění udělené kritickým zásahem. Obranná schopnost je ovlivněna dovednostmi, předměty a fyzickou kondicí.
+
+tagOverCapResist={%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% přes maximum)
+tagOverCapResistInt={%s0} {^b}{%d1}% {^s}(+{%d2}% přes maximum)
+
+tagRollFormat01={%s0} {^b}{%d1}
+tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
+tagRollFormat03={%s0}     {%+.0f1}%
+tagRollFormat04={%s0}  ({^y}{%t1}{^w})
+tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
+tagRollFormat06={%s0} {^b}{%.0f1}%
+tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
+tagRollFormat08={%s0} {^b}{%.2f1}
+tagRollFormat09={%s0} {^b}+ {%.1f1}%
+tagRollFormat10={%s0} {^b}{%.0f1} - {%.0f2}
+tagRollFormat11={%s0} {^b}{%d1} - {%d2}
+tagRollFormat12={%s0} {^b}{%.0f1}% - {%.0f2}%
+tagRollFormat13={%s0} {^b}{%.1f1}%
+tagRollFormat14={%s0} {^b}{%.0f1}
+tagRollFormat15={%s0} {^b}+ {%.1f1}% + {%.0f2}
+tagRollFormat16={%s0} {^s}{%.2f1} {^b}- {%.2f2}
+tagRollFormat17={%s0} {^b}{%.1f1}% + {%.2f2}
+tagRollFormat18={^b}{%.0f0} - {%.0f1}
+tagRollFormat19={^b}{%.0f0}
+tagRollFormat20={%s0} {^b}{%d1}%
+tagFormatPercent={%.0f}%
+tagFormatPlusPercent=+ {%.0f}%
+tagFormatMinusPercent=- {%.0f}%
+tagFormatPlus=+ {%d0}
+tagFormatDash={%d0} - {%d1}
+tagFormatDashPercent={%d0}% - {%d1}%
+tagCharPointAvailable={^y}{%d0}{^w} dostupný bod
+tagCharPointsAvailable={^y}{%d0}{^w} dostupných bodů
+tagCharLevel=Úroveň {%d0}
+tagCharXP=Zkušenosti: {%t0}
+tagCharLevelAndClass={%t1} ~ úroveň {%d0}
+
+tagCharRollLeftHand=Levá ruka
+tagCharRollRightHand=Pravá ruka
+
+tagInfoPage=Informace:
+
+tagTimePlayedName=Odehraný čas
+tagTimePlayedNumber={%d0}:{%d1}:{%d2}
+
+tagCharHeaderResistance=Odolnosti
+tagCharHeaderDefense=Obranná statistika
+tagCharHeaderOffense=Útočná statistika
+tagCharHeaderCombat=Bojová statistika
+tagCharHeaderDPS=Zranění za zásah
+tagCharHeaderCharacter=Postava
+tagCharHeaderPhysical=Fyzické vlastnosti
+tagCharHeaderMagical=Magické vlastnosti
+tagCharHeaderPets=Bonusy spojenců
+tagCharHeaderDefenseSection=Obrana
+tagCharHeaderRetaliation=Oplácení
+tagCharHeaderStats=Statistiky
+tagCharHeaderMisc=Různé
+
+tagCharStatsDPSTitle=Zranění za sekundu
+tagCharStatsDPS=Zranění za sekundu {^b}(?)
+tagCharStatsDPSWeapon=Útok zbraní
+tagCharStatsDPSDescription=Průměrné zranění nepřítele za sekundu pro schopnosti na levém a pravém tlačítku myši proti jednomu cíli, ovlivněné dobou obnovy schopnosti, všemi bonusy z tvé výstroje a dovedností. Nezahrnuje obrannou schopnost nepřítele.
+tagCharStatsDPSRightDescription=Zranění za schopnosti na pravém tlačítku myši proti jedinému cíli, ovlivněné všemi bonusy z výstroje a dovedností. Nemá vliv na nepřátelskou obranu.
+tagCharStatsDPSLeftDescription=Zranění za schopnosti na levém tlačítku myši proti jedinému cíli, ovlivněné všemi bonusy z výstroje a dovedností. Nemá vliv na nepřátelskou obranu.
+
+tagCharStatsArmorTotalAlert=Hodnocení zbroje {^b}(?)
+tagCharStatsArmorTotal=Hodnocení zbroje
+tagCharStatsAbsorption=Pohlcení zranění
+tagCharStatsArmorTotalDescription=Čím vyšší je tvá celková zbroj, tím méně zranění obdržíš fyzickými zásahy. Bonusy na dovednosti a na předměty, které nejsou součástí zbroje jsou přidány ke všem slotům zbroje.
+tagCharStatsHitArmor=Šance na zásah oblasti
+tagCharStatsArmorUnprotected=Bez ochrany
+tagCharStatsArmorNA= -
+tagCharStatsArmorBonus=Bonus:
+tagCharStatsArmorHead=Hlava:
+tagCharStatsArmorChest=Hruď:
+tagCharStatsArmorArms=Ruce:
+tagCharStatsArmorLegs=Nohy:
+tagCharStatsArmorJewelry=Šperky:
+tagCharStatsArmorFeet=Chodidla:
+tagCharStatsArmorWaist=Pas:
+tagCharStatsArmorShoulders=Ramena:
+
+tagFormulaLearned=Naučený plánek
+tagFormulaLearn01=Nyní umíš vyrobit {%t0}
+tagFormulaLearn02={^r}Tento plánek už znáš
+tagFormulaLearn03={^r}[už znáš]
+
+tagItemCompareEquipped=Momentálně máš na sobě
+tagItemCompareVendor=Předmět na prodej
+tagItemCompareInventory=Předmět v inventáři
+tagItemCompareGround=Předmět na zemi
+tagItemInsufficientStatus={^r}Nedostatečná přízeň frakce
+
+
+#Char Stats Tab 2
+
+tagCharStatsMaximumSpeed=Maximální rychlost
+
+#Character
+tagCharStatsAttacksPerSecond=Výpady za vteřinu
+tagCharStatsAttacksPerSecondInfoo=Počet výpadů pomocí zbraně za vteřinu, včetně bonusů.
+tagCharStatsRunSpeed=Rychlost běhu
+tagCharStatsRunSpeedInfo=Rychlost, jakou může tvá postava běhat vzhledem k výchozímu stavu (včetně celkové rychlosti).
+tagCharStatsCritDmg=Kritický zásah
+tagCharStatsCritDmgInfo=Procentuální bonus ke kritickému zásahu. Šance způsobit kritický zásah je ovlivněna tvou Útočnou schopností v porovnání s Obrannou schopností nepřítele.
+tagCharStatsLifeRegen=Obnova zdraví
+tagCharStatsLifeRegenInfo=Hodnota udávající rychlost obnovení tvého zdraví, zatímco jsi v boji. Procentuální bonusy mají vliv pouze na regeneraci z výstroje a dovedností, nikoliv na základní regeneraci, která je založena na fyzické kondici.
+tagCharStatsEnergyRegen=Obnova magické energie
+tagCharStatsEnergyRegenInfo=Hodnota udávající rychlost obnovení tvé magické energie. Procentuální bonusy mají vliv pouze na regeneraci z výstroje a dovedností, nikoliv na základní regeneraci, která je založena na duchovnu.
+tagCharStatsEnergyAbsorption=Absorpce mag. energie
+tagCharStatsEnergyAbsorptionInfo=Udává, kolik procent magické energie ti bude navráceno zpět do tvé zásoby magické energie za tobě způsobebé zranění výpady a kouzly.
+tagCharStatsConstitution=Bonus ke konstituci
+tagCharStatsConstitutionInfo=Procentuální bonus ke tvé maximální konstituci.
+tagCharStatsExpGainedBonus=Získané zkušenosti
+tagCharStatsExpGainedBonusInfo=Procentuální bonus ke všem zkušenostem získaných za zabití nepřátel.
+tagCharStatsLightRadiusBonus=Dosah světla
+tagCharStatsLightRadiusBonusInfo=Procentuální bonus k dosahu světla, které vydává tvá postava.
+tagCharStatsAllSkillsBonus=Všechny dovednosti
+tagCharStatsAllSkillsBonusInfo=Bonus ke všem naučeným povoláním.
+tagCharStatsSoldierSkillsBonus=Dovednosti Vojáka
+tagCharStatsSoldierSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Vojáka,
+tagCharStatsDemoSkillsBonus=Dovednosti Ničitele
+tagCharStatsDemoSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Ničitele.
+tagCharStatsOccuSkillsBonus=Dovednosti Okultisty
+tagCharStatsOccuSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Okultisty.
+tagCharStatsNightbladeSkillsBonus=Dovednosti Nočního lovce
+tagCharStatsNightbladeSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Nočního lovce.
+tagCharStatsArcanistSkillsBonus=Dovednosti Vládce temnot
+tagCharStatsArcanistSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Vládce temnot.
+tagCharStatsShamanSkillsBonus=Dovednosti Šamana
+tagCharStatsShamanSkillsBonusInfo=Bonus ke všem naučeným dovednostem v povolání Šamana.
+
+#Physical
+tagCharStatsAttackSpeed=Útočná rychlost
+tagCharStatsAttackSpeedDescription=Rychlost útoku tvé zbraně vzhledem k výchozímu stavu (včetně celkové rychlosti). Pomalejší zbraně získávají méně % z bonusu k rychlosti útoku.
+tagCharStatsAvgDmg=Zranění zbraní
+tagCharStatsAvgDmgDescription=Zranění způsobené zásahem dle síly zbraně, včetně bonusů.
+
+tagCharStatsPhysicalAbsDmg=Fyzické zranění
+tagCharStatsPhysicalAbsDmgInfo=Fyzické zranění způsobené jedním zásahem pomocí síly zbraně včetně bonusů.
+tagCharStatsPhysicalPercentDmg=Bonus k fyz. zranění
+tagCharStatsPhysicalPercentDmgInfo=Procentuální bonus ke všem fyzickým zraněním způsobených útokem a kouzly, bez bonusů za rafinovanost. Včetně % ke všem zraněním.
+
+tagCharStatsPierceAbsDmg=Zranění probodnutím
+tagCharStatsPierceAbsDmgInfo=Zranění probodnutím způsobené jedním zásahem pomocí síly zbraně včetně bonusů.
+tagCharStatsPiercePercentDmg=Bonus k probodnutí
+tagCharStatsPiercePercentDmgInfo=Procentuální bonus ke každému zranění probodnutím způsobeným útokem a kouzly, bez bonusů za rafinovanost. Včetně % ke všem zraněním.
+
+tagCharStatsBleedAbsDmg=Zranění krvácením
+tagCharStatsBleedAbsDmgInfo=Zranění krvácením za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem a odvozeným od síly zbraně včetně bonusů.
+tagCharStatsBleedPercentDmg=Bonus ke krvácení
+tagCharStatsBleedPercentDmgInfo=Procentuální bonus ke každému zranění krvácením způsobeným útokem a kouzly, bez bonusů za rafinovanost. Včetně % ke všem zraněním.
+tagCharStatsBleedDuration=Trvání krvácení
+tagCharStatsInternalTraumaDurationInfo=Procentuální bonus k době trvání vnitřního krvácení. Zranění za sekundu není ovlivněno.
+
+tagCharStatsInternalTraumaAbsDmg=Zranění vnitř. krvácením
+tagCharStatsInternalTraumaAbsDmgInfo=Zranění způsobující vnitřní krvácení za jednu sekundu, trvající po dobu 5 sekund, způsobené jedním zásahem a odvozeným od síly zbraně včetně bonusů.
+tagCharStatsInternalTraumaPercentDmg=Bonus k vnitř. krvácení
+tagCharStatsInternalTraumaPercentDmgInfo=Procentuální bonus ke každému zranění vnitřním krvácením způsobeným útokem a kouzly, bez bonusů za rafinovanost. Včetně % ke všem zraněním.
+tagCharStatsInternalTraumaDuration=Trvání vnitř. krvácení
+tagCharStatsInternalTraumaDurationInfo=Procentuální bonus k době trvání vnitřního krvácení. Zranění za sekundu není ovlivněno.
+
+tagCharStatsDamageToHealth=Sání života
+tagCharStatsDamageToHealthInfo=Určité procento zranění způsobené tvou zbraní obnoví část tvého života.
+
+#Magical
+tagCharStatsCastSpeed=Rychlost kouzlení
+tagCharStatsCastSpeedInfo=Rychlost, s jakou tvá postava sesílá kouzla vzhledem k výchozí hodnotě (včetně celkové rychlosti).
+
+tagCharStatsCooldownReduction=Snížení doby obnovení
+tagCharStatsCooldownReductionInfo=Počet procent, o kolik je snížena doba obnovení k znovupoužití schopností. Dovednosti získané z předmětů nezískávají výhody ani je neovlivňují efekty na snížení doby obnovení.
+
+tagCharStatsManaCostReduction=Snížení bodů mag. energie
+tagCharStatsManaCostReductionInfo=Počet procent, o kolik se sníží počet bodů magické energie nutné k použití dovednosti.
+
+tagCharStatsPercentHealthDamage=Způsobené zranění
+tagCharStatsPercentHealthDamageInfo=Udává počet procent, o kolik života přijde tvůj nepřítel při zranění zásahem zbraní, odvozeného od síly zbraně.
+
+tagCharStatsFireAbsDmg=Oheň
+tagCharStatsFireAbsDmgInfo=Zranění ohněm způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
+tagCharStatsFirePercentDmg=Bonus k ohni
+tagCharStatsFirePercentDmgInfo=Procentuální bonus ke všem ohnivým zraněním způsobeným útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
+
+tagCharStatsColdAbsDmg=Chlad
+tagCharStatsColdAbsDmgInfo=Zranění chladem způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
+tagCharStatsColdPercentDmg=Bonus k chladu
+tagCharStatsColdPercentDmgInfo=Procentuální bonus ke všem mrazivým zraněním způsobeným útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
+
+tagCharStatsLightningAbsDmg=Elektrický výboj
+tagCharStatsLightningAbsDmgInfo=Zranění elektrickými výboji způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
+tagCharStatsLightningPercentDmg=Bonus k el. výboji
+tagCharStatsLightningPercentDmgInfo=Procentuální bonus ke všem zraněním elektrickými výboji způsobeným útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
+
+tagCharStatsAcidAbsDmg=Jed
+tagCharStatsAcidAbsDmgInfo=Zranění jedem nebo kyselinou způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
+tagCharStatsAcidPercentDmg=Bonus k jedům
+tagCharStatsAcidPercentDmgInfo=Procentuální bonus ke všem zraněním jedem nebo kyselinou způsobeným útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
+
+tagCharStatsVitalityAbsDmg=Sání životní energie
+tagCharStatsVitalityAbsDmgInfo=Zranění sáním životní energie způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
+tagCharStatsVitalityPercentDmg=Bonus k životní energii
+tagCharStatsVitalityPercentDmgInfo=Procentuální bonus ke všem zraněním sáním životní energie způsobeným útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
+
+tagCharStatsAetherAbsDmg=Aether
+tagCharStatsAetherAbsDmgInfo=Zranění Aetherem způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
+tagCharStatsAetherPercentDmg=Bonus k Aetheru
+tagCharStatsAetherPercentDmgInfo=Procentuální bonus ke všem Aetherickým zraněním způsobeným útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
+
+tagCharStatsChaosAbsDmg=Chaos
+tagCharStatsChaosAbsDmgInfo=Zranění Chaosem způsobené zásahem a odvozeného od síly zbraně včetně bonusů.
+tagCharStatsChaosPercentDmg=Bonus k Chaosu
+tagCharStatsChaosPercentDmgInfo=Procentuální bonus ke všem chaotickým zraněním způsobenými útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
+
+tagCharStatsBurnAbsDmg=Popáleniny
+tagCharStatsBurnAbsDmgInfo=Zranění popálením za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem a odvozeného od síly zbraně včetně bonusů.
+tagCharStatsBurnPercentDmg=Bonus k popáleninám
+tagCharStatsBurnPercentDmgInfo=Procentuální bonus ke všem zraněním popálením způsobenými útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
+tagCharStatsBurnDuration=Působení popálenin
+tagCharStatsBurnDurationInfo=Procentuální bonus k době trvání popálení. Zranění za sekundu není ovlivněno.
+
+tagCharStatsColdburnAbsDmg=Omrzliny
+tagCharStatsColdburnAbsDmgInfo=Zranění omrzlinami za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem a odvozeného od síly zbraně včetně bonusů.
+tagCharStatsColdburnPercentDmg=Bonus k omrzlinám
+tagCharStatsColdburnPercentDmgInfo=Procentuální bonus ke všem zraněním omrzlinami způsobenými útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
+tagCharStatsColdburnDuration=Působení omrzlin
+tagCharStatsColdburnDurationInfo=Procentuální bonus k době trvání omrzlin. Zranění za sekundu není ovlivněno.
+
+tagCharStatsElectrocuteAbsDmg=Elektrický šok
+tagCharStatsElectrocuteAbsDmgInfo=Zranění elektrickým šokem za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem a odvozeného od síly zbraně včetně bonusů.
+tagCharStatsElectrocutePercentDmg=Bonus k el. šoku
+tagCharStatsElectrocutePercentDmgInfo=Procentuální bonus ke všem zraněním elektrickým šokem způsobenými útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
+tagCharStatsElectrocuteDuration=Působení el. šoku
+tagCharStatsElectrocuteDurationInfo=Procentuální bonus k době trvání zásahu elektrickým šokem. Zranění za sekundu není ovlivněno.
+
+tagCharStatsPoisonAbsDmg=Otrava
+tagCharStatsPoisonAbsDmgInfo=Zranění otravou za jednu sekundu, trvající po dobu 5 sekund, způsobené jedním zásahem a odvozeného od síly zbraně včetně bonusů.
+tagCharStatsPoisonPercentDmg=Bonus k otravě
+tagCharStatsPoisonPercentDmgInfo=Procentuální bonus ke všem zraněním otravou způsobenými útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
+tagCharStatsPoisonDuration=Působení otravy
+tagCharStatsPoisonDurationInfo=Procentuální bonus k době trvání otravy. Zranění za sekundu není ovlivněno.
+
+tagCharStatsVitalityDecayAbsDmg=Chřadnutí
+tagCharStatsVitalityDecayAbsDmgInfo=Zranění chřadnutím za jednu sekundu, trvající po dobu 3 sekund, způsobené jedním zásahem a odvozeného od síly zbraně včetně bonusů.
+tagCharStatsVitalityDecayPercentDmg=Bonus k chřadnutí
+tagCharStatsVitalityDecayPercentDmgInfo=Procentuální bonus ke všem zraněním chřadnutím způsobenými útokem a kouzly, bez bonusů za duchovno. Včetně % ke všem zraněním.
+tagCharStatsVitalityDecayDuration=Působení chřadnutí
+tagCharStatsVitalityDecayDurationInfo=Procentuální bonus k době trvání chřadnutí. Zranění za sekundu není ovlivněno.
+
+tagCharStatsPhysical=Fyzické zranění
+tagCharStatsPierce=Probodnutí
+tagCharStatsCold=Chlad
+tagCharStatsFire=Oheň
+tagCharStatsAcid=Jed
+tagCharStatsLightning=Elektrický výboj
+tagCharStatsVitality=Životní energie
+tagCharStatsChaos=Chaos
+tagCharStatsAether=Aether
+tagCharStatsLifeLeech=Sání života
+tagCharStatsManaLeech=Sání energie
+tagCharStatsDurInternalTrauma=Vnitřní krvácení
+tagCharStatsDurFrostburn=Omrzliny
+tagCharStatsDurBurn=Popáleniny
+tagCharStatsDurPoison=Otrava
+tagCharStatsDurElectrocute=Elektrický šok
+tagCharStatsDurVitalityDecay=Chřadnutí
+tagCharStatsDurBleeding=Krvácení
+tagCharStatsDurLifeLeech=Sání života
+tagCharStatsDurManaLeech=Sání energie
+
+#Pets
+tagCharStatsPetHealth=Život
+tagCharStatsPetHealthInfo=Procentuální bonus ke zdraví tvých spojenců a vyvolaných příšer.
+
+tagCharStatsPetDamage=Zranění
+tagCharStatsPetDamageInfo=Procentuální bonus ke zranění způsobeného tvými spojenci a vyvolanými příšerami. Neovlivňuje zranění odplatou spojenců.
+
+tagCharStatsPetAttackSpeed=Útočná rychlost
+tagCharStatsPetAttackSpeedInfo=Procentuální bonus k útočné rychlosti tvých spojenců a vyvolaných příšer.
+
+tagCharStatsPetCastSpeed=Rychlost kouzlení
+tagCharStatsPetCastSpeednfo=Procentuální bonus k rychlosti kouzlení tvých spojenců a vyvolaných příšer.
+
+tagCharStatsPetRunSpeed=Rychlost běhu
+tagCharStatsPetRunSpeednfo=Procentuální bonus k rychlosti běhu tvých spojenců a vyvolaných příšer.
+
+tagCharStatsPetOA=Útočná schopnost
+tagCharStatsPetOAInfo=Procentuální bonus k útočné schopnosti tvých spojenců a vyvolaných příšer.
+
+tagCharStatsPetDA=Obranná schopnost
+tagCharStatsPetDAInfo=Procentuální bonus k obranné schopnosti tvých spojenců a vyvolaných příšer.
+
+tagCharStatsPetPhysicalResist=Fyzická odolnost
+tagCharStatsPetPhysicalResistInfo=Procentuální bonus k fyzické odolnosti tvých spojenců a vyvolaných příšer.
+
+tagCharStatsPetFireResist=Odolnost vůči ohni
+tagCharStatsPetFireResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči ohni.
+
+tagCharStatsPetColdResist=Odolnost vůči chladu
+tagCharStatsPetColdResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči mrazu.
+
+tagCharStatsPetLightningResist=Odolnost vůči el. výbojům
+tagCharStatsPetLightningResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči elektrickým výbojům.
+
+tagCharStatsPetPoisonResist=Odolnost vůči jedům
+tagCharStatsPetPoisonResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči jedům a kyselinám.
+
+tagCharStatsPetPierceResist=Odolnost vůči probodnutí
+tagCharStatsPetPierceResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči probodnutí.
+
+tagCharStatsPetBleedResist=Odolnost vůči krvácení
+tagCharStatsPetBleedResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči krvácení.
+
+tagCharStatsPetVitalityResist=Odolnost vůči sání živ. en.
+tagCharStatsPetVitalityResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči sání životní energie.
+
+tagCharStatsPetAetherResist=Odolnost vůči Aetheru
+tagCharStatsPetAetherResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči Aetheru.
+
+tagCharStatsPetChaosResist=Odolnost vůči Chaosu
+tagCharStatsPetChaosResistInfo=Procentuální bonus tvých spojenců a vyvolaných příšer k odolnosti vůči Chaosu.
+
+tagCharStatsPetTrapResist=Odolnost vůči pastem
+tagCharStatsPetTrapResistInfo=Procentuální bonus k odolnosti proti pastem tvých mazlíčků a vyvolaných přisluhovačů.
+tagCharStatsPetPetrifyResist=Odolnost vůči zkamenění
+tagCharStatsPetPetrifyResistInfo=Procentuální bonus k odolnosti proti zkamenění tvých mazlíčků a vyvolaných přisluhovačů.
+tagCharStatsPetFreezeResist=Odolnost vůči zmrznutí
+tagCharStatsPetFreezeResistInfo=Procentuální bonus k odolnosti vůči zmrznutí tvých mazlíčků a vyvolaných přisluhovačů.
+tagCharStatsPetSleepResist=Odolnost vůči spánku
+tagCharStatsPetSleepResistInfo=Procentuální bonus k odolnosti vůči spánku tvých mazlíčků a přivolaných přisluhovačů.
+tagCharStatsPetSlowResist=Odolnost vůči zpomalení
+tagCharStatsPetSlowResistInfo=Procentuální bonus k odolnosti vůči zpomalení tvých mazlíčků a vyvolaných přisluhovačů.
+
+#Char Stats Tab 3
+
+#Defense
+tagCharStatsBlockChance=Šance na vykrytí
+tagCharStatsBlockChanceDescription=Procentuální šance na vykrytí příchozího útoku.
+
+tagCharStatsBlockAmount=Vykrytí zranění
+tagCharStatsBlockAmountDescription=Množství zranění, které bylo odvráceno úspěšným vykrytím.
+
+tagCharStatsBlockRecovery=Obnovení vykrytí
+tagCharStatsBlockRecoveryInfo=Udává počet procent, o které se sníží tvé obnovení vykrytí.
+
+tagCharStatsDodgeChance=Šance na vyhnutí
+tagCharStatsDodgeChanceInfo=Procentuální šance na vyhnutí se útoku zblízka a úplnému vyhnutí se zranění.
+
+tagCharStatsProjDeflectChance=Šance na odražení
+tagCharStatsProjDeflectChanceInfo=Procentuální šance na odražení střeleckého útoku a úplnému vyhnutí se zranění.
+
+tagCharStatsPhysicalResist=Fyzická odolnost
+tagCharStatsPhysicalResistInfo=Odolnost vůči kouzlům a útokům způsobujícím fyzickou újmu a vnitřní krvácení.
+
+tagCharStatsDisruptionResist=Odolnost vůči ochromení
+tagCharStatsDisruptionResistInfo=Odolnost vůči kouzlům a útokům, které mohou zrušit tvou schopnost použit dovednost.
+
+tagCharStatsLifeLeechResist=Odolnost vůči sání života
+tagCharStatsLifeLeechResistInfo=Odolnost vůči útokům vysávajícím život.
+
+tagCharStatsEnergyLeechResist=Odolnost vůči sání energie
+tagCharStatsEnergyLeechResistInfo=Odolnost vůči útokům vysávajícím tvou magickou energii.
+
+tagCharStatsTrapResist=Odolnost vůči pastem
+tagCharStatsTrapResistInfo=Odolnost vůči efektům pastí, které tě znehybní.
+
+tagCharStatsPetrifyResist=Odolnost vůči ztuhnutí
+tagCharStatsPetrifyResistInfo=Odolnost vůči kouzlům, které způsobují ztuhnutí těla a zpomalí tak tvé reakce.
+
+tagCharStatsFreezeResist=Odolnost vůči zmrznutí
+tagCharStatsFreezeResistInfo=Odolnost vůči kouzlům, které tě pevně zmrazí a zpomalí tak tvé reakce.
+
+tagCharStatsSleepResist=Odolnost vůči spánku
+tagCharStatsSleepResistInfo=Odolnost vůči kouzlům, které tě přivedou do stavu hlubokého spánku a zpomalí tak tvé reakce, dokud do tebe někdo neudeří.
+
+tagCharStatsSlowResist=Odolnost vůči zpomalení
+tagCharStatsSlowResistInfo=Odolnost vůči efektům, které snižují tvou schopnost útočit, sesílat kouzla a běhat.
+
+#Retaliation
+tagCharStatsDamageReflect=Odražení zranění
+tagCharStatsDamageReflectInfo=Udává počet procent ze zranění, které způsobíš nepříteli poté, co tě zasáhne.
+
+tagCharStatsCurrentLifeReflect=Odplata životem
+tagCharStatsCurrentLifeReflectInfo=Procentuální bonus ke zranění, které způsobíš nepříteli poté, co tě zasáhne.
+
+tagCharStatsPhysicalRet=Fyzické zranění
+tagCharStatsPhysicalRetInfo=Fyzické zranění způsobené útočníkovi kdykoliv tě zasáhne.
+tagCharStatsPhysicalPercentRet=Bonus k fyz. zranění
+tagCharStatsPhysicalPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty fyzickým zraněním. % bonus k celkovému zranění neovlivňuje oplácení.
+
+tagCharStatsPierceRet=Probodnutí
+tagCharStatsPierceRetInfo=Zranění probodnutím způsobené útočníkovi kdykoliv tě zasáhne.
+tagCharStatsPiercePercentRet=Bonus k probodnutí
+tagCharStatsPiercePercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty probodnutím. % bonus k celkovému zranění neovlivňuje oplácení.
+
+tagCharStatsBleedRet=Krvácení
+tagCharStatsBleedRetInfo=Zranění krvácením udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi kdykoliv tě zasáhne.
+tagCharStatsBleedPercentRet=Bonus ke krvácení
+tagCharStatsBleedPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty krvácením. % bonus k celkovému zranění neovlivňuje oplácení.
+
+tagCharStatsInternalTraumaRet=Vnitřní krvácení
+tagCharStatsInternalTraumaRetInfo=Zranění vnitřním krvácením udělené každou sekundu po dobu 5 sekund, způsobené útočníkovi kdykoliv tě zasáhne.
+tagCharStatsInternalTraumaPercentRet=Bonus k vnitř. krvácení
+tagCharStatsInternalTraumaPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty, které způsobuje vnitřní krvácení. % bonus k celkovému zranění neovlivňuje oplácení.
+
+tagCharStatsFireRet=Oheň
+tagCharStatsFireRetInfo=Zranění ohněm způsobené útočníkovi, kdykoliv tě zasáhne.
+tagCharStatsFirePercentRet=Bonus k ohni
+tagCharStatsFirePercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty ohnivým zraněním. % bonus k celkovému zranění neovlivňuje oplácení.
+
+tagCharStatsColdRet=Chlad
+tagCharStatsColdRetInfo=Zranění chladem způsobené útočníkovi, kdykoliv tě zasáhne.
+tagCharStatsColdPercentRet=Bonus k chladu
+tagCharStatsColdPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty zraněním chladem. % bonus k celkovému zranění neovlivňuje oplácení.
+
+tagCharStatsLightningRet=Elektrický výboj
+tagCharStatsLightningRetInfo=Zranění elektrickým výbojem způsobené útočníkovi, kdykoliv tě zasáhne.
+tagCharStatsLightningPercentRet=Bonus k el. výboji
+tagCharStatsLightningPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty zraněním elektrickým výbojem. % bonus k celkovému zranění neovlivňuje oplácení.
+
+tagCharStatsAcidRet=Jed
+tagCharStatsAcidRetInfo=Zranění jedem nebo kyselinou způsobené útočníkovi, kdykoliv tě zasáhne.
+tagCharStatsAcidPercentRet=Bonus k jedu
+tagCharStatsAcidPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty jedem nebo kyselinou. % bonus k celkovému zranění neovlivňuje oplácení.
+
+tagCharStatsVitalityRet=Sání životní energie
+tagCharStatsVitalityRetInfo=Zranění sáním životní energie způsobené útočníkovi, kdykoliv tě zasáhne.
+tagCharStatsVitalityPercentRet=Bonus k životní energii
+tagCharStatsVitalityPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty sáním životní energie. % bonus k celkovému zranění neovlivňuje oplácení.
+
+tagCharStatsAetherRet=Aether
+tagCharStatsAetherRetInfo=Zranění Aetherem způsobené útočníkovi, kdykoliv tě zasáhne.
+tagCharStatsAetherPercentRet=Bonus k Aetheru
+tagCharStatsAetherPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty aetherickým zraněním. % bonus k celkovému zranění neovlivňuje oplácení.
+
+tagCharStatsChaosRet=Chaos
+tagCharStatsChaosRetInfo=Zranění Chaosem způsobené útočníkovi, kdykoliv tě zasáhne.
+tagCharStatsChaosPercentRet=Bonus k Chaosu
+tagCharStatsChaosPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty chaotickým zraněním. % bonus k celkovému zranění neovlivňuje oplácení.
+
+tagCharStatsBurnRet=Popáleniny
+tagCharStatsBurnRetInfo=Zranění popálením udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi, kdykoliv tě zasáhne.
+tagCharStatsBurnPercentRet=Bonus k popáleninám
+tagCharStatsBurnPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty popálením. % bonus k celkovému zranění neovlivňuje oplácení.
+
+tagCharStatsColdburnRet=Omrzliny
+tagCharStatsColdburnRetInfo=Zranění omrznutím udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi, kdykoliv tě zasáhne.
+tagCharStatsColdburnPercentRet=Bonus k omrzlinám
+tagCharStatsColdburnPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty omrznutím. % bonus k celkovému zranění neovlivňuje oplácení.
+
+tagCharStatsElectrocuteRet=Elektrický šok
+tagCharStatsElectrocuteRetInfo=Zranění elektrickém šokem udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi, kdykoliv tě zasáhne.
+tagCharStatsElectrocutePercentRet=Bonus k el. šoku
+tagCharStatsElectrocutePercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty elektrickým šokem. % bonus k celkovému zranění neovlivňuje oplácení.
+
+tagCharStatsPoisonRet=Otrava
+tagCharStatsPoisonRetInfo=Zranění otravou udělené každou sekundu po dobu 5 sekund, způsobené útočníkovi, kdykoliv tě zasáhne.
+tagCharStatsPoisonPercentRet=Bonus k otravě
+tagCharStatsPoisonPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty otravou. % bonus k celkovému zranění neovlivňuje oplácení.
+
+tagCharStatsVitalityDecayRet=Chřadnutí
+tagCharStatsVitalityDecayRetInfo=Zranění chřadnutím udělené každou sekundu po dobu 3 sekund, způsobené útočníkovi, kdykoliv tě zasáhne.
+tagCharStatsVitalityDecayPercentRet=Bonus k chřadnutí
+tagCharStatsVitalityDecayPercentRetInfo=Procentuální bonus ke všem efektům pomocí odplaty chřadnutím. % bonus k celkovému zranění neovlivňuje oplácení.
+
+#Stats
+tagCharStatsItemLevel=Průměrná úroveň předmětů
+tagCharStatsItemLevelInfo=Průměrná úroveň celé tvé výbavy a předmětů, které máš na sobě.
+
+tagRecordTime=Uplynulý čas
+tagRecordTimeNumber={%d0}d : {%d1}h : {%d2}m
+tagRecordTimeInfo=Celkově odehraný čas ve dnech, hodinách a minutách.
+
+tagRecordMonsterKills=Zabití nepřátelé
+tagRecordMonsterKillsInfo=Celkový počet běžných nepřátel, které tvá postava zabila.
+
+tagRecordChampionKills=Zabití hrdinové
+tagRecordChampionKillsInfo=Celkový počet nepřátelských hrdinů a padouchů, které tvá postava zabila.
+
+tagRecordHighestMonster=Nejsilnější zabitý nepřítel
+tagRecordHighestMonsterInfo=Nejsilnější nepřítel, kterého tvá postava byla schopna zabít.
+
+tagRecordHighestDamage=Způsobené zranění
+tagRecordHighestDamageInfo=Největší zranění, která tvá postava způsobila.
+
+tagRecordHighestDamageTaken=Obdržené zranění
+tagRecordHighestDamageTakenInfo=Největší zranění, která tvá postava v jednu dobu obdržela.
+
+tagRecordDeath=Počet smrtí
+tagRecordDeathInfo=Číslo udává, kolikrát tvá postava zemřela.
+
+tagCharStatsSecondaryResist=Druhotné odolnosti:
+
+tagCharacterStats=Statistiky postavy
+tagCharStatsFactionTitle=Frakce
+tagCPercentageValue={%.0f}%
+
+#Vendor
+
+tagVendorTabArtifactA=Artefakty
+tagVendorTabArtifactB=ZÁSTUPNÝ SYMBOL
+tagVendorTab01A=Chladné zbraně
+tagVendorTab01B=Výběr bojových zbraní zachráněných z opuštěných domů, od dlouho zemřelých, nebo od těch, co brzy zemřou.
+tagVendorTab02A=Střelné zbraně
+tagVendorTab02B=Všechno od pistolí složených z nesourodých částí, až po staré samostříly s namontovaným automatickým otočným palebným mechanismem.
+tagVendorTab03A=Zbroj
+tagVendorTab03B=Sbírka zbrojí, od obnošených šatů až po ty z kovu vyrobené. Některé z nich jsou dokonce z opravdových bojových výstrojí z dob, kdy byla bitevní pole plná mrtvých vojáků.
+tagVendorTab04A=Příslušenství a spotřební materiál
+tagVendorTab04B=Směs starých cenností a po domácku vyrobených cetek.
+tagVendorTab05A=Zpětný odkup
+tagVendorTab05B=Tvůj názor se změnil? Dokud jsi u obchodníka, můžeš si prodané předměty koupit zpátky bez navýšené ceny. Ale jakmile odejdeš, předměty jsou prodány natrvalo.
+tagVendorSearchBoxInfo=Zadej parametry pro vyfiltrování předmětů dle jejich názvu nebo vlastností.
+
+tagFactionVendorTab01A=Přátelský
+tagFactionVendorTab01B=Frakční odměny odemčené pokud je postoj k tobě přátelský.
+tagFactionVendorTab02A=Respektovaný
+tagFactionVendorTab02B=Frakční odměny odemčené pokud tě frakce respektuje.
+tagFactionVendorTab03A=Důvěryhodný
+tagFactionVendorTab03B=Frakční odměny odemčené pokud ti frakce může důvěřovat.
+tagFactionVendorTab04A=Poctěný
+tagFactionVendorTab04B=Frakční odměny odemčené pokud je frakce tebou zcela poctěna.
+
+tagVendorRolloverName=Prodejce předmětů
+tagVendorRolloverDescription=Obchodníci profitují z lidského neštěstí prodejem zachráněných nebo ukradených předmětů těm, kteří se odváží vydat za hranice lidských pevností. Proto je lepší se raději nepídit po původu těchto předmětů.
+
+MarketCostAffordable={^g}Cena:  {%d0}
+MarketCostTooExpensive={^r}Cena:  {%d0} ~ nedostatek železných mincí
+MarketCostReputationTooLow={^r}Cena:  {%d0} ~ nedostatek přízně
+MarketCostPreviousTransaction={^g}Cena:  {%d0} ~ původní prodejní cena
+MarketCostPreviousTransactionTooExpensive={^r}Cena:  {%d0} ~ nedostatek železných mincí
+MarketValue={^g}Prodejní hodnota:  {%d0}
+MarketValuePreviousTransaction={^g}Výkupní hodnota:  {%d0} ~ původní prodejní cena
+MarketSalePending=Probíhající prodej
+MarketPurchasePending=Probíhající nákup
+
+tagMarketError01=Nemáš dostatek železných mincí.
+tagMarketError02=Ve svém inventáři nemáš dostatek místa.
+tagMarketError03=Předmět byl prodán.
+tagMarketError04=Tento předmět nemůže být prodán.
+tagMarketError05=Tvé postavení vůči této frakci je nedostatečné.
+CanNotBeSoldHere=Tento prodejce nepřijímá tento druh zboží.
+Sold=Prodáno
+
+
+#Crafting
+
+tagCrafting=Tvorba předmětů
+tagInventorNamePlate=Vynálezce
+tagCraftingComponentCount=Množství materiálu v inventáři.
+tagCraftingComponentMissing=Tento materiál se momentálně ve tvém inventáři nenachází.
+tagCraftingWindowTitle=Vynálezce
+tagCraftingPanelA=Úprava výstroje
+tagCraftingPanelB=Netečnost výstroje
+tagCraftingCost=Cena:
+tagCraftingBlueprint=Plánek
+tagCraftingComponent=Komponenta
+tagCraftingComponentRequired=Složení:
+tagCraftingCombine=Zkombinovat
+tagCraftingDisplayBoxHelp=Aby vytvoření předmětu mohlo začít, polož plánek na pracovní plochu.
+tagCraftingBlueprintInfo=Kovář může použít plánky k vyrobení vylepšení předmětů z různých nalezených materiálů.
+tagCraftingDeviceCost=Cena: {%t0} železných mincí
+tagCraftingCreate=Umožní vyrobit:
+tagCraftingLearn=[pravým tlačítkem myši se naučíš]
+tagCraftingRandom={^E}+ náhodné vlastnosti
+tagCraftingQuantity={%d0}/{%d1}
+tagCraftingLargeQuantity=99+/{%d0}
+tagCraftingLargeStack=99+
+
+tagCraftingItemType00= ~ zařízení
+tagCraftingItemType01= ~ kompletní součástka
+tagCraftingItemType02= ~ kompletní doplňky
+tagCraftingItemType03= ~ svitek
+tagCraftingItemType04= ~ výstroj
+
+tagCraftingButtonInfo=Spojí předměty umístěné v přehledu výroby. Toto tlačítko bude zvýrazněné, jakmile budou přidány všechny požadované materiály.
+tagCraftingConfirmation=Opravdu chceš spojit tyto předměty?
+
+tagCraftingDetatchmentInfo=
+
+tagCraftingProductBoxInfo=Zde se objeví složený předmět, jakmile budou umístěny veškeré součástky.
+tagCraftingProductBoxCompletion=Vezmi si nově složený předmět ze stolu.
+
+tagCraftingInsterComponent=Přidat komponenty zakreslené v plánku do těchto slotů.
+
+tagCraftingSearchBoxInfo=Zadej parametry do filtru pro vyhledání plánků podle jejich názvu nebo vlastností.
+
+#Subheadings
+
+tagCraftingAxes=SEKYRY
+tagCraftingBlunt=TUPÉ ZBRANĚ
+tagCraftingSwords=MEČE
+tagCraftingImplements=NÁSTROJE
+tagCraftingTwoHandedMelee=OBOURUČNÍ CHLADNÉ ZBRANĚ
+tagCraftingSpears=OŠTĚPY
+tagCraftingStaves=HOLE
+
+tagCraftingOneHanded=JEDNORUČNÍ ZBRANĚ
+tagCraftingTwoHanded=OBOURUČNÍ ZBRANĚ
+
+tagCraftingBelts=OPASKY
+tagCraftingHelms=HELMY
+tagCraftingTorso=HRUDNÍ PLÁTY
+tagCraftingShoulders=RAMENA
+tagCraftingLegs=NOHY
+tagCraftingHands=RUCE
+tagCraftingFeet=CHODIDLA
+tagCraftingOffhands=PŘÍRUČNÍ PŘEDMĚTY
+tagCraftingShields=ŠTÍTY
+
+tagCraftingComponents=KOMPONENTY
+tagCraftingAccessories=DOPLŇKY
+tagCraftingConsumables=SPOTŘEBNÍ PŘEDMĚTY
+tagCraftingMaterials=MATERIÁLY
+
+tagCraftingRelicsTier01=MOCNÉ RELIKVIE
+tagCraftingRelicsTier02=JEDINEČNÉ RELIKVIE
+tagCraftingRelicsTier03=BÁJNÉ RELIKVIE
+
+tagDividerTab01=Rozložení
+tagDividerRoll01=Rozkladová komora se používá pro oddělení komponent a vylepšení od předmětu. Bohužel je tento proces nedokonalý a má za následek zničení buď součástky, nebo předmětu. Ale můžeš si vybrat, kterou věc raději obětuješ.{^n}{^n}Pokud předmět rozložíš, jakékoliv vylepšení bude nenávratně zničeno. Pokud je zničeno vázané vylepšení a základní předmět vázán nebyl, bude toto vázání odstraněno.
+
+tagDividerTab02=Rozebrat
+tagDividerRoll02=Rozkladová komora slouží k rozbití mocných magických předmětů na jejich základní součástky. Vynálezce se dosud tuto schopnost nenaučil.
+tagDividerRoll02B=Rozkladová komora slouží k rozbití mocných magických předmětů na jejich základní součástky. Tento proces vyžaduje spoustu energie a tak chytrý vynálezce využil dynamit, který výtečně plní tuto funkci.
+
+tagDividingButtonKeepItem=Předmět
+tagDividingBoxInfo=Umísti do komory předmět s připojenou komponentou nebo vylepšením.
+tagDividingButtonKeepComponent=Komponenta
+tagDividingButtonRemoveAugment=Odstranit vylepšení
+tagDividingKeepItemWarning=Vybráním zachování předmětu zničíš připojenou komponentu a jakékoliv vylepšení.
+tagDividingKeepComponentWarning=Vybráním zachování komponenty zničíš předmět a jakékoliv vylepšení.
+tagDividingRemoveAugmentWarning=Odstraněním vylepšení jej trvale zničíš a odebereš vazbu se svou duší.
+tagDividingCost=Cena rozkladu:
+
+tagDismantleDynamiteTotal=Počet dynamitů:
+tagDismantleCost=Cena rozebrání:
+tagDismantleButton=Kliknutím na tlačítko Rozebrání zničíš tento předmět.
+tagDismantleDestroyItemWarning=Kliknutím na tlačítko Rozebrat zničíš tento předmět. Chceš pokračovat?
+tagDismantleDestroyItemComponentWarning=Kliknutím na tlačítko Rozebrat zničíš tento předmět a získáš zpět komponentu. Chceš pokračovat?
+tagDismantleBoxInfo=Umísti do komory předmět lepší kvality než běžné.
+
+#Shrine
+
+tagShrineDesecrated=Znesvěcená svatyně
+tagShrineRuined=Rozbořená svatyně
+tagShrineRestored=Obnovená svatyně
+tagShrineButton01=Obětovat
+tagShrineButton02=Vypustit
+tagShrineButton03=Zrušit
+tagShrineButtonInfo=Umísti tuto oběť poblíž svatyně
+tagShrineWarning=Tato svatyně je pouze rozbořená a je potřeba ji obnovit. Chceš umístit tuto obětinu?
+tagShrineConfirmProxy=Tato svatyně je znesvěcená a je třeba ji vyčistit. Chceš vypustit to, co je uvězněné uvnitř?
+tagShrineActivated=Tato svatyně už byla obnovena.
+tagShrineHostActivated=Tato svatyně už byla obnovena hostujícím hráčem.
+tagShrineHostNotActivated=Tato svatyně byla obnovena v jiné herní relaci.
+tagShrineBusy=Tuto svatyni teď využívá jiný hráč.
+tagShrineLocked=Tato svatyně je nevyužitá.
+
+#Smuggler
+
+tagStorageRefund=Zaplatit místo
+tagCaravanTitle=Pašerák
+tagCaravanCost=Cena: {%d0}
+tagCaravanRefund=Vrátit peníze: {%d0}
+tagCaravanExpand=Rozšířit místo
+tagCaravanItemStorage=Úschovna
+tagStorageInfo01=Úschovnu můžeš použít jako rozšíření svého inventáře. Pravým tlačítkem myši nebo přetažením můžeš přenášet předměty mezi inventářem a úschovnou. Předměty uložené v úschovně jsou dostupné u každého pašeráka ve hře.
+tagTransferCost=Cena za převod: {%d0}
+tagTransferAdd=Chceš přidat tento předmět do sdílené úschovny?
+tagTransferInfo01=Můžeš využít služeb pašeráka pro přesun předmětů mezi tvými dalšími postavami. Jednoduše přetáhni předmět do sdílené úschovny a ten pak bude dotupný tvým dalším postavám.
+tagCaravanItemTransfer=Místní úschovna
+tagTransferInfo02=Umísti předměty do předávací oblasti, aby byl pašerák schopný je převést mezi tvé další postavy.
+tagCaravanError01=Pro převod tohoto předmětu nemáš dostatek železných mincí.
+tagStorageError01=Nemáš dostatek železných mincí pro nákup dalšího místa v úschovně.
+tagTransferError01=Potřebuješ {%d0} železných mincí ke koupi dalšího místa v úschovně.
+tagTransferPurchase01=Chceš zaplatit {%d0} železných mincí za koupi dalšího místa v úschovně?
+tagTransferTab01=1. záložka
+tagTransferTab02=2. záložka
+tagTransferTab03=3. záložka
+tagTransferTab04=4. záložka
+tagCaravanSort=Opravdu chceš automaticky seřadit předměty?
+
+#Chat
+
+tagChatSend=Poslat...
+tagChatCommand01=Skupině
+tagChatCommand02=Všem
+tagChatCommand03=Odpovědět
+tagChatCommand04=Říci
+tagChatCommand05=Umlčet
+tagChatCommand06=Odmlčet
+tagChatBrag=[{%t0}{%t1}{^-}]
+
+#NPC Conversation
+tagNpcConversationBusy=Tato postava právě hovoří s někým jiným.
+
+#Treasure Trove
+tagTroveBusy=Tento objekt si prohlíží jiný hráč.
+
+#Maps
+
+tagAerialMapCenteredButton=Vystředit
+tagAerialMapZoomText=Přiblížení
+
+tagMapWindowName=Místní mapa
+tagRiftWindowName=Mapa Bran
+tagWorldMapWindowName=Světová mapa
+
+tagMapSymbolAOI=Bod zájmu
+tagMapSymbolAOIDesc=Zajímavé místo.
+tagMapSymbolSmuggler=Pašerák
+tagMapSymbolSmugglerDesc=Pochybná osoba, která je schopna uchovávat tvé předměty a vybavení a cestovat s nimi mezi tvými ostatními postavami.
+tagMapSymbolHero=Hráč
+tagMapSymbolHeroDesc=Tvá aktuální pozice.
+tagMapSymbolInventor=Vynálezce
+tagMapSymbolInventorDesc=Dráteník je schopen odstraňovat komponenty z tvé výbavy.
+tagMapSymbolMission=Úkol
+tagMapSymbolMissionDesc=Současný aktivní úkol.
+tagMapSymbolNPC=NPC
+tagMapSymbolNPCDesc=Nehratelná postava.
+tagMapSymbolGroup=Skupina
+tagMapSymbolGroupDesc=Pozice tvých spoluhráčů.
+tagMapSymbolRespawn=Léčitel
+tagMapSymbolRespawnDesc=Léčitel je schopný omladit tvé tělo a vyléčit rozličná zranění.
+tagMapSymbolRiftgate=Brána
+tagMapSymbolRiftgateDesc=Brány z jiných světů jsou schopné tě přenést na jiná místa.
+tagMapSymbolVendor=Kupec
+tagMapSymbolVendorDesc=Obchodník s vybavením.
+tagMapSymbolWitch=Kaplan
+tagMapSymbolWitchDesc=Duchovní postava, která ti pomůže odnaučit se tvé dovednosti.
+tagMapSymbolShrine=Svatyně
+tagMapSymbolShrineDesc=Starodávná svatyně zasvěcená hvězdám a starým bohům.
+tagMapSymbolSmith=Kovář
+tagMapSymbolSmithDesc=Zručný řemeslník schopný vytvářet nové předměty.
+
+#SystemStatsSkillUI
+
+tagOptionsMenuReturn=Návrat do hry
+tagOptionsMenuExit=Hlavní nabídka
+tagOptionsMenuQuit=Ukončit hru
+tagOptionsMenuOptions=Nastavení
+tagOptionsMenuGameSaved=Tvá hra byla uložena
+tagOptionsMenuExitMenuConfirm=Opravdu chceš opustit hru a vrátit se do hlavní nabídky?
+tagOptionsMenuExitGameConfirm=Opravdu chceš ukončit hru a vrátit se do Windows?
+tagInfoTitle=Informace
+tagInfoButtonYes=Ano
+tagInfoButtonNo=Ne
+tagInfoButtonOk=OK
+tagGameOver=Budiž ti země Cairnu lehká!
+
+SimpleStringFormat={%s0}
+SimpleStringsFormat={%s1} {%s0}
+TripleStringFormat={%s2} {%s1} {%s0}
+TripleStringFormat2={%s2} {%s1} {(%s0)}
+QuadStringFormat={%s3}{%_s1} {(%s2)} {%_s0}
+SkillBaseNamesFormat={    %s0}
+CostFormat=Cena: {%d0}
+ManaDisplayFormat=Magická energie: {%d0} / {%d1} ({%d2} rezervováno)
+LifeDisplayFormat=Zdraví: {%d0} / {%d1}
+ExperienceDisplayFormat=Současné zkušenosti: {^y}{%d0}{^w} ~ Zkušenosti na další úroveň: {^y}{%d1}
+
+tagExpDisplayFormat=Současné zkušenosti: {^y}{%t0}{^w} ~ Zkušenosti do další úrovně: {^y}{%t1}
+
+tagCharPointsSpent=Rozdělených bodů:
+
+tagCharAttribute01={%+.0f0} {^F}rafinovanost{^E}
+tagCharAttribute02={%+.0f0} {^F}fyzická kondice{^E}
+tagCharAttribute03={%+.0f0} {^F}duchovno{^E}
+tagCharAttribute04={%+.0f0} {^F}zdraví{^E}
+tagCharAttribute05={%+.0f0} {^F}magická energie{^E}
+tagCharConstitution={%+.0f0} {^E}konstituce
+tagCharLifeRegen={%+.1f0} {^E}bodů obnovy zdraví za sekundu
+tagCharManaRegen={%+.1f0} {^E}bodů obnovy magické energie za sekundu
+
+tagCharAttribute01Modifier={%+.0f0}% {^F}rafinovanosti{^E}
+tagCharAttribute02Modifier={%+.0f0}% {^F}fyzické kondice{^E}
+tagCharAttribute03Modifier={%+.0f0}% {^F}duchovna{^E}
+tagCharAttribute04Modifier={%+.0f0}% {^F}zdraví{^E}
+tagCharAttribute05Modifier={%+.0f0}% {^F}magické energie{^E}
+tagCharConstitutionModifier={%+.0f0}% {^E}konstituce
+tagCharLifeRegenModifier={^E}Zvyšuje obnovu zdraví o {^H}{%.0f0}%
+tagCharManaRegenModifier={^E}Zvyšuje obnovu magické energie o {^H}{%.0f0}%
+
+tagCharManaLimitReserve={%.0f0} {^E}rezervované magické energie
+tagCharManaLimitReserveMod={%+.0f0} {^E}rezervované magické energie
+tagCharManaLimitReserveReduction=-{%.0f0} {^E}cena rezervované magické energie
+tagCharManaLimitReserveModifier={+%.0f0}% {^E}zásoby magické energie
+tagCharManaLimitReserveReductionModifier=-{%.0f0}% {^E}zásoby magické energie
+
+tagCharRunSpeed={%+.0f0}% {^X}rychlosti pohybu{^E}
+tagCharSpellCastSpeed={%+.0f0}% {^X}rychlosti kouzlení{^E}
+tagCharAttackSpeed={%+.0f0}% {^X}útočné rychlosti{^E}
+tagCharTotalSpeedModifier={%+.0f0}% {^X}celkové rychlosti{^E}
+tagCharRunSpeedModifier={%+.0f0}% {^X}rychlosti pohybu{^E}
+tagCharSpellCastSpeedModifier={%+.0f0}% {^X}rychlosti kouzlení{^E}
+tagCharAttackSpeedModifier={%+.0f0}% {^X}útočné rychlosti{^E}
+tagCharRunSpeedMaxModifier={%+.0f0}% {^E}Max. rychlost pohybu
+tagCharSpellCastSpeedMaxModifier={%+.0f0}% {^E}Max. rychlost sesílání kouzel
+tagCharAttackSpeedMaxModifier={%+.0f0}% {^E}Max. rychlost útoku
+tagCharAttribute04MultModifier={^E}Celkové zdraví upravené o {^H}{%.0f0}%
+
+tagCharAttribute01R={%+.0f0}-{%.0f1} {^F}rafinovanosti{^E}
+tagCharAttribute02R={%+.0f0}-{%.0f1} {^F}fyzické kondice{^E}
+tagCharAttribute03R={%+.0f0}-{%.0f1} {^F}duchovna{^E}
+tagCharAttribute04R={%+.0f0}-{%.0f1} {^F}zdraví{^E}
+tagCharAttribute05R={%+.0f0}-{%.0f1} {^F}magické energie{^E}
+tagCharLifeRegenR={%+.1f0}-{%.1f1} {^E}zdraví obnovené za sekundu
+tagCharManaRegenR={%+.1f0}-{%.1f1} {^E}magické energie obnovené za sekundu
+tagCharAttribute01ModifierR={%+.0f0}-{%.0f1}% {^F}rafinovanosti{^E}
+tagCharAttribute02ModifierR={%+.0f0}-{%.0f1}% {^F}fyzické kondice{^E}
+tagCharAttribute03ModifierR={%+.0f0}-{%.0f1}% {^F}duchovna{^E}
+tagCharAttribute04ModifierR={%+.0f0}-{%.0f1}% {^F}zdraví{^E}
+tagCharAttribute05ModifierR={%+.0f0}-{%.0f1}% {^F}magické energie{^E}
+tagCharLifeRegenModifierR={^E}Zvyšuje obnovu zdraví o {^H}{%.0f0}-{%.0f1}%
+tagCharManaRegenModifierR={^E}Zvyšuje obnovu magické energie o {^H}{%.0f0}-{%.0f1}%
+tagCharManaLimitReserveR={%+.0f0}-{%.0f1} {^E}rezervované magické energie
+tagCharManaLimitReserveReductionR=-({%.0f0}-{%.0f1}) {^E}zásoba rezervované magické energie
+tagCharManaLimitReserveModifierR={+%.0f0}-{%.0f1}% {^E}zásoby magické energie
+tagCharManaLimitReserveReductionModifierR=-({%.0f0}-{%.0f1}%) {^E}zásoby magické energie
+tagCharRunSpeedR={%+.0f0}-{%.0f1}% {^X}rychlosti pohybu{^E}
+tagCharSpellCastSpeedR={%+.0f0}-{%.0f1}% {^X}rychlosti kouzlení{^E}
+tagCharAttackSpeedR={%+.0f0}-{%.0f1}% {^X}útočné rychlosti{^E}
+tagCharTotalSpeedModifierR={%+.0f0}-{%.0f1}%{^X} celkové rychlosti{^E}
+tagCharRunSpeedModifierR={%+.0f0}-{%.0f1}%{^X} rychlosti pohybu{^E}
+tagCharSpellCastSpeedModifierR={%+.0f0}-{%.0f1}%{^X} rychlosti kouzlení{^E}
+tagCharAttackSpeedModifierR={%+.0f0}-{%.0f1}%{^X} útočné rychlosti{^E}
+tagCharOffensiveAbilityR={%+.0f0}-{%.0f1} {^X}útočné schopnosti{^E}
+tagCharDefensiveAbilityR={%+.0f0}-{%.0f1} {^X}obranné schopnosti{^E}
+tagCharOffensiveAbilityModifierR={%+.0f0}-{%.0f1}%{^X} útočné schopnosti{^E}
+tagCharDefensiveAbilityModifierR={%+.0f0}-{%.0f1}%{^X} obranné schopnosti{^E}
+tagCharDefensiveBlockRecoveryReductionR=-({%.0f0}-%.0f1})% {^E}času znovupoužitelnosti štítu
+tagCharEnergyAbsorptionPercentR={%+.0f0}-{%.0f1}%{^E} magické energie absorbované z cizího kouzla
+tagCharDodgePercentR={%.0f0}-{%.0f1}%{^E} šance na vyhnutí se chladné zbrani
+tagCharDeflectProjectilesR={%.0f0}-{%.0f1}%{^E} šance na vyhnutí se projektilům
+tagCharIncreasedExperienceR={%+.0f0}-{%.0f1}%{^X} obdržených zkušeností{^E}
+tagCharLightRadiusR={%+.0f0}-{%.0f1}%{^E} dosahu světla
+tagCharItemGlobalReductionR={%.0f0}-{%.0f1}%{^E} snížené požadavky na atributy
+tagCharLevelReqReductionR=-({%.0f0}-{%.0f1}) {^E}úrovní hráče u předmětů
+tagCharArmorStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}fyzické kondice u výstroje
+tagCharArmorDexterityReqReductionR=-({%.0f0}--{%.0f1}%) {^E}rafinovanosti u výstroje
+tagCharArmorIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}duchovna u výstroje
+tagCharJewelryIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}duchovna u šperků
+tagCharJewelryStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}fyzické kondice u šperků
+tagCharJewelryDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}rafinovanosti u šperků
+tagCharShieldStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}fyzické kondice u štítů
+tagCharShieldIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}duchovna u štítů
+tagCharShieldDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}rafinovanosti u štítů
+tagCharMeleeStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}fyzické kondice u chladných zbraní
+tagCharMeleeDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}rafinovanosti u chladných zbraní
+tagCharMeleeIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}duchovna u chladných zbraní
+tagCharHuntingStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}fyzické kondice u střelných zbraní
+tagCharHuntingDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}rafinovanosti u střelných zbraní
+tagCharHuntingIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}duchovna u střelných zbraní
+tagCharStaffIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}duchovna u tyčových zbraní
+tagCharStaffStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}fyzické kondice u tyčových zbraní
+tagCharStaffDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}rafinovanosti u tyčových zbraní
+tagCharWeapon2HIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}duchovna u obouručních zbraní
+tagCharWeapon2HStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}fyzické kondice u obouručních zbraní
+tagCharWeapon2HDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}rafinovanosti u obouručních zbraní
+tagCharWeaponIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}duchovna u všech zbraní
+tagCharWeaponStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}fyzické kondice u všech zbraní
+tagCharWeaponDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}rafinovanosti u všech zbraní
+
+SkillManaCostReductionR=-{%.0f0}% {^E}magické energie dovednosti
+SkillCooldownReductionR=+{%.0f0}% {^E}doby obnovy dovednosti
+SkillProjectileSpeedModifierR={%+.0f0}% {^E}zvýšení rychlosti projektilů
+SkillManaCostReductionModifierR=-{%.0f0}% {^E}magické energie dovednosti
+SkillCooldownReductionModifierR=-{%.0f0}% {^E}dobití dovednosti
+
+tagDamageConversion={%.0f0}% {^E}{%s1} převedeno do {%s2}
+tagDamageRemoval={^E}Pokles {%s1} o {^H}{%.0f0}%
+tagConversionPhysical={^K}fyzického zranění{^E}
+tagConversionPierce={^R}zranění probodnutím{^E}
+tagConversionElemental={^Y}živelného zranění{^E}
+tagConversionCold={^C}zranění chladem{^E}
+tagConversionFire={^O}ohnivého zranění{^E}
+tagConversionPoison={^L}zranění jedem{^E}
+tagConversionLightning={^Z}zranění elektrickým výbojem{^E}
+tagConversionLife={^M}zranění sáním životní energie{^E}
+tagConversionChaos={^P}zranění Chaosem{^E}
+tagConversionAether={^A}zranění Aetherem{^E}
+tagConversionStun=doby trvání omráčení
+
+tagAttackSpeedNotSet=Rychlost:  neznámá
+tagAttackSpeedVerySlow=Rychlost:  velmi pomalá
+tagAttackSpeedSlow=Rychlost:  pomalá
+tagAttackSpeedAverage=Rychlost:  průměrná
+tagAttackSpeedFast=Rychlost:  rychlá
+tagAttackSpeedVeryFast=Rychlost:  velmi rychlá
+
+tagAttackSpeed={^W}{%.2f0} {^S}výpadů za sekundu
+tagAttackSpeedR={^W}{%.2f0} - {%.2f1} {^S}výpadů za sekundu
+
+tagCharOffensiveAbility={%+.0f0} {^X}útočná schopnost{^E}
+tagCharDefensiveAbility={%+.0f0} {^X}obranná schopnost{^E}
+tagCharOffensiveAbilityModifier={%+.0f0}% {^X}útočné schopnosti{^E}
+tagCharDefensiveAbilityModifier={%+.0f0}% {^X}obranné schopnosti{^E}
+
+tagCharDefensiveBlockRecoveryReduction={-%.0f0}% {^E}doby obnovení štítu
+tagCharEnergyAbsorptionPercent={%+.0f0}% {^E}absorpce magické energie z nepřátelských kouzel
+tagCharDodgePercent={%.0f0}% {^E}šance se vyhnout útokům zblízka
+tagCharDeflectProjectiles={%.0f0}% {^E}šance se vyhnout projektilům
+
+tagCharIncreasedExperience={%+.0f0}% {^X}získaných zkušeností{^E}
+tagCharLightRadius={%+.0f0}% {^E}dosah světla
+
+tagCharItemGlobalReduction={%.0f0}% {^E}náročnosti na potřebné atributy
+tagCharLevelReqReduction=-{%.0f0} {^E}úrovně hráče na nošení předmětů
+tagCharArmorStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro výstroj
+tagCharArmorDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro výstroj
+tagCharArmorIntelligenceReqReduction=-{%.0f0}% {^E}duchovna pro výstroj
+tagCharJewelryIntelligenceReqReduction=-{%.0f0}% {^E}duchovna pro šperky
+tagCharJewelryStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro šperky
+tagCharJewelryDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro šperky
+tagCharShieldStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro štíty
+tagCharShieldIntelligenceReqReduction=-{%.0f0}% {^E}duchovna pro štíty
+tagCharShieldDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro štíty
+tagCharMeleeStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro zbraně na blízko
+tagCharMeleeDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro zbraně na blízko
+tagCharMeleeIntelligenceReqReduction=-{%.0f0}% {^E}duchovna pro zbraně na blízko
+tagCharHuntingStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro střelné zbraně
+tagCharHuntingDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro střelné zbraně
+tagCharHuntingIntelligenceReqReduction=-{%.0f0}% {^E}duchovna pro střelné zbraně
+tagCharStaffIntelligenceReqReduction=-{%.0f0}% {^E}duchovna pro hole
+tagCharStaffStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro hole
+tagCharStaffDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro hole
+tagCharWeapon2HIntelligenceReqReduction=-{%.0f0}% {^E}duchovna pro obouruční zbraně
+tagCharWeapon2HStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice pro obouruční zbraně
+tagCharWeapon2HDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti pro obouruční zbraně
+tagCharWeaponIntelligenceReqReduction=-{%.0f0}% {^E}duchovna na všechny zbraně
+tagCharWeaponStrengthReqReduction=-{%.0f0}% {^E}fyzické kondice na všechny zbraně
+tagCharWeaponDexterityReqReduction=-{%.0f0}% {^E}rafinovanosti na všechny zbraně
+
+tagChanceOf={%.1f0}% {^E}šance na {^H}
+tagChanceTo={%.1f0}% {^E}šance na {^H}
+
+Strength=Fyzická kondice
+Dexterity=Rafinovanost
+Intelligence=Duchovno
+Life=Zdraví
+Mana=Magická energie
+UnusedPointsText={%d0} nepoužitých bodů
+LifeText={%.0f0} zdraví
+ManaText={%.0f0} magické energie
+StrengthText={%.0f0} fyzické kondice
+DexterityText={%.0f0} rafinovanosti
+IntelligenceText={%.0f0} duchovna
+FloatFormat={%.0f0}
+Float1Format={%.1f0}
+Float2Format={%.2f0}
+NegativeFloat2Format=- {%.2f0}
+IntFormat={%d0}
+CharacterLevelDescription={%s0} - [úroveň {%d1}]
+ObjectIdFormat=({%d0})  
+SkillLevelFormat={%d0} / {%d1}
+ShortManaText=Magická energie  {%.0f0} / {%.0f1} / {%.1f2}
+ShortLifeText=Zdraví {%.0f0} / {%.0f1}
+ShortExperienceText=Zkušenosti {%d0} / {%d1}
+ShortLevel=Úroveň {%d0}
+HitFormat={%.0f0}
+CriticalHitFormat={%.0f0}
+CriticalHitFormatMult={%.0f0} (x{%.2f1})
+DurationCriticalHit=Kritický zásah
+DurationCriticalHitMult=Kritický zásah (x{%.2f0})
+tagMiss=Vedle
+tagFumble=Neobratný úder
+tagDodge=Úskok
+tagBlock=Vykrytý úder
+tagDeflect=Odražený úder
+tagInvulnerable=Nezranitelný
+GiveMoneyFormat=+{%d0} železných mincí
+TakeMoneyFormat={%d0} železných mincí
+ExperienceFormat=+{%d0} zkušeností
+FactionFormat={%s1}: +{%d0} přízně
+FactionUnlocked=Frakce {%s0} byla odemčena
+LevelUpFormat=Nová úroveň!
+SkillPointFormat={%d0} bod(y) dovedností
+AttributePointFormat={%d0} bod(y) atributů
+MenuName=Jméno:
+MenuLevel=Úroveň:   {%d0}
+ItemSkillIncrement={+%d0} {^E}k dovednosti {^I}{%s1}
+ItemMasteryIncrement={+%d0} {^X}ke všem dovednostem v povolání {%s1}{^E}
+ItemAllSkillIncrement={+%d0} {^X}ke všem dovednostem{^E}
+ItemBasicAttributeBanner={^w}
+ItemBonusAttributeBanner={^b}
+tagPerSecond= za sekundu
+tagDPS={%.1g0} zranění za sekundu
+
+LevelRequirement=Úroveň hráče
+ShieldBlockAbsorption={%.0f0}% utlumení
+ShieldBlockRecoveryTime={%.2f0} sekund na obnovu vykrytí
+MeetsRequirement=Požadavek ~ {%s0}: {%.0f1}
+MeetsRequirementWithReduction=Požadavek ~ {%s0}: {%.0f1} [{^r%.0f2 ^y- %.0f3}% snížení{^g}]
+FailsRequirementWithReduction={^r}Požadavek ~ {%s0: %.0f1} [{%.0f2 ^y- %.0f3}% snížení]
+FailsRequirement={^r}Požadavek ~ {%s0: %.0f1}
+SkillIntFormat={%d0 %s1}
+SkillFloatFormat={%.0f0 %s1}
+SkillFloat1Format={%.1f0 %s1}
+SkillFloat2Format={%.2f0 %s1}
+SkillSecondFormat={{^E}%s1 {^H}%.1f0 {^E}sekund}
+SkillSecondFormatMod=+{%.1f0 {^E}sekund %s1}
+SkillDistanceFormat={{^E}%s1 {^H}%.1f0 {^E}metrů}
+SkillDistanceFormatMod=+{%.1f0 {^E}metrů %s1}
+SkillCostFormat={%.0f0 %s1}
+SkillCostFormatMod=+{%.1f0 %s1}
+SkillPercentFormat={%.0f0% %s1}
+SkillNumProjectilesFormat=Vystřelí {%d0} projektilů
+SkillWeaponDamageFormat={%.0f0%} {^E}zranění zbraní
+SkillWeaponDamageValuesFormat={%.0f0%} {^E}zranění zbraní ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageMainhandFormat={%.0f0%} {^E}zranění hlavní zbraní ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageOffhandFormat={%.0f0%} {^E}zranění příručním předmětem ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamagePetFormat={%.0f0%} {^E}zranění základním útokem mazlíčka
+SkillChargeFactor=za úroveň nabití
+SkillChargeMax={^E}úrovní nabití:
+SkillChargeLevel={^H} {%d0}%
+SkillChargeLevel2={^E}, {^H}{%d0}%
+SkillChargeLevelMod= {%d0}%
+SkillChargeLevelMod2=, {%d0}%
+SkillChargeDuration=Trvání úrovně nabití
+SkillChargeFactorMod=zvyšuje za úroveň nabití
+SkillChargeMaxMod=Úrovně nabití:
+SkillChargeDurationMod=zvyšuje v trvání nabití
+SkillChanceWeight={%d0}% {^E}šance na použití
+SkillActivationChance={^E}šance na aktivování
+SkillDamageAbsorption={%.0f0} {^E}pohlcení zranění
+SkillDamageAbsorptionPercent={%.0f0}% {^E}pohlcení zranění
+SkillPetBurstSpawn={^E}Přivolání {^H}{%d0}
+SkillPetBurstSpawnMod=+{%d0} {^E}přivolání
+SkillPetBurstSpawnsMod=+{%d0} {^E}přivolání
+SkillPetLimit={%d0} {^E}limit přivolání
+SkillPetLimitMod=+{%d0} {^E}limit přivolání
+SkillLifeBonus={%+.1f0} {^E}obnoveného zdraví
+SkillManaBonus={%+.1f0} {^E}obnovené magické energie
+SkillLifePercent={%.1f0}% {^E}obnoveného zdraví
+SkillManaPercent={%.1f0}% {^E}obnovené magické energie
+SkillLifeBonusAndPercent={%.0f1}% + {%.0f0} {^E}obnoveného zdraví
+SkillManaBonusAndPercent={%.0f1}% + {%.0f0} {^E}obnovené magické energie
+SkillPetDescriptionHeading=^o{%s0} ~ atributy:
+tagSkillPetAbilities=^o{%s0} ~ schopnosti:
+SkillPetDescriptionNextHeading=Další {%s0} úroveň:
+SkillPetDescriptionHealth={%.0f0}  {^E}zdraví
+SkillPetDescriptionMana={%.0f0}  {^E}magické energie
+SkillPetDescriptionDamageMinOnly={%.0f0}  zranění
+SkillPetDescriptionDamageMinMax={%.0f0} - {%.0f1}  zranění
+tagSkillPetTimeToLive={^E}Žije {^H}{%.1f0} {^E}sekund
+tagSkillPetTimeToLiveMod={^E}Žije {^H}{%+.1f0} {^E}sekund
+tagSkillPrevious=...předchozí
+tagSkillNext=další...
+HoldCtrlToShowBaseValues=Přidržením klávesy CTRL zobrazíš základní hodnoty.
+PressToAddUnusedSkillPoints=Levým tlačítkem myši přidáš nevyužité body dovednosti.
+PressToAddUnusedDevotionPoints=Levým kliknutím přiřadíš nevyužité body oddanosti
+PressToActivateDevotion=Levým kliknutím aktivuješ
+PressToAssignDevotion=Levým kliknutím přiřadíš
+AssignDevotionForExp=Pro získávání zkušeností musí být dovednost přiřazena
+SkillEnhancement=+{%d0} ke všem dovednostem
+NoSkillPointsToAdd=Nemáš dovednostní body, které by šly přidat.
+NoDevotionPointsToAdd=Žádné body oddanosti
+LockedDevotion=Uzamčeno - vyžaduje dřívější hvězdu v tomto souhvězdí
+ActiveDevotion=Aktivní
+YouMustIncreaseMasteryLevel=Pro přidání více bodů musíš zvýšit úroveň svého povolání.
+EnableOneBaseSkill=Alespoň jedna požadovaná dovednost musí být povolena
+MaxSkillLevelReached=Dosažena maximální úroveň dovednosti
+ActiveMasteriesAllowedReached=Byl dosažen počet aktivních povolání
+LifeMonitorPercent={^E}Aktivuje se, pokud zdraví klesne pod hodnotu {^H}{%.1f0}%
+FailedSkillDependancy=Požadavek ~ dovednost {%s0}
+FailedSkillDependancyAll=Vyžaduje následující dovednosti:
+FailedSkillDependancyOne=Vyžaduje jednu z následujících dovedností:
+FailedSkillDependancyName={%s0}
+FailedDevotionDependency=Požadavek na spřízněnost:
+FailedDevotionDependencyName={%d0} {%s1}
+FailedConstellationDependency=Závislosti souhvězdí:
+FailedConstellationSelfLocked=Toto souhvězdí je závislé na své vlastní Spřízněnosti. Pro odnaučení se budeš potřebovat více Spřízněnosti z jiných souhvězdí.
+ManaCost={^E}magické energie
+ManaCostPerSecond={^E}magické energie za sekundu
+ActiveLifeCost={^E} aktivního zdraví za sekundu
+ActiveManaCost={^E} aktivní magické energie za sekundu
+ActiveDuration=Doba působení:
+Interval=Interval
+TargetRadius=Cílová oblast
+TargetAngle={^E}Zásah v úhlu {^H}{%.0f0} {^E}stupňů
+TargetAngleMod={^E}Zásah v úhlu {^H}+{%.0f0} {^E}stupňů
+TargetNumber={%d0} {^E}cílů maximálně
+TargetNumberMod=+{%d0} {^E}cílů maximálně
+CooldownTime={^E}Čas k obnovení dovednosti:
+ExplosionRadius=Dosah:
+TargetRange=Rozsah
+ProjectileLaunchRotation=Rozsah projektilů: {%.1f0} stupňů
+ProjectileLaunchNumber={%d0} {^E}projektilů
+ProjectileLaunchNumberMod=+{%d0} {^E}projektilů
+ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} {^E}střepin
+ProjectileFragmentsLaunchNumber={%d0} {^E}střepin
+ProjectilePiercingChance={%.1f0}% {^E}šance na probodnutí skrz nepřítele
+ProjectilePiercingChanceMod=+{%.1f0}% {^E}šance na probodnutí skrz nepřítele
+CooldownCharges={%d0} {^E}Max. seslaná kouzla
+CooldownChargesMod=+{%d0} {^E}Max. seslaná kouzla
+PotionCooldownCharges={%d0} {^E}Max. použití
+PotionCooldownChargesMod=+{%d0} {^E}Max. použití
+
+tagTooltipPetsHeader=Spojenci
+tagTooltipSkillsHeader=Přidělené dovednosti
+
+#Skill Wheel
+tagSkillConfig01=1. nastavení
+tagSkillConfig02=2. nastavení
+
+#Gamepad HUD
+tagGamePadSelect=Vybrat
+tagGamePadBack=Zpět
+tagGamePadEquip=Nasadit předmět
+tagGamePadDrop=Zahodit předmět
+tagGamePadUseItem=Použít předmět
+tagGamePadSellItem=Prodat předmět
+tagGamePadMoveItem=Přesunout předmět
+tagGamePadScroll=Posun
+tagGamePadAssignSkills=Přiřadit dovednost
+tagGamePadSwapConfig=Změna nastavení
+tagGamePadMove=Posun
+tagGamePadZoomIn=Přiblížit
+tagGamePadZoomOut=Oddálit
+tagGamePadExit=Odejít
+tagGamePadRevert=Zrušit
+tagGamePadSplitStack=Frakce
+tagGamePadNone=nic
+
+tagGamePadCharacter=Postava
+tagGamePadSkills=Dovednosti
+tagGamePadMap=Mapa
+tagGamePadFactions=Frakce
+tagGamePadAchieve=Úspěchy
+tagGamePadLootFilter=Filtr kořisti
+tagGamePadDevotionSearch=Hledat
+tagGamePadMinimapSize=Mini mapa
+
+tagControllerUIWarning=Současné nastavení monitoru neumožňuje použít rozhraní ovladače.
+
+tagShieldBlockInfo={%.0f0}% šance na vykrytí {^W}{%.0f1} zranění
+
+
+
+SkillManaCostReduction=-{%.0f0}% {^E}magické energie dovednosti
+SkillCooldownReduction=-{%.0f0}% {^E}snížení času obnovy dovednosti
+SkillProjectileSpeedModifier={%+.0f0}% {^E}zrychlení projektilů
+SkillManaCostReductionModifier=-{%.0f0}% {^E}magické energie dovednosti
+SkillCooldownReductionModifier=-{%.0f0}% {^E}času obnovy dovednosti
+
+GlobalChanceOfAllTag={^E}šance na: {^H}
+GlobalChanceOfOneTag={^E}šance na jedno z následujících: {^H}
+GlobalPercentChanceOfAllTag={%.1f0}% {^E}šance na: {^H}
+GlobalPercentChanceOfOneTag={%.1f0}% {^E}šance na jedno z následujících: {^H}
+tagIndent={     }
+tagDamageAbsorptionTitle={^E}Ochrana proti:
+formatQualifyingDamage={     {^E}%s0}
+tagQualifyingDamagePhysical=fyzickému zranění
+tagQualifyingDamagePierce=probodnutí
+tagQualifyingDamageLightning=elektrickém výbojům
+tagQualifyingDamageFire=ohni
+tagQualifyingDamageCold=ledu
+tagQualifyingDamagePoison=jedu nebo kyselině
+tagQualifyingDamageLife=sání životní energie
+tagQualifyingDamageBleeding=krvácení
+tagQualifyingDamageElemental=živlům
+tagQualifyingDamageAether=Aetheru
+tagQualifyingDamageChaos=Chaosu
+
+DamageSingleFormat={%.0f0}
+DamageRangeFormat={%.0f0}-{%.0f1}
+DamageInfluenceSingleFormat={%.1f0}
+DamageInfluenceRangeFormat={%.1f0}-{%.1f1}
+DamageReflexSingleFormat={%.1f0}
+DamageReflexRangeFormat={%.1f0}-{%.1f1}
+DamageSingleFormatSecond={^E} po dobu {^H}{%.1f0} {^E}sekund
+DamageSingleFormatTime={^E} po dobu {^H}{%.1f0} {^E}sekund
+DamageRangeFormatTime={^E} po dobu {^H}{%.1f0} - {%.1f1} {^E}sekund
+DamageFixedSingleFormatSecond={^E} po dobu {^H}{%.1f0} {^E}sekund
+DamageFixedSingleFormatTime={^E} po dobu {^H}{%.1f0} {^E}sekund
+DamageFixedRangeFormatTime={^E} po dobu {^H}{%.1f0} - {%.1f1} {^E}sekund
+RetaliationFixedSingleFormatSecond={^H}{%.1f0} {^E}sekundy
+RetaliationFixedSingleFormatTime={^H}{%.1f0} {^E}sekund
+RetaliationFixedRangeFormatTime={^H}{%.1f0} - {%.1f1} {^E}sekund
+tagDurationDamageOverTime={%d0} {^E}zranění za sekundu
+tagDotReductionAbsolute={%d0} {^E}snížení
+tagDotReductionPercent={%d0}% {^E}snížení
+tagDotTimeRemaining={^H}{%.0f0} {^E}sekund zbývá
+tagDotTimeRemainingPrecise={^H}{%.1f0} {^E}sekund zbývá
+tagDurationFumble={%d0}% {^E}šance minout
+tagDurationDamageMultiplier={^E}O {^H}{%d0}% {^E}větší škoda
+tagDotBleeding=Krvácení
+tagDotCold=Omrzliny
+tagDotFire=Popáleniny
+tagDotPoison=Otrava
+tagDotLightning=Elektrický šok
+tagDotChaos=Chaos
+tagDotAether=Aether
+tagDotVitality=Chřadnutí
+tagDotLifeLeech=Vysátí života
+tagDotManaLeech=Vysátí energie
+tagDotPhysical=Vnitřní krvácení
+tagDotAttackSpeed=Rychlost útoku
+tagDotCastSpeed=Rychlost kouzlení
+tagDotRunSpeed=Rychlost běhu
+tagDotOffensiveAbility=Útočná schopnost
+tagDotDefensiveAbility=Obranná schopnost
+tagDotFumble=Slabost v rukách
+tagDotRangedFumble=Zhoršené zamíření
+tagDotTotalDamageReduction=Celkové zranění
+tagDotPhysicalDamageReduction=Fyzické zranění
+tagDotElementalDamageReduction=Zranění živly
+tagDotTotalResistReduction=Celková odolnost
+tagDotPhysicalResistReduction=Fyzická odolnost
+tagDotElementalResistReduction=Odolnost vůči živlům
+tagDotStun=Ochromený
+tagDotSleep=Spící
+tagDotTrap=V pasti
+tagDotFreeze=Zmražený
+tagDotPetrify=Ochromený
+tagDotDamageMutiplier=Rozpolcený
+
+tagSetItems={%d0} části setu
+tagSecond={^E}sekund
+tagSeconds={^E}sekundy
+DamagePerSecond={%.0f0} {^S}zranění za sekundu (pokud máš na sobě)
+DamagePerSecondOffHand={%.0f0} {^S}zranění za sekundu (příruční předmět)
+DamagePhysicalChance={%t0} {^K}fyzického zranění{^E}
+DamageBasePhysical={%t0} {^K}fyzického zranění{^S}
+DamageBasePierceRatio={%.0f0}% {^S}proražení zbroje
+DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}proražení zbroje
+DamageBonusPhysical={%t0} {^K}fyzického zranění{^E}
+tagDamageBaseFire={%t0} {^O}zranění ohněm{^S}
+tagDamageBaseLightning={%t0} {^Z}zranění elektrickým výbojem{^S}
+tagDamageBaseCold={%t0} {^C}zranění chladem{^S}
+tagDamageBaseVitality={%t0} {^M}zranění sáním životní energie{^S}
+tagDamageBasePoison={%t0} {^L}zranění jedem{^S}
+tagDamageBaseChaos={%t0} {^P}zranění Chaosem{^S}
+tagDamageBaseAether={%t0} {^A}zranění Aetherem{^S}
+DamageCold={%t0} {^C}zranění chladem{^E}
+DamageFire={%t0} {^O}zranění ohněm{^E}
+DamageAether={%t0} {^A}zranění Aetherem{^E}
+DamageChaos={%t0} {^P}zranění Chaosem{^E}
+DamageLife={%t0} {^M}zranění sáním životní energie{^E}
+DamageLifeLeech={%t0}% {^E}útočného zranění převedeno do zdraví
+DamageLightning={%t0} {^Z}zranění elektrickým výbojem{^E}
+DamageElemental={%t0} {^Y}zranění živly{^E}
+DamageModifierElemental={%+.0f0}% {^Y}zranění živly{^E}
+DamageModifierElementalR={%+.0f0}-{%.0f1}% {^Y}zranění živly{^E}
+DamagePhysical=+{%t0} {^K}fyzického zranění{^E}
+DamagePierce={%t0} {^R}zranění probodnutím{^E}
+DamagePoison={%t0} {^L}zranění jedem{^E}
+DamageKnockdown={^E}Sražení protivníka{^H}{%t0}
+DamageStun={^E}Omráčení protivníka{%t0}
+DamageFreeze={^E}Zmražení protivníka{%t0}
+DamagePetrify={^E}Ochromení protivníka{%t0}
+DamageTrap={^E}Znehybnění protivníka{%t0}
+DamageTaunt={^E}Posměch nepříteli
+DamageThreat={^E}Způsobuje další zranění
+DamageConvert={^E}Ovládnutí protivníkovy mysli{%t0}
+DamageFear={^E}Vyděšení nepřítele{%t0}
+DamageConfusion={^E}Zmatení nepřítele{%t0}
+DamageDisruption={^E}Přerušení protivníkovy dovednosti{%t0}
+DamagePercentCurrentLife={^E}Snížení protivníkova zdraví o {^H}{%t0}%
+DamageManaDrain={%t0}% {^E}spálené magické energie
+DamageManaBurnRatio= {^E}({^H}{%.0f0}% {^E}spálené magické energie způsobené zraněním)
+DamageModifierManaBurn={%.0f0}% {^E}spálené magické energie způsobené zraněním
+
+DamageDurationAttackSpeed=% {^E}zpomalení nepřátelského útoku
+DamageDurationCold= {^C}zranění omrzlinami{^E}
+DamageDurationReduced= {^E}snížení obrany
+DamageDurationFire= {^O}zranění popáleninami{^E}
+DamageDurationLife= {^M}zranění chřadnutím{^E}
+DamageDurationLifeLeach= {^E}zranění vysátím života
+DamageDurationLightning= {^Z}zranění elektrickým šokem{^E}
+DamageDurationManaLeach= {^E}vysátím magické energie
+DamageDurationOffensiveAbility= {^E}snížení nepřátelské útočné schopnosti
+DamageDurationOffensiveReduction= {^E}snížení nepřátelského fyzického zranění
+DamageDurationDefensiveAbility= {^E}snížení nepřátelské obranyschopnosti
+DamageDurationDefensiveReduction= {^E}snížení nepřátelské zbroje
+DamageDurationPhysical= {^K}zranění vnitřním krvácením{^E}
+DamageDurationPoison= {^L}zranění otravou{^E}
+DamageDurationTotalSpeed=% {^E}zpomalení nepřítele
+DamageDurationRunSpeed=% {^E}zpomalení nepřátelského pohybu
+DamageDurationSpellCastSpeed=% {^E}zpomalení nepřátelského kouzlení
+DamageDurationBleeding= {^R}zranění krvácením{^E}
+DamageDurationElemental= {^Y}zranění živelným útokem{^E}
+
+DamageTotalDamageReductionPercent=% {^E}snížení nepřátelského zranění
+DamageTotalDamageReductionAbsolute= {^E}snížení nepřátelského zranění
+DamagePhysicalReductionPercent=% {^E}snížení nepřátelského fyzického zranění
+DamageElementalReductionPercent=% {^E}snížení nepřátelského živelného zranění
+DamageTotalResistanceReductionPercent=% {^E}snížení nepřátelských odolností
+DamageTotalResistanceReductionAbsolute= {^E}snížení nepřátelských odolností
+DamagePhysicalResistanceReductionPercent=% {^E}snížení nepřátelských fyzických odolnosti
+DamagePhysicalResistanceReductionAbsolute= {^E}snížení nepřátelských fyzických odolností
+DamageElementalResistanceReductionPercent=% {^E}snížení nepřátelských odolností vůči živlům
+DamageElementalResistanceReductionAbsolute= {^E}snížení nepřátelských odolností vůči živlům
+DamageDurationFumble=% {^E}šance, že nepřítel promáchne svůj útok
+DamageDurationProjectileFumble=% {^E}šance narušení zaměření nepřítele
+DamageDurationDamageMult=% {^E}Rozpolcený
+DamageDurationModifierDamageMult={%+.0f0}% {^E}Zvýšení rozpolcení
+
+DamageModifierPhysical={%+.0f0}% {^K}fyzického zranění{^E}
+DamageModifierPhysicalR={%+.0f0}-{%.0f1} % {^K}fyzického zranění{^E}
+DamageModifierPierceRatio={^E}Zvyšuje proražení zbroje o {^H}{%.0f0}%
+DamageModifierPierceRatioR={^E}Zvyšuje proražení zbroje o {^H}{%.0f0}-{%.0f1}%
+DamageModifierPierce={%+.0f0}% {^R}zranění probodnutím{^E}
+DamageModifierPierceR={%+.0f0}-{%.0f1}% {^R}zranění probodnutím{^E}
+DamageModifierCold={%+.0f0}% {^C}zranění chladem{^E}
+DamageModifierColdR={%+.0f0}-{%.0f1}% {^C}zranění chladem{^E}
+DamageModifierFire={%+.0f0}% {^O}zranění ohněm{^E}
+DamageModifierFireR={%+.0f0}-{%.0f1}% {^O}zranění ohněm{^E}
+DamageModifierPoison={%+.0f0}% {^L}zranění jedem{^E}
+DamageModifierPoisonR={%+.0f0}-{%.0f1}% {^L}zranění jedem{^E}
+DamageModifierLightning={%+.0f0}% {^Z}zranění elektrickým výbojem{^E}
+DamageModifierLightningR={%+.0f0}-{%.0f1}% {^Z}zranění elektrickým výbojem{^E}
+DamageModifierLife={%+.0f0}% {^M}zranění sáním životní energie{^E}
+DamageModifierLifeR={%+.0f0}-{%.0f1}% {^M}zranění sáním životní energie{^E}
+DamageModifierStun={%+.0f0}% {^E}trvání omráčení
+DamageModifierStunR={%+.0f0}-{%.0f1}% {^E}trvání omráčení
+DamageModifierChaos={%+.0f0}% {^P}zranění Chaosem{^E}
+DamageModifierChaosR={%+.0f0}-{%.0f1}% {^P}zranění Chaosem{^E}
+DamageModifierAether={%+.0f0}% {^A}zranění Aetherem{^E}
+DamageModifierAetherR={%+.0f0}-{%.0f1}% {^A}zranění Aetherem{^E}
+DamageModifierKnockdown={%+.0f0}% {^E}trvání doby sražení
+DamageModifierKnockdownR={%+.0f0}-{%.0f1}% {^E}trvání doby sražení
+DamageModifierTrap={%+.0f0}% {^E}trvání pasti
+DamageModifierTrapR={%+.0f0}-{%.0f1}% {^E}trvání pasti
+DamageModifierFreeze={%+.0f0}% {^E}trvání doby zmražení
+DamageModifierFreezeR={%+.0f0}-{%.0f1}% {^E}trvání doby zmražení
+DamageModifierPetrify={%+.0f0}% {^E}trvání doby ochromení
+DamageModifierPetrifyR={%+.0f0}-{%.0f1}% {^E}trvání doby ochromení
+
+DamageDurationModifierPhysical={%+.0f0}% {^K}zranění vnitřním krvácením{^E}
+DamageDurationModifierBleeding={%+.0f0}% {^R}zranění krvácením{^E}
+DamageDurationModifierCold={%+.0f0}% {^C}zranění omrzlinami{^E}
+DamageDurationModifierFire={%+.0f0}% {^O}zranění popáleninami{^E}
+DamageDurationModifierPoison={%+.0f0}% {^L}zranění otravou{^E}
+DamageDurationModifierLightning={%+.0f0}% {^Z}zranění elektrickým šokem{^E}
+DamageDurationModifierLife={%+.0f0}% {^M}zranění chřadnutím{^E}
+DamageDurationModifierAttackSpeed={%+.0f0}% {^E}zpomalení útoku
+DamageDurationModifierSpellCastSpeed={%+.0f0}% {^E}zpomalení kouzlení
+DamageDurationModifierRunSpeed={%+.0f0}% {^E}zpomalení pohybu
+DamageDurationModifierLifeLeach={%+.0f0}% {^E}zranění vysátím života
+DamageDurationModifierManaLeach={%+.0f0}% {^E}vysátí magické energie
+DamageDurationModifierOffensiveAbility={^E}snížení nepřátelské útočné schopnosti o {^H}{%+.0f0} %
+DamageDurationModifierDefensiveAbility={^E}snížení nepřátelské obranné schopnosti o {^H}{%+.0f0} %
+DamageDurationModifierOffensiveReduction={^E}snížení nepřátelského fyzického zranění o {%+.0f0} %
+ImprovedTimeFormat= {^E}se zvýšenou dobou trvání o {^H}{%+.0f0} %
+ImprovedTimeFormatR= {^E}se zvýšenou dobou trvání o {^H}{%+.0f0}-{%.0f1} %
+IncreasedDuration={^H}{%+.0f0}% {^E}zvýšené{%s1} doby trvání
+
+RetaliationCold={%t0} {^C}odplata chladem{^E}
+RetaliationFire={%t0} {^O}odplata ohněm{^E}
+RetaliationLife={%t0} {^M}odplata sáním životní energie{^E}
+RetaliationLightning={%t0} {^Z}odplata elektrickým výbojem{^E}
+RetaliationElemental={%t0} {^Y}odplata živelným útokem{^E}
+RetaliationPhysical={%t0} {^K}odplata fyzickým zraněním{^E}
+RetaliationPierce={%t0} {^R}odplata probodnutím{^E}
+RetaliationPoison={%t0} {^L}odplata jedem{^E}
+RetaliationAether={%t0} {^A}odplata Aetherem{^E}
+RetaliationChaos={%t0} {^P}odplata Chaosem{^E}
+RetaliationStun={%t0} odplata omráčením
+RetaliationFreeze={%t0} odplata zmražením
+RetaliationPetrify={%t0} odplata ochromením
+RetaliationTrap={%t0} odplata znehybněním
+RetaliationConvert={%t0} odplata ovládnutím mysli
+RetaliationFear={%t0} odplata vyděšením
+RetaliationConfusion={%t0} odplata zmatením smyslů
+RetaliationSleep={%t0} odplata uspáním
+RetaliationPercentCurrentLife={^E}Odplata způsobí {^H}{%t0}% {^E}snížení života nepřítele
+RetaliationDurationAttackSpeed=% {^E}odplata zpomalením útoku
+RetaliationDurationCold= {^C}odplata omrzlinami{^E}
+RetaliationDurationDefensiveAbility= {^E}odplata snížením obrany
+RetaliationDurationFire= {^O}odplata popáleninami{^E}
+RetaliationDurationLife= {^M}odplata chřadnutím{^E}
+RetaliationDurationLifeLeach= {^E}odplata vysátím života
+RetaliationDurationLightning= {^Z}odplata elektrickým šokem{^E}
+RetaliationDurationManaLeach= {^E}odplata vysátím magické energie
+RetaliationDurationOffensiveAbility= {^E}snížení odplaty útočnou schopností
+RetaliationDurationOffensiveReduction= {^E}odplata snížením zranění
+RetaliationDurationPhysical= {^K}odplata vnitřním krvácením{^E}
+RetaliationDurationBleeding= {^R}odplata krvácením{^E}
+RetaliationDurationPoison= {^L}odplata otravou{^E}
+RetaliationDurationRunSpeed=% {^E}odplata zpomalením pohybu
+RetaliationDurationSpellCastSpeed=% {^E}odplata zpomalením kouzlení
+RetaliationModifierPhysical={%+.0f0}% {^K}odplata fyzickým zraněním{^E}
+RetaliationModifierPierceRatio={%+.0f0}% {^R}odplata probodnutím{^E}
+RetaliationModifierPierce={%+.0f0}% {^R}odplata bodným zraněním{^E}
+RetaliationModifierCold={%+.0f0}% {^C}odplata chladem{^E}
+RetaliationModifierFire={%+.0f0}% {^O}odplata ohněm{^E}
+RetaliationModifierPoison={%+.0f0}% {^L}odplata jedem{^E}
+RetaliationModifierLightning={%+.0f0}% {^Z}odplata elektrickým výbojem{^E}
+RetaliationModifierAether={%+.0f0}% {^A}odplata Aetherem{^E}
+RetaliationModifierChaos={%+.0f0}% {^P}odplata Chaosem{^E}
+RetaliationModifierElemental={%+.0f0}% {^Y}odplata živly{^E}
+RetaliationModifierLife={%+.0f0}% {^M}odplata sáním životní energie{^E}
+RetaliationModifierStun={%+.0f0}% {^E}odplata omráčením
+RetaliationModifierSleep={%+.0f0}% {^E}odplata spánkem
+RetaliationDurationModifierPhysical={%+.0f0}% {^K}odplata vnitřním krvácením{^E}
+RetaliationDurationModifierBleeding={%+.0f0}% {^R}odplata krvácením{^E}
+RetaliationDurationModifierCold={%+.0f0}% {^C}odplata omrzlinami{^E}
+RetaliationDurationModifierDefensiveAbility={%+.0f0}% {^E}odplata snížením obrany
+RetaliationDurationModifierFire={%+.0f0}% {^O}odplata popáleninami{^E}
+RetaliationDurationModifierLife={%+.0f0}% {^M}odplata chřadnutím{^E}
+RetaliationDurationModifierLifeLeach={%+.0f0}% {^E}odplata vysátím života
+RetaliationDurationModifierLightning={%+.0f0}% {^Z}odplata elektrickým šokem{^E}
+RetaliationDurationModifierManaLeach={%+.0f0}% {^E}odplata vysátím magické energie
+RetaliationDurationModifierOffensiveAbility={%+.0f0}% {^E}odplata snížím útočné schopnosti
+RetaliationDurationModifierOffensiveReduction={%+.0f0}% {^E}odplata snížením zranění
+RetaliationDurationModifierPoison={%+.0f0}% {^L}odplata otravou{^E}
+
+DefenseAbsorptionProtection={%.0f0} zbroje
+DefenseAbsorptionProtectionR={%.0f0}-{%.0f1} zbroje
+DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}zbroje
+DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^E}zbroje
+DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}bonusové zbroje
+DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}bonusové zbroje
+DefensePhysical={%.0f0}% {^K}fyzické odolnosti{^E}
+DefensePhysicalR={%.0f0}-{%.0f1}% {^K}fyzické odolnosti{^E}
+DefensePierce={%.0f0}% {^R}odolnost vůči probodnutí{^E}
+DefensePierceR={%.0f0}-{%.0f1}% {^R}odolnost vůči probodnutí{^E}
+DefenseElementalResistance={%.0f0}% {^Y}odolnost vůči živlům{^E}
+DefenseElementalResistanceR={%.0f0}-{%.0f1}% {^Y}odolnost vůči živlům{^E}
+DefenseCold={%.0f0}% {^C}odolnost vůči chladu{^E}
+DefenseColdR={%.0f0}-{%.0f1}% {^C}odolnost vůči chladu{^E}
+DefenseFire={%.0f0}% {^O}odolnost vůči ohni{^E}
+DefenseFireR={%.0f0}-{%.0f1}% {^O}odolnost vůči ohni{^E}
+DefenseAether={%.0f0}% {^A}odolnost vůči Aetheru{^E}
+DefenseAetherR={%.0f0}-{%.0f1}% {^A}odolnost vůči Aetheru{^E}
+DefenseChaos={%.0f0}% {^P}odolnost vůči Chaosu{^E}
+DefenseChaosR={%.0f0}-{%.0f1}% {^P}odolnost vůči Chaosu{^E}
+DefensePoison={%.0f0}% {^L}odolnost vůči jedům a kyselinám{^E}
+DefensePoisonR={%.0f0}-{%.0f1}% {^L}odolnost vůči jedům a kyselinám{^E}
+DefenseLightning={%.0f0}% {^Z}odolnost vůči elektrickým výbojům{^E}
+DefenseLightningR={%.0f0}-{%.0f1}% {^Z}odolnost vůči elektrickým výbojům{^E}
+DefenseLife={%.0f0}% {^M}odolnost vůči sání životní energie{^E}
+DefenseLifeR={%.0f0}-{%.0f1}% {^M}odolnost vůči sání životní energie{^E}
+DefenseStun={%.0f0}% {^E}snížení doby trvání omráčení
+DefenseStunNegative={%.0f0}% {^E}odolnost vůči omráčení
+DefenseStunR={%.0f0}-{%.0f1}% {^E}snížení trvání omráčení
+DefenseLifeLeach={%.0f0}% {^E}odolnost vůči vysátí života
+DefenseLifeLeachR={%.0f0}-{%.0f1}% {^E}odolnost vůči vysátí života
+DefenseManaLeach={%.0f0}% {^E}odolnost vůči vysátí magické energie
+DefenseManaLeachR={%.0f0}-{%.0f1}% {^E}odolnost vůči vysátí magické energie
+DefenseTrap={%.0f0}% {^E}snížení doby chycení do pasti
+DefenseTrapNegative={%.0f0}% {^E}odolnosti vůči chycení do pasti
+DefenseTrapR={%.0f0}-{%.0f1}% {^E}snížení doby chycení do pasti
+DefenseFreeze={%.0f0}% {^E}snížení doby zmrazení
+DefenseFreezeNegative={%.0f0}% {^E}odolnost vůči zmrazení
+DefenseFreezeR={%.0f0}-{%.0f1}% {^E}snížení doby zmrazení
+DefenseKnockdown={%.0f0}% {^E}snížení doby sražení
+DefenseKnockdownNegative={%.0f0}% {^E}odolnost vůči sražení
+DefenseKnockdownR={%.0f0}-{%.0f1}% {^E}snížení doby sražení
+DefensePetrify={%.0f0}% {^E}snížení doby ochromení
+DefensePetrifyNegative={%.0f0}% {^E}odolnost vůči ochromení
+DefensePetrifyR={%.0f0}-{%.0f1}% {^E}snížení doby ochromení
+DefenseTaunt={%.0f0}% {^E}ochrana proti vyprovokání
+DefenseConvert={%.0f0}% {^E}snížení doby trvání ovládnutí mysli
+DefenseFear={%.0f0}% {^E}snížení doby trvání strachu
+DefenseConfusion={%.0f0}% {^E}odolnost vůči zmatení
+DefenseDisruption={%.0f0}% {^E}ochrany před přerušením dovednosti
+DefensePercentLife={%.0f0}% {^E}odolnost vůči sání životní energie
+DefenseBleeding={%.0f0}% {^R}odolnost vůči krvácení{^E}
+DefenseBleedingR={%.0f0}-{%.0f1}% {^R}odolnost vůči krvácení{^E}
+DefenseBlock={%.0f0} {^E}vykrytého zranění
+DefenseReflect={%.0f0}% {^E}odraženého zranění
+DefenseReflectR={^H}{%.0f0}-{%.0f1}% {^E}odraženého zranění
+DefensePhysicalDuration={%.0f0}% {^K}snížení doby trvání vnitřního krvácení{^E}
+DefenseBleedingDuration={%.0f0}% {^R}snížení doby trvání krvácení{^E}
+DefenseColdDuration={%.0f0}% {^C}snížení doby působení omrzlin{^E}
+DefenseFireDuration={%.0f0}% {^O}snížení doby působení popálenin{^E}
+DefensePoisonDuration={%.0f0}% {^L}snížení doby působení otravy{^E}
+DefenseLightningDuration={%.0f0}% {^Z}snížení doby působení elektrického šoku{^E}
+DefenseLifeDuration={%.0f0}% {^M}snížení doby působení chřadnutí{^E}
+DefenseLifeLeachDuration={%.0f0}% {^E}snížení doby působení vysávání života
+DefenseManaLeachDuration={%.0f0}% {^E}snížení doby působení vysávání magické energie
+DefensePercentCurrentLife={%.0f0}% {^E}odolnost vůči ztrátě života
+DefenseManaBurnRatio={%.0f0}% {^E}odolnosti vůči spálení magické energie
+DefenseProtectionModifier={^E}Zesílení zbroje o {^H}{%.0f0} %
+DefenseProtectionModifierR={^E}Zesílení zbroje o {^H}{%.0f0}-{%.0f1} %
+DefenseAbsorptionModifier={^E}Zvýšení pohlcení zranění o {^H}{%.0f0}%
+DefenseAbsorptionModifierR={^E}Zvýšení pohlcení zranění o {^H}{%.0f0}-{%.0f1}%
+DefensePhysicalModifier={^H}{%.0f0}% {^K}zvýšení současné fyzické odolnosti{^E}
+DefensePierceModifier={^H}{%.0f0}% {^R}zvýšení současné odolnosti vůči probodnutí{^E}
+DefenseColdModifier={^H}{%.0f0}% {^C}zvýšení současné odolnosti vůči chladu{^E}
+DefenseFireModifier={^H}{%.0f0}% {^O}zvýšení současné odolnosti vůči ohni{^E}
+DefensePoisonModifier={^H}{%.0f0}% {^L}zvýšení současné odolnosti vůči jedům a kyselinám{^E}
+DefenseLightningModifier={^H}{%.0f0}% {^Z}zvýšení současné odolnosti vůči elektrickým výbojům{^E}
+DefenseLifeModifier={^H}{%.0f0}% {^M}zvýšení současné odolnosti vůči sání životní energie{^E}
+DefenseChaosModifier={^H}{%.0f0}% {^P}zvýšení současné odolnosti vůči Chaosu{^E}
+DefenseAetherModifier={^H}{%.0f0}% {^A}zvýšení odolnosti vůči Aetheru{^E}
+DefenseStunModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči omráčení
+DefenseBlockModifier={^H}{%+.0f0}% {^E}zvýšení šance vykrytí štítem
+DefenseBlockAmountModifier={^H}{%+.0f0}% {^E}zranění vykryto štítem
+DefenseBlockAmountModifierR={%+.0f0} až {%+.0f1}% {^E}zranění vykryto štítem
+DefenseReflectModifier={%+.0f0}% {^E}odraženého zranění
+DefenseLifeLeachModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči vysátí života
+DefenseManaLeachModifier={^H}{%.0f0}% {^E}zvýšení současné odolnosti vůči vysátí magické energie
+DefensePercentLifeModifier={^H}{%.0f0}% {^E}zvýšení odolnosti vůči procentuální ztrátě života
+DefenseBleedingModifier={^H}{%.0f0}% {^R}zvýšení současné odolnosti vůči krvácení{^E}
+DefenseElementalModifier={^H}{%.0f0}% {^Y}zvýšení současné odolnosti vůči živlům{^E}
+DefensePhysicalDurationModifier={%+.0f0}% {^K}snížení doby zranění{^E}
+DefenseBleedingDurationModifier={%+.0f0}% {^E}snížení doby krvácení
+DefenseColdDurationModifier={%+.0f0}% {^C}snížení doby působení omrzlin{^E}
+DefenseFireDurationModifier={%+.0f0}% {^O}snížení doby působení popálenin{^E}
+DefensePoisonDurationModifier={%+.0f0}% {^L}snížení doby působení otravy{^E}
+DefenseLightningDurationModifier={%+.0f0}% {^Z}snížení doby působení elektrického šoku{^E}
+DefenseLifeDurationModifier={%+.0f0}% {^M}snížení doby působení chřadnutí{^E}
+DefenseLifeLeachDurationModifier={%+.0f0}% {^E}snížení doby působení vysávání života
+DefenseManaLeachDurationModifier={%+.0f0}% {^E}snížení doby působení vysávání magické energie
+DefensePhysicalMaxResist={%+.0f0} % {^K}k maximu fyzické odolnosti{^E}
+DefensePhysicalMaxResistR={%+.0f0}-{%.0f1} % {^K}k maximu fyzické odolnosti{^E}
+DefensePierceMaxResist={%+.0f0} % {^R}k maximu odolnosti vůči probodnutí{^E}
+DefensePierceMaxResistR={%+.0f0}-{%.0f1} % {^R}k maximu odolnosti vůči probodnutí{^E}
+DefenseColdMaxResist={%+.0f0} % {^C}k maximu odolnosti vůči chladu{^E}
+DefenseColdMaxResistR={%+.0f0}-{%.0f1} % {^C}k maximu odolnosti vůči chladu{^E}
+DefenseFireMaxResist={%+.0f0} % {^O}k maximu odolnosti vůči ohni{^E}
+DefenseFireMaxResistR={%+.0f0}-{%.0f1} % {^O}k maximu odolnosti vůči ohni{^E}
+DefenseAetherMaxResist={%+.0f0} % {^A}k maximu odolnosti vůči Aetheru{^E}
+DefenseAetherMaxResistR={%+.0f0}-{%.0f1} % {^A}k maximu odolnosti vůči Aetheru{^E}
+DefenseChaosMaxResist={%+.0f0} % {^P}k maximu odolnosti vůči Chaosu{^E}
+DefenseChaosMaxResistR={%+.0f0}-{%.0f1} % {^P}k maximu odolnosti vůči Chaosu{^E}
+DefensePoisonMaxResist={%+.0f0} % {^L}k maximu odolnosti vůči jedům a kyselinám{^E}
+DefensePoisonMaxResistR={%+.0f0}-{%.0f1} % {^L}k maximu odolnosti vůči jedům a kyselinám{^E}
+DefenseLightningMaxResist={%+.0f0} % {^Z}k maximu odolnosti vůči elektrickým výbojům{^E}
+DefenseLightningMaxResistR={^Z}{%+.0f0}-{%.0f1} % {^Ek maximu odolnosti vůči elektrickým výbojům
+DefenseLifeMaxResist={%+.0f0} % {^M}k maximu odolnosti vůči sání životní energie{^E}
+DefenseLifeMaxResistR={%+.0f0}-{%.0f1} % {^M}k maximu odolnosti vůči sání životní energie{^E}
+DefenseStunMaxResist={%+.0f0} % {^E}k maximu snížení doby trvání omráčení
+DefenseStunMaxResistR={%+.0f0}-{%.0f1} % {^E}k maximu snížení doby trvání omráčení
+DefenseLifeLeachMaxResist={%+.0f0} % {^E}k maximu odolnosti vůči vysátí života
+DefenseLifeLeachMaxResistR={%+.0f0}-{%.0f1} % {^E}k maximu odolnosti vůči vysátí života
+DefenseManaLeachMaxResist={%+.0f0} % {^E}k maximu odolnosti vůči vysátí magické energie
+DefenseManaLeachMaxResistR={%+.0f0}-{%.0f1} % {^E}k maximu odolnosti vůči vysátí magické energie
+DefenseTrapMaxResist={%+.0f0} % {^E}k maximu snížení doby trvání účinků pastí
+DefenseTrapMaxResistR={%+.0f0}-{%.0f1} % {^E}k maximu snížení doby trvání účinků pastí
+DefenseFreezeMaxResist={%+.0f0} % {^E}k maximu snížení doby trvání zmražení
+DefenseFreezeMaxResistR={%+.0f0}-{%.0f1} % {^E}k maximu snížení doby trvání zmražení
+DefensePetrifyMaxResist={%+.0f0} % {^E}k maximu snížení doby trvání ochromení
+DefensePetrifyMaxResistR={%+.0f0}-{%.0f1} % {^E}k maximu snížení doby trvání ochromení
+DefenseDisruptionMaxResist={%+.0f0} % {^E}k maximu ochrany před přerušením dovednosti
+DefenseDisruptionMaxResistR={%+.0f0}-{%.0f1} % {^E}k maximu ochrany před přerušením dovednosti
+DefenseBleedingMaxResist={%+.0f0} % {^R}k maximu odolnosti vůči krvácení{^E}
+DefenseBleedingMaxResistR={%+.0f0}-{%.0f1} % {^R}k maximu odolnosti vůči krvácení{^E}
+DefenseSleepMaxResist={%+.0f0} % {^E}k maximu odolnosti vůči uspání
+DefenseSleepMaxResistR={%+.0f0}-{%.0f1} % {^E}k maximu odolnosti vůči uspání
+DefenseAllMaxResist={%+.0f0} % {^E}k maximum všech odolností
+DefenseAllMaxResistR={%+.0f0}-{%.0f1} % {^E}k maximu všech odolností
+DefenseReflectResist={%.0f0} % {^E}snížené odražení zranění
+DefenseReflectResistR={%+.0f0}-{%.0f1} % {^E}snížené odražení zranění
+
+RacialBonusPercentDamage={%+.0f0} % {^E}zranění frakci {^H}{%s1}
+RacialBonusAbsoluteDamage={%+.0f0} {^E}zranění frakci {^H}{%s1}
+RacialBonusPercentDefense={^E}{%s1} ti udělí o {^H}{%.0f0} % {^E}menší zranění
+RacialBonusAbsoluteDefense={^E}{%s1} ti udělí o {^H}{%.0f0} % {^E}menší zranění
+RacialBonusRaceName={%s0}
+
+
+tagDamageSleep={^E}Uspat nepřítele {%t0}
+tagDamageModifierSleep={%+.0f0}% {^E}zranění uspáním
+tagDefenseSleep={%.0f0}% {^E}odolnost vůči spánku
+tagDefenseSleepModifier={%+.0f0}% {^E}odolnost vůči uspání
+tagDamageModifierTotalDamage={%+.0f0}% {^X}k celkovému zranění{^E}
+tagDamageModifierCritDamage={%+.0f0}% {^X}kritického zranění{^E}
+tagDamageModifierCritDamageR={%+.0f0}-{%.0f1}% {^X}kritického zranění{^E}
+tagDamageModifierDamageMult={^H}{%.0f0}% {^X}celkového zranění{^E}
+tagRetaliationModifierTotalDamage={%+.0f0}% {^X}ke všem zraněním odplatou{^E}
+tagRetaliationModifierTotalDamageR={%+.0f0}-{%.0f1}% {^X}ke všem zraněním odplatou{^E}
+tagRetaliationModifierDamageMult={^X}Celkové zranění odplatou je změněno o {^H}{%.0f0} %{^E}
+tagTotalSpeedResistance={%.0f0}% {^E}odolnost vůči zpomalení
+tagTotalSpeedResistanceR={%+.0f0}-{%.0f1}% {^E}odolnost vůči zpomalení
+tagMindcontrolledMonster=Ovládaný myšlenkami
+tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}šance ovlivnit {^H}{%d1} {^E}nepřítele
+tagSparkMaxNumberChanceSingleMod={^H}+{%.0f0}% {^E}šance ovlivnit {^H}{%d1} {^E}nepřítele
+tagSparkMaxNumberChance={^H}{%.0f0}% {^E}šance ovlivnit až {^H}{%d1} {^E}nepřátel
+tagSparkMaxNumberChanceMod={^H}+{%.0f0}% {^E}šance ovlivnit až {^H}{%d1} {^E}nepřátel
+tagSparkMaxNumberSingle={^E}Ovlivňuje {^H}{%d0} {^E}nepřítele
+tagSparkMaxNumberSingleMod={^E}Ovlivňuje {^H}+{%d0} {^E}nepřítele
+tagSparkMaxNumber={^E}Ovlivňuje až {^H}{%d0} {^E}nepřátel
+tagSparkMaxNumberMod={^E}Ovlivňuje až {^H}+{%d0} {^E}nepřátel
+
+tagItemGrantSkill=Přiděluje dovednost:
+tagItemSkill= {^E}(přiděleno předmětem)
+tagItemSkillShort= (předmět)
+tagEffect=Efekt:
+tagSkillGrantEffect=Nebeská moc:
+tagDevotionAttached=Svázáno s:
+
+tagItemUseDirections=[použij pravým kliknutím]
+
+tagInspectTitle=Prohlédnout
+tagInspectOption=Prohlédnout si hráče
+tagInspectWarning=Tento hráč je příliš daleko než abys sis jej mohl prohlédnout.
+tagGroup01=Povoleny souboje mezi hráči
+tagGroup02=Automatické seskupování povoleno
+tagAutoItemSkill= (uděleno předmětem - pasivní aktivace)
+tagExclusiveSkill=^oVýjimečná dovednost - aktivní může být vždy pouze jedna Výjimečná dovednost.
+tagExclusiveSkillConflict=^rUž máš aktivní silnější exkluzivní dovednost, {%s0}.
+tagAutoToggledSkill=^oBonusy se aktivují automaticky.
+tagItemSkillModified= {^E}do {^Z}{%s0}
+
+tagAutoSort=Automatické řazení
+tagAutoComplete=Celé komponenty
+tagAttributeUndo=Zpět
+
+tagQuestItem=Úkolový předmět
+
+
+tagCR_Jewelry=Šperky:
+tagRelicError=Nemůžeš použít relikvie na veteránské nebo elitní předměty.
+
+tagExperienceDisplayFormat=Aktuální zkušenost: {^y}{%t0}{^w}  ~  Zkušenost na další úroveň: {^y}{%t1}
+tagCXP=Zkušenost: {%t0}
+tagGrave01=Hrob hráče ~ {%t0}
+tagGrave02=Zabil tě {%t0}
+tagGrave03=Znovunavrácené zkušenosti: {%d0}
+tagHeroXPShort={%d0} hrdinských zkušeností
+tagBossXPShort={%d0} zkušeností hlavního padoucha
+tagBossXPLong01=Nepřátelé hlavního padoucha zabiti
+tagBossXPLong02={%d0} přidělených zkušeností
+tagHeroXPLong01=Zabit nepřátelský hrdina
+tagHeroXPLong02={%d0} zkušeností přiděleno
+
+tagPetBonusNameAllPets=Bonus pro všechny spojence
+tagPetBonusNameOnePet=Bonus pro spojence {%s0}
+tagPetBonusNameTwoPets=Bonus pro spojence {%s0} a {%s1}
+tagPetBonusNameManyPets=Bonus pro spojence
+
+TagSpeakerSetup=Nastavení reproduktorů
+TagHeadphoneSpeakers=Sluchátka
+Tag41Speakers=4 reproduktory
+Tag51Speakers=5.1 reproduktorů
+TagKeybind40=Použít alternativní lištu dovedností
+tagKeybindUnassigned=Nepřiřazeno
+
+tagSelectPet1=Výběr 1. spojence
+tagSelectPet2=Výběr 2. spojence
+tagSelectPet3=Výběr 3. spojence
+tagSelectPet4=Výběr 4. spojence
+tagSelectPet5=Výběr 5. spojence
+tagSelectAllPets=Vybrat všechny spojence
+tagPortraitAggressive=Nastavit na agresivní chování
+tagPortraitNormal=Nastavit na normální chování
+tagPortraitDefensive=Nastavit na obranné chování
+tagPortraitHireling=Prohlédnout
+
+tagMove=Pohyb
+tagForceMove=Přímý pohyb
+tagUse=Interakce
+tagPickup=Zvednout
+tagPushToTalk=Režim "vysílačky"
+tagEvade=Únik
+tagUC_Button=Odemknout obsah
+tagUC_Message=Zadej prosím svůj kód pro odemčení nového obsahu.
+tagUC_OK=OK
+tagUC_Cancel=Zrušit
+tagUC_Error=S touto postavou již byl odemčen dodatečný obsah.
+
+tagHotSlotSwap=Přepínání mezi primárním a sekundárním slotem pro zbraň.
+tagHotSlotTitle=Alternativní panel
+tagEmptyHotSlot=Vymazat přidružení k tlačítku.
+
+tagDevotionUnassigned=Žádné dovednosti
+
+#Stack Window
+
+tagStackOk=Ok
+tagStackCancel=Zrušit
+
+#Multiplayer
+
+tagMPTrade=Obchod
+tagMPGroup=Skupina
+tagMPInGame=Ve hře
+tagMPCharName=Jméno postavy
+tagMPCharLevel=Úroveň
+tagMPCharClass=Povolání
+tagMPAdd=Přidat
+tagMPRemove=Odebrat
+tagMPMessage=Zpráva
+tagMPInvite=Pozvat
+tagMPLeave=Opustit skupinu
+tagMPBan=Vykopnout
+tagMPAvailable=Dostupní hráči
+tagMPGroup1=1. skupina
+tagMPGroup2=2. skupina
+tagMPGroup3=3. skupina
+tagMPNoClass=-
+tagMPInviteMessage={%t0} ti poslal pozvánku do skupiny.
+tagMPInviteError={%t0} se už nachází ve skupině.
+tagMPInviteSend={%t0} poslal pozvánku pro přidání do tvé skupiny.
+tagMPInviteRemove={%t0} byl odebrán ze skupiny.
+tagMPMessageJoin={%t0} se přidal do tvé skupiny.
+tagMPMessageLeave={%t0} opustil tvou skupinu.
+tagMPMessageDeny={%t0} odmítl tvou pozvánku.
+tagMPMessageBan={%t0} byl vykopnut ze hry.
+tagMPMessageGameJoin={%t0} se přidal ke hře. Úroveň obtížnosti se přizpůsobila více hráčům.
+tagMPMessageGameLeave={%t0} opustil hru.
+tagMPQuestionBan=Opravdu chceš vykopnout hráče {%t0} ze hry?
+tagMPInviteAccept=Přijmout
+tagMPInviteDeny=Odmítnout
+tagMPStats=Herní statistiky:
+tagMPMapName=Název mapy:
+tagMPServerName=Název serveru:
+tagMPServerAddress=Adresa serveru:
+tagMPPing=Ping:
+tagMPTime=Uplynulý čas:
+tagMPServer=Název serveru: {%t0}
+tagMPIPAddress=IP: {%t0}
+tagMPPort=Port: {%t0}
+tagMPErrorNoTarget=Tento hráč je pro zaměření příliš daleko.
+tagMPNameLevel={%t0} ({%d1})
+tagMPClass={%s0}
+tagMPLocation={%s0}
+tagMPLifeMana={^r}{%d0}/{%d1} {^g}{%d2}/{%d3}
+tagMPReport=Nahlásit
+tagTradeError01=Hráč {%t0} momentálně obchoduje s jiným hráčem.
+tagTradeError02=Hráč {%t0} odmítl tvůj požadavek na obchod.
+tagTradeError03=Hráč {%t0} s tebou chce obchodovat.
+tagTradeError04=Nemáš dostatek místa ve svém inventáři, aby bylo možné přijmout tento obchhod.
+tagTradeButton01=Obchod
+tagTradeButton02=Zrušit
+tagTradeDistance=Tento hráč je příliš daleko na to, aby s ním bylo možné obchodovat.
+tagChatGroup=Skupina
+tagChatAll=VŠICHNI
+tagChatFriends=PŘÁTELÉ
+tagChatReply=ODPOVĚDĚT
+tagChatSpeak=Mluvit s . . .
+tagChatError=Hráč tohoto jména neexistuje.
+tagChatMuted={%t0} je umlčený.
+tagChatUnmuted={%t0} není umlčený.
+tagChatCommandShort01=p
+tagChatCommandShort02=a
+tagChatCommandShort03=r
+tagChatCommandShort04=t
+tagChatCommandShort05=m
+tagChatCommandShort06=u
+
+
+#patch v1.2
+tagToggleUI=Přepnout rozhraní
+tagCharStatsPetStunResist=Odolnost vůči omráčení
+tagCharStatsPetStunResistInfo=Procentuální bonus k odolnosti vůči omráčení tvých mazlíčků a vyvolaných přisluhovačů.
+tagCharStatsPetCritDamage=Kritické poškození
+tagCharStatsPetCritDamageInfo=Procentuální bonus ke kritickému poškození způsobenému tvými mazlíčky a vyvolanými přisluhovači.
+tagCurrentLevelAugment=Současná úroveň : {%d0} + ^B{%d1}
+tagNextLevelAugment=Další úroveň : {%d0} + ^B{%d1}
+tagCurrentLevelExcessAugment=Současná úroveň : {%d0} + ^R{%d1}
+tagNextLevelExcessAugment=Další úroveň : {%d0} + ^R{%d1}
+tagCharStatsReflectResist=Odolnost vůči odražení
+tagHUDHealthPercent_Head={%d0}%
+tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
+tagCharStatsReflectResistInfo=Odolnost vůči odraženým efektům, které tě poškozují.

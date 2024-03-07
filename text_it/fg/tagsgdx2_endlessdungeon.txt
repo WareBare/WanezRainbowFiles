@@ -1,0 +1,234 @@
+#Region Names
+tagGDX2MapEndlessDungeon=Il Reame Infranto
+tagGDX2MapEndlessBoss=Dominio del Guardiano Infranto
+tagGDX2MapEndlessTreasure=Splendori del Reame Infranto
+
+#Shattered Bosses
+tagGDX2EndlessDungeon_Boss01=Direttore Kriev, Guardiano Infranto
+tagGDX2EndlessDungeon_Boss02=Darius Connolay, Anima Infranta
+tagGDX2EndlessDungeon_Boss03=Karriv il Caduto
+tagGDX2EndlessDungeon_Boss03B=Anima di Karriv
+tagGDX2EndlessDungeon_Boss04=Ekket'Zal, Araldo di Yugol
+tagGDX2EndlessDungeon_Boss05=Theodin Maurin, Modellatore dell'Infranto
+tagGDX2EndlessDungeon_Boss06=Attendente Infranto
+tagGDX2EndlessDungeon_Boss07=Lucian, Commandante dell'Infranto
+tagGDX2EndlessDungeon_Boss08=Alkamir, Esecutore Infranto
+tagGDX2EndlessDungeon_Boss09=Shar'Zal, Discendente di Yugol
+tagGDX2EndlessDungeon_Boss10=Gargaban, Cuore Infranto
+tagGDX2EndlessDungeon_Boss11=Sentinella Infranta
+tagGDX2EndlessDungeon_Boss12=Emarginato Infranto
+tagGDX2EndlessDungeon_Boss13=Salazin la Lama Infranta
+tagGDX2EndlessDungeon_Boss14=Hinass Modellatore Infranto
+tagGDX2EndlessDungeon_Boss15=Custode dei Cancelli Infranti
+tagGDX2EndlessDungeon_Boss16=Manifestazione della Fame
+tagGDX2EndlessDungeon_Boss16_Tentacle=Tentacolo Affamato
+tagGDX2EndlessDungeon_Boss16_Void=Vuoto Affamato
+
+tagGDX2EndlessDungeon_Special01=Fanatico ~ Culto della Mina
+tagGDX2EndlessDungeon_Special02=Osservatore Primordiale
+tagGDX2EndlessDungeon_Special03=Cercatore dei Dannati
+tagGDX2EndlessDungeon_Special04=Crate of Entertainment
+tagGDX2EndlessDungeon_Special05=Crate Modesta
+tagGDX2EndlessDungeon_Special06=NAME ME
+tagGDX2EndlessDungeon_Special07=Larva Sovradimensionata Perfettamente Usuale
+tagGDX2EndlessDungeon_Special07B=Larva Sovradimensionata
+tagGDX2EndlessDungeon_Special08=Spirito di Crate
+tagGDX2EndlessDungeon_Special09=Dromedario di Biancosso
+tagGDX2EndlessDungeon_Special10=Dromedario di Biancosso ~ Campione
+tagGDX2EndlessDungeon_Special11=Dromedario di Biancosso ~ Osservatore
+tagGDX2EndlessDungeon_Special12=Larva Affamata
+tagGDX2EndlessDungeon_Special13=Larva Agitata
+tagGDX2EndlessDungeon_Special14=Larva Gonfia
+tagGDX2EndlessDungeon_Special15=Larva Grassa
+tagGDX2EndlessDungeon_Special16=Divoratore Instabile
+tagGDX2EndlessDungeon_Special17=Divoratore Gonfio
+tagGDX2EndlessDungeon_Special18=Hungerling
+
+tagGDX2EndlessDungeon_Lever01=Leva Rossa
+tagGDX2EndlessDungeon_Lever02=Leva Verde
+tagGDX2EndlessDungeon_Lever03=Leva Blu
+tagGDX2EndlessDungeon_Lever04=Leva Gialla
+tagGDX2EndlessDungeon_Lever05=Leva Viola
+tagGDX2EndlessDungeon_Lever06=Leva Bianca
+tagGDX2EndlessDungeon_Door01=Porta Incantata
+tagGDX2EndlessDungeon_Door01_Lock= {^R} ~ Bloccato dalle leve qui vicino
+
+
+tagGDX2EndlessDungeon_Boss_Skill01=Presenza Affamata
+tagGDX2EndlessDungeon_Boss_Skill01_Desc=L'oscurità affamata ti attira, riducendo la tua salute.
+
+tagGDX2EndlessDungeon_Boss_Summon01=Larva Celestiale
+tagGDX2EndlessDungeon_Boss_Summon02=L'Oscurità Affamata
+tagGDX2EndlessDungeon_Boss_Summon02_Skill=L'Oscurità Affamata
+tagGDX2EndlessDungeon_Boss_Summon02_Skill_Desc=Il freddo affamata dell'infinita oscurità ti consuma...lentamente...
+
+tagGDX2EndlessDungeon_S201=Scudo Totalmente Normale
+tagGDX2EndlessDungeon_S201_Desc="I Mancini capiranno."
+tagGDX2EndlessDungeon_S202={^L}Alabarda di Biancosso
+tagGDX2EndlessDungeon_S203={^I}Anello  di Leovinus
+tagGDX2EndlessDungeon_S203_Desc="Un anello straordinariamente conservato fatto di uno strano materiale molto malleabile. Sembra piuttosto ridicolo."
+
+
+#NPCs
+tagGDX2EndlessDungeon_NPC_Event01=Mazaan, Custode dei Portali
+
+tagGDX2EndlessDungeon_NPC_Merchant01=Ullana
+tagGDX2EndlessDungeon_ StoreTitle_Merchant01=Venditore Ambulante Infranto 
+tagGDX2EndlessDungeon_ StoreTitle_Merchant02=Scudiero Infranto
+tagGDX2EndlessDungeon_ StoreTitle_Merchant03=Cavaliere Infranto
+tagGDX2EndlessDungeon_ StoreTitle_Merchant04=Fanciulla Infranta
+tagGDX2EndlessDungeon_ StoreTitle_Merchant05=Guardiano Infranto
+
+
+tagGDX2EndlessDungeon_NPC_Smith01=Ikarrod
+tagGDX2EndlessDungeon_StoreTitle_Smith01=Fabbro Maledetto
+tagGDX2EndlessDungeon_StoreDesc_Smith01_1={}Dono di Non-Vita
+tagGDX2EndlessDungeon_StoreDesc_Smith01_2= Ikarrod è dotato di secoli di conoscenza della forgiatura, rafforzato dal suo unico...stato di esistenza.
+tagGDX2EndlessDungeon_StoreDesc_Smith01_3= 
+tagGDX2EndlessDungeon_StoreDesc_Smith01_4=Armi, armature e accessori realizzati sono impregnati di una delle seguenti proprietà:
+
+tagGDX2EndlessDungeon_NPC_Smuggler01=Agnath
+tagGDX2EndlessDungeon_StoreTitle_Smuggler01=Trafficante Immortale
+
+tagGDX2EndlessDungeon_NPC_Reallocator01=Rathia
+tagGDX2EndlessDungeon_StoreTitle_Reallocator01=Guida Spirituale
+
+tagGDX2EndlessDungeon_NPC_Inventor01=Laduna
+tagGDX2EndlessDungeon_StoreTitle_Inventor01=Inventore Infranto
+
+tagGDX2EndlessDungeon_NPC_PowerUps01=Callagadra, Discendente delle Sabbie
+
+#Shrines
+tagGDX2EndlessDungeon_Shrine01=Santuario di Azrakaa
+tagGDX2EndlessDungeon_Shrine01_Desc=Stringi un patto con Azrakaa, che ti conferisce una maggiore Velocità di Movimento e fa sì che i tuoi attacchi lancino lame spettrali contro i tuoi nemici.
+tagGDX2EndlessDungeon_Shrine01Skill=Patto di Azrakaa
+tagGDX2EndlessDungeon_Shrine01Skill_Desc=Hai stretto un patto con Azrakaa, che ti conferisce una maggiore Velocità di Movimento e fa sì che i tuoi attacchi lancino lame spettrali contro i tuoi nemici.
+tagGDX2EndlessDungeon_Shrine01SkillProc=Lama spettrale
+
+tagGDX2EndlessDungeon_Shrine02=Santuario di Oleron
+tagGDX2EndlessDungeon_Shrine02_Desc=Lasciati pervadere dalla Sete di Sangue di Oleron, che ti conferisce una maggiore Velocità di Movimento e una % Abilità Offensiva molto maggiore.
+tagGDX2EndlessDungeon_Shrine02Skill=Sete di Sangue di Oleron
+tagGDX2EndlessDungeon_Shrine02Skill_Desc=La Sete di Sangue di Oleron ti pervade, e ti conferisce una maggiore Velocità di Movimento e una % Abilità Offensiva molto maggiore.
+
+tagGDX2EndlessDungeon_Shrine03=Santuario di Rattosh
+tagGDX2EndlessDungeon_Shrine03_Desc=Ottieni il potere del guardiano del velo tra i mondi, che ti conferisce una maggiore Velocità di Movimento e fa sì che i tuoi attacchi sottraggano la vita ai tuoi nemici.
+tagGDX2EndlessDungeon_Shrine03Skill=Velo di Rattosh
+tagGDX2EndlessDungeon_Shrine03Skill_Desc=Hai il potere del guardiano del velo tra i mondi, che ti conferisce una maggiore Velocità di Movimento e fa sì che i tuoi attacchi sottraggano la vita ai tuoi nemici.
+tagGDX2EndlessDungeon_Shrine03SkillProc=Sottrazione di Vita
+
+tagGDX2EndlessDungeon_Shrine04=Santuario di Amatok
+tagGDX2EndlessDungeon_Shrine04_Desc=Assorbi il calore dall'aria vicina, ottenendo una maggiore Velocità di Movimento e facendo sì che a volte gli attacchi contro di te scatenino ondate di gelo in risposta.
+tagGDX2EndlessDungeon_Shrine04Skill=Sussurro di Amatok
+tagGDX2EndlessDungeon_Shrine04Skill_Desc=Hai assorbito il calore dall'aria vicina, ottenendo una maggiore Velocità di Movimento e facendo sì che a volte gli attacchi contro di te scatenino ondate di gelo in risposta.
+tagGDX2EndlessDungeon_Shrine04SkillProc=Esplosione Glaciale
+
+tagGDX2EndlessDungeon_Shrine05=Santuario della Morte
+tagGDX2EndlessDungeon_Shrine05_Desc=Stringi un patto con la morte, che aumenta la tua Velocità di Movimento e ti rende invincibile.
+tagGDX2EndlessDungeon_Shrine05Skill=[mp]Desideri Mortali
+tagGDX2EndlessDungeon_Shrine05Skill_Desc=Hai stretto un patto con la morte, che aumenta la tua Velocità di Movimento e ti rende invincibile.
+
+
+#Powerups
+tagGDX2EndlessDungeon_Powerup01=Essenza del Reame Infranto
+tagGDX2EndlessDungeon_Powerup01_Desc=Hai assorbito un'anima del Reame Infranto, garantendoti grande potenza e costituzione per un breve periodo. ^oQuesto effetto si accumula fino a 5 volte, con più cariche possibili nei frammenti più alti.
+tagGDX2EndlessDungeon_Powerup02_Desc=Hai assorbito un'anima del Reame Infranto, garantendoti grande potenza e costituzione per un breve periodo. ^oQuesto effetto si accumula fino a 8 volte, con più cariche possibili nei frammenti più alti.
+tagGDX2EndlessDungeon_Powerup03_Desc=Hai assorbito un'anima del Reame Infranto, garantendoti grande potenza e costituzione per un breve periodo. ^oQuesto effetto si accumula fino a 9 volte, con più cariche possibili nei frammenti più alti.
+tagGDX2EndlessDungeon_Powerup04_Desc=Hai assorbito un'anima del Reame Infranto, garantendoti grande potenza e costituzione per un breve periodo. ^oQuesto effetto si accumula fino a 10 volte.
+
+
+#Items
+tagGDX2EndlessDungeon_Essence_01=Anima Infranta
+tagGDX2EndlessDungeon_Essence_02=Anima Infranta Possente
+tagGDX2EndlessDungeon_Essence_03=Anima Infranta Celestiale
+tagGDX2EndlessDungeon_Essence_04=Anima Infranta Travolgente
+
+tagGDX2EndlessDungeon_Key_01=Waystone Infranta
+tagGDX2EndlessDungeon_Key_01_Desc=La Waystone Infranta una volta offriva un potenziale incredibile. Permette a Mazaan di aprire la strada dal 5o Frammento, fino al 15mo Frammento, del Reame Infranto.
+tagGDX2EndlessDungeon_Key_01_Blueprint=Progetto: Waystone Infranta
+
+tagGDX2EndlessDungeon_Key_02=Waystone Risonante
+tagGDX2EndlessDungeon_Key_02_Desc=La Waystone Risonante risplende con un frammento del suo antico potere. Permette a Mazaan di aprire la strada dal 20mo Frammento, fino al 30mo Frammento, del Reame Infranto.
+tagGDX2EndlessDungeon_Key_02_Blueprint=Progetto: Waystone Risonante
+
+tagGDX2EndlessDungeon_Key_03=Waystone Infestata 
+tagGDX2EndlessDungeon_Key_03_Desc=La Waystone Infestata è stata infusa con gli spiriti dei morti. Permette a Mazaan di aprire la strada dal 35mo Frammento, fino al 45mo  Frammento, del Reame Infranto.
+tagGDX2EndlessDungeon_Key_03_Blueprint=Progetto: Waystone Infestata 
+
+tagGDX2EndlessDungeon_Key_04=Waystone Dissacrata
+tagGDX2EndlessDungeon_Key_04_Desc=La Waystone Dissacrata è stata unta con sangue contaminato. Permette a Mazaan di aprire la strada dal 50mo Frammento, fino al 60mo Frammento,  del Reame Infranto.
+tagGDX2EndlessDungeon_Key_04_Blueprint=Progetto: Waystone Dissacrata
+
+tagGDX2EndlessDungeon_Key_05=Waystone Celestiale
+tagGDX2EndlessDungeon_Key_05_Desc=La Waystone Celestiale è stata completamente ripristinata al suo potenziale divino. Permette a Mazaan di aprire la strada dal 65mo Frammento, fino al 75mo Frammento,  del Reame Infranto. ^n^nQuesta waystone non dovrebbe essere usata dai deboli di cuore.
+tagGDX2EndlessDungeon_Key_05_Blueprint=Progetto: Waystone Celestiale
+
+tagGDX2EndlessDungeon_Key_06=Waystone Eterna
+tagGDX2EndlessDungeon_Key_06_Desc=Una Waystone che ritorce e raggomitola intorno a sé i fili stesi del tessuto della realtà. ^n^nPermette a Mazaan di aprire la strada almeno dal 80° Frammento, e fino al 90° Frammento, del Reame Infranto. ^n^nQuesta Waystone non dovrebbe essere usata dai deboli di cuore.
+tagGDX2EndlessDungeon_Key_06_Blueprint=Progetto: Waystone Eterna
+
+tagGDX2EndlessDungeon_Key_07=Waystone della Morte
+tagGDX2EndlessDungeon_Key_07_Desc=Contaminata dal potere della morte, la Waystone ora apre la strada a pericoli insondabili dove non ti aspetta alcuna ricompensa se non la gloria della conquista. ^n^nPermette a Mazaan di aprire la strada dal 95° Frammento del Reame Infranto e oltre. ^n^nQuesta Waystone non dovrebbe essere usata dai deboli di cuore.
+tagGDX2EndlessDungeon_Key_07_Blueprint=Progetto: Waystone della Morte
+
+tagGDX2ItemTest={^F}Miss Gazer Man
+tagGDX2ItemTestDesc="Un risultato coronato nell'abbigliamento Gazer."
+tagGDX2ItemTest2={^F}Scatola Lievemente Divertente
+tagGDX2ItemTest2Desc="Ispirato da eventi della vita reale."
+
+#Traps
+tagGDX2Trap_A01=Pilone Congelante
+tagGDX2Trap_A02=Pilone Infernale
+tagGDX2Trap_A03=Pilone della Morte
+tagGDX2Trap_A04=Pilone Tossico
+tagGDX2Trap_A09=Pilone di Eldritch
+
+tagGDX2Trap_A09_Skill01=Aura di Eldritch
+tagGDX2Trap_A09_Skill01_Desc=Le grezze energie di eldritch circondano questo cristallo, potenziando i tuoi nemici e danneggiandoti.
+
+
+#Notifications
+tagGDX2Notification_FloorActive=Raccogli le Anime Infrante dai tuoi Nemici
+tagGDX2Notification_FloorFinished=Procedi al prossimo Portale
+tagGDX2Notification_BossActive=Elimina tutti i Nemici
+tagGDX2Notification_BossFinished=Parla con Mazaan per Procedere
+tagGDX2Notification_Reward=Il tuo Premio ti aspetta oltre il prossimo Portale
+tagGDX2Notification_Reset=(Opzionale) Parla con Mazaan nel Conclave dei Tre per un'altro tentativo
+
+tagGDX2Notification_ArkovianPrison_01=Si apre una Porta nelle vicinanze!
+tagGDX2Notification_TreasureTrap_01=Un'anima si manifesta nelle vicinanze!
+tagGDX2Notification_Special=Qualcosa sembra essere andato storto...
+tagGDX2Notification_Special02=Senti il suono di una pietra che si sposta nelle vicinanze...
+
+
+#Doors
+tagGDX2EndlessDungeonEntrance=Portale per il Reame Infranto
+tagGDX2EndlessDungeonFloorEntrance=Portale del Reame Infranto
+tagGDX2EndlessDungeonNextFloor=Procedi Oltre
+tagGDX2EndlessDungeonTreasureRoom=Portale per la Ricchezza Eterna
+tagGDX2EndlessDungeonExit=Ritorna a Cairn
+
+
+#Rewards
+tagGDX2Item_ChestA01=Baule del Viaggiatore
+tagGDX2Item_ChestB01=Baule del Campione
+tagGDX2Item_ChestC01=Baule Trionfante
+tagGDX2Item_ChestD01=Baule Ornato
+tagGDX2Item_ChestE01=Baule Eroico
+tagGDX2Item_ChestF01=Baule Valoroso
+tagGDX2Item_ChestG01=Baule Grandioso
+tagGDX2Item_ChestH01=Baule Supremo
+tagGDX2Item_ChestI01=Baule Magnifico
+tagGDX2Item_ChestJ01=Baule Glorioso
+tagGDX2Item_ChestK01=Baule Trascendente
+tagGDX2Item_ChestL01=Bottino della Nemesi
+tagGDX2Item_ChestM01=Bottino del Conquistatore
+tagGDX2Item_ChestN01=Bottino di Eldritch
+tagGDX2Item_ChestO01=Bottino Celestiale
+tagGDX2Item_ChestP01=Bottino Primordiale
+tagGDX2Item_ChestQ01=Bottino Eterno
+tagGDX2Item_ChestR01=Bottino dell'Oltremondo
+tagGDX2Item_ChestS01=Bottino del Semidio
+
+tagGDX2Item_SpecialChestA01=Segreti dei Reami Infranti
+tagGDX2Item_SpecialChestA02=Doni dei Reami Infranti
+

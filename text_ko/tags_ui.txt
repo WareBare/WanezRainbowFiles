@@ -1,0 +1,2542 @@
+tagHUD_LootModeDescription=전리품의 표시 여부를 선택할 수 있습니다. 아이템 표시/숨김 토글을 사용하면 많은 적에 둘러싸였을 때 모든 전리품을 숨길 수 있고, 전투가 끝났을 때 다시 전리품을 표시할 수 있습니다.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.9{^n}for Grim Dawn: v1.2.0.4{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+#General
+
+tagGameDifficultySetting01=노멀 난이도
+tagGameDifficultySetting02=엘리트 난이도
+tagGameDifficultySetting03=얼티밋 난이도
+tagDifficultyUnlocked=난이도 개방
+tagDifficultyLevelUnlocked=당신은 {^g}{%s0}{^w}를 진입할 수 있습니다!
+
+tagAutosort=인벤토리 자동 정리
+
+tagPromptButtonYes=확인
+tagPromptButtonNo=취소
+tagPromptButtonOkay=수락
+tagPromptButtonClose=닫기
+
+tagGraveName=플레이어 무덤 ~ {%t0}
+tagGraveSlainBy={%t0}에게 사망
+tagGraveXPRecovered=경험치 복구 : {%d0}
+tagHeroXP={%d0} 영웅 몬스터 경험치
+tagBossXP={%d0} 보스 몬스터 경험치
+tagHeroKilled=영웅 몬스터 처치
+tagBossKilled=보스 몬스터 처치
+tagXPAwarded=경험치 {%d0} 획득
+tagReputationBonus=평판 보너스
+tagRepAwarded={^g}{%s1}에 대한 명성이 {%d0}만큼 상승
+tagLoreBonus=지식 보너스
+
+tagLevelUp=레벨 상승
+tagLevelReached=당신은 {^y}{%d0} 레벨에 s
+
+#Devotion
+
+tagDevotionPointAwarded={%d0} 디보션 포인트 획득
+tagDevotionPointsAwarded={%d0} 디보션 포인트 획득
+tagDevotionShrine=성소 정화
+tagDevotionShrineGuardian=성소 수호자
+tagDevotionUpdate=디보션 레벨
+tagDevotionSkillLevelUp={^g}{%s0} {^w}의 레벨이 {%d1}에 도달!
+tagDevotionSkillMaxLevel={^g}{%s0} {^w}이 최대 레벨에 도달!
+tagDevotionAffinityBonus=별자리 완성 보너스
+tagDevotionAffinity=연관 속성:
+tagDevotionSelected= (선택중)
+tagDevotionInUse= (사용중)
+tagDevotionConfirm=천상의 힘을 교체하시겠습니까?
+tagDevotionExperienceFormat=경험치 : {^y}{%d0}{^w} / {^y}{%d1}
+tagDevotionSkillRank=현재 레벨 : {%d0} / {%d1}
+
+tagUndo=취소
+Chat=채팅:
+
+tagGamePaused=일시 정지
+
+tagSkillNotReady={^r}스킬이 아직 준비되지 않았습니다
+
+tagTransferStashError={^r}아이템을 놓을 수 없습니다
+
+#Riftgate
+
+tagRiftgatePersonal=개인 리프트
+tagRiftgateDestination=목적지
+tagRiftgateError01=리프트를 사용할 수 없습니다. 당신의 그룹의 플레이어가 만든 것이 아닙니다.
+tagRiftgateError02=서로 같은 리프트게이트이기 때문에 순간이동할 수 없습니다.
+tagRiftgateError03=이곳에서 이 리프트게이트로 순간이동할 수 없습니다.
+tagRiftgateDialog01=새 리프트를 열면 기존 리프트는 사라집니다. 계속 하시겠습니까?
+tagRiftGateMapA01=케언
+
+#Quest
+
+tagQuests=진행 중인 퀘스트
+tagQuestLogNameNumber={%t0} ({%d1})
+tagQuestJournalNoQuests=퀘스트 없음
+tagQuestJournalNoComplete=완료한 퀘스트 없음
+tagQuestIncentives=추가보상:
+tagQuestObjectives=목표:
+tagQuestRewards=보상:
+tagCodexJournalNoNotes=기록된 지식 없음
+tagCodexJournalSubHeadingEnemy=적에 대한 지식
+tagCodexJournalSubHeadingFaction=세력 정보
+tagCodexJournalSubHeadingCreed=인퀴지터 크리드
+tagCodexJournalSubHeadingArkovia=역사 - 아코비아
+tagCodexJournalSubHeadingNecropolis=역사 - 네크로폴리스
+tagCodexJournalSubHeadingSurvivorBlackLegion=생존자 - 검은군단
+tagCodexJournalSubHeadingSurvivorBurrwitch=생존자 - 버위치
+tagCodexJournalSubHeadingSurvivorsHomestead=생존자 - 홈스테드
+tagCodexJournalSubHeadingSurvivorsDarkvale=생존자 - 다크베일
+tagCodexJournalSubHeadingSurvivorsValbury=생존자 - 항구도시 발버리
+tagCodexJournalSubHeadingHistoryGods=역사 - 케언의 신들
+tagCodexJournalSubHeadingDefault=기타
+tagDevotionJournalTitle={%d0}/{%d1} 신앙의 성소
+tagAccept=수락
+tagDecline=거부
+tagContinue=계속하기
+tagEndConversation=대화 종료
+tagQuestPrimary=(메인)
+tagQuestSecondary=(보조)
+tagQuestElite=(엘리트)
+tagQuestAccepted=퀘스트 수락: {^n}"{%t0}"
+tagQuestCompleted=퀘스트 완료: {^n}"{%t0}"
+tagQuestUpdate=퀘스트 진행
+tagQuestUpdated=퀘스트 갱신: {^n}"{%t0}"
+tagQuestFailed=퀘스트 실패: {^n}"{%t0}"
+tagActionGiveMoney={%d0} 아이언
+tagActionGiveTribute={%d0} 트리뷰트
+tagActionGiveTributes={%d0} 트리뷰트
+tagActionGiveExperience={%d0} 경험치
+tagActionGiveFaction={%d0} {%t1} 평판
+tagActionGiveLevel={%d0} 레벨
+tagActionGiveLevels={%d0} 레벨
+tagActionGiveSkillPoint={%d0} 스킬 포인트
+tagActionGiveSkillPoints={%d0} 스킬 포인트
+tagActionGiveAttributePoint={%d0} 능력치 포인트
+tagActionGiveAttributePoints={%d0} 능력치 포인트
+tagActionGiveDevotionPoint={%d0} 디보션 포인트
+tagActionGiveDevotionPoints={%d0} 디보션 포인트
+tagConditionHasKilled={%t0} ({%d1}/{%d2})
+tagConditionHasItem={%t0} ({%d1}/{%d2})
+tagQuestRewardWindowTitle=퀘스트 완료
+tagQuestRewardWindowInterim=퀘스트 진행
+tagQuestRewardTitle=보상:
+tagQuestRewardMoney={%d0} 아이언
+tagQuestRewardXP=경험치: {%d0}
+tagQuestRewardReputationPositive=+{%d0} {%s1} 평판
+tagQuestRewardReputationNegative=-{%d0} {%s1} 평판
+tagQuestRewardAcceptButton=닫기
+tagQuestBlockedDescription=호스트가 진행 중인 퀘스트이므로 이 세션에서는 접근할 수 없습니다.
+
+tagObjectives=목표
+
+#Faction
+
+tagFaction={%s0}
+tagFactionStanding=상태: {^s}{%t0}
+tagFactionQuestReq=추가 퀘스트: {^s}{%+d0}
+tagFactionAlone=Alone
+tagFactionInvisible=Invisible
+tagFactionGenericMonster=Monsters
+tagFactionPlayer=Players
+tagFactionSurvivors=데블스 크로싱
+tagFactionSurvivorsInfo=본거지: 데블스 크로싱{^n}{^n} 생존자들...얼마 안 되는 데블스 크로싱에 살고 있는 사람들을 표현할 때 가장 많이 사용되는 단어이다. 잔인한 새벽(Grim Dawn)을 뚫고 살아나오는데 성공한 사람들은 버려진 감옥의 폐허에서 작은 커뮤니티를 만들었다. 그들은 에테리얼에게 지배당한, 그들끼리는 '꼭두각시'라고 부르는 존재들에게 가족이나 친구들을 너무도 많이 잃었다. {^n}{^n} 그들의 믿음을 얻기는 결코 쉽지 않겠지만, 물자가 줄어들고 있으며 멀지 않은 곳에 에테리얼의 위협이 존재하는 만큼, 그들도 뭔가에 기대고 싶어할 것이다.
+tagFactionSurvivorsRewards1=N/A
+tagFactionSurvivorsRewards2=N/A
+tagFactionSurvivorsRewards3=N/A
+tagFactionSurvivorsRewards4=Empty
+tagFactionSurvivorsRewards5=신규 퀘스트 {^n}세력 상인과의 거래
+tagFactionSurvivorsRewards6=신규 퀘스트 {^n}현상수배 테이블 사용 {^n}세력 전용 무기 {^n}세력 전용 방어구 {^n}세력 전용 도안
+tagFactionSurvivorsRewards7=신규 던전/퀘스트 {^n}세력 전용 증강제  {^n}세력 전용 장신구 {^n}세력 전용 인정서 {^n}세력 전용 도안
+tagFactionSurvivorsRewards8=희귀 증강제{^n}세력 신임장 {^n}세력 전용 고급 무기 {^n}세력 전용 고급 방어구
+tagFactionAetherials=에테리얼
+tagFactionAetherialsInfo= 탐욕스러우면서 어리석었던 케언의 아케니스트들은 에테르라고 알려진 마법적 장막에 대해 파고드는 동안, 무언가가 그들을 지켜보고 있는 것은 아닌지 단 한 번도 의심하지 않았다. {^n}{^n} 에테리얼들이 케언에 진입하면서 잔인한 새벽(Grim Dawn)으로 불리는 시기가 시작됐고, 이들은 수많은 사람들을 지배하고 나머지는 학살했다. 그들의 행동 중 무엇보다도 비열했던 것은, 바로 죽은 자들을 일으켜서 자신들의 침공에 소모할 지성이 없는 변이된 언데드 괴물 군대로 만들기 시작한 것이었다. 게다가 그들의 존재 자체는 야생동물들을 변이시키기에도 충분했기에, 한때는 유순했던 동물들이 흉악한 괴물로 변하고 있다. {^n}{^n} 다만 매우 이해하기 어려운 점은 그들이 크토니안들에게 갖는 뚜렷한 증오심으로, 그들은 기회가 있을 때마다 공허에서 온 괴물들과 전투를 벌이려 한다.
+tagFactionAetherialsRewards1=네메시스 출현
+tagFactionAetherialsRewards2=더 많은 영웅 몬스터 출현
+tagFactionAetherialsRewards3=더 많은 몬스터 출현
+tagFactionAetherialsRewards4=Empty
+tagFactionAetherialsRewards5=N/A
+tagFactionAetherialsRewards6=N/A
+tagFactionAetherialsRewards7=N/A
+tagFactionAetherialsRewards8=N/A
+tagFactionCthonians=크토니안
+tagFactionCthoniansInfo= 크토니안, 이 공허에서 기원한 끔찍한 괴물들은 마치 악몽에서나 나올 법한 모습들이다. 잔인한 새벽(Grim Dawn)의 시기 이전에는, 크토니안이 목격되는 경우는 비전 의식이 잘못된 결과거나 강력한 마술사가 불러내는 것 뿐이었다. {^n}{^n} 이런 크토니안들을 숭배하고 피의 의식을 치르는 것을 중심으로 하는 사교가 존재했고, 그들을 멸절시키려는 제국의 노력이 있었음에도 불구하고 사교는 잔존하고 있었다. 이 사교의 신도들은 특정한 어느 존재에 대한 노래를 듣게 된다 - "크'톤". 그리고 세상이 어지러워지면서, 더이상 상식이 통하지 않는 세상에서 구원을 갈구하는 새 추종자들을 모아들이며 사교는 급격하게 덩치를 키우기 시작했다. {^n}{^n} 크토니안들과 그 열렬한 추종자들은 에테리얼들과는 적대하는 것으로 여겨지며, 에테리얼들이 그들의 숙주로 사용하지 못하게 하려는 목적에서도 무력한 인간들의 피를 모아들이는 데에 열중하고 있다.
+tagFactionCthoniansRewards1=네메시스 출현
+tagFactionCthoniansRewards2=더 많은 영웅 몬스터 출현
+tagFactionCthoniansRewards3=더 많은 몬스터 출현
+tagFactionCthoniansRewards4=Empty
+tagFactionCthoniansRewards5=N/A
+tagFactionCthoniansRewards6=N/A
+tagFactionCthoniansRewards7=N/A
+tagFactionCthoniansRewards8=N/A
+tagFactionOutlaws=크론리의 패거리
+tagFactionOutlawsInfo= 다른 대부분의 떠돌이 강도들과는 다르게, 크론리의 패거리는 고도로 조직되어 있고 무장도 강력한 것으로 보이며, 스스로를 지도자로 칭한 다리우스 크론리의 명령에만 따른다. {^n}{^n} 잔인한 새벽(Grim Dawn)이 시작되면서 발생한 혼란 중에 데블스 크로싱 교도소를 탈출한 이 범죄자들은, 이제 그들의 자유를 인정하지 않았던 그 장소를 차지하려는 의도를 갖고 있다. 크론리 패거리에 있는 자들의 가학적이고 폭력적인 성향과 근방의 인간들에 대한 공격적인 행동을 하는 경향은, 인간을 가장 크게 위협하는 것은 바로 인간일 거라는 말의 전형적인 사례이다.
+tagFactionOutlawsRewards1=네메시스 출현
+tagFactionOutlawsRewards2=더 많은 영웅 몬스터 출현
+tagFactionOutlawsRewards3=더 많은 몬스터 출현
+tagFactionOutlawsRewards4=Empty
+tagFactionOutlawsRewards5=N/A
+tagFactionOutlawsRewards6=N/A
+tagFactionOutlawsRewards7=N/A
+tagFactionOutlawsRewards8=N/A
+tagFactionBeasts=짐승
+tagFactionBeastsInfo=짐승은 짐승이다.
+tagFactionUser0=로버
+tagFactionUser0Info=근거지: 옛 아코비아 {^n}{^n} 로와리 부족, 보통 로버라고 불리는 이들은 고정적인 집을 갖지 않는 사람들의 집단이다. 그들에게는, 세상의 유혹과 문명의 오염에서 자신들을 정화하는 의미의 일생에 걸친 순례를 위해 케언 곳곳을 여행할 수 있도록 열려있는 길이 그들에게 필요한 유일한 집이라고 한다. 그들의 역사의 대부분은 세월 뒤로 잊혀졌고, 대부분의 문명들은 그들을 부랑자나 미력한 좀도둑보다 약간 나은 정도로만 인식하고 있다. {^n}{^n} 로버들은 폭력을 극도로 싫어하여 어떤 대가를 치르더라도 피하려고 하는데, 이는 보다 폭력적인 자들에 의한 학대로 이어지기도 한다.
+tagFactionUser0Rewards1=N/A
+tagFactionUser0Rewards2=N/A
+tagFactionUser0Rewards3=N/A
+tagFactionUser0Rewards4=Empty
+tagFactionUser0Rewards5=신규 퀘스트 {^n}세력 상인과의 거래
+tagFactionUser0Rewards6=현상수배 테이블 사용 {^n}세력 전용 무기 {^n}세력 전용 방어구 {^n}세력 전용 도안
+tagFactionUser0Rewards7=신규 퀘스트 {^n}세력 전용 증강제 {^n}세력 전용 장신구 {^n}세력 인정서 {^n}세력 전용 도안
+tagFactionUser0Rewards8=희귀 증강제 {^n}세력 신임장 {^n}세력 전용 고급 무기 {^n}세력 전용 고급 방어구
+tagFactionUser1=Neutral
+tagFactionUser1Info=N/A
+tagFactionUser2=홈스테드
+tagFactionUser2Info=근거지: 홈스테드 {^n}{^n} 북쪽의 농경지에서 문제가 생겨날 때마다, 농부들과 그 가족들은 홈스테드로 피해있곤 했다. 인간이 멸망의 위기에 직면한 지금 이들의 공동체 의식은 어느 때보다 중요해진 상황이다. {^n}{^n} 검은군단의 조력을 받아서 홈스테드는 제대로 된 요새로 탈바꿈했고, 죽음이 휩쓸고 있는 세상에서 상대적으로 매우 안전한 곳이 되었다. 하지만 사방에 강력한 적들이 자리하고 있어서, 이 곳에 있는 사람의 일부는 한 장소에 버티고 있는 것이 과연 현명했던 선택인지 의심하기 시작했다. {^n}{^n} 검은군단 측은 에테리얼과 크토니안들에 시선이 몰려있는 반면, 홈스테드의 농부들은 더 가까운 곳에 있는 위협인, 그들이 포기하고 온 땅에서 제약없이 퍼져 나가면서 곳곳을 감염시키고 있는 집게벌레 무리에 더 신경쓰고 있다.
+tagFactionUser2Rewards1=N/A
+tagFactionUser2Rewards2=N/A
+tagFactionUser2Rewards3=N/A
+tagFactionUser2Rewards4=Empty
+tagFactionUser2Rewards5=세력 상인과 거래
+tagFactionUser2Rewards6=현상수배 테이블 사용 {^n}세력 전용 무기 {^n}세력 전용 방어구 {^n}세력 전용 도안
+tagFactionUser2Rewards7=신규 퀘스트 {^n}세력 전용 증강제 {^n}세력 전용 장신구 {^n}세력 인정서 {^n}세력 전용 도안
+tagFactionUser2Rewards8=희귀 증강제 {^n}세력 신임장 {^n}세력 전용 고급 무기 {^n}세력 전용 고급 방어구
+tagFactionUser3=코리건 광산의 자유민
+tagFactionUser3Info=근거지: 코리건 광산 {^n}{^n} WORDS
+tagFactionUser3Rewards1=N/A
+tagFactionUser3Rewards2=N/A
+tagFactionUser3Rewards3=N/A
+tagFactionUser3Rewards4=Empty
+tagFactionUser3Rewards5=N/A
+tagFactionUser3Rewards6=N/A
+tagFactionUser3Rewards7=N/A
+tagFactionUser3Rewards8=N/A
+tagFactionUser4=추방당한 자
+tagFactionUser4Info=근거지: 아이컨 요새 {^n}{^n} 정체를 알 수 없는 인물인 아나스테리아에 대해서, 그리고 그녀가 어떻게 에테리얼들과 그들의 계획에 대해서 그렇게 많이 파악하고 있는지에 대해서는 알려진 바가 거의 없다. 겉으로 보면 그녀는 어딘가에서 불쑥 나타난 셈이지만, 그녀가 제공한 적의 활동에 대한 정보들이 많은 귀중한 생명을 구하는데 도움을 주었던 것도 사실이다. {^n}{^n} 검은군단에는 그녀를 마녀로 단정짓는 사람의 숫자가 많으며, 인퀴지터 크리드가 그녀의 보호를 고집하고 있음에도 그녀를 화형시키기를 원하고 있다. 
+tagFactionUser4Rewards1=추방당한 자의 복수
+tagFactionUser4Rewards2=추방당한 자의 분노
+tagFactionUser4Rewards3=추방당한 자의 부하들
+tagFactionUser4Rewards4=Empty
+tagFactionUser4Rewards5=신규 퀘스트
+tagFactionUser4Rewards6=신규 퀘스트 {^n}현상수배 테이블 사용
+tagFactionUser4Rewards7=신규 퀘스트 {^n}세력 상인과 거래
+tagFactionUser4Rewards8=희귀 증강제 {^n}세력 신임장 {^n}세력 전용 고급 무기 {^n}세력 전용 고급 방어구
+tagFactionUser5=죽음의 감시자 교단
+tagFactionUser5Info=근거지: 슬픔의 요새 {^n}{^n} 죽음의 감시자 교단은 세상에서 거의 사라진 기술인 사령술을 교단 창립자인 우로보룩 이후의 구성원들 사이에서 비밀리에 이어왔으며, 이 기술의 유일한 전승자라고 주장한다. {^n}{^n} 이 교단의 구성원들은 죽음을 두려워하지 않는다. 그들은 죽음의 잔혹한 가르침을 받아들임으로써 세계 그 자체에 더 어울리는 존재가 될 수 있다고 믿는다. {^n}{^n} 수 세기에 걸친 제국의 박해를 겪어왔기에 이 교단에게 편견이나 분쟁은 전혀 낯설지 않지만, 그런 그들도 카이몬의 선민만큼 무자비한 상대를 만난 적은 없었다. 카이몬의 선민, 케언에서 타락을 정화하는 것에만 관심을 두는 이 자들은 죽음의 감시자 교단 역시도 타락의 변종이며 말살되어야할 존재로 보고 있다.
+tagFactionUser5Rewards1=네메시스 출현
+tagFactionUser5Rewards2=더 많은 영웅 몬스터 출현
+tagFactionUser5Rewards3=더 많은 몬스터 출현
+tagFactionUser5Rewards4=Empty
+tagFactionUser5Rewards5=세력 상인과 거래
+tagFactionUser5Rewards6=신규 퀘스트 {^n}현상수배 테이블 사용 {^n}세력 전용 무기 {^n}세력 전용 방어구 {^n}세력 전용 도안
+tagFactionUser5Rewards7=신규 퀘스트 {^n}세력 전용 증강제 {^n}세력 전용 장신구 {^n}세력 인정서 {^n}세력 전용 도안
+tagFactionUser5Rewards8=희귀 증강제 {^n}세력 신임장 {^n}세력 전용 고급 무기 {^n}세력 전용 고급 방어구
+tagFactionUser6=아코비안 언데드
+tagFactionUser6Info=아코비아의 폐허에서 끝없이 배회하는 언데드에 대한 비극적인 이야기들은 많이 알려져 있다. 어떤 사람들은 그들이 필멸자의 세계에 속박된 영혼으로, 그들에게 약속된 사후세계로 넘어가지 못하는 것이라고 생각한다. 한편으로는 이 언데드들은 사령술을 악의적으로 사용한 잔혹한 결과이며, 누군가를 섬기는 저주받은 군대라고 주장하는 사람도 있다. 어쩌면 진실은 저 둘 사이의 어딘가일지도 모른다. {^n}{^n} 누구라도 동의할 만한 사실 한 가지는, 저 언데드들이 산 자들에게 극도로 위험하다는 점이다. 이러하다보니, 언데드들이 있는 잊혀진 폐허를 노리는 것은 경솔한 행동으로 간주된다.
+tagFactionUser6Rewards1=네메시스 출현
+tagFactionUser6Rewards2=더 많은 적 영웅 출현
+tagFactionUser6Rewards3=더 많은 적 출현
+tagFactionUser6Rewards4=Empty
+tagFactionUser6Rewards5=N/A
+tagFactionUser6Rewards6=N/A
+tagFactionUser6Rewards7=N/A
+tagFactionUser6Rewards8=N/A
+tagFactionUser7=검은군단
+tagFactionUser7Info=근거지: 아이컨 요새 {^n}{^n} 검은군단은 제국의 정예이자, 황제의 악감정이 들어간 의지를 수행할 때 파견되는 죽음의 기수 같은 자들이다. 그들의 용맹함에 대한 이야기는 그들의 잔혹함이나 폭력성에 대한 항간의 이야기들과 적당히 뒤섞여져 있다. {^n}{^n} 그들이 존중받는 존재건 두려움의 대상이건 간에, 검은군단은 잔인한 새벽(Grim Dawn)이 시작되며 무너진 수도에서 탈출한 유일한 제국의 군대이며 어쩌면 인간이 반격할 수 있는 마지막 희망일지도 모른다.
+tagFactionUser7Rewards1=N/A
+tagFactionUser7Rewards2=N/A
+tagFactionUser7Rewards3=N/A
+tagFactionUser7Rewards4=Empty
+tagFactionUser7Rewards5=현상수배 테이블 사용 {^n}세력 상인과 거래
+tagFactionUser7Rewards6=세력 전용 무기 {^n}세력 전용 방어구 {^n}세력 전용 도안
+tagFactionUser7Rewards7=신규 던전/퀘스트 {^n}세력 전용 증강제 {^n}세력 전용 장신구 {^n}세력 인정서 {^n}세력 전용 도안
+tagFactionUser7Rewards8=희귀 증강제 {^n}세력 신임장 {^n}세력 전용 고급 무기 {^n}세력 전용 방어구
+tagFactionUser8=카이몬의 선민
+tagFactionUser8Info=근거지: 슬픔의 요새 {^n}{^n} 카이몬의 선민은 빛을 가져오는 신, 엠피리온을 열렬히 추종하는 자들로, 타오르는 영광 속에서 그들이 믿는 신이 케언에 돌아올 것이며 그가 선택한 자들을 질서와 풍요의 새로운 새벽으로 이끌 것이라고 믿는 집단이다. {^n}{^n} 교부 카이몬이라고 알려진 카리스마를 갖춘 창시자의 명령을 따르며 자신들의 믿음으로 스스로를 지키면서, 카이몬의 선민 신도들은 케언에서 모든 타락을 몰아내는 데에 전력을 다하고 있다 - 그 대상이 사악한 크토니안 괴물들이건 죽음을 조롱하는 네크로맨서들이건 간에 말이다. 그들은 그 궁극적인 목표를 위해서는 죽음의 감시자 교단을 세상에서 없애는 것이 가장 먼저 이뤄져야만 한다고 생각하고 있다.
+tagFactionUser8Rewards1=네메시스 출현
+tagFactionUser8Rewards2=더 많은 적 영웅 출현
+tagFactionUser8Rewards3=더 많은 적 출현
+tagFactionUser8Rewards4=Empty
+tagFactionUser8Rewards5=세력 상인과 거래
+tagFactionUser8Rewards6=신규 퀘스트 {^n}현상수배 테이블 사용 {^n}세력 전용 무기 {^n}세력 전용 방어구 {^n}세력 전용 도안
+tagFactionUser8Rewards7=신규 퀘스트 {^n}세력 전용 증강제 {^n}세력 전용 장신구 {^n}세력 인정서 {^n}세력 전용 도안
+tagFactionUser8Rewards8=희귀 증강제 {^n}세력 신임장 {^n}세력 전용 고급 무기 {^n}세력 전용 고급 방어구
+tagFactionUser9=User9
+tagFactionUser9Info=
+tagFactionUser9Rewards1=Nemesis Spawns
+tagFactionUser9Rewards2=Additional Hero Spawns
+tagFactionUser9Rewards3=Extra Spawns
+tagFactionUser9Rewards4=Empty
+tagFactionUser9Rewards5=Rewards
+tagFactionUser9Rewards6=Rewards
+tagFactionUser9Rewards7=Rewards
+tagFactionUser9Rewards8=Rewards
+tagFactionUser10=User10
+tagFactionUser10Info=
+tagFactionUser10Rewards1=Nemesis Spawns
+tagFactionUser10Rewards2=Additional Hero Spawns
+tagFactionUser10Rewards3=Extra Spawns
+tagFactionUser10Rewards4=Empty
+tagFactionUser10Rewards5=Rewards
+tagFactionUser10Rewards6=Rewards
+tagFactionUser10Rewards7=Rewards
+tagFactionUser10Rewards8=Rewards
+tagFactionUser11=User11
+tagFactionUser11Info=
+tagFactionUser11Rewards1=Nemesis Spawns
+tagFactionUser11Rewards2=Additional Hero Spawns
+tagFactionUser11Rewards3=Extra Spawns
+tagFactionUser11Rewards4=Empty
+tagFactionUser11Rewards5=Rewards
+tagFactionUser11Rewards6=Rewards
+tagFactionUser11Rewards7=Rewards
+tagFactionUser11Rewards8=Rewards
+tagFactionUser12=User12
+tagFactionUser12Info=
+tagFactionUser12Rewards1=Nemesis Spawns
+tagFactionUser12Rewards2=Additional Hero Spawns
+tagFactionUser12Rewards3=Extra Spawns
+tagFactionUser12Rewards4=Empty
+tagFactionUser12Rewards5=Rewards
+tagFactionUser12Rewards6=Rewards
+tagFactionUser12Rewards7=Rewards
+tagFactionUser12Rewards8=Rewards
+tagFactionUser13=User13
+tagFactionUser13Info=
+tagFactionUser13Rewards1=Nemesis Spawns
+tagFactionUser13Rewards2=Additional Hero Spawns
+tagFactionUser13Rewards3=Extra Spawns
+tagFactionUser13Rewards4=Empty
+tagFactionUser13Rewards5=Rewards
+tagFactionUser13Rewards6=Rewards
+tagFactionUser13Rewards7=Rewards
+tagFactionUser13Rewards8=Rewards
+tagFactionUser14=User14
+tagFactionUser14Info=
+tagFactionUser14Rewards1=Nemesis Spawns
+tagFactionUser14Rewards2=Additional Hero Spawns
+tagFactionUser14Rewards3=Extra Spawns
+tagFactionUser14Rewards4=Empty
+tagFactionUser14Rewards5=Rewards
+tagFactionUser14Rewards6=Rewards
+tagFactionUser14Rewards7=Rewards
+tagFactionUser14Rewards8=Rewards
+tagFactionUser15=User15
+tagFactionUser15Info=
+tagFactionUser15Rewards1=Nemesis Spawns
+tagFactionUser15Rewards2=Additional Hero Spawns
+tagFactionUser15Rewards3=Extra Spawns
+tagFactionUser15Rewards4=Empty
+tagFactionUser15Rewards5=Rewards
+tagFactionUser15Rewards6=Rewards
+tagFactionUser15Rewards7=Rewards
+tagFactionUser15Rewards8=Rewards
+tagFactionUnknown=Unknown
+tagFactionStateEnemy5=네메시스
+tagFactionStateEnemy4=증오의 대상
+tagFactionStateEnemy3=미움의 대상
+tagFactionStateEnemy2=경멸의 대상
+tagFactionStateEnemy1=적의의 대상
+tagFactionStateNeutral=묵인의 대상
+tagFactionStateFriend1=친숙한 사람
+tagFactionStateFriend2=중요한 사람
+tagFactionStateFriend3=신뢰하는 사람
+tagFactionStateFriend4=존경의 대상
+tagFactionStateFriend5=경외의 대상
+tagFactionStateNemesis=Nemesis
+tagFactionStateHated=Hated
+tagFactionStateReviled=Reviled
+tagFactionStateHostile=Hostile
+tagFactionStateUnfriendly=Unfriendly
+tagFactionStateSuspicious=Suspicious
+tagFactionStateFriendly=Friendly
+tagFactionStateTrusted=Trusted
+tagFactionStateHonored=Honored
+tagFactionStateRevered=Revered
+
+#Faction Window
+
+tagFactionUpdated=평판 갱신됨
+tagFactionStatusChange={^b}{%s1}{^w}의 당신에 대한 평판이 {%s0}{^w}에 도달하였습니다
+tagFactionNegativeStatusChange={^w}당신은 {^b}{%s1}{^w}에게 {%s0}{^w}이 되었습니다
+tagFactionDoorLocked={^r}당신의 {^b}{%s0}{^r}과의 관계 때문에 이 곳에 들어갈 수 없습니다
+tagFactionWindowName= 세력 관계
+tagFactionWindowFactionTitle={%s0} - {%s1}
+tagFactionReputation=평판 획득 방식: {^n}
+tagFactionReputationKilling={%s0} 처치{^n}
+tagFactionReputationBounties=현상수배{^n}
+tagFactionReputationQuests=퀘스트{^n}
+tagFactionDiscountPositive=세력 할인율: {^r}+ {%.0f0}%
+tagFactionDiscountNegative=세력 할인율: {^g}- {%.0f0}%
+tagFactionDiscountZero=세력 할인율: {^s}{%.0f0}%
+tagFactionProgress={%s0}{^w} 도달에 필요한 포인트: {^b}{%d1}
+tagFactionKillingGain=처치하여 평판 획득:
+tagFactionKillingLoss=처치하여 악평 누적:
+tagFactionRewardsTier={%s0}{^w}에서 해제:
+tagFactionKillCommon=일반 몬스터
+tagFactionKillChampion=정예 몬스터
+tagFactionKillHero=영웅 몬스터
+tagFactionKillBoss=보스 몬스터
+tagFactionBonusRep=평판 보너스: {%d0}%
+tagFactionBonusInfamy=악평 보너스: {%d0}%
+
+#Achievements
+
+tagAchievements=업적
+tagAchievementUnlocked=업적 달성!
+tagAchievementsComplete={%d0} / {%d1}
+
+#HUD
+
+tagHUDMenu=메뉴 버튼
+tagHUDAttacks=현재 선택된 공격
+tagHUDSkills=퀵 슬롯
+tagHUD_PotionHealth=치유의 물약
+tagHUD_PotionEnergy=정신력 엘릭서
+
+tagPortraitKick=서버에서 방출
+tagPortraitTrade=거래
+tagPortraitRemove=파티에서 제거
+tagPortraitChat=채팅
+tagPortraitDisband=펫 소환해제
+
+tagHUDHealth_Head=({%t0}/{%t1})
+tagHUDPlayerHealth_Head={%t0}({%t1}/{%t2})
+tagHUDRoll_Health={%s0}  {%d1} / {%d2}
+tagHUDRoll_XP={%s0} {%d1}  ~  {%s2} {%d3}
+tagHUDXP_Current=경험치
+tagHUDXP_Next=다음 레벨
+tagMaxLevel=최대 레벨에 도달했습니다
+tagSkillRefreshTime=모든 액티브 스킬 쿨타임에 대해 -{%.1f0} {%z1}
+tagSkillRefreshTimeInfinate=100% {^E} 재충전 시간 감소
+tagSkillRefreshBaseSkillTime=기본 스킬 쿨타임에 대해 -{%.1f0} {%z1}
+
+tagSkillUnusableLowMana=에너지가 부족합니다
+tagSkillUnusableCooldown=스킬 재충전 중
+tagSkillUnusableConfiguration=장비 착용이 요구되는 스킬
+tagSkillUnusableNotLearned=배우지 않은 스킬
+
+tagHUD_Riftgate=현실 공간을 찢어 열고 들어가서 미리 파악해둔 리프트로 나온다.
+tagHUD_EmptySlot_R=비어있는 퀵 슬롯
+tagHUD_EmptySlot_R1=마우스 우클릭으로 스킬을 배정한다.
+tagHUD_LeftMouse_R=마우스 왼쪽 버튼
+tagHUD_LeftMouse_R1=이것은 당신의 기본 공격입니다. 마우스 우클릭으로 다른 스킬을 배정할 수 있습니다.
+tagHUD_RightMouse_R=마우스 오른쪽 버튼
+tagHUD_RightMouse_R1=이것은 당신의 보조 공격입니다. 마우스 우클릭으로 다른 스킬을 배정할 수 있습니다.
+tagHUD_CompassToggleName=방향표시 지도 토글
+tagHUD_CompassToggleDescription=클릭하면 크기를 바꾸거나 최소화할 수 있습니다.
+tagHUD_LootMode=전리품 필터
+tagHUD_LootHide=아이템 표시/숨김 토글
+tagHUD_LootModeDescription=전리품의 표시 여부를 선택할 수 있습니다. 아이템 표시/숨김 토글을 사용하면 많은 적에 둘러싸였을 때 모든 전리품을 숨길 수 있고, 전투가 끝났을 때 다시 전리품을 표시할 수 있습니다.
+tagHUD_LootModeToggleOff=전리품 자동 표시 ^D(Off)
+tagHUD_LootModeToggleCommon=전리품 자동 표시 (보통 이상)
+tagHUD_LootModeToggleMagic=전리품 자동 표시 ^Y(매직 이상)
+tagHUD_LootModeToggleRare=전리품 자동 표시 ^G(레어 이상)
+tagHUD_LootModeToggleEpic=전리품 자동 표시 ^B(에픽 이상)
+tagHUD_LootModeToggleLegendary=전리품 자동 표시 ^P(전설 이상)
+
+tagHUD_LootModeToggleDescription=클릭하면 자동으로 표시되는 전리품의 종류를 바꿀 수 있습니다.
+
+tagHUD_LeftMouse=좌
+tagHUD_RightMouse=우
+
+tagHUDPortraitLevelUP=레벨 상승
+tagHUDWeaponSwap=무기 교체
+tagHUDWeaponSwapRoll=장비된 무기들을 교체합니다. 반드시 두번째 무기 세트가 장비되어 있어야 합니다.
+tagHUDWeaponSwapHelpRoll=무기 교체를 사용하기 전에, 캐릭터 창의 대체 무기 슬롯에 두번째 무기 세트를 장착해두어야 합니다.
+
+tagHUDRiftgateButton=리프트 이동
+tagHUDRiftgateButtonRoll=균열로 들어가는 작은 입구를 연 뒤에 기존에 발견했던 리프트게이트나 파티원이 만든 다른 리프트로 이동할 수 있습니다.
+
+tagHUDQuickslot=미지정 퀵 슬롯
+tagHUDQuickslotRoll=마우스 우클릭으로 스킬 배정.
+tagHUDQuickslotLM=마우스 왼쪽 버튼
+tagHUDQuickslotLMRoll=기본 공격. 마우스 우클릭으로 스킬 배정 가능.
+tagHUDQuickslotRM=마우스 오른쪽 버튼
+tagHUDQuickslotRMRoll=보조 공격. 마우스 우클릭으로 스킬 배정 가능.
+tagHUDQuickslotBarSwap=다른 퀵 슬롯 모음을 불러온다.
+
+tagHUDButtonCharacter=캐릭터 창
+tagHUDButtonSkills=스킬 창
+tagHUDButtonGroup=파티 창
+tagHUDButtonQuest=코덱스 창
+tagHUDButtonMap=지도 창
+tagHUDButtonChat=채팅 창
+tagHUDButtonFaction=세력 관계 창
+tagHUDButtonAchievements=업적 창
+tagHUDButtonOptions=옵션 메뉴
+
+tagHUDButtonRollCharacter=캐릭터 능력치, 인벤토리 및 장비 관리.
+tagHUDButtonRollSkills=클래스 선택, 스킬 지정 및 디보션 관리.
+tagHUDButtonRollGroup=플레이어 초대 및 파티 관리.
+tagHUDButtonRollQuest=퀘스트 일지, 획득한 지식, 신앙의 성소에 대한 기록과 게임 관련 도움말.
+tagHUDButtonRollMap=지역 상세도 및 세계 지도
+tagHUDButtonRollChat=게임 안에서 다른 플레이어들에게 메세지 전송.
+tagHUDButtonRollFaction=케언에 존재하는 여러 세력에 대한 상세정보.
+tagHUDButtonRollAchievements=달성한 업적.
+tagHUDButtonRollOptions=세이브, 종료 및 게임 옵션 조정.
+
+#LootFilterUI
+tagLootFilterWindowTitle=전리품 필터
+tagLootFilterToggleOn=아이템 표시
+tagLootFilterToggleOff=아이템 숨김
+tagLootFilterTitle01=등급
+tagLootFilterTitle02=타입
+tagLootFilterTitle03=데미지
+tagLootFilterTitle04=캐릭터
+
+tagLootFilterReset=초기화
+tagLootFilterResetInfo=필터 설정을 초기화합니다.
+tagLootFilterResetConfirm=필터 설정을 초기화하시겠습니까?
+
+tagLootFilter01=일반
+tagLootFilter01Info=일반 (하양) 등급 아이템을 표시/숨김.
+tagLootFilter02=매직
+tagLootFilter02Info=매직 (노랑) 등급 아이템을 표시/숨김.
+tagLootFilter03=레어
+tagLootFilter03Info=레어 (초록) 등급 아이템을 표시/숨김. 이 설정은 특정 몬스터 전용 (MI) 아이템을 포함합니다.
+tagLootFilter04=특정 몬스터 전용 (MI)
+tagLootFilter04Info=특정 몬스터 전용 (MI) 아이템을 표시/숨김.{^N}{^N}레어 필터에 체크를 안한 상태로, 특정 몬스터 전용 (MI) 아이템인 레어 아이템만 보려면 이 필터를 사용하세요.
+tagLootFilter05=에픽
+tagLootFilter05Info=에픽 (파랑) 등급 아이템을 표시/숨김. 이 설정은 세트 아이템을 포함합니다.
+tagLootFilter06=전설
+tagLootFilter06Info=전설 (보라) 등급 아이템을 표시/숨김. 이 설정은 세트 아이템을 포함합니다.
+tagLootFilter07=세트
+tagLootFilter07Info=세트 아이템을 표시/숨김. 에픽과 전설 필터에 체크를 안한 상태로, 세트 아이템인 에픽과 전설 아이템만 보려면 이 필터를 사용하세요.
+tagLootFilter08=에픽/전설 항상 표시
+tagLootFilter08Info=이 체크박스에 체크하면 다른 필터 설정에 상관없이 항상 에픽/전설 등급 아이템을 표시합니다.{^N}{^N}모든 에픽/전설 아이템을 모으면서 특정 매직, 레어 아이템 혹은 특정 몬스터 전용 (MI) 아이템을 찾고 싶을 때 이 설정을 사용하세요.
+
+tagLootFilter09=한손 무기
+tagLootFilter09Info=한손 도끼, 둔기, 도검을 표시/숨김.
+tagLootFilter10=양손 무기
+tagLootFilter10Info=양손 도끼, 둔기, 도검을 표시/숨김.
+tagLootFilter11=한손 총기
+tagLootFilter11Info=한손 총기를 표시/숨김.
+tagLootFilter12=양손 원거리 무기
+tagLootFilter12Info=양손 총기와 크로스보우를 표시/숨김.
+tagLootFilter13=단검/셉터
+tagLootFilter13Info=단검/셉터를 표시/숨김.
+tagLootFilter14=시전자용 보조장비
+tagLootFilter14Info=시전자용 보조장비를 표시/숨김.
+tagLootFilter15=방패
+tagLootFilter15Info=방패를 표시/숨김.
+tagLootFilter16=방어구
+tagLootFilter16Info=머리, 어깨, 상체, 하체 방어구와 신발, 장갑을 표시/숨김.
+tagLootFilter17=장신구
+tagLootFilter17Info=목걸이, 반지, 메달, 허리띠를 표시/숨김.
+
+tagLootFilter18=물리
+tagLootFilter18Info=물리 혹은 체내 충격 데미지가 증가하는 아이템을 표시.
+tagLootFilter19=관통
+tagLootFilter19Info=관통 데미지가 증가하는 아이템을 표시.
+tagLootFilter20=화염
+tagLootFilter20Info=화염 혹은 연소 데미지가 증가하는 아이템을 표시.
+tagLootFilter21=냉기
+tagLootFilter21Info=냉기 혹은 동상 데미지가 증가하는 아이템을 표시.
+tagLootFilter22=번개
+tagLootFilter22Info=번개 혹은 감전 데미지가 증가하는 아이템을 표시.
+tagLootFilter23=산성
+tagLootFilter23Info=산성 혹은 독 데미지가 증가하는 아이템을 표시.
+tagLootFilter24=생기
+tagLootFilter24Info=생기 혹은 생기 부식 데미지가  증가하는 아이템을 표시.
+tagLootFilter25=에테르
+tagLootFilter25Info=에테르 데미지가 증가하는 아이템을 표시.
+tagLootFilter26=혼돈
+tagLootFilter26Info=혼돈 데미지가 증가하는 아이템을 표시.
+tagLootFilter27=출혈
+tagLootFilter27Info=출혈 데미지가 증가하는 아이템을 표시.
+tagLootFilter28=펫 보너스
+tagLootFilter28Info=펫에게 보너스를 주는 아이템을 표시.
+
+tagLootFilter29=내 마스터리
+tagLootFilter29Info=자신의 캐릭터가 선택한 마스터리에 속한 스킬을 올려주는 아이템을 표시.
+tagLootFilter30=다른 마스터리
+tagLootFilter30Info=자신의 캐릭터가 선택하지 않은 마스터리에 속한 스킬을 올려주는 아이템을 표시.
+tagLootFilter31=속도
+tagLootFilter31Info=공격, 시전, 이동 속도가 증가하는 아이템을 표시.
+tagLootFilter32=쿨타임 단축
+tagLootFilter32Info=스킬 쿨타임을 단축시키는 아이템을 표시.
+tagLootFilter33=치명타 데미지
+tagLootFilter33Info=치명타 데미지가 증가하는 아이템을 표시.
+tagLootFilter34=공격 능력
+tagLootFilter34Info=공격 능력이 증가하는 아이템을 표시.
+tagLootFilter35=방어 능력
+tagLootFilter35Info=방어 능력이 증가하는 아이템을 표시.
+tagLootFilter36=저항력
+tagLootFilter36Info=각종 데미지의 저항, 군중 제어 혹은 특이효과(데미지 반사 혹은 지속시간 동안 데미지 감소)의 저항이 증가하는 아이템을 표시.
+tagLootFilter37=보복
+tagLootFilter37Info=보복 데미지가 증가하는 아이템을 표시.
+
+tagLootFilter38=컴포넌트
+tagLootFilter38Info=컴포넌트를 표시/숨김.
+tagLootFilter39=항상 접두사/접미사 레어
+tagLootFilter39Info=이 체크박스에 체크하면, 필터 설정에 상관 없이 항상 접두사와 접미사가 레어인, [레어 / 특정 몬스터 전용 (MI)] 아이템이 땅바닥에 표시됩니다.{^N}{^N}가장 강력한 레어나 특정 몬스터 전용 (MI) 아이템을 찾고 싶을 때 이 설정을 사용하세요.
+
+
+
+#SkillUI
+
+tagSkillUndoClass=클래스 취소
+tagSkillUndoPoints=사용한 포인트 취소
+tagSkillUndoGeneric=취소
+tagSkillClassSelect=클래스 선택
+tagCurrentLevel=현재 레벨 : {%d0}
+tagNextLevel=다음 레벨 : {%d0}
+tagSkillClassSelectInfo=단련할 클래스 선택{^n}{^n} 선택 후에 창을 닫으면, 그 결과는 영구적으로 유지됩니다.
+tagSkillReq01={%t1}에 {%d0} 포인트가 더 필요합니다.
+tagSkillReq01Singular={%t1}에 {%d0} 포인트가 더 필요합니다.
+tagSkillReq02={%t1}에 {%d0} 추가 포인트와 {%s2} 스킬이 필요합니다.
+tagSkillReq02Singular={%t1}에 {%d0} 추가 포인트와 {%s2} 스킬이 필요합니다.
+tagSkillReq03={%s1} 스킬이 필요합니다.
+tagSkillPointsRemain={%d0} 사용 가능
+tagSkillPointsRemainSingular={%d0} 사용 가능
+
+#Character
+
+GenderFormat={%t0}{%0a1}
+
+tagInventoryBag=인벤토리 가방
+tagInventoryBagDescription=인벤토리 크기를 늘립니다
+
+tagStatsResistanceTitle=저항력
+tagStatsResistance01=화염
+tagStatsResistance01Desc=화염 혹은 연소 데미지를 가하는 불붙은 공격이나 스펠에 대한 저항력.
+tagStatsResistance02=번개
+tagStatsResistance02Desc=번개와 감전 데미지를 가하는 전기 및 충격 공격과 스펠에 대한 저항력.
+tagStatsResistance03=냉기
+tagStatsResistance03Desc=냉기와 동상 데미지를 가하는 차가운 얼음 공격과 스펠에 대한 저항력.
+tagStatsResistance04=독과 산
+tagStatsResistance04Desc=산성 혹은 독 데미지를 가하는 치명적인 독이나 강한 산에 대한 저항력.
+tagStatsResistance05=관통
+tagStatsResistance05Desc=방어구를 뚫고 들어오는 발사체나 칼날이 가하는 관통 데미지에 대한 저항력.
+tagStatsResistance06=출혈
+tagStatsResistance06Desc=찢긴 상처나 스펠에 의해 가해지는 출혈 데미지에 대한 저항력.
+tagStatsResistance07=생기
+tagStatsResistance07Desc=생기 데미지 혹은 생기 부식 데미지를 입히는 생기를 빨아들이는 마술적 공격들에 대한 저항력.
+tagStatsResistance08=에테르
+tagStatsResistance08Desc=에테르를 사용한 공격이나 마법으로 가해지는 에테르 데미지에 대한 저항력.
+tagStatsResistance09=기절
+tagStatsResistance09Desc=공격이나 스펠에 의해 기절해서 아무 반응도 하지 못하는 시간을 단축.
+tagStatsResistance10=혼돈
+tagStatsResistance10Desc=크'톤에 관계된 존재들이 자주 사용하는, 우주 자체의 불안정한 에너지를 이용하여 혼돈 데미지를 가하는 것에 대한 저항력.
+tagStatsResistance11=넉다운
+tagStatsResistance11Desc=넉다운을 일으키는 공격에 대한 저항력.
+tagStatsResistance12=시전방해
+tagStatsResistance12Desc=스킬의 사용을 방해하는 효과에 대한 저항력.
+
+tagCharStatsTab1Name=기본
+tagCharStatsTab2Name=보조
+tagCharAttributeTitle=능력치
+tagCharAttributeName01=민첩
+tagCharAttributeName02=힘
+tagCharAttributeName03=정신
+tagCharAttributeName04=체력
+tagCharAttributeName05=에너지
+
+tagCharAttributeDescription01=민첩성에 기반한 정교한 기량은 물리, 관통, 출혈 및 체내 충격 데미지를 증가시켜 전투 기술을 향상시켜준다. 민첩성은 상처를 견딜 수 있는 정도를 향상시켜주고, 근접이나 원격 공격이 가해질 가능성과 치명적으로 적을 타격할 가능성도 높여준다.
+
+tagCharAttributeDescription02=신체 컨디션을 높은 수준으로 유지하는 것은 보다 무거운 장비를 착용하고도 싸울 수 있게 해주며 적의 공격을 피할 수 있는 움직임도 가능하게 해준다. 강한 힘은 상처를 견딜 수 있는 정도, 상처에서 회복하는 능력과 치명타를 피하는 능력도 대폭 향상시켜준다.
+
+tagCharAttributeDescription03=강한 정신력은 시전자의 몸에 흐르는 에너지를 늘려주고 보다 강한 마법이 걸린 도구를 사용할 때의 정신적 부담을 견딜 수 있게 해준다. 정신력은 상처를 견딜 수 있는 정도를 향상시켜주고 마법적 공격의 데미지를 증폭시켜주기도 한다.
+
+tagCharAttributeDescription04=체력은 쓰러지거나 죽기 전까지 얼마나 고통과 피해를 견딜 수 있는가에 대한 기준이다.
+
+tagCharAttributeDescription05=에너지는 마법적 에너지를 붙들어둘 수 있는 정신적 용량에 대한 기준이다. 이 용량의 크기가 클수록, 복구되기를 기다려야하기 전까지 즉시 사용할 수 있는 에너지의 양도 커진다.
+
+tagCharBonusHealth=보너스 체력:
+tagCharBonusHealthRegen=보너스 체력 재생:
+tagCharBonusEnergy=보너스 에너지:
+tagCharBonusEnergyRegen=보너스 에너지 재생:
+
+tagCharBonusPhysicalDmg=보너스 물리 데미지
+tagCharBonusPierceDmg=보너스 관통 데미지
+tagCharBonusMagicalDmg=보너스 마법 데미지
+tagCharBonusDurDmg=보너스 지속 데미지
+
+tagCharAttributeIncrement01=각 포인트는 민첩을 10 만큼 증가시킨다.
+tagCharAttributeIncrement02=각 포인트는 힘을 10 만큼 증가시킨다.
+tagCharAttributeIncrement03=각 포인트는 정신을 10 만큼 증가시킨다.
+tagCharAttributeIncrement04=각 포인트는 체력을 50 만큼 증가시킨다.
+tagCharAttributeIncrement05=각 포인트는 에너지를 50 만큼 증가시킨다.
+
+tagCharStatsOAAlert=공격 능력 {^b}(?)
+tagCharStatsOA=공격 능력
+tagCharStatsOALast=최근에 공격한 대상: 
+tagCharStatsOAHit=적중 확률:
+tagCharStatsOACrit=치명타 확률:
+tagCharStatsOADescription=공격 능력(OA)이 높을 수록 시도한 공격이나 스펠이 적중할 확률, 치명타가 발생될 확률, 치명타가 됐을 경우의 피해량 등이 향상된다. 상대방의 방어 능력보다 낮은 공격 능력을 갖고 있을 경우 공격이 빗나갈 가능성이 매우 높아진다. (적중 확률은 55% 이하로 내려가지 않는다) 공격 능력은 스킬, 장비 그리고 민첩 능력치의 영향을 받는다.
+
+tagCharStatsDAAlert=방어 능력 {^b}(?) 
+tagCharStatsDA=방어 능력
+tagCharStatsDALast=최근에 공격당한 대상: 
+tagCharStatsDAHit=피격될 확률:
+tagCharStatsDACrit=치명타 피격 확률:
+tagCharStatsDADescription=방어 능력(DA)이 높을 수록 적의 공격을 회피할 확률, (피격 확률은 55% 이하로 내려가지 않는다) 치명타를 맞을 확률, 치명타를 맞았을 경우의 피해량 등이 감소된다. 방어 능력은 스킬, 장비 그리고 힘 능력치의 영향을 받는다.
+
+tagOverCapResist={%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% 최대치 초과) 
+tagOverCapResistInt={%s0} {^b}{%d1}% {^s}(+{%d2}% 최대치 초과) 
+
+tagRollFormat01={%s0} {^b}{%d1}
+tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
+tagRollFormat03={%s0}     {%+.0f1}%
+tagRollFormat04={%s0}  ({^y}{%t1}{^w})
+tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
+tagRollFormat06={%s0} {^b}{%.0f1}%
+tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
+tagRollFormat08={%s0} {^b}{%.2f1}
+tagRollFormat09={%s0} {^b}+ {%.1f1}%
+tagRollFormat10={%s0} {^b}{%.0f1} - {%.0f2}
+tagRollFormat11={%s0} {^b}{%d1} - {%d2}
+tagRollFormat12={%s0} {^b}{%.0f1}% - {%.0f2}%
+tagRollFormat13={%s0} {^b}{%.1f1}%
+tagRollFormat14={%s0} {^b}{%.0f1}
+tagRollFormat15={%s0} {^b}+ {%.1f1}% + {%.0f2}
+tagRollFormat16={%s0} {^s}{%.2f1} {^b}- {%.2f2}
+tagRollFormat17={%s0} {^b}{%.1f1}% + {%.2f2}
+tagRollFormat18={^b}{%.0f0} - {%.0f1}
+tagRollFormat19={^b}{%.0f0}
+tagRollFormat20={%s0} {^b}{%d1}%
+tagFormatPercent={%.0f}%
+tagFormatPlusPercent=+ {%.0f}%
+tagFormatMinusPercent=- {%.0f}%
+tagFormatPlus=+ {%d0}
+tagFormatDash={%d0} - {%d1} 
+tagFormatDashPercent={%d0}% - {%d1}%
+tagCharPointAvailable={^y}{%d0}{^w} 포인트 사용가능
+tagCharPointsAvailable={^y}{%d0}{^w} 포인트 사용가능
+tagCharLevel=레벨 {%d0}
+tagCharXP=XP : {%t0}
+tagCharLevelAndClass=레벨 {%d0} {%t1}
+
+tagCharRollLeftHand=왼손:
+tagCharRollRightHand=오른손:
+
+tagInfoPage=정보 페이지:
+
+tagTimePlayedName=플레이 시간
+tagTimePlayedNumber={%d0}:{%d1}:{%d2}
+
+tagCharHeaderResistance=저항력
+tagCharHeaderDefense=방어 통계
+tagCharHeaderOffense=공격 통계
+tagCharHeaderCombat=전투 통계
+tagCharHeaderDPS=타격 당 공격력 (DPH)
+tagCharHeaderCharacter=캐릭터
+tagCharHeaderPhysical=물리
+tagCharHeaderMagical=마법
+tagCharHeaderPets=펫 보너스
+tagCharHeaderDefenseSection=방어
+tagCharHeaderRetaliation=보복
+tagCharHeaderStats=통계
+tagCharHeaderMisc=기타
+
+tagCharStatsDPSTitle=초당 공격력
+tagCharStatsDPS=초당 공격력 {^b}(?)
+tagCharStatsDPSWeapon=무기 공격
+tagCharStatsDPSDescription=마우스 왼쪽 버튼과 오른쪽 버튼에 지정된 스킬들의 단일 대상에 대한 공격력의 초당 평균값으로서, 스킬들의 쿨타임과 장비나 스킬에 의한 모든 보너스들에 따른 보정을 포함한다. 적의 방어는 고려되지 않는다.
+tagCharStatsDPSRightDescription=마우스 오른쪽 버튼에 지정된 스킬의 단일 대상에 대한 공격력을 분석한 것으로, 장비와 스킬에 의한 모든 보너스들에 따른 보정을 포함한다. 적의 방어는 고려되지 않는다.
+tagCharStatsDPSLeftDescription=마우스 왼쪽 버튼에 지정된 스킬의 단일 대상에 대한 공격력을 분석한 것으로, 장비와 스킬에 의한 모든 보너스들에 따른 보정을 포함한다. 적의 방어는 고려되지 않는다.
+
+tagCharStatsArmorTotalAlert=방어구 등급 {^b}(?)
+tagCharStatsArmorTotal=방어구 등급
+tagCharStatsAbsorption=방어구 흡수력
+tagCharStatsArmorTotalDescription=방어구 등급이 높을 수록 물리력 계열의 공격으로부터 적은 피해를 입는다. 스킬이나 비방어구 장비에 의한 보너스는 전체 방어구 항목에 적용된다.
+tagCharStatsHitArmor=해당 부위 피격 확률
+tagCharStatsArmorUnprotected=보호 없음
+tagCharStatsArmorNA=N/A
+tagCharStatsArmorBonus=보너스:
+tagCharStatsArmorHead=머리:
+tagCharStatsArmorChest=가슴:
+tagCharStatsArmorArms=팔:
+tagCharStatsArmorLegs=다리:
+tagCharStatsArmorJewelry=장신구:
+tagCharStatsArmorFeet=신발:
+tagCharStatsArmorWaist=허리:
+tagCharStatsArmorShoulders=어깨:
+
+tagFormulaLearned=도안 학습
+tagFormulaLearn01={%t0}을 제작하는 방법을 학습했다
+tagFormulaLearn02={^r}이 도안은 이미 학습했습니다
+tagFormulaLearn03={^r}[이미 학습함]
+
+tagItemCompareEquipped=착용 중인 아이템
+tagItemCompareVendor=판매하는 아이템
+tagItemCompareInventory=인벤토리의 아이템
+tagItemCompareGround=땅바닥 위의 아이템
+tagItemInsufficientStatus={^r}평판 수치 부족
+
+
+#Char Stats Tab 2
+
+tagCharStatsMaximumSpeed=최대 속도
+
+#Character
+tagCharStatsAttacksPerSecond=초당 공격 횟수
+tagCharStatsAttacksPerSecondInfoo=사용 중인 무기의 초당 공격 시도 횟수, 보너스 포함.
+tagCharStatsRunSpeed=이동 속도
+tagCharStatsRunSpeedInfo=기본 수치와 비교한 캐릭터의 이동 가능 속도 (전체 속도 보너스 포함).
+tagCharStatsCritDmg=치명타 데미지
+tagCharStatsCritDmgInfo=치명타가 발생했을 때의 피해량에 대한 퍼센트 보너스. 치명타를 발생시킬 확률은 캐릭터의 공격 능력과 표적의 방어 능력 사이의 격차에 영향을 받는다.
+tagCharStatsLifeRegen=체력 재생
+tagCharStatsLifeRegenInfo=캐릭터의 체력이 전투 중에 다시 채워지는 속도. 체력 재생에 대한 퍼센트 보너스들은 장비나 스킬에 의한 재생에만 영향을 준다. 힘 능력치에 의한 기본 재생은 영향받지 않는다.
+tagCharStatsEnergyRegen=에너지 재생
+tagCharStatsEnergyRegenInfo=캐릭터의 에너지가 전투 중에 다시 채워지는 속도. 에너지 재생에 대한 퍼센트 보너스들은 장비나 스킬에 의한 재생에만 영향을 준다. 정신 능력치에 의한 기본 재생은 영향받지 않는다.
+tagCharStatsEnergyAbsorption=에너지 흡수
+tagCharStatsEnergyAbsorptionInfo=캐릭터를 향했던 공격과 스펠에 사용된 에너지의 일부가 캐릭터의 에너지를 채워주는 비율.
+tagCharStatsConstitution=건강 수치 보너스
+tagCharStatsConstitutionInfo=최대 건강 수치에 대한 퍼센트 보너스.
+tagCharStatsExpGainedBonus=획득 경험치
+tagCharStatsExpGainedBonusInfo=몬스터를 처치하면서 모든 경험치에 대한 퍼센트 보너스.
+tagCharStatsLightRadiusBonus=조명 반경
+tagCharStatsLightRadiusBonusInfo=캐릭터의 시야를 위해 주변에 퍼지는 빛의 반경에 대한 퍼센트 보너스.
+tagCharStatsAllSkillsBonus=모든 스킬
+tagCharStatsAllSkillsBonusInfo=캐릭터의 마스터리들에서 습득한 스킬들 모두에 대한 보너스.
+tagCharStatsSoldierSkillsBonus=솔저 스킬
+tagCharStatsSoldierSkillsBonusInfo=솔저 마스터리에서 습득한 스킬들에 대한 보너스.
+tagCharStatsDemoSkillsBonus=데몰리셔니스트 스킬
+tagCharStatsDemoSkillsBonusInfo=데몰리셔니스트 마스터리에서 습득한 스킬들에 대한 보너스.
+tagCharStatsOccuSkillsBonus=오컬티스트 스킬
+tagCharStatsOccuSkillsBonusInfo=오컬티스트 마스터리에서 습득한 스킬들에 대한 보너스.
+tagCharStatsNightbladeSkillsBonus=나이트블레이드 스킬
+tagCharStatsNightbladeSkillsBonusInfo=나이트블레이드 마스터리에서 습득한 스킬들에 대한 보너스.
+tagCharStatsArcanistSkillsBonus=아케니스트 스킬
+tagCharStatsArcanistSkillsBonusInfo=아케니스트 마스터리에서 습득한 스킬들에 대한 보너스.
+tagCharStatsShamanSkillsBonus=샤먼 스킬
+tagCharStatsShamanSkillsBonusInfo=샤먼 마스터리에서 스킬한 기술들에 대한 보너스.
+
+#Physical
+tagCharStatsAttackSpeed=공격 속도
+tagCharStatsAttackSpeedDescription=기본 수치와 비교한 캐릭터의 무기 공격 속도 (전체 속도 보너스 포함). 기본 속도가 느린 무기는 공격 속도에 대한 퍼센트 보너스의 혜택도 적게 받는다.
+tagCharStatsAvgDmg=무기 데미지
+tagCharStatsAvgDmgDescription=무기로 공격할 때마다의 피해량. 보너스 포함.
+
+tagCharStatsPhysicalAbsDmg=물리 데미지
+tagCharStatsPhysicalAbsDmgInfo=무기 공격에 의한 물리 속성 피해량. 보너스 포함.
+tagCharStatsPhysicalPercentDmg=물리 속성 보정
+tagCharStatsPhysicalPercentDmgInfo=공격이나 스펠에 의한 모든 물리 속성 피해량에 대한 퍼센트 보너스로, 민첩 능력치에 의한 보너스만 제외한 수치. 모든 데미지 보너스 포함.
+
+tagCharStatsPierceAbsDmg=관통 데미지
+tagCharStatsPierceAbsDmgInfo=무기 공격에 의한 관통 속성 피해량. 보너스 포함.
+tagCharStatsPiercePercentDmg=관통 속성 보정
+tagCharStatsPiercePercentDmgInfo=공격이나 스펠에 의한 모든 관통 속성 피해량에 대한 퍼센트 보너스로, 민첩 능력치에 의한 보너스만 제외한 수치. 모든 데미지 보너스 포함.
+
+tagCharStatsBleedAbsDmg=출혈 데미지
+tagCharStatsBleedAbsDmgInfo=무기 공격에 의해 가해지는 3 초 간의 출혈 피해 총량를 초당 피해량으로 환산. 보너스 포함.
+tagCharStatsBleedPercentDmg=출혈 속성 보정
+tagCharStatsBleedPercentDmgInfo=공격이나 스펠에 의한 모든 출혈 속성 피해량에 대한 퍼센트 보너스로, 민첩 능력치에 의한 보너스만 제외한 수치. 모든 데미지 보너스도 포함.
+tagCharStatsBleedDuration=출혈 지속시간
+tagCharStatsBleedDurationInfo=출혈 피해가 지속되는 시간에 대한 퍼센트 보너스. 초당 피해량은 늘어나지 않는다.
+
+tagCharStatsInternalTraumaAbsDmg=체내 충격 데미지
+tagCharStatsInternalTraumaAbsDmgInfo=무기 공격에 의해 가해지는 5 초 간의 체내 충격 피해 총량을 초당 피해량으로 환산. 보너스 포함.
+tagCharStatsInternalTraumaPercentDmg=체내 충격 속성 보정
+tagCharStatsInternalTraumaPercentDmgInfo=공격이나 스펠에 의한 체내 충격 피해량에 대한 퍼센트 보너스로, 민첩 능력치에 의한 보너스만 제외한 수치. 모든 데미지 보너스도 포함.
+tagCharStatsInternalTraumaDuration=체내 충격 지속시간
+tagCharStatsInternalTraumaDurationInfo=체내 충격 피해가 지속되는 시간에 대한 퍼센트 보너스. 초당 피해량은 늘어나지 않는다.
+
+tagCharStatsDamageToHealth=체력 흡수
+tagCharStatsDamageToHealthInfo=무기 공격의 피해량 일부가 캐릭터의 체력을 채워주는 비율.
+
+#Magical
+tagCharStatsCastSpeed=시전 속도
+tagCharStatsCastSpeedInfo=기본 속도와 비교한 캐릭터의 스펠 시전 속도 (전체 속도 보너스 포함).
+
+tagCharStatsCooldownReduction=쿨타임 단축
+tagCharStatsCooldownReductionInfo=스킬의 쿨타임들이 단축되는 비율. 장비 착용에 의해 주어지는 스킬들은 쿨타임 단축 보너스와 효과의 혜택을 받지 못한다.
+
+tagCharStatsManaCostReduction=스킬의 에너지 비용
+tagCharStatsManaCostReductionInfo=스킬들을 사용하는데 드는 에너지의 양을 감소시키는 비율.
+
+tagCharStatsPercentHealthDamage=체력 데미지
+tagCharStatsPercentHealthDamageInfo=무기 공격에 의해 피해를 입는 표적의 최대 체력에 대한 비율.
+
+tagCharStatsFireAbsDmg=화염 데미지
+tagCharStatsFireAbsDmgInfo=무기 공격에 의한 화염 피해량. 보너스 포함.
+tagCharStatsFirePercentDmg=화염 속성 보정
+tagCharStatsFirePercentDmgInfo=공격이나 스펠에 의한 모든 화염 속성 피해량에 대한 퍼센트 보너스로, 정신 능력치에 의한 보너스만 제외한 수치. 모든 데미지 보너스 포함.
+
+tagCharStatsColdAbsDmg=냉기 데미지
+tagCharStatsColdAbsDmgInfo=무기 공격에 의한 냉기 피해량. 보너스 포함.
+tagCharStatsColdPercentDmg=냉기 속성 보정
+tagCharStatsColdPercentDmgInfo=공격이나 스펠에 의한 모든 냉기 속성 피해량에 대한 퍼센트 보너스로, 정신 능력치에 의한 보너스만 제외한 수치. 모든 데미지 보너스 포함.
+
+tagCharStatsLightningAbsDmg=번개 데미지
+tagCharStatsLightningAbsDmgInfo=무기 공격에 의한 번개 피해량. 보너스 포함.
+tagCharStatsLightningPercentDmg=번개 속성 보정
+tagCharStatsLightningPercentDmgInfo=공격이나 스펠에 의한 모든 번개 속성 피해량에 대한 퍼센트 보너스로, 정신 능력치에 의한 보너스만 제외한 수치. 모든 데미지 보너스 포함.
+
+tagCharStatsAcidAbsDmg=산성 데미지
+tagCharStatsAcidAbsDmgInfo=무기 공격에 의한 산성 피해량. 보너스 포함.
+tagCharStatsAcidPercentDmg=산성 보정
+tagCharStatsAcidPercentDmgInfo=공격이나 스펠에 의한 모든 산성 피해량에 대한 퍼센트 보너스로, 정신 능력치에 의한 보너스만 제외한 수치. 모든 데미지 보너스 포함.
+
+tagCharStatsVitalityAbsDmg=생기 데미지
+tagCharStatsVitalityAbsDmgInfo=무기 공격에 의한 생기 피해량. 보너스 포함.
+tagCharStatsVitalityPercentDmg=생기 속성 보정치
+tagCharStatsVitalityPercentDmgInfo=공격이나 스펠에 의한 모든 생기 속성 피해량에 대한 퍼센트 보너스로, 정신 능력치에 의한 보너스만 제외한 수치. 모든 데미지 보너스 포함.
+
+tagCharStatsAetherAbsDmg=에테르 데미지
+tagCharStatsAetherAbsDmgInfo=무기 공격에 의한 에테르 피해량. 보너스 포함.
+tagCharStatsAetherPercentDmg=에테르 속성 보정
+tagCharStatsAetherPercentDmgInfo=공격이나 스펠에 의한 모든 에테르 속성 피해량에 대한 퍼센트 보너스로, 정신 능력치에 의한 보너스만 제외한 수치. 모든 데미지 보너스 포함.
+
+tagCharStatsChaosAbsDmg=혼돈 데미지
+tagCharStatsChaosAbsDmgInfo=무기 공격에 의한 혼돈 피해량. 보너스 포함.
+tagCharStatsChaosPercentDmg=혼돈 속성 보정
+tagCharStatsChaosPercentDmgInfo=공격이나 스펠에 의한 모든 혼돈 속성 피해량에 대한 퍼센트 보너스로, 정신 능력치에 의한 보너스만 제외한 수치. 모든 데미지 보너스 포함.
+
+tagCharStatsBurnAbsDmg=연소 데미지
+tagCharStatsBurnAbsDmgInfo=무기 공격에 의해 가해지는 3 초 간의 연소 피해 총량를 초당 피해량으로 환산. 보너스 포함.
+tagCharStatsBurnPercentDmg=연소 속성 보정
+tagCharStatsBurnPercentDmgInfo=공격이나 스펠에 의한 모든 연소 속성 피해량에 대한 퍼센트 보너스로, 정신 능력치에 의한 보너스만 제외한 수치. 모든 데미지 보너스도 포함.
+tagCharStatsBurnDuration=연소 지속시간
+tagCharStatsBurnDurationInfo=연소 피해가 지속되는 시간에 대한 퍼센트 보너스. 초당 피해량은 늘어나지 않는다.
+
+tagCharStatsColdburnAbsDmg=동상 데미지
+tagCharStatsColdburnAbsDmgInfo=무기 공격에 의해 가해지는 3 초 간의 동상 피해 총량를 초당 피해량으로 환산. 보너스 포함.
+tagCharStatsColdburnPercentDmg=동상 속성 보정
+tagCharStatsColdburnPercentDmgInfo=공격이나 스펠에 의한 모든 동상 속성 피해량에 대한 퍼센트 보너스로, 정신 능력치에 의한 보너스만 제외한 수치. 모든 데미지 보너스도 포함.
+tagCharStatsColdburnDuration=동상 지속시간
+tagCharStatsColdburnDurationInfo=동상 피해가 지속되는 시간에 대한 퍼센트 보너스. 초당 피해량은 늘어나지 않는다.
+
+tagCharStatsElectrocuteAbsDmg=감전 데미지
+tagCharStatsElectrocuteAbsDmgInfo=무기 공격에 의해 가해지는 3 초 간의 감전 피해 총량를 초당 피해량으로 환산. 보너스 포함.
+tagCharStatsElectrocutePercentDmg=감전 속성 보정
+tagCharStatsElectrocutePercentDmgInfo=공격이나 스펠에 의한 모든 감전 속성 피해량에 대한 퍼센트 보너스로, 정신 능력치에 의한 보너스만 제외한 수치. 모든 데미지 보너스도 포함.
+tagCharStatsElectrocuteDuration=감전 지속시간
+tagCharStatsElectrocuteDurationInfo=감전 피해가 지속되는 시간에 대한 퍼센트 보너스. 초당 피해량은 늘어나지 않는다.
+
+tagCharStatsPoisonAbsDmg=독 데미지
+tagCharStatsPoisonAbsDmgInfo=무기 공격에 의해 가해지는 5 초 간의 독 피해 총량를 초당 피해량으로 환산. 보너스 포함.
+tagCharStatsPoisonPercentDmg=독 속성 보정
+tagCharStatsPoisonPercentDmgInfo=공격이나 스펠에 의한 모든 독 속성 피해량에 대한 퍼센트 보너스로, 정신 능력치에 의한 보너스만 제외한 수치. 모든 데미지 보너스도 포함.
+tagCharStatsPoisonDuration=독 지속시간
+tagCharStatsPoisonDurationInfo=독 피해가 지속되는 시간에 대한 퍼센트 보너스. 초당 피해량은 늘어나지 않는다.
+
+tagCharStatsVitalityDecayAbsDmg=생기 부식 데미지
+tagCharStatsVitalityDecayAbsDmgInfo=무기 공격에 의해 가해지는 3 초 간의 생기 부식 피해 총량를 초당 피해량으로 환산. 보너스 포함.
+tagCharStatsVitalityDecayPercentDmg=생기 부식 속성 보정
+tagCharStatsVitalityDecayPercentDmgInfo=공격이나 스펠에 의한 모든 생기 부식 속성 피해량에 대한 퍼센트 보너스로, 정신 능력치에 의한 보너스만 제외한 수치. 모든 데미지 보너스도 포함.
+tagCharStatsVitalityDecayDuration=생기 부식 지속시간
+tagCharStatsVitalityDecayDurationInfo=생기 부식 피해가 지속되는 시간에 대한 퍼센트 보너스. 초당 피해량은 늘어나지 않는다.
+
+tagCharStatsPhysical=물리
+tagCharStatsPierce=관통
+tagCharStatsCold=냉기
+tagCharStatsFire=화염
+tagCharStatsAcid=산성
+tagCharStatsLightning=번개
+tagCharStatsVitality=생기
+tagCharStatsChaos=혼돈
+tagCharStatsAether=에테르
+tagCharStatsLifeLeech=생명력 흡수
+tagCharStatsManaLeech=에너지 흡수
+tagCharStatsDurInternalTrauma=체내 충격
+tagCharStatsDurFrostburn=동상
+tagCharStatsDurBurn=연소
+tagCharStatsDurPoison=독
+tagCharStatsDurElectrocute=감전
+tagCharStatsDurVitalityDecay=생기 부식
+tagCharStatsDurBleeding=출혈
+tagCharStatsDurLifeLeech=생명력 흡수
+tagCharStatsDurManaLeech=에너지 흡수
+
+#Pets
+tagCharStatsPetHealth=생명력
+tagCharStatsPetHealthInfo=펫이나 소환수의 체력에 대한 퍼센트 보너스.
+
+tagCharStatsPetDamage=데미지
+tagCharStatsPetDamageInfo=펫이나 소환수의 데미지에 대한 퍼센트 보너스. 펫의 보복 데미지와는 무관하다.
+
+tagCharStatsPetAttackSpeed=공격 속도
+tagCharStatsPetAttackSpeedInfo=펫과 소환수의 공격 속도에 대한 퍼센트 보너스.
+
+tagCharStatsPetCastSpeed=시전 속도
+tagCharStatsPetCastSpeednfo=펫과 소환수의 시전 속도에 대한 퍼센트 보너스.
+
+tagCharStatsPetRunSpeed=이동 속도
+tagCharStatsPetRunSpeednfo=펫과 소환수의 이동 속도에 대한 퍼센트 보너스.
+
+tagCharStatsPetOA=공격 능력
+tagCharStatsPetOAInfo=펫과 소환수의 공격 능력에 대한 퍼센트 보너스.
+
+tagCharStatsPetDA=방어 능력
+tagCharStatsPetDAInfo=펫과 소환수의 방어 능력에 대한 퍼센트 보너스.
+
+tagCharStatsPetPhysicalResist=물리 저항
+tagCharStatsPetPhysicalResistInfo=펫과 소환수의 물리 저항에 대한 퍼센트 보너스.
+
+tagCharStatsPetFireResist=화염 저항
+tagCharStatsPetFireResistInfo=펫과 소환수의 화염 저항에 대한 퍼센트 보너스.
+
+tagCharStatsPetColdResist=냉기 저항
+tagCharStatsPetColdResistInfo=펫과 소환수의 냉기 저항에 대한 퍼센트 보너스.
+
+tagCharStatsPetLightningResist=번개 저항
+tagCharStatsPetLightningResistInfo=펫과 소환수의 번개 저항에 대한 퍼센트 보너스.
+
+tagCharStatsPetPoisonResist=독/산성 저항
+tagCharStatsPetPoisonResistInfo=펫과 소환수의 독/산성 저항에 대한 퍼센트 보너스.
+
+tagCharStatsPetPierceResist=관통 저항
+tagCharStatsPetPierceResistInfo=펫과 소환수의 관통 저항에 대한 퍼센트 보너스.
+
+tagCharStatsPetBleedResist=출혈 저항
+tagCharStatsPetBleedResistInfo=펫과 소환수의 출혈 저항에 대한 퍼센트 보너스.
+
+tagCharStatsPetVitalityResist=생기 저항
+tagCharStatsPetVitalityResistInfo=펫과 소환수의 생기 저항에 대한 퍼센트 보너스.
+
+tagCharStatsPetAetherResist=에테르 저항
+tagCharStatsPetAetherResistInfo=펫과 소환수의 에테르 저항에 대한 퍼센트 보너스.
+
+tagCharStatsPetChaosResist=혼돈 저항
+tagCharStatsPetChaosResistInfo=펫과 소환수의 혼돈 저항에 대한 퍼센트 보너스.
+
+#Char Stats Tab 3
+
+#Defense
+tagCharStatsBlockChance=차단 확률
+tagCharStatsBlockChanceDescription=들어오는 공격을 차단할 가능성의 퍼센트.
+
+tagCharStatsBlockAmount=차단되는 데미지
+tagCharStatsBlockAmountDescription=차단이 성공할 경우 무시될 데미지의 총량
+
+tagCharStatsBlockRecovery=차단 자세 회복
+tagCharStatsBlockRecoveryInfo=공격을 차단할 자세를 다시 갖추는데 걸리는 시간 단축 비율.
+
+tagCharStatsDodgeChance=근접 회피 확률
+tagCharStatsDodgeChanceInfo=근접 공격을 피하여 피해를 완전히 무시할 수 있는 비율.
+
+tagCharStatsProjDeflectChance=투사체 회피 확률
+tagCharStatsProjDeflectChanceInfo=원거리 공격이 빗나가게 하여 피해를 완전히 무시할 수 있는 비율.
+
+tagCharStatsPhysicalResist=물리 저항
+tagCharStatsPhysicalResistInfo=물리 피해와 체내 충격 피해를 발생시키는 공격이나 스펠에 대한 저항력.
+
+tagCharStatsDisruptionResist=시전방해 저항
+tagCharStatsDisruptionResistInfo=스킬 사용을 방해하는 공격이나 스펠에 대한 저항력.
+
+tagCharStatsLifeLeechResist=생명력 흡수 저항
+tagCharStatsLifeLeechResistInfo=생명력을 빨아들이는 공격에 대한 저항력.
+
+tagCharStatsEnergyLeechResist=에너지 흡수 저항
+tagCharStatsEnergyLeechResistInfo=에너지를 빨아들이는 공격에 대한 저항력.
+
+tagCharStatsTrapResist=함정 저항
+tagCharStatsTrapResistInfo=캐릭터를 움직이지 못하게 하는 함정에 걸린 효과에 대한 저항력.
+
+tagCharStatsPetrifyResist=석화 저항
+tagCharStatsPetrifyResistInfo=캐릭터의 피부를 석화시켜 아무 반응을 못하게 하는 스펠에 대한 저항력.
+
+tagCharStatsFreezeResist=빙결 저항
+tagCharStatsFreezeResistInfo=캐릭터를 딱딱하게 얼게 하여 아무 반응을 못하게 하는 스펠에 대한 저항력.
+
+tagCharStatsSleepResist=수면 저항
+tagCharStatsSleepResistInfo=캐릭터를 깊은 잠에 빠진 것 같은 상태에 빠트려 공격을 받기 전까지 아무 반응을 못하게 하는 스펠에 대한 저항력.
+
+tagCharStatsSlowResist=감속 저항
+tagCharStatsSlowResistInfo=공격, 시전 속도 및 이동 속도를 줄이는 효과에 대한 저항력.
+
+#Retaliation
+tagCharStatsDamageReflect=데미지 반사
+tagCharStatsDamageReflectInfo=캐릭터가 받은 데미지의 일부가 공격을 가한 자에게 반사되는 비율.
+
+tagCharStatsCurrentLifeReflect=생명력 보복
+tagCharStatsCurrentLifeReflectInfo=공격 받을 때마다 공격자의 최대 체력의 일부만큼의 피해를 공격자에게 가하는 비율.
+
+tagCharStatsPhysicalRet=물리 보복
+tagCharStatsPhysicalRetInfo=공격 받을 때마다 공격자에게 가해지는 물리 데미지.
+tagCharStatsPhysicalPercentRet=물리 보복 보정
+tagCharStatsPhysicalPercentRetInfo=모든 물리 데미지 보복 효과에 대한 퍼센트 데미지. 모든 데미지 보너스는 보복 피해량에는 영향을 주지 않는다.
+
+tagCharStatsPierceRet=관통 보복
+tagCharStatsPierceRetInfo=공격 받을 때마다 공격자에게 가해지는 관통 데미지.
+tagCharStatsPiercePercentRet=관통 보복 보정
+tagCharStatsPiercePercentRetInfo=모든 관통 데미지 보복 효과에 대한 퍼센트 데미지. 정모든 데미지 보너스는 보복 피해량에는 영향을 주지 않는다.
+
+tagCharStatsBleedRet=출혈 보복
+tagCharStatsBleedRetInfo=공격 받을 때마다 공격자에게 가해지는 출혈 데미지의 3 초간 총량을 초당 데미지로 환산.
+tagCharStatsBleedPercentRet=출혈 보복 보정
+tagCharStatsBleedPercentRetInfo=모든 출혈 데미지 보복 효과에 대한 퍼센트 데미지. 모든 데미지 보너스는 보복 피해량에는 영향을 주지 않는다.
+
+tagCharStatsInternalTraumaRet=체내 충격
+tagCharStatsInternalTraumaRetInfo=공격 받을 때마다 공격자에게 가해지는 출혈 데미지의 5 초간 총량을 초당 데미지로 환산.
+tagCharStatsInternalTraumaPercentRet=체내 충격
+tagCharStatsInternalTraumaPercentRetInfo=모든 체내 충격 데미지 보복 효과에 대한 퍼센트 데미지. 모든 데미지 보너스는 보복 피해량에는 영향을 주지 않는다.
+
+tagCharStatsFireRet=화염 보복
+tagCharStatsFireRetInfo=공격 받을 때마다 공격자에게 가해지는 화염 데미지.
+tagCharStatsFirePercentRet=화염 보복 보정
+tagCharStatsFirePercentRetInfo=모든 화염 데미지 보복 효과에 대한 퍼센트 데미지. 모든 데미지 보너스는 보복 피해량에는 영향을 주지 않는다.
+
+tagCharStatsColdRet=냉기 보복
+tagCharStatsColdRetInfo=공격 받을 때마다 공격자에게 가해지는 냉기 데미지.
+tagCharStatsColdPercentRet=냉기 보복 보정
+tagCharStatsColdPercentRetInfo=모든 냉기 데미지 보복 효과에 대한 퍼센트 데미지. 모든 데미지 보너스는 보복 피해량에는 영향을 주지 않는다.
+
+tagCharStatsLightningRet=번개 보복
+tagCharStatsLightningRetInfo=공격 받을 때마다 공격자에게 가해지는 번개 데미지.
+tagCharStatsLightningPercentRet=번개 보복 보정
+tagCharStatsLightningPercentRetInfo=모든 번개 데미지 보복 효과에 대한 퍼센트 데미지. 모든 데미지 보너스는 보복 피해량에는 영향을 주지 않는다.
+
+tagCharStatsAcidRet=산성 보복
+tagCharStatsAcidRetInfo=공격 받을 때마다 공격자에게 가해지는 산성 데미지.
+tagCharStatsAcidPercentRet=산성 보복 보정
+tagCharStatsAcidPercentRetInfo=모든 산성 데미지 보복 효과에 대한 퍼센트 데미지. 모든 데미지 보너스는 보복 피해량에는 영향을 주지 않는다.
+
+tagCharStatsVitalityRet=생기 보복
+tagCharStatsVitalityRetInfo=공격 받을 때마다 공격자에게 가해지는 생기 데미지.
+tagCharStatsVitalityPercentRet=생기 보복 보정
+tagCharStatsVitalityPercentRetInfo=모든 생기 데미지 보복 효과에 대한 퍼센트 데미지. 모든 데미지 보너스는 보복 피해량에는 영향을 주지 않는다.
+
+tagCharStatsAetherRet=에테르 보복
+tagCharStatsAetherRetInfo=공격 받을 때마다 공격자에게 가해지는 에테르 데미지.
+tagCharStatsAetherPercentRet=에테르 보복 보정
+tagCharStatsAetherPercentRetInfo=모든 에테르 데미지 보복 효과에 대한 퍼센트 데미지. 모든 데미지 보너스는 보복 피해량에는 영향을 주지 않는다.
+
+tagCharStatsChaosRet=혼돈 보복
+tagCharStatsChaosRetInfo=공격 받을 때마다 공격자에게 가해지는 혼돈 데미지.
+tagCharStatsChaosPercentRet=혼돈 보복 보정
+tagCharStatsChaosPercentRetInfo=모든 혼돈 데미지 보복 효과에 대한 퍼센트 데미지. 모든 데미지 보너스는 보복 피해량에는 영향을 주지 않는다.
+
+tagCharStatsBurnRet=연소 보복
+tagCharStatsBurnRetInfo=공격 받을 때마다 공격자에게 가해지는 화염 데미지의 3 초간 총량을 초당 데미지로 환산.
+tagCharStatsBurnPercentRet=연소 보복 보정
+tagCharStatsBurnPercentRetInfo=모든 연소 데미지 보복 효과에 대한 퍼센트 데미지. 모든 데미지 보너스는 보복 피해량에는 영향을 주지 않는다.
+
+tagCharStatsColdburnRet=동상 보복
+tagCharStatsColdburnRetInfo=공격 받을 때마다 공격자에게 가해지는 동상 데미지의 3 초간 총량을 초당 데미지로 환산.
+tagCharStatsColdburnPercentRet=동상 보복 보정
+tagCharStatsColdburnPercentRetInfo=모든 동상 데미지 보복 효과에 대한 퍼센트 데미지. 모든 데미지 보너스는 보복 피해량에는 영향을 주지 않는다.
+
+tagCharStatsElectrocuteRet=감전 보복
+tagCharStatsElectrocuteRetInfo=공격 받을 때마다 공격자에게 가해지는 감전 데미지의 3 초간 총량을 초당 데미지로 환산.
+tagCharStatsElectrocutePercentRet=감전 보복 보정
+tagCharStatsElectrocutePercentRetInfo=모든 감전 데미지 보복 효과에 대한 퍼센트 데미지. 모든 데미지 보너스는 보복 피해량에는 영향을 주지 않는다.
+
+tagCharStatsPoisonRet=독 보복
+tagCharStatsPoisonRetInfo=공격 받을 때마다 공격자에게 가해지는 독 데미지의 5 초간 총량을 초당 데미지로 환산.
+tagCharStatsPoisonPercentRet=독 보복 보정
+tagCharStatsPoisonPercentRetInfo=모든 독 데미지 보복 효과에 대한 퍼센트 데미지. 모든 데미지 보너스는 보복 피해량에는 영향을 주지 않는다.
+
+tagCharStatsVitalityDecayRet=생기 부식 보복
+tagCharStatsVitalityDecayRetInfo=공격 받을 때마다 공격자에게 가해지는 생기 부식 데미지의 3 초간 총량을 초당 데미지로 환산.
+tagCharStatsVitalityDecayPercentRet=생기 부식 보복 보정
+tagCharStatsVitalityDecayPercentRetInfo=모든 생기 부식 데미지 보복 효과에 대한 퍼센트 데미지. 모든 데미지 보너스는 보복 피해량에는 영향을 주지 않는다.
+
+#Stats
+tagCharStatsItemLevel=평균 장비 레벨
+tagCharStatsItemLevelInfo=착용하고 있는 모든 장비들의 레벨 평균.
+
+tagRecordTime=경과한 시간
+tagRecordTimeNumber={%d0}:{%d1}:{%d2}
+tagRecordTimeInfo=총 플레이 시간 - 일:시간:분
+
+tagRecordMonsterKills=처치한 몬스터
+tagRecordMonsterKillsInfo=이 캐릭터가 처치한 몬스터의 숫자.
+
+tagRecordChampionKills=처치한 보스와 영웅 몬스터
+tagRecordChampionKillsInfo=이 캐릭터가 처치한 보스나 영웅 몬스터의 숫자.
+
+tagRecordHighestMonster=처치했던 가장 강력한 몬스터
+tagRecordHighestMonsterInfo=이 캐릭터가 처치했던 가장 강력한 몬스터
+
+tagRecordHighestDamage=공격 데미지 기록
+tagRecordHighestDamageInfo=한 번의 공격으로 가한 데미지의 최대 기록.
+
+tagRecordHighestDamageTaken=피격 데미지 기록
+tagRecordHighestDamageTakenInfo=한 번의 피격으로 입은 데미지의 최대 기록.
+
+tagRecordDeath=총 사망 횟수
+tagRecordDeathInfo=이 캐릭터가 사망한 횟수들.
+
+tagCharStatsSecondaryResist=2차 저항:
+
+tagCharacterStats=캐릭터 통계
+tagCharStatsFactionTitle=세력 관계
+tagCPercentageValue={%.0f}%
+
+#Vendor
+
+tagVendorTabArtifactA=아티팩트
+tagVendorTabArtifactB=PLACEHOLDER
+tagVendorTab01A=근접 무기
+tagVendorTab01B=버려진 집, 오래된 시체나 곧 그럴게 될 것들에서 회수한 각종 전쟁 무기들.
+tagVendorTab02A=원거리 무기
+tagVendorTab02B=맞지 않는 부분들을 짜맞춘 권총부터 자동 회전 발사 기구와 재조립된 구식 석궁까지 모두 있음.
+tagVendorTab03A=방어구
+tagVendorTab03B=해진 옷감과 고철로 만든 갑주들 모음. 과거 전쟁터였던 곳들에서 나온 실제 갑옷 조각들을 사용해서 만든 것도 있음.
+tagVendorTab04A=장신구 및 소모품
+tagVendorTab04B=오래된 유물부터 집에서 만든 치료제까지.
+tagVendorTab05A=재구매
+tagVendorTab05B=마음이 바뀌었나요? 당신이 상점에 머무는 동안은 추가비용 없이 물건을 다시 살 수 있습니다. 상점을 떠나면, 거래가 완료됩니다.
+tagVendorSearchBoxInfo=아이템 이름이나 원하는 스탯에 따라 아이템을 필터링하려면 검색 매개 변수를 입력하십시오.
+
+tagFactionVendorTab01A=친숙한 사람
+tagFactionVendorTab01B=이 세력에게 친숙한 사람이 되면 보상이 해제됩니다. 
+tagFactionVendorTab02A=중요한 사람
+tagFactionVendorTab02B=이 세력에게 중요한 사람이 되면 보상이 해제됩니다. 
+tagFactionVendorTab03A=존경의 대상
+tagFactionVendorTab03B=이 세력에게 존경의 대상이 되면 보상이 해제됩니다. 
+tagFactionVendorTab04A=경외의 대상
+tagFactionVendorTab04B=이 세력에게 경외의 대상이 되면 보상이 해제됩니다. 
+
+tagVendorRolloverName=회수품 상인
+tagVendorRolloverDescription=인간의 피난처 너머를 과감히 탐색해서 회수하거나 훔쳐온 물건을 팔아서 인류의 불행 속에서도 이익을 얻는 상인들. 물건의 출처는 궁금해 하지 않는 편이 좋다.
+
+MarketCostAffordable={^g}가격  {%d0}
+MarketCostTooExpensive={^r}가격  {%d0} ~ 아이언 부족
+MarketCostReputationTooLow={^r}가격  {%d0} ~ 평판 부족
+MarketCostPreviousTransaction={^g}가격  {%d0} ~ 원래 판매 가격
+MarketCostPreviousTransactionTooExpensive={^r}가격  {%d0} ~ 아이언 부족
+MarketValue={^g}판매 가격  {%d0}
+MarketValuePreviousTransaction={^g}재판매 가격  {%d0} ~ 원래 구매 가격
+MarketSalePending=판매 보류
+MarketPurchasePending=구매 보류
+
+tagMarketError01=아이언이 부족합니다.
+tagMarketError02=인벤토리에 공간이 없습니다.
+tagMarketError03=아이템이 판매되었습니다.
+tagMarketError04=아이템을 판매할 수 없습니다.
+tagMarketError05=이 세력의 당신에 대한 평판이 부족합니다.
+CanNotBeSoldHere=상인이 이 아이템을 받지 않을 것입니다.
+Sold=판매
+
+
+#Crafting
+
+tagCrafting=제작
+tagInventorNamePlate=발명가
+tagCraftingComponentCount=인벤토리의 해당 재료 수량.
+tagCraftingComponentMissing=해당 재료가 인벤토리에 없음.
+tagCraftingWindowTitle=발명가
+tagCraftingPanelA=장비 보수
+tagCraftingPanelB=장비 분해
+tagCraftingCost=비용:
+tagCraftingBlueprint=도안
+tagCraftingComponent=컴포넌트
+tagCraftingComponentRequired=재료:
+tagCraftingCombine=조합
+tagCraftingDisplayBoxHelp=장비를 제작하려면, 작업대에 도안을 놓으십시오.
+tagCraftingBlueprintInfo=대장장이는 도안이 있으면 다양한 회수품들로 보다 나은 아이템을 만들어낼 수 있습니다.
+tagCraftingDeviceCost=비용:  {%t0} 아이언
+tagCraftingCreate=제작:
+tagCraftingLearn=[마우스 우클릭 혹은 아이템 사용 버튼으로 학습]
+tagCraftingRandom={^E}+랜덤 옵션
+tagCraftingQuantity={%d0}/{%d1}
+tagCraftingLargeQuantity=99+/{%d0}
+tagCraftingLargeStack=99+
+
+tagCraftingItemType00= ~ 장치
+tagCraftingItemType01= ~ 완성된 컴포넌트
+tagCraftingItemType02= ~ 완성된 물자
+tagCraftingItemType03= ~ 스크롤
+tagCraftingItemType04= ~ 장비
+
+tagCraftingButtonInfo=제작 창에 놓은 아이템을 조합합니다. 필요한 재료들이 모두 준비되면 이 버튼에 빛이 들어올 것입니다.
+tagCraftingConfirmation=정말로 이 조합을 완성하시겠습니까?
+
+tagCraftingDetatchmentInfo=
+
+tagCraftingProductBoxInfo=필요한 컴포넌트들이 배치되면 제작되는 아이템이 이 곳에 표시될 것입니다.
+tagCraftingProductBoxCompletion=새로 조립된 아이템을 작업대에서 회수하십시오.
+
+tagCraftingInsterComponent=도안에서 지정한 컴포넌트들을 슬롯들에 배치하십시오.
+
+tagCraftingSearchBoxInfo=아이템 이름이나 원하는 스탯에 따라 도안을 필터링하려면 검색 매개 변수를 입력하십시오.
+
+#Subheadings
+
+tagCraftingAxes=도끼
+tagCraftingBlunt=둔기
+tagCraftingSwords=도검
+tagCraftingImplements=대거 · 셉터
+tagCraftingTwoHandedMelee=양손 근접무기
+tagCraftingSpears=창
+tagCraftingStaves=스태프
+
+tagCraftingOneHanded=한손 총기
+tagCraftingTwoHanded=양손 원거리 무기
+
+tagCraftingBelts=허리띠
+tagCraftingHelms=머리 방어구
+tagCraftingTorso=상체 방어구
+tagCraftingShoulders=어깨 방어구
+tagCraftingLegs=다리 방어구
+tagCraftingHands=장갑 · 건틀렛
+tagCraftingFeet=신발
+tagCraftingOffhands=시전자용 보조장비
+tagCraftingShields=방패
+
+tagCraftingComponents=컴포넌트
+tagCraftingAccessories=장신구
+tagCraftingConsumables=소모품
+tagCraftingMaterials=재료
+
+tagCraftingRelicsTier01=강력한 렐릭
+tagCraftingRelicsTier02=초월적 렐릭
+tagCraftingRelicsTier03=신화적 렐릭
+
+tagDividerTab01=회수
+tagDividerRoll01=회수 탭에서는 아이템으로부터 컴포넌트나 증강제를 분리할 수 있습니다. 안타깝게도 이 과정은 완벽하지 못하므로 아이템 혹은 컴포넌트 중에 한 쪽은 반드시 파괴됩니다만, 어느 쪽을 희생해서 다른 쪽을 회수할지는 선택할 수 있습니다.{^n}{^n}회수 과정을 진행하면 사용되었던 증강제의 효과는 제거됩니다. 원래 귀속 효과가 없는 아이템에서 귀속 효과를 부여하는 증강제가 이 회수 과정을 통해 제거되면, 그 아이템의 귀속 효과도 제거됩니다.
+
+tagDividerTab02=해체
+tagDividerRoll02=해체 탭에서는 강한 마법이 걸린 아이템을 기본적인 부품들로 분해할 수 있습니다. 이 발명가는 아직 이 능력을 익히지 못했습니다.
+tagDividerRoll02B=해체 탭에서는 강한 마법이 걸린 아이템을 기본적인 부품들로 분해할 수 있습니다. 이 과정은 막대한 에너지가 필요하므로 이 발명가는 작업을 성공시키기 위해 다이너마이트를 사용하는 법을 고안했습니다.
+
+tagDividingButtonKeepItem=아이템 보존
+tagDividingBoxInfo=컴포넌트 혹은 증강제가 적용된 아이템을 배치하십시오.
+tagDividingButtonKeepComponent=컴포넌트 보존
+tagDividingButtonRemoveAugment=증강제 제거
+tagDividingKeepItemWarning=아이템 보존을 선택하면 부착되었던 컴포넌트와 적용되었던 증강제는 사라집니다.
+tagDividingKeepComponentWarning=컴포넌트 보존을 선택하면 기존 아이템과 적용되었던 증강제는 사라집니다.
+tagDividingRemoveAugmentWarning=증강제 제거를 선택하면 증강제의 효과와 함께 증강제가 부여하던 귀속 효과도 사라집니다.
+tagDividingCost=회수 비용:
+
+tagDismantleDynamiteTotal=다이너마이트 총 보유량:
+tagDismantleCost=해체 비용:
+tagDismantleButton=해체를 선택하면 배치된 아이템이 파괴됩니다.
+tagDismantleDestroyItemWarning=해체를 선택하면 이 아이템은 파괴됩니다. 계속 하시게습니까?
+tagDismantleDestroyItemComponentWarning=해체를 선택하면 이 아이템은 파괴되고 부착된 컴포넌트는 남습니다. 계속 하시겠습니까?
+tagDismantleBoxInfo=보통보다 높은 수준의 아이템을 배치하십시오.
+
+#Shrine
+
+tagShrineDesecrated=훼손된 성소
+tagShrineRuined=부서진 성소
+tagShrineRestored=복구된 성소
+tagShrineButton01=봉헌
+tagShrineButton02=시작
+tagShrineButton03=취소
+tagShrineButtonInfo=성소 가까이에 제물을 배치하십시오.
+tagShrineWarning=이 성소는 부서져 있어서 복구가 필요합니다. 이 제물을 사용하겠습니까?
+tagShrineConfirmProxy=이 성소는 오염되어 있어서 정화가 필요합니다. 성소에 묶여있는 것들을 불러내시겠습니까?
+tagShrineActivated=성소가 이미 복구되었습니다.
+tagShrineHostActivated=이 성소는 호스트에 의해 이미 복구된 상태입니다.
+tagShrineHostNotActivated=이 성소는 다른 세션에서 이미 복구한 장소입니다.
+tagShrineBusy=성소가 다른 플레이어에 의해 사용되고 있습니다.
+tagShrineLocked=성소가 휴면 상태입니다.
+
+#Smuggler
+
+tagStorageRefund=창고 환불
+tagCaravanTitle=밀수업자
+tagCaravanCost=비용: {%d0}
+tagCaravanRefund=환불: {%d0}
+tagCaravanExpand=창고 확장
+tagCaravanItemStorage=아이템 창고
+tagStorageInfo01=아이템 창고는 인벤토리의 연장선으로 사용할 수 있습니다. 마우스 우클릭이나 끌어다놓기를 통해 아이템 창고에 아이템을 넣거나 뺄 수 있습니다. 이렇게 아이템 창고에 넣어둔 아이템은 게임 내의 어느 밀수업자를 통해서든 찾을 수 있습니다.
+tagTransferCost=전송 비용: {%d0}
+tagTransferAdd=이 아이템을 공용 창고로 옮기시겠습니까?
+tagTransferInfo01=밀수업자를 통하면 다른 캐릭터에게 아이템을 옮길 수 있습니다. 아이템을 놓기만 하면 모든 캐릭터들이 접근할 수 있게 됩니다.
+tagCaravanItemTransfer=아이템 전송
+tagTransferInfo02=전송 공간에 아이템을 놓아두면 밀수업자를 통해 당신의 모든 캐릭터들이 접근할 수 있게 됩니다.
+tagCaravanError01=아이언이 부족하여 해당 아이템을 전송할 수 없습니다.
+tagStorageError01=창고의 확장칸을 구입할 아이언이 부족합니다.
+tagTransferError01=창고의 확장칸을 구입하는 데는 {%d0} 아이언이 필요합니다.
+tagTransferPurchase01=창고의 확장칸 구입에 {%d0} 아이언을 지불하겠습니까?
+tagTransferTab01=탭 1
+tagTransferTab02=탭 2
+tagTransferTab03=탭 3
+tagTransferTab04=탭 4
+tagCaravanSort=아이템을 자동으로 정리하시겠습니까?
+
+#Chat
+
+tagChatSend=전송:
+tagChatCommand01=파티
+tagChatCommand02=전원
+tagChatCommand03=개인
+tagChatCommand04=대화
+tagChatCommand05=대화 소거
+tagChatCommand06=소거 해제
+tagChatBrag=[{%t0}{%t1}{^-}]
+
+#NPC Conversation
+tagNpcConversationBusy=NPC가 다른 플레이어와 대화중입니다.
+
+#Treasure Trove
+tagTroveBusy=대상이 다른 플레이어에 의해 사용 중입니다.
+
+#Maps
+
+tagAerialMapCenteredButton=중앙
+tagAerialMapZoomText=확대/축소
+
+tagMapWindowName=지역 지도
+tagRiftWindowName=리프트 지도
+tagWorldMapWindowName=세계 지도
+
+tagMapSymbolAOI=관심지점
+tagMapSymbolAOIDesc=확인해볼 만한 장소
+tagMapSymbolSmuggler=밀수업자
+tagMapSymbolSmugglerDesc=아이템을 저장하거나 다른 캐릭터에게 전송할 수 있게 해주는 수상한 인물
+tagMapSymbolHero=플레이어
+tagMapSymbolHeroDesc=플레이어의 현재 위치
+tagMapSymbolInventor=발명가
+tagMapSymbolInventorDesc=장비와 컴포넌트를 분리할 수 있는 수리공
+tagMapSymbolMission=퀘스트
+tagMapSymbolMissionDesc=현재 진행 중인 퀘스트
+tagMapSymbolNPC=NPC
+tagMapSymbolNPCDesc=조종할 수 없는 캐릭터
+tagMapSymbolGroup=파티
+tagMapSymbolGroupDesc=파티원들의 위치
+tagMapSymbolRespawn=치료사
+tagMapSymbolRespawnDesc=고통스러운 상처를 회복시키고 봉합하는 훈련을 받은 치료사
+tagMapSymbolRiftgate=리프트
+tagMapSymbolRiftgateDesc=다른 장소로 이동시켜주는 초자연적인 균열
+tagMapSymbolVendor=행상인
+tagMapSymbolVendorDesc=전쟁 물자를 취급하는 상인
+tagMapSymbolWitch=영혼 길잡이
+tagMapSymbolWitchDesc=익힌 스킬을 취소하는 일을 도와주는 인물
+tagMapSymbolShrine=성소
+tagMapSymbolShrineDesc=별들과 오래된 신들에게 바쳐진 고대의 성소
+tagMapSymbolSmith=대장장이
+tagMapSymbolSmithDesc=새로운 아이템을 만들어낼 수 있는 숙련된 기술자
+
+#SystemStatsSkillUI
+
+tagOptionsMenuReturn=게임으로 돌아가기
+tagOptionsMenuExit=메인 메뉴로 나가기
+tagOptionsMenuQuit=게임 종료
+tagOptionsMenuOptions=옵션 메뉴
+tagOptionsMenuGameSaved=게임이 저장되었습니다.
+tagOptionsMenuExitMenuConfirm=메인 메뉴로 나가시겠습니까?
+tagOptionsMenuExitGameConfirm=게임을 종료하시겠습니까?
+tagInfoTitle=정보
+tagInfoButtonYes=Yes
+tagInfoButtonNo=No
+tagInfoButtonOk=OK
+tagGameOver=당신은 사망했습니다!
+
+SimpleStringFormat={%s0}
+SimpleStringsFormat={%s0}{%s1}
+TripleStringFormat={%s0}{%s1}{%s2}
+TripleStringFormat2={%s0} {%s1}{%s2}
+QuadStringFormat={%s0}{%s1}{%s2}{%s3}
+SkillBaseNamesFormat={    %s0}
+CostFormat=비용: {%d0}
+ManaDisplayFormat=에너지  {%d0} / {%d1} ({%d2} 할당됨)
+LifeDisplayFormat=체력  {%d0} / {%d1}
+ExperienceDisplayFormat=현재 경험치 : {^y}{%d0}{^w}  ~  다음 레벨까지 필요 경험치 : {^y}{%d1}
+
+tagExpDisplayFormat=현재 경험치 : {^y}{%t0}{^w}  ~  다음 레벨까지 필요 경험치 : {^y}{%t1}
+
+tagCharPointsSpent=사용한 포인트:
+
+tagCharAttribute01={%+.0f0} {^F}민첩{^E}
+tagCharAttribute02={%+.0f0} {^F}힘{^E}
+tagCharAttribute03={%+.0f0} {^F}정신{^E}
+tagCharAttribute04={%+.0f0} {^F}체력{^E}
+tagCharAttribute05={%+.0f0} {^F}에너지{^E}
+tagCharConstitution={%+.0f0} {^E}건강
+tagCharLifeRegen={%+.1f0} {^E}체력 재생/초
+tagCharManaRegen={%+.1f0} {^E}에너지 재생/초
+
+tagCharAttribute01Modifier={%+.0f0}% {^F}민첩{^E}
+tagCharAttribute02Modifier={%+.0f0}% {^F}힘{^E}
+tagCharAttribute03Modifier={%+.0f0}% {^F}정신{^E}
+tagCharAttribute04Modifier={%+.0f0}% {^F}체력{^E}
+tagCharAttribute05Modifier={%+.0f0}% {^F}에너지{^E}
+tagCharConstitutionModifier={%+.0f0}% {^E}건강
+tagCharLifeRegenModifier={^E}체력 재생량 증가 {^H}{%.0f0}%
+tagCharManaRegenModifier={^E}에너지 재생량 증가 {^H}{%.0f0}%
+
+tagCharManaLimitReserve={%.0f0} {^E} 에너지 할당됨
+tagCharManaLimitReserveMod={%+.0f0} {^E} 에너지 할당됨
+tagCharManaLimitReserveReduction=-{%.0f0} {^E} 에너지 할당량
+tagCharManaLimitReserveModifier={+%.0f0}% {^E}에너지 할당
+tagCharManaLimitReserveReductionModifier=-{%.0f0}% {^E}에너지 할당
+
+tagCharRunSpeed={%+.0f0}% {^X}이동 속도{^E}
+tagCharSpellCastSpeed={%+.0f0}% {^X}시전속도{^E}
+tagCharAttackSpeed={%+.0f0}% {^X}공격 속도{^E}
+tagCharTotalSpeedModifier={%+.0f0}% {^X}전체 속도{^E}
+tagCharRunSpeedModifier={%+.0f0}% {^X}이동 속도{^E}
+tagCharSpellCastSpeedModifier={%+.0f0}% {^X}시전 속도{^E}
+tagCharAttackSpeedModifier={%+.0f0}% {^X}공격 속도{^E}
+
+tagCharAttribute01R={%+.0f0}-{%.0f1} {^F}민첩{^E}
+tagCharAttribute02R={%+.0f0}-{%.0f1} {^F}힘{^E}
+tagCharAttribute03R={%+.0f0}-{%.0f1} {^F}정신{^E}
+tagCharAttribute04R={%+.0f0}-{%.0f1} {^F}체력{^E}
+tagCharAttribute05R={%+.0f0}-{%.0f1} {^F}에너지{^E}
+tagCharLifeRegenR={%+.1f0}-{%.1f1} {^E}체력 재생/초
+tagCharManaRegenR={%+.1f0}-{%.1f1} {^E}에너지 재생/초
+tagCharAttribute01ModifierR={%+.0f0}-{%.0f1}% {^F}민첩{^E}
+tagCharAttribute02ModifierR={%+.0f0}-{%.0f1}% {^F}힘{^E}
+tagCharAttribute03ModifierR={%+.0f0}-{%.0f1}% {^F}정신{^E}
+tagCharAttribute04ModifierR={%+.0f0}-{%.0f1}% {^F}체력{^E}
+tagCharAttribute05ModifierR={%+.0f0}-{%.0f1}% {^F}에너지{^E}
+tagCharLifeRegenModifierR={^E}초당 체력 재생량 증가 {^H}{%.0f0}-{%.0f1}%
+tagCharManaRegenModifierR={^E}초당 에너지 재생량 증가 {^H}{%.0f0}-{%.0f1}%
+tagCharManaLimitReserveR={%+.0f0}-{%.0f1} {^E}에너지 할당됨
+tagCharManaLimitReserveReductionR=-({%.0f0}-{%.0f1}) {^E}에너지 할당량
+tagCharManaLimitReserveModifierR={+%.0f0}-{%.0f1}% {^E}에너지 할당
+tagCharManaLimitReserveReductionModifierR=-({%.0f0}-{%.0f1}%) {^E}에너지 할당
+tagCharRunSpeedR={%+.0f0}-{%.0f1}% {^X}이동 속도{^E}
+tagCharSpellCastSpeedR={%+.0f0}-{%.0f1}% {^X}시전 속도{^E}
+tagCharAttackSpeedR={%+.0f0}-{%.0f1}% {^X}공격 속도{^E}
+tagCharTotalSpeedModifierR={%+.0f0}-{%.0f1}% {^X}전체 속도{^E}
+tagCharRunSpeedModifierR={%+.0f0}-{%.0f1}% {^X}이동 속도{^E}
+tagCharSpellCastSpeedModifierR={%+.0f0}-{%.0f1}% {^X}시전 속도{^E}
+tagCharAttackSpeedModifierR={%+.0f0}-{%.0f1}% {^X}공격 속도{^E}
+tagCharOffensiveAbilityR={%+.0f0}-{%.0f1} {^X}공격 능력{^E}
+tagCharDefensiveAbilityR={%+.0f0}-{%.0f1} {^X}방어 능력{^E}
+tagCharOffensiveAbilityModifierR={%+.0f0}-{%.0f1}% {^X}공격 능력{^E}
+tagCharDefensiveAbilityModifierR={%+.0f0}-{%.0f1}% {^X}방어 능력{^E}
+tagCharDefensiveBlockRecoveryReductionR=-({%.0f0}-%.0f1})% {^E}방패 위치 회복 시간
+tagCharEnergyAbsorptionPercentR={%+.0f0}-{%.0f1}% {^E}적의 스펠에서 에너지 흡수
+tagCharDodgePercentR={%.0f0}-{%.0f1}% {^E}근접 공격 회피 확률
+tagCharDeflectProjectilesR={%.0f0}-{%.0f1}% {^E}투사체 회피 확률
+tagCharIncreasedExperienceR={%+.0f0}-{%.0f1}% {^X}경험치 획득{^E}
+tagCharLightRadiusR={%+.0f0}-{%.0f1}% {^E}조명 반경
+tagCharItemGlobalReductionR={%.0f0}-{%.0f1}% {^E}능력치 요구량 전체 감소
+tagCharLevelReqReductionR=-({%.0f0}-{%.0f1}) {^E}아이템의 요구 레벨
+tagCharArmorStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}방어구의 힘 요구량
+tagCharArmorDexterityReqReductionR=-({%.0f0}--{%.0f1}%) {^E}방어구의 민첩 요구량
+tagCharArmorIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}방어구의 정신 요구량
+tagCharJewelryIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}장신구의 정신 요구량
+tagCharJewelryStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}장신구의 힘 요구량
+tagCharJewelryDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}장신구의 민첩 요구량
+tagCharShieldStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}방패의 힘 요구량
+tagCharShieldIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}방패의 정신 요구량
+tagCharShieldDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}방패의 민첩 요구량
+tagCharMeleeStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}근접 무기의 힘 요구량
+tagCharMeleeDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}근접 무기의 민첩 요구량
+tagCharMeleeIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}근접 무기의 정신 요구량
+tagCharHuntingStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}원거리 무기의 힘 요구량
+tagCharHuntingDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}원거리 무기의 민첩 요구량
+tagCharHuntingIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}원거리 무기의 정신 요구량
+tagCharStaffIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}스태프의 지능 요구량
+tagCharStaffStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}스태프의 힘 요구량
+tagCharStaffDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}스태프의 민첩 요구량
+tagCharWeapon2HIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}양손 무기의 정신 요구량
+tagCharWeapon2HStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}양손 무기의 힘 요구량
+tagCharWeapon2HDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}양손 무기의 민첩 요구량
+tagCharWeaponIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}모든 무기의 정신 요구량
+tagCharWeaponStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}모든 무기의 힘 요구량
+tagCharWeaponDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}모든 무기의 민첩 요구량
+
+SkillManaCostReductionR=-{%.0f0}% {^E}스킬의 에너지 비용
+SkillCooldownReductionR=+{%.0f0}% {^E}스킬 쿨타임 단축
+SkillProjectileSpeedModifierR={%+.0f0}% {^E}투사체 속도 향상
+SkillManaCostReductionModifierR=-{%.0f0}% {^E}스킬의 에너지 비용
+SkillCooldownReductionModifierR=-{%.0f0}% {^E}스킬 재충전 시간
+
+tagDamageConversion={%.0f0}%의 {^E}{%s1}가 {%s2}로 변환
+tagDamageRemoval={%.0f0}% {^E}{%s1} 감소
+tagConversionPhysical={^K}물리 데미지{^E}
+tagConversionPierce={^R}관통 데미지{^E}
+tagConversionElemental={^Y}원소 데미지{^E}
+tagConversionCold={^C}냉기 데미지{^E}
+tagConversionFire={^O}화염 데미지{^E}
+tagConversionPoison={^L}산성 데미지{^E}
+tagConversionLightning={^Z}번개 데미지{^E}
+tagConversionLife={^M}생기 데미지{^E}
+tagConversionChaos={^P}혼돈 데미지{^E}
+tagConversionAether={^A}에테르 데미지{^E}
+tagConversionStun=기절 시간
+
+tagAttackSpeedNotSet=속도: 미지정
+tagAttackSpeedVerySlow=속도: 매우 느림
+tagAttackSpeedSlow=속도: 느림
+tagAttackSpeedAverage=속도: 보통
+tagAttackSpeedFast=속도: 빠름
+tagAttackSpeedVeryFast=속도: 매우 빠름
+
+tagAttackSpeed={^W}{%.2f0} {^S}초당 공격 횟수
+tagAttackSpeedR={^W}{%.2f0} - {%.2f1} {^S}초당 공격 횟수
+
+tagCharOffensiveAbility={%+.0f0} {^X}공격 능력{^E}
+tagCharDefensiveAbility={%+.0f0} {^X}방어 능력{^E}
+tagCharOffensiveAbilityModifier={%+.0f0}% {^X}공격 능력{^E}
+tagCharDefensiveAbilityModifier={%+.0f0}% {^X}방어 능력{^E}
+
+tagCharDefensiveBlockRecoveryReduction={-%.0f0}% {^E}방패 위치 회복 시간
+tagCharEnergyAbsorptionPercent={%+.0f0}% {^E}적의 스펠에서 에너지 흡수
+tagCharDodgePercent={%.0f0}% {^E}근접 공격 회피 확률
+tagCharDeflectProjectiles={%.0f0}% {^E}투사체 회피 확률
+
+tagCharIncreasedExperience={%+.0f0}% {^X}경험치 획득{^E}
+tagCharLightRadius={%+.0f0}% {^E}조명 반경
+
+tagCharItemGlobalReduction={%.0f0}% {^E}능력치 요구량 전체 감소
+tagCharLevelReqReduction=-{%.0f0} {^E}아이템의 요구 레벨
+tagCharArmorStrengthReqReduction=-{%.0f0}% {^E}방어구의 힘 요구량
+tagCharArmorDexterityReqReduction=-{%.0f0}% {^E}방어구의 민첩 요구량
+tagCharArmorIntelligenceReqReduction=-{%.0f0}% {^E}방어구의 정신 요구량
+tagCharJewelryIntelligenceReqReduction=-{%.0f0}% {^E}장신구의 정신 요구량
+tagCharJewelryStrengthReqReduction=-{%.0f0}% {^E}장신구의 힘 요구량
+tagCharJewelryDexterityReqReduction=-{%.0f0}% {^E}장신구의 민첩 요구량
+tagCharShieldStrengthReqReduction=-{%.0f0}% {^E}방패의 힘 요구량
+tagCharShieldIntelligenceReqReduction=-{%.0f0}% {^E}방패의 정신 요구량
+tagCharShieldDexterityReqReduction=-{%.0f0}% {^E}방패의 민첩 요구량
+tagCharMeleeStrengthReqReduction=-{%.0f0}% {^E}근접 무기의 힘 요구량
+tagCharMeleeDexterityReqReduction=-{%.0f0}% {^E}근접 무기의 민첩 요구량
+tagCharMeleeIntelligenceReqReduction=-{%.0f0}% {^E}근접 무기의 정신 요구량
+tagCharHuntingStrengthReqReduction=-{%.0f0}% {^E}원거리 무기의 힘 요구량
+tagCharHuntingDexterityReqReduction=-{%.0f0}% {^E}원거리 무기의 민첩 요구량
+tagCharHuntingIntelligenceReqReduction=-{%.0f0}% {^E}원거리 무기의 정신 요구량
+tagCharStaffIntelligenceReqReduction=-{%.0f0}% {^E}스태프의 정산 요구량
+tagCharStaffStrengthReqReduction=-{%.0f0}% {^E}스태프의 힘 요구량
+tagCharStaffDexterityReqReduction=-{%.0f0}% {^E}스태프의 민첩 요구량
+tagCharWeapon2HIntelligenceReqReduction=-{%.0f0}% {^E}양손 무기의 정신 요구량
+tagCharWeapon2HStrengthReqReduction=-{%.0f0}% {^E}양손 무기의 힘 요구량
+tagCharWeapon2HDexterityReqReduction=-{%.0f0}% {^E}양손 무기의 민첩 요구량
+tagCharWeaponIntelligenceReqReduction=-{%.0f0}% {^E}모든 무기의 정신 요구량
+tagCharWeaponStrengthReqReduction=-{%.0f0}% {^E}모든 무기의 힘 요구량
+tagCharWeaponDexterityReqReduction=-{%.0f0}% {^E}모든 무기의 민첩 요구량
+
+tagChanceOf={%.1f0}%{^E}{의 확률로 {^H}
+tagChanceTo={%.1f0}%{^E}{의 확률로 {^H}
+
+Strength=힘
+Dexterity=민첩
+Intelligence=정신
+Life=체력
+Mana=에너지
+UnusedPointsText={%d0} 미사용 포인트
+LifeText={%.0f0} 체력
+ManaText={%.0f0} 에너지
+StrengthText={%.0f0} 힘
+DexterityText={%.0f0} 민첩
+IntelligenceText={%.0f0} 정신
+FloatFormat={%.0f0}
+Float1Format={%.1f0}
+Float2Format={%.2f0}
+NegativeFloat2Format=- {%.2f0}
+IntFormat={%d0}
+CharacterLevelDescription={%s0} - [레벨 {%d1}]
+ObjectIdFormat=({%d0})  
+SkillLevelFormat={%d0} / {%d1}
+ShortManaText=에너지  {%.0f0} / {%.0f1} / {%.1f2}
+ShortLifeText=체력 {%.0f0} / {%.0f1}
+ShortExperienceText=경험치 {%d0} / {%d1}
+ShortLevel=레벨 {%d0}
+HitFormat={%.0f0}
+CriticalHitFormat={%.0f0}
+CriticalHitFormatMult={%.0f0} (x{%.2f1})
+DurationCriticalHit=치명타
+DurationCriticalHitMult=치명타 (x{%.2f0})
+tagMiss=빗나감
+tagFumble=실수함
+tagDodge=회피
+tagBlock=차단
+tagDeflect=회피
+tagInvulnerable=무적
+GiveMoneyFormat=+{%d0} 아이언
+TakeMoneyFormat={%d0} 아이언
+ExperienceFormat=+{%d0} 경험치
+FactionFormat=+{%d0} {%s1} 평판
+FactionUnlocked={%s0} 개방
+LevelUpFormat=레벨 업!
+SkillPointFormat={%d0} 스킬 포인트
+AttributePointFormat={%d0} 능력치 포인트
+MenuName=이름: 
+MenuLevel=레벨:   {%d0}
+ItemSkillIncrement={+%d0} {^E}{%s1} 
+ItemMasteryIncrement={+%d0} {^X}{%s1}의 모든 스킬{^E}
+ItemAllSkillIncrement={+%d0} {^X}모든 스킬 {^E}
+ItemBasicAttributeBanner={^w}
+ItemBonusAttributeBanner={^b}
+tagPerSecond=/초
+tagDPS=초당 공격력 {%.1g0}
+
+LevelRequirement=플레이어 레벨
+ShieldBlockAbsorption={%.0f0}% 흡수
+ShieldBlockRecoveryTime={%.2f0} 초에 차단 자세 회복
+MeetsRequirement={%s0} 요구량: {%.0f1}
+MeetsRequirementWithReduction={%s0} 요구량: {%.0f1} [ {^r%.0f2 ^y- %.0f3}% 감소됨]
+FailsRequirementWithReduction={^r}{%s0} 요구량: {%.0f1} [ {%.0f2 ^y- %.0f3}% 감소됨]
+FailsRequirement={^r}{%s0} 요구량: {%.0f1}
+SkillIntFormat={%d0 %s1}
+SkillFloatFormat={%.0f0 %s1}
+SkillFloat1Format={%.1f0 %s1}
+SkillFloat2Format={%.2f0 %s1}
+SkillSecondFormat={%.1f0 {^E}초 %s1}
+SkillSecondFormatMod=+{%.1f0 {^E}초 %s1}
+SkillDistanceFormat={%.1f0 {^E}미터 %s1}
+SkillDistanceFormatMod=+{%.1f0 {^E}미터 %s1}
+SkillCostFormat={%.1f0 %s1}
+SkillCostFormatMod=+{%.1f0 %s1}
+SkillPercentFormat={%.0f0% %s1}
+SkillNumProjectilesFormat=투사체 {%d0} 개 발사
+SkillWeaponDamageFormat={%.0f0%} {^E}무기 데미지
+SkillWeaponDamageValuesFormat={%.0f0%} {^E}무기 데미지 ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageMainhandFormat={%.0f0%} {^E}주장비 데미지 ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageOffhandFormat={%.0f0%} {^E}보조장비 데미지 ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamagePetFormat={%.0f0%} {^E}펫 기본 공격 데미지
+SkillChargeFactor=매 충전 단계
+SkillChargeMax={^E}충전 단계: 
+SkillChargeLevel={^H}{%d0}%
+SkillChargeLevel2={^E}, {^H}{%d0}%
+SkillChargeLevelMod={%d0}%
+SkillChargeLevelMod2=, {%d0}%
+SkillChargeDuration=충전 지속시간
+SkillChargeFactorMod=충전 단계 당 증가
+SkillChargeMaxMod=충전 단계: 
+SkillChargeDurationMod=충전 지속시간 증가
+SkillChanceWeight={%d0}% {^E}발동 확률
+SkillActivationChance={^E}발동 확률
+SkillDamageAbsorption={%.0f0} {^E}데미지 흡수
+SkillDamageAbsorptionPercent={%.0f0}% {^E}데미지 흡수
+SkillPetBurstSpawn={^E}소환 {^H}{%d0}
+SkillPetBurstSpawnMod=+{%d0} {^E}소환수
+SkillPetBurstSpawnsMod=+{%d0} {^E}소환수
+SkillPetLimit={%d0} {^E}소환량 제한
+SkillPetLimitMod=+{%d0} {^E}소환량 제한
+SkillLifeBonus={%+.1f0} {^E}체력 회복
+SkillManaBonus={%+.1f0} {^E}에너지 회복
+SkillLifePercent={%.1f0}% {^E}체력 회복
+SkillManaPercent={%.1f0}% {^E}에너지 회복
+SkillLifeBonusAndPercent={%.0f1}% + {%.0f0} {^E}체력 회복
+SkillManaBonusAndPercent={%.0f1}% + {%.0f0} {^E}에너지 회복
+SkillPetDescriptionHeading={%s0} 능력치:
+tagSkillPetAbilities={%s0} 능력:
+SkillPetDescriptionNextHeading=다음 {%s0} 레벨:
+SkillPetDescriptionHealth={%.0f0}  {^E}체력
+SkillPetDescriptionMana={%.0f0}  {^E}에너지
+SkillPetDescriptionDamageMinOnly={%.0f0}  데미지
+SkillPetDescriptionDamageMinMax={%.0f0} - {%.0f1}  데미지
+tagSkillPetTimeToLive={^E}생존 시간 {^H}{%.1f0} {^E}초
+tagSkillPetTimeToLiveMod={^E}생존 시간 {^H}{%+.1f0} {^E}초
+tagSkillPrevious=... 이전
+tagSkillNext=다음 ...
+HoldCtrlToShowBaseValues=기본 값들을 보려면 CTRL 키를 누르십시오.
+PressToAddUnusedSkillPoints=왼쪽 클릭으로 스킬 포인트를 사용
+PressToAddUnusedDevotionPoints=왼쪽 클릭으로 디보션 포인트를 사용
+PressToActivateDevotion=왼쪽 클릭으로 활성화
+PressToAssignDevotion=왼쪽 클릭으로 배정
+AssignDevotionForExp=경험치를 얻으려면 배정해야 합니다
+SkillEnhancement=+{%d0} 모든 스킬
+NoSkillPointsToAdd=사용할 스킬 포인트가 없습니다.
+NoDevotionPointsToAdd=사용할 디보션 포인트가 없습니다.
+LockedDevotion=잠겨있음 - 별자리의 이전 위치를 활성화해야 합니다
+ActiveDevotion=활성 상태
+YouMustIncreaseMasteryLevel=포인트를 사용하려면 먼저 마스터리 레벨을 높여야 합니다.
+EnableOneBaseSkill=최소 1개 이상의 필요 스킬이 활성화 되어야 합니다
+MaxSkillLevelReached=최대 스킬 레벨에 도달함
+ActiveMasteriesAllowedReached=활성화할 수 있는 마스터리 허용 숫자에 도달함
+LifeMonitorPercent={^E}체력이 {^H}{%.1f0}% 이하로 내려가면 발동함
+FailedSkillDependancy={%s0} 스킬이 필요함
+FailedSkillDependancyAll=다음 스킬이 필요함:
+FailedSkillDependancyOne=다음 스킬 중 하나가 필요함:
+FailedSkillDependancyName={%s0}
+FailedDevotionDependency=연관 속성 요구량:
+FailedDevotionDependencyName={%d0} {%s1}
+FailedConstellationDependency=별자리 의존 현황:
+FailedConstellationSelfLocked=이 별자리는 자신의 연관 속성에 의존하고 있습니다. 이 별자리를 취소하려면 다른 별자리를 통해 연관 속성을 확보하십시오.
+ManaCost={^E}에너지 사용
+ManaCostPerSecond={^E}에너지를 매 초 사용
+ActiveLifeCost={^E}체력을 매 초 사용
+ActiveManaCost={^E}에너지를 매 초 사용
+ActiveDuration=지속시간
+Interval=간격
+TargetRadius=범위 대상
+TargetAngle={%.0f0} {^E}도의 공격 범위
+TargetAngleMod=+{%.0f0} {^E}도의 공격 범위
+TargetNumber={%d0} {^E}최대 공격 대상
+TargetNumberMod=+{%d0} {^E}최대 공격 대상
+CooldownTime={^E}스킬 재충전
+ExplosionRadius=범위
+TargetRange=범위
+ProjectileLaunchRotation={%.1f0} 투사체 확산
+ProjectileLaunchNumber={%d0}{^E}개의 투사체
+ProjectileLaunchNumberMod=+{%d0}{^E}개의 투사체
+ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1}{^E}개의 파편
+ProjectileFragmentsLaunchNumber={%d0}{^E}개의 파편
+ProjectilePiercingChance={%.1f0}% {^E}확률로 표적 관통
+ProjectilePiercingChanceMod=+{%.1f0}% {^E}확률로 표적 관통
+
+tagTooltipPetsHeader=펫
+tagTooltipSkillsHeader=부여된 스킬
+
+#Skill Wheel
+tagSkillConfig01=설정 1
+tagSkillConfig02=설정 2
+
+#Gamepad HUD
+tagGamePadSelect=선택
+tagGamePadBack=뒤로
+tagGamePadEquip=아이템 착용
+tagGamePadDrop=아이템 버림
+tagGamePadUseItem=아이템 사용
+tagGamePadSellItem=아이템 판매
+tagGamePadMoveItem=아이템 이동
+tagGamePadScroll=스크롤
+tagGamePadAssignSkills=스킬 지정
+tagGamePadSwapConfig=설정 교체
+tagGamePadMove=이동
+tagGamePadZoomIn=확대
+tagGamePadZoomOut=축소
+tagGamePadExit=나가기
+tagGamePadRevert=복구
+tagGamePadSplitStack=수량 분리
+tagGamePadNone=N/A
+
+tagGamePadCharacter=캐릭터
+tagGamePadSkills=스킬
+tagGamePadMap=지도
+tagGamePadFactions=세력 관계
+tagGamePadAchieve=업적
+tagGamePadLootFilter=전리품 필터
+tagGamePadDevotionSearch=검색
+tagGamePadMinimapSize=미니맵
+
+tagControllerUIWarning=현재의 스크린 해상도가 게임패드용 인터페이스를 지원하지 못합니다.
+
+tagShieldBlockInfo={%.0f0}% 확률로 {^W}{%.0f1} 데미지 차단
+
+
+
+SkillManaCostReduction=-{%.0f0}% {^E}스킬의 에너지 비용
+SkillCooldownReduction=+{%.0f0}% {^E}스킬 쿨타임 단축
+SkillProjectileSpeedModifier={%+.0f0}% {^E}투사체 속도 증가
+SkillManaCostReductionModifier=-{%.0f0}% {^E}스킬의 에너지 비용
+SkillCooldownReductionModifier=-{%.0f0}% {^E}스킬 재충전 시간
+
+GlobalChanceOfAllTag={^E}다음이 발생 가능: {^H}
+GlobalChanceOfOneTag={^E}다음 중 하나가 발생 가능: {^H}
+GlobalPercentChanceOfAllTag={%.1f0}% {^E}다음이 발생 가능:{^H}
+GlobalPercentChanceOfOneTag={%.1f0}% {^E}다음 중 하나가 발생 가능:{^H}
+tagIndent={   }
+tagDamageAbsorptionTitle={^E}다음 대상으로부터 보호:
+formatQualifyingDamage={     {^E}%s0}
+tagQualifyingDamagePhysical=물리
+tagQualifyingDamagePierce=관통
+tagQualifyingDamageLightning=번개
+tagQualifyingDamageFire=화염
+tagQualifyingDamageCold=냉기
+tagQualifyingDamagePoison=독과 산성
+tagQualifyingDamageLife=생기
+tagQualifyingDamageBleeding=출혈
+tagQualifyingDamageElemental=원소
+tagQualifyingDamageAether=에테르
+tagQualifyingDamageChaos=혼돈
+
+DamageSingleFormat={%.0f0}
+DamageRangeFormat={%.0f0}-{%.0f1}
+DamageInfluenceSingleFormat={%.1f0}
+DamageInfluenceRangeFormat={%.1f0}-{%.1f1}
+DamageReflexSingleFormat={%.1f0}
+DamageReflexRangeFormat={%.1f0}-{%.1f1}
+DamageSingleFormatSecond= {^E}{^H}{%.1f0} {^E}초 지속
+DamageSingleFormatTime= {^E}{^H}{%.1f0} {^E}초간 지속
+DamageRangeFormatTime= {^E}{^H}{%.1f0}-{%.1f1} {^E}초간 지속
+DamageFixedSingleFormatSecond= {^E}{^H}{%.1f0} {^E}초 지속
+DamageFixedSingleFormatTime= {^E}{^H}{%.1f0} {^E}초간 지속
+DamageFixedRangeFormatTime= {^E}{^H}{%.1f0} - {%.1f1} {^E}초간 지속
+RetaliationFixedSingleFormatSecond={^H}{%.1f0} {^E}초
+RetaliationFixedSingleFormatTime={^H}{%.1f0} {^E}초
+RetaliationFixedRangeFormatTime={^H}{%.1f0} - {%.1f1} {^E}초
+tagDurationDamageOverTime={^E}초당 {^H}{%d0} {^E}데미지
+tagDotReductionAbsolute={%d0} {^E}감소
+tagDotReductionPercent={%d0}% {^E}감소
+tagDotTimeRemaining={^H}{%.0f0} {^E}초 남음
+tagDotTimeRemainingPrecise={^H}{%.1f0} {^E}초 남음
+tagDurationFumble={%d0}% {^E}확률로 빗나감
+tagDotBleeding=출혈
+tagDotCold=동상
+tagDotFire=연소
+tagDotPoison=독
+tagDotLightning=감전
+tagDotChaos=혼돈
+tagDotAether=에테르
+tagDotVitality=생기 부식
+tagDotLifeLeech=생명력 흡수
+tagDotManaLeech=에너지 흡수
+tagDotPhysical=체내 충격
+tagDotAttackSpeed=공격 속도
+tagDotCastSpeed=시전 속도
+tagDotRunSpeed=이동 속도
+tagDotOffensiveAbility=공격 능력
+tagDotDefensiveAbility=방어 능력
+tagDotFumble=근접 공격 실수
+tagDotRangedFumble=조준 실수
+tagDotTotalDamageReduction=전체 데미지
+tagDotPhysicalDamageReduction=물리 데미지
+tagDotElementalDamageReduction=원소 데미지
+tagDotTotalResistReduction=전체 저항력
+tagDotPhysicalResistReduction=물리 저항력
+tagDotElementalResistReduction=원소 저항력
+tagDotStun=기절
+tagDotSleep=수면
+tagDotTrap=함정
+tagDotFreeze=빙결
+tagDotPetrify=석화
+
+tagSetItems=({%d0}) 세트
+tagSecond={^E}초
+tagSeconds={^E}초
+DamagePerSecond={%.0f0} {^S}데미지 / 초 (장착 시)
+DamagePerSecondOffHand={%.0f0} {^S}데미지 / 초 (보조 무기)
+DamagePhysicalChance={%t0} {^K}물리 데미지{^E}
+DamageBasePhysical={%t0} {^K}물리 데미지{^S}
+DamageBasePierceRatio={%.0f0}% {^S}방어구 관통
+DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}방어구 관통
+DamageBonusPhysical={%t0} {^K}물리 데미지{^E}
+tagDamageBaseFire={%t0} {^O}화염 데미지{^S}
+tagDamageBaseLightning={%t0} {^Z}번개 데미지{^S}
+tagDamageBaseCold={%t0} {^C}냉기 데미지{^S}
+tagDamageBaseVitality={%t0} {^M}생기 데미지{^S}
+tagDamageBasePoison={%t0} {^L}산성 데미지{^S}
+tagDamageBaseChaos={%t0} {^P}혼돈 데미지{^S}
+tagDamageBaseAether={%t0} {^A}에테르 데미지{^S}
+DamageCold={%t0} {^C}냉기 데미지{^E}
+DamageFire={%t0} {^O}화염 데미지{^E}
+DamageAether={%t0} {^A}에테르 데미지{^E}
+DamageChaos={%t0} {^P}혼돈 데미지{^E}
+DamageLife={%t0} {^M}생기 데미지{^E}
+DamageLifeLeech={%t0}%{^E}의 공격 데미지가 체력으로 변환
+DamageLightning={%t0} {^Z}번개 데미지{^E}
+DamageElemental={%t0} {^Y}원소 데미지{^E}
+DamageModifierElemental={%+.0f0}% {^Y}원소 데미지{^E}
+DamageModifierElementalR={%+.0f0}-{%.0f1}% {^Y}원소 데미지{^E}
+DamagePhysical=+{%t0} {^K}물리 데미지{^E}
+DamagePierce={%t0} {^R}관통 데미지{^E}
+DamagePoison={%t0} {^L}산성 데미지{^E}
+DamageKnockdown={^E}표적 넉다운{^H}{%t0}
+DamageStun={^E}표적에 기절{%t0}
+DamageFreeze={^E}표적에 빙결{%t0}
+DamagePetrify={^E}표적에 석화{%t0}
+DamageTrap={^E}표적에 이동불능{%t0}
+DamageTaunt={^E}표적 도발
+DamageThreat={^E}추가 위협 발생
+DamageConvert={^E}대상의 정신 조종{%t0}
+DamageFear={^E}표적에 공포{%t0}
+DamageConfusion={^E}표적에 혼란{%t0}
+DamageDisruption={^E}표적에 시전방해{%t0}
+DamagePercentCurrentLife={%t0}% {^E}만큼 적의 최대 체력 감소
+DamageManaDrain={%t0}% {^E}만큼 적의 에너지 소각
+DamageManaBurnRatio= {^E}({^H}{%.0f0}%{^E}의 태워진 에너지가 데미지로 변환)
+DamageModifierManaBurn={%.0f0}%{^E}의 태워진 에너지가 데미지로 변환
+
+DamageDurationAttackSpeed=% {^E}적의 공격 속도 저하
+DamageDurationCold= {^C}동상 데미지{^E}
+DamageDurationReduced= {^E}방어 감소
+DamageDurationFire= {^O}연소 데미지{^E}
+DamageDurationLife= {^M}생기 부식 데미지{^E}
+DamageDurationLifeLeach= {^E}생명력
+DamageDurationLightning= {^Z}감전 데미지{^E}
+DamageDurationManaLeach= {^E}에너지 흡수
+DamageDurationOffensiveAbility= {^E}공격 능력 저하
+DamageDurationOffensiveReduction= {^E}물리 데미지 감소
+DamageDurationDefensiveAbility= {^E}방어 능력 저하
+DamageDurationDefensiveReduction= {^E}방어구 등급 저하
+DamageDurationPhysical= {^K}체내 충격 데미지{^E}
+DamageDurationPoison= {^L}독 데미지{^E}
+DamageDurationTotalSpeed=% {^E}표적 감속
+DamageDurationRunSpeed=% {^E}이동속도 저하
+DamageDurationSpellCastSpeed=% {^E}시전속도 저하
+DamageDurationBleeding= {^R}출혈 데미지{^E}
+DamageDurationElemental= {^Y}원소 불길{^E}
+
+DamageTotalDamageReductionPercent=% {^E}모든 데미지 감소
+DamageTotalDamageReductionAbsolute= {^E}모든 데미지 감소
+DamagePhysicalReductionPercent=% {^E}물리 데미지 감소
+DamageElementalReductionPercent=% {^E}원소 데미지 감소
+DamageTotalResistanceReductionPercent=% {^E}저항 감소
+DamageTotalResistanceReductionAbsolute= {^E}저항 감소
+DamagePhysicalResistanceReductionPercent=% {^E}물리 저항 감소
+DamagePhysicalResistanceReductionAbsolute= {^E}물리 저항 감소
+DamageElementalResistanceReductionPercent=% {^E}원소 저항 감소
+DamageElementalResistanceReductionAbsolute= {^E}원소 저항 감소
+DamageDurationFumble=% {^E}확률로 적의 근접 공격 실수 유발
+DamageDurationProjectileFumble=% {^E}확률로 적의 조준 실수 유발
+
+DamageModifierPhysical={%+.0f0}% {^K}물리 데미지{^E}
+DamageModifierPhysicalR={%+.0f0}-{%.0f1}% {^K}물리 데미지{^E}
+DamageModifierPierceRatio={^H}{%.0f0}% {^E}방어구 관통 증가
+DamageModifierPierceRatioR={^H}{%.0f0}-{%.0f1}% {^E}방어구 관통 증가
+DamageModifierPierce={%+.0f0}% {^R}관통 데미지{^E}
+DamageModifierPierceR={%+.0f0}-{%.0f1}% {^R}관통 데미지{^E}
+DamageModifierCold={%+.0f0}% {^C}냉기 데미지{^E}
+DamageModifierColdR={%+.0f0}-{%.0f1}% {^C}냉기 데미지{^E}
+DamageModifierFire={%+.0f0}% {^O}화염 데미지{^E}
+DamageModifierFireR={%+.0f0}-{%.0f1}% {^O}화염 데미지{^E}
+DamageModifierPoison={%+.0f0}% {^L}산성 데미지{^E}
+DamageModifierPoisonR={%+.0f0}-{%.0f1}% {^L}산성 데미지{^E}
+DamageModifierLightning={%+.0f0}% {^Z}번개 데미지{^E}
+DamageModifierLightningR={%+.0f0}-{%.0f1}% {^Z}번개 데미지{^E}
+DamageModifierLife={%+.0f0}% {^M}생기 데미지{^E}
+DamageModifierLifeR={%+.0f0}-{%.0f1}% {^M}생기 데미지{^E}
+DamageModifierStun={%+.0f0}% {^E}기절 지속시간
+DamageModifierStunR={%+.0f0}-{%.0f1}% {^E}기절 지속시간
+DamageModifierChaos={%+.0f0}% {^P}혼돈 데미지{^E}
+DamageModifierChaosR={%+.0f0}-{%.0f1}% {^P}혼돈 데미지{^E}
+DamageModifierAether={%+.0f0}% {^A}에테르 데미지{^E}
+DamageModifierAetherR={%+.0f0}-{%.0f1}% {^A}에테르 데미지{^E}
+DamageModifierKnockdown={%+.0f0}% {^E}넉다운 지속시간
+DamageModifierKnockdownR={%+.0f0}-{%.0f1}% {^E}넉다운 지속시간
+DamageModifierTrap={%+.0f0}% {^E}함정 지속시간
+DamageModifierTrapR={%+.0f0}-{%.0f1}% {^E}함정 지속시간
+DamageModifierFreeze={%+.0f0}% {^E}빙결 지속시간
+DamageModifierFreezeR={%+.0f0}-{%.0f1}% {^E}빙결 지속시간
+DamageModifierPetrify={%+.0f0}% {^E}석화 지속시간
+DamageModifierPetrifyR={%+.0f0}-{%.0f1}% {^E}석화 지속시간
+
+DamageDurationModifierPhysical={%+.0f0}% {^K}체내 충격 데미지{^E}
+DamageDurationModifierBleeding={%+.0f0}% {^R}출혈 데미지{^E}
+DamageDurationModifierCold={%+.0f0}% {^C}동상 데미지{^E}
+DamageDurationModifierFire={%+.0f0}% {^O}연소 데미지{^E}
+DamageDurationModifierPoison={%+.0f0}% {^L}독 데미지{^E}
+DamageDurationModifierLightning={%+.0f0}% {^Z}감전 데미지{^E}
+DamageDurationModifierLife={%+.0f0}% {^M}생기 부식 데미지{^E}
+DamageDurationModifierAttackSpeed={%+.0f0}% {^E}공격 속도 저하
+DamageDurationModifierSpellCastSpeed={%+.0f0}% {^E}시전 속도 저하
+DamageDurationModifierRunSpeed={%+.0f0}% {^E}이동 속도 저하
+DamageDurationModifierLifeLeach={%+.0f0}% {^E}생명력 흡수 데미지
+DamageDurationModifierManaLeach={%+.0f0}% {^E}에너지 흡수
+DamageDurationModifierOffensiveAbility={%+.0f0}% {^E}공격 능력 저하
+DamageDurationModifierDefensiveAbility={%+.0f0}% {^E}방어 능력 저하
+DamageDurationModifierOffensiveReduction={%+.0f0}% {^E}물리 데미지 저하
+ImprovedTimeFormat={^E}와 {^H}{%+.0f0}% {^E}지속시간 증가
+ImprovedTimeFormatR= {^E}와 {^H}{%+.0f0}-{%.0f1}% {^E}지속시간 증가
+IncreasedDuration={^H}{%+.0f0}% {^E}{%s1} 지속시간 증가
+
+RetaliationCold={%t0} {^C}냉기 보복{^E}
+RetaliationFire={%t0} {^O}화염 보복{^E}
+RetaliationLife={%t0} {^M}생기 보복{^E}
+RetaliationLightning={%t0} {^Z}번개 보복{^E}
+RetaliationElemental={%t0} {^Y}원소 보복{^E}
+RetaliationPhysical={%t0} {^K}물리 보복{^E}
+RetaliationPierce={%t0} {^R}관통 보복{^E}
+RetaliationPoison={%t0} {^L}산성 보복{^E}
+RetaliationAether={%t0} {^A}에테르 보복{^E}
+RetaliationChaos={%t0} {^P}혼돈 보복{^E}
+RetaliationStun={%t0} 기절 보복
+RetaliationFreeze={%t0} 빙결 보복
+RetaliationPetrify={%t0} 석화 보복
+RetaliationTrap={%t0} 이동불능 보복
+RetaliationConvert={%t0} 정신조종 보복
+RetaliationFear={%t0} 공포 보복
+RetaliationConfusion={%t0} 혼란 보복
+RetaliationSleep={%t0} 수면 보복
+RetaliationPercentCurrentLife={^E}{^H}{%t0}% {^E}적의 최대 체력 감소 보복
+RetaliationDurationAttackSpeed=% {^E}공격 속도 저하 보복
+RetaliationDurationCold= {^C}동상 보복{^E}
+RetaliationDurationDefensiveAbility= {^E}방어 감소 보복
+RetaliationDurationFire= {^O}연소 보복{^E}
+RetaliationDurationLife= {^M}생기 부식 보복{^E}
+RetaliationDurationLifeLeach= {^E}생명력 흡수 보복
+RetaliationDurationLightning= {^Z}감전 보복{^E}
+RetaliationDurationManaLeach= {^E}에너지 흡수 보복
+RetaliationDurationOffensiveAbility= {^E}공격 능력 저하 보복
+RetaliationDurationOffensiveReduction= {^E}데미지 감소 보복
+RetaliationDurationPhysical= {^K}체내 충격 보복{^E}
+RetaliationDurationBleeding= {^R}출혈 보복{^E}
+RetaliationDurationPoison= {^L}독 보복{^E}
+RetaliationDurationRunSpeed=% {^E}이동 속도 저하 보복
+RetaliationDurationSpellCastSpeed=% {^E}시전 속도 저하 보복
+RetaliationModifierPhysical={%+.0f0}% {^K}물리 보복{^E}
+RetaliationModifierPierceRatio={%+.0f0}% {^R}관통 보복{^E}
+RetaliationModifierPierce={%+.0f0}% {^R}관통 보복{^E}
+RetaliationModifierCold={%+.0f0}% {^C}냉기 보복{^E}
+RetaliationModifierFire={%+.0f0}% {^O}화염 보복{^E}
+RetaliationModifierPoison={%+.0f0}% {^L}산성 보복{^E}
+RetaliationModifierLightning={%+.0f0}% {^Z}번개 보복{^E}
+RetaliationModifierAether={%+.0f0}% {^A}에테르 보복{^E}
+RetaliationModifierChaos={%+.0f0}% {^P}혼돈 보복{^E}
+RetaliationModifierElemental={%+.0f0}% {^Y}원소 보복{^E}
+RetaliationModifierLife={%+.0f0}% {^M}생기 부식 보복{^E}
+RetaliationModifierStun={%+.0f0}% {^E}기절 보복
+RetaliationModifierSleep={%+.0f0}% {^E}수면 보복
+RetaliationDurationModifierPhysical={%+.0f0}% {^K}체내 충격 보복{^E}
+RetaliationDurationModifierBleeding={%+.0f0}% {^R}출혈 보복{^E}
+RetaliationDurationModifierCold={%+.0f0}% {^C}동상 보복{^E}
+RetaliationDurationModifierDefensiveAbility={%+.0f0}% {^E}방어 저하 보복
+RetaliationDurationModifierFire={%+.0f0}% {^O}연소 보복{^E}
+RetaliationDurationModifierLife={%+.0f0}% {^M}생기 부식 보복{^E}
+RetaliationDurationModifierLifeLeach={%+.0f0}% {^E}생명력 흡수 보복
+RetaliationDurationModifierLightning={%+.0f0}% {^Z}감전 보복{^E}
+RetaliationDurationModifierManaLeach={%+.0f0}% {^E}에너지 흡수 보복
+RetaliationDurationModifierOffensiveAbility={%+.0f0}% {^E}공격 능력 감소 보복
+RetaliationDurationModifierOffensiveReduction={%+.0f0}% {^E}데미지 감소 보복
+RetaliationDurationModifierPoison={%+.0f0}% {^L}독 보복{^E}
+
+DefenseAbsorptionProtection={%.0f0} 방어력
+DefenseAbsorptionProtectionR={%.0f0}-{%.0f1} 방어력
+DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}방어력
+DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^E}방어력
+DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}보너스 방어력
+DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}보너스 방어력
+DefensePhysical={%.0f0}% {^K}물리 저항{^E}
+DefensePhysicalR={%.0f0}-{%.0f1}% {^K}물리 저항{^E}
+DefensePierce={%.0f0}% {^R}관통 저항{^E}
+DefensePierceR={%.0f0}-{%.0f1}% {^R}관통 저항{^E}
+DefenseElementalResistance={%.0f0}% {^Y}원소 저항{^E}
+DefenseElementalResistanceR={%.0f0}-{%.0f1}% {^Y}원소 저항{^E}
+DefenseCold={%.0f0}% {^C}냉기 저항{^E}
+DefenseColdR={%.0f0}-{%.0f1}% {^C}냉기 저항{^E}
+DefenseFire={%.0f0}% {^O}화염 저항{^E}
+DefenseFireR={%.0f0}-{%.0f1}% {^O}화염 저항{^E}
+DefenseAether={%.0f0}% {^A}에테르 저항{^E}
+DefenseAetherR={%.0f0}-{%.0f1}% {^A}에테르 저항{^E}
+DefenseChaos={%.0f0}% {^P}혼돈 저항{^E}
+DefenseChaosR={%.0f0}-{%.0f1}% {^P}혼돈 저항{^E}
+DefensePoison={%.0f0}% {^L}독과 산성 저항{^E}
+DefensePoisonR={%.0f0}-{%.0f1}% {^L}독과 산성 저항{^E}
+DefenseLightning={%.0f0}% {^Z}번개 저항{^E}
+DefenseLightningR={%.0f0}-{%.0f1}% {^Z}번개 저항{^E}
+DefenseLife={%.0f0}% {^M}생기 저항{^E}
+DefenseLifeR={%.0f0}-{%.0f1}% {^M}생기 저항{^E}
+DefenseStun={%.0f0}% {^E}기절 지속시간 단축
+DefenseStunNegative={%.0f0}% {^E}기절 저항
+DefenseStunR={%.0f0}-{%.0f1}% {^E}기절 지속시간 단축
+DefenseLifeLeach={%.0f0}% {^E}생명력 흡수 저항
+DefenseLifeLeachR={%.0f0}-{%.0f1}% {^E}생명력 흡수 저항
+DefenseManaLeach={%.0f0}% {^E}에너지 흡수 저항
+DefenseManaLeachR={%.0f0}-{%.0f1}% {^E}에너지 흡수 저항
+DefenseTrap={%.0f0}% {^E}함정 지속시간 단축
+DefenseTrapNegative={%.0f0}% {^E}함정 저항
+DefenseTrapR={%.0f0}-{%.0f1}% {^E}함정 지속시간 단축
+DefenseFreeze={%.0f0}% {^E}빙결 지속시간 단축
+DefenseFreezeNegative={%.0f0}% {^E}빙결 저항
+DefenseFreezeR={%.0f0}-{%.0f1}% {^E}빙결 지속시간 단축
+DefenseKnockdown={%.0f0}% {^E}넉다운 지속시간 단축
+DefenseKnockdownNegative={%.0f0}% {^E}넉다운 저항
+DefenseKnockdownR={%.0f0}-{%.0f1}% {^E}넉다운 지속시간 단축
+DefensePetrify={%.0f0}% {^E}석화 지속시간 단축
+DefensePetrifyNegative={%.0f0}% {^E}석화 저항
+DefensePetrifyR={%.0f0}-{%.0f1}% {^E}석화 지속시간 단축
+DefenseTaunt={%.0f0}% {^E}도발로부터 보호
+DefenseConvert={%.0f0}% {^E}정신조종 지속시간 단축
+DefenseFear={%.0f0}% {^E}공포 지속시간 단축
+DefenseConfusion={%.0f0}% {^E}혼란 저항
+DefenseDisruption={%.0f0}% {^E}시전방해 차단
+DefensePercentLife={%.0f0}% {^E}최대 체력 감소 저항
+DefenseBleeding={%.0f0}% {^R}출혈 저항{^E}
+DefenseBleedingR={%.0f0}-{%.0f1}% {^R}출혈 저항{^E}
+DefenseBlock={%.0f0} {^E}데미지 차단
+DefenseReflect={%.0f0}% {^E}데미지 반사
+DefenseReflectR={^H}{%.0f0}-{%.0f1}% {^E}데미지 반사
+DefensePhysicalDuration={%.0f0}% {^K}체내 충격 지속시간 단축{^E}
+DefenseBleedingDuration={%.0f0}% {^R}출혈 지속시간 단축{^E}
+DefenseColdDuration={%.0f0}% {^C}동상 지속시간 단축{^E}
+DefenseFireDuration={%.0f0}% {^O}연소 지속시간 단축{^E}
+DefensePoisonDuration={%.0f0}% {^L}독 지속시간 단축{^E}
+DefenseLightningDuration={%.0f0}% {^Z}감전 지속시간 단축{^E}
+DefenseLifeDuration={%.0f0}% {^M}생기 부식 지속시간 단축{^E}
+DefenseLifeLeachDuration={%.0f0}% {^E}생명력 흡수 지속시간 단축
+DefenseManaLeachDuration={%.0f0}% {^E}에너지 흡수 지속시간 단축
+DefensePercentCurrentLife={%.0f0}% {^E}체력 감소 저항
+DefenseManaBurnRatio={%.0f0}% {^E}에너지 태우기 저항
+DefenseProtectionModifier={^E}방어력 상승 {^H}{%.0f0}%
+DefenseProtectionModifierR={^E}방어력 상승 {^H}{%.0f0}-{%.0f1}%
+DefenseAbsorptionModifier={^E}방어구 흡수율 증가 {^H}{%.0f0}%
+DefenseAbsorptionModifierR={^E}방어구 흡수율 증가 {^H}{%.0f0}-{%.0f1}%
+DefensePhysicalModifier={^K}현재 물리 저항의 {^H}{%.0f0}% {^E}향상{^E}
+DefensePierceModifier={^R}현재 관통 저항의 {^H}{%.0f0}% {^E}향상{^E}
+DefenseColdModifier={^C}현재 냉기 저항의 {^H}{%.0f0}% {^E}향상{^E}
+DefenseFireModifier={^O}현재 화염 저항의 {^H}{%.0f0}% {^E}향상{^E}
+DefensePoisonModifier={^L}현재 독과 산성 저항의 {^H}{%.0f0}% {^E}향상{^E}
+DefenseLightningModifier={^Z}현재 번개 저항의 {^H}{%.0f0}% {^E}향상{^E}
+DefenseLifeModifier={^M}현재 생기 저항의 {^H}{%.0f0}% {^E}향상{^E}
+DefenseChaosModifier={^P}현재 혼돈 저항의 {^H}{%.0f0}% {^E}향상{^E}
+DefenseAetherModifier={^A}현재 에테르 저항의 {^H}{%.0f0}% {^E}향상{^E}
+DefenseStunModifier={^E}현재 기절 저항의 {^H}{%.0f0}% {^E}향상
+DefenseBlockModifier={%+.0f0}% {^E}방패의 차단 확률
+DefenseBlockAmountModifier={%+.0f0}% {^E}방패의 데미지 차단
+DefenseBlockAmountModifierR={%+.0f0}-{%+.0f1}% {^E}방패의 데미지 차단
+DefenseReflectModifier={%+.0f0}% {^E}데미지 반사
+DefenseLifeLeachModifier={^E}현재의 생명력 흡수 저항의 {^H}{%.0f0}% {^E}향상
+DefenseManaLeachModifier={^E}현재의 에너지 흡수 저항의 {^H}{%.0f0}% {^E}향상
+DefensePercentLifeModifier={^E}현재의 최대 체력 감소 저항의 {^H}{%.0f0}% {^E}향상
+DefenseBleedingModifier={^R}현재의 출혈 저항의 {^H}{%.0f0}% {^E}향상{^E}
+DefenseElementalModifier={^Y}현재의 원소 저항의 {^H}{%.0f0}% {^E}향상{^E}
+DefensePhysicalDurationModifier={%+.0f0}% {^K}체내 충격 지속시간 단축{^E}
+DefenseBleedingDurationModifier={%+.0f0}% {^E}출혈 지속시간 단축
+DefenseColdDurationModifier={%+.0f0}% {^C}동상 지속시간 단축{^E}
+DefenseFireDurationModifier={%+.0f0}% {^O}연소 지속시간 단축{^E}
+DefensePoisonDurationModifier={%+.0f0}% {^L}독 지속시간 단축{^E}
+DefenseLightningDurationModifier={%+.0f0}% {^Z}감전 지속시간 단축{^E}
+DefenseLifeDurationModifier={%+.0f0}% {^M}생기 부식 지속시간 단축{^E}
+DefenseLifeLeachDurationModifier={%+.0f0}% {^E}생명력 흡수 지속시간 단축
+DefenseManaLeachDurationModifier={%+.0f0}% {^E}에너지 흡수 지속시간 단축
+DefensePhysicalMaxResist={%+.0f0}% {^K}물리 저항력 최대치{^E}
+DefensePhysicalMaxResistR={%+.0f0}-{%.0f1}% {^K}물리 저항력 최대치{^E}
+DefensePierceMaxResist={%+.0f0}% {^R}관통 저항력 최대치{^E}
+DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^R}관통 저항력 최대치{^E}
+DefenseColdMaxResist={%+.0f0}% {^C}냉기 저항력 최대치{^E}
+DefenseColdMaxResistR={%+.0f0}-{%.0f1}% {^C}냉기 저항력 최대치{^E}
+DefenseFireMaxResist={%+.0f0}% {^O}화염 저항력 최대치{^E}
+DefenseFireMaxResistR={%+.0f0}-{%.0f1}% {^O}화염 저항력 최대치{^E}
+DefenseAetherMaxResist={%+.0f0}% {^A}에테르 저항력 최대치{^E}
+DefenseAetherMaxResistR={%+.0f0}-{%.0f1}% {^A}에테르 저항력 최대치{^E}
+DefenseChaosMaxResist={%+.0f0}% {^P}혼돈 저항력 최대치{^E}
+DefenseChaosMaxResistR={%+.0f0}-{%.0f1}% {^P}혼돈 저항력 최대치{^E}
+DefensePoisonMaxResist={%+.0f0}% {^L}독과 산성 저항력 최대치{^E}
+DefensePoisonMaxResistR={%+.0f0}-{%.0f1}% {^L}독과 산성 저항력 최대치{^E}
+DefenseLightningMaxResist={%+.0f0}% {^Z}번개 저항력 최대치{^E}
+DefenseLightningMaxResistR={%+.0f0}-{%.0f1}% {^Z}번개 저항력 최대치{^E}
+DefenseLifeMaxResist={%+.0f0}% {^M}생기 저항력 최대치{^E}
+DefenseLifeMaxResistR={%+.0f0}-{%.0f1}% {^M}생기 저항력 최대치{^E}
+DefenseStunMaxResist={%+.0f0}% {^E}기절 지속시간 단축 최대치
+DefenseStunMaxResistR={%+.0f0}-{%.0f1}% {^E}기절 지속시간 단축 최대치
+DefenseLifeLeachMaxResist={%+.0f0}% {^E}생명력 흡수 저항 최대치
+DefenseLifeLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}생명력 흡수 저항 최대치
+DefenseManaLeachMaxResist={%+.0f0}% {^E}에너지 흡수 저항 최대치
+DefenseManaLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}에너지 흡수 저항 최대치
+DefenseTrapMaxResist={%+.0f0}% {^E}함정 지속시간 단축 최대치
+DefenseTrapMaxResistR={%+.0f0}-{%.0f1}% {^E}함정 지속시간 단축 최대치
+DefenseFreezeMaxResist={%+.0f0}% {^E}빙결 지속시간 단축 최대치
+DefenseFreezeMaxResistR={%+.0f0}-{%.0f1}% {^E}빙결 지속시간 단축 최대치
+DefensePetrifyMaxResist={%+.0f0}% {^E}석화 지속시간 단축 최대치
+DefensePetrifyMaxResistR={%+.0f0}-{%.0f1}% {^E}석화 지속시간 단축 최대치
+DefenseDisruptionMaxResist={%+.0f0}% {^E}시전방해 차단 최대치
+DefenseDisruptionMaxResistR={%+.0f0}-{%.0f1}% {^E}시전방해 차단 최대치
+DefenseBleedingMaxResist={%+.0f0}% {^R}출혈 저항 최대치{^E}
+DefenseBleedingMaxResistR={%+.0f0}-{%.0f1}% {^R}출혈 저항 최대치{^E}
+DefenseSleepMaxResist={%+.0f0}% {^E}수면 저항 최대치
+DefenseSleepMaxResistR={%+.0f0}-{%.0f1}% {^E}수면 저항 최대치
+DefenseAllMaxResist={%+.0f0}% {^E}모든 저항력 최대치
+DefenseAllMaxResistR={%+.0f0}-{%.0f1}% {^E}모든 저항력 최대치
+DefenseReflectResist={%.0f0}% {^E}반사된 데미지 감소
+DefenseReflectResistR={%+.0f0}-{%.0f1}% {^E}반사된 데미지 감소
+
+RacialBonusPercentDamage={%+.0f0}% {^E}{%s1}에 대한 데미지 증가
+RacialBonusAbsoluteDamage={%+.0f0} {^E}{%s1}에 대한 데미지 증가
+RacialBonusPercentDefense={%.0f0}% {^E}{%s1}로부터의 데미지 감소
+RacialBonusAbsoluteDefense={%.0f0} {^E}{%s1}로부터의 데미지 감소
+RacialBonusRaceName={%s0}
+
+
+tagDamageSleep={^E}표적에 수면{%t0}
+tagDamageModifierSleep={%+.0f0}% {^E}수면 데미지
+tagDefenseSleep={%.0f0}% {^E}수면 저항
+tagDefenseSleepModifier={%+.0f0}% {^E}수면 저항
+tagDamageModifierTotalDamage={%+.0f0}% {^X}모든 데미지{^E}
+tagDamageModifierCritDamage={%+.0f0}% {^X}치명타 데미지{^E}
+tagDamageModifierCritDamageR={%+.0f0}-{%.0f1}% {^X}치명타 데미지{^E}
+tagDamageModifierDamageMult={^X}현재의 전체 데미지가 {^H}{%.0f0}% {^E}증감{^E}
+tagRetaliationModifierTotalDamage={%+.0f0}% {^X}전체 보복 데미지{^E}
+tagRetaliationModifierTotalDamageR={^X}모든 보복 데미지가 {^H}{%+.0f0}-{%.0f1}% {^E}증가{^E}
+tagRetaliationModifierDamageMult={^X}현재의 전체 보복 데미지가 {^H}{%.0f0}% {^E}증감{^E}
+tagTotalSpeedResistance={%.0f0}% {^E}감속 저항
+tagTotalSpeedResistanceR={%+.0f0}-{%.0f1}% {^E}감속 저항
+tagMindcontrolledMonster=정신 조종당함
+tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}확률로 최대 {^H}{%d1} {^E}개 표적에 영향
+tagSparkMaxNumberChanceSingleMod={^H}+{%.0f0}% {^E}확률로 최대 {^H}{%d1} {^E}개 표적에 영향
+tagSparkMaxNumberChance={^H}{%.0f0}% {^E}확률로 최대 {^H}{%d1} {^E}개 표적에 영향
+tagSparkMaxNumberChanceMod={^H}+{%.0f0}% {^E}확률로 최대 {^H}{%d1} {^E}개 표적에 영향
+tagSparkMaxNumberSingle={^E}최대 {^H}{%d0} {^E}개 표적에 영향
+tagSparkMaxNumberSingleMod={^E}최대 {^H}+{%d0} {^E}개 표적에 영향
+tagSparkMaxNumber={^E}최대 {^H}{%d0} {^E}개 표적에 영향
+tagSparkMaxNumberMod={^E}최대 {^H}+{%d0} {^E}표적에 영향
+
+tagItemGrantSkill=스킬 부여:
+tagItemSkill= (아이템 스킬)
+tagItemSkillShort= (아이템)
+tagEffect=효과:
+tagSkillGrantEffect=천상의 힘:
+tagDevotionAttached=지정:
+
+tagItemUseDirections=[마우스 우클릭 혹은 아이템 사용 버튼으로 사용]
+
+tagInspectTitle=살펴보기
+tagInspectOption=플레이어 살펴보기
+tagInspectWarning=해당 플레이어는 너무 멀리 있습니다.
+tagGroup01=PvP 가능
+tagGroup02=파티 자동 결성
+tagAutoItemSkill= (아이템 스킬 - 패시브)
+tagExclusiveSkill=^o독점 스킬 - 캐릭터 당 하나의 독점 스킬만 사용 가능합니다.
+tagItemSkillModified= {^E}효과를 {^Z}{%s0}에 적용
+
+tagAutoSort=자동 정렬
+tagAutoComplete=컴포넌트 완성
+tagAttributeUndo=취소
+
+tagQuestItem=퀘스트 아이템
+
+
+tagCR_Jewelry=장신구:
+tagRelicError=에픽 및 전설 아이템에는 유물이나 장식을 적용할 수 없습니다.
+
+tagExperienceDisplayFormat=현재 경험치 : {^y}{%t0}{^w}  ~  다음 레벨까지의 경험치 : {^y}{%t1}
+tagCXP=경험치 : {%t0}
+tagGrave01=플레이어 무덤 ~ {%t0}
+tagGrave02={%t0}에게 사망
+tagGrave03=경험치 회수 : {%d0}
+tagHeroXPShort={%d0} 영웅 몬스터 경험치
+tagBossXPShort={%d0} 보스 몬스터 경험치
+tagBossXPLong01=보스 몬스터 처치
+tagBossXPLong02={%d0} 경험치 획득
+tagHeroXPLong01=영웅 몬스터 처치
+tagHeroXPLong02={%d0} 경험치 획득
+
+tagPetBonusNameAllPets=모든 펫에게 보너스
+tagPetBonusNameOnePet={%s0} 펫에게 보너스
+tagPetBonusNameTwoPets={%s0}, {%s1} 펫에게 보너스
+tagPetBonusNameManyPets=펫에게 보너스
+
+TagSpeakerSetup=스피커 설정
+TagHeadphoneSpeakers=헤드폰
+Tag41Speakers=4채널 스피커
+Tag51Speakers=5.1채널 스키퍼
+TagKeybind40=대체 핫 슬롯 바 사용
+tagKeybindUnassigned=미지정
+
+tagSelectPet1=펫 1 선택
+tagSelectPet2=펫 2 선택
+tagSelectPet3=펫 3 선택
+tagSelectPet4=펫 4 선택
+tagSelectPet5=펫 5 선택
+tagSelectAllPets=모든 펫 선택
+tagPortraitAggressive=공격적으로 지정
+tagPortraitNormal=통상으로 지정
+tagPortraitDefensive=방어적으로 지정
+tagPortraitHireling=살펴보기
+
+tagMove=이동
+tagForceMove=강제 이동
+tagUse=상호작용
+tagPickup=줍기
+tagPushToTalk=눌러서 대화
+tagUC_Button=컨텐츠 해제
+tagUC_Message=새 컨텐츠를 해제하려면 코드를 입력하십시오.
+tagUC_OK=확인
+tagUC_Cancel=취소
+tagUC_Error=이 캐릭터는 이미 해당 컨텐츠를 해제했습니다.
+
+tagHotSlotSwap=현재 퀵 슬롯 바를 다른 퀵 슬롯 바로 전환합니다.
+tagHotSlotTitle=다른 퀵 슬롯 바
+tagEmptyHotSlot=퀵 슬롯 버튼을 해제합니다.
+
+tagDevotionUnassigned=스킬 없음
+
+#Stack Window
+
+tagStackOk=확인
+tagStackCancel=취소
+
+#Multiplayer
+
+tagMPTrade=거래
+tagMPGroup=파티
+tagMPInGame=게임 중
+tagMPCharName=캐릭터 이름
+tagMPCharLevel=레벨
+tagMPCharClass=클래스
+tagMPAdd=추가
+tagMPRemove=제거
+tagMPMessage=메세지
+tagMPInvite=초대
+tagMPLeave=파티 탈퇴
+tagMPBan=추방
+tagMPAvailable=가능한 플레이어
+tagMPGroup1=파티 1
+tagMPGroup2=파티 2
+tagMPGroup3=파티 3
+tagMPNoClass=N/A
+tagMPInviteMessage={%t0}가 당신을 파티에 초대했습니다.
+tagMPInviteError={%t0}가 이미 파티에 있습니다..
+tagMPInviteSend={%t0}에게 파티 초대를 보냈습니다
+tagMPInviteRemove={%t0}가 파티에서 제외되었습니다.
+tagMPMessageJoin={%t0}가 파티에 합류했습니다..
+tagMPMessageLeave={%t0}가 파티를 떠났습니다.
+tagMPMessageDeny={%t0}가 초대를 거절했습니다.
+tagMPMessageBan={%t0}가 게임에서 추방되었습니다.
+tagMPMessageGameJoin={%t0}가 게임에 합류했습니다. 늘어난 플레이어 숫자에 맞춰 난이도가 조정되었습니다.
+tagMPMessageGameLeave={%t0}가 게임을 떠났습니다.
+tagMPQuestionBan={%t0} 플레이어를 정말로 추방하시겠습니까?
+tagMPInviteAccept=수락
+tagMPInviteDeny=거부
+tagMPStats=게임 상태 :
+tagMPMapName=맵 이름 :
+tagMPServerName=서버 이름 :
+tagMPServerAddress=서버 주소 :
+tagMPPing=Ping :
+tagMPTime=경과 시간 :
+tagMPServer=서버 이름: {%t0}
+tagMPIPAddress=IP: {%t0}
+tagMPPort=Port: {%t0}
+tagMPErrorNoTarget=해당 플레이어가 너무 멀리 있습니다.
+tagMPNameLevel={%t0} ({%d1})
+tagMPClass={%s0}
+tagMPLocation={%s0}
+tagMPLifeMana={^r}{%d0}/{%d1} {^g}{%d2}/{%d3}
+tagMPReport=신고
+tagTradeError01={%t0}가 다른 플레이어와 거래 중입니다.
+tagTradeError02={%t0}가 거래 요청을 거절했습니다.
+tagTradeError03={%t0}가 거래를 요청하고 있습니다.
+tagTradeError04=인벤토리 공간이 부족하여 이 거래를 완료할 수 없습니다.
+tagTradeButton01=거래
+tagTradeButton02=취소
+tagTradeDistance=해당 플레이어는 거래하기에 너무 멀리 있습니다.
+tagChatGroup=파티
+tagChatAll=전체
+tagChatFriends=친구
+tagChatReply=응답
+tagChatSpeak=...와 대화
+tagChatError=해당 이름의 플레이어는 존재하지 않습니다.
+tagChatMuted={%t0}와의 대화를 차단했습니다.
+tagChatUnmuted={%t0}와의 대화 차단을 해제했습니다.
+tagChatCommandShort01=p
+tagChatCommandShort02=a
+tagChatCommandShort03=r
+tagChatCommandShort04=t
+tagChatCommandShort05=m
+tagChatCommandShort06=u
+
+#Grim Internals
+tagGI_GrimInternals=Grim Internals v1.79
+tagGI_CombatAttributeType_PhysicalPierce=물리 관통
+tagGI_CombatAttributeType_Physical=물리
+tagGI_CombatAttributeType_PierceRatio=관통 비율
+tagGI_CombatAttributeType_Pierce=관통
+tagGI_CombatAttributeType_Cold=냉기
+tagGI_CombatAttributeType_Fire=화염
+tagGI_CombatAttributeType_Poison=산성
+tagGI_CombatAttributeType_Lightning=번개
+tagGI_CombatAttributeType_Life=생기
+tagGI_CombatAttributeType_Chaos=혼돈
+tagGI_CombatAttributeType_Aether=에테르
+tagGI_CombatAttributeType_ManaBurn=에너지 태우기
+tagGI_CombatAttributeType_Disruption=시전방해
+tagGI_CombatAttributeType_PercentCurrentLife=% 만큼 체력 감소
+tagGI_CombatAttributeType_Bleeding=출혈
+tagGI_CombatAttributeType_TotalSpeed=전체 속도
+tagGI_CombatAttributeType_AttackSpeed=공격 속도
+tagGI_CombatAttributeType_SpellCastSpeed=시전 속도
+tagGI_CombatAttributeType_RunSpeed=이동 속도
+tagGI_CombatAttributeType_LifeLeach=체력 흡수
+tagGI_CombatAttributeType_ManaLeach=에너지 흡수
+tagGI_CombatAttributeType_OffensiveAbility=공격 능력
+tagGI_CombatAttributeType_DefensiveAbility=방어 능력
+tagGI_CombatAttributeType_OffensiveReduction=데미지 감소
+tagGI_CombatAttributeType_DefensiveReduction=방어구 등급저하
+tagGI_CombatAttributeType_Fumble=근접 공격 실수
+tagGI_CombatAttributeType_ProjectileFumble=조준 실수
+tagGI_CombatAttributeType_TotalDamageReductionPercent=% 모든 데미지감소
+tagGI_CombatAttributeType_TotalDamageReductionAbsolute=모든 데미지감소
+tagGI_CombatAttributeType_PhysicalDamageReductionPercent=% 물리 데미지감소
+tagGI_CombatAttributeType_ElementalDamageReductionPercent=% 원소 데미지감소
+tagGI_CombatAttributeType_TotalResistanceReductionPercent=% 저항감소
+tagGI_CombatAttributeType_TotalResistanceReductionAbsolute=저항감소
+tagGI_CombatAttributeType_PhysicalResistanceReductionPercent=% 물리 저항감소
+tagGI_CombatAttributeType_PhysicalResistanceReductionAbsolute=물리 저항감소
+tagGI_CombatAttributeType_ElementalResistanceReductionPercent=% 원소 저항감소
+tagGI_CombatAttributeType_ElementalResistanceReductionAbsolute=원소 저항감소
+tagGI_CombatAttributeType_AbsorptionProtection=방어흡수
+tagGI_CombatAttributeType_Absorption=흡수
+tagGI_CombatAttributeType_Protection=보호
+tagGI_CombatAttributeType_ArmorRating=방어구 등급
+tagGI_CombatAttributeType_Stun=기절
+tagGI_CombatAttributeType_Sleep=수면
+tagGI_CombatAttributeType_Trap=함정
+tagGI_CombatAttributeType_Freeze=빙결
+tagGI_CombatAttributeType_Petrify=석화
+tagGI_CombatAttributeType_Immobilize=이동불가
+tagGI_CombatAttributeType_Knockdown=넉다운
+tagGI_CombatAttributeType_TakeHit=피격
+tagGI_CombatAttributeType_Taunt=도발
+tagGI_CombatAttributeType_Convert=정신조종
+tagGI_CombatAttributeType_Fear=공포
+tagGI_CombatAttributeType_Confusion=혼란
+tagGI_CombatAttributeType_BlockModifier=방패의 차단 확률 증가
+tagGI_CombatAttributeType_BlockAmountModifier=방패의 데미지 차단량 증가
+tagGI_CombatAttributeType_Reflect=데미지 반사
+tagGI_CombatAttributeType_ElementalGroup=원소 그룹
+tagGI_CombatAttributeType_TotalDamageModifier=모든 데미지 증가
+tagGI_CombatAttributeType_CritDamageModifier=치명타 데미지 증가
+tagGI_CombatAttributeType_ManaBurnRatio=태워진 에너지가 데미지로 변환
+tagGI_CombatAttributeType_Unknown=알수없음
+
+#Grim Internals InfoBox Tags
+tagGI_InfoBox_Mem=메모리
+tagGI_InfoBox_Kills=킬
+tagGI_InfoBox_Items=아이템
+tagGI_InfoBox_IronBits=아이언
+tagGI_InfoBox_Exp=경험치
+tagGI_InfoBox_ExpMin=경험치/분
+tagGI_InfoBox_ExpLevelUp=레벨업
+tagGI_InfoBox_DealtDPS=준 초당 피해량
+tagGI_InfoBox_Targets=표적
+tagGI_InfoBox_IncomingDPS=받은 초당 피해량
+tagGI_InfoBox_PetsDPS=펫 초당 피해량
+tagGI_InfoBox_HealthPotions=체력 포션
+tagGI_InfoBox_EnergyPotions=에너지 포션
+tagGI_InfoBox_DebuffReductionPercent=% 감소
+tagGI_InfoBox_DebuffReductionAbsolut=감소
+tagGI_InfoBox_DebuffChanceToMiss=% 공격이 빗나갈 확률
+tagGI_InfoBox_DebuffDPS=초당 피해량
+tagGI_InfoBox_Close={^r}* 그림인터널 옵션창을 닫아 주세요! *
+tagGI_FloatingText_RareItemLooted=레어 아이템 획득
+
+#Grim Internals Cinematic Text Tags
+tagGI_CinematicDeathMsg1={^r}! 당신은 사망했습니다 !
+tagGI_CinematicDeathMsg2={^y} 고이 잠들다
+tagGI_CinematicDeathMsg3={^y} 고이 잠들다 (사망횟수: %d)
+tagGI_CinematicInfoBoxEnabled={^y} 정보창 활성화!
+tagGI_CinematicInfoBoxDisabled={^y} 정보창 비활성화!
+tagGI_CinematicNemesisAlert={^y}!! 네메시스 경고 !!
+tagGI_CinematicCantTeleport={^r}!! 아직 순간이동할 수 없습니다 !!
+
+#changes in v1.73
+tagGI_InfoBox_ItemsHidden={^r}* 아이템 숨겨짐! (키보드 x버튼으로 활성화)
+
+#new in v1.73
+tagGI_CrucibleMap_Random=크루시블 맵 무작위(기본설정)
+tagGI_QuickTeleportLocation=현 위치(save 클릭으로 저장)
+tagGI_HeroDebuff=영웅+ 몬스터 디버프:
+
+#new in v1.73c
+tagGI_QuickTeleportList=저장된 텔레포트 목록
+
+#new in v1.744
+tagGI_PrefixSearchDisabled=접두사 검색 중지!
+tagGI_SuffixSearchDisabled=접미사 검색 중지!
+tagGI_CinematicPrefixFound={^y}접두사 발견!
+tagGI_CinematicSuffixFound={^y}접미사 발견!
+tagGI_CinematicPrefixSuffixFound={^y}접두사 & 접미사 발견!
+
+#new in v1.79
+tagGI_InfoBox_GameSpeed={^y}속도:
+
+#new in v1.90
+tagGI_CinematicIllusionAdded={^g}새 환영 추가!
+
+#new in v1.99
+tagGI_CloudSavingWarning=경고: 클라우드 세이브가 활성화되어 있습니다!{^n}그림인터널을 사용할 때{^n}옵션에서 클라우드 세이브 비활성화를 추천드립니다!
+
+#patch v1.2
+tagExclusiveSkillConflict=^r이미 더욱 강력한 독점 스킬이 활성화되어 있습니다, {%s0}.
+tagAutoToggledSkill=^o버프는 자동으로 활성화됩니다.
+CooldownCharges={%d0} {^E}최대 시전
+CooldownChargesMod=+{%d0} {^E}최대 시전
+PotionCooldownCharges={%d0} {^E}최대 사용
+PotionCooldownChargesMod=+{%d0} {^E}최대 사용
+tagCharRunSpeedMaxModifier={%+.0f0}% {^E}최대 이동 속도
+tagCharSpellCastSpeedMaxModifier={%+.0f0}% {^E}최대 시전 속도
+tagCharAttackSpeedMaxModifier={%+.0f0}% {^E}최대 공격 속도
+tagCharAttribute04MultModifier={^E}전체 체력이 {^H}{%.0f0}% 증감
+tagEvade=회피
+DamageDurationDamageMult=% {^E}분열 상태
+DamageDurationModifierDamageMult={%+.0f0}% {^E}분열 증가
+tagDotDamageMutiplier=분열 상태
+tagDurationDamageMultiplier={^E}{^H}{%d0}% {^E}더 많은 대미지 받음
+tagCharStatsPetTrapResist=함정 저항
+tagCharStatsPetTrapResistInfo=펫과 소환수의 함정 저항에 대한 백분율 보너스.
+tagCharStatsPetPetrifyResist=석화 저항
+tagCharStatsPetPetrifyResistInfo=펫과 소환수의 석화 저항에 대한 백분율 보너스.
+tagCharStatsPetFreezeResist=빙결 저항
+tagCharStatsPetFreezeResistInfo=펫과 소환수의 빙결 저항에 대한 백분율 보너스.
+tagCharStatsPetSleepResist=수면 저항
+tagCharStatsPetSleepResistInfo=펫과 소환수의 수면 저항에 대한 백분율 보너스.
+tagCharStatsPetSlowResist=감속 저항
+tagCharStatsPetSlowResistInfo=펫과 소환수의 감속 저항에 대한 백분율 보너스.
+tagToggleUI=UI 토글
+tagCharStatsPetStunResist=기절 저항
+tagCharStatsPetStunResistInfo=펫과 소환수의 기절 저항에 대한 백분율 보너스.
+tagCharStatsPetCritDamage=치명타 데미지
+tagCharStatsPetCritDamageInfo=펫과 소환수가 입히는 치명타 데미지에 대한 백분율 보너스.
+tagCurrentLevelAugment=현재 레벨 : {%d0} + ^B{%d1}
+tagNextLevelAugment=다음 레벨 : {%d0} + ^B{%d1}
+tagCurrentLevelExcessAugment=현재 레벨 : {%d0} + ^R{%d1}
+tagNextLevelExcessAugment=다음 레벨l : {%d0} + ^R{%d1}
+tagCharStatsReflectResist=반사 저항
+tagCharStatsReflectResistInfo=데미지를 주는 반사 효과에 대한 저항.
+tagHUDHealthPercent_Head={%d0}%
+tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
+

@@ -1,0 +1,1348 @@
+
+#Weapons
+tagGDX2WeaponSwordB201={^L}코르박의 타오르는 검
+tagGDX2WeaponSwordB201_Desc="코르박이 수하를 잘 통솔하라며 충성스러운 선민에게 수여했다."
+tagGDX2WeaponSwordB202={^L}코르박의 폭풍의 검
+tagGDX2WeaponSwordB202_Desc="코르박이 적의 방어선을 깨뜨리라며 충성스러운 선민에게 하사했다."
+tagGDX2WeaponSwordB203={^L}카이몬의 신성한 검
+tagGDX2WeaponSwordB203_Desc="코르박의 피로 신성화하여 코르박의 전사에게 하사되었다."
+tagGDX2WeaponSwordB204={^L}피의 지배자의 복수
+tagGDX2WeaponSwordB205={^L}라브나의 발톱
+tagGDX2WeaponSwordB206={^L}나런 쿠르의 검
+tagGDX2WeaponSwordB206_Desc="아코비아 올리가르히들조차 넘지 못할 선이 존재했었다는 게 밝혀졌다."
+
+tagGDX2WeaponSwordC201={^B}화염의 미덕
+
+tagGDX2WeaponSwordD201={^I}유독한 상처의 후예
+tagGDX2WeaponSwordD201_Desc="이 검에 주입된 독에서 썩은 내와 쓸개즙 냄새가 난다."
+tagGDX2WeaponSwordD202={^I}영혼검
+tagGDX2WeaponSwordD205={^I}칠하트
+tagGDX2WeaponSwordD205_Desc="'다른 현실 세계에 갇혀 있어요, 제발 도와주세요'라는 문구가 손잡이에 거칠게 새겨져 있다."
+tagGDX2WeaponSwordD206=(S) {^I}모래언덕 악마의 블레이드
+tagGDX2WeaponSwordD207=(S) {^I}모래언덕 악마의 절단검
+tagGDX2WeaponSwordD208={^I}녹턴
+
+tagGDX2WeaponSwordF201={^B}비스미엘 검
+tagGDX2WeaponSwordF202={^B}솔라엘 절단검
+tagGDX2WeaponSwordF203={^I}블러드렌더
+
+
+tagGDX2WeaponBluntB201={^L}전갈의 퍼멜러
+tagGDX2WeaponBluntB202={^L}전갈의 곤봉
+tagGDX2WeaponBluntB203={^L}개너'배카의 가시
+tagGDX2WeaponBluntB204={^L}바르골의 뿌리
+tagGDX2WeaponBluntB204Desc="바르골의 뿌리가 마법의 원천을 굶주린 듯 찾고 있다."
+
+tagGDX2WeaponBluntC201={^B}칼라스토리안 의사봉
+
+tagGDX2WeaponBluntD201={^I}굶주린 영혼의 의사봉
+tagGDX2WeaponBluntD202={^I}아마톡의 전령
+tagGDX2WeaponBluntD203=(S) {^I}타르고의 전투망치
+tagGDX2WeaponBluntD204={^I}완전 평범한 버클러
+tagGDX2WeaponBluntD205={^I}완전 평범한 새벽조각
+tagGDX2WeaponBluntD206={^I}완전 평범한 보루방패
+tagGDX2WeaponBluntD207={^I}지하추적자
+tagGDX2WeaponBluntD208={^F}완전 평범한 심판자
+tagGDX2WeaponBluntD208_Desc="이건 당신이 찾던 방패가 아니다."
+tagGDX2WeaponBluntD209={^F}완전 평범한 수호자
+tagGDX2WeaponBluntD209_Desc="왼손잡이는 환장할 무기."
+
+tagGDX2WeaponBluntF201={^B}비스미엘 전쟁망치
+tagGDX2WeaponBluntF202={^B}솔라엘 전쟁망치
+tagGDX2WeaponBluntF203={^I}비스미엘의 손아귀
+
+
+tagGDX2WeaponAxeB201={^L}샌드클로 칼날발톱
+tagGDX2WeaponAxeB202={^L}몰튼클로 칼날발톱
+tagGDX2WeaponAxeB203={^L}리프트클로 칼날발톱
+tagGDX2WeaponAxeB204={^L}뼈절단기
+tagGDX2WeaponAxeB205={^L}서비터의 클리버
+tagGDX2WeaponAxeB206={^L}블루그러그의 역병걸린 도끼날
+
+tagGDX2WeaponAxeC201={^B}장막의 날
+
+tagGDX2WeaponAxeD201={^I}신더스콘
+tagGDX2WeaponAxeD202={^I}핏빛 물결의 후예
+tagGDX2WeaponAxeD202_Desc="고열로 인해 도끼날 주위의 공기가 파동을 일으킨다."
+tagGDX2WeaponAxeD203={^I}스톰렌드
+tagGDX2WeaponAxeD203_Desc="도끼날이 원시적인 폭풍의 힘으로 공기를 찢는다."
+
+tagGDX2WeaponAxeF201={^B}비스미엘 클리버
+tagGDX2WeaponAxeF202={^B}드리그 클리버
+tagGDX2WeaponAxeF203={^I}커럽티안
+
+
+tagGDX2WeaponGun1hB201={^L}독사 모래발사기
+tagGDX2WeaponGun1hB202={^L}독사 출혈유발자
+tagGDX2WeaponGun1hB203={^L}우그덴늪 연발권총
+tagGDX2WeaponGun1hB103Desc="웬디고의 영혼이 주입되었다."
+tagGDX2WeaponGun1hB204={^L}러트닉의 블래스터
+tagGDX2WeaponGun1hB204Desc="절망적인 상황에선 잔혹한 돌파구가 필요하다."
+
+tagGDX2WeaponGun1hC201={^B}데저트스팅
+tagGDX2WeaponGun1hC202={^B}그림자가시 집행자
+
+tagGDX2WeaponGun1hD201={^I}불타는 복수의 후예
+tagGDX2WeaponGun1hD202={^I}서약운반자
+tagGDX2WeaponGun1hD202_Desc="죽음에 의해서만 해제되는, 영속적인 서약이 새겨져 있다."
+tagGDX2WeaponGun1hD203={^I}아케이넘 프리거스
+tagGDX2WeaponGun1hD204=(S) {^I}루드리건의 권총
+tagGDX2WeaponGun1hD205={^I}차원천공기
+tagGDX2WeaponGun1hD205_Desc="화기에서 발사된 탄환은 공간이 있는 것처럼 현실 세계를 뚫고 지나간다."
+
+tagGDX2WeaponGun1hF201=비스미엘 핸드캐논
+tagGDX2WeaponGun1hF202=드리그 핸드캐논
+tagGDX2WeaponGun1hF203={^I}혈액천공기
+
+tagGDX2WeaponGun2hB201={^L}메신저의 연발총
+tagGDX2WeaponGun2hB201_Desc="탄환이 발사될 때마다 코르박의 파괴적인 복수가 도래했음을 알린다."
+tagGDX2WeaponGun2hB202={^L}메신저의 화염 캐논
+tagGDX2WeaponGun2hB202_Desc="탄환이 발사될 때마다 코르박의 불타는 복수가 도래했음을 알린다."
+tagGDX2WeaponGun2hB203={^L}우그덴늪 화염방사기
+
+tagGDX2WeaponGun2hC201={^B}생비나르
+
+tagGDX2WeaponGun2hD201={^I}코르반 고룡
+tagGDX2WeaponGun2hD201_Desc="거대한 고룡은 만지는 모든 것을 재로 만든다."
+tagGDX2WeaponGun2hD202={^I}소울랜스
+tagGDX2WeaponGun2hD202_Desc="발사되는 탄환마다 코르반 영혼의 끝없는 고통이 주입되어 있다."
+
+tagGDX2WeaponGun2hF201={^B}드리그 석궁
+tagGDX2WeaponGun2hF202={^B}솔라엘 석궁
+tagGDX2WeaponGun2hF203={^I}솔라엘의 탐식자
+
+
+tagGDX2WeaponMelee2hB201={^L}코르반 타오르는 미늘창
+tagGDX2WeaponMelee2hB202={^L}코르반 폭풍의 미늘창
+tagGDX2WeaponMelee2hB203={^L}청지기의 미늘창
+tagGDX2WeaponMelee2hB203_Desc="별들의 놀라운 힘이 가득 차 있다."
+tagGDX2WeaponMelee2hB204={^L}바르솔렘의 의사봉
+tagGDX2WeaponMelee2hB205={^L}코르반 엘드리치 미늘창
+tagGDX2WeaponMelee2hB206={^L}코르반 수확하는 미늘창
+tagGDX2WeaponMelee2hB207={^L}코르반 천상의 미늘창
+tagGDX2WeaponMelee2hB207_Desc="창날이 파괴에 굶주린다."
+tagGDX2WeaponMelee2hB209={^L}태양의 전령의 클레이모어
+
+tagGDX2WeaponMelee2hC201={^B}레버넌트의 낫
+tagGDX2WeaponMelee2hC202={^B}블레이드퓨리
+tagGDX2WeaponMelee2hC203={^Z}모거네스의 분노
+tagGDX2WeaponMelee2hC203_Desc="모거네스가 어둠에 빠지기 전 휘둘렀던 강력한 망치."
+
+tagGDX2WeaponMelee2hD201={^I}드리그알'아노어
+tagGDX2WeaponMelee2hD201_Desc="위대한 수호자를 따르는 차석 지휘관, '병든 자, 아툴'이 애지중지한 무기."
+tagGDX2WeaponMelee2hD202={^I}나단의 검
+tagGDX2WeaponMelee2hD202_Desc="도둑들과 암살자들을 수호한 이를 기리기 위해 만들어진 전설의 검, 오랜 세월 사라지기 전까지 수 세기 동안 무수한 나이트블레이드의 손을 거쳤다."
+tagGDX2WeaponMelee2hD203={^I}테네브리스의 격노
+tagGDX2WeaponMelee2hD203_Desc="피를 마시는 자, 테네브리스의 생명력 흡수 무기로서, 공허의 심장부에서 신성화가 이루어졌다."
+tagGDX2WeaponMelee2hD204={^F}어둠의 인도자
+tagGDX2WeaponMelee2hD204_Desc="죽어가는 별에서 단조한, 모거네스의 거대한 무기."
+tagGDX2WeaponMelee2hD205={^I}비전 마법의 후예
+tagGDX2WeaponMelee2hD206={^I}비명 장막의 후예
+
+tagGDX2WeaponMelee2hF201={^B}드리그 대검
+tagGDX2WeaponMelee2hF202={^B}솔라엘 참수도끼
+tagGDX2WeaponMelee2hF203={^I}원한
+tagGDX2WeaponMelee2hF203_Desc="소문에 따르면, 이 검은 드리그가 필멸자로 살았을 때 사용했다고 한다."
+tagGDX2WeaponMelee2hF204={^I}악의
+tagGDX2WeaponMelee2hF204_Desc="드리그 교단의 송곳니."
+
+tagGDX2WeaponCaster1hB201={^L}세가리우스의 더럽혀진 검
+tagGDX2WeaponCaster1hB201_Desc="한때 신성한 검이었으나, 공허의 손길에 더럽혀졌다."
+tagGDX2WeaponCaster1hB202={^L}세가리우스의 신성한 검
+tagGDX2WeaponCaster1hB202_Desc="교부 카이몬이 손수 하사한 신성한 검."
+tagGDX2WeaponCaster1hB203={^L}크림슨의 사악한 셉터
+tagGDX2WeaponCaster1hB204={^L}크림슨의 마법의 셉터
+tagGDX2WeaponCaster1hB205={^L}승천자의 권위
+
+tagGDX2WeaponCaster1hC201={^B}황혼의 장막
+tagGDX2WeaponCaster1hC202={^B}알라크리안의 인보커
+tagGDX2WeaponCaster1hC202_Desc="생명의 정수를 순수 마법력으로 변환하려는 알라크리안의 비정통적인 실험은 길덤 아케이넘에서 그다지 관심을 받지 못했다."
+
+tagGDX2WeaponCaster1hD201={^I}알라드라의 주문검
+tagGDX2WeaponCaster1hD201_Desc="불사조 깃털 한 장이 검의 핵을 이루고 있다."
+tagGDX2WeaponCaster1hD202={^I}5인의 의회의 포고
+tagGDX2WeaponCaster1hD202_Desc="그들의 의지, 그들의 발언, 그들의 명령..."
+tagGDX2WeaponCaster1hD203={^I}쓰라린 바람의 후예
+tagGDX2WeaponCaster1hD203_Desc="셉터가 산맥의 쓰라린 바람 소리를 퍼뜨린다."
+tagGDX2WeaponCaster1hD204={^I}엠피리온의 자비
+tagGDX2WeaponCaster1hD205=(S) {^I}차가운 속삭임의 검
+tagGDX2WeaponCaster1hD206=(S) {^I}삼신의 심판
+tagGDX2WeaponCaster1hD207=(S) {^I}마름병군주의 조각칼
+tagGDX2WeaponCaster1hD208={^I}공허의 나선
+
+tagGDX2WeaponCaster1hF201={^B}비스미엘 폭풍파괴자
+tagGDX2WeaponCaster1hF202={^B}비스미엘 영혼파괴자
+tagGDX2WeaponCaster1hF203={^B}드리그 장막제조기
+tagGDX2WeaponCaster1hF204={^B}드리그 맹독제조기
+tagGDX2WeaponCaster1hF205={^B}솔라엘 화염전달자
+tagGDX2WeaponCaster1hF206={^B}솔라엘 혈액제조기
+tagGDX2WeaponCaster1hF207={^I}비스미엘의 정신결집기
+tagGDX2WeaponCaster1hF208={^I}뱀피리스
+
+
+
+#Shields
+tagGDX2ShieldB201={^L}풍뎅이 껍질
+tagGDX2ShieldB202={^L}풍뎅이 갑각
+tagGDX2ShieldB203={^L}거대한 방어자
+tagGDX2ShieldB204={^L}뒤틀린 육체의 방어자
+tagGDX2ShieldB205={^L}흑요석 방어자
+tagGDX2ShieldB206={^L}차가운 피의 시체방패
+
+tagShieldC015B={^B}검투사
+
+tagGDX2ShieldC201={^B}스톰가드
+tagGDX2ShieldC201_Desc="강력한 뇌우에서 포획한 에너지로 가득 차 있다."
+tagGDX2ShieldC202={^B}얼어붙은 북부의 감시자
+tagGDX2ShieldC203=(S) {^B}돌아비 방어벽
+
+tagGDX2ShieldD201={^I}거친가시나무덩굴
+tagGDX2ShieldD202={^I}무덤의 손길
+tagGDX2ShieldD203=(S) {^I}미덕의 방어자
+tagGDX2ShieldD204=(S) {^I}삼신의 방어자
+tagGDX2ShieldD205=(S) {^I}공허망령 보루방패
+tagGDX2ShieldD206={^I}하이리안의 보루방패
+tagGDX2ShieldD207={^I}어둠조각 보루방패
+
+tagGDX2ShieldF201={^B}비스미엘 방어자
+tagGDX2ShieldF202={^B}드리그 보호자
+tagGDX2ShieldF203={^I}오컬런트
+
+
+
+#Focus
+tagGDX2FocusB201={^L}그로블 모래인형
+tagGDX2FocusB202={^L}그로블 사악한 인형
+tagGDX2FocusB203={^L}굴복한 망령
+tagGDX2FocusB204={^L}구속된 망령
+tagGDX2FocusB205={^L}자르투젤란의 기록
+tagGDX2FocusB206={^L}어배더스의 설교집
+tagGDX2FocusB206_Desc="어배더스의 설교가 언제 멘허의 은혜로운 말씀에서 공허의 사악한 암흑으로 변질하였는지는 바로 밝혀지지 않았다. 또한, 그가 변질한 설교로 얼마나 많은 이들을 사교로 개종시켰는지도 아직 확인되지 않았다."
+
+tagGDX2FocusC201={^B}신벌의 법전
+tagGDX2FocusC202={^B}매니페스타리우스
+tagGDX2FocusC203=(S) {^B}곪는 불길의 서책
+tagGDX2FocusC204={^B}사냥감인 짐승의 배설물
+tagGDX2FocusC204_Desc="이건 확실히 매우 흥미로운...물질이다."
+
+tagGDX2FocusD201={^I}엠피리온의 심판
+tagGDX2FocusD201_Desc="시간이 지나면서 위치를 알 수 없게 된, 엠피리온의 첨탑에 보관되어 있었던 에너지원이다."
+tagGDX2FocusD202={^I}죽은 자의 손아귀
+tagGDX2FocusD203={^I}난폭한 균열의 고문서
+tagGDX2FocusD204={^I}속죄의 서책
+tagGDX2FocusD204_Desc="행동으로 보여주는 속죄."
+tagGDX2FocusD205={^F}이나시코의 머리
+tagGDX2FocusD205_Desc="코르반 주민의 강력한 수호자가 크토니안 침략자에게 무너졌지만, 그 힘은 불가사의하게도 온전히 유지되고 있다."
+tagGDX2FocusD206=(S) {^I}사이클론 인형
+tagGDX2FocusD207={^F}이나시코의 오염된 머리
+tagGDX2FocusD207_Desc="코르반 주민의 강력한 수호자가 크토니안 침략자에게 무너지자, 한때 빛났던 힘이 공허로 영원히 오염됐다."
+tagGDX2FocusD208=(S) {^I}파이란의 인형
+tagGDX2FocusD209={^F}재린더의 머리
+tagGDX2FocusD209_Desc="역사에서 잊혀진 채로 있는 게 최선인, 코르반 수호자의 머리."
+tagGDX2FocusD210={^F}헐랭스의 머리
+tagGDX2FocusD210_Desc="돌로 만들어졌지만, 수호자의 머리는 썩는 듯한 악취가 난다."
+tagGDX2FocusD211={^I}경이로운 천상의 후예
+tagGDX2FocusD212={^I}다중세계 차원문
+tagGDX2FocusD212_Desc="현실 세계의 태피스트리가 뒤틀리고 풀릴 징조가 보인다."
+
+tagGDX2FocusF201={^B}비스미엘 장막불꽃 인형
+tagGDX2FocusF202={^B}비스미엘 더럽혀진 인형
+tagGDX2FocusF203={^B}드리그 영혼전달자 서책
+tagGDX2FocusF204={^B}드리그 장막제조기 서책
+tagGDX2FocusF205={^B}솔라엘 천공제조기 서책
+tagGDX2FocusF206={^B}솔라엘 공허 서책
+tagGDX2FocusF207={^I}솔라엘의 어록
+tagGDX2FocusF207_Desc="솔라엘의 사제들에게 전승되는, 솔라엘의 냉엄한 어록."
+
+
+
+#ArmorHead
+tagGDX2HeadB201={^L}선민의 면갑
+tagGDX2HeadB202={^L}선민의 가면
+tagGDX2HeadB203={^L}코르반 캐스크
+tagGDX2HeadB204={^L}코르반 투구
+tagGDX2HeadB205={^L}선민의 시선
+tagGDX2HeadB206={^L}코르반의 시선
+tagGDX2HeadB207={^L}가고일 면갑
+tagGDX2HeadB208={^L}가고일의 시선
+tagGDX2HeadB209={^L}마술사 면갑
+
+tagGDX2HeadC201={^B}하늘찢는 모자
+tagGDX2HeadC202={^B}지옥의 보석이 박힌 왕관
+tagGDX2HeadC203={^B}악마묶는자의 후드
+tagGDX2HeadC204={^B}페탄 가면
+tagGDX2HeadC204_Desc="이 비범한 투구는 수천 년 동안 천천히 주인의 마음을 뺏어온 것으로 보인다."
+tagGDX2HeadC205=(S) {^B}발디르의 가면
+tagGDX2HeadC206=(S) {^B}폭풍뱀 가면
+tagGDX2HeadC207=(S) {^B}곪는 불길의 가면
+tagGDX2HeadC208=(S) {^B}다에가의 후드
+tagGDX2HeadC209=(S) {^B}돌아비 투구
+tagGDX2HeadC210={^Z}칼라가드라의 시선
+tagGDX2HeadC210_Desc="파괴 현장에서 도망치는 코르반 주민의 공포심이 형태화되었다."
+
+tagGDX2HeadD201={^I}새벽조각 시선
+tagGDX2HeadD201_Desc="솔라드린 수정의 가장 순도 높은 조각으로 만들어졌다."
+tagGDX2HeadD202={^I}레버넌트왕의 왕관
+tagGDX2HeadD202_Desc="죽음이 왕 앞에 무릎을 꿇는다."
+tagGDX2HeadD203={^I}소울레어의 투구
+tagGDX2HeadD203_Desc="태양은 엄청난 고온으로 하얀빛을 발한다."
+tagGDX2HeadD204={^F}코르박의 뿔
+tagGDX2HeadD204_Desc="엘드리치 차원의 신성한 군주의 뿔."
+tagGDX2HeadD205={^F}오칼로스의 면갑
+tagGDX2HeadD206=(S) {^I}조각난 차원의 가면
+tagGDX2HeadD207=(S) {^I}정복자의 투구
+tagGDX2HeadD208=(S) {^I}차가운 속삭임의 왕관
+tagGDX2HeadD209=(S) {^I}루드리건의 모자
+tagGDX2HeadD210=(S) {^I}뼈수집가의 후드
+tagGDX2HeadD211=(S) {^I}미덕의 시선
+tagGDX2HeadD212=(S) {^I}하라의 후드
+tagGDX2HeadD213=(S) {^I}사이클론 가면
+tagGDX2HeadD214=(S) {^I}마름병군주의 후드
+tagGDX2HeadD215={^F}칼라가드라의 면갑
+tagGDX2HeadD215_Desc="파괴 현장에서 도망치는 코르반 주민의 공포심이 형태화되었다."
+tagGDX2HeadD216=(S) {^I}모래언덕 악마의 가면
+tagGDX2HeadD217=(S) {^I}파이란의 면갑
+tagGDX2HeadD218=(S) {^I}타르고의 투구
+tagGDX2HeadD219=(S) {^I}공허망령 면갑
+tagGDX2HeadD220=(S) {^I}부패한 가이스트 가면
+tagGDX2HeadD221=(S) {^F}모거네스의 면갑
+tagGDX2HeadD222={^I}조각난 차원의 의식용 가면
+tagGDX2HeadD223=(S) {^I}장막 관리자의 가면
+tagGDX2HeadD224=(S) {^I}피를 마시는 자의 가면
+tagGDX2HeadD225=(S) {^I}잉걸불 소환사의 가면
+
+tagGDX2HeadF201={^G}비스미엘 밤의 장막 캐스크
+tagGDX2HeadF202={^G}비스미엘 공포의 후드
+tagGDX2HeadF203={^G}비스미엘 폭풍장막 머리보호대
+tagGDX2HeadF204={^G}비스미엘 화염장막 머리보호대
+tagGDX2HeadF205={^G}드리그 공포의 캐스크
+tagGDX2HeadF206={^G}드리그 전투원의 캐스크
+tagGDX2HeadF207={^G}드리그 맹독장막 후드
+tagGDX2HeadF208={^G}드리그 방어자의 머리보호대
+tagGDX2HeadF209={^G}솔라엘 전투원 캐스크
+tagGDX2HeadF210={^G}솔라엘 공허의 후드
+tagGDX2HeadF211={^G}솔라엘 검은 화염의 후드
+tagGDX2HeadF212={^G}솔라엘 사악한 머리보호대
+
+
+
+#ArmorShoulders
+tagGDX2ShoulderB201={^L}선민의 어깨갑옷
+tagGDX2ShoulderB202={^L}선민의 견장
+tagGDX2ShoulderB203={^L}코르반 견갑
+tagGDX2ShoulderB204={^L}코르반 어깨갑옷
+tagGDX2ShoulderB205={^L}가고일 가시뼈
+tagGDX2ShoulderB206={^L}마술사 망토
+
+tagGDX2ShoulderC201={^B}잉걸불혈관 망토
+tagGDX2ShoulderC202={^B}싸움꾼의 어깨보호대
+tagGDX2ShoulderC203=(S) {^B}발디르의 망토
+tagGDX2ShoulderC204=(S) {^B}곪는 불길의 망토
+tagGDX2ShoulderC205=(S) {^B}다에가의 망토
+
+tagGDX2ShoulderD201={^I}새벽조각 견갑
+tagGDX2ShoulderD201_Desc="솔라드린 수정의 가장 순도 높은 조각으로 만들어졌다."
+tagGDX2ShoulderD202={^I}뼈 망령 견갑
+tagGDX2ShoulderD203={^I}서리로 벼려낸 망토
+tagGDX2ShoulderD204=(S) {^I}조각난 차원의 망토
+tagGDX2ShoulderD205=(S) {^I}정복자의 망토
+tagGDX2ShoulderD206=(S) {^I}차가운 속삭임의 망토
+tagGDX2ShoulderD207=(S) {^I}뼈수집가의 어깨보호대
+tagGDX2ShoulderD208=(S) {^I}미덕의 보호대
+tagGDX2ShoulderD209=(S) {^I}삼신의 어깨보호대
+tagGDX2ShoulderD210=(S) {^I}하라의 어깨보호대
+tagGDX2ShoulderD211=(S) {^I}사이클론 망토
+tagGDX2ShoulderD212=(S) {^I}라'진의 어깨보호대
+tagGDX2ShoulderD213=(S) {^I}마름병군주의 망토
+tagGDX2ShoulderD214=(S) {^I}골의 망토
+tagGDX2ShoulderD215=(S) {^I}파이란의 망토
+tagGDX2ShoulderD216=(S) {^I}타르고의 어깨보호대
+tagGDX2ShoulderD217=(S) {^I}공허망령 망토
+tagGDX2ShoulderD218=(S) {^I}부패한 가이스트 어깨보호대
+tagGDX2ShoulderD219=(S) {^I}모거네스의 검은 망토
+tagGDX2ShoulderD220={^I}조각난 차원의 의식용 망토
+tagGDX2ShoulderD221=(S) {^I}장막 관리자의 망토
+tagGDX2ShoulderD222=(S) {^I}피를 마시는 자의 망토
+tagGDX2ShoulderD223=(S) {^I}잉걸불 소환사의 망토
+
+tagGDX2ShoulderF201={^G}비스미엘 마법의 어깨갑옷
+tagGDX2ShoulderF202={^G}비스미엘 폭풍장막 망토
+tagGDX2ShoulderF203={^G}비스미엘 방어자의 견갑
+tagGDX2ShoulderF204={^G}비스미엘 화염장막 견갑
+tagGDX2ShoulderF205={^G}드리그 공포의 어깨갑옷
+tagGDX2ShoulderF206={^G}드리그 전투원의 어깨갑옷
+tagGDX2ShoulderF207={^G}드리그 사악한 망토
+tagGDX2ShoulderF208={^G}드리그 맹독장막 견갑
+tagGDX2ShoulderF209={^G}솔라엘 전투원의 어깨갑옷
+tagGDX2ShoulderF210={^G}솔라엘 피의 장막 망토
+tagGDX2ShoulderF211={^G}솔라엘 검은 화염의 망토
+tagGDX2ShoulderF212={^G}솔라엘 사악한 견갑
+
+
+
+#ArmorTorso
+tagGDX2TorsoB201={^L}선민의 로브
+tagGDX2TorsoB201_Desc="이 로브에는 코르박의 수많은 적에게 빼앗은 마력이 들어가 있다."
+tagGDX2TorsoB202={^L}선민의 의상
+tagGDX2TorsoB203={^L}코르반 판금갑옷
+tagGDX2TorsoB204={^L}코르반 갑옷
+tagGDX2TorsoB205={^L}마술사 갑옷
+
+tagGDX2TorsoC201={^B}코토시안 가슴보호대
+tagGDX2TorsoC202={^B}룬으로 빚어낸 가슴보호대
+tagGDX2TorsoC203=(S) {^B}발디르의 갑옷
+tagGDX2TorsoC204=(S) {^B}폭풍뱀 갑옷
+tagGDX2TorsoC205=(S) {^B}곪는 불길의 의복
+tagGDX2TorsoC206=(S) {^B}다에가의 의상
+tagGDX2TorsoC207=(S) {^B}돌아비 갑옷
+
+tagGDX2TorsoD201={^I}새벽조각 사슬갑옷
+tagGDX2TorsoD201_Desc="솔라드린 수정의 가장 순도 높은 조각으로 만들어졌다."
+tagGDX2TorsoD202={^I}단절된 믿음의 의복
+tagGDX2TorsoD202_Desc="멘허리안 사제단이 약속을 깨자, 환멸을 느낀 탈리아는 그녀의 기도에 부응하는 다른 목소리를 들었다."
+tagGDX2TorsoD203={^I}유골의 심장
+tagGDX2TorsoD203_Desc="암흑이 뚜렷하게 나타나자, 천상의 태피스트리의 리듬에 맞춰 사악한 심장이 뛴다."
+tagGDX2TorsoD204=(S) {^I}조각난 차원의 갑옷
+tagGDX2TorsoD205=(S) {^I}정복자의 갑옷
+tagGDX2TorsoD206=(S) {^I}차가운 속삭임의 의복
+tagGDX2TorsoD207=(S) {^I}루드리건의 자켓
+tagGDX2TorsoD208=(S) {^I}뼈수집가의 가슴보호대
+tagGDX2TorsoD209=(S) {^I}미덕의 갑옷
+tagGDX2TorsoD210=(S) {^I}삼신의 갑옷
+tagGDX2TorsoD211=(S) {^I}하라의 가슴보호대
+tagGDX2TorsoD212=(S) {^I}라'진의 갑옷
+tagGDX2TorsoD213=(S) {^I}골의 의상
+tagGDX2TorsoD214=(S) {^I}모래언덕 악마의 자켓
+tagGDX2TorsoD215=(S) {^I}파이란의 의복
+tagGDX2TorsoD216=(S) {^I}타르고의 가슴보호대
+tagGDX2TorsoD217=(S) {^I}공허망령 갑옷
+tagGDX2TorsoD218=(S) {^I}부패한 가이스트 가슴보호대
+tagGDX2TorsoD219=(S) {^I}모거네스의 검은 심장
+tagGDX2TorsoD220={^I}조각난 차원의 의식용 갑옷
+tagGDX2TorsoD221=(S) {^I}장막 관리자의 갑옷
+tagGDX2TorsoD222=(S) {^I}피를 마시는 자의 갑옷
+tagGDX2TorsoD223=(S) {^I}잉걸불 소환사의 갑옷
+
+tagGDX2TorsoF201={^G}비스미엘 밤의 장막 가슴보호대
+tagGDX2TorsoF202={^G}비스미엘 사악한 의복
+tagGDX2TorsoF203={^G}비스미엘 폭풍장막 퀴라스
+tagGDX2TorsoF204={^G}비스미엘 화염장막 퀴라스
+tagGDX2TorsoF205={^G}드리그 공포의 가슴보호대
+tagGDX2TorsoF206={^G}드리그 전투원의 가슴보호대
+tagGDX2TorsoF207={^G}드리그 마법의 의복
+tagGDX2TorsoF208={^G}드리그 방어자의 퀴라스
+tagGDX2TorsoF209={^G}솔라엘 전투원 가슴보호대
+tagGDX2TorsoF210={^G}솔라엘 공허의 의복
+tagGDX2TorsoF211={^G}솔라엘 검은 화염의 의복
+tagGDX2TorsoF212={^G}솔라엘 사악한 퀴라스
+
+
+
+#ArmorHands
+tagGDX2HandsB201={^Y}역병보호 장갑
+tagGDX2HandsB202={^Y}잉걸불보호 건틀렛
+
+tagGDX2HandsC201={^B}투린의 장갑
+tagGDX2HandsC201_Desc="엠피리온을 위해 봉사하다 전사한, 아이컨 요새의 실드브레이커, 투린의 건틀렛."
+tagGDX2HandsC202={^B}죽음의식의 손보호대
+tagGDX2HandsC203={^B}배설물 장갑
+tagGDX2HandsC203_Desc="이 장갑은 확실히 흥미로운...물질을 담을 때 효과적이다."
+tagGDX2HandsC204={^B}지독한 경멸의 팔보호대
+
+tagGDX2HandsD201={^I}공허찢는 맹금발톱
+tagGDX2HandsD201_Desc="피가 뚝뚝 떨어지는 공허 라일록의 심장에 담갔다."
+tagGDX2HandsD202={^I}새벽조각 장갑
+tagGDX2HandsD202_Desc="솔라드린 수정의 가장 순도 높은 조각으로 만들어졌다."
+tagGDX2HandsD203={^I}샌드리버 팔보호구
+tagGDX2HandsD203_Desc="이 장갑의 착용자들은 끝없는 모래 위에 셀 수 없을 정도로 여러 번 피를 흘렸다."
+tagGDX2HandsD204=(S) {^I}골의 손길
+tagGDX2HandsD205=(S) {^F}모거네스의 장갑
+
+
+
+#ArmorLegs
+tagGDX2LegsB201={^Y}폭풍보호 레깅스
+tagGDX2LegsB202={^Y}서리보호 다리갑옷
+
+tagGDX2LegsC201={^B}지독한 경멸의 다리보호대
+tagGDX2LegsC202={^B}천체장식의 바지
+
+tagGDX2LegsD201={^I}서리돌 다리보호대
+tagGDX2LegsD202={^I}룬으로 된 바지
+tagGDX2LegsD203={^I}마법물결의 레깅스
+tagGDX2LegsD204={^F}모거네스의 다리보호대
+
+
+
+#ArmorFeet
+tagGDX2FeetC201={^B}투린의 발걸음
+tagGDX2FeetC201_Desc="아이컨 요새의 실드브레이커, 투린은 엠피리온을 위해 이 신발을 신고 피투성이가 된 채 마지막 걸음을 걸었다."
+tagGDX2FeetC202={^B}균열찢긴 그리브
+tagGDX2FeetC203={^B}지독한 경멸의 그리브
+
+tagGDX2FeetD201={^I}원시적 분노의 부츠
+tagGDX2FeetD202={^I}돌걸음 전투화
+tagGDX2FeetD203={^I}아마톡의 발걸음
+tagGDX2FeetD203_Desc="아마톡의 별이 밤하늘에 보일 때, 얼어붙은 산봉우리에서 축복을 받았다."
+tagGDX2FeetD204={^I}죽음을 걷는 자의 은총
+tagGDX2FeetD205={^F}모거네스의 발걸음
+
+
+
+#ArmorWaist
+tagGDX2WaistB201={^L}가고일 허리띠
+tagGDX2WaistB202={^L}가고일 허리보호대
+
+tagGDX2WaistC201={^B}강철심장 거들
+tagGDX2WaistC202={^B}악마가죽 거들
+tagGDX2WaistC203=(S) {^B}폭풍뱀 고리
+
+tagGDX2WaistD201={^I}폭풍의 목자
+tagGDX2WaistD202={^I}진홍색 연꽃
+tagGDX2WaistD202_Desc="세계가 홍염에 불타는 것을 본, 진홍색 연꽃의 배지가 달려 있다."
+tagGDX2WaistD203={^I}밤불꽃의 사슬
+tagGDX2WaistD204={^I}하얀색 연꽃
+tagGDX2WaistD204_Desc="코르반 땅에서 피는 천상의 꽃을 보호하는, 하얀색 연꽃의 배지가 달려 있다."
+tagGDX2WaistD205={^I}노스페라티스
+tagGDX2WaistD206=(S) {^I}라'진의 허리보호대
+tagGDX2WaistD207={^I}머머의 키스
+tagGDX2WaistD208={^I}치명적인 수단의 꾸러미
+tagGDX2WaistD208_Desc="악병들에는 각기 다른 독특한 독소들이 채워져 있는데, 이것들이 나이트블레이드 니달라의 소유였다는 소문도 있다. 어떤 것들은 조합할 경우 완전히 다른 결과물이 되기도 한다."
+tagGDX2WaistD209={^F}구더기 엮은 허리끈
+tagGDX2WaistD209_Desc="자랑스러운 사냥 전리품."
+
+tagGDX2WaistF201A={^G}비스미엘 치명적인 허리보호대
+tagGDX2WaistF201B={^G}비스미엘 치명적인 거들
+tagGDX2WaistF202A={^G}드리그 맹독가시뼈 허리보호대
+tagGDX2WaistF202B={^G}드리그 맹독가시뼈 거들
+tagGDX2WaistF203A={^G}솔라엘 사악한 허리보호대
+tagGDX2WaistF203B={^G}솔라엘 사악한 거들
+
+
+
+#Rings
+tagGDX2RingB201={^L}소름끼치는 반지
+
+tagGDX2RingC201={^B}핏빛찔레가시 반지
+tagGDX2RingC202={^B}장막감시 반지
+tagGDX2RingC203={^Z}세스리스의 인장
+tagGDX2RingC203_Desc="코르반 마술사들이 지닌 일곱 인장 중 하나. 코르반 사람들 사이에서 그들의 지위를 나타내는 장신구."
+tagGDX2RingC204={^Z}오리샤의 인장
+tagGDX2RingC205={^Z}아누바의 인장
+tagGDX2RingC206={^Z}토랏의 인장
+tagGDX2RingC207={^Z}바스티의 인장
+tagGDX2RingC208={^Z}슈로스의 인장
+tagGDX2RingC209={^Z}칸서의 인장
+
+tagGDX2RingD201={^I}멘허리안
+tagGDX2RingD201_Desc="가장 열성적인 신자들에게 수여한, 멘허 사원의 인장."
+tagGDX2RingD202={^I}빛의 서약
+tagGDX2RingD203={^I}유골의 체액
+tagGDX2RingD203_Desc="당신의 육체를 해칠 우려가 있는 암흑에 흠뻑 젖는다."
+tagGDX2RingD204={^I}영원한 장작의 반지
+tagGDX2RingD205={^I}폭풍마녀 형상의 반지
+tagGDX2RingD206=(S) {^I}비스미엘의 권위
+tagGDX2RingD207=(S) {^I}비스미엘의 영향력
+tagGDX2RingD208={^F}세스리스의 반지
+tagGDX2RingD208_Desc="코르반 마술사들이 지닌 일곱 반지 중 하나. 반지의 힘으로, 마술사들은 어둠에 묶여 있었다."
+tagGDX2RingD209={^F}오리샤의 반지
+tagGDX2RingD210={^F}아누바의 반지
+tagGDX2RingD211={^F}토랏의 반지
+tagGDX2RingD212={^F}바스티의 반지
+tagGDX2RingD213={^F}슈로스의 반지
+tagGDX2RingD214={^F}칸서의 반지
+tagGDX2RingD215={^F}모거네스의 절대반지
+tagGDX2RingD215_Desc="대마술사 모거네스의 반지는 저주의 언어를 당신에게 속삭인다. 이 반지를 통해 다른 마술사들에게 내려지는 모거네스의 명령은 절대적이라고 전해진다."
+
+tagGDX2RingF201={^B}비스미엘 극독의 문장
+tagGDX2RingF202={^B}비스미엘 서늘한 문장
+tagGDX2RingF203={^B}드리그 맹독 문장
+tagGDX2RingF204={^B}드리그 칼날 문장
+tagGDX2RingF205={^B}솔라엘 폭풍화염 문장
+tagGDX2RingF206={^B}솔라엘 왜곡된 문장
+
+
+
+#Necklaces
+tagGDX2NecklaceB200={^F}윌헬름의 이상한 전투용 보석
+tagGDX2NecklaceB200_Desc="아아아아아악."
+tagGDX2NecklaceB201={^L}카이잔의 타오르는 눈
+tagGDX2NecklaceB201_Desc="카이잔의 불멸의 눈동자가 펜던트 안에서 당신을 응시한다."
+tagGDX2NecklaceB202={^L}카이잔의 엘드리치 눈
+tagGDX2NecklaceB202_Desc="카이잔의 불멸의 눈동자가 펜던트 안에서 당신을 응시한다."
+tagGDX2NecklaceB203={^L}볼바르의 펜던트
+
+tagGDX2NecklaceD113I={^I}신의 속삭임 컨듀잇
+
+tagGDX2NecklaceC201={^B}비전의 한기 보석
+tagGDX2NecklaceC202={^B}혼돈의 시선
+
+tagGDX2NecklaceD201={^I}질서의 화신
+tagGDX2NecklaceD201_Desc="인류의 신성한 덕목 7가지 중 두 번째."
+tagGDX2NecklaceD202={^I}아즈라카의 모래
+tagGDX2NecklaceD203={^I}혼돈의 화신
+tagGDX2NecklaceD203_Desc="인류의 신성한 덕목 7가지 중 세 번째이며, 공허로 인해 극도로 뒤틀렸다."
+tagGDX2NecklaceD204={^I}검의 의지
+tagGDX2NecklaceD205={^F}사막 왕의 심장
+tagGDX2NecklaceD205_Desc="코르반 사막의 왕, 개너'배카의 심장."
+tagGDX2NecklaceD206=(S) {^I}조각난 차원의 결계
+tagGDX2NecklaceD207=(S) {^I}정복자의 보석
+tagGDX2NecklaceD208=(S) {^I}뼈수집가의 보석
+tagGDX2NecklaceD209=(S) {^I}미덕의 결계
+tagGDX2NecklaceD210=(S) {^I}하라의 가호
+tagGDX2NecklaceD211=(S) {^I}라'진의 보석
+tagGDX2NecklaceD212=(S) {^I}마름병군주의 매개체
+tagGDX2NecklaceD213=(S) {^I}비스미엘의 눈동자
+tagGDX2NecklaceD214=(S) {^I}부패한 가이스트 상징
+tagGDX2NecklaceD215=(S) {^I}피를 마시는 자의 결계
+
+tagGDX2NecklaceF201={^B}비스미엘 챔피언 펜던트
+tagGDX2NecklaceF202={^B}비스미엘 장막의 펜던트
+tagGDX2NecklaceF203={^B}드리그 마법 펜던트
+tagGDX2NecklaceF204={^B}드리그 맹독가시 펜던트
+tagGDX2NecklaceF205={^B}솔라엘 폭풍화염 펜던트
+tagGDX2NecklaceF206={^B}솔라엘 공허 펜던트
+tagGDX2NecklaceF207={^I}밤추적자의 펜던트
+tagGDX2NecklaceF208={^I}맹독불꽃
+tagGDX2NecklaceF209={^I}치밀어오르는 피
+
+
+
+#Medals
+tagGDX2MedalA200=인내의 상징
+
+tagGDX2MedalB201={^L}바실리스크 이빨
+tagGDX2MedalB201_Desc="이빨에선 여전히 중독성 독액이 뚝뚝 떨어진다."
+tagGDX2MedalB202={^L}웬디고 응시
+tagGDX2MedalB202_Desc="핏발이 선 눈이 당신의 사냥감을 탐욕스럽게 응시한다."
+tagGDX2MedalB203={^L}게일슬라이스의 표식
+tagGDX2MedalB203_Desc="공기를 가르는 칼날의 소용돌이는 그 드란구울이 아는 전부이며 필요로 하는 것이다."
+tagGDX2MedalB204={^G}싸움꾼의 명예
+tagGDX2MedalB204_Desc="결투는 두 피폐한 영혼이 우월을 가리기 위해 먼지투성이가 되어 싸우는 격렬한 시합이다. 승리자는 오직 한 사람뿐이다."
+
+tagGDX2MedalC201={^B}고통스러운 거짓의 표식
+tagGDX2MedalC202={^B}죽음의 울부짖음 표식
+tagGDX2MedalC203=(S) {^B}돌아비 표식
+
+tagGDX2MedalD201={^I}불굴의 겨울의 문장
+tagGDX2MedalD202={^I}코르박의 낙인
+tagGDX2MedalD202_Desc="살이 타는 듯 뜨거워서 충신을 표시할 때 쓴다."
+tagGDX2MedalD203={^I}핏빛 결말의 표식
+tagGDX2MedalD204={^I}불행한 욕망의 표식
+tagGDX2MedalD204_Desc="군주의 명령에 따라 행한다."
+tagGDX2MedalD205={^I}불생불사의 표식
+tagGDX2MedalD206=(S) {^I}루드리건의 표식
+tagGDX2MedalD207=(S) {^I}사이클론 표식
+tagGDX2MedalD208=(S) {^I}골의 표식
+tagGDX2MedalD209=(S) {^I}비스미엘의 표식
+tagGDX2MedalD210=(S) {^I}장막 관리자의 문장
+tagGDX2MedalD211=(S) {^I}잉걸불 소환사의 문장
+
+tagGDX2MedalF201={^B}조종의 비스미엘 표식 
+tagGDX2MedalF202={^B}폭풍의 비스미엘 표식
+tagGDX2MedalF203={^B}오한의 드리그 표식
+tagGDX2MedalF204={^B}검은 화염의 드리그 표식
+tagGDX2MedalF205={^B}학살의 솔라엘 표식
+tagGDX2MedalF206={^B}피의 솔라엘 표식
+tagGDX2MedalF207={^I}그림자 여왕의 표식
+tagGDX2MedalF208={^I}예지자의 표식
+tagGDX2MedalF209={^I}불타는 그림자의 표식
+
+
+
+#Blueprints
+tagGDX2Blueprint_RelicC201=도안: 렐릭 - 불굴
+
+tagGDX2Blueprint_RelicD201=도안: 렐릭 - 명상
+tagGDX2Blueprint_RelicD202=도안: 렐릭 - 명예
+tagGDX2Blueprint_RelicD203=도안: 렐릭 - 아즈라카의 기원
+tagGDX2Blueprint_RelicD204=도안: 렐릭 - 유골의 배고픔
+tagGDX2Blueprint_RelicD205=도안: 렐릭 - 평온
+tagGDX2Blueprint_RelicD206=도안: 렐릭 - 면죄
+
+tagGDX2Blueprint_WaistF201A=도안: 비스미엘 치명적인 허리보호대
+tagGDX2Blueprint_WaistF201B=도안: 비스미엘 치명적인 거들
+tagGDX2Blueprint_WaistF202A=도안: 드리그 맹독가시뼈 허리보호대
+tagGDX2Blueprint_WaistF202B=도안: 드리그 맹독가시뼈 거들
+tagGDX2Blueprint_WaistF203A=도안: 솔라엘 사악한 허리보호대
+tagGDX2Blueprint_WaistF203B=도안: 솔라엘 사악한 거들
+
+tagGDX2Blueprint_WeaponD201=도안: 신화적인 쓰라린 바람의 후예
+tagGDX2Blueprint_WeaponD202=도안: 삼신의 심판
+
+tagGDX2Blueprint_WeaponF201=도안: 혈액천공기
+tagGDX2Blueprint_WeaponF202=도안: 비스미엘의 손아귀
+tagGDX2Blueprint_WeaponF203=도안: 비스미엘의 정신결집기
+tagGDX2Blueprint_WeaponF204=도안: 커럽티안
+tagGDX2Blueprint_WeaponF205=도안: 원한
+tagGDX2Blueprint_WeaponF206=도안: 오컬런트
+tagGDX2Blueprint_WeaponF207=도안: 블러드렌더
+tagGDX2Blueprint_WeaponF208=도안: 솔라엘의 탐식자
+tagGDX2Blueprint_WeaponF209=도안: 솔라엘의 어록
+tagGDX2Blueprint_WeaponF210=도안: 뱀피리스
+tagGDX2Blueprint_WeaponF211=도안: 악의
+
+tagGDX2Blueprint_ArmorB201=도안: 역병보호 장갑
+tagGDX2Blueprint_ArmorB202=도안: 잉걸불보호 건틀렛
+tagGDX2Blueprint_ArmorB203=도안: 폭풍보호 레깅스
+tagGDX2Blueprint_ArmorB204=도안: 서리보호 다리갑옷
+
+tagGDX2Blueprint_ArmorC201=도안: 신화적인 징벌의 면갑
+tagGDX2Blueprint_ArmorC202=도안: 돌아비 투구 
+
+tagGDX2Blueprint_ArmorD201=도안: 새벽조각 시선
+tagGDX2Blueprint_ArmorD202=도안: 레버넌트왕의 왕관
+tagGDX2Blueprint_ArmorD203=도안: 소울레어의 투구
+tagGDX2Blueprint_ArmorD204=도안: 신화적인 새벽조각 시선
+tagGDX2Blueprint_ArmorD205=도안: 신화적인 레버넌트왕의 왕관
+tagGDX2Blueprint_ArmorD206=도안: 신화적인 소울레어의 투구
+tagGDX2Blueprint_ArmorD207=도안: 차가운 속삭임의 왕관
+tagGDX2Blueprint_ArmorD208=도안: 루드리건의 모자
+tagGDX2Blueprint_ArmorD209=도안: 뼈수집가의 후드
+tagGDX2Blueprint_ArmorD210=도안: 미덕의 시선
+tagGDX2Blueprint_ArmorD211=도안: 하라의 후드
+tagGDX2Blueprint_ArmorD212=도안: 사이클론 가면
+tagGDX2Blueprint_ArmorD213=도안: 라'진의 갑옷
+tagGDX2Blueprint_ArmorD214=도안: 마름병군주의 후드
+tagGDX2Blueprint_ArmorD215=도안: 골의 의상
+tagGDX2Blueprint_ArmorD216=도안: 모래언덕 악마의 가면
+tagGDX2Blueprint_ArmorD217=도안: 파이란의 면갑
+tagGDX2Blueprint_ArmorD218=도안: 타르고의 투구
+tagGDX2Blueprint_ArmorD219=도안: 공허망령 면갑
+tagGDX2Blueprint_ArmorD220=도안: 부패한 가이스트 가면
+
+tagGDX1Blueprint_AccessoryD121I=도안: 신의 속삭임 컨듀잇
+
+tagGDX2Blueprint_AccessoryD201=도안: 하얀색 연꽃
+tagGDX2Blueprint_AccessoryD202=도안: 신화적인 진홍색 연꽃
+tagGDX2Blueprint_AccessoryD203=도안: 신화적인 불행한 욕망의 표식
+tagGDX2Blueprint_AccessoryD204=도안: 신화적인 유골의 체액
+
+tagGDX2Blueprint_AccessoryF201=도안: 밤추적자의 펜던트
+tagGDX2Blueprint_AccessoryF202=도안: 맹독불꽃
+tagGDX2Blueprint_AccessoryF203=도안: 치밀어오르는 피
+tagGDX2Blueprint_AccessoryF204=도안: 그림자 여왕의 표식
+tagGDX2Blueprint_AccessoryF205=도안: 예지자의 표식
+tagGDX2Blueprint_AccessoryF206=도안: 불타는 그림자의 표식
+
+
+tagGDX2Blueprint_RuneC201=도안: 코르반의 신속함의 엠블럼
+tagGDX2Blueprint_RuneC202=도안: 코르반의 신속함의 문양
+tagGDX2Blueprint_RuneC203=도안: 코르반의 신속함의 룬
+tagGDX2Blueprint_RuneC204=도안: 드리그의 매개체의 엠블럼
+tagGDX2Blueprint_RuneC205=도안: 드리그의 매개체의 문양
+tagGDX2Blueprint_RuneC206=도안: 드리그의 매개체의 룬
+tagGDX2Blueprint_RuneC207=도안: 란의 힘의 엠블럼
+tagGDX2Blueprint_RuneC208=도안: 란의 힘의 문양
+tagGDX2Blueprint_RuneC209=도안: 란의 힘의 룬
+
+tagGDX2Blueprint_RuneC210=도안: 굶주린 웬디고의 문양
+tagGDX2Blueprint_RuneC211=도안: 북부 숫양의 문양
+tagGDX2Blueprint_RuneC212=도안: 영적인 바람의 문양
+tagGDX2Blueprint_RuneC213=도안: 지진의 힘의 문양
+tagGDX2Blueprint_RuneC214=도안: 천둥의 문양
+tagGDX2Blueprint_RuneC215=도안: 덮치는 만티코어의 문양
+tagGDX2Blueprint_RuneC216=도안: 마법적 통찰의 문양
+tagGDX2Blueprint_RuneC217=도안: 불타는 균열의 문양
+tagGDX2Blueprint_RuneC218=도안: 거침없는 칼날의 문양
+tagGDX2Blueprint_RuneC219=도안: 무질서의 문양
+tagGDX2Blueprint_RuneC220=도안: 겨울여우의 문양
+tagGDX2Blueprint_RuneC221=도안: 날아오르는 불사조의 문양
+tagGDX2Blueprint_RuneC222=도안: 섬뜩한 퇴각의 문양
+tagGDX2Blueprint_RuneC223=도안: 보이지 않는 암살자의 문양
+tagGDX2Blueprint_RuneC224=도안: 잿빛 유해의 문양
+tagGDX2Blueprint_RuneC225=도안: 기습 공격의 문양
+tagGDX2Blueprint_RuneC226=도안: 전갈 꼬리의 문양
+tagGDX2Blueprint_RuneC227=도안: 고집스러운 영혼의 문양
+
+tagGDX2Blueprint_RuneD201=도안: 아마톡의 숨결의 룬
+tagGDX2Blueprint_RuneD202=도안: 몰락한 왕들의 룬
+tagGDX2Blueprint_RuneD203=도안: 폭력의 즐거움의 룬
+tagGDX2Blueprint_RuneD204=도안: 얼즈인의 하강의 룬
+tagGDX2Blueprint_RuneD205=도안: 엘드리치 불안정의 룬
+tagGDX2Blueprint_RuneD206=도안: 어둠 창시자의 룬
+tagGDX2Blueprint_RuneD207=도안: 드레드노트의 룬
+tagGDX2Blueprint_RuneD208=도안: 드리그의 상처의 룬
+tagGDX2Blueprint_RuneD209=도안: 나단의 일격의 룬
+tagGDX2Blueprint_RuneD210=도안: 울토스의 강타의 룬
+tagGDX2Blueprint_RuneD211=도안: 차원의 균열의 룬
+tagGDX2Blueprint_RuneD212=도안: 변위의 룬
+tagGDX2Blueprint_RuneD213=도안: 태풍의 룬
+tagGDX2Blueprint_RuneD214=도안: 울자드의 광기의 룬
+tagGDX2Blueprint_RuneD215=도안: 뒤틀린 욕망의 룬
+tagGDX2Blueprint_RuneD216=도안: 머머의 키스의 룬
+tagGDX2Blueprint_RuneD217=도안: 이슈타크의 자비의 룬
+tagGDX2Blueprint_RuneD218=도안: 흡혈의 그림자의 룬
+tagGDX2Blueprint_RuneD219=도안: 어둠의 욕망의 룬
+tagGDX2Blueprint_RuneD220=도안: 스톰타이탄의 룬
+tagGDX2Blueprint_RuneD221=도안: 불타는 최후의 룬
+
+
+#Relics
+tagGDX2RelicC201=불굴
+tagGDX2RelicC201Desc="모든 역경에도 기죽지 않고 나아가려는 의지."
+
+tagGDX2RelicD201=명상
+tagGDX2RelicD201Desc="거시적으로 보기 위한 마음의 평정."
+
+tagGDX2RelicD202=명예
+tagGDX2RelicD202Desc="정의가 전혀 없는 세계에서 끊임없이 정의를 추구함."
+
+tagGDX2RelicD203=아즈라카의 기원
+tagGDX2RelicD203Desc="시간의 주름에 주름을 더한 새로운 발상."
+
+tagGDX2RelicD204=유골의 배고픔
+tagGDX2RelicD204Desc="만물 중에서 타의 추종을 불허하는 탐욕."
+
+tagGDX2RelicD205=평온
+tagGDX2RelicD205Desc="내면의 평화."
+
+tagGDX2RelicD206=면죄
+tagGDX2RelicD206Desc="참된 정의를 실천하려는 강한 의지."
+
+
+
+#Crafting
+tagCraftTabArtifactA=렐릭과 룬
+tagCraftTabArtifactB=강력한 힘이 담긴 부적, 유물이나 가공품. 당신에게 새로운 능력을 부여하는 룬.
+
+tagGDX1CraftRandomLegendaryDesc2B=대장장이가 대상 물품들의 원초적인 마법적 힘을 혼합하여, 최대 94레벨 수준의 전설 등급 아이템 하나를 만들어낼 수 있습니다. 잊혀진 신들(Forgotten Gods)이 만든 물품은 제외됩니다. 58레벨 이하의 캐릭터들의 경우 에픽 아이템이 대신 만들어집니다.
+tagGDX1CraftRandomLegendaryAccessoryDesc2B=대장장이가 대상 물품들의 원초적인 마법적 힘을 혼합하여, 최대 94레벨 수준의 전설 등급 아이템 하나를 만들어낼 수 있습니다. 잊혀진 신들(Forgotten Gods)이 만든 물품은 제외됩니다. 58레벨 이하의 캐릭터들의 경우 에픽 아이템이 대신 만들어집니다.
+tagGDX1CraftRandomLegendaryItemDesc2B=대장장이가 당신의 레벨에 어울리는 레어 등급의 마법적 물품을 제작할 수 있습니다. 잊혀진 신들(Forgotten Gods)이 만든 물품은 제외됩니다.
+
+tagGDX2CraftRandomCraftingMaterial=재료 제작
+tagGDX2CraftRandomCraftingMaterialDesc=제작을 가능케 하는 근간을 파헤쳐, 대장장이는 강력한 장비와 렐릭을 제작하는데 요긴하게 쓰일, 재료를 만들 수 있습니다.
+
+tagGDX2CraftRandomLegendaryDesc3=대장장이가 대상 물품들의 원초적인 마법적 힘을 혼합하여, 최대 94레벨 수준의 전설 등급 아이템 하나를 만들어낼 수 있습니다. 심지어 잊혀진 신들(Forgotten Gods)이 직접 만든 물품도 포함됩니다. 58레벨 이하의 캐릭터들의 경우 에픽 아이템이 대신 만들어집니다..
+tagGDX2CraftRandomLegendaryAccessoryDesc3=대장장이가 대상 물품들의 원초적인 마법적 힘을 혼합하여, 최대 94레벨 수준의 전설 등급 아이템 하나를 만들어낼 수 있습니다. 심지어 잊혀진 신들(Forgotten Gods)이 직접 만든 물품도 포함됩니다. 58레벨 이하의 캐릭터들의 경우 에픽 아이템이 대신 만들어집니다.
+tagGDX2CraftRandomLegendaryItemDesc3=대장장이가 당신의 레벨에 어울리는 레어 등급의 마법적 물품을 제작할 수 있습니다. 심지어 잊혀진 신들(Forgotten Gods)이 직접 만든 물품도 포함됩니다.
+
+tagGDX2CraftMaterial_Eldritch=엘드리치의 정수
+tagGDX2CraftMaterial_Eldritch_Desc="엘드리치 차원의 순수 마력이 끈끈한 형태로 가득 담겨져 있다."
+
+tagGDX2CraftMaterial_Lotus=천상의 연꽃
+tagGDX2CraftMaterial_Lotus_Desc="코르반 고원의 신비한 폐허에서만 발견되는 꽃이다. 신의 손길이 닿은 이 꽃은 천상의 별빛으로 희미하게 빛나고, 행운의 전조로 여겨진다."
+
+tagGDX2CraftMaterial_Sacrifice=천상의 정수
+tagGDX2CraftMaterial_Sacrifice_Desc="그 자체로 존재하며 실제로 현실화한 정수이다. 목적이 의심스러워도 장소가 충분히 갖추어진 강력한 의식에 사용될 수 있다."
+
+tagGDX2CraftMaterial_IronExchange_01=아이언 바
+tagGDX2CraftMaterial_IronExchange_01_Desc=죽음으로 피폐해진 세계에 귀중한 자원.^w^n^n삼신의 비밀회의장에 있는 아이언 환전상, 개러스에게 주면 흔쾌히 50,000 아이언으로 교환해줍니다.
+
+tagGDX2CraftMaterial_IronExchange_02=프리미엄 아이언 바 묶음
+tagGDX2CraftMaterial_IronExchange_02_Desc=죽음으로 피폐해진 세계에 귀중한 자원.^w^n^n삼신의 비밀회의장에 있는 아이언 환전상, 개러스에게 주면 흔쾌히 500,000 아이언으로 교환해줍니다.
+
+#Consumables
+tagGDX2Consumable_01=불가사의한 구체
+tagGDX2Consumable_01_Desc="구체의 쓰임새와 기원은 불가사의하다. 이런 걸 사용하는 게 현명할까..."
+
+tagGDX2Consumable_02=천상의 구체
+tagGDX2Consumable_02_Desc="조각난 차원의 유물이다. 무슨 용도로 쓰였을까..."
+
+tagGDX2Consumable_03=공허의 구체
+tagGDX2Consumable_03_Desc="이 구체는 공허 에너지로 희미하게 빛난다. 다루기에 위험해 보인다..."
+
+tagGDX2Consumable_04=유골의 체액
+tagGDX2Consumable_04_Desc="안의 검은 액체는 아무런 냄새를 띄지 않지만, 왠지 소름 끼치게 만드는 무언가가 있다. 이 액체의 존재만으로도 마법이 무효화되는 것 같다."
+
+
+#ItemEnchantment
+tagGDX2EnchantA201A=코르반 태양가루
+tagGDX2EnchantA201Desc="코르반 고원의 작열하는 태양이 주입된 결정체."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantA202A=강력한 코르반 태양가루
+tagGDX2EnchantA202Desc="코르반 고원의 작열하는 태양이 주입된 결정체."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantA203A=독사의 맹독
+tagGDX2EnchantA203Desc="녹지 않도록 마법이 부여된 주머니에 조심스럽게 추출하여 보관한, 코르반 독사의 맹독."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantA204A=강력한 독사의 맹독
+tagGDX2EnchantA204Desc="녹지 않도록 마법이 부여된 주머니에 조심스럽게 추출하여 보관한, 코르반 독사의 맹독."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantA205A=샌드클로 송곳니
+tagGDX2EnchantA205Desc="코르반 모래언덕을 돌아다니는 샌드클로의 송곳니를 곱게 갈아서 만든 마법의 가루."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantA206A=강력한 샌드클로 송곳니
+tagGDX2EnchantA206Desc="코르반 모래언덕을 돌아다니는 샌드클로의 송곳니를 곱게 갈아서 만든 마법의 가루."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantA207A=샌드클로 비늘
+tagGDX2EnchantA207Desc="샌드클로 여군주가 허물을 벗을 때, 껍질 중에서 비늘이 주변의 엘드리치 에너지를 가장 많이 흡수한다. 이 비늘로 만든 가장 강력한 증강제."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantA208A=독사의 비늘
+tagGDX2EnchantA208Desc="채집한 코르박 독사의 비늘로, 맹독 송곳니만큼 모으기 어렵다.."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantA209A=장작재 가루
+tagGDX2EnchantA209Desc="잊혀진 신의 분노에 의해 타버린 나무의 재."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantA210A=썩은덩굴 가루
+tagGDX2EnchantA210Desc="이 가루에서 나는 악취는 실제 식물이 내뿜는 기괴한 냄새를 조금 가져온 것에 불과하다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantA211A=코르반 선인장 가루
+tagGDX2EnchantA211Desc="코르반 선인장은 코르반 고원에서 귀한 물을 탐욕스럽게 빨아들여, 물 안에 풍부한 엘드리치 에너지를 흡수한다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantA212A=강력한 코르반 선인장 가루
+tagGDX2EnchantA212Desc="코르반 선인장은 코르반 고원에서 귀한 물을 탐욕스럽게 빨아들여, 물 안에 풍부한 엘드리치 에너지를 흡수한다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantA213A=엘드리치 활력 가루
+tagGDX2EnchantA213Desc="코르반 고원에서만 발견되는 희귀한 식물에게서 추출한 가루, 이 식물의 생명 활동은 코르반 지역 내의 동물군과는 다른 것으로 보인다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantA214A=강력한 엘드리치 활력 가루
+tagGDX2EnchantA214Desc="코르반 고원에서만 발견되는 희귀한 식물에게서 추출한 가루, 이 식물의 생명 활동은 코르반 지역 내의 동물군과는 다른 것으로 보인다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantA215A=풍뎅이껍질 가루
+tagGDX2EnchantA215Desc="코르반 풍뎅이의 껍질은 잘 부술수만 있다면 고품질의 마법 가루로 사용된다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantA216A=강력한 풍뎅이껍질 가루
+tagGDX2EnchantA216Desc="코르반 풍뎅이의 껍질은 잘 부술수만 있다면 고품질의 마법 가루로 사용된다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantA217A=가고일 이빨
+tagGDX2EnchantA217Desc="엘드리치 차원 바깥에서는 보기 힘든 신화적인 엘드리치 괴물의 이빨."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantA218A=세이지가시 가루
+tagGDX2EnchantA218Desc="세이지가시는 그 검붉은 색소 때문에 학자들 사이에서 귀하게 여겨지지만, 가시에 찔리면 상처가 완전히 치유되지 않기 때문에 가시 겉 부분을 조심해서 수확해야 한다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantA219A=장막벌레 가루
+tagGDX2EnchantA219Desc="현실 세계 간 차원의 장막을 좀 먹고 있는 걸로 보이는 공허의 불안한 징후."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantA220A=공허 소금
+tagGDX2EnchantA220Desc="공허 내의 재에서 추출한 마법의 가루. 가루 안에 인간의 영혼이 섞여 있다고 느껴지지만, 그것이 첨가물인지, 공허의 또 다른 불쾌한 면을 의미하는 것인지는 확실하지 않다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantA221A=가고일 비늘
+tagGDX2EnchantA221Desc="엘드리치 에너지로 가득 차 있으며, 적절한 마법 도구가 없다면 가루로 만드는 것이 불가능하다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantA222A=강력한 가고일 비늘
+tagGDX2EnchantA222Desc="엘드리치 에너지로 가득 차 있으며, 적절한 마법 도구가 없다면 가루로 만드는 것이 불가능하다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantA223A=피어나는 황혼
+tagGDX2EnchantA223Desc="코르반 고원에는 이제 거의 볼 수 없는 연못 근처에서 자라는, 약효 있는 식물의 꽃잎을 가루로 만들었다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantA224A=강력한 피어나는 황혼
+tagGDX2EnchantA224Desc="코르반 고원에는 이제 거의 볼 수 없는 연못 근처에서 자라는, 약효 있는 식물의 꽃잎을 가루로 만들었다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantA225A=그리폰 발톱
+tagGDX2EnchantA225Desc="고르반 고원에 서식하는 그리폰의 발톱에서 추출한 가루."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantA226A=강력한 그리폰 발톱
+tagGDX2EnchantA226Desc="고르반 고원에 서식하는 그리폰의 발톱에서 추출한 가루."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantA227A=사막의 혀
+tagGDX2EnchantA227Desc="코르반 고원에서 자라는 선명한 붉은 색을 띤 식물에서 추출한 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantA228A=전갈의 맹독
+tagGDX2EnchantA228Desc="모래사막을 돌아다니는 치명적인 생물의 꼬리 분비샘에서 추출한 맹독."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantA229A=수호자의 정수
+tagGDX2EnchantA229Desc="코르반 고원의 사원을 배회하는 다양한 수호자들에게서 추출한 마법의 정수."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantA230A=뒤틀린영혼 가루
+tagGDX2EnchantA230Desc="마법 부여를 위해 원혼의 정수를 부여한 뼛가루."^w^n(반지와 목걸이에 적용 가능)
+
+
+tagGDX2EnchantB201A=비스미엘의 조종
+tagGDX2EnchantB201Desc="주술의 신, 비스미엘이 주는 선물. 소환수의 정신을 완벽하게 조종하도록 해준다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantB202A=강력한 비스미엘의 조종
+tagGDX2EnchantB202Desc="주술의 신, 비스미엘이 주는 선물. 소환수의 정신을 완벽하게 조종하도록 해준다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantB203A=비스미엘의 교활함
+tagGDX2EnchantB203Desc="주술의 신, 비스비엘이 주는 선물. 피난처로 퇴각할 수 없을 때 신자들이 물리 전투에 유리하게끔 해준다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantB204A=강력한 비스미엘의 교활함
+tagGDX2EnchantB204Desc="주술의 신, 비스비엘이 주는 선물. 피난처로 퇴각할 수 없을 때 신자들이 물리 전투에 유리하게끔 해준다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantB205A=비스미엘의 장막
+tagGDX2EnchantB205Desc="주술의 신, 비스미엘이 주는 선물. 생자를 망자로부터 격리하는 장막에 대응하도록 해준다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantB206A=강력한 비스미엘의 장막
+tagGDX2EnchantB206Desc="주술의 신, 비스미엘이 주는 선물. 생자를 망자로부터 격리하는 장막에 대응하도록 해준다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantB207A=아테프의 의지
+tagGDX2EnchantB207Desc="아테프 사원 안에서 발견되는 유물에서 추출한 강력한 마법의 가루. 소환사와 소환수 간의 결속을 강화할 의도로 만들어졌다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantB208A=아테프의 응시
+tagGDX2EnchantB208Desc="아테프 사원 안에서 발견되는 유물에서 추출한 강력한 마법의 가루. 장비에 차가운 기운을 불어넣는다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantB209A=아테프의 명령
+tagGDX2EnchantB209Desc="아테프 사원 안에서 발견되는 유물에서 추출한 강력한 마법의 가루. 착용자에게 피맛을 느끼게 한다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantB210A=아테프의 약속
+tagGDX2EnchantB210Desc="아테프 사원 안에서 발견되는 유물에서 추출한 강력한 마법의 가루. 착용자를 부상으로부터 보호한다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantB211A=드리그의 예지력
+tagGDX2EnchantB211Desc="주술의 신, 드리그가 주는 선물. 착용자가 위대한 수호자의 케언에 대한 환영을 조금이라도 맛볼 수 있는 축복을 준다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantB212A=강력한 드리그의 예지력
+tagGDX2EnchantB212Desc="주술의 신, 드리그가 주는 선물. 착용자가 위대한 수호자의 케언에 대한 환영을 조금이라도 맛볼 수 있는 축복을 준다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantB213A=드리그의 가시가루
+tagGDX2EnchantB213Desc="주술의 신, 드리그가 주는 선물. 영원히 산성 물질을 떨어뜨리는 위대한 수호자의 가시에서 추출했다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantB214A=강력한 드리그의 가시가루
+tagGDX2EnchantB214Desc="주술의 신, 드리그가 주는 선물. 영원히 산성 물질을 떨어뜨리는 위대한 수호자의 가시에서 추출했다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantB215A=드리그의 공포
+tagGDX2EnchantB215Desc="주술의 신, 드리그가 주는 선물 아니면 저주. 착용자에게 공허가 만물 위에 군림하는 있을 법한 미래의 단편을 부여한다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantB216A=강력한 드리그의 공포
+tagGDX2EnchantB216Desc="주술의 신, 드리그가 주는 선물 아니면 저주. 착용자에게 공허가 만물 위에 군림하는 있을 법한 미래의 단편을 부여한다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantB217A=오시르의 화
+tagGDX2EnchantB217Desc="오시르 사제단의 미라화된 시신에서 추출한 고밀도 마법의 가루. 이름 없는 암흑에 더럽혀졌다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantB218A=오시르의 용기
+tagGDX2EnchantB218Desc="오시르 사제단의 미라화된 시신에서 추출한 고밀도 마법의 가루. 아직도 사라진 신의 복음에 의해 축복받고 있다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantB219A=오시르의 안내
+tagGDX2EnchantB219Desc="오시르 사제단의 미라화된 시신에서 추출한 고밀도 마법의 가루. 소환수를 잘 지배하는데 도움을 준다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantB220A=오시르의 지혜
+tagGDX2EnchantB220Desc="오시르 사제단의 미라화된 시신에서 추출한 고밀도 마법의 가루. 아직도 순수한 마법 에너지로 가득 차 있다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantB221A=솔라엘의 비전
+tagGDX2EnchantB221Desc="주술의 신, 솔라엘이 주는 선물. 적에 대한 대량 살상을 보장한다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantB222A=강력한 솔라엘의 비전
+tagGDX2EnchantB222Desc="주술의 신, 솔라엘이 주는 선물. 적에 대한 대량 살상을 보장한다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantB223A=솔라엘의 탐욕
+tagGDX2EnchantB223Desc="주술의 신, 솔라엘이 주는 선물. 착용자에게 엘드리치 화염의 끝없는 욕망을 맛보게 해준다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantB224A=강력한 솔라엘의 탐욕
+tagGDX2EnchantB224Desc="주술의 신, 솔라엘이 주는 선물. 착용자에게 엘드리치 화염의 끝없는 욕망을 맛보게 해준다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantB225A=솔라엘의 응시
+tagGDX2EnchantB225Desc="주술의 신, 솔라엘이 주는 선물. 엘드리치 화염의 의지가 담긴 정수를 부여한다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX2EnchantB226A=강력한 솔라엘의 응시
+tagGDX2EnchantB226Desc="주술의 신, 솔라엘이 주는 선물. 엘드리치 화염의 의지가 담긴 정수를 부여한다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX2EnchantB227A=이라의 영혼불꽃
+tagGDX2EnchantB227Desc="이라의 사원 안에 있는 화장용 장작더미의 재에서 추출한 고운 마법의 가루. 아직도 제물로 바쳐진 희생자들의 영혼의 단편이 배어 있다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantB228A=이라의 인내
+tagGDX2EnchantB228Desc="이라의 사원 안에 있는 화장용 장작더미의 재에서 추출한 고운 마법의 가루. 착용자에게 인위적인 평온함을 준다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantB229A=이라의 맹독혀
+tagGDX2EnchantB229Desc="이라의 사원 안에 있는 화장용 장작더미의 재에서 추출한 고운 마법의 가루. 코르반 고원의 동식물에서 발견되는 다양한 독소가 주입되었다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantB230A=이라의 피
+tagGDX2EnchantB230Desc="이라의 사원 안에 있는 화장용 장작더미의 재에서 추출한 고운 마법의 가루. 신성체의 피가 주입되었다고 전해진다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX2EnchantC201A=비스미엘의 하얀 모래
+tagGDX2EnchantC201Desc="주술의 신, 비스미엘이 주는 선물. 종종 환영에 사용되는 엄청나게 고운 하얀 가루이지만, 보호용 부족으로도 사용된다."^w^n(모든 방어구에 적용 가능)
+
+tagGDX2EnchantC202A=비스미엘의 사막 미늘
+tagGDX2EnchantC202Desc="주술의 신, 비스미엘이 주는 선물. 책략가의 죽음의 키스가 마법의 가루에 주입되어 있다."^w^n(모든 방어구에 적용 가능)
+
+tagGDX2EnchantC203A=비스미엘의 장막의 손길
+tagGDX2EnchantC203Desc="주술의 신, 비스미엘이 주는 선물. 산자와 망자를 격리하는 장막과 마법으로 연결된 가루."^w^n(모든 방어구에 적용 가능)
+
+tagGDX2EnchantC204A=드리그의 징조
+tagGDX2EnchantC204Desc="주술의 신, 드리그가 주는 선물. 착용자에게 미래의 짧은 순간을 전달한다."^w^n(모든 방어구에 적용 가능)
+
+tagGDX2EnchantC205A=드리그의 장막의 감시
+tagGDX2EnchantC205Desc="주술의 신, 드리그가 주는 선물. 위대한 수호자가 신자들에게 전하는 향정신성 환영으로부터 정신을 보호하도록 만들어졌다."^w^n(모든 방어구에 적용 가능)
+
+tagGDX2EnchantC206A=드리그의 악마의 피
+tagGDX2EnchantC206Desc="주술의 신, 드리그가 주는 선물. 위대한 수호자가 엘드리치 차원의 관문에서 처치한 크토닉 악마들에게서 추출했다."^w^n(모든 방어구에 적용 가능)
+
+tagGDX2EnchantC207A=솔라엘의 피의 구속
+tagGDX2EnchantC207Desc="주술의 신, 솔라엘이 주는 선물. 이 악취 나는 가루는 솔라엘과의 계약 의식에서 의식을 받는 사람을 묶을 때 사용된다.."^w^n(모든 방어구에 적용 가능)
+
+tagGDX2EnchantC208A=솔라엘의 공허의 감시
+tagGDX2EnchantC208Desc="주술의 신, 솔라엘이 주는 선물. 엘드리치 화염이 아무런 제약 없이 신비를 조사하기 위해 공허의 재앙으로부터 정신을 보호할 목적으로 만들었다."^w^n(모든 방어구에 적용 가능)
+
+tagGDX2EnchantC209A=솔라엘의 영혼의 구속
+tagGDX2EnchantC209Desc="주술의 신, 솔라엘이 주는 선물. 엘드리치 화염이 탐하는 영혼 결속 의식에 사용되는 사악한 가루."^w^n(모든 방어구에 적용 가능)
+
+#Mobility Runes
+tagGDX2RuneBDesc="주술의 신 교단이 사용하던 평범한 힘의 상징."^w^n(메달에 적용 가능)
+tagGDX2RuneCDesc="케언에서 멀리 떨어진 곳에서 발견된 가공할 힘의 상징."^w^n(메달에 적용 가능)
+tagGDX2RuneDDesc="조각난 현실세계에서 유실된 걸로 보이는 고대 힘의 상징."^w^n(메달에 적용 가능)
+
+tagGDX2RuneB201=은밀한 암살자의 엠블럼
+tagGDX2RuneB202=도약하는 사마귀의 엠블럼
+tagGDX2RuneB203=집중한 분노의 엠블럼
+tagGDX2RuneB204=균열추적자의 엠블럼
+tagGDX2RuneB205=돌진하는 황소의 엠블럼
+tagGDX2RuneB206=기민한 사냥꾼의 엠블럼
+
+tagGDX2RuneC201=코르반의 신속함의 엠블럼
+tagGDX2RuneC202=코르반의 신속함의 문양
+tagGDX2RuneC203=코르반의 신속함의 룬
+tagGDX2RuneC204=드리그의 매개체의 엠블럼
+tagGDX2RuneC205=드리그의 매개체의 문양
+tagGDX2RuneC206=드리그의 매개체의 룬
+tagGDX2RuneC207=란의 힘의 엠블럼
+tagGDX2RuneC208=란의 힘의 문양
+tagGDX2RuneC209=란의 힘의 룬
+tagGDX2RuneC210=굶주린 웬디고의 문양
+tagGDX2RuneC211=북부 숫양의 문양
+tagGDX2RuneC212=영적인 바람의 문양
+tagGDX2RuneC213=지진의 힘의 문양
+tagGDX2RuneC214=천둥의 문양
+tagGDX2RuneC215=덮치는 만티코어의 문양
+tagGDX2RuneC216=마법적 통찰의 문양
+tagGDX2RuneC217=불타는 균열의 문양
+tagGDX2RuneC218=거침없는 칼날의 문양
+tagGDX2RuneC219=무질서의 문양
+tagGDX2RuneC220=겨울여우의 문양
+tagGDX2RuneC221=날아오르는 불사조의 문양
+tagGDX2RuneC222=섬뜩한 퇴각의 문양
+tagGDX2RuneC223=보이지 않는 암살자의 문양
+tagGDX2RuneC224=잿빛 유해의 문양
+tagGDX2RuneC225=기습 공격의 문양
+tagGDX2RuneC226=전갈 꼬리의 문양
+tagGDX2RuneC227=고집스러운 영혼의 문양
+
+tagGDX2RuneD201=아마톡의 숨결의 룬
+tagGDX2RuneD202=몰락한 왕들의 룬
+tagGDX2RuneD203=폭력의 즐거움의 룬
+tagGDX2RuneD204=얼즈인의 하강의 룬
+tagGDX2RuneD205=엘드리치 불안정의 룬
+tagGDX2RuneD206=어둠 창시자의 룬
+tagGDX2RuneD207=드레드노트의 룬
+tagGDX2RuneD208=드리그의 상처의 룬
+tagGDX2RuneD209=나단의 일격의 룬
+tagGDX2RuneD210=울토스의 강타의 룬
+tagGDX2RuneD211=차원의 균열의 룬
+tagGDX2RuneD212=변위의 룬
+tagGDX2RuneD213=태풍의 룬
+tagGDX2RuneD214=울자드의 광기의 룬
+tagGDX2RuneD215=뒤틀린 욕망의 룬
+tagGDX2RuneD216=머머의 키스의 룬
+tagGDX2RuneD217=이슈타크의 자비의 룬
+tagGDX2RuneD218=흡혈의 그림자의 룬
+tagGDX2RuneD219=어둠의 욕망의 룬
+tagGDX2RuneD220=스톰타이탄의 룬
+tagGDX2RuneD221=불타는 최후의 룬
+
+
+#ItemComponents
+
+
+#ItemFactionBoosters
+tagGDX2BoosterWGB_A01=비스미엘 인정서
+tagGDX2BoosterWGB_B01=비스미엘 신임장
+tagGDX2BoosterWGD_A01=드리그 인정서
+tagGDX2BoosterWGD_B01=드리그 신임장
+tagGDX2BoosterWGS_A01=솔라엘 인정서
+tagGDX2BoosterWGS_B01=솔라엘 신임장
+
+tagGDX2BoosterEldritch_C01=코르박의 수배서
+
+
+#Misc
+
+
+
+#ItemSets
+tagItemSetC008CName=사면
+tagItemSetC007CName=점술가
+tagItemSetC013CName=서약위반자의 어리석음
+tagItemSetC015BName=무자비한 학살
+
+tagGDX2ItemSetC201Name=발디르의 판금
+tagGDX2ItemSetC201BName=발디르의 의복
+tagGDX2ItemSetC201Desc="발디르는 미덕의 귀감이며, 에룰란에 대한 충성의 표본이다. 그는 황궁 계단에서 무력하고 여린 사람들을 세계의 해악으로부터 보호하겠다는 서약을 했다. 그 서약은 평생 깨지는 일이 없었다."
+
+tagGDX2ItemSetC202Name=폭풍뱀
+tagGDX2ItemSetC202Desc="천상의 뱀에 대한 이단 숭배는 오래전 광휘단에 의해 소멸했지만, 이 잊혀졌던 사교의 유물은 여전히 남아있다."
+
+tagGDX2ItemSetC203Name=곪는 불길
+tagGDX2ItemSetC203Desc="이드리아는 자신의 마음속에 잔악한 욕망이 곪아 터지자, 모든 세상을 그녀의 욕망대로 불태우려 했다."
+
+tagGDX2ItemSetC204Name=다에가의 서약
+tagGDX2ItemSetC204Desc="다에가는 엠피리온의 사제들이 답하지 못한 수수께끼를 탐구했지만, 그녀는 절망 끝에 드리그를 통해서 더 심오한 진실을 발견했다."
+
+tagGDX2ItemSetC205Name=돌아비
+tagGDX2ItemSetC205Desc="멘허 신앙의 확고부동한 파수꾼, 돌아비의 방어구."
+
+tagGDX2ItemSetD201Name=조각난 수호자
+tagGDX2ItemSetD201Desc="보호자와 파수꾼 없이 암흑에 잠식당한, 차원의 수호자."
+
+tagGDX2ItemSetD202Name=정복자
+tagGDX2ItemSetD202Desc="모든 적에 맞서 승리한, 금단지역의 정복자."
+
+tagGDX2ItemSetD203Name=차가운 속삭임
+tagGDX2ItemSetD203Desc="방어구 안에서 죽음의 레버넌트가 차가운 속삭임을 건넨다. 입어라, 그리하면 죽음의 전사가 될 것이다."
+
+tagGDX2ItemSetD204Name=루드리건의 긍지
+tagGDX2ItemSetD204Desc="샤먼의 유물을 사용하여 에룰란 제국의 적들을 물리친, 광휘단의 전설적인 인물, 루드리건의 긍지."
+
+tagGDX2ItemSetD205Name=뼈수집가
+tagGDX2ItemSetD205Desc="자신의 신앙을 배신하고 소름 끼치는 전리품을 모은, 뼈수집가의 방어구."
+
+tagGDX2ItemSetD206Name=미덕의 빛
+tagGDX2ItemSetD206Desc="가장 강력한 신인 엠피리온의 축복을 받았다고 전해지는, 미덕의 빛은 세계가 필요로 하는 희망과 정의의 등불이다."
+
+tagGDX2ItemSetD207Name=삼신의 센티넬
+tagGDX2ItemSetD207Desc="서약에 따라 삼신과 신도들을 지키는 수호자, 센티넬의 방어구."
+
+tagGDX2ItemSetD208Name=하라의 기교
+tagGDX2ItemSetD208Desc="하라는 검술과 마법의 결합을 좋아하여, 비밀스러운 단체인 나이트블레이드와 길덤 아케이넘 양쪽에서 훈련을 받았다."
+
+tagGDX2ItemSetD209Name=사이클론
+tagGDX2ItemSetD209Desc="갈라론은 공기가 불길로 변하고 하늘이 영겁의 폭풍으로 물들어 대격변을 맞는다는, 케언의 종말을 설교했다. 그는 유언에서 잊혀진 존재의 귀환을 예언했다."
+
+tagGDX2ItemSetD210Name=라'진의 고통
+tagGDX2ItemSetD210Desc="라'진은 자신의 악몽이 공허에 잠식당하자, 일그러진 생각과 희망을 품게 되었고, 결국 그가 두려워했던 것을 도리어 행하는 사람이 되었다."
+
+tagGDX2ItemSetD211Name=마름병군주
+tagGDX2ItemSetD211Desc="마름병군주의 진정한 정체를 아는 사람은 아무도 없으며, 오직 그가 저지른 죄만이 알려졌다. 그가 마침내 체포되었을 때, 그의 얼굴은 질병과 부패로 인해 뒤틀려져 있었고, 아무도 그가 누구인지 알아볼 수 없었다."
+
+tagGDX2ItemSetD212Name=골의 적의
+tagGDX2ItemSetD212Desc="골은 잔인했지만 영리했다. 그 점은 속삭임의 여인, 비스미엘의 관심을 끌었고 그녀의 축복을 받기에 이르렀다."
+
+tagGDX2ItemSetD213Name=비스미엘의 장신구
+tagGDX2ItemSetD213Desc="속삭임의 여인이 인간이었던 시절, 그녀는 소환수에 대한 지배력을 강화하는 강력한 물건들을 모았다고 전해진다. 자신이 왕좌에 오른 후, 그녀는 더는 그런 하찮은 장신구가 필요하지 않았다."
+
+tagGDX2ItemSetD214Name=코르반 모래언덕 악마
+tagGDX2ItemSetD214Desc="코르반 모래언덕 악마는 코르반 사막의 독사처럼 교묘히 달아나고, 재빠르며, 치명적이길 열망한다."
+
+tagGDX2ItemSetD215Name=파이란의 심사숙고
+tagGDX2ItemSetD215Desc="선생들에게 멸시받자, 파이란은 그의 육체가 실험으로 구부러지고 뒤틀려졌음에도 불구하고, 비전 마법의 역사에 자신의 발자취를 남길 것을 맹세했다."
+
+tagGDX2ItemSetD216Name=타르고의 수공예품
+tagGDX2ItemSetD216Desc="별들을 직접 만든 단조의 대가가 작업했다고 전해지며, 방어구에는 체력과 의지가 담겨 있다."
+
+tagGDX2ItemSetD217Name=공허망령
+tagGDX2ItemSetD217Desc="공허가 심장 부위를 영원토록 오염시키자, 한때 신의 축복을 받았던 방어구가 이제는 사악한 에너지로 가득 찼다."
+
+tagGDX2ItemSetD218Name=부패한 가이스트
+tagGDX2ItemSetD218Desc="부패한 가이스트는 인간과 생물을 둘 다 학살하는 것을 대단히 즐겼고, 심지어 썩기 시작한 지 꽤 오래된 포획물의 살점을 입기까지 했다."
+
+tagGDX2ItemSetD219Name=영원한 어둠의 갑옷
+tagGDX2ItemSetD219Desc="모거네스는 어둠이 되쏘아 볼 때까지 어둠을 응시했다."
+
+tagGDX2ItemSetD220Name=장막 관리자
+tagGDX2ItemSetD220Desc="아득한 옛날, 잊혀진 신의 수호자로서 선택받아 랄요스를 굳건히 지키던 관리자들이 입던 의복."
+
+tagGDX2ItemSetD221Name=피를 마시는 자
+tagGDX2ItemSetD221Desc="아득한 옛날, 잊혀진 신의 수호자로서 선택받아 랄요스를 굳건히 지키던 관리자들이 입던 의복."
+
+tagGDX2ItemSetD222Name=잉걸불 소환사
+tagGDX2ItemSetD222Desc="아득한 옛날, 잊혀진 신의 수호자로서 선택받아 랄요스를 굳건히 지키던 관리자들이 입던 의복."
+
+
+
+#LootChests
+
+
+tagGDX2KorvanChestB01=낡은 상자
+tagGDX2KorvanChestC01=화려한 상자
+tagGDX2KorvanChestD01=호화로운 상자
+
+tagGDX2EldritchChestB01=엘드리치 보관함
+tagGDX2EldritchChestC01=엘드리치 은닉함
+tagGDX2EldritchChestD01=엘드리치 수집함
+tagGDX2EldritchChestD02=코르반의 신비
+tagGDX2EldritchChestD03=크레이트 소장품
+
+tagGDX2KorvanSarcophagusB01=귀족의 석관
+tagGDX2KorvanSarcophagusC01=왕족의 석관
+tagGDX2KorvanSarcophagusD01=천상의 석관
+
+tagGDX2BloodSwornCorpse=혈교도 시체
+
+tagGDX2Breakable_Beetle=풍뎅이 집
+tagGDX2Breakable_Eggs=파충류 알
+
+tagGDX2ChestKorvaak=코르박의 수집품
+tagGDX2ChestTombOfHeretic=모거네스의 소장품
+
+tagGDX2ChestOneShot_=코르반 은닉품
+tagGDX2ChestBossOneShot_Korvaak=코르박의 정수
+
+tagGDX2InventorsApprenticeCorpse=수습생 캐넌의 시체
+
+tagGDX2UroboruukRemains=우로보룩의 소지품
+
+tagGDX2ChestGauntletChestD01=잊혀진 유물함
+
+tagGDX2ChestMawOfEnaht_01=카맥의 유해
+
+
+#Interactive Objects
+
+tagGDX2DoorLocked_Korvaak= {^R} ~ 강력한 수호자에 의해 잠겨있음
+tagGDX2DoorLocked_Roguelike= {^R} ~ 강력한 룬에 의해 잠겨있음
+
+
+
+#Breakables
+tagGDX2Quest_BindingConduit_01=속박용 컨듀잇
+tagGDX2Crate=겸손한 상자(Crate)
+
+#Dungeon Doors
+tagGDX2UGDoorEntrance= 출입구
+
+tagGDX2UGDoorBeetle=딱정벌레 동굴 출입구
+tagGDX2UGDoorSolaelFaction=란의 지도실
+tagGDX2UGDoorBlocked= {^R} ~ 잠겨있음
+tagGDX2UGDoorTombEntrance=무덤 출입구
+tagGDX2UGDoorTombDoor=무덤 문
+tagGDX2UGDoorKorvaakTomb=엘드리치 태양의 무덤 출입구
+tagGDX2UGDoorMessenger=속죄의 탄광
+tagGDX2UGDoorKymonExit=엘드리치 관문 통로
+tagGDX2UGDoorKorvaakFinal=엘드리치 왕좌로 내려가는 길
+
+tagGDX2UGDoorFort=요새 출입구
+tagGDX2UGDoorMaw=입 출입구
+
+
+tagGDX2POI_AREAG_MeatTunnelA=에나트의 입 입구
+tagGDX2POI_AREAG_MeatTunnelB=에나트의 입 출구
+tagGDX2POI_AREAG_MeatTunnelC=입 통로
+tagGDX2UGDoorLostOasisPassage=잃어버린 오아시스 통로
+tagGDX2UGDoorLostOasisGardenEntrance=마술사의 회당 입구
+tagGDX2UGDoorLostOasisGardenExit=마술사의 회당 출구
+tagGDX2UGDoorLostOasisPathEntrance=저주받은 자들의 길 입구
+tagGDX2UGDoorLostOasisPathExit=저주받은 자들의 길 출구
+tagGDX2UGDoorSandFort_Entrance=버려진 성채 입구
+tagGDX2UGDoorSandFort_Exit=버려진 성채 출구
+tagGDX2UGDoorSandFort_StairsUp=요새 위층
+tagGDX2UGDoorSandFort_StairsDown=요새 아래층
+tagGDX2UGDoor_HowlingDepthsA=통곡의 심연 입구
+tagGDX2UGDoor_HowlingDepthsB=통곡의 심연 출구
+tagGDX2UGDoor_HowlingDepthsC=통곡의 심연 통로
+
+
+
+#Doors
+tagGDX2Door_PortcullisGold=황금 창살문
+tagGDX2Door_Lava=마그마 장벽
+tagGDX2EldritchRift=엘드리치 리프트
+tagGDX2TombOfHereticDoor=실체화된 어둠
+tagGDX2TombOfHereticSeal=이단자의 봉인문
+
+tagGDX2DoorOneWayTombOfHeretic=어둠 탈출구
+tagGDX2EpicDoor_TombOfHeretic=모거네스의 아방궁 봉인문
+tagGDX2EpicDoor_TombOfHereticLocked= {^R} ~ 어둠에 의해 봉인됨 (해골 열쇠 필요)
+
+
+tagPrefixB037_Class_A={^G}워로드의
+tagPrefixB038_Class_A={^G}실드브레이커의
+tagPrefixB039_Class_A={^G}센티넬의
+tagPrefixB040_Class_A={^G}데르비시의
+tagPrefixB041_Class_A={^G}템플러의
+tagPrefixB042_Class_A={^G}아콘의
+tagPrefixB043_Class_A={^G}팔라딘의
+tagPrefixB044_Class_A={^G}오프레서의
+tagPrefixB045_Class_A={^G}구세주의
+
+
+#Affixes
+tagGDX2PrefixAA024={^Y}오스키퍼의
+
+#Difficulty Unlocks
+tagGDX2DifficultyUnlock01=챔피언의 훈장
+tagGDX2DifficultyUnlock01_Desc=케언을 공포에 떨게 만든 존재들을 물리쳤다는 증거물. 사용 시 엘리트 난이도를 해제할 수 있다. 주의: 높은 난이도를 조기에 진입하면 심각한 문제에 직면할 수 있습니다! ^o다른 캐릭터들이 사용할 수 있도록 전송용 창고에 보낼 수 있습니다.
+tagGDX2DifficultyUnlock02=구원자의 훈장
+tagGDX2DifficultyUnlock02_Desc=케언을 공포에 떨게 만든 존재들을 완파했다는 증거물. 사용 시 얼티밋 난이도를 해제할 수 있다. 주의: 높은 난이도를 조기에 진입하면 심각한 문제에 직면할 수 있습니다! ^o다른 캐릭터들이 사용할 수 있도록 전송용 창고에 보낼 수 있습니다.
+tagGDX2DifficultyUnlockStats={^E}개방할 난이도 보다 낮은 난이도의 퀘스트 보상 능력치/스킬 포인트 해제
+tagGDX2DifficultyUnlockTeleporters={^E}개방할 난이도 보다 낮은 난이도의 리프트게이트 해제
+tagGDX2DifficultyUnlockBags={^E}모든 인벤토리 가방 해제
+
+
+

@@ -1,0 +1,618 @@
+#Region Names
+
+tagGDX1MapDarkWood=Rừng Âm U
+tagGDX1MapUgdenbog=Đầm Lầy Ugdenbog
+tagGDX1MapUgdenbogVillage=Làng Barrowholm
+tagGDX1MapUgdenbogCoven=Nơi Trú Ẩn Của Hội Phù Thuỷ
+tagGDX1MapUgdenbogAltar=Tế Đàn Rattosh
+tagGDX1MapUgdenbogAncient=Sào Huyệt Cổ Xưa
+
+tagGDX1MapMalmouthEntry=Tháp Canh Cô Độc
+tagGDX1MapMalmouthOutskirts=Đồng Quê Tang Thương
+tagGDX1MapMalmouthOutskirtsRuins=Ngoại Vi Malmouth
+tagGDX1MapMalmouthOutskirtsMine=Mỏ Jerrethon
+tagGDX1MapMalmouth=Malmouth
+tagGDX1MapUgdenbogSlums=Quận Thắp Nến
+tagGDX1MapMalmouthIndustrial=Quận Mũ Thép
+tagGDX1MapMalmouthInner=Đồi Vương Miện
+tagGDX1MapMalmouthDocks=Bến Cảng Malmouth
+
+
+#Riftgate Names
+
+tagGDX1RiftGloomwaldEntrance=Cổng Dịch Chuyển Rừng Âm U
+tagGDX1RiftGloomwaldRiverCrossing=Cổng Dịch Chuyển Giao Lộ Rừng Âm U
+tagGDX1RiftUgdenbogCoven=Cổng Dịch Chuyển Nơi Trú Ẩn Của Hội Phù Thuỷ
+tagGDX1RiftUgdenbogCenter=Cổng Dịch Chuyển Đầm Lầy Ugdenbog
+tagGDX1RiftUgdenbogVillage=Cổng Dịch Chuyển Làng Barrowholm
+tagGDX1RiftMalmouthAetherfire=Cổng Dịch Chuyển Tháp Canh Cô Độc
+tagGDX1RiftMalmouthOutskirts=Cổng Dịch Chuyển Ngoại Vi Malmouth
+tagGDX1RiftMalmouthIndustrial=Cổng Dịch Chuyển Quận Mũ Thép
+tagGDX1RiftMalmouthInner=Cổng Dịch Chuyển Đồi Vương Miện
+tagGDX1RiftMalmouthSewers=Cổng Dịch Chuyển Cống Ngầm Malmouth
+
+#World Map Labels
+
+tagGDX1WorldMapGloomwald=Rừng{^n}Âm U
+tagGDX1WorldMapUgdenbog=Đầm Lầy Ugdenbog
+tagGDX1WorldMapUgdenbogVillage=Làng Barrowholm
+tagGDX1WorldMapUgdenbogCoven=Nơi Trú Ẩn{^n}Của Hội Phù Thuỷ
+
+tagGDX1WorldMapMalmouthOutskirts=Đồng Quê{^n}Tang Thương
+tagGDX1WorldMapMalmouthOutskirtsRuins=Ngoại Vi{^n}Malmouth
+tagGDX1WorldMapMalmouthMine=Mỏ Jerrethon
+tagGDX1WorldMapMalmouthEntry=Tháp Canh Cô Độc
+tagGDX1WorldMapMalmouth=     Malmouth
+tagGDX1WorldMapMalmouthSlums=Quận Thắp Nến
+tagGDX1WorldMapMalmouthIndustrial=Quận Mũ Thép
+tagGDX1WorldMapMalmouthInner=Đồi Vương      {^n}Miện      
+tagGDX1WorldMapMalmouthDocks=Bến Cảng{^n}Malmouth
+tagGDX1WorldMapMalmouthFactory=      Xưởng Thịt
+
+tagGDX1WorldMapBeastRoguelike=   Khu Rừng{^n}   Cổ Xưa
+
+
+
+#Underground Names
+
+tagGDX1UGUgdenbogMine01=Mỏ Barrowholm
+tagGDX1UGUgdenbogCave01=Sào Huyệt Của Janaxia
+tagGDX1UGUgdenbogCave02=Sào Huyệt Của Larria
+tagGDX1UGUgdenbogCave03=Rừng Tầng Thấp
+tagGDX1UGUgdenbogCave04=Hầm Mộ Của Ugdall
+tagGDX1UGUgdenbogCave05=Hang Của Carraxus
+tagGDX1UGUgdenbogCellar01=Căn Hầm Um Tùm
+tagGDX1UGUgdenbogCellar02=Căn Hầm Đổ Nát
+tagGDX1UGUgdenbogWendigo01=Căn Hầm Hoang Vắng
+tagGDX1UGUgdenbogWendigo02=Sào Huyệt Của Wendigo
+tagGDX1UGUgdenbogVoidRift01=Hoang Địa Đổ Nát
+tagGDX1UGUgdenbogVoidRift02=Hoang Địa Bùng Cháy
+tagGDX1UGUgdenbogVoidRift03=Rìa Hư Không
+tagGDX1UGUgdenbogVoidRift04=Giới Hạn Của Lý Trí
+
+tagGDX1UGMalmouthSewer01=Cống Ngầm Malmouth
+tagGDX1UGMalmouthSewer02=Vực Thẳm Sưng Tấy
+tagGDX1UGMalmouthHideout01=Căn Cứ Dưới Cống Ngầm
+tagGDX1UGMalmouthHideout02=Căn Cứ Quân Kháng Chiến Malmouth
+tagGDX1UGMalmouthOutskirtsCellar01=Căn Hầm Đang Cháy
+tagGDX1UGMalmouthAetherialFactory01=Nơi Lây Nhiễm
+tagGDX1UGMalmouthAetherialFactory02=Xưởng Thịt
+tagGDX1UGMalmouthAetherialFactory03=Chuồng Thịt
+tagGDX1UGMalmouthAetherialFactory04=Lò Sinh Sản
+tagGDX1UGMalmouthAetherialFactory05=Thánh Đường Xác Thịt
+tagGDX1UGMalmouthCathedral01=Hầm Mộ Của Sứ Giả Mathis
+tagGDX1UGMalmouthCathedral01B=Nơi Trú Ẩn Của Ivonda
+tagGDX1UGMalmouthLighthouse01=Ngọn Hải Đăng Bị Cướp Phá
+tagGDX1UGMalmouthFort01=Văn Phòng Hội Đồng Tối Cao
+
+tagGDX1UGAncientGrove01=Khu Rừng Cổ xưa
+tagGDX1UGAncientGrove01A=Rừng Gai Hoang Dã
+tagGDX1UGAncientGrove01B=Khu Rừng Ô Uế
+tagGDX1UGAncientGrove01C=Trung Tâm Khu Rừng
+tagGDX1UGAncientGrove01D=Thử Thách Ô Uế
+
+tagGDX1UGSecret01=Thánh Đường Của Người Được Chọn
+tagGDX1UGSecret02=Luyện Ngục Tử Vong
+
+#Signs
+
+tagGDX1Sign_DarkWoodRoad=Bờ Biển Gai Góc
+tagGDX1Sign_UgenbogVillage=Barrowholm
+tagGDX1Sign_UgenbogMine=Mỏ Barrowholm
+tagGDX1Sign_Malmouth=Malmouth
+tagGDX1Sign_MalmouthSlums=Quận Thắp Nến
+tagGDX1Sign_MalmouthIndustrial=Quận Mũ Thép
+tagGDX1Sign_MalmouthInner=Đồi Vương Miện
+tagGDX1Sign_MalmouthDocks=Cảng Malmouth
+
+tagGDX1Gravestone_DC01=Nơi An Nghỉ Của Sahdina
+tagGDX1Gravestone_DC02=Nơi An Nghỉ Của Harmond
+tagGDX1Gravestone_DC03=Nơi An Nghỉ Của Rook
+tagGDX1Gravestone_DC04=Nơi An Nghỉ Của Kerrick
+
+
+#Points of Interest
+
+tagGDX1POICarraxusDenA=Lối Vào Hang Của Carraxus
+tagGDX1POICarraxusDenB=Lối Ra Khỏi Hang Của Carraxus
+
+tagGDX1POIBarrowholm=Barrowholm
+
+tagGDX1POIAbandonedMineA=Lối Vào Mỏ Barrowholm
+tagGDX1POIAbandonedMineB=Lối Ra Khỏi Mỏ Barrowholm
+
+tagGDX1POIBarrowholmCellarA=Lối Vào Hầm Barrowholm
+tagGDX1POIBarrowholmCellarB=Lối Ra Khỏi Barrowholm
+
+tagGDX1POIWendigoCaveA=Lối Vào Sào Huyệt Của Wendigo
+tagGDX1POIWendigoCaveB=Lối Ra Khỏi Sào Huyệt Của Wendigo
+
+tagGDX1POIJanaxiaDenA=Lối Vào Sào Huyệt Của Janaxia
+tagGDX1POIJanaxiaDenB=Lối Ra Khỏi Sào Huyệt Của Janaxia
+
+tagGDX1POILarriaDenA=Lối Vào Sào huyệt Của Larria 
+tagGDX1POILarriaDenB=Lối Ra Khỏi Sào huyệt Của Larria
+
+tagGDX1POITheUndergrowthA=Lối Vào Rễ Cây Mọc Ngầm
+tagGDX1POITheUndergrowthB=Lối Ra Khỏi Rễ Cây Mọc Ngầm
+
+
+tagGDX1POI001A=Lối Vào
+tagGDX1POI001B=Lối Ra
+
+tagGDX1POIFloodedPassageA=Lối Vào Đường Mòn Ngập Nước
+tagGDX1POIFloodedPassageB=Lối Ra Khỏi Đường Mòn Ngập Nước
+
+tagGDX1POI_BeastRoguelike01A=Lối Vào Khu Rừng Cổ xưa
+tagGDX1POI_BeastRoguelike01B=Lối Ra Khỏi Khu Rừng Cổ xưa
+tagGDX1POI_BeastRoguelike02A=Lối Vào Bụi Cây Hoang Dã
+tagGDX1POI_BeastRoguelike02B=Lối Ra Khỏi Bụi Cây Hoang Dã
+tagGDX1POI_BeastRoguelike03A=Lối Vào Khu Rừng Vấy Bẩn
+tagGDX1POI_BeastRoguelike03B=Lối Ra Khỏi Khu Rừng Vấy Bẩn
+tagGDX1POI_VoidExit=Lối Thoát Khỏi Hư Không
+
+tagGDX1POI_CandleDistrictEntrance=Quận Thắp Nến
+tagGDX1POI_CandleDistrictExit=Nơi Trú Ẩn Của Quân Kháng Chiến
+tagGDX1POI_CrownHillRiftgate=Cổng Dịch Chuyển Đồi Vương Miện
+tagGDX1POI_FactoryEntrance=Lối Vào Nhà Máy
+tagGDX1POI_FactoryExit=Lối Ra Khỏi Nhà Máy
+tagGDX1POI_FactoryHeartEntrance=Lối Vào Thánh Đường Xác Thịt
+tagGDX1POI_FactoryHeartExit=Lối Ra Khỏi Thánh Đường Xác Thịt
+tagGDX1POI_GatesOfMalmouth=Cổng Thành Malmouth
+tagGDX1POI_MalmouthDocks=Bến Tàu Hắc Thiết
+tagGDX1POI_MalmouthDocksEntrance=Lối Vào Cảng Hắc Thiết
+tagGDX1POI_MalmouthDoor=Cổng Hắc Thiết
+tagGDX1POI_MQSewersEntrance=Lối Vào Cống Ngầm Malmouth
+tagGDX1POI_MQSewersExit=Lối Ra Khỏi Cống Ngầm Malmouth
+tagGDX1POI_ResistanceBase=Pháo Đài Quân Kháng Chiến
+tagGDX1POI_ResistanceHideout=Nơi Trú Ẩn Của Quân Kháng Chiến
+tagGDX1POI_SteelcapDistrictEntrance=Quận Mũ Thép
+tagGDX1POI_SteelcapDistrictExit=Nơi Trú Ẩn Của Quân Kháng Chiến
+tagGDX1POI_FleshwrappedEnclaveEntrance=Lối Vào Khu Vực Phủ Đầy Thịt
+tagGDX1POI_FleshwrappedEnclaveExit=Lối Ra Khu Vực Phủ Đầy Thịt
+tagGDX1POI_TheWomb=Lò Sinh Sản
+tagGDX1POI_BridgeLever=Trạm Điều Khiển Cầu Malmouth
+
+
+
+
+#Notifications
+
+tagNotification_AreaE_Barrowholm_Clue01=Bạn nghe thấy những tiếng động đáng ngại phát ra từ tầng hầm...
+tagNotification_AreaE_Barrowholm_Clue02=Quả thực Barrowholm có một lịch sử rất phong phú...
+tagNotification_AreaE_Barrowholm_Clue03=Công thức này có gì đó rất lạ...
+tagNotification_AreaE_Barrowholm_CellarOpen=Chìa khóa của Scorv có vẻ vừa với lỗ khóa cửa hầm này...
+
+tagNotification_AreaF_OuterBridgeRiftgateEvent=Cổng Dịch Chuyển đang nhung nhúc những sinh vật Aether.
+tagNotification_AreaF_OuterBridgeRiftGateEventClear=Cổng Dịch Chuyển đã sạch bóng kẻ thù.
+tagNotification_AreaF_RebelBaseRiftgateEvent=Căn Cứ Quân Kháng Chiến đang bị đám sinh vật Aether giày xéo.
+tagNotification_AreaF_RebelBaseRiftgateEventClear=Bạn đã dẹp sạch quân thù khỏi Căn cứ.
+tagNotification_AreaF_LiberateRebels01Found=Một nhóm tù nhân đang xin giúp đỡ ở đâu đây.
+tagNotification_AreaF_LiberateRebels02Found=Có người đang cầu xin sự giúp đỡ đâu đây.
+tagNotification_AreaF_EmberCrags=Bạn đã thoát được khỏi Hư Không và bước vào vùng ngoại vi thành Malmouth!
+tagNotification_AreaF_MadRamblingsDoorOpened=Bạn nghe thấy gần đây có tiếng đá động đậy...
+tagNotification_AreaF_CantLeaveThem=Thật không may, đã quá muộn để cứu những người này...
+tagNotification_AreaF_CantLeaveThemNoQuest=Những thứ chúng làm với những con người kém may mắn này...thật đáng lo...
+tagNotification_AreaF_DocksRiftgateEvent=Bến Tàu Hắc Thiết đang bị tàn phá.
+tagNotification_AreaF_DocksEventFinished=Đám Aetherial ở Bến Tàu Hắc Thiết đã bị tiêu diệt!
+
+tagNotification_WarningAncientGroveGates=Đường tới Khu Rừng Cổ Xưa đã mở ra. Hãy mau chóng bước vào, vì cánh cổng sẽ không duy trì lâu...
+tagNotification_WarningAncientGroveGatesLocked=Lối Vào Khu Rừng Cổ Xưa đã đóng lại và sẽ không mở ra trong màn chơi này nữa.
+tagNotification_WarningAncientGroveChallenge=Những thứ ô uế đã được thanh tẩy!
+
+tagNotification_WarningAreaFSecret01=Một kỷ vật nhỏ của Sahdina nổi bật lên giữa chiến địa...
+
+#NPC Names
+
+tagGDX1NPC_AreaE_01=Garradia
+tagGDX1NPC_AreaE_02=Thánh Mẫu Malostria
+tagGDX1NPC_AreaE_03=Tiên Tri Rugia
+tagGDX1NPC_AreaE_04=Scorv Egdenor
+tagGDX1NPC_AreaE_05=Tyvald Hallows
+tagGDX1NPC_AreaE_06=Ravager
+tagGDX1NPC_AreaE_07=Ugdall
+tagGDX1NPC_AreaE_08=Nimia của Hội Huyết Thệ
+tagGDX1NPC_AreaE_09=Jordyth Evelline
+tagGDX1NPC_AreaE_10=Aurin Evelline
+tagGDX1NPC_AreaE_11=Bowen Ostarg
+tagGDX1NPC_AreaE_12=Leora Karns
+tagGDX1NPC_AreaE_13=Larria
+tagGDX1NPC_AreaE_14=Amala Torven
+tagGDX1NPC_AreaE_15=Garett Torven
+tagGDX1NPC_AreaE_16=Thomas
+tagGDX1NPC_AreaE_17=Nathan
+tagGDX1NPC_AreaE_18=Maurene
+tagGDX1NPC_AreaE_19=Aeyla
+tagGDX1NPC_AreaE_20=Annaria
+tagGDX1NPC_AreaE_21=Nuralla
+tagGDX1NPC_AreaE_22=Rào Chắn Aether
+tagGDX1NPC_AreaE_23=Tế Đàn Rattosh
+tagGDX1NPC_AreaE_24=Rodrig của Hội Huyết Thệ
+tagGDX1NPC_AreaE_25=Naea của Hội Huyết Thệ
+tagGDX1NPC_AreaE_26=Nidalia
+tagGDX1NPC_AreaE_27=Trung sĩ Havos
+tagGDX1NPC_AreaE_28=Vệ Binh Syndia
+
+tagGDX1WitchWard=Vật Tổ Bảo Hộ
+
+tagGDX1NPC_AreaF_01=Korinia
+tagGDX1NPC_AreaF_02=Đại Úy Wilfor
+tagGDX1NPC_AreaF_03=Ivonda
+tagGDX1NPC_AreaF_04=Rivia Hol
+tagGDX1NPC_AreaF_05=Allostria
+tagGDX1NPC_AreaF_06=Nadia
+tagGDX1NPC_AreaF_07=Rena
+tagGDX1NPC_AreaF_08=Hyram
+tagGDX1NPC_AreaF_09=Markus
+tagGDX1NPC_AreaF_10=Farron
+tagGDX1NPC_AreaF_11=Kaylon
+tagGDX1NPC_AreaF_12=Cụm Tinh Thể Kỳ Lạ
+tagGDX1NPC_AreaF_13=Vũ Khí Bị Bỏ Lại
+tagGDX1NPC_AreaF_14=Vật Tư Pháp Thuật Bị Bỏ Lại
+tagGDX1NPC_AreaF_15=Karna
+tagGDX1NPC_AreaF_16=Nella
+tagGDX1NPC_AreaF_17=Garrund
+tagGDX1NPC_AreaF_18=Henry
+tagGDX1NPC_AreaF_19=Ginny
+tagGDX1NPC_AreaF_20=Eraline
+tagGDX1NPC_AreaF_21=Thad
+tagGDX1NPC_AreaF_22=Phá Hủy Lò Sinh Sản
+tagGDX1NPC_AreaF_23=Nicoh Erin
+tagGDX1NPC_AreaF_24=Nissa
+tagGDX1NPC_AreaF_25=Timor
+tagGDX1NPC_AreaF_26=Rictor Clarke
+tagGDX1NPC_AreaF_27=Vivian Neven
+
+tagNPC_UgdenbogBridge=Nơi Sửa Cầu Đầm Lầy Ugdenbog
+
+tagGDX1_NPC_S=Lokarr
+tagGDX1_NPC_S_H=(S) {^F}Lokarr's Gaze
+tagGDX1_NPC_S_S=(S) {^F}Lokarr's Mantle
+tagGDX1_NPC_S_T=(S) {^F}Lokarr's Coat
+tagGDX1_NPC_S_F=(S) {^F}Lokarr's Boots
+tagGDX1_NPC_S_Set=Lokarr's Spoils
+tagGDX1_NPC_S_SetDesc="Tư trang của một Á thần, giành được từ chiến trận đẫm máu."
+
+
+#Flavor NPC Names
+
+tagGDX1NPC_Flavor_AreaE_01=Callia
+tagGDX1NPC_Flavor_AreaE_02=Ralkama
+tagGDX1NPC_Flavor_AreaE_03=Wuulavia
+tagGDX1NPC_Flavor_AreaE_04=Hastria
+tagGDX1NPC_Flavor_AreaE_05=Lagarria
+tagGDX1NPC_Flavor_AreaE_06=Andros
+tagGDX1NPC_Flavor_AreaE_07=Ivok
+tagGDX1NPC_Flavor_AreaE_08=Terise
+tagGDX1NPC_Flavor_AreaE_09=Arina
+tagGDX1NPC_Flavor_AreaE_10=Kalive
+tagGDX1NPC_Flavor_AreaE_11=Markon
+tagGDX1NPC_Flavor_AreaE_12=Sherna Stol
+
+tagGDX1NPC_Flavor_AreaF_01=Markiv
+tagGDX1NPC_Flavor_AreaF_02=Orlon
+tagGDX1NPC_Flavor_AreaF_03=Hagarond
+tagGDX1NPC_Flavor_AreaF_04=
+tagGDX1NPC_Flavor_AreaF_05=
+tagGDX1NPC_Flavor_AreaF_06=
+
+
+#Quest Items
+
+tagQuestItemCovenTribute=Trái Tim của Carraxus
+tagQuestItemCovenTributeDesc="Trái tim có hình dáng kỳ lạ của một con giáp xác khổng lồ. Nồng nặc mùi rong biển."
+
+tagQuestItemCovenRitual=Thần Vật Đầm Lầy Ugdenbog
+tagQuestItemCovenRitualDesc="Thần vật có vẻ đã bị hư hại, nhiều khả năng là do bất cẩn, nhưng đây đích thị là thứ Garradia đang tìm."
+
+tagQuestItemInquisitorsRune=Mặt Dây Chuyền của Creed
+tagQuestItemInquisitorsRuneDesc="Thoạt nhìn, đây chỉ là mặt dây chuyền đơn giản với một cổ ngữ hoa mỹ chạm ở giữa. Nhưng từ nó tỏa ra sức mạnh đáng sợ."
+
+tagGDX1QuestItemUlgrimHeirloom=Kỷ Vật của Ulgrim
+tagGDX1QuestItemUlgrimHeirloom_Desc="Một món đồ trông khá tầm thường khi so sánh với ý nghĩa thực sự của nó. Người Phán Quyết Creed hi vọng có thể dùng nó để xác định tung tích của Ulgrim."
+tagGDX1QuestItemUlgrimHeirloom02=Kỷ Vật của Ulgrim
+tagGDX1QuestItemUlgrimHeirloom02_Desc="Được truyền ma thuật của Hội Phù Thủy, hi vọng nó sẽ dẫn đường đến chỗ Ulgrim."
+
+tagGDX1QuestItemCellarKey_Name=Chìa Khóa Căn Hầm ở Barrowholm.
+tagGDX1QuestItemCellarKey_Desc="Một chiếc chìa khóa bình thường. Trông nó cũ và mòn hơn bất cứ thứ gì khác ở Barrowholm."
+
+
+
+tagGDX1QuestItemCovenMaterial_01=Mật Xà Quái Mắt Độc
+tagGDX1QuestItemCovenMaterial_01_Desc="Mùi của nó kinh khủng hơn tưởng tượng."
+tagGDX1QuestItemCovenMaterial_02=Sừng của Bờm Bụi Cây Đầu đàn
+tagGDX1QuestItemCovenMaterial_02_Desc="Vẫn còn nguyên vẹn dù có nhiều vết xước, nhiều khả năng là do những cuộc tranh đấu liên miên để giành lấy vị trí đầu đàn."
+
+tagGDX1QuestItemWendigoHeart_01=Trái Tim của Handarroth
+tagGDX1QuestItemWendigoHeart_01_Desc="Tiếng tim đập vẫn rền vang ngay cả sau khi con quái thú đã chết."
+tagGDX1QuestItemWendigoHeart_02=Trái Tim của Ollivioth
+tagGDX1QuestItemWendigoHeart_02_Desc="Tiếng tim đập vẫn rền vang ngay cả sau khi con quái thú đã chết."
+tagGDX1QuestItemWendigoHeart_03=Trái Tim của Yuvolloth
+tagGDX1QuestItemWendigoHeart_03_Desc="Tiếng tim đập vẫn rền vang ngay cả sau khi con quái thú đã chết."
+
+tagGDX1QuestItemDravisClue_01=Thư từ Dravis
+tagGDX1QuestItemDravisClue_01_Desc=Chị yêu quý,{^n}một lần nữa em lại thấy mình cạn lời. Tại sao chị lại trở mặt với máu mủ của mình? Sao chị lại từ bỏ đứa em này khi em đã quá gần với sự thật?{^n}{^n}Nhưng không sao, em sẽ moi nó ra từ những hơi thở cuối cùng của cha chúng ta dù có chị ở đó hay không. Nếu chị vẫn đang đọc thư này, thì chị lại chậm chân rồi, vì một lần nữa em đã lên đường tới nơi tử thần cũng không dám, nơi máu của người sống hòa lẫn với chủ nhân. Thời điểm để chị theo em đã qua rồi, Daila ạ. Hãy quay lại đi, bởi nơi em đến, chị không thể...{^n}Dravis
+
+tagGDX1QuestItemDravisClue_02=Quà từ Dravis
+tagGDX1QuestItemDravisClue_02_Desc="Có mẩu giấy đính kèm bông hoa: Một nụ hoa gai góc dành cho một phụ nữ gai góc. -D"
+
+tagGDX1QuestItemMadRamblings_01=Hồi Ký của Ivonda
+tagGDX1QuestItemMadRamblings_01_Desc="Hầu hết cuốn nhật ký là những đoạn lảm nhảm điên khùng và vô nghĩa, nhưng cũng có vài chỗ đáng suy nghĩ, nếu bạn có thể hiểu chúng."
+
+tagQuestItemRebelBomb=Bom của Quân Kháng Chiến
+tagQuestItemRebelBombDesc="Một khối chất nổ tự chế. Trông có vẻ không đủ mạnh để hoàn thành nhiệm vụ."
+tagQuestItemCreedsAdditive=Phụ Gia của Creed
+tagQuestItemCreedsAdditiveDesc="Một hỗn hợp sền sệt với mùi hôi. Người Phán Quyết Creed quả quyết thứ này sẽ khiến loại chất nổ tự chế của quân kháng chiến mạnh hơn."
+
+
+#Journals
+ =
+tagGDX1LoreObj_InquisitorCreedA09Name=Nhật ký của Creed - Phần 9
+tagGDX1LoreObj_InquisitorCreedA09codexTitle=Người Phán Quyết Creed - P.9
+tagGDX1LoreObj_InquisitorCreedA09Text=(Tên Tiếng Anh: ^mJournal of Inquisitor Creed - 9th Entry^-)^n^nVới sự trợ giúp từ Kẻ Bị Chiếm Xác, chúng tôi đã giáng một đòn chí mạng vào Giáo Phái của Ch'thon. Tôi không muốn phá vỡ bầu không khí rộn ràng của thắng lợi to lớn này, đặc biệt là trong hoàn cảnh bị giới hạn nguồn tài nguyên và lực lượng quá ít ỏi, nhưng e rằng chúng tôi đã phải trả một cái giá quá đắt. Trong khi chúng tôi đang dồn tâm trí của mình vào việc ngăn chặn Loghorrean xâm nhập thế giới này, Binh Đoàn Aether vẫn đang hoạt động không ngừng nghỉ.{^n}{^n}Nhiều người ở Ngã Tư Ác Quỷ đã phải đánh đổi bằng sinh mạng của mình, nhưng chiến tranh là như thế, và có phần nhẫn tâm khi nói rằng chúng ta đánh đổi như thế là đáng. Chỉ mất một vài chiến binh để ngăn chặn cơn ác mộng đang cố thoát khỏi vùng Hư Không, thứ mà có thể trở thành dấu chấm hết cho thế giới loài người, thì quả thật là một thắng lợi to lớn của nhân loại.{^n}{^n}Một điều khiến tôi vẫn còn đau đáu trong lòng, chính là sự biến mất của Ulgrim vào Cõi Hư Không. Bourbon rõ ràng là không quan tâm lắm, và theo tôi thì ông ấy nghĩ rằng tôi đã quá đa cảm trước sự mất mát đó. Bourbon cho rằng Ulgrim chỉ là một người đàn ông bình thường, nhưng tôi tin chắc rằng, ẩn chứa bên trong Ulgrim là một cái gì đó to lớn. Tôi tin rằng ông là một Thăng Thiên Giả - một người bình thường đã trở thành Bán Thần.{^n}{^n}Ulgrim chuyên đóng vai một người thích đùa hay chỉ là một nhân vật phụ khiêm tốn, nhưng đôi mắt của ông ấy đã cho tôi biết nhiều điều hơn thế. Ông ấy nói về những sự kiện lịch sử một cách rành mạch và tường tận, khiến người nghe có cảm giác rất quen thuộc, như khơi gợi lại những ký ức của bản thân họ. Khác với vẻ bề ngoài vui tính, có một cái gì đó rất nghiêm túc trong Ulgrim, cho thấy rằng ông ấy đã chứng kiến rất nhiều sự kiện lịch sử; tôi nghi là nó còn nhiều hơn cả những gì mà một đời người đã trải qua.{^n}{^n}Mọi thứ không chỉ có như thế, và dù cho ông ta đang cố gắng che giấu chúng, Ulgrim sở hữu một sức mạnh và một nguồn năng lượng đáng kinh ngạc khi so sánh với một người đàn ông trung niên bình thường. Ông ta thường xuất hiện với vẻ ngoài thư thái, tự nhiên, di chuyển thất thểu; nhưng trong một số khoảnh khắc hiếm hoi, tôi đã thấy ông ấy phản ứng và di chuyển với một tốc độ phi thường.{^n}{^n}Tôi cảm thấy rằng ông ấy có thể làm được nhiều thứ hơn vẻ bên ngoài, như trong việc chiến đấu với kẻ thù của nhân loại, nhưng tôi không hiểu tại sao ông ấy lại không phát huy hết khả năng của mình. Có lẽ chúng ta vẫn chưa biết được nguyên nhân, ít nhất là ở thời điểm hiện tại. Cũng có lẽ là Bourbon đúng, rằng Ulgrim đang lạc ở đâu đó trong Cõi Hư Không. Tuy nhiên tôi có cảm giác là chúng tôi sẽ được gặp lại ông ấy bằng cách nào đó, và nếu chúng tôi có thể thì đó sẽ là một hành trình dài để khẳng định suy nghĩ của tôi là đúng.{^n}{^n}Và vẫn như thế, đây là thời đại của những điều kỳ lạ, khi mà một kẻ vô danh hèn mọn thoát khỏi sự ràng buộc để trở thành một vị anh hùng - tiềm ẩn khả năng là vĩ đại nhất trong thời đại này.{^n}{^n}Nếu Kẻ Bị Chiếm Xác vẫn tiếp tục cuộc hành trình và sống sót qua cuộc chiến này, tôi tự hỏi rằng phải chăng hai người bọn họ đang cùng sánh bước trên con đường thở thành những bậc thánh nhân...
+
+tagGDX1LoreObj_InquisitorCreedA10Name=Nhật ký của Creed - Phần 10
+tagGDX1LoreObj_InquisitorCreedA10codexTitle=Người Phán Quyết Creed - P.10
+tagGDX1LoreObj_InquisitorCreedA10Text=(Tên Tiếng Anh: ^mJournal of Inquisitor Creed - 10th Entry^-)^n^nKẻ Bị Chiếm Xác đã mở một con đường đi từ làng Burrwitch xuyên qua Rừng Âm U, và một lần nữa lao thẳng vào Hư Không sâu thẳm để rồi quay trở về mặt đất với một người chẳng hề xa lạ: chính là Ulgrim. Giờ đây tôi hoàn toàn không thể không nghĩ rằng Ulgrim đích thực là một "Ulgrim huyền thoại" và là một Thăng Thiên Giả bất tử.{^n}{^n}Tôi vừa vui mừng vì có một đồng minh mạnh mẽ như thế trên chiến trận, nhưng đồng thời lại cảm thấy hơi lo lắng vì sự hiện diện của ông ấy. Cùng với Ulgrim và những lời đồn gần đây liên quan đến thần Mogdrogen, tôi lo ngại rằng những vị thần khác có lẽ cũng đang bắt đầu nhúng tay vào những vấn đề của Lục Địa Cairn; giống như họ đã từng làm vào thời xa xưa.{^n}{^n}Điều này lại dẫn dắt dòng suy nghĩ của tôi hướng đến những điều bí ẩn vẫn còn vây quanh Kymon. Có vẻ như ông ta và các môn đồ của mình đang nhận lấy sức mạnh từ một thế lực thần thánh nào đó, nhưng đó là ai và thứ đó là gì cơ chứ? Tôi rất nghi ngờ về những lời tuyên bố của Kymon rằng chính Empyrion đang dẫn lối ông ta, như hắn đã từng nói trước đó. Sức mạnh mà tôi cảm nhận được từ sứ giả của Kymon ở Homestead có một chút... tà ác trong đó.{^n}{^n}Kymon đã từng là một Người Phán Quyết, nhưng ông ấy đã rời bỏ Hội để tìm hướng đi riêng cho mình trong khoảng thời gian trước khi sự kiện Grim Dawn xảy đến. Rõ ràng ông ấy không giống như bọn Aether, nhưng tôi sợ rằng ông ấy đã lún sâu vào một giao ước bóng tối với một thế lực chưa rõ nguồn gốc. Nếu đúng là Empyrion, vị thần tối cao trong huyền thoại, quay trở lại Cairn, một sức mạnh vĩ đại như thế chắc chắn sẽ được cảm nhận trên một quy mô lớn hơn, chứ không đơn thuần chỉ từ một gã cuồng tín lãnh đạo một nhóm tín đồ lêu lổng.{^n}{^n}Tuy nhiên, cho dù thực thể đằng sau Hội Kymon Ân Sủng là ai đi chăng nữa, rõ ràng nó đang sở hữu một quyền năng to lớn đáng kinh ngạc, và tôi vẫn còn băn khoăn day dứt vì chưa biết rõ thân phận và chủ đích của nó là gì.
+
+#AreaE Notes
+#Barrowholm_01
+tagGDX1LoreObj_AreaE_Barrowholm_A01Name=Tương lai đang ẩn chứa điều gì?
+tagGDX1LoreObj_AreaE_Barrowholm_A01Text=(Tên Tiếng Anh: ^mWhat does the future hold?^-)^n^nTrong những tháng ngày khốn khó như thế này, tôi nhận ra rằng mình thường xuyên cầu nguyện. Tâm trí tôi đang chứa đầy những câu hỏi mà vẫn chưa tìm ra lời giải đáp; hoặc nếu có thì chúng ta có thực sự hiểu được chúng?{^n}{^n}Các vị thần giải quyết những vấn đề theo cách bí ẩn của riêng họ. Vị thần bảo hộ của chúng tôi cho đi nhưng cũng đồng thời lấy đi, tuy vậy tôi nghĩ rằng Ngài ấy rất hào phóng đối với những tín đồ trung thành vô điều kiện với bản thân Ngài. Giờ đây tôi đã hiểu được tính tất yếu trong sự tồn tại của chúng tôi, rằng sự lựa chọn của chúng tôi sẽ chứa đựng những hậu quả và chúng tôi phải cúi đầu sùng kính vì những thứ mà chúng tôi được ban cho.{^n}{^n}Chúng tôi không được quên rằng nếu không có Ngài, chúng tôi đã không thể tồn tại. Quê hương của chúng tôi sẽ bị nuốt chửng bởi những dòng nước dữ dội của đầm lầy, còn người dân của chúng tôi sẽ bị ăn tươi nuốt sống bởi lũ ác ma Wendigo điên cuồng. Chúng tôi phải lấy chúng để làm gương; rằng không phục tùng đồng nghĩa với cái chết, và chúng tôi phải cương quyết thực hiện giao ước của mình.
+
+#Barrowholm_02
+tagGDX1LoreObj_AreaE_Barrowholm_A02Name=Công thức nấu ăn của Aurin
+tagGDX1LoreObj_AreaE_Barrowholm_A02Text=(Tên Tiếng Anh: ^mAurin's Recipe^-)^n^nTrong những ngày này, một miếng thịt tươi ngon đã trở thành của hiếm, vì thế chúng tôi phải tranh thủ mọi thời cơ để có được một bữa ăn no nê bằng tất cả lòng tôn kính của mình. Dù tôi nhận ra rằng những lát thịt từ các con mồi gần đây hơi ít nạc và dai, chúng cũng không hẳn là không ngon; vị của chúng giống như một con nai vừa mới giết xong. Mới đầu mùi vị của nó khiến tôi buồn nôn, nhưng một lúc sau tôi càng cảm thấy kích thích bởi sự khác biệt trong từng thớ thịt hấp dẫn của nó.{^n}{^n}Là một trong những thành viên được Scorv ưu ái, tôi thường được phép lựa chọn những miếng thịt ngon nhất, nên lúc nào cũng phấn khởi khi nhận lấy những khúc đùi hoặc bắp tay được chặt rất khéo. Tôi thường yêu cầu để nguyên xương bên trong, vì nó sẽ giúp lưu giữ mùi vị và khiến miếng thịt mọng nước sau khi nấu chín. Tuy nhiên, những lần nấu thử gần đây đã hé lộ một bí mật, đó là thời gian nấu càng ngắn thì món ăn sẽ càng ngon.{^n}{^n}Với vài lát hành tây đen được cắt vừa ăn, thêm ít rau thơm từ Đầm Lầy Ma Quái rắc lên miếng thịt rồi đem áp chảo, những miếng thịt còn rỉ máu này sẽ mang lại một trải nghiệm tuyệt vời đến nỗi bất cứ ai ở Barrowholm cũng phải xiêu lòng. Bí quyết cốt lõi chính là áp chảo mặt ngoài của miếng thịt làm sao để phần bên trong của miếng thịt vẫn còn mọng nước.{^n}{^n}Ngay cả bản thân Scorv đã nói rằng nguồn cảm hứng từ tôi có thể giúp chữa được những cơn khát máu điên dại, nhưng tôi biết ông ấy nói thế chỉ là để động viên tinh thần chúng tôi. Tôi không xứng đáng nhận được một lời khen quý giá như thế.{^n}{^n}-Aurin Evelline
+
+#Barrowholm_03
+tagGDX1LoreObj_AreaE_Barrowholm_A03Name=Được Ngài chọn bằng xác thịt của mình
+tagGDX1LoreObj_AreaE_Barrowholm_A03Text=(Tên Tiếng Anh: ^mThrough Flesh We Become His Chosen^-)^n^nHồi trước, không phải lúc nào tôi cũng chịu đựng được cái mùi vị từ thịt tươi.{^n}{^n}Mới đầu tôi cảm thấy nó thật ghê tởm. Phần cơ bắp thì dai còn mùi vị thì khiến tôi khó lòng mà nuốt trôi, đặc biệt là khi nó còn sống. Nhưng Scorv một mực bảo rằng, muốn thực sự cảm nhận được ân huệ từ Đấng Tối Cao, chúng tôi phải học cách thưởng thức nó lúc nó còn tươi nguyên, chứ không phải dùng gia vị để tẩm ướp hay dùng lửa để nấu chín.{^n}{^n}Giống như những người khác, tôi đã phản đối việc này, nhưng sau đó tôi đã thay đổi quan điểm, để rồi cảm nhận được những dòng máu tươi đang ứa ra khắp các kẽ răng, cùng vị tanh của nó lan toả khắp đầu lưỡi. Cơn đói đã giúp đỡ tôi một chút, chắc là vậy, nhưng giờ đây tôi vẫn cảm thấy ớn lạnh mỗi khi nhìn thấy một nạn nhân vừa mới bị giết. Tôi tin rằng đây chính là ý nghĩa mà Scorv muốn truyền đạt khi ông ta nói rằng, thông qua cách này chúng tôi sẽ trở nên gần với chủ nhân của mình hơn.{^n}{^n}Khoái cảm, nguồn năng lượng, sự thay đổi... Tôi có thể cảm nhận được sự thay đổi. Nó đang lớn dần trong tôi. Nó bắt đầu bằng việc khiến mắt của tôi tối trở nên mù mờ, như thể xung quanh là một vùng màu đỏ thẫm. Trong suốt các chuyến đi, những người khác cũng bắt đầu biểu lộ sự lo lắng khi thấy xương cốt toàn thân đau ê ẩm. Scorv cam đoan với chúng tôi rằng điều này là bình thường và sẽ nhanh chóng qua đi.{^n}{^n}Dù nó có mang lại cho tôi bất cứ sự thay đổi gì đi nữa, giờ đây tôi đang mong chờ chúng với một niềm hân hoan xen lẫn sự lo lắng. Tôi chỉ cầu mong mình sẽ được gần với Thần Ravager hơn.{^n}{^n}-Olidia
+
+#Barrowholm_04
+tagGDX1LoreObj_AreaE_Barrowholm_A04Name=Thần Ravager
+tagGDX1LoreObj_AreaE_Barrowholm_A04Text=(Tên Tiếng Anh: ^mThe Ravager^-)^n^nBất công. Đó là thứ khắc hoạ nên câu chuyện về Đấng Tối Cao. Bất công và sự phản bội.{^n}{^n}Ravager từng bước đi kiêu hãnh trên thế giới của chúng ta, một sinh vật tuyệt đẹp, đại diện cho sự cân bằng của tự nhiên. Đối với những người sùng bái, Ngài rất được tin yêu và thường ban cho họ rất nhiều ân huệ. Nhưng Ngài không phải là vị thần duy nhất được ban cho quyền năng to lớn như thế.{^n}{^n}Vị Thần Của Muôn Thú nảy sinh lòng đố kỵ với các tín đồ của Ravager. Vào một đêm tăm tối, vị thần này đã tìm đến nơi cư ngụ của Ravager và, với sự trợ giúp từ bầy tôi của mình, ông ta đã trục xuất Đấng Tối Cao ra khỏi thế giới này.{^n}{^n}Không còn thể xác và dần bị lãng quên, Ravager đã kháng cự lại nhà tù tinh thần của chính mình. Ngài tìm cách quay trở lại thế giới này để đòi lại công bằng cho những bất công mà Ngài đã phải gánh chịu; và thông qua sự hiến dâng của chúng ta, ngày thực thi phán quyết của Ngài đã cận kề. Chúng ta sẽ trở thành sứ giả đại diện cho ý chí của Ngài, những người cứu rỗi, đi ban phát sự khoan hồng từ Ngài. Và khi hàm răng của Ravager ghim chặt vào cổ của kẻ phản bội mình, chúng ta sẽ được uống máu của ông ta để vươn lên vị trí cao hơn những kẻ trần tục thấp kém ngoài kia.
+
+#DarkWood_01
+tagGDX1LoreObj_AreaE_NoteA01Name=Mảnh giấy ghi vội dính đầy máu
+tagGDX1LoreObj_AreaE_NoteA01Text=(Tên Tiếng Anh: ^mBloodsoaked Scribblings^-)^n^nChúng tôi rời khỏi Burrwitch vẫn chưa đầy một tuần. Có điều gì đó không được bình thường ở nơi này và đã có nhiều lời đồn thổi về những sự kiện kỳ quái xảy ra xung quanh dinh thự của Krieg, cho nên Frasier đã nảy ra cái ý tưởng điên rồ là chúng tôi nên đi về phía Bắc. Anh ta nói rằng, dọc đường có một thị trấn rất đẹp. Anh ta nên biết rõ nó thì hơn. Anh ta đã sống ở đấy cách đây khoảng gần một năm, bảo rằng đường sẽ rất khó đi nhưng chúng tôi có thể vượt qua được nếu như sát cánh cùng nhau. Lẽ ra anh ta đã không sai lầm nhiều đến thế.{^n}{^n}Đã hết một ngày mà chúng tôi vẫn chưa ra khỏi thị trấn, còn mọi thứ thì bắt đầu biến chuyển một cách tồi tệ. Đầu tiên Beatrix bị sốt cao. Da của cô ấy trở nên nhợt nhạt còn mắt thì đờ ra. Đêm hôm đó, cô ta bắt đầu tấn công chúng tôi, run rẩy, ói mửa và gào thét rằng có một sinh vật nào đó từ trong rừng sâu đang nhìn chằm chằm vào cô ấy. Ngày hôm sau, điều tương tự như thế cũng xảy ra với Heinrich.{^n}{^n}Vì cả hai người đều sinh bệnh, chúng tôi buộc phải di chuyển một cách chậm chạp. Frasier và tôi kéo họ phía sau trên một chiếc xe trượt được làm tạm bợ. Từ chỗ chúng tôi cách Burrwitch quá xa để có thể quay trở lại, nhưng Frasier nói anh ấy biết một quán trọ mà chỉ mất khoảng gần một ngày đường để tới, vì thế chúng tôi lại tiếp tục cuộc hành trình. Khi chúng tôi đến nơi, nhà trọ này đã bị bỏ hoang còn bầu không khí xung quanh sặc mùi tử khí. Nhưng chúng tôi đang rất tuyệt vọng và cần một nơi để nghỉ chân, cho nên chúng tôi đành ở lại đây.{^n}{^n}Đêm đó bỗng dưng xuất hiện một tiếng ồn lạ. Frasier bảo là đã không nghe thấy gì cả, nhưng tôi lại nghe thấy rất to và rõ. Nó giống như tiếng động vật đang gầm gừ và đang chạy sột soạt bên ngoài quán trọ. Càng về khuya, những âm thanh đó càng lúc càng to hơn và tôi bắt đầu hoài nghi về tâm trí của mình. Frasier một mực bảo rằng chẳng có gì cả, nhưng tôi có thể thề rằng chúng đang ở ngay ngoài kia. Khi trời vừa tảng sáng, tôi không hề muốn đi nhưng Frasier ép tôi phải ra khỏi quán trọ. Anh ta bảo rằng chúng tôi phải tiếp tục cuộc hành trình hoặc là chúng tôi sẽ không còn an toàn nữa. Vì thế chúng tôi lại bắt đầu kéo chiếc xe trượt đi về hướng Bắc dọc con đường phủ đầy dây leo.{^n}{^n}Trong lúc di chuyển, tôi có thể nghe thấy tiếng của nó đang bám theo chúng tôi, nó bắt chước từng nhịp bước của chúng tôi. Bệnh của Beatrix và Heinrich đang ngày một trở nặng, và chúng tôi cũng nhanh chóng kiệt sức vì phải kéo chiếc xe trượt. Tay của tôi bị phồng rộp còn chân thì đổ máu vì con đường gồ ghề. Frasier nói rằng chúng tôi nên bỏ họ lại, chiếc xe trượt đã trở nên quá nặng để tiếp tục kéo; nhưng tôi không chấp nhận điều này. Chúng tôi tranh cãi nảy lửa về số phận của họ; càng tiếp tục cãi, cả hai càng trở nên điên tiết hơn. Ngay lúc đó Frasier tóm lấy thanh rìu cắm trại của anh ta và đe doạ sẽ giết họ ngay tức khắc. Anh ta nói nếu tôi không bỏ họ lại, anh ta sẽ giải quyết chuyện đó giúp tôi. Tôi đã không lường trước được điều gì sẽ xảy ra sau đó, nhưng tôi đã rất sợ hãi và âm thanh gầm gừ kia cứ vây lấy tôi như một ngọn lửa cháy bùng trong tâm trí. Tôi xô anh ta khiến anh ta sẩy chân té vào một gốc cây mục ruỗng, ngã ngay vào chỗ thanh rìu của anh ta khiến nó ghim sâu vào ngực phải. Anh ta ngước lên nhìn tôi trong kinh hãi, máu đang tràn ra đầy phổi và miệng.{^n}{^n}Chính lúc đó tôi đã thấy nó, đang đứng ở bìa rừng phía sau Frasier. Hình dáng của nó to lớn và ghê tởm, như một người đàn ông với cái đầu của một con thú chết. Tôi sững sờ trong giây lát sau đó cắm đầu mà chạy về phía trước. Trong lúc bỏ chạy tôi có thể nghe thấy tiếng Frasier đang cố sức kêu gào van xin tôi đừng bỏ rơi anh ta.{^n}{^n}Tôi giờ đây vẫn có thể nghe thấy tiếng của anh ta, cả ba người bọn họ đang khóc than trong bóng đêm sâu thẳm như những con thỏ đang bị cáo ăn thịt. Đã mấy tiếng trôi qua, sao họ vẫn chưa chết? "Thứ đó" có còn ở đó không? Có phải nó đang giễu cợt tôi? Tôi không thể tiếp tục được nữa, tôi không thể chịu đựng thêm nữa...
+
+#Darkwood_02
+tagGDX1LoreObj_AreaE_NoteA02Name=Đơn hàng của Cratch Moore
+tagGDX1LoreObj_AreaE_NoteA02Text=(Tên Tiếng Anh: ^mCratch Moore's Order^-)^n^nGần đây, quanh khu vực này xuất hiện một vài lữ khách kỳ lạ. Quán trọ thì tấp nập hơn, còn đông hơn so với các năm trước cũng ngay tại thời điểm này. Nói vậy thôi chứ không phải tôi bắt anh nghe tôi than vãn về vấn đề này.{^n}{^n}Cách đây không lâu, một số tiền kha khá đã tìm đường chui vào túi của tôi, nhưng những gã đang lượn lờ vòng quanh khu vực này không giống những gã mà chúng tôi từng nhìn thấy. Đã có những thường dân đến từ vùng phương Nam xa xôi, còn xa hơn cả Ngã Tư Quỷ; ngoài ra còn có một nhóm đàn ông và phụ nữ mặc những bộ giáp cùng trang phục có khắc các ký tự kỳ lạ ghé qua đây. Cách đây khoảng một hai tuần, chúng tôi có đón tiếp một người đàn ông cho rằng ông ta đến từ tận thủ đô phía Nam. Nói rằng ông ta là đầu bếp và đang đi tìm công việc. Tôi không còn phòng cho ông ta, vì thế tôi đề nghị ông ta thử tìm ở Burrwitch.{^n}{^n}Không chỉ có những con người kỳ quặc, mà trong khu rừng này bỗng dưng xuất hiện một linh cảm bất an, tôi tin chắc rằng anh cũng để ý. Tôi đã không nghe thấy tiếng chim cũng như không nhìn thấy bất cứ con chim nào khoảng hơn một tuần nay. Tôi cho rằng nguyên nhân là vì xung quanh đang có rất nhiều người, nhưng cách đây chưa tới ba ngày, Critch có mang đến một con thú vừa mới săn được. Nó là một con hươu đầm lầy rất to, nếu tôi nhớ không lầm thì nó xứng đáng nhận được điểm 10 cho chất lượng. Những con mồi như thế thường thu hút lũ kền kền, nhưng xác con vật cứ nằm nguyên đó thối rữa trong rừng sâu và không có dấu hiệu nào cho thấy lũ chim ghê tởm đó đang đến. Nếu cái xác tồn tại lâu hơn ngoài đó, tôi chắc rằng nó sẽ thu hút quái thú Carraxus. Tôi thề là cái thứ quỷ quái có vỏ cứng đó đã bự hơn gấp đôi và xấu hơn gấp đôi so với lần cuối tôi nhìn thấy nó. Nó đã lảng vảng quanh nhà trọ hai lần năm ngoái, lấy trộm nhiều thứ. Nghe đâu nó còn trộm sữa bò ở khu chuồng trại của Gretchen. Tôi không muốn nghĩ đến điều gì đã xảy ra với con vật tội nghiệp đó. Từng có thể dùng lửa để doạ nó nhưng có vẻ như càng lớn nó càng gan lì hơn. Bất cứ ai tìm đến cái hang của nó cũng thấy có một đống phế thải khổng lồ và số cua trong đó nhiều đến mức cả đời người ăn không xuể, nếu thực sự có ai đó muốn ăn.{^n}{^n}À mà dù sao thì vẫn có chuyện cần phải nhờ vả đây. Đặc biệt là với tất cả những người hay đi lại từ miền quê. Nếu các anh có nguồn hàng thì tôi muốn đặt 3 két bia Đầm Lầy Đỏ, 2 hộp lá Hắc Diệp, và 20 chai rượu Đá Tảng.{^n}{^n}Thanh toán ngay khi nhận hàng như thường lệ.{^n}{^n}Cratch Moore.
+
+#Coven_01
+tagGDX1LoreObj_AreaE_NoteA03Name=Lời thì thầm từ phương xa
+tagGDX1LoreObj_AreaE_NoteA03Text=(Tên Tiếng Anh: ^mWhispers from Beyond^-)^n^nLúc đầu, những giọng nói đó cứ vang vọng xung quanh, như một chỗ ngứa dai dẳng trong tâm trí tôi. Chúng cứ đứt quãng, khiến người ta không thể hiểu được ý nghĩa của chúng. Nhưng chúng vẫn chưa dừng lại. Chúng trở thành thứ phân tán sự tập trung của tôi, một tiếng gọi giống như kiểu Thánh Mẫu Malostria từng gọi tôi tìm đến vùng đất này; chỉ khác ở chỗ là Thánh Mẫu đến tìm tôi trong giấc mơ, còn những tiếng gọi này cứ vang vọng mãi, không hề ngừng nghỉ. Tôi có thể nhận thấy khả năng tập trung của mình trở nên giảm sút ngay cả khi thực hiện một nhiệm vụ rất sơ đẳng.{^n}{^n}Có những lúc, giữa những điệp khúc điên loạn, một giọng nói sẽ trở nên to rõ hơn những giọng còn lại và rồi tôi có thể giải mã được ý nghĩa của nó. Thứ âm thanh to rõ này không thể duy trì được lâu vì cái điệp khúc điên cuồng đó sẽ mau chóng văng vẳng trở lại. Và rồi giọng nói đó sẽ không bao giờ lấn át những giọng nói khác được nữa. Mỗi lần như thế dường như lại có một giọng nói khác truyền vào tai tôi. Chúng nói về những con nhện, mạng nhện, và những nơi tôi chưa bao giờ nghe qua. Thỉnh thoảng chúng khiến tôi tỉnh giấc trong kinh hoàng khi thấy chúng đang gào thét giữa một vùng đầy lửa và ngập tràn thù hận, không giống bất cứ nơi nào trên thế giới này.{^n}{^n}Tôi có kể lại điều này cho Thánh Mẫu nghe, và ánh mắt của bà ấy hướng thẳng đến tiên tri mù Rugia trước khi nhìn chằm chằm vào tôi. Bà ấy cố gắng hết sức để trấn an tôi, nhưng cả hai chúng tôi đều biết rõ, rằng những kẻ vừa mới sinh ra đã mắc phải lời nguyền này sẽ có số phận như thế nào. Tôi chỉ ước rằng tôi có thể truy ra được một lời giải đáp nào đó từ bóng đêm sâu thẳm trước khi sự điên cuồng xâm chiếm linh hồn tôi.{^n}{^n}Tuy nhiên, có vẻ như điều này sẽ không bao giờ thực hiện được...
+
+#Coven_02
+tagGDX1LoreObj_AreaE_NoteA04Name=Nhật ký của Trista
+tagGDX1LoreObj_AreaE_NoteA04Text=(Tên Tiếng Anh: ^mTrista's Diary^-)^n^nToàn bộ chuyện này vẫn còn rất kỳ lạ đối với tôi. Có nhiều chị em ở đây đã cống hiến cả đời mình để học tập, nghiên cứu và chế tạo, nhưng tôi chẳng biết một chút gì về những thứ đó. Tôi chẳng có kiến thức về thảo mộc cũng như các bình thuốc, không hiểu được các mạch câu chuyện hay những mối liên kết giữa chúng. Tôi không biết các câu chuyện về Tam Thần, hoặc khả năng tiên tri. Tôi cũng không thể triệu tập các linh hồn, và tôi là như vậy đấy. Tôi bị kéo về nơi này như một con cá quay trở về tổ của mình và tôi cũng không rõ nguyên do. Tôi nghĩ rằng chẳng có chị em nào biết cả. Tôi có nghe một vài bậc tiền bối nói về mình. Giọng nói của họ không chứa đựng sự xem thường hay gì, nhưng họ cũng đành bó tay vì không nghĩ ra được mục đích mà tôi đến nơi này.{^n}{^n}Trong khoảng thời gian ngắn ngủi ở đây, tôi đã học được nhiều thứ, dù chưa xác định rõ hướng đi của bản thân, nhưng tôi dự định là sẽ tiếp thu càng nhiều càng tốt kiến thức mà nơi này chỉ dạy cho mình. Hội Phù Thuỷ chứa đựng rất nhiều những câu chuyện lịch sử. Tôi đã nghe những người chị cả kể về thời kỳ mà nó mới hình thành, thời đại mà những thành viên ở đây đã vô cùng dũng cảm và bị thôi thúc bởi niềm khát khao tìm kiếm những nguồn tri thức mới. Họ đã khám phá ra những bí mật được cất giấu ở nơi mà nhân loại không hề biết đến và hiểu được những nguồn sức mạnh vĩ đại. Họ đã cùng nhau giành lấy được những thứ mà người khác mong ước có được, nhưng đã phải trả bằng một cái giá rất đắt. Sự ngạo mạn của họ đã khiến Tam Thần nổi trận lôi đình và mọi thứ đã không còn như trước nữa.{^n}{^n}Những người bạn cùng tuổi với tôi thường hay xì xào về thời đại đó, nhưng thú thực tôi rất ngưỡng mộ họ. Chắc hẳn họ cũng cảm thấy một sự thôi thúc nào đó, cũng như có một mục đích rõ ràng. Truy tìm một nguồn tri thức bị lãng quên có thực sự là sai lầm? Tôi vẫn chưa thể dừng lại cho đến khi tôi khám phá ra được các bí mật của họ, cho đến khi những nguồn sức mạnh này lại nằm trong tầm tay của chúng tôi thêm một lần nữa. Các Vị Thần Phù Thuỷ đã bị nguyền rủa. Tuy nhiên khi tiếp xúc với các chị em, tôi nhận ra là trong số bọn họ vẫn còn có những người hết mực tôn kính Tam Thần. Thông qua họ, các vị thần vẫn đang chăm chú dõi theo nơi này, cũng như nhất cử nhất động của chúng tôi. Tôi phải thật thận trọng và khiêm tốn. Trước mắt, tấm áo choàng của một tân binh không mục đích và mất phương hướng vẫn còn vừa vặn đối với tôi.{^n}{^n}-Trista-
+
+#UgdenbogRuins_01
+tagGDX1LoreObj_AreaE_NoteA05Name=Bản ghi chép của Yeathleanis
+tagGDX1LoreObj_AreaE_NoteA05Text=(Tên Tiếng Anh: ^mWritings of Yeathleanis^-)^n^nChúng tôi đã hy vọng rằng những lời cầu nguyện và các nghi lễ sẽ bảo vệ chúng tôi, rằng khoảng cách xa xôi sẽ giúp chúng tôi tránh được tai ương đó. Thế nhưng, ngay tại những ngôi đền ở vùng hẻo lánh này, sự ngạo mạn của kẻ cầm đầu và cú lừa vĩ đại từ gã Tử Linh Pháp Sư đó vẫn tìm thấy chúng tôi.{^n}{^n}Tôi đã chứng kiến cái khoảnh khắc mà các trưởng bối dẫn dắt giáo hội của chúng tôi, bị cuốn vào vòng xoáy vô tận của sự điên loạn trong tuyệt vọng, và những người trẻ tuổi nhất trong số chúng tôi đã cầu xin cái chết đừng ập đến. Nhưng tôi đã tìm thấy một nguồn sức mạnh vĩnh hằng. Tôi dồn hết tâm trí của mình vào những văn tự cổ, những nghi thức, kiến thức từ cổ nhân đi trước. Việc duy trì kiến thức còn quý giá hơn cả sự bất tử; và vì vậy, khi thể xác của tôi không còn nữa, tôi chỉ cầu mong rằng lý trí của mình vẫn có thể tiếp tục trường tồn.{^n}{^n}Ở đâu có sự hiện diện của nghi thức đã ràng buộc chúng tôi vào cái số phận phải chịu sự nguyền rủa, ở đó chắc chắn cũng sẽ có những kiến thức giúp chúng tôi hoá giải lời nguyền nghiệt ngã ấy.{^n}{^n}Thời gian sẽ luôn ủng hộ tôi, và tôi sẽ tìm ra được lời giải đáp.
+
+#Altar_01
+tagGDX1LoreObj_AreaE_NoteA06Name=Ân huệ từ các vị thần
+tagGDX1LoreObj_AreaE_NoteA06Text=(Tên Tiếng Anh: ^mGifts of the Gods^-)^n^nChúng tôi tự cho rằng mình khôn ngoan, thông thạo loại pháp thuật này. Nhưng sự ngạo mạn thường dẫn đến những tấn bi kịch...{^n}{^n}Lợi dụng sức mạnh từ Tế Đàn Rattosh, chúng tôi đã đưa thứ pháp thuật được sáng tạo bởi các bậc tiền nhân vượt qua cái giới hạn tầm thường của nó. Chúng tôi biến bản thân mình trở nên trẻ hơn, khoẻ hơn, quyền năng hơn; nhưng những thứ đó vẫn còn quá tầm thường so với sức mạnh vĩ đại vẫn còn ẩn chứa bên trong Tế Đàn. Chúng tôi đã vượt qua được cái ranh giới của cõi trần tục, trói buộc các linh hồn vào ý chí của mình và buộc chúng phải tiết lộ những bí mật cổ xưa. Tuy nhiên điều đó vẫn chưa đủ. Chúng tôi muốn nhiều hơn, và chỉ có một nơi duy nhất mà chúng tôi có thể tìm được thứ mình muốn: Cõi Thần Bí.{^n}{^n}Cõi Thần Bí là một thế giới kỳ lạ, nơi mà các định luật và quy luật trong thế giới trần tục thường bị phá vỡ còn ma thuật thì có mặt ở khắp mọi nơi. Một số sinh vật ở đây có hình dạng giống thú vật, còn một số thì không. Một vài con trong số chúng có khả năng sử dụng các loại pháp thuật sơ đẳng, một số còn giao tiếp bằng một loại ngôn ngữ mà chúng tôi không thể hiểu được. Nhưng đối với chúng tôi, thế giới này chính là nguồn sức mạnh ma thuật vĩ đại mà chúng tôi đang tìm kiếm. Đặt chân vào thế giới này nghĩa là đã có được một sức mạnh không tưởng. Tuy nhiên, sự mưu cầu sức mạnh có phần ngạo mạn đó không thể không gây sự chú ý.{^n}{^n}Vào một đêm trăng tròn, chúng tôi tụ tập trước Tế Đàn. Chúng tôi cùng nhau sử dụng sức mạnh từ Tế Đàn để có thể bước vào Cõi Thần Bí. Đây đáng ra đã là thành tựu vĩ đại nhất của chúng tôi, nhưng không ngờ đó lại là khoảnh khắc khiến chúng tôi hụt hẫng nhất. Theo mệnh lệnh của chúng tôi, những dòng cổ ngữ ma thuật trên Tế Đàn bắt đầu loé sáng và rồi... không có gì xảy ra cả?! Câu thần chú bỗng chốc hết hiệu lực và chúng tôi bị một luồng sóng xung kích từ trung tâm Tế Đàn hất văng ra phía sau. Có cái gì đó đang tiến đến.{^n}{^n}Trước mặt chúng tôi là ba thực thể khủng khiếp. Sự hiện diện của họ khiến chúng tôi gần như mù loà. Và cơn thịnh nộ của họ trở nên cực kỳ dữ dội. Tôi bị ép buộc phải nhìn những người chị em của mình bị thiêu cháy thành tro bụi trong những ngọn lửa thần bí, hoặc bị tan chảy thành hư vô khi hàng ngàn con mắt đang nhìn chằm chằm vào họ. Những con nhện vây lấy những người khác và ăn thịt họ trơ xương.{^n}{^n}Chỉ có ba người trong số chúng tôi là toàn mạng, kinh hãi bất động khi thấy những vị thần mà chúng tôi phỉ báng khắc dấu lên người để trừng phạt cho sự kiêu ngạo của mình. Rồi sau đó, họ biến mất nhanh chóng như lúc họ mới xuất hiện. Lúc đầu, chúng tôi cứ tự hỏi rằng vì sao chúng tôi được tha mạng, nhưng năm tháng trôi qua, chúng tôi đã nhận ra rằng: chúng tôi phải sống để những người khác không đi vào vết xe đổ của mình.{^n}{^n}Nếu bạn đang đọc mảnh giấy này, hãy lưu ý lời cảnh báo từ chúng tôi. Quay trở lại và rời khỏi cái nơi bị nguyền rủa này. Quét sạch nó ra khỏi tâm trí của bạn, vì nếu những vị thần này mà quay trở lại, e rằng cơn thịnh nộ của họ sẽ không bao giờ chấm dứt.
+
+tagGDX1LoreObj_AreaE_NoteA07Name=Kho báu của Nane
+tagGDX1LoreObj_AreaE_NoteA07Text=(Tên Tiếng Anh: ^mNane's Stash^-)^n^nTôi không rõ ý đồ của Nane là gì, nhưng vào tuần trước, tôi đã hai lần nhìn thấy anh ta chở một xe đầy ắp thứ gì đó trên con đường đi về phía Bắc, hướng đến chỗ cái cối xay gió cũ. Sau đó lại hai lần quay trở về trên chiếc xe trống rỗng. Anh ta chắc chắn là đang giấu giếm thứ gì đó và tôi định đi tìm chúng. Nếu anh ấy đang giấu thứ gì đó quý giá, tôi cũng muốn được hưởng lợi cùng anh ấy.
+
+#AncientGrove
+tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Name=Sự trầm tư của Mogdrogen
+tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Text=(Tên Tiếng Anh: ^mMogdrogen's Ruminations^-)^n^nNhững sự kiện gần đây khiến tâm ta phiền não.{^n}{^n}Một kẻ phàm tục, một trong những Người Phán Quyết của xứ Erulan có tên là Kymon, đã vô tình khám phá ra một thứ gì đó. Một thứ gì đó... cổ xưa và bị lãng quên. Và cũng như những tên phàm nhân ngu xuẩn khác, hắn đã không để cho thứ mà đáng lý ra cần phải bị lãng quên được yên giấc ngàn thu. Một ngọn lửa dữ dội đang khuynh đảo thẳm sâu bên dưới Cao Nguyên Korvan. Muôn thú của Lục Địa Cairn đang nhốn nháo bất an. Chúng cũng cảm nhận được điều này.{^n}{^n}Hoà theo dòng sự kiện có phần huyền bí ấy, bọn Nguỵ Thần có tính khí hay thay đổi thất thường bỗng dưng im lặng một cách kỳ lạ. Ta nghi ngờ là bọn họ đã lui về thế giới riêng biệt của mình. Sự trùng hợp này không phải là ngẫu nhiên. Đám Thần Phù Thuỷ đó đang e dè. Chắc hẳn họ đang dồn sự chú ý của mình vào cái thế lực mà giờ đây đã nuốt chửng Kymon và các môn đồ của ông ta. Sự sùng bái mãnh liệt từ phàm nhân đang tiếp thêm năng lượng cho nó, ban cho nó sức mạnh và hình hài.{^n}{^n}Nhân loại đang lan truyền lời đồn về sự trở về của đấng Empyrion toàn năng, nhưng ta biết rằng đó chẳng qua chỉ là những hy vọng hão huyền từ những kẻ đáng thương hại. Bản chất của thế lực bị lãng quên này nằm ngoài sự hiểu biết của ta, tuy nhiên ta lại cảm thấy nó khá là... quen thuộc.{^n}{^n}Dù thế thế nào đi nữa thì điều mà ta chắc chắn chính là một sự biến chuyển mang tính huỷ diệt đang chực chờ chúng ta ở phía trước. Ta đã cảm thấy nó từ sâu trong lòng đất. Ngửi thấy nó trong những cơn gió thoảng qua. Những thế lực mà ta đã không cảm nhận được suốt hàng nghìn năm qua đang khao khát sự phục thù và máu đổ.{^n}{^n}Ta phải tập họp người dân Rhowari của mình. Thời khắc đó sẽ đến khi lòng tin của họ được kiểm chứng một cách chân thực nhất.
+
+#Kraken
+tagGDX1LoreObj_AreaE_Kraken_NoteA01Name=Những bí ẩn của Ugdenbog
+tagGDX1LoreObj_AreaE_Kraken_NoteA01Text=(Tên Tiếng Anh: ^mMysteries of Ugdenbog^-)^n^nTheo mệnh lệnh từ chính đức vua của xứ Erulan, tôi và những người đồng nghiệp đáng kính đã bắt đầu chuyến thám hiểm đến những vùng đất bao la của vương quốc để phân loại các thảm động thực vật đa dạng ở nơi đây. Tại thời điểm đó tôi đã không suy nghĩ nhiều về chuyện này, nhưng không phải nhiệm vụ nào cũng được phân công một cách bình đẳng... giống như giờ đây tôi đang thực hiện bản ghi chép này ngay tại đầm lầy Ugdenbog nằm bên ngoài thị trấn Burrwitch, một nơi u ám và đầy những dự cảm chẳng lành.{^n}{^n}Trong vòng ba tuần kể từ lúc tôi đến nơi này, tôi đã mất hai vệ sĩ hộ tống, và nghiêm túc mà nói, tôi cũng sắp chết ở đây chỉ vì đám thực vật. Những loài thực vật bị Empyrion ruồng bỏ. Tôi muốn nói thêm rằng, chuyên môn của tôi là nghiên cứu về ảnh hưởng to lớn của ma thuật đối với các dạng sống tự nhiên, chứ có phải là nghiên cứu về một loại dây leo có khả năng xé toạc một người thành hai phần, hay một bông hoa khổng lồ có thể nuốt chửng một người khác trong đoàn của tôi đâu!{^n}{^n}Nếu không phải vì bận việc mà rời Erulan trong vài tuần, thì tôi đã yêu cầu giao cho một nhiệm vụ khác. Tuy nhiên, chuyến thám hiểm này không phải là không có thu hoạch, vì tôi đã quan sát được một số hiện tượng dị thường trên đường đi; có những sinh vật, bề ngoài có vẻ tự nhiên, nhưng đã không bộc lộ những kiểu hình đúng chuẩn mà lẽ ra nó phải có trong khu vực này, hầu hết bọn chúng cứ như thể là được mang từ một vùng nào đó sang khu vực này trong chớp mắt.{^n}{^n}Thứ cuốn hút chúng tôi nhất, và cũng là chủ đề chính được bàn luận trong khu cắm trại mấy ngày nay, là một sinh vật mà người dân nơi đây gọi là Kra'vall - Thần nước cổ xưa. Nhưng tới thời điểm này, chúng tôi chỉ thoáng thấy được một trong các xúc tu khổng lồ của nó. Tôi chỉ có thể đoán chừng được kích cỡ của nó, rằng nó khổng lồ và không giống bất cứ thứ gì được tìm thấy bên dưới những dòng nước của Ugdenbog.{^n}{^n}Chuyến hành trình đã đưa chúng tôi đến nơi mà tôi nghi ngờ là sào huyệt bên dưới mặt nước của nó, và cùng lúc đó, một bạn đồng hành là một Người Phán Quyết của tôi than rằng cô ấy bị nhức đầu, giống kiểu cô ấy hay bị khi đứng gần một nguồn năng lượng Bí Thuật. Điều này cùng với vẻ bề ngoài lạ thường của nó đã giúp tôi đưa ra kết luận rằng sinh vật này, và những sinh vật khác giống nó, có bản chất xuất phát từ Cõi Thần Bí. Mặc dù vậy, tôi tự hỏi rằng phải chăng những thứ quái quỷ này chính là những món đồ chơi chóng chán của các vị Thần Phù Thuỷ, hoặc có khi nào chúng là một thứ gì đó hoàn toàn chưa được biết đến?{^n}{^n}-Gallad Nico, Người lưu trữ văn thư Hoàng Gia
+
+
+#AreaF Notes
+#CultOfChthon_01
+tagGDX1LoreObj_AreaF_NoteA01Name=Lòng trung thành từ những dòng máu
+tagGDX1LoreObj_AreaF_NoteA01Text=(Tên Tiếng Anh: ^mLoyalty Through Blood^-)^n^nNhững sợi dây vô hình từ trong bóng đêm đã gửi một tin tức đến chúng ta rằng, nghi thức ở vùng phía Tây đã thất bại và Huyết Chúa Tể Thalonis cũng đã gục ngã.{^n}{^n}Dưới sức ép nặng nề từ những thảm kịch này, đã có vài người trong số các ngươi vứt bỏ niềm tin đối với họ, ngừng hiến thân mình cho họ, và từ bỏ mục đích cao cả của chúng ta. Điều này là không thể dung thứ. Các ngươi phải giữ vững lòng trung thành của mình, hoặc nhận lấy kết cục bị treo cổ và rút cạn máu như lũ phản bội rác rưởi kia.{^n}{^n}Đây chỉ là một trong muôn vàn trắc trở mà chúng ta sẽ gặp phải trên con đường hướng đến đại nghiệp. Ch'thon đang thử thách chúng ta, kiểm chứng lòng trung thành của chúng ta, nhưng chúng ta không được phép dừng lại chỉ vì một chút khó khăn. Các ngươi, những người con bất khuất của Huyết Thần, phải truy tìm những kẻ yếu đuối nhất trong đám các ngươi và trừng phạt chúng vì ý chí hèn kém của mình.{^n}{^n}Thalonis đã không còn, nhưng một người khác sẽ vươn lên thay thế vị trí của ông ta và những kẻ trung thành sẽ nhận được phần thưởng xứng đáng.{^n}{^n}Bằng lòng trung thành đối với Ch'thon và sự cống hiến của bản thân đối với đại nghiệp, chúng ta nhất định sẽ lại tìm thấy con đường khác.{^n}{^n}- Đại Tư Tế Ulto Treig
+
+#CultOfChthon_02
+tagGDX1LoreObj_AreaF_NoteA02Name=Công văn đến Huyết Sứ Giả của Đồng Quê Tang Thương
+tagGDX1LoreObj_AreaF_NoteA02Name_Codex=Công văn Đồng Quê Tang Thương
+tagGDX1LoreObj_AreaF_NoteA02Text=(Tên Tiếng Anh: ^mMissive to the Mourndale Bloodbound^-)^n^nHỡi các anh chị em phụng sự Huyết Thần,{^n}{^n}Những lời đồn không hay đã truyền đến tai ta, rằng một trong số các ngươi đang bắt đầu hoài nghi về sứ mệnh vĩ đại của chúng ta, hoài nghi những người đã nghe thấy lời kêu gọi từ Cõi Hư Không. Các ngươi tin rằng mình đang bị những nhà tiên tri lừa đảo làm cho mê muội, nên hãy để ta giúp các ngươi cảm thấy yên tâm hơn.{^n}{^n}Ta đã nhờ những Huyết Sứ Giả trung thành mang đến đây một đám những kẻ dám chất vấn quyết tâm của chúng ta trong thời kỳ khó khăn này. Các ngươi sẽ được ban thưởng từ sự nông cạn của chúng. Máu của chúng sẽ trở nên hữu dụng khi đầu óc của chúng trở nên vô dụng. Hãy chiêm ngưỡng thành quả từ sự hiến dâng của chúng: một cánh cổng xuyên không mới, dẫn sâu vào trung tâm thế giới của Vị Thần Hấp Hối. Thông qua chúng, những kẻ gieo rắc sự đau đớn sẽ trỗi dậy, những sinh vật từ bóng đêm sâu thẳm này sẽ khiến cho máu đổ ở khắp mọi nơi, những dòng máu mà đúng nghĩa phải thuộc về Ch'thon.{^n}{^n}Đừng hoảng sợ hỡi các anh chị em, các ngươi không bao giờ sai lầm khi đặt niềm tin vào Ch'thon. Chúng ta tuyệt đối sẽ không để sự thất bại từ một người ảnh hưởng đến đại nghiệp. Chúng ta sẽ cùng nhau triệu tập bóng đêm và bóng đêm sẽ trao cho chúng ta một sức mạnh vĩ đại đến mức có thể rung chuyển toàn bộ Lục Địa Cairn. Một ngày phán quyết mới sắp đến - ngày mà đức tin của chúng ta sẽ khiến đám Nguỵ Thần bị truất phế và vinh quang của Ch'thon sẽ lại được khôi phục một lần nữa.{^n}{^n}-Đại Tư Tế Ulto Treig
+
+#CultOfChthon_03
+tagGDX1LoreObj_AreaF_NoteA03Name=Lời triệu gọi Bóng Tối
+tagGDX1LoreObj_AreaF_NoteA03Text=(Tên Tiếng Anh: ^mA Calling to Shadows^-)^n^nChúng tôi như những người con bị lạc lối, đơn độc, không mục đích, nhìn thẳng vào bóng tối với niềm tin là thứ duy nhất soi sáng lối đi. Chúng tôi tự xẻ thịt và điểm tô thế giới này bằng máu của chính mình khi chúng tôi cảm thấy tuyệt vọng trên con đường tìm kiếm chân lý từ Hư Không sâu thẳm; nhưng vẫn không nhận được sự hồi đáp.{^n}{^n}Chúng tôi cầu xin các ngài, hỡi các quỷ vương từ cõi Hư Không. Hãy lắng nghe lời kêu gọi của chúng tôi và bao trùm thế giới này bằng sức mạnh của bóng tối. Xin hãy xuất hiện, hỡi Cội Nguồn Của Bóng Tối, hãy đưa những người con của Huyết Thần hướng đến đỉnh vinh quang mới, để tất cả chúng tôi có thể được cùng Ch'thon hoà làm một. Hãy dẫn dắt chúng tôi, hỡi Ekket'Zul, để chúng tôi có thể thanh tẩy cái thế giới chẳng còn niềm tin này.{^n}{^n}Tà Thuật Sư Gulle
+
+#MalmouthOutskirts_01
+tagGDX1LoreObj_AreaF_NoteA04Name=Nhật ký của Aimee Brenoch - Phần 1
+tagGDX1LoreObj_AreaF_NoteA04Text=(Tên Tiếng Anh: ^mAimee Brenoch's Journal - 1st Entry^-)^n^nTôi không hiểu vì sao mình cứ viết hoài viết mãi vào quyển sổ này.{^n}{^n}Tôi cho rằng nguyên nhân là vì Eral rất giỏi thuyết phục người khác bất cứ lúc nào anh ấy muốn. Anh ấy bảo là tôi nên có một quyển sổ ghi chép lại những thứ đã làm trong ngày, để chúng tôi có thể hoài niệm về quá khứ và nhớ lại những khoảnh khắc tuyệt vời nhất. "Đây có lẽ là những ngày đẹp nhất trong cuộc đời chúng ta, Aimee yêu dấu của tôi ơi; vì thế chúng ta hãy cố gắng nhớ chúng khi chúng ta còn có thể", anh ấy thường hay nói như vậy đấy. Tôi nghĩ anh ấy đúng, và cho rằng đó là lý do vì sao mà tôi cứ quay trở lại ghi chép quyển nhật ký này.{^n}{^n}Anh ấy vẫn đúng như mọi khi, càng ngày tôi càng học được nhiều thứ hơn kể từ lúc chúng tôi rời khỏi thành phố. "Thành phố này quá đông đúc em yêu à, chúng ta nên rời khỏi nơi đây và dựng một ngôi nhà ở miền quê", anh ấy bảo thế, và rồi chúng tôi đã thực hiện điều đó. Chúng tôi gói ghém bất cứ thứ gì mà chúng tôi có thể mang theo được, sau đó đi ra khỏi cổng thành. Tôi đã cảm thấy sợ hãi. Tôi không thể hình dung được là chúng tôi sẽ sống ở đâu và sống như thế nào ngoài kia. Malmouth đã từng là quê nhà của tôi, tôi được sinh ra ở đó, giữa những tiếng ồn huyên náo và những làn gió bụi bặm của Quận Mũ Thép. Nhưng Eral nói đúng, thành phố này đã trở nên quá đông đúc, và vùng quê này thật là đẹp.{^n}{^n}Chúng tôi đã tìm cho mình một mảnh đất nhỏ nhưng rất màu mỡ để có thể trồng trọt, và có không gian đủ rộng khiến bất cứ ai cũng phải hài lòng. Đó là một nơi hoàn hảo để xây dựng tổ ấm và chính là những thứ mà chúng tôi đang gầy dựng. Tôi có bầu hai tháng rồi, là đứa đầu tiên. Tôi nghĩ rằng nó là con gái. Tôi đang chờ thời điểm thích hợp để báo tin này cho Eral biết nhưng anh ấy hiện đang rất bận, suốt ngày làm quần quật trong nông trại rồi lại đi đi về về từ đây xuống thành phố để mua nhu yếu phẩm. Tôi không thể giấu anh ấy điều này lâu hơn được nữa. Chắc hẳn anh ấy sẽ vui lắm.{^n}{^n}Đây quả thật là những tháng ngày tuyệt vời nhất của chúng tôi.{^n}{^n}-Aimee
+
+#MalmouthOutskirts_02
+tagGDX1LoreObj_AreaF_NoteA05Name=Nhật ký của Aimee Brenoch - Phần 2
+tagGDX1LoreObj_AreaF_NoteA05Text=(Tên Tiếng Anh: ^mAimee Brenoch's Journal - 2nd Entry^-)^n^nMột điều gì đó rất khủng khiếp vừa xảy ra trong thành phố.{^n}{^n}Mới hồi sáng này, tôi thấy một đám khoảng vài chục người chạy tán loạn ngang qua nông trại của chúng tôi. Họ tìm cách thoát khỏi Malmouth, một số người còn đủ sức để chạy, còn một số thì gần như không thể bước tiếp được nữa. Trông họ có vẻ rất hoảng hốt, và họ nói lầm bầm về những thứ gì đó đáng sợ xuất hiện trong thành phố. Vài người trong số họ bàn tán về việc những thành viên trong gia đình bỗng dưng mất tích, hoặc bị bắt đi vào ban đêm. Tôi không rõ thực hư ra sao, nhưng nghe có vẻ rất kinh khủng.{^n}{^n}Tôi cố gắng giúp đỡ bọn họ trong khả năng của mình, nhưng họ quá đông và tôi dần cảm thấy sợ hãi. Hôm qua Eral lại bắt đầu chuyến đi hàng tuần vào thành phố mua nhu yếu phẩm. Lẽ ra sáng nay là anh ấy về đến nhà rồi, nhưng tới giờ tôi vẫn không thấy bóng dáng anh ấy đâu cả. Tôi cầu xin các vị thần phù hộ cho anh ấy, đừng để anh ấy gặp điều gì không may ngoài kia.{^n}{^n}Nếu như tới sáng mai mà tôi vẫn không nhận được tin tức gì từ anh ấy, tôi sẽ lên đường vào thành phố tìm anh ấy. Đây sẽ là một hành trình rất gian nan đối với tôi và cả thiên thần nhỏ trong bụng, nhưng tôi không thể nào ngừng suy nghĩ rằng, có thể Eral đang cần sự giúp đỡ từ tôi.{^n}{^n}-Aimee
+
+#MalmouthIndustrial_03
+tagGDX1LoreObj_AreaF_NoteA05AName=Thư gửi Aimee Brenoch
+tagGDX1LoreObj_AreaF_NoteA05AText=(Tên Tiếng Anh: ^mNote to Aimee Brenoch^-)^n^nAimee yêu quý của anh,{^n}{^n}Anh không hy vọng bức thư này có thể tìm được đường đến tận tay em, nhưng ít nhất nó khiến anh cảm thấy được an ủi khi trút ra hết những dòng suy nghĩ cuối cùng về em.{^n}{^n}Anh vẫn còn nhớ rõ vẻ mặt của em khi em phát hiện mình có thai. Em nghĩ là em có thể giấu anh lâu như vậy được sao? Làm sao mà giấu được cơ chứ, khi mà niềm hạnh phúc lúc nào cũng hiện rõ trên gương mặt em. Anh sẽ ôm ấp kỷ niệm đó cho đến những giây phút cuối cùng của đời mình.{^n}{^n}Em yêu, xin em hãy tha thứ cho anh, vì anh sẽ không thể trở về với em được nữa. Trong thành phố vừa xảy ra một chuyện mà khó có thể diễn tả thành lời được. Có vô số người chết, họ bị giết trong một cuộc giao tranh vào tối qua. Thành phố còn xuất hiện thêm những thứ khác nữa, những thứ quái gở và cực kỳ ghê rợn, đi lang thang khắp nơi săn lùng người dân và giết họ dù họ có trốn ở bất cứ đâu.{^n}{^n}Người ta bảo anh rằng bây giờ chẳng còn đường nào có thể ra khỏi thành. Cổng thành đã bị chặn còn chiếc cầu bắt qua đã bị kéo lên. Nhưng vẫn còn nhiều người dân ở đây Aimee à, những người mà có thể cần sự giúp đỡ từ anh. Anh cầu xin em hãy tha thứ cho anh.{^n}{^n}Nếu những dòng thư này đến được tay em, anh khẩn thiết mong em hãy rời khỏi nơi này ngay lập tức. Rời khỏi nông trại ngay lập tức và đừng bao giờ quay trở lại. Anh sợ là những thứ kỳ quái đang xảy ra ở Malmouth sẽ nhanh chóng lan ra khỏi cổng thành. Hãy trốn đi thật nhanh và đừng nói chuyện với bất cứ ai. Em phải tự cứu lấy bản thân và cả con của chúng ta nữa. Tìm một nơi nào đó, một nơi biệt lập nào đó, và nuôi dạy con của chúng ta thật tốt.{^n}{^n}Aimee, dù em có đi đến tận phương trời nào, nếu có thể tìm ra cách thoát khỏi nơi này, anh nhất định sẽ đi tìm em, đó là lời hứa của anh.{^n}{^n}Trao em tất cả yêu thương,{^n}{^n}Eral Brenoch
+
+#MalmouthSlums_01
+tagGDX1LoreObj_AreaF_NoteA06Name=Thư gửi Hội Viên Hội Đồng Cole
+tagGDX1LoreObj_AreaF_NoteA06Text=(Tên Tiếng Anh: ^mLetter to Councilman Cole^-)^n^nThưa ngài Cole... Kính thưa quý ngài, hoặc bất kể là ông muốn gọi bản thân mình như thế nào đi chăng nữa .{^n}{^n}Tôi hiện tại không phải là một người cao sang cũng chẳng phải là một thương nhân thượng lưu, và tôi đang hình dung là đám người kiêu ngạo các ông đang sống trên mây ở Đồi Vương Miện mà không thèm đếm xỉa gì đến những kẻ sâu bọ thấp hèn sống ở Quận Thắp Nến như tôi. Nhưng tôi muốn báo ông biết một điều là, ông sẽ phải đối mặt với một cuộc nổi loạn nếu như ông không thèm chú ý đến điều kiện sinh hoạt của những người đang sống dưới khu ổ chuột này. Mọi thứ đang vượt tầm kiểm soát. Không có nước sạch cũng chẳng có thức ăn. Những con phố thì ngập tràn rác thải và có quá đông người sống ở đây. Tôi không biết vì lý do gì mà sao lại ngừng thi công thêm các công trình mới tại Quận Thắp Nến. Không còn đủ chỗ để những người dân ở đây sinh sống. Ông không thể đối xử với người dân như thế này và để mặc họ tự xoay sở.{^n}{^n}Ông đừng xem những lời lẽ của tôi như một sự đe doạ. Bởi vì tôi biết ông chỉ mới nhận việc chưa được bao lâu, Tôi viết lá thư này như một lời cảnh báo trước. Những người sống ở đây đã bầu tôi làm người đại diện cho họ và đó là điều mà tôi nên làm. Tôi không biết mọi chuyện trên đó ra sao nhưng những người sống dưới đây đã chịu đựng đủ rồi. Vì lợi ích chính đáng của chúng tôi, tôi rất hy vọng ông có thể bớt chút thời gian trong lịch làm việc dày đặc của mình để giải quyết những vấn đề mà chúng tôi đang phải đối mặt.{^n}{^n}Trân trọng,{^n}{^n}Samuel Rackford
+
+#MalmouthCrownHill_03
+tagGDX1LoreObj_AreaF_NoteA06AName=Phản hồi từ Hội Viên Hội Đồng Cole
+tagGDX1LoreObj_AreaF_NoteA06AText=(Tên Tiếng Anh: ^mFrom the Office of Councilman Cole^-)^n^nÔng Rackford thân mến.{^n}{^n}Cô thư ký mới đáng yêu của tôi là Margarete vừa mới nhắc nhở tôi về hoàn cảnh khó khăn mà những người dân ở Quận Thắp Nến thân thương của chúng ta đang phải gánh chịu. Những khu phố có giá trị lịch sử quý giá như thế không thể bị làm ngơ và tôi rất đồng cảm với những người dân bị buộc phải sống trong hoàn cảnh nghèo khó và bẩn thỉu như vậy.{^n}{^n}Hiện tại, tôi đã và đang cố gắng hết sức mình cũng như tận dụng tối đa thẩm quyền của văn phòng để đảm bảo rằng những vấn đề trên sẽ được giải quyết ổn thoả.{^n}{^n}Việc đầu tiên mà tôi sẽ thực hiện là phái các đoàn xe thồ xuống Quận Thắp Nến để đón phụ nữ và trẻ em. Những người dân thuộc nhóm dễ bị tổn thương nhất này, sẽ được chuyển đến sống tại Đồi Vương Miện và nhận được sự quan tâm chăm sóc ở đây.{^n}{^n}Tiếp sau đó, những người đàn ông khoẻ mạnh sẽ được tạo công ăn việc làm tại một công trường đang thi công một cơ sở sản xuất mới. Bằng việc đóng góp sức lực của mình, những người dân ở Quận Thắp Nến sẽ trở thành những người tạo dựng nền móng vững chắc cho một Malmouth mới mẻ và đầy vinh quang.{^n}{^n}Tôi hy vọng là những người dân của ông sẽ không gây ra bất cứ vấn đề gì đâu, phải vậy không? Sau cùng thì tôi chỉ muốn mang lại những điều tốt đẹp cho người dân mà thôi.{^n}{^n}Trân trọng,{^n}{^n}Hội viên Hội Đồng Thành Phố{^n}{^n}Dreven S. Cole
+
+#MalmouthSlums_02
+tagGDX1LoreObj_AreaF_NoteA07Name=Lời cảnh báo từ gã hèn Rennoch
+tagGDX1LoreObj_AreaF_NoteA07Text=(Tên Tiếng Anh: ^mRennoch the Rat's Warning^-)^n^nTận thế đã giáng xuống chúng ta vào đêm qua. Nó đến bất thình lình mà không hề báo trước, chỉ nghe thấy những tiếng la hét thất thanh từ những người bị đánh thức bởi cái chết. Trại lính canh gác bị tấn công trước. Bọn họ bị giết dã man, như những con gà mái bị giết thịt đồng loạt khi đang ngủ. Những kẻ giết bọn họ trông kinh khủng đến nỗi khó mà hình dung ra được. Tôi nhìn bọn họ từ trong túp lều của mình, sợ hãi đến mức toàn thân cứng đờ vì những thứ trông thấy. Chỉ trong một khoảnh khắc ngắn ngủi, những thứ đó đã dập tắt niềm hy vọng cuối cùng từ hàng phòng ngự của Quận Thắp Nến. Rồi sau đó chúng tràn vào những con phố như một trận lũ màu xanh hôi thối và chết chóc. Tiếng thét từ những người dân và những người cao tuổi lấp đầy tai tôi còn bầu không khí thì bị bao phủ bởi một lớp khói dày đặc bốc lên từ những đám lửa màu xanh đang lan ra khắp nơi.{^n}{^n}Một cảm giác hiếu kỳ lạ lùng cứ thôi thúc tôi đứng xem. Tôi muốn được chứng kiến nhiều hơn nữa. Vì thế tôi tìm đường đến khu tường thành phía Nam, di chuyển nhẹ nhàng dọc theo bờ tường, vừa kinh ngạc vừa sợ hãi khi thấy cái chết đang càn quét khu ổ chuột bên dưới. Người ta chạy tán loạn như những bầy gián khổng lồ và bị nghiền nát bởi những làn sóng kẻ địch đang tiến đến. Lúc đầu, một nhóm nhỏ đã tìm cách đến được cây cầu ở phía Nam và băng qua cây cầu trước khi nó bị kéo lên. Những người còn lại bỏ chạy về phía Bắc, hướng đến cổng vào khu vực Đồi Vương Miện để rồi nhận ra rằng họ đã bị nhốt ở bên ngoài. Khi những thứ khủng khiếp kia đang tiến đến phía sau họ, một số người đã cố leo lên tường thành trong tuyệt vọng, vì những khối đá của tường thành được mài giũa trơn bóng để chống những kẻ hạ lưu xâm nhập vào đây. Phần lớn bọn họ bị té chết, rơi xuống cái đám đông hỗn loạn bên dưới. Một số ít những người trèo đến bờ tường thành lại phải đối mặt với những lưỡi kiếm sắc bén từ lính hộ vệ của Đồi Vương Miện, những kẻ không mảy may để tâm đến hoàn cảnh khốn cùng của những người bên dưới.{^n}{^n}Những kẻ sát nhân tiếp tục cuồng sát một lúc sau đó. Giờ đây những khu ổ chuột và các túp lều tồi tàn trở nên yên ắng. Bọn chúng đã bắt đầu tấn công vào thành phố, thu nhặt xác người chết và tha hoá linh hồn bất hạnh của những kẻ sống sót.{^n}{^n}Tôi sẽ yên nghỉ tại đây, vì chẳng còn ý chí để mà tiếp tục sống, cũng chẳng còn khát khao tìm đường thoát. Mọi thứ đều đã trở nên vô nghĩa. Thế giới này chẳng còn một chút hy vọng nào để có thể chống lại một thế lực như thế, và vì thế tôi sẽ tận hưởng những giây phút cuối cùng của đời mình tại đây, trong yên bình.{^n}{^n}-Gã hèn Rennoch
+
+#MalmouthSlums_03
+tagGDX1LoreObj_AreaF_NoteA08Name=Bản ghi chép bị xé - Nửa đoạn đầu
+tagGDX1LoreObj_AreaF_NoteA08Text=(Tên Tiếng Anh: ^mRipped Note - First Half^-)^n^nTôi chẳng biết là mình đang viết cái này cho ai, nhưng những dòng chữ viết ra khiến tôi như được xoa dịu phần nào đồng thời ban cho tôi thêm nghị lực để sống sót lâu hơn.{^n}{^n}Tôi hoàn toàn đơn độc, mệt mỏi và đói khát. Vì nguồn lương thực đã cạn kiệt, sự mệt mỏi khiến đầu óc tôi trở nên mù mờ. Tôi cố hết sức để tìm đường thoát khỏi cái thành phố khốn nạn này, nhưng dường như chẳng còn hy vọng. Cây cầu đã bị kéo lên và bị canh giữ bởi một sinh vật khổng lồ, như thể nó bước ra từ cõi ác mộng. Tôi hoàn toàn không có chút cơ hội nào để leo ra khỏi tường thành mà không bị đám lính tuần tra của chúng phát hiện, hoặc có thể bị ngã và chết như những người khác khi cố trèo lên.{^n}{^n}Và thế là tôi đành trốn trong căn gác cũ kỹ này chỉ với một cái cửa sổ nhỏ duy nhất để quan sát thế giới bên ngoài. Tôi có thể nghe thấy tiếng của chúng ở ngoài kia, chúng đang kêu gào rên rỉ, giống như đang phát ra những tiếng than khóc bi ai cho chính bản thân của chúng khi còn sống. Chúng đang lùng sục khắp thành phố, thu nhặt xác chết và những kẻ không còn đủ sức để chiến đấu. Tôi có thể hình dung ra được điều khủng khiếp gì đang chờ đón những kẻ bị bắt. Tôi chắc chắn là sớm muộn gì mình cũng bị tìm thấy và cùng chia sẻ số phận với bọn họ.{^n}{^n}Tôi chỉ hy vọng cái chết sẽ đến với mình thật nhanh chóng.
+
+#MalmouthSlums_04
+tagGDX1LoreObj_AreaF_NoteA08AName=Bản ghi chép bị xé - Nửa còn lại
+tagGDX1LoreObj_AreaF_NoteA08AText=(Tên Tiếng Anh: ^mRipped Note - Second Half^-)^n^nMọi chuyện đã đổi khác.{^n}{^n}Sau cùng, thì có lẽ vẫn còn một con đường nào đó thoát khỏi nơi này. Mới hồi sáng này, khi tôi vẫn đang tuyệt vọng nhìn ra thế giới bên ngoài từ cái cửa sổ nhỏ xíu đó, một trong các cống thoát nước trên đường phố bỗng dưng bật nắp và một người đàn ông từ trong đó bò ra ngoài. Anh ta trông có vẻ mạnh mẽ, rất khoẻ khoắn nữa là đằng khác, và đang mặc một loại giáp phục nào đó. Tiếp theo sau, từ trong cống lại có ba người khác bò ra. Vẫn còn có nhiều người sống sót ngoài đó! Chắc là họ đang sống bên dưới cống ngầm. Cũng có khả năng là họ đang đi tìm những người khác. Tôi phải tìm ra cách để liên lạc với họ, hoặc là tôi sẽ tìm cách lẻn vào đường cống.{^n}{^n}Khi trời đã xế chiều, tôi sẽ rời khỏi nơi ẩn náu để xem thử là có tìm được đường đi xuống cống ngầm không.{^n}{^n}Nếu bạn tìm thấy tờ giấy này, hãy làm y như tôi. Vẫn còn hy vọng cho tất cả chúng ta ở đâu đó bên dưới cống ngầm.
+
+#MalmouthIndustrial_01
+tagGDX1LoreObj_AreaF_NoteA09Name=Sổ nhật ký của Vệ binh thành phố
+tagGDX1LoreObj_AreaF_NoteA09Text=(Tên Tiếng Anh: ^mCity Guard's Log^-)^n^nTối qua các trại lính ở Quận Mũ Thép bị tấn công. Sự việc xảy đến bất thình lình giữa đêm khuya tối mịt. Các cánh cổng bị đánh bật rồi sau đó một làn sóng những thứ kinh khủng tràn vào càn quét các anh em vệ binh giống như một tay hàng thịt giết thịt cùng lúc cả một đàn cừu. Tiếng gào thét của họ lúc bị đánh thức giữa cơn ác mộng kinh hoàng đó vẫn còn văng vẳng bên tai tôi.{^n}{^n}Toàn thân tôi bủn rủn vì sợ hãi. Nếu không nhờ phản ứng nhanh chóng của đội trưởng Wilfor thì tất cả chúng tôi đều đã mất mạng. Tiểu đội của tôi và bản thân tôi đã rất may mắn khi được giao nhiệm vụ đi đến khu vực ngập nước sát bên các khu ngủ nghỉ, vì chúng tôi đã di chuyển đến đó vào ngày hôm kia. Khi cuộc tấn công bắt đầu, đội trưởng đã xông vào và hô vang ra hiệu lệnh cho chúng tôi. Chúng tôi gác buổi huấn luyện sang một bên và đi theo ông ấy, dùng chướng ngại vật chắn tất cả các cửa chính từ trước ra sau. Chúng tôi không thể tưởng tượng nổi thứ đang chờ đón mình ngoài kia.{^n}{^n}Thế giới như đang chìm trong biển lửa. Một mùi hôi thối bao trùm cả thành phố, đồng thời một luồng sáng màu xanh lá ghê rợn đốt cháy vùng trời phía trên Quận Thắp Nến. Khi bình minh đến, chúng tôi cảm nhận được một loạt các vụ nổ làm rung chuyển cả thành phố giống như một trận động đất cực mạnh. Quy mô của đợt công kích lớn đến mức không tưởng, còn tổn thất thì nhiều không kể xiết.{^n}{^n}Theo chỉ đạo của đội trưởng Wilfor, chúng tôi di chuyển nhẹ nhàng giữa các đống đổ nát của thành phố, đi từ trại lính này sang trại lính khác để tìm kiếm những vệ binh còn sống sót. Nhưng tất cả bọn họ đều đã chịu chung một số phận bi thảm: họ hoặc là đã bị giết trong lúc đang ngủ, hoặc đã bị giết ở các đồn bốt canh gác.{^n}{^n}Tôi bắt đầu lo ngại rằng, chúng tôi là những người duy nhất còn sống. Wilfor ra lệnh cho chúng tôi bảo vệ một số thường dân trong lúc ông ấy đi kiểm tra xem xung quanh có còn nhóm lính hộ vệ nào sống sót không. Mới cách đây vài tiếng, chúng tôi tìm thấy một người đàn ông đang hấp hối và ông ấy bảo rằng, gần Quận Thắp Nến vừa có một pháo đài được dựng nên bởi một toán lính vệ binh. Tôi cầu mong rằng đó là sự thật.{^n}{^n}Hôm nay chúng tôi đã chứng kiến đủ thứ kinh khủng và những người lính đều bị thương cả. Không biết là chúng tôi có thể giữ vững dũng khí để mà tiếp tục chiến đấu không nữa.{^n}{^n}Cầu xin thượng đế phù hộ chúng tôi.{^n}{^n}Raiken Baeron
+
+#MalmouthIndustrial_02
+tagGDX1LoreObj_AreaF_NoteA10Name=Báo cáo công việc của Nearan
+tagGDX1LoreObj_AreaF_NoteA10Text=(Tên Tiếng Anh: ^mNearan's Work Log^-)^n^nTheo yêu cầu của ông, tôi sẽ ghi chép lại những công việc ở đây. Tôi hy vọng thông tin trong báo cáo sẽ trở nên hữu ích cho những nỗ lực của ông.{^n}{^n}Cảng Blackiron vẫn tất bật với công việc vận chuyển quân trang như thường lệ, nhưng những yêu cầu dồn dập từ các chủ cảng khác đã buộc chúng tôi phải đảm nhiệm thêm công việc bốc dỡ hàng hoá từ các thuyền buôn. Có vẻ như lượng hàng hoá được nhập vào thành phố đã tăng gấp đôi trong mấy tháng gần đây, lượng thuyền buôn cập cảng mỗi ngày tăng từ 2 đến 4 chiếc, hoặc nhiều hơn.{^n}{^n}Điều thú vị nữa là, một lượng lớn các tàu vận chuyển mới cập cảng lần đầu đều đến từ cảng Valbury. Mỗi tuần cập bến hai lần hoặc hơn vào sáng sớm. Mỗi tàu chứa đầy các thùng hàng hoá, xếp kín đến tận mép tàu, và được đóng dấu vận chuyển đến khu vực Đồi Vương Miện mà không ghi rõ người nhận là ai. Không biết là những người giỏi giang như ông đây cần một lượng hàng hoá lớn như thế để làm gì, nhưng tôi nghĩ rằng tôi không được trả lương để hỏi những câu hỏi như vậy.{^n}{^n}Gần đây đã xảy ra một sự việc làm trái quy tắc như thế, khi tôi bắt quả tang cậu nhân viên trẻ tuổi Orith đang cầm trên tay một khối pha lê kỳ lạ đi loanh quanh, nó sắc như lưỡi đao và có màu xanh giống như đồ đồng bị xỉn màu. Tôi hỏi cậu ấy là lấy nó từ đâu, và cậu ta vẫn cứ ấp a ấp úng như thường lệ; nhưng nỗi lo bị đuổi việc buộc cậu ta phải nói ra. Cậu ta bảo là trộm nó từ một thùng hàng vận chuyển đến Đồi Vương Miện, nghĩ rằng sẽ không có gì nghiêm trọng xảy ra. Tôi đã bắt cậu ta trả nó về nơi mà cậu ta tìm thấy nó.{^n}{^n}Tôi nghĩ rằng cắt bớt nửa ngày lương của cậu ta là cách trừng phạt thích đáng, và cậu ta đã đồng ý. Tôi đoán là Orith sẽ không dám gây ra bất cứ chuyện gì nữa vì thế tôi không khuyến khích trừng phạt cậu ta thêm nữa. Cậu ta là một đứa tháo vác, chỉ hơi ngốc một chút.{^n}{^n}Đó là toàn bộ những chuyện đã xảy ra hồi tuần rồi. Hãy báo cho tôi biết nếu ông có cần thêm điều gì. Tôi sẽ tiếp tục thực hiện báo cáo hàng tuần theo như yêu cầu.{^n}{^n}-Nearan Lehner
+
+#MalmouthCrownHill_01
+tagGDX1LoreObj_AreaF_NoteA11Name=Thư gửi Ronald Marion
+tagGDX1LoreObj_AreaF_NoteA11Text=(Tên Tiếng Anh: ^mLetter to Ronald Marion^-)^n^nTôi không biết Marcell nghĩ gì khi ông ta giải tán cả hội đồng rồi chỉ định những kẻ thân cận mình vào các ghế trống. Tôi không thể tưởng tượng nổi một đám những kẻ biến chất, bất lương lại có thể trở thành những người lãnh đạo thành phố xinh đẹp này. Sau một thời gian dài vắng mặt để theo đuổi mục đích cá nhân của mình ở thủ đô, ông ta có quyền gì mà quay trở lại đây để rồi bắt đầu thi hành các chính sách đánh vào những gia đình thượng lưu?{^n}{^n}Gia tộc của chúng tôi đã phục vụ cho hội đồng thành phố được bốn thế hệ rồi. Tôi sẽ không đứng yên một chỗ mà nhìn gia tộc Marcell thao túng bộ máy chính trị của thành phố này và tôi rất hy vọng ông cũng sẽ như thế.{^n}{^n}Tôi sẽ gửi một lá thư tố cáo chính thức đến thẳng Hội Đồng Tối Cao và đến văn phòng của Hiệp Hội Lãnh Chúa Erulan, đồng thời muốn nhờ sự hỗ trợ từ gia tộc của ông để lên án hành vi lạm dụng quyền lực phi pháp của Theodin Marcell. Tôi cũng đã nghe được những lời đồn không hay về hành vi "giáo dục" của ông ta ở một cơ sở y tế tại thủ đô. Người ta đồn rằng ông ta bị buộc phải rời khỏi đây sau khi sử dụng bạo lực sai mục đích. Nếu điều này có thật, nó sẽ củng cố tính hợp pháp cho việc tố cáo của chúng ta.{^n}{^n}Hiện tại tôi đang tụ tập những người chống lại cái tham vọng chính trị trắng trợn của nhà Marcell và lên kế hoạch liên hệ với từng thành viên cấp cao của khu vực Đồi Vương Miện để tìm sự chi viện từ họ. Ông là người đầu tiên mà tôi tìm đến vì hai gia tộc của chúng ta được xem là đồng minh đáng tin cậy trên chính trường của thành phố tốt đẹp này.{^n}{^n}Tôi đã chuẩn bị kỹ lưỡng để đối phó với Marcell và gia tộc của đám hề mà ông ta chỉ định vào hội đồng, đồng thời hy vọng ông sẽ đứng về phía tôi trong cuộc chiến sắp tới.{^n}{^n}Trân trọng,{^n}{^n}-Fredric Greystone
+
+#MalmouthCrownHill_02
+tagGDX1LoreObj_AreaF_NoteA12Name=Thư gửi Theodin Marcell
+tagGDX1LoreObj_AreaF_NoteA12Text=(Tên Tiếng Anh: ^mLetter to Theodin Marcell^-)^n^nTôi hoàn toàn thấu hiểu được những đề xuất của ông và đồng ý mới mọi điều khoản, nhưng vẫn chưa rõ vì sao ông lại có ý định thực thi kế hoạch của mình một cách mau chóng như vậy.{^n}{^n}Việc giải tán hội đồng đương nhiệm và chỉ định những thành viên mới do chính ông lựa chọn là một nước cờ táo bạo, nhưng nó lại khiến bản thân tôi cũng như những thành viên khác trong nghị viện - là những người đã đồng ý tham gia vào kế hoạch của ông - có nguy cơ bị mất thể diện. Hồi sáng này đây, tôi đã nhận được một lá thư từ nhà Greystone, trong đó nói rằng Fredric Greystone đe doạ sẽ tố cáo ông trước Hội Đồng Cấp Cao của vương quốc Erulan, và có nhờ tôi hỗ trợ anh ta trong việc "lên án hành vi lạm dụng quyền lực" của ông. Hiện tại, tôi đành phải ngả theo cái cuộc đảo chính yếu ớt của anh ta để bảo vệ danh tiếng của gia tộc Marion chúng tôi.{^n}{^n}Greystone cũng đã đưa ra nhiều lời cáo buộc thú vị về khoảng thời gian ở thủ đô của ông. Tôi thực sự rất muốn thảo luận riêng tư với ông về vấn đề này.{^n}{^n}Ngoài ra, việc triển khai kế hoạch tại Quận Thắp Nến của chúng tôi đã vấp phải một sự chống đối mạnh mẽ. Đám dân đen rác rưởi lê lết ở những khu phố tồi tàn nghĩ rằng chúng có thể buộc khu vực Đồi Vương Miện đáp ứng hết những yêu cầu của chúng, và đe doạ sẽ nổi loạn nếu điều đó không được thực hiện.{^n}{^n}Không còn nghi ngờ gì nữa, giờ đây ông đang rất vui sướng với những gì đã đạt được trong kế hoạch nhỏ của chúng ta, tuy nhiên, vì lợi ích của hai gia tộc chúng ta, tôi mong rằng ông sẽ đưa ra được giải pháp để đối phó với một vấn đề đang dần trở nên nghiêm trọng, chính là cái đám rác rưởi đang sống ở Quận Thắp Nến.{^n}{^n}Trân trọng,{^n}{^n}-Ronald Marion
+
+#MalmouthAetherialEnclave_01
+tagGDX1LoreObj_AreaF_NoteA13Name=Báo cáo của Hội Đồng gửi Theodin Marcell
+tagGDX1LoreObj_AreaF_NoteA13codexTitle=Báo cáo của Hội đồng
+tagGDX1LoreObj_AreaF_NoteA13Text=(Tên Tiếng Anh: ^mCouncil Report to Theodin Marcell^-)^n^nTôi rất vui mừng thông báo rằng, mặc dù ban đầu có bị trì hoãn đôi chút, nhưng những nỗ lực của chúng ta tại Cảng Valbury đã được đền đáp; kế hoạch đã được thực thi một cách toàn diện và sắp sửa đến ngày đơm hoa kết quả. Các báo cáo từ Cố vấn cấp cao Aldritch cho thấy rằng các mẫu vật thu thập đã được vận chuyển đến nơi mà không gặp trở ngại nào, đồng thời chúng đã được bảo quản và chuẩn bị kỹ lưỡng cho nhu cầu binh lực gấp gáp của ông. Có vẻ như chúng ta đã đúng khi thao túng đám vật chủ đó, y như những gì ông đã tiên đoán.{^n}{^n}Thách thức lớn nhất của chúng ta là vận chuyển các mẫu vật đó đi qua khu cảng. Tôi đã chuyển hướng vận chuyển đến cảng Blackiron, ở đây việc kiểm tra các thùng hàng không gắt gao, có lẽ là vì khu cảng này phải vận chuyển quân trang liên tục, và lịch trình công việc dày đặc mà chúng ta đã đề ra buộc nhân công ở đây bận rộn đến mức không có thời gian để đặt câu hỏi tại sao.{^n}{^n}Dù khu cảng tấp nập như thế, hiện tại việc giám sát ở đây lỏng lẻo một cách đáng ngạc nhiên. Ngoài ra, gã Vernath của Cục quản lý cảng đã được chứng minh là một mục tiêu rất dễ đối phó. Hắn ta là một kẻ nhỏ mọn và dễ thay lòng đổi dạ, những tính cách giúp chúng ta dễ dàng lợi dụng. Thông qua hắn, chúng ta đã ra lệnh cho các chủ cảng phải gửi báo cáo hàng tuần, đánh dấu lại các hoạt động bất thường cũng như những chuyến tàu cập cảng mà không báo trước. Điều này cho phép chúng ta giám sát chặt chẽ các hoạt động của khu cảng đồng thời giúp bịt kín những thông tin chẳng may bị rò rỉ trong kế hoạch của chúng ta, trước khi chúng ta sẵn sàng tiến hành sự kiện Bình Minh Huy Hoàng. Xử lý các sự cố một cách vội vã sẽ gieo rắc sự nghi ngờ và nỗi sợ hãi vào các công nhân cảng, nên phải đảm bảo là tránh xảy ra các tình huống tương tự về sau.{^n}{^n}Ngoài ra, những công việc giao cho các nhà quý tộc ở Đồi Vương Miện đã được tiến hành một cách nhanh chóng. Như chúng ta thường thấy ở những nơi khác, những người thuộc tầng lớp thượng lưu của thành phố này cũng rất kiêu ngạo, bất trung, và thèm khát quyền lực. Chúng đấu đá lẫn nhau, ngay cả trong chính gia tộc của chúng, dù chỉ vì một chút mâu thuẫn. Hội đồng sẽ tiếp tục khuyến khích những cuộc tranh chấp như thế cho đến khi chúng ta có đủ sức ảnh hưởng trong giới quý tộc của thành phố này, đồng thời chọn ra được những vật chủ dễ dàng thao túng nhất.{^n}{^n}Trân trọng,{^n}{^n}Thành viên hội đồng đương nhiệm{^n}{^n}Alberran Rein
+
+#MalmouthAetherialFactory_01
+tagGDX1LoreObj_AreaF_NoteA14Name=Một bản thoả thuận mới
+tagGDX1LoreObj_AreaF_NoteA14Text=(Tên Tiếng Anh: ^mA New Consensus^-)^n^nNhững trở ngại mà chúng ta phải đối mặt gần đây ở Homestead và các vùng xa hơn không thể bị xem nhẹ. Tuy vậy, ta tin rằng chúng ta có thể xoay chuyển tình thế khó khăn này về hướng có lợi cho chúng ta. Chúng ta không được chùn bước chỉ vì những rủi ro mà đám sinh vật yếu ớt kia gây ra. Trong lúc con người đang dồn sự chú ý một cách mù quáng vào những mưu kế được vạch ra bởi những đứa con của Vị thần hấp hối, chúng ta phải tranh thủ thời cơ để sắp xếp lại thứ tự những công việc được ưu tiên. Theo đề xuất của Lãnh Chúa Tối Cao Van Aldritch, ta đã thực hiện một sự thay đổi trong bản thoả thuận vừa được ban hành.{^n}{^n}Nội dung của bản thoả thuận yêu cầu Chúa Tể Xác Thịt quay trở về Malmouth ngay lập tức và cho phép ông ta hoàn thành sản phẩm mới nhất của mình mà không bị cản trở bởi bất cứ điều gì. Tiến độ công việc ở Xưởng Thịt đã bị ngừng trệ vì sự vắng mặt của ông ấy, một tính toán cực kỳ sai lầm.{^n}{^n}Marcell sẽ được phép quay trở lại vị trí chủ chốt của ông ấy ở Malmouth, tại đây ông ấy sẽ lại tiếp tục dồn tâm huyết của mình vào việc phát triển xưởng, điều hành nó từ trong trung tâm. Kế hoạch này không thể bị trì hoãn thêm nữa, vì thế ta sẽ không dung thứ nếu để tình trạng thiếu hụt mẫu vật xảy ra.{^n}{^n}Việc thu thập các mẫu vật ở những khu vực lân cận cần được tăng cường gấp đôi năng suất, đồng thời chuyển hướng vận chuyển về Malmouth ngay lập tức.{^n}{^n}-Orin Vostra, Đệ Tứ trong Hội Đồng Ngũ Vương.
+
+#MalmouthAetherialFactory_02
+tagGDX1LoreObj_AreaF_NoteA15Name=Thành công trong việc sinh sản
+tagGDX1LoreObj_AreaF_NoteA15Text=(Tên Tiếng Anh: ^mBirthing Success^-)^n^nTôi rất vui mừng khi thông báo rằng, những thí nghiệm được tiến hành gần đây trên các mẫu vật là nữ giới loài người đã thành công ngoài sức tưởng tượng.{^n}{^n}Có vẻ như cơ thể của vật thí nghiệm đã tiếp nhận phương pháp thụ thai của chúng ta dễ dàng hơn chúng ta đã suy đoán. Ngoài ra, những mẫu vật trẻ hơn, khoẻ hơn đã cho thấy là có tỷ lệ phục hồi và phát triển nhanh chóng hơn hẳn. Sức chịu đựng cơ thể của những mẫu vật này bền hơn và duy trì lâu hơn, cho phép chúng ta tăng tỷ lệ và số lần thụ thai, với những kết quả đạt được đáng kinh ngạc. Những vật thí nghiệm này cũng được chứng minh là có thể dung nạp hai hay nhiều phôi thai vào trong mỗi tử cung. Chúng ta cũng đã cắt giảm được một nửa khoảng thời gian mang thai, và vì những mẫu vật này có thể sống lâu hơn, tôi tin là chúng ta có thể thúc đẩy quá trình này diễn ra nhanh hơn nữa.{^n}{^n}Tôi hoàn toàn tự tin rằng, chúng ta có thể thực hiện thí nghiệm này tốt hơn nữa, miễn là số lượng các mẫu vật thí nghiệm vẫn được duy trì ổn định và đầy đủ. Tuy nhiên, vì dân số ở Malmouth đang giảm sút một cách nhanh chóng, đã đến lúc chúng ta phải chuyển sang thu thập các mẫu vật sống ở vòng quanh vương quốc Erulan và các vùng xa hơn.
+
+#MalmouthAetherialFactory_03
+tagGDX1LoreObj_AreaF_NoteA16Name=Công văn gửi đến Chúa Tể Xác Thịt
+tagGDX1LoreObj_AreaF_NoteA16Text=(Tên Tiếng Anh: ^mMissive to the Master of Flesh^-)^n^nĐầu tiên, ta phải xin lỗi ông về cách diễn đạt lời lẽ của mình trong buổi trao đổi trước đó. Những thí nghiệm gần đây của ông ở Malmouth đã khiến Hội Đồng Ngũ Vương quan ngại rằng ông đang tự mình rẽ sang hướng khác so với những gì mà chúng ta đã thống nhất. Giờ đây bọn ta nhận ra là mình đã sai lầm khi suy xét như thế.{^n}{^n}Hội Đồng cảm thấy kết quả từ những thí nghiệm của ông trên các mô động vật sống mang lại lợi ích cực kỳ lớn. Nếu như những phát hiện này thực sự có triển vọng như ông đã khẳng định, thế thì một bản thoả thuận mới sẽ được ban hành ngay lập tức; nó sẽ đặt những ý tưởng này lên sự quan tâm hàng đầu trong quá trình hiện thực hoá viễn cảnh vĩ đại của chúng ta.{^n}{^n}Việc trên cũng đã phát sinh thêm những vấn đề khác, thúc giục chúng ta thực hiện cuộc đàm phán này. Hội Đồng nghĩ là những vấn đề đó có lẽ có liên quan đến việc khuấy động năng lượng Aether. Những cặp mắt vĩ đại giờ đây đang dồn sự chú ý của mình vào thế giới này. Nếu "Họ" biết được những gì đang diễn ra ở đây, thì những thứ mà chúng ta đã gầy dựng, những gì chúng ta đã đạt được, có thể bị phá huỷ hoàn toàn. Chúng ta không được để viễn cảnh vĩ đại của chúng ta bị cản trở bởi những suy tính từ vũ trụ kia.{^n}{^n}Chiến thắng đang trong tầm với, và chúng ta phải giành lấy nó cho bằng được! Chúa Tể Xác Thịt, ông hãy thực hiện nhiệm vụ của mình thật cẩn trọng, đừng để xảy ra sai sót, và ta tin rằng chúng ta sẽ không gặp lại những rắc rối như thế trong tương lai. Ta sẽ không khoan dung cho bất cứ sự trì hoãn nào sau này. Chúng ta không còn đủ kiên nhẫn nữa.{^n}{^n}-Orin Vostra, Đệ Tứ trong Hội Đồng Ngũ Vương
+
+#MalmouthIndustrial_04 Theodin
+tagGDX1LoreObj_AreaF_NoteA17Name=Để huỷ diệt một thành phố
+tagGDX1LoreObj_AreaF_NoteA17Text=(Tên Tiếng Anh: ^mTo Shatter a City^-)^n^nTheo mệnh lệnh từ bản thoả ước, ta đã đến thành phố này - chính là quê nhà của vật chủ mà ta đang trú ngụ. Giờ đây ta sẽ biến nó thành sứ mệnh không ngừng nghỉ của mình, để đảm bảo rằng nhiệm vụ của chúng ta ở Malmouth sẽ được tiến hành đúng theo kế hoạch trong khoảng thời gian bị giới hạn.{^n}{^n}Vật chủ này sẽ là sự lựa chọn hoàn hảo để gieo rắc sự huỷ diệt vào thành phố này. Hắn được đào tạo ở thủ đô theo yêu cầu từ gia đình giàu có của hắn, một gia đình có tầm ảnh hưởng trong giới quý tộc ở Malmouth. Hắn không hề quan tâm đến thành phố này, không hề có lòng trắc ẩn, không chút đồng cảm với những người xung quanh. Những gì mà hắn khao khác là kiến thức, những kiến thức mà nhiều người không muốn tìm hiểu hoặc cảm thấy ghê tởm. Việc khuyến khích một một niềm đam mê tàn bạo như thế là điều hiển nhiên, và giờ hắn là của ta.{^n}{^n}Nguỵ trang dưới hình hài của Theodin Marcell, ta sẽ khoét sâu vào tầng lớp thượng lưu của thành phố này và thao túng trái tim thối nát đang đập bên trong nó. Làm thế nào để huỷ diệt một thành phố? Chỉ cần gieo rắc sự thối nát vào cái xã hội yếu đuối của nó. Và dưới bàn tay của ta, nó sẽ trở nên cực kỳ vĩ đại.{^n}{^n}-Theodin Marcell, Bác Sĩ Giải Phẫu
+
+tagGDX1LoreObj_AreaF_MadRamblingsName=Đoạn trích từ Ký Ức Của Ivonda
+tagGDX1LoreObj_AreaF_MadRamblingsCodexTitle=Ký ức của Ivonda
+tagGDX1LoreObj_AreaF_MadRamblingsText=(Tên Tiếng Anh: ^mClipping from Ivonda's Memory^-)^n^nBên dưới một toà tháp, bên dưới lòng đất sâu, nơi vị sứ giả đang yên giấc ngàn thu. Bên dưới những bậc thềm, một cánh cửa bí mật, và chiếc chìa khoá ở nơi than hồng bùng cháy...
+
+tagLoreObj_AreaF_KatrineNote_Name=Những dòng ghi chép Katrine dành cho Alice
+tagLoreObj_AreaF_KatrineNote_Text=(Tên Tiếng Anh: ^mKatrine's note to Alice^-)^n^nAlice, con yêu của mẹ, mẹ thực sự có lỗi với con.{^n}{^n}Mẹ đã vắt kiệt sức lực của mình, đi đến những nơi xa nhất có thể để tìm con, nhưng giờ thì mẹ đành phải kết thúc cuộc hành trình của mình ngay tại đây.{^n}{^n}Ngay tại nơi kinh khủng này, mẹ thực sự cảm thấy sợ hãi. Mẹ ước gì có thể bế con một lần sau cùng, được cảm nhận nhịp đập từ trái tim nhỏ bé của con, được nhìn thấy con nhoẻn miệng cười, nhưng mẹ biết rằng, điều này hoàn toàn không thể.{^n}{^n}Hy vọng dường như không còn hiện hữu trên thế giới này, còn những ước muốn thì cũng đã rời bỏ mẹ từ rất lâu rồi. Nhưng mẹ vẫn cầu mong rằng, bằng cách nào đó một kỳ tích đã xảy đến, rằng con đã sống sót giữa muôn vàn hiểm nguy và những thứ kinh khủng đang tràn ngập trên khắp xứ sở của chúng ta.{^n}{^n}Dù mẹ đi đến phương trời nào, dù mẹ trở thành bất cứ thứ gì, mẹ vẫn sẽ đi tìm con, Alice yêu quý của mẹ.
+
+tagGDX1LoreObj_AreaF_Puppetmaster01Name=Mệnh lệnh của Allostria
+tagGDX1LoreObj_AreaF_Puppetmaster01Text=(Tên Tiếng Anh: ^mAllostria's Orders^-)^n^nTheo mệnh lệnh từ chúng ta, ngươi sẽ phải đi đến Malmouth. Hãy tận dụng triệt để tất cả các nguồn tài nguyên và nhân lực mà ngươi đã yêu cầu để nhanh chóng đến được nơi đó. Khi đến nơi, bằng mọi giá ngươi phải nắm bắt được tiến độ công việc đang được triển khai bởi Chúa Tể Xác Thịt. Có vài lý do khiến chúng ta tin rằng, các động thái gần đây của hắn đang đi sai hướng, khác với những gì đã đề cập trong bản thoả ước trước đó, và nó đang đe doạ đến viễn cảnh vĩ đại của tất cả chúng ta.{^n}{^n}Nếu điều chúng ta nghi ngờ là đúng, thì ngươi hãy trục xuất hắn về Erulan ngay lập tức, đồng thời thế chỗ hắn trở thành người chỉ huy các chiến dịch ở Malmouth. Còn nếu như chúng ta đã hiểu sai hắn, thì hãy nhanh chóng quay về báo cáo lại những nước đi sai lệch của hắn cho chúng ta biết, để đảm bảo các công việc về sau phải được thực hiện đúng như cam kết trước đó.{^n}{^n}Vì Họ đang để mắt đến nhất cử nhất động của chúng ta, nên chúng ta cần phải nhanh chóng sửa chữa những sai lầm này. Không được phép để bất cứ kẻ nào tự tung tự tác, khiến kế hoạch của chúng ta bị đảo lộn. Chúng ta không thể để cho kế hoạch bị phá hoại trong khi chiến thắng đang ở ngay trước mắt mình.{^n}{^n}-Orin Vostra, Đệ Tứ trong Hội Đồng Ngũ Vương 
+
+tagGDX1LoreObj_AreaF_Special01Name=Quay lại ngay!
+tagGDX1LoreObj_AreaF_Special01Text=(Tên Tiếng Anh: ^mTurn Back!^-)^n^nHỡi lữ khách, ta cảm nhận được cái mục đích mà ngươi tìm đến nơi này. Khát khao trong ngươi mới thật mãnh liệt làm sao. Nhưng sau cùng thì phàm nhân nào cũng tỏ ra e dè khi đối mặt cái chết. Nếu như ngươi thực sự không sợ cái chết, thì cứ việc tiến về phía trước.{^n}{^n}Đừng bao giờ tỏ vẻ sợ hãi trên gương mặt mình. Khi lửa gặp lửa, con đường phía trước sẽ mở ra, và cuộc gặp gỡ giữa hai chúng ta sẽ tiến gần thêm một bước.
+
+tagGDX1LoreObj_AreaF_Special02Name=Cơ hội cuối cùng của ngươi!
+tagGDX1LoreObj_AreaF_Special02Text=(Tên Tiếng Anh: ^mYour Last Chance!^-)^n^nCon đường phía trước rải đầy xương tàn của những kẻ liều lĩnh như ngươi. Tất cả bọn họ đều đã gục ngã bên trong một thực tại vượt tầm hiểu biết của phàm nhân.{^n}{^n}Thế nên, hãy quay lại ngay khi ngươi vẫn còn có thể, nếu không thì thế giới của ta sẽ nuốt chửng ngươi giống như những kẻ trước đó.
+
+tagGDX1LoreObj_AreaF_Special03Name=Ngươi không được chào đón ở đây
+tagGDX1LoreObj_AreaF_Special03Text=(Tên Tiếng Anh: ^mYou Are Not Welcome!^-)^n^nNày tên người phàm kia! Sự kiên trì của ngươi khiến ta cảm thấy thích thú. Phải chăng ngươi cho rằng bản thân mình giống như một đấu sĩ trên đấu trường của cuộc sống khắc nghiệt ngoài kia? Ngươi luôn cố gắng tìm mọi cách để vươn ra khỏi cái đám đông tầm thường, thấp kém xung quanh, thậm chí còn dùng đến những cách bạo lực và dã man nhất để đạt được mục đích của mình.{^n}{^n}Nhưng ngay tại đây, bên trong cái thực tại do chính ta cai trị, ngươi đơn thuần chỉ là một kẻ ngu xuẩn giống như những kẻ trước đó, khát khao tìm kiếm một phần thưởng quý giá mà ngươi cho rằng bản thân mình xứng đáng để nhận nó. Sau cùng thì những dục vọng và sự tham lam của phàm nhân chính là Cội Nguồn Của Cái Ác, mỗi giọt máu đổ xuống chỉ khiến nó trở nên mạnh mẽ hơn, to lớn hơn, góp phần duy trì sự sống cho nó.
+
+
+#Guards
+
+
+#Merchants and Other Services
+
+tagGDX1NPC_MerchantC101=Vinelton
+tagGDX1StoreTitle_MerchantC101=Hàng Hóa Hoàn Toàn Tự Nhiên
+
+#Area E
+tagGDX1NPC_ReallocatorA01=Novi
+tagGDX1StoreTitle_ReallocatorA01=Dẫn Dắt Linh Hồn
+
+tagGDX1NPC_MerchantA01=Igallia
+tagGDX1StoreTitle_MerchantA01=Hàng Hóa của Hội Phù thủy
+
+tagGDX1NPC_MerchantA02=Cô Wealay
+tagGDX1StoreTitle_MerchantA02=Thương Nhân Tổng Hợp
+
+tagGDX1NPC_SmugglerA01=Ogarra
+tagGDX1StoreTitle_SmugglerA01=Buôn Lậu
+
+#Area F
+tagGDX1NPC_ReallocatorA02=Rena
+tagGDX1StoreTitle_ReallocatorA02=Dẫn Dắt Linh Hồn
+
+tagGDX1NPC_InventorA01=Nadia
+tagGDX1StoreTitle_InventorA01=Nhà Phát Minh
+
+tagGDX1NPC_MerchantA03=Hyram
+tagGDX1StoreTitle_MerchantA03=Hàng Hóa Hiếm
+
+tagGDX1NPC_MerchantA04=Hannah
+tagGDX1StoreTitle_MerchantA04=Hàng Thu Lượm
+
+tagGDX1NPC_SmugglerA02=Igor
+tagGDX1StoreTitle_SmugglerA02=Buôn Lậu
+
+tagGDX1NPC_SmithA01=Kaylon
+tagGDX1StoreTitle_SmithA01=Bậc Thầy Chế Tác
+tagGDX1StoreDesc_SmithA01_1={}Tôi Luyện ở Malmouth
+tagGDX1StoreDesc_SmithA01_2=Kaylon là một thợ rèn bậc thầy chuyên dùng các lò rèn ở Malmouth. Vũ khí và giáp trụ của ông trong vùng này không ai sánh được.
+tagGDX1StoreDesc_SmithA01_3= 
+tagGDX1StoreDesc_SmithA01_4=Vũ khí, Giáp và Trang Sức được chế tạo từ đây sẽ mang theo một trong những thuộc tính sau:
+
+tagGDX1NPC_SmithA02=Gaius Ember
+tagGDX1StoreTitle_SmithA02=Thợ Rèn Bùng Cháy
+tagGDX1StoreDesc_SmithA02_1={}Ngọn Lửa Đọa Đày
+tagGDX1StoreDesc_SmithA02_2=Gaius bị nguyền phải chịu nỗi đau vĩnh cửu, sự dày vò đó nay anh mang cả vào mỗi tác phẩm của mình.
+tagGDX1StoreDesc_SmithA02_3= 
+tagGDX1StoreDesc_SmithA02_4=Vũ khí, Giáp và Trang Sức được chế tạo từ đây sẽ mang theo một trong những thuộc tính sau:
+
+tagGDX1NPC_SmithA03=Bella Fald
+tagGDX1StoreTitle_SmithA03=Thợ Rèn Thiên Phú
+tagGDX1StoreDesc_SmithA03_1={}Lò Rèn Thiên Phú
+tagGDX1StoreDesc_SmithA03_2=Đồn rằng cây búa của Bella Fald được đúc ra từ chính những vì sao, có khả năng chế tạo vật phẩm Huyền Thoại tới cấp 94.
+tagGDX1StoreDesc_SmithA03_3= 
+tagGDX1StoreDesc_SmithA03_4=Vũ khí, Giáp và Trang Sức được chế tạo từ đây sẽ mang theo một trong những thuộc tính sau:
+
+tagGDX1NPC_SmithA04=Arcturus
+tagGDX1StoreTitle_SmithA04=Thợ Rèn Bị Nguyền Rủa
+tagGDX1StoreDesc_SmithA04_1={}Lò Rèn Bóng Tối
+tagGDX1StoreDesc_SmithA04_2=Búa của Arcturus đã bị vấy bẩn bởi ma thuật bóng tối, nó gần như vô dụng, nhưng vẫn đủ khả năng đáp ứng những ý muốn của chủ nhân ông ta.
+tagGDX1StoreDesc_SmithA04_3= 
+tagGDX1StoreDesc_SmithA04_4=Vũ khí, Giáp và Trang Sức được chế tạo từ đây sẽ mang theo một trong những thuộc tính sau:
+
+tagGDX1NPC_IllusionistA01=Wevala
+tagGDX1NPC_IllusionistA02=Paulia
+tagGDX1NPC_IllusionistA03=Allios
+tagGDX1NPC_IllusionistA04=Grados
+tagGDX1StoreTitle_IllusionistA01=Ảo Ảnh Sư
+
+
+
+
+
+#Faction Quartermasters
+tagGDX1NPC_FactionQuartermaster_01=Falonestra
+tagGDX1StoreTitle_FactionQuartermaster_01=Hàng Hóa của Hội Phù thủy
+
+tagGDX1NPC_FactionQuartermaster_02=Plaudia
+tagGDX1StoreTitle_FactionQuartermaster_02=Quân Nhu
+
+tagGDX1NPC_FactionQuartermaster_03=Igrid Galstrom
+tagGDX1StoreTitle_FactionQuartermaster_03=Quân Nhu
+
+tagGDX1NPC_FactionQuartermaster_04=Ronan Karkan
+tagGDX1StoreTitle_FactionQuartermaster_04=Quân Nhu
+
+
+#Faction Bounty Tables
+tagGDX1NPC_FactionTable_01=Bàn Săn Tiền Thưởng Hội Phù Thủy Đầm Lầy Ugdenbog
+tagGDX1NPC_FactionTable_02=Bàn Săn Tiền Thưởng Barrowholm
+tagGDX1NPC_FactionTable_03=Bàn Săn Tiền Thưởng Malmouth
+
+
+#Devotion Shrines
+tagGDX1DevotionShrineE01=Rừng Âm U
+tagGDX1DevotionShrineE02=Đầm Lầy Ugdenbog
+
+tagGDX1DevotionShrineF01=Malmouth
+tagGDX1DevotionShrineF02=Đồi Vương Miện
+tagGDX1DevotionShrineF03=Rễ Cây Mọc Ngầm
+
+tagGDX1DevotionShrineS03=???
+

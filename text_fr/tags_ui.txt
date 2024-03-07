@@ -1,0 +1,2428 @@
+tagHUD_LootModeDescription=Ajuste les options pour quel butin doit être affiché. L'option Afficher/Masquer les objets peut être utilisée pour masquer toutes les ramassages pendant une rencontre occupée, puis les afficher à nouveau une fois terminées.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.9{^n}for Grim Dawn: v1.2.0.4{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+#General
+
+tagGameDifficultySetting01=difficulté Normale
+tagGameDifficultySetting02=difficulté Élite
+tagGameDifficultySetting03=difficulté Ultime
+tagDifficultyUnlocked=Difficulté débloquée
+tagDifficultyLevelUnlocked=Vous pouvez désormais accéder à la {^G}{%s0}{^W} !
+
+tagAutosort=Rangement automatique
+
+tagPromptButtonYes=Oui
+tagPromptButtonNo=Non
+tagPromptButtonOkay=OK
+tagPromptButtonClose=Fermer
+
+tagGraveName=Tombe du joueur ~ {%t0}
+tagGraveSlainBy=Tué par {%t0}
+tagGraveXPRecovered=Expérience récupérée : {%d0}
+tagHeroXP={%d0} Ennemi Héros EXP
+tagBossXP={%d0} Ennemi Boss EXP
+tagHeroKilled=Mort d'un Champion{^-} ennemi
+tagBossKilled=Mort d'un Héros{^-} ennemi
+tagXPAwarded={^Y}{%d0}{^-} d'EXP accordée
+tagReputationBonus=Bonus de Réputation
+tagRepAwarded={^Y}+{%d0}{^-} de Réputation accordée par : {^G}{%s1}
+tagLoreBonus=Bonus de connaissance
+
+tagLevelUp=Montée en niveau
+tagLevelReached=Vous avez atteint le Niveau {^Y}{%d0}
+
+#Dévotion
+
+tagDevotionPointAwarded={%d0}{^-} Point de Dévotion conféré
+tagDevotionPointsAwarded={%d0}{^-} Points de Dévotion conférés
+tagDevotionShrine=Sanctuaire purifié
+tagDevotionShrineGuardian=Gardien de Sanctuaire
+tagDevotionUpdate=Niveau de Dévotion
+tagDevotionSkillLevelUp={^G}{%s0} {^W}a atteint le rang {%d1} !
+tagDevotionSkillMaxLevel={^G}{%s0} {^W}a atteint le rang maximum !
+tagDevotionAffinityBonus=Bonus de constellation complète :
+tagDevotionAffinity=Affinités :
+tagDevotionSelected= (Sélectionné)
+tagDevotionInUse= (Utilisé)
+tagDevotionConfirm=Remplacer Pouvoir Céleste ?
+tagDevotionExperienceFormat=Expérience : {^Y}{%d0}{^W} / {^Y}{%d1}
+tagDevotionSkillRank=Niveau actuel : {%d0} / {%d1}
+
+tagUndo=Annuler
+Chat=Tchat :
+
+tagGamePaused=Jeu en pause
+
+tagSkillNotReady={^R}Cette compétence n'est pas prête
+
+tagTransferStashError={^R}Cet objet ne peut pas être placé là
+
+#Riftgate
+
+tagRiftgatePersonal=Faille personnelle
+tagRiftgateDestination=Destination
+tagRiftgateError01=Vous ne pouvez pas utiliser cette Faille.  Elle a été créée par le joueur d'un autre groupe.
+tagRiftgateError02=Vous ne pouvez pas vous téléporter à ce Portail de faille à partir du même portail.
+tagRiftgateError03=Vous ne pouvez pas vous téléporter à ce Portail de faille d'ici.
+tagRiftgateDialog01=Ouvrir une nouvelle Faille refermera l'existante.  Souhaitez-vous continuer ?
+tagRiftGateMapA01=Cairn
+
+#Quest
+
+tagQuests={^L}Quêtes actives
+tagQuestLogNameNumber={%t0} ({%d1})
+tagQuestJournalNoQuests=Pas de quête
+tagQuestJournalNoComplete=Pas de quête accomplie
+tagQuestIncentives=Primes :
+tagQuestObjectives=Objectifs :
+tagQuestRewards=Récompenses :
+tagCodexJournalNoNotes=Aucune entrée d'univers
+tagCodexJournalSubHeadingEnemy=Aperçu de l'ennemi
+tagCodexJournalSubHeadingFaction=Factions
+tagCodexJournalSubHeadingCreed=Inquisiteur Creed
+tagCodexJournalSubHeadingArkovia=Histoire - Arkovia
+tagCodexJournalSubHeadingNecropolis=Histoire - Nécropole
+tagCodexJournalSubHeadingSurvivorBlackLegion=Survivants - Légion Noire
+tagCodexJournalSubHeadingSurvivorBurrwitch=Survivants - Burrwitch
+tagCodexJournalSubHeadingSurvivorsHomestead=Survivants - Domaine
+tagCodexJournalSubHeadingSurvivorsDarkvale=Survivants - Valsombre
+tagCodexJournalSubHeadingSurvivorsValbury=Survivants - Port Valbury
+tagCodexJournalSubHeadingHistoryGods=Histoire - Des dieux de Cairn
+tagCodexJournalSubHeadingDefault=Miscellanées
+tagDevotionJournalTitle={%d0}/{%d1} Autels de Dévotion
+tagAccept=Accepter
+tagDecline=Décliner
+tagContinue=Continuer
+tagEndConversation=Fin de la conversation
+tagQuestPrimary=(primaire)
+tagQuestSecondary=(secondaire)
+tagQuestElite=(élite)
+tagQuestAccepted=Quête acceptée : {^n}"{%t0}"
+tagQuestCompleted=Quête accomplie : {^n}"{%t0}"
+tagQuestUpdate=Avancée de la quête
+tagQuestUpdated=Quête mise à jour : {^n}"{%t0}"
+tagQuestFailed=Quête échouée {^n}"{%t0}"
+tagActionGiveMoney={%d0} Pièce
+tagActionGiveTribute={%d0} Tribut
+tagActionGiveTributes={%d0} Tributs
+tagActionGiveExperience={%d0} Expérience
+tagActionGiveFaction={%d0} {%t1} Faction
+tagActionGiveLevel={%d0} Niveau
+tagActionGiveLevels={%d0} Niveaux
+tagActionGiveSkillPoint={%d0} Point de compétence
+tagActionGiveSkillPoints={%d0}Points de compétences
+tagActionGiveAttributePoint={%d0} Point d'attribut
+tagActionGiveAttributePoints={%d0} Points d'attributs
+tagActionGiveDevotionPoint={%d0} point de Dévotion
+tagActionGiveDevotionPoints={%d0} points de Dévotion
+tagConditionHasKilled={%t0} ({%d1}/{%d2})
+tagConditionHasItem={%t0} ({%d1}/{%d2})
+tagQuestRewardWindowTitle=Quête accomplie
+tagQuestRewardWindowInterim=Progrès de la quête
+tagQuestRewardTitle=Récompenses :
+tagQuestRewardMoney={%d0} pièces de fer
+tagQuestRewardXP=Exp. : {%d0}
+tagQuestRewardReputationPositive=+{%d0} de réputation avec : {%s1}
+tagQuestRewardReputationNegative=-{%d0} de réputation avec : {%s1} 
+tagQuestRewardAcceptButton=Fermer
+tagQuestBlockedDescription=Quête verrouillée dans cette session basée sur la progression de l'hôte.
+
+tagObjectives=Objectifs
+
+#Faction
+
+tagFaction={%s0}
+tagFactionStanding=Réputation : {^S}{%t0}
+tagFactionQuestReq=Quête supplémentaire : {^S}{%+d0}
+tagFactionAlone=Seul
+tagFactionInvisible=Invisible
+tagFactionGenericMonster=Monstres
+tagFactionPlayer=Joueurs
+tagFactionSurvivors=Passage du Diable
+tagFactionSurvivorsInfo=Quartier général : Passage du Diable {^n}{^n} Les survivants... voilà le mot le plus souvent employé pour décrire les résidents du Passage du Diable. Les hommes et femmes qui ont survécu à l'Aube Sinistre pour former une petite communauté au sein des ruines d'une prison abandonnée. Ils ont vu bien trop d'amis et de famille tomber face aux 'Pris', ceux qui sont possédés par les Éthérés.{^n}{^n} Gagner leur confiance ne s'avèrera pas une tâche aisée, mais avec des réserves qui s'amenuisent et une menace éthérée qui se profile à l'horizon, ils pourraient très bien vouloir saisir leur chance.
+tagFactionSurvivorsRewards1=N/A
+tagFactionSurvivorsRewards2=N/A
+tagFactionSurvivorsRewards3=N/A
+tagFactionSurvivorsRewards4=Vide
+tagFactionSurvivorsRewards5=Nouvelle Quête {^n}Accès au Vendeur de Faction
+tagFactionSurvivorsRewards6=Nouvelle Quête {^n}Accès à la Table des Primes {^n}Armes de Faction {^n}Armures de Faction {^n}Schémas de Faction
+tagFactionSurvivorsRewards7=Nouveau Donjon/Quête {^n}Augmentations de Faction{^n}Accessoires de Faction {^n}Assignations de Faction {^n}Schémas de Faction
+tagFactionSurvivorsRewards8=Augmentations Rares {^n}Mandats de Faction {^n}Armes de Faction d'Élite {^n}Armures de Faction d'Élite
+tagFactionAetherials=Éthérés
+tagFactionAetherialsInfo= Les arcanistes de Cairn se sont bêtement et avidement jetés sur le voile magique connu sous le nom d'Éther, sans jamais soupçonner une seule fois que quelque chose les observait de l'autre côté. {^n}{^n} Les Éthérés descendirent sur Cairn lors de ce qui est connu sous le nom d'Aube Sinistre, possédant d'innombrables humains et massacrant le reste. Le plus méprisable, c'est qu'ils ont commencé à relever les décédés sous forme de créatures Mortes-vivantes mutantes, des fantassins sans âme pour leur invasion. Leur présence même à Cairn est suffisante pour faire muter la vie sauvage, transformant des créatures dociles en de vicieuses monstruosités. {^n}{^n} Mais le plus étrange, c'est leur haine apparente envers les Chthoniens, car ils se battent contre les horreurs du Vide à chaque occasion.
+tagFactionAetherialsRewards1=Engeances Némésis
+tagFactionAetherialsRewards2=Engeances Héros supplémentaires
+tagFactionAetherialsRewards3=Extra-engeances
+tagFactionAetherialsRewards4=Vide
+tagFactionAetherialsRewards5=N/A
+tagFactionAetherialsRewards6=N/A
+tagFactionAetherialsRewards7=N/A
+tagFactionAetherialsRewards8=N/A
+tagFactionCthonians=Chthoniens
+tagFactionCthoniansInfo= Les Chthoniens, des horreurs du Vide, sont des êtres cauchemardesques. Avant l'Aube Sinistre, les Chthoniens n'étaient aperçus à Cairn que suivant un Rituel arcanique qui a mal tourné ou à l'invitation d'un puissant sorcier.{^n}{^n} Malgré un effort pour exterminer la pratique, un Culte s'est formé autour de Rituels de sang et de la vénération d'êtres Chthoniques. Des membres de ce Culte ont été entendus en train de scander un nom en particulier : Ch'thon. Avec le monde en désordre, le Culte a grandi en force, recueillant de nouveaux adeptes prêts à tout pour des réponses dans un monde qui ne fait plus sens.{^n}{^n} Les Chthoniens, et leur Culte loyal, ont l'air d'être en conflit avec les Éthérés, récoltant avidement des humains impuissants pour leur sang, ce qui fait que les Éthérés ne peuvent pas les utiliser comme vaisseaux.
+tagFactionCthoniansRewards1=Engeances Némésis
+tagFactionCthoniansRewards2=Engeances Héros supplémentaires
+tagFactionCthoniansRewards3=Extra-engeances
+tagFactionCthoniansRewards4=Vide
+tagFactionCthoniansRewards5=N/A
+tagFactionCthoniansRewards6=N/A
+tagFactionCthoniansRewards7=N/A
+tagFactionCthoniansRewards8=N/A
+tagFactionOutlaws=Gang de Cronley
+tagFactionOutlawsInfo= Contrairement à la plupart des groupes de bandits en vadrouille, le Gang de Cronley a l'air d'être hautement organisé et lourdement armé, ne répondant qu'à son chef auto-proclamé, Darius Cronley.{^n}{^n} S'étant échappé de la Prison du Passage du Diable suite au chaos qui suivit l'Aube Sinistre, ces criminels sont maintenant résolus à prendre le seul endroit au monde qui leur déniait autrefois leur liberté. Les membres du Gang de Cronley sont sadiques, violents et enclins à des actes d'agression contre leurs congénères humains, personnifiant le fait que la plus grande menace pour l'humanité est l'humanité elle-même.
+tagFactionOutlawsRewards1=Engeances Némésis
+tagFactionOutlawsRewards2=Engeances Héros supplémentaires
+tagFactionOutlawsRewards3=Extra-engeances
+tagFactionOutlawsRewards4=Vide
+tagFactionOutlawsRewards5=N/A
+tagFactionOutlawsRewards6=N/A
+tagFactionOutlawsRewards7=N/A
+tagFactionOutlawsRewards8=N/A
+tagFactionBeasts=Bêtes
+tagFactionBeastsInfo=Bêtes
+tagFactionUser0=Nomades
+tagFactionUser0Info=Quartier général : Vieil Arkovia. {^n}{^n} Les Rhowaris, ou Nomades comme on les appelle communément, sont un groupe de gens sans foyer permanent. Pour eux, la grand-route est le seul foyer dont ils aient besoin, voyageant de par le monde de Cairn dans un pèlerinage de toute une vie pour se nettoyer des tentations du monde et de la corruption de la civilisation. La plus grande part de leur histoire a été perdue depuis des lustres et la plupart des cultures les considèrent comme à peine plus que des vagabonds et des petits voleurs. {^n}{^n} Les Nomades abhorrent la violence et essaieront de l'éviter à tout prix, ce qui a souvent mené à des abus de la part d'individus plus violents.
+tagFactionUser0Rewards1=N/A
+tagFactionUser0Rewards2=N/A
+tagFactionUser0Rewards3=N/A
+tagFactionUser0Rewards4=Vide
+tagFactionUser0Rewards5=Nouvelle Quête {^n}Accès au Vendeur de Faction
+tagFactionUser0Rewards6=Accès à la Table des Primes {^n}Armes de Faction {^n}Armures de Faction {^n}Schémas de Faction
+tagFactionUser0Rewards7=Nouvelle Quête {^n}Augmentations de Faction  {^n}Accessoires de Faction {^n}Assignations de Faction {^n}Schémas de Faction
+tagFactionUser0Rewards8=Augmentations Rares{^n}Mandats de Faction {^n}Armes de Faction d'Élite {^n}Armures de Faction d'Élite
+tagFactionUser1=PNJ neutre
+tagFactionUser1Info=N/A
+tagFactionUser2=Domaine
+tagFactionUser2Info=Quartier général : Domaine {^n}{^n} Chaque fois que des troubles éclatent dans les terres agricoles du Nord, les agriculteurs et leur famille se rallient au Domaine. Ce sens de la communauté s'est avéré plus important que jamais alors que l'humanité fait face à son extinction. {^n}{^n} Avec l'aide de la Légion Noire, le Domaine a été transformé en une véritable forteresse, un lieu de relative sécurité dans un monde ravagé par la mort ; mais avec de puissants ennemis gagnant du terrain dans chaque direction, certains commencent à se demander si le fait de se retrancher dans un lieu fixe était une sage décision. {^n}{^n} Pendant que la Légion Noire est obsédée par les Éthérés et les Chthoniens, les gens du Domaine sont focalisés sur une menace qui les concerne de bien plus près : l'essaim de voraces Dermaptères, qui s'est répandu en rampant et infeste à présent leurs champs abandonnés.
+tagFactionUser2Rewards1=N/A
+tagFactionUser2Rewards2=N/A
+tagFactionUser2Rewards3=N/A
+tagFactionUser2Rewards4=Vide
+tagFactionUser2Rewards5=Accès au vendeur de Faction
+tagFactionUser2Rewards6=Accès à la Table des Primes {^n}Armes de Faction {^n}Armures de Faction {^n}Schémas de Faction
+tagFactionUser2Rewards7=Nouvelle Quête {^n}Augmentations de Faction {^n}Accessoires de Faction {^n}Assignations de Faction {^n}Schémas de Faction
+tagFactionUser2Rewards8=Augmentations Rares {^n}Mandats de Faction {^n}Armes de Faction d'Élite {^n}Armures de Faction d'Élite
+tagFactionUser3=Hommes libres de la Mine Corrigan
+tagFactionUser3Info=Quartier général: Mine Corrigan {^n}{^n} DES MOTS
+tagFactionUser3Rewards1=N/A
+tagFactionUser3Rewards2=N/A
+tagFactionUser3Rewards3=N/A
+tagFactionUser3Rewards4=Vide
+tagFactionUser3Rewards5=N/A
+tagFactionUser3Rewards6=N/A
+tagFactionUser3Rewards7=N/A
+tagFactionUser3Rewards8=N/A
+tagFactionUser4=Exilée
+tagFactionUser4Info=Quartier général : Fort Ikon {^n}{^n} On ne sait pas grand-chose de l'énigmatique Anasteria ni pourquoi elle en sait tant sur les Éthérés et leurs Schémas. Apparemment, elle est arrivée de nulle part, fournissant à la Légion Noire des informations sur l'activité ennemie qui ont sauvé de précieuses vies. {^n}{^n} Nombreux dans le Légion Noire sont ceux qui l'ont désignée comme une sorcière et l'auraient vue volontiers brûler sur le bûcher malgré l'insistance de l'Inquisiteur Creed à la garder en sécurité. 
+tagFactionUser4Rewards1=Vengeance de l'Exilée
+tagFactionUser4Rewards2=Courroux de l'Exilée
+tagFactionUser4Rewards3=Mignons de l'Exilée
+tagFactionUser4Rewards4=Vide
+tagFactionUser4Rewards5=Nouvelle Quête
+tagFactionUser4Rewards6=Nouvelle Quête{^n}Accès à la Table des Primes
+tagFactionUser4Rewards7=Nouvelle Quête {^n}Accès au Vendeur de Faction
+tagFactionUser4Rewards8=Augmentations Rares{^n}Mandats de Faction {^n}Armes de Faction d'Élite {^n}Armures de Faction d'Élite
+tagFactionUser5=Vigile de la Mort
+tagFactionUser5Info=Quartier général : Bastion du Chagrin {^n}{^n} L'Ordre de la Vigile de la Mort représente le dernier lien avec l'art presque perdu de la nécromancie, précieux savoir transmis à ses membres par leur grand maître, Uroboruuk. {^n}{^n} Les membres de l'Ordre ne craignent pas la mort. Au lieu de cela, ils adoptent toutes ses dures leçons, croyant que par la maîtrise de la mort ils pourront devenir plus en phase avec le monde lui-même. {^n}{^n} Ayant connu la persécution aux mains de l'empire pendant des siècles, l'Ordre n'est pas étranger au préjudice et à la controverse, mais il n'a jamais rencontré d'ennemi aussi implacable que les Élus de Kymon. Les Élus, préoccupés uniquement de nettoyer Cairn de la corruption, voient l'Ordre comme un travestissement qui doit être purgé.
+tagFactionUser5Rewards1=Engeances Némésis
+tagFactionUser5Rewards2=Engeances Héros supplémentaires
+tagFactionUser5Rewards3=Extra-engeances
+tagFactionUser5Rewards4=Vide
+tagFactionUser5Rewards5=Accès au vendeur de Faction
+tagFactionUser5Rewards6=Nouvelle Quête {^n}Accès à la Table des Primes {^n}Armes de Faction {^n}Armures de Faction {^n}Schémas de Faction
+tagFactionUser5Rewards7=Nouvelle Quête {^n}Augmentations de Faction {^n}Accessoires de Faction {^n}Assignations de Faction {^n}Schémas de Faction
+tagFactionUser5Rewards8=Augmentations Rares {^n}Mandats de Faction {^n}Armes de Faction d'Élite {^n}Armures de Faction d'Élite
+tagFactionUser6=Morts-Vivants arkoviens
+tagFactionUser6Info= On raconte de nombreux récits tragiques sur les Morts-vivants qui traînent sans fin dans les ruines d'Arkovia. Certains croient qu'ils sont des esprits enfermés dans le royaume mortel, incapables de traverser jusqu'à l'autre monde qui leur est promis. D'autres prétendront qu'il s'agit de l'œuvre de la vile nécromancie, une légion de Morts-vivants maudits pour servir un maître cruel. Peut-être la vérité réside-t-elle quelque part entre les deux. {^n}{^n} Une chose sur laquelle tout le monde peut s'accorder, c'est que les Morts-vivants sont extrêmement dangereux pour les vivants. À ce titre, piller ses propres ruines oubliées est considéré comme une chose à ne pas faire.
+tagFactionUser6Rewards1=Engeances Némésis
+tagFactionUser6Rewards2=Engeances Héros supplémentaires
+tagFactionUser6Rewards3=Extra-engeances
+tagFactionUser6Rewards4=Vide
+tagFactionUser6Rewards5=N/A
+tagFactionUser6Rewards6=N/A
+tagFactionUser6Rewards7=N/A
+tagFactionUser6Rewards8=N/A
+tagFactionUser7=Légion Noire
+tagFactionUser7Info=Quartier général : Fort Ikon {^n}{^n} La Légion Noire est l'élite des forces impériales, les Bannerets de la Mort envoyés en avant pour accomplir la volonté de l'empereur avec de grands préjudices. Des légendes de leur valeur s'entremêlent avec des contes tout aussi ordinaires de leur cruauté et de leur violence. {^n}{^n} Qu'elle soit respectée ou crainte, la Légion Noire fut le seul régiment impérial à fuir la capitale tombée après l'Aube Sinistre et elle pourrait bien représenter le seul espoir de contre-attaquer qui reste à l'humanité.
+tagFactionUser7Rewards1=N/A
+tagFactionUser7Rewards2=N/A
+tagFactionUser7Rewards3=N/A
+tagFactionUser7Rewards4=Vide
+tagFactionUser7Rewards5=Accès à la Table des Primes {^n}Accès au vendeur de Faction
+tagFactionUser7Rewards6=Armes de Faction {^n}Armure de Faction {^n}Schémas de Faction
+tagFactionUser7Rewards7=Nouveau Donjon/Quête {^n}Augmentations de Faction {^n}Assignations de Faction {^n}Schémas de Faction
+tagFactionUser7Rewards8=Augmentations Rares {^n}Mandats de Faction {^n}Armes de Faction d'Élite {^n}Armures de Faction d'Élite
+tagFactionUser8=Élus de Kymon
+tagFactionUser8Info=Quartier général : Bastion du Chagrin {^n}{^n} Les Élus de Kymon sont les adeptes zélés d'Empyrion, le Porteur de Lumière, dont ils croient qu'il reviendra à Cairn dans sa gloire flamboyante et guidera ses Élus vers une nouvelle aube d'ordre et de prospérité. {^n}{^n} Menés par un prêcheur charismatique connu sous le nom de Père Kymon et gardés par leur foi, les Élus sont désireux d'éradiquer toute corruption dans Cairn, que ce soient les viles horreurs chthoniques ou les nécromanciens qui manipulent la mort. A cette fin, ils considèrent que débarrasser le monde de l'Ordre de la Vigile de la Mort est une de leurs plus fondamentales priorités.
+tagFactionUser8Rewards1=Engeances Némésis
+tagFactionUser8Rewards2=Engeances Héros supplémentaires
+tagFactionUser8Rewards3=Extra-engeances
+tagFactionUser8Rewards4=Vide
+tagFactionUser8Rewards5=Accès au vendeur de Faction
+tagFactionUser8Rewards6=Nouvelle Quête {^n}Accès à la Table des primes {^n}Armes de Faction {^n}Armures de Faction {^n}Schémas de Faction
+tagFactionUser8Rewards7=Nouvelle Quête {^n}Augmentations de Faction {^n}Assignations de Faction {^n}Schémas de Faction
+tagFactionUser8Rewards8=Augmentations Rares {^n}Mandats de Faction {^n}Armes de Faction d'Élite {^n}Armures de Faction d'Élite
+tagFactionUser9=Utilisateur9
+tagFactionUser9Info=
+tagFactionUser9Rewards1=Engeances Némésis
+tagFactionUser9Rewards2=Engeances Héros supplémentaires
+tagFactionUser9Rewards3=Extra-engeances
+tagFactionUser9Rewards4=Vide
+tagFactionUser9Rewards5=Récompenses
+tagFactionUser9Rewards6=Récompenses
+tagFactionUser9Rewards7=Récompenses
+tagFactionUser9Rewards8=Récompenses
+tagFactionUser10=Utilisateur 10
+tagFactionUser10Info=
+tagFactionUser10Rewards1=Engeances Némésis
+tagFactionUser10Rewards2=Engeances Héros supplémentaires
+tagFactionUser10Rewards3=Extra-engeances
+tagFactionUser10Rewards4=Vide
+tagFactionUser10Rewards5=Récompenses
+tagFactionUser10Rewards6=Récompenses
+tagFactionUser10Rewards7=Récompenses
+tagFactionUser10Rewards8=Récompenses
+tagFactionUser11=User11
+tagFactionUser11Info=
+tagFactionUser11Rewards1=Engeances Némésis
+tagFactionUser11Rewards2=Engeances Héros supplémentaires
+tagFactionUser11Rewards3=Extra-engeances
+tagFactionUser11Rewards4=Vide
+tagFactionUser11Rewards5=Récompenses
+tagFactionUser11Rewards6=Récompenses
+tagFactionUser11Rewards7=Récompenses
+tagFactionUser11Rewards8=Récompenses
+tagFactionUser12=Utillisateur12
+tagFactionUser12Info=
+tagFactionUser12Rewards1=Engeances Némésis
+tagFactionUser12Rewards2=Engeances Héros supplémentaires
+tagFactionUser12Rewards3=Extra-engeances
+tagFactionUser12Rewards4=Vide
+tagFactionUser12Rewards5=Récompenses
+tagFactionUser12Rewards6=Récompenses
+tagFactionUser12Rewards7=Récompenses
+tagFactionUser12Rewards8=Récompenses
+tagFactionUser13=User13
+tagFactionUser13Info=
+tagFactionUser13Rewards1=Engeances Némésis
+tagFactionUser13Rewards2=Engeances Héros supplémentaires
+tagFactionUser13Rewards3=Extra-engeances
+tagFactionUser13Rewards4=Vide
+tagFactionUser13Rewards5=Récompenses
+tagFactionUser13Rewards6=Récompenses
+tagFactionUser13Rewards7=Récompenses
+tagFactionUser13Rewards8=Récompenses
+tagFactionUser14=User14
+tagFactionUser14Info=
+tagFactionUser14Rewards1=Engeances Némésis
+tagFactionUser14Rewards2=Engeances Héros supplémentaires
+tagFactionUser14Rewards3=Extra-engeances
+tagFactionUser14Rewards4=Vide
+tagFactionUser14Rewards5=Récompenses
+tagFactionUser14Rewards6=Récompenses
+tagFactionUser14Rewards7=Récompenses
+tagFactionUser14Rewards8=Récompenses
+tagFactionUser15=User15
+tagFactionUser15Info=
+tagFactionUser15Rewards1=Engeances Némésis
+tagFactionUser15Rewards2=Engeances Héros supplémentaires
+tagFactionUser15Rewards3=Extra-engeances
+tagFactionUser15Rewards4=Vide
+tagFactionUser15Rewards5=Récompenses
+tagFactionUser15Rewards6=Récompenses
+tagFactionUser15Rewards7=Récompenses
+tagFactionUser15Rewards8=Récompenses
+tagFactionUnknown=Inconnu
+tagFactionStateEnemy5=Némésis
+tagFactionStateEnemy4=Haï
+tagFactionStateEnemy3=Honni
+tagFactionStateEnemy2=Méprisé
+tagFactionStateEnemy1=Traité avec hostilité
+tagFactionStateNeutral=Toléré
+tagFactionStateFriend1=Ami
+tagFactionStateFriend2=Respecté
+tagFactionStateFriend3=Inspire la Confiance
+tagFactionStateFriend4=Honoré
+tagFactionStateFriend5=Révéré
+tagFactionStateNemesis=Némésis
+tagFactionStateHated=Détesté
+tagFactionStateReviled=Insulté
+tagFactionStateHostile=Traité avec hostilité
+tagFactionStateUnfriendly=Traité avec inimitié
+tagFactionStateSuspicious=Traité avec méfiance
+tagFactionStateFriendly=Traité amicalement
+tagFactionStateTrusted=Traité avec confiance
+tagFactionStateHonored=Honoré
+tagFactionStateRevered=Révéré
+
+#Faction Window
+
+tagFactionUpdated=Réputation mise à jour
+tagFactionStatusChange={^W}Vous avez obtenu le statut : {%s0} {^W}avec : {^B}{%s1}
+tagFactionNegativeStatusChange={^W}Vous êtes devenu {%s0} {^W}avec : {^B}{%s1}
+tagFactionDoorLocked={^R}Votre réputation avec : {^B}{%s0} {^R}ne vous permet pas de pénétrer ici
+tagFactionWindowName=Factions
+tagFactionWindowFactionTitle={%s0} - {%s1}
+tagFactionReputation=Réputation acquise avec des{^n}
+tagFactionReputationKilling=Victimes : {^W}{%s0}{^n}
+tagFactionReputationBounties=Primes{^n}
+tagFactionReputationQuests=Quêtes{^n}
+tagFactionDiscountPositive=Rabais de Faction : {^R}+{%.0f0}%
+tagFactionDiscountNegative=Rabais de Faction : {^G}-{%.0f0}%
+tagFactionDiscountZero=Rabais de Faction : {^S}{%.0f0}%
+tagFactionProgress=Requis pour {%s0}{^W} : {^B}{%d1}
+tagFactionKillingGain=Réputation acquise en tuant :
+tagFactionKillingLoss=Infamie gagnée en tuant :
+tagFactionRewardsTier={^W}Débloque :
+tagFactionKillCommon=Monstres ordinaires
+tagFactionKillChampion=Monstres champions
+tagFactionKillHero=Monstres héros
+tagFactionKillBoss=Monstres Boss
+tagFactionBonusRep=Bonus de réputation : {%d0}%
+tagFactionBonusInfamy=Bonus d'infamie : {%d0}%
+
+#Achievements
+
+tagAchievements=Succès
+tagAchievementUnlocked=Succès déverrouillé !
+tagAchievementsComplete={%d0} / {%d1}
+
+#HUD
+
+tagHUDMenu=Boutons du menu
+tagHUDAttacks=Attaques actuelles
+tagHUDSkills=Empl. rapides
+tagHUD_PotionHealth=Tonique de remise sur pied
+tagHUD_PotionEnergy=Élixir d'esprit
+
+tagPortraitKick=Rejet du serveur
+tagPortraitTrade=Commercer
+tagPortraitRemove=Supprimer du groupe
+tagPortraitChat=Tchat
+tagPortraitDisband=Renvoyer le familier
+
+tagHUDHealth_Head=({%t0}/{%t1})
+tagHUDPlayerHealth_Head={%t0}({%t1}/{%t2})
+tagHUDRoll_Health={%s0}  {%d1} / {%d2}
+tagHUDRoll_XP={%s0} {%d1}  ~  {%s2} {%d3}
+tagHUDXP_Current=Expérience
+tagHUDXP_Next=Niveau suivant
+tagMaxLevel=Niveau maximum atteint
+tagSkillRefreshTime=-{%.1f0} {%z1} à tous les Rechargements de compétences actives actuellement
+tagSkillRefreshTimeInfinate=Réduit le temps de rechargement de 100%
+tagSkillRefreshBaseSkillTime=-{%.1f0} {%z1} au rechargement de Compétences de base
+
+tagSkillUnusableLowMana=Énergie trop faible
+tagSkillUnusableCooldown=Rechargement de la compétence
+tagSkillUnusableConfiguration=La compétence nécessite un équipement
+tagSkillUnusableNotLearned=Compétence non apprise
+
+tagHUD_Riftgate=Ouvre un Portail dans le voile de la réalité et sort par n'importe quelle autre Faille connue.
+tagHUD_EmptySlot_R=Empl. rapide vide
+tagHUD_EmptySlot_R1=Clic droit pour assigner une compétence.
+tagHUD_LeftMouse_R=Assigner au Clic gauche
+tagHUD_LeftMouse_R1=C'est votre attaque primaire. Faites un Clic droit pour assigner une compétence différente.
+tagHUD_RightMouse_R=Assigner au Clic droit
+tagHUD_RightMouse_R1=C'est votre attaque secondaire. Faites un Clic droit pour assigner une compétence différente.
+tagHUD_CooldownLong=^W59m
+tagHUD_CooldownSecondsW=^W{%d0}
+tagHUD_CooldownSecondsY=^Y{%d0}
+tagHUD_CooldownSecondsR=^R{%d0}
+tagHUD_CompassToggleName=Basculer sur la carte de la boussole
+tagHUD_CompassToggleDescription=Cliquez ici pour changer la taille de la carte de la boussole ou la minimiser.
+tagHUD_LootMode=Filtre de butin
+tagHUD_LootHide=Basculer Afficher/Masquer les objets
+tagHUD_LootModeDescription=Ajuste les options pour quel butin doit être affiché. L'option Afficher/Masquer les objets peut être utilisée pour masquer toutes les ramassages pendant une rencontre occupée, puis les afficher à nouveau une fois terminées.
+tagHUD_LootModeToggleOff=Montrer les Objets {^D}Désactivé
+tagHUD_LootModeToggleCommon=Montrer les Objets Commun et +
+tagHUD_LootModeToggleMagic=Montrer les Objets {^Y}Magique et +
+tagHUD_LootModeToggleRare=Montrer les Objets {^G}Rare et +
+tagHUD_LootModeToggleEpic=Montrer les Objets {^B}Épique et +
+tagHUD_LootModeToggleLegendary=Montrer les Objets {^P}Légendaire et -
+
+tagHUD_LootModeToggleDescription=Cliquez pour changer le type de ramassage que l'on montre automatiquement.
+
+tagHUD_LeftMouse=G
+tagHUD_RightMouse=D
+
+tagHUDPortraitLevelUP=Niveau supérieur
+tagHUDWeaponSwap=Changer d'Armes
+tagHUDWeaponSwapRoll=Bascule entre deux configurations d'armes équipées. Vous devez avoir un second set d'armes équipé.
+tagHUDWeaponSwapHelpRoll=Avant de pouvoir utiliser le basculement d'armes, vous devez équiper un second set d'armes dans les emplacements alternatifs d'armes de la fenêtre de personnage.
+
+tagHUDRiftgateButton=Voyage par Faille
+tagHUDRiftgateButtonRoll=Déchire une petite porte d'entrée dans la faille et sort par n'importe quel portail de faille précédemment découvert ou par un portail créé par un autre membre du groupe.
+
+tagHUDQuickslot=Empl. rapide non assigné
+tagHUDQuickslotRoll=Clic droit pour attribuer une compétence.
+tagHUDQuickslotLM=Assignation Clic gauche
+tagHUDQuickslotLMRoll=Attaque primaire. Clic droit pour attribuer une compétence.
+tagHUDQuickslotRM=Assignation Clic droit
+tagHUDQuickslotRMRoll=Attaque secondaire. Clic droit pour attribuer une compétence.
+tagHUDQuickslotBarSwap=Basculer sur la barre d'empl. rapide alternative.
+
+tagHUDButtonCharacter=Fenêtre de Personnage
+tagHUDButtonSkills=Fenêtre des Compétences
+tagHUDButtonGroup={^O}Fenêtre du Groupe
+tagHUDButtonQuest=Fenêtre du Codex
+tagHUDButtonMap=Fenêtre de la Carte
+tagHUDButtonChat=Fenêtre de discussion
+tagHUDButtonFaction=Fenêtre de Faction
+tagHUDButtonAchievements=Fenêtre des Succès
+tagHUDButtonOptions=Menu des Options
+
+tagHUDButtonRollCharacter=Attributs, inventaire et gestion de l'équipement du personnage.
+tagHUDButtonRollSkills=Sélection des classes, assignation des compétences et dévotion.
+tagHUDButtonRollGroup=Inviter des joueurs et gérer le groupe.
+tagHUDButtonRollQuest=Journal des quêtes, connaissance, autels de dévotion et aide en jeu.
+tagHUDButtonRollMap=Carte locale détaillée et carte du monde.
+tagHUDButtonRollChat=Envoyer un message à un autre joueur dans la partie en cours.
+tagHUDButtonRollFaction=Détails sur les diverses factions qui habitent Cairn.
+tagHUDButtonRollAchievements=Succès accomplis.
+tagHUDButtonRollOptions=Sauvegarder, quitter et configurer les options de jeu.
+
+#LootFilterUI
+tagLootFilterWindowTitle=Filtre de butin
+tagLootFilterToggleOn=Afficher les objets
+tagLootFilterToggleOff=Masquer les objets
+tagLootFilterTitle01=Qualité
+tagLootFilterTitle02=Type
+tagLootFilterTitle03=Dégâts
+tagLootFilterTitle04=Personnage
+
+tagLootFilterReset=Par défaut
+tagLootFilterResetInfo=Réinitialise les réglages de filtrage à leurs valeurs par défaut.
+tagLootFilterResetConfirm=Réinitialiser les réglages de filtrage à leurs valeurs par défaut  ?
+
+tagLootFilter01=Ordinaire
+tagLootFilter01Info=Affiche/Masque les objets de Qualité ordinaire Blancs.
+tagLootFilter02=Magique
+tagLootFilter02Info=Affiche/Masque les objets de Qualité magique Jaunes.
+tagLootFilter03=Rare
+tagLootFilter03Info=Affiche/Masque les objets de Qualité rare Verts. Ceci inclut les objets qui sont lâchés par des ennemis spécifiques, aussi connus sous le nom d'Inhabituels de monstres.
+tagLootFilter04=Inhabituel de monstre
+tagLootFilter04Info=Affiche/Masque  qui sont lâchés par des ennemis spécifiques, aussi connus sous le nom d'Inhabituels de monstres.{^n}{^n}Utilisez ce filtre si vous souhaitez ne voir que des Objets rares qui sont classés comme Inhabituels de monstres en cochant également le Filtre "rare".
+tagLootFilter05=Épique
+tagLootFilter05Info=Affiche/Masque les objets uniques de Qualité épique Bleus. Ceci inclut les objets qui font partie d'Ensembles (Sets).
+tagLootFilter06=Légendaire
+tagLootFilter06Info=Affiche/Masque les objets uniques de Qualité légendaire Violets. Ceci inclut les objets qui font partie d'Ensembles (Sets).
+tagLootFilter07=Ensembles
+tagLootFilter07Info=Affiche/Masque les objets qui font partie d'Ensembles (Sets). Utilisez ce filtre si vous souhaitez ne voir que des objets Épiques et Légendaires qui font partie d'ensembles (sets) en cochant également les filtres Épique et Légendaire.
+tagLootFilter08=Uniques
+tagLootFilter08Info=Cochez cette case pour toujours afficher les objets Uniques (de qualité Épique et Légendaire) indépendamment de vos réglages de Filtre.{^N}{^N}Utilisez ce réglage lorsque vous souhaitez viser des objets particuliers Magiques, Rares ou Inhabituels de monstres mais souhaitez encore collecter chaque Unique qui tombe.
+
+tagLootFilter09=Mêlée 1 m.
+tagLootFilter09Info=Affiche/Masque les Haches, Masses et Épées à une main.
+tagLootFilter10=Mêlée 2 m.
+tagLootFilter10Info=Affiche/Masque les Haches, Masses et Épées à deux mains.
+tagLootFilter11=À distance 1 m.
+tagLootFilter11Info=Affiche/Masque les Armes à feu à une main.
+tagLootFilter12=À distance 2 m.
+tagLootFilter12Info=Affiche/Masque les Armes à feu et les Arbalètes à deux mains.
+tagLootFilter13=Dague/Sceptre
+tagLootFilter13Info=Affiche/Masque les Dagues et Sceptres.
+tagLootFilter14=Focalisateurs main gauche
+tagLootFilter14Info=Affiche/Masque les Focalisateurs de main gauche.
+tagLootFilter15=Bouclier
+tagLootFilter15Info=Affiche/Masque les Boucliers.
+tagLootFilter16=Armure
+tagLootFilter16Info=Affiche/Masque les Casques, épaulières, Cuirasses, Pantalons, Bottes et Gants.
+tagLootFilter17=Bijoux
+tagLootFilter17Info=Affiche/Masque Amulettes, Anneaux, Médailles et Ceintures.
+
+tagLootFilter18=Physique
+tagLootFilter18Info=Affiche les objets qui augmentent les dégâts Physiques ou de Traumatisme interne.
+tagLootFilter19=Perforant
+tagLootFilter19Info=Affiche les objets qui augmentent les dégâts Perforants.
+tagLootFilter20=Feu
+tagLootFilter20Info=Affiche les objets qui augmentent les dégâts de Feu ou de Brûlure.
+tagLootFilter21=Froid
+tagLootFilter21Info=Affiche les objets qui augmentent les dévêts de Froid ou de Brûlure de gel.
+tagLootFilter22=Foudre
+tagLootFilter22Info=Affiche les objets qui augmentent les dégâts de Foudre ou d'Électrocution.
+tagLootFilter23=Acide
+tagLootFilter23Info=Affiche les objets qui augmentent les dégâts d'Acide ou de Poison.
+tagLootFilter24=Vitalité
+tagLootFilter24Info=Affiche les objets qui augmentent les dégâts de Vitalité ou de Déclin de vitalité.
+tagLootFilter25=Éther
+tagLootFilter25Info=Affiche les objets qui augmentent les dégâts d'Éther.
+tagLootFilter26=Chaos
+tagLootFilter26Info=Affiche les objets qui augmentent  les dégâts de Chaos.
+tagLootFilter27=Saignement
+tagLootFilter27Info=Affiche les objets qui augmentent  les dégâts de Saignement.
+tagLootFilter28=Bonus de familiers
+tagLootFilter28Info=Affiche les objets qui procurent des bonus aux Familiers.
+
+tagLootFilter29=Mes Maîtrises
+tagLootFilter29Info=Affiche les objets qui augmentent les rangs des Compétences de vos Maîtrises sélectionnées.
+tagLootFilter30=Autres Maîtrises
+tagLootFilter30Info=Affiche les objets qui augmentent les rangs des Compétences de Maîtrises que votre personnage n'a pas sélectionnées.
+tagLootFilter31=Vitesse
+tagLootFilter31Info=Affiche les objets qui augmentent la Vitesse d'attaque, de Sort ou de Déplacement.
+tagLootFilter32=Rechargement réduit
+tagLootFilter32Info=Affiche les objets qui réduisent le temps de Rechargements des Compétences.
+tagLootFilter33=Dégâts critiques
+tagLootFilter33Info=Affiche les objets qui augmentent les Dégâts critiques.
+tagLootFilter34=Capacité offensive
+tagLootFilter34Info=Affiche les objets qui augmentent la Capacité offensive.
+tagLootFilter35=Capacité défensive
+tagLootFilter35Info=Affiche les objets qui augmentent la Capacité défensive.
+tagLootFilter36=Résistances
+tagLootFilter36Info=Affiche les objets qui augmentent les Résistances aux Dégâts, au Contrôle de foule ou à des effets exotiques tels que la Réflexion de dégâts ou la Durée des Dégâts réduits avec le temps.
+tagLootFilter37=Représailles
+tagLootFilter37Info=Affiche les objets qui augmentent les dégâts de Représailles.
+
+tagLootFilter38=Composant
+tagLootFilter38Info=Affiche/Masque les Composants.
+tagLootFilter39=Toujours les Doubles Rares
+tagLootFilter39Info=Cocher cette case pour toujours afficher les objets Doubles Rares (de qualité Rare et de Monstre non-fréquent) sans quels que soient vos réglages de Filtre.{^N}{^N}Utilisez ce réglage pour quand vous souhaitez ne rechercher que les objets les Rares ou de Monstres non-fréquents les plus puissants.
+
+
+
+#SkillUI
+
+tagSkillUndoClass=Annuler classe
+tagSkillUndoPoints=Annuler points
+tagSkillUndoGeneric=Annuler
+tagSkillClassSelect=Choisir une classe
+tagCurrentLevel={^G}Niveau actuel : {%d0}
+tagNextLevel=Niveau suivant : {%d0}
+tagSkillClassSelectInfo=Choisissez une classe d'entraînement{^n}{^n} Une fois votre choix fait, et la fenêtre de compétence quittée, votre choix sera permanent.
+tagSkillReq01=Nécessite {%d0} points supplémentaires en {%t1}.
+tagSkillReq01Singular=Nécessite {%d0} point supplémentaire en {%t1}.
+tagSkillReq02=Nécessite {%d0} points supplémentaires en {%t1} et la compétence {%s2}.
+tagSkillReq02Singular=Nécessite {%d0} point supplémentaire en {%t1} et la compétence {%s2}.
+tagSkillReq03={^M}Nécessite la compétence {%s1}.
+tagSkillPointsRemain={%d0} Points restants
+tagSkillPointsRemainSingular={%d0} Point restant
+
+#Character
+
+GenderFormat={%t0}{%0a1}
+
+tagInventoryBag=Sac d'inventaire
+tagInventoryBagDescription=Accroît la taille de votre inventaire
+
+tagStatsResistanceTitle=Résistances
+tagStatsResistance01=Feu
+tagStatsResistance01Desc=Résistance aux attaques incendiaires qui infligent des dégâts de feu ou de brûlure.
+tagStatsResistance02=Foudre
+tagStatsResistance02Desc=Résistance aux attaques électriques et aux sorts qui utilisent des dégâts de foudre ou d'électrocution.
+tagStatsResistance03=Froid
+tagStatsResistance03Desc=Résistance aux attaques de glace et aux sorts qui infligent des dégâts de froid ou de brûlures de gel.
+tagStatsResistance04=Poison et Acide
+tagStatsResistance04Desc=Résistance aux poisons nauséabonds, aux puissants acides et aux sorts qui infligent des dégâts d'acide ou de poison.
+tagStatsResistance05=Perforation
+tagStatsResistance05Desc=Résistance à la perforation d'armure de projectiles et de lames qui infligent des dégâts perforants.
+tagStatsResistance06=Saignement
+tagStatsResistance06Desc=Résistance aux saignements dus aux lacérations et aux sorts qui infligent des dégâts de saignement.
+tagStatsResistance07=Vitalité
+tagStatsResistance07Desc=Résistance aux incantations drainant la vitalité qui infligent des dégâts de vitalité ou de dégradation de vitalité.
+tagStatsResistance08=Éther
+tagStatsResistance08Desc=Résistance aux attaques et sorts qui infligent des dégâts d'éther.
+tagStatsResistance09=Étourdissement
+tagStatsResistance09Desc=Réduit la durée des attaques et sorts assommants qui vous laissent dans l'incapacité de réagir.
+tagStatsResistance10=Chaos
+tagStatsResistance10Desc=Résistance aux dégâts de chaos infligés par les énergies instables de l'univers lui-même, souvent utilisées par les êtres chthoniens.
+tagStatsResistance11=Renversement
+tagStatsResistance11Desc=Résistance au renversement
+tagStatsResistance12=Perturbation
+tagStatsResistance12Desc=Résistance aux effets qui interrompent l'usage des sorts et capacités.
+
+tagCharStatsTab1Name=Primaire
+tagCharStatsTab2Name=Secondaire
+tagCharAttributeTitle=Attributs
+tagCharAttributeName01=Malice
+tagCharAttributeName02=Physique
+tagCharAttributeName03=Esprit
+tagCharAttributeName04=Santé
+tagCharAttributeName05=Énergie
+
+tagCharAttributeDescription01=Un intellect malin améliore votre technique de combat, augmentant les dégâts physiques et perforants. La malice augmente aussi vos chances d'infliger des attaques de mêlée et à distance, et de toucher les ennemis de façon critique.
+
+tagCharAttributeDescription02=Le conditionnement physique vous donne la force de combattre avec du matériel plus lourd et l'agilité d'éviter les attaques ennemies. Le physique augmente aussi votre résistance à la douleur, votre capacité à régénérer vos blessures et la capacité d'éviter d'être grièvement touché.
+
+tagCharAttributeDescription03=Un esprit fort augmente le flux d'énergie dans votre être et vous permet de supporter le fardeau spirituel qu'est l'utilisation d'objets enchantés plus puissants. L'esprit grossit aussi les dégâts des attaques magiques.
+
+tagCharAttributeDescription04=La santé est une mesure de la douleur et des dégâts que vous pouvez soutenir avant de vous effondrer ou de mourir.
+
+tagCharAttributeDescription05=L'énergie est une mesure de la capacité de votre esprit à soutenir des énergies magiques. Plus cette capacité est élevée, plus grand est le réservoir d'énergie dans lequel vous pouvez immédiatement puiser avant d'avoir à attendre qu'elle se régénère.
+
+tagCharBonusHealth=Bonus santé :
+tagCharBonusHealthRegen=Bonus Régén. Santé :
+tagCharBonusEnergy=Bonus Énergie :
+tagCharBonusEnergyRegen=Bonus Régén. Énergie :
+
+tagCharBonusPhysicalDmg=Bonus dégâts Physiques
+tagCharBonusPierceDmg=Bonus dégâts Perforants
+tagCharBonusMagicalDmg=Bonus dégâts Magiques
+tagCharBonusDurDmg=Bonus dégâts de Durée
+
+tagCharAttributeIncrement01=Chaque point augmente votre Malice de 10.
+tagCharAttributeIncrement02=Chaque point augmente votre Physique de 10.
+tagCharAttributeIncrement03=Chaque point augmente votre Esprit de 10.
+tagCharAttributeIncrement04=Chaque point augmente votre Santé de 50.
+tagCharAttributeIncrement05=Chaque point augmente votre Énergie de 50.
+
+tagCharStatsOAAlert=Capacité Offensive {^B}(?)
+tagCharStatsOA=Capacité Offensive
+tagCharStatsOALast=Dernière Attaque : 
+tagCharStatsOAHit=Chances de Toucher :
+tagCharStatsOACrit=Chances de Crit. :
+tagCharStatsOADescription=Une plus haute capacité offensive (CO) augmente vos chances d'infliger avec succès des attaques ou des sorts, de marquer des coups critiques et les dégâts des coups critiques. Une capacité offensive plus basse que la capacité défensive de vos adversaires augmentera grandement le risque de les manquer (vos chances de toucher ne peuvent descendre en dessous de 55%). La capacité offensive est affectée par les compétences, les objets et la malice.
+
+tagCharStatsDAAlert=Capacité Défensive {^B}(?) 
+tagCharStatsDA=Capacité Défensive
+tagCharStatsDALast=Dernier attaqué par : 
+tagCharStatsDAHit=Risques d'être touché :
+tagCharStatsDACrit=Risques de subir Crit. :
+tagCharStatsDADescription=Une plus haute capacité défensive (CD) vous permet d'éviter les coups ennemis plus souvent (au minimum, 55% de risque d'être touché(e)), diminue les risques de subir un coup critique et réduit les dégâts subis quand vous êtes touché de manière critique. La capacité défensive est affectée par les compétences, les objets et le physique.
+
+tagOverCapResist={%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% au-delà du maximum)
+tagOverCapResistInt={%s0} {^b}{%d1}% {^s}(+{%d2}% au-delà du maximum)
+
+tagRollFormat01={%s0} {^b}{%d1}
+tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
+tagRollFormat03={%s0}     {%+.0f1}%
+tagRollFormat04={%s0}  ({^y}{%t1}{^w})
+tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
+tagRollFormat06={%s0} {^b}{%.0f1}%
+tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
+tagRollFormat08={%s0} {^b}{%.2f1}
+tagRollFormat09={%s0} {^b}+ {%.1f1}%
+tagRollFormat10={%s0} {^b}{%.0f1} - {%.0f2}
+tagRollFormat11={%s0} {^b}{%d1} - {%d2}
+tagRollFormat12={%s0} {^b}{%.0f1}% - {%.0f2}%
+tagRollFormat13={%s0} {^b}{%.1f1}%
+tagRollFormat14={%s0} {^b}{%.0f1}
+tagRollFormat15={%s0} {^b}+ {%.1f1}% + {%.0f2}
+tagRollFormat16={%s0} {^s}{%.2f1} {^b}- {%.2f2}
+tagRollFormat17={%s0} {^b}{%.1f1}% + {%.2f2}
+tagRollFormat18={^b}{%.0f0} - {%.0f1}
+tagRollFormat19={^b}{%.0f0}
+tagRollFormat20={%s0} {^b}{%d1}%
+tagFormatPercent={%.0f}%
+tagFormatPlusPercent=+ {%.0f}%
+tagFormatMinusPercent=- {%.0f}%
+tagFormatPlus=+ {%d0}
+tagFormatDash={%d0} - {%d1} 
+tagFormatDashPercent={%d0}% - {%d1}%
+tagCharPointAvailable={^Y}{%d0}{^W} Point disponible
+tagCharPointsAvailable={^Y}{%d0}{^W} Points disponibles
+tagCharLevel=Niveau {%d0}
+tagCharXP=EXP : {%t0}
+tagCharLevelAndClass={%t1} : niveau {%d0}
+
+tagCharRollLeftHand=Main gauche
+tagCharRollRightHand=Main droite
+
+tagInfoPage=Page d'informations :
+
+tagTimePlayedName=Temps de jeu
+tagTimePlayedNumber={%d0} : {%d1} : {%d2}
+
+tagCharHeaderResistance=Résistances
+tagCharHeaderDefense=Stats Défensives
+tagCharHeaderOffense=Stats Offensives
+tagCharHeaderCombat=Stats de Combat
+tagCharHeaderDPS=Dégâts par Coup
+tagCharHeaderCharacter=Personnage
+tagCharHeaderPhysical=Physique
+tagCharHeaderMagical=Magique
+tagCharHeaderPets=Familiers
+tagCharHeaderDefenseSection=Défense
+tagCharHeaderRetaliation=Représailles
+tagCharHeaderStats=Stats.
+tagCharHeaderMisc=Divers
+
+tagCharStatsDPSTitle=Dégâts par Seconde
+tagCharStatsDPS=Dégâts par Seconde {^b}(?)
+tagCharStatsDPSWeapon=Attaque armée
+tagCharStatsDPSDescription=Dégâts moyens par seconde pour les capacités des boutons gauche et droit de la souris contre une cible simple, modifiés par un rechargement et tous les bonus de l'équipement et des compétences. Ne prend pas en compte les défenses ennemies.
+tagCharStatsDPSRightDescription=Rupture de dégâts pour la capacité du bouton droit de la souris contre une seule cible, modifiée par tous les bonus de l'équipement et des compétences. Ne prend pas en compte les défenses ennemies.
+tagCharStatsDPSLeftDescription=Rupture de dégâts pour la capacité du bouton gauche de la souris contre une seule cible, modifiée par tous les bonus de l'équipement et des compétences. Ne prend pas en compte les défenses ennemies.
+
+tagCharStatsArmorTotalAlert=Taux d'Armure {^B}(?)
+tagCharStatsArmorTotal=Taux d'Armure
+tagCharStatsAbsorption=Absorption d'Armure
+tagCharStatsArmorTotalDescription=Plus votre taux d'armure est élevé, moins vous subirez de dégâts d'attaques physiques. Le bonus est la valeur ajoutée par les objets non-armures et est divisé uniformément entre vos emplacements d'armure.
+tagCharStatsHitArmor=Chances de Toucher
+tagCharStatsArmorUnprotected=Sans protection
+tagCharStatsArmorNA=N/A
+tagCharStatsArmorBonus=Bonus :
+tagCharStatsArmorHead=Tête :
+tagCharStatsArmorChest=Torse :
+tagCharStatsArmorArms=Bras :
+tagCharStatsArmorLegs=Jambes :
+tagCharStatsArmorJewelry=Bijoux :
+tagCharStatsArmorFeet=Pieds :
+tagCharStatsArmorWaist=Taille :
+tagCharStatsArmorShoulders=Épaules :
+
+tagFormulaLearned=Schéma appris
+tagFormulaLearn01=Vous avez appris à fabriquer {%t0}
+tagFormulaLearn02={^R}Vous avez déjà appris ce schéma
+tagFormulaLearn03={^R}[Déjà appris]
+
+tagItemCompareEquipped={^R}Actuellement équipé
+tagItemCompareVendor=Objet à vendre
+tagItemCompareInventory=Objet dans l'inventaire
+tagItemCompareGround=Objet au sol
+tagItemInsufficientStatus={^M}Statut de faction insuffisant
+
+
+#Char Stats Tab 2
+
+tagCharStatsMaximumSpeed=Vitesse maximum
+
+#Character
+tagCharStatsAttacksPerSecond=Attaques par seconde
+tagCharStatsAttacksPerSecondInfoo=Les attaques par seconde avec votre arme, incluant les bonus.
+tagCharStatsRunSpeed=Vitesse de Course
+tagCharStatsRunSpeedInfo=La vitesse relative à laquelle votre personnage peut courir à la base ^OVitesse totale incluse.
+tagCharStatsCritDmg=Dégâts Critiques
+tagCharStatsCritDmgInfo=Le pourcentage de bonus aux dégâts de coup critique. La chance de frappe critique est influencée par votre capacité offensive en comparaison de la capacité défensive de votre cible.
+tagCharStatsLifeRegen=Régénération de Santé
+tagCharStatsLifeRegenInfo=Le taux auquel votre santé se régénère pendant un combat. Les bonus en pourcentages n'affectent que la régénération à partir de l'équipement et des compétences, et non la régénération de base qui est basée sur le physique.
+tagCharStatsEnergyRegen=Régénération d'Énergie
+tagCharStatsEnergyRegenInfo=Le taux auquel votre énergie se régénère pendant le combat. Les bonus en pourcentages n'affectent que la régénération à partir de l'équipement et des compétences, et non la régénération de base qui est basée sur l'esprit.
+tagCharStatsEnergyAbsorption=Absorption d'Énergie
+tagCharStatsEnergyAbsorptionInfo=Le pourcentage auquel l'énergie dépensée en attaques et sorts qui vous frappent régénéreront vos propres réserves d'énergie.
+tagCharStatsConstitution=Bonus de Constitution
+tagCharStatsConstitutionInfo=Le pourcentage de bonus de votre constitution maximale.
+tagCharStatsExpGainedBonus=Expérience Gagnée
+tagCharStatsExpGainedBonusInfo=Le pourcentage de bonus à toute expérience gagnée en tuant des monstres.
+tagCharStatsLightRadiusBonus=Rayon Lumineux
+tagCharStatsLightRadiusBonusInfo=Le pourcentage de bonus de rayon lumineux autour de votre personnage.
+tagCharStatsAllSkillsBonus=Toutes les Compétences
+tagCharStatsAllSkillsBonusInfo=Bonus à toutes les compétences de vos maîtrises.
+tagCharStatsSoldierSkillsBonus=Compétences : Soldat
+tagCharStatsSoldierSkillsBonusInfo=Bonus à toutes les compétences apprises dans la maîtrise de Soldat
+tagCharStatsDemoSkillsBonus=Compétences : Démolisseur
+tagCharStatsDemoSkillsBonusInfo=Bonus à toutes les compétences apprises dans la maîtrise de Démolisseur
+tagCharStatsOccuSkillsBonus=Compétences : Occultiste
+tagCharStatsOccuSkillsBonusInfo=Bonus à toutes les compétences apprises dans la maîtrise d'Occultiste
+tagCharStatsNightbladeSkillsBonus=Compétences : Lame de nuit
+tagCharStatsNightbladeSkillsBonusInfo=Bonus à toutes les compétences apprises dans la maîtrise de Lame de la nuit
+tagCharStatsArcanistSkillsBonus=Compétences : Arcaniste
+tagCharStatsArcanistSkillsBonusInfo=Bonus à toutes les compétences apprises dans la maîtrise d'Arcaniste
+tagCharStatsShamanSkillsBonus=Compétences : Chaman
+tagCharStatsShamanSkillsBonusInfo=Bonus à toutes les compétences apprises dans la maîtrise de Chaman
+
+#Physical
+tagCharStatsAttackSpeed=Vitesse d'Attaque
+tagCharStatsAttackSpeedDescription=La vitesse d'attaque relative de votre arme à la base Vitesse totale incluse. Les armes plus lentes gagnent moins de pourcentage de bonus de Vitesse d'Attaque.
+tagCharStatsAvgDmg=Dégâts d'Arme(s)
+tagCharStatsAvgDmgDescription=Les dégâts infligés par coup avec vos attaques armées, bonus inclus.
+
+tagCharStatsPhysicalAbsDmg=Dégâts Physiques
+tagCharStatsPhysicalAbsDmgInfo=Les dégâts physiques infligés par touche avec vos attaques armées, bonus inclus.
+tagCharStatsPhysicalPercentDmg=Modif. Physique
+tagCharStatsPhysicalPercentDmgInfo=Le pourcentage de bonus à tous les dégâts physiques infligés par les attaques et les sorts, bonus de malice exclu. Tous dégâts inclus.
+
+tagCharStatsPierceAbsDmg=Dégâts Perforants
+tagCharStatsPierceAbsDmgInfo=Les dégâts perforants infligés par touche avec vos attaques armées, bonus inclus.
+tagCharStatsPiercePercentDmg=Modif. Perforants
+tagCharStatsPiercePercentDmgInfo=Le pourcentage de bonus à tous les dégâts perforants infligés par les attaques et les sorts, bonus de malice exclu. Tous dégâts inclus.
+
+tagCharStatsBleedAbsDmg=Dégâts de Saignement
+tagCharStatsBleedAbsDmgInfo=Les dégâts de saignement infligés pendant 3 secondes appliqués par touche avec vos attaques armées, bonus inclus.
+tagCharStatsBleedPercentDmg=Modif. Saignement
+tagCharStatsBleedPercentDmgInfo=Le pourcentage de bonus à tous les dégâts de saignement infligés par les attaques et les sorts, bonus de malice exclu. Tous dégâts inclus.
+tagCharStatsBleedDuration=Durée de Saignement
+tagCharStatsBleedDurationInfo=Le pourcentage de bonus à la durée de vos attaques à dégâts de saignement. Les dégâts par seconde ne sont pas augmentés.
+
+tagCharStatsInternalTraumaAbsDmg=Dégâts de Trauma
+tagCharStatsInternalTraumaAbsDmgInfo=Les dégâts traumatiques internes infligés sur 5 secondes appliqués par coup avec vos attaques armées, bonus inclus.
+tagCharStatsInternalTraumaPercentDmg=Modif. de Trauma
+tagCharStatsInternalTraumaPercentDmgInfo=Le pourcentage de bonus à tous les dégâts de trauma interne, bonus de malice exclu. Tous dégâts inclus.
+tagCharStatsInternalTraumaDuration=Durée de Trauma
+tagCharStatsInternalTraumaDurationInfo=Le pourcentage de bonus à la durée de vos attaques de trauma interne. Les dégâts par seconde ne sont pas augmentés.
+
+tagCharStatsDamageToHealth=Vol de Vie
+tagCharStatsDamageToHealthInfo=Le pourcentage de dégâts d'attaque armée que vous infligez qui remplit aussi votre santé.
+
+#Magical
+tagCharStatsCastSpeed=Vitesse de Sort
+tagCharStatsCastSpeedInfo=La vitesse à laquelle votre personnage jette des sorts par rapport à la base Vitesse totale incluse.
+
+tagCharStatsCooldownReduction=Vitesse de Rechargement
+tagCharStatsCooldownReductionInfo=Le pourcentage auquel les rechargements de vos compétences sont réduits. Les compétences conférées par des objets ne bénéficient pas des bonus ni des effets de Réduction de rechargement.
+
+tagCharStatsManaCostReduction=Coût en énergie de Compét.
+tagCharStatsManaCostReductionInfo=Le pourcentage auquel le coût en énergie de vos compétences est réduit.
+
+tagCharStatsPercentHealthDamage=Dégâts de Santé
+tagCharStatsPercentHealthDamageInfo=Le pourcentage de la santé actuelle de la cible infligé comme dégâts par coup avec vos attaques armées.
+
+tagCharStatsFireAbsDmg=Dégâts de Feu
+tagCharStatsFireAbsDmgInfo=Les dégâts de feu infligés par coup avec vos attaques armées, bonus inclus.
+tagCharStatsFirePercentDmg=Modif. Feu
+tagCharStatsFirePercentDmgInfo=Le pourcentage de bonus à tous les dégâts de feu infligés par des attaques et des sorts, bonus d'esprit exclu. ^OTous les dégâts inclus.
+
+tagCharStatsColdAbsDmg=Dégâts de Froid
+tagCharStatsColdAbsDmgInfo=Les dégâts de froid infligés par coup avec vos attaques armées, bonus inclus.
+tagCharStatsColdPercentDmg=Modif. Froid
+tagCharStatsColdPercentDmgInfo=Le pourcentage de bonus à tous les dégâts de froid infligés par des attaques et des sorts, bonus d'esprit exclu. ^OTous les dégâts inclus.
+
+tagCharStatsLightningAbsDmg=Dégâts de Foudre
+tagCharStatsLightningAbsDmgInfo=Les dégâts de foudre infligés par coup avec vos attaques armées, bonus inclus.
+tagCharStatsLightningPercentDmg=Modif. Foudre
+tagCharStatsLightningPercentDmgInfo=Le pourcentage de bonus à tous les dégâts de foudre infligés par des attaques et des sorts, bonus d'esprit exclu. ^OTous les dégâts inclus.
+
+tagCharStatsAcidAbsDmg=Dégâts d'Acide
+tagCharStatsAcidAbsDmgInfo=Les dégâts d'acide infligés par coup avec vos attaques armées, bonus inclus.
+tagCharStatsAcidPercentDmg=Modif. Acide
+tagCharStatsAcidPercentDmgInfo=Le pourcentage de bonus à tous les dégâts d'acide infligés par des attaques et des sorts, bonus d'esprit exclu. ^OTous les dégâts inclus.
+
+tagCharStatsVitalityAbsDmg=Dégâts de Vitalité
+tagCharStatsVitalityAbsDmgInfo=Les dégâts de vitalité infligés par coup avec vos attaques armées, bonus inclus.
+tagCharStatsVitalityPercentDmg=Modif. Vitalité
+tagCharStatsVitalityPercentDmgInfo=Le pourcentage de bonus à tous les dégâts de vitalité infligés par des attaques et des sorts, bonus d'esprit exclu. ^OTous les dégâts inclus.
+
+tagCharStatsAetherAbsDmg=Dégâts d'Éther
+tagCharStatsAetherAbsDmgInfo=Les dégâts d'éther infligés par coup avec vos attaques armées, bonus inclus.
+tagCharStatsAetherPercentDmg=Modif. Éther
+tagCharStatsAetherPercentDmgInfo=Le pourcentage de bonus à tous les dégâts d'éther infligés par des attaques et des sorts, bonus d'esprit exclu. ^OTous les dégâts inclus.
+
+tagCharStatsChaosAbsDmg=Dégâts de Chaos
+tagCharStatsChaosAbsDmgInfo=Les dégâts de chaos infligés par coup avec vos attaques armées, bonus inclus.
+tagCharStatsChaosPercentDmg=Modif. Chaos
+tagCharStatsChaosPercentDmgInfo=Le pourcentage de bonus à tous les dégâts de chaos infligés par des attaques et des sorts, bonus d'esprit exclu. ^OTous les dégâts inclus.
+
+tagCharStatsBurnAbsDmg=Dégâts de Brûlure
+tagCharStatsBurnAbsDmgInfo=Les dégâts de brûlure infligés pendant 3 secondes appliqués par coup avec vos attaques armées, bonus inclus.
+tagCharStatsBurnPercentDmg=Modif. Brûlure
+tagCharStatsBurnPercentDmgInfo=Le pourcentage de bonus à tous les dégâts de brûlure infligés par des attaques et des sorts, bonus d'esprit exclu. ^OTous les dégâts inclus.
+tagCharStatsBurnDuration=Durée de Brûlure
+tagCharStatsBurnDurationInfo=Le pourcentage de bonus à la durée de vos attaques à dégâts de brûlure. Les dégâts par seconde ne sont pas augmentés.
+
+tagCharStatsColdburnAbsDmg=Dégâts de Brûlure de Froid
+tagCharStatsColdburnAbsDmgInfo=Les dégâts de brûlure de froid infligés pendant 3 secondes par coup avec vos attaques armées, bonus inclus.
+tagCharStatsColdburnPercentDmg=Modif. Brûlure de Froid
+tagCharStatsColdburnPercentDmgInfo=Le pourcentage de bonus à tous les dégâts de brûlure de froid infligés par des attaques et des sorts, bonus d'esprit exclu. ^OTous les dégâts inclus.
+tagCharStatsColdburnDuration=Durée de Brûlure de Froid
+tagCharStatsColdburnDurationInfo=Le pourcentage de bonus à la durée de vos attaques de brûlure de froid. Les dégâts par seconde ne sont pas augmentés.
+
+tagCharStatsElectrocuteAbsDmg=Dégâts d'Électrocution
+tagCharStatsElectrocuteAbsDmgInfo=Les dégâts d'électrocution infligés pendant 3 secondes par coup avec vos attaques armées, bonus inclus.
+tagCharStatsElectrocutePercentDmg=Modif. Électrocution
+tagCharStatsElectrocutePercentDmgInfo=Le pourcentage de bonus à tous les dégâts d'électrocution infligés par des attaques et des sorts, bonus d'esprit exclu. ^OTous les dégâts inclus.
+tagCharStatsElectrocuteDuration=Durée d'Électrocution
+tagCharStatsElectrocuteDurationInfo=Le pourcentage de bonus à la durée de vos attaques à dégâts d'électrocution. Les dégâts par seconde ne sont pas augmentés.
+
+tagCharStatsPoisonAbsDmg=Dégâts de Poison
+tagCharStatsPoisonAbsDmgInfo=Les dégâts de poison infligés pendant 5 secondes appliqués par coup avec vos attaques armées, bonus inclus.
+tagCharStatsPoisonPercentDmg=Modif. Poison
+tagCharStatsPoisonPercentDmgInfo=Le pourcentage de bonus à tous les dégâts de poison infligés par des attaques et des sorts, bonus d'esprit exclu. ^OTous les dégâts inclus.
+tagCharStatsPoisonDuration=Durée du Poison
+tagCharStatsPoisonDurationInfo=Le pourcentage de bonus à la durée de vos attaques à dégâts de poison. Les dégâts par seconde ne sont pas augmentés.
+
+tagCharStatsVitalityDecayAbsDmg=Dégâts de Perte de Vitalité
+tagCharStatsVitalityDecayAbsDmgInfo=Les dégâts de perte de vitalité infligés pendant 3 secondes par coup avec vos attaques armées, bonus inclus.
+tagCharStatsVitalityDecayPercentDmg=Modif. Perte de Vitalité
+tagCharStatsVitalityDecayPercentDmgInfo=Le pourcentage de bonus à tous les dégâts de perte de vitalité infligés par des attaques et des sorts, bonus d'esprit exclu. ^OTous les dégâts inclus.
+tagCharStatsVitalityDecayDuration=Durée de Perte de Vitalité
+tagCharStatsVitalityDecayDurationInfo=Le pourcentage de bonus à la durée de vos attaques à dégâts de perte de vitalité. Les dégâts par seconde ne sont pas augmentés.
+
+tagCharStatsPhysical=Physique
+tagCharStatsPierce=Perforation
+tagCharStatsCold=Froid
+tagCharStatsFire=Feu
+tagCharStatsAcid=Acide
+tagCharStatsLightning=Foudre
+tagCharStatsVitality=Vitalité
+tagCharStatsChaos=Chaos
+tagCharStatsAether=Éther
+tagCharStatsLifeLeech=Drain de Vie
+tagCharStatsManaLeech=Drain de Mana
+tagCharStatsDurInternalTrauma=Trauma Interne
+tagCharStatsDurFrostburn=Brûlure de Froid
+tagCharStatsDurBurn=Brûlure
+tagCharStatsDurPoison=Poison
+tagCharStatsDurElectrocute=Électrocution
+tagCharStatsDurVitalityDecay=Déclin de Vitalité
+tagCharStatsDurBleeding=Saignement
+tagCharStatsDurLifeLeech=Drain de Vie
+tagCharStatsDurManaLeech=Drain de Mana
+
+#Pets
+tagCharStatsPetHealth=Vie
+tagCharStatsPetHealthInfo=Le pourcentage de bonus à la santé de vos familiers et mignons invoqués.
+
+tagCharStatsPetDamage=Dégâts
+tagCharStatsPetDamageInfo=Le pourcentage de bonus aux dégâts de vos familiers et mignons invoqués. N'affecte pas les Dégâts de Représailles de familier.
+
+tagCharStatsPetAttackSpeed=Vitesse d'Attaque
+tagCharStatsPetAttackSpeedInfo=Le pourcentage de bonus à la vitesse d'attaque de vos familiers et mignons invoqués.
+
+tagCharStatsPetCastSpeed=Vitesse de Jet de Sort
+tagCharStatsPetCastSpeednfo=Le pourcentage de bonus à la vitesse de jet de sort de vos familiers et mignons invoqués.
+
+tagCharStatsPetRunSpeed=Vitesse de Course
+tagCharStatsPetRunSpeednfo=Le pourcentage de bonus à la vitesse de course de vos familiers et mignons invoqués.
+
+tagCharStatsPetOA=Capacité Offensive
+tagCharStatsPetOAInfo=Le pourcentage de bonus à la capacité offensive de vos familiers et mignons invoqués.
+
+tagCharStatsPetDA=Capacité Défensive
+tagCharStatsPetDAInfo=Le pourcentage de bonus à la capacité défensive de vos familiers et mignons invoqués.
+
+tagCharStatsPetPhysicalResist=Résist. physique
+tagCharStatsPetPhysicalResistInfo=Le pourcentage de bonus à la résistance physique de vos familiers et mignons invoqués.
+
+tagCharStatsPetFireResist=Résist. au Feu
+tagCharStatsPetFireResistInfo=Le pourcentage de bonus à la résistance au feu de vos familiers et mignons invoqués.
+
+tagCharStatsPetColdResist=Résist. au Froid
+tagCharStatsPetColdResistInfo=Le pourcentage de bonus à la résistance au froid de vos familiers et mignons invoqués.
+
+tagCharStatsPetLightningResist=Résist. à la Foudre
+tagCharStatsPetLightningResistInfo=Le pourcentage de bonus à la résistance à la foudre de vos familiers et mignons invoqués.
+
+tagCharStatsPetPoisonResist=Résist. au Poison/à l'Acide
+tagCharStatsPetPoisonResistInfo=Le pourcentage de bonus à la résistance au poison/à l'acide de vos familiers et mignons invoqués.
+
+tagCharStatsPetPierceResist=Résist. à la Perforation
+tagCharStatsPetPierceResistInfo=Le pourcentage de bonus à la résistance aux dégâts perforants de vos familiers et mignons invoqués.
+
+tagCharStatsPetBleedResist=Résist. au Saignement
+tagCharStatsPetBleedResistInfo=Le pourcentage de bonus à la résistance au saignement de vos familiers et mignons invoqués.
+
+tagCharStatsPetVitalityResist=Résist. de Vitalité
+tagCharStatsPetVitalityResistInfo=Le pourcentage de bonus à la résistance aux dégâts de vitalité de vos familiers et mignons invoqués.
+
+tagCharStatsPetAetherResist=Résist. à l'Éther
+tagCharStatsPetAetherResistInfo=Le pourcentage de bonus à la résistance à l'éther de vos familiers et mignons invoqués.
+
+tagCharStatsPetChaosResist=Résist. au Chaos
+tagCharStatsPetChaosResistInfo=Le pourcentage de bonus à la résistance au chaos de vos familiers et mignons invoqués.
+
+tagCharStatsPetTrapResist=Résist. aux pièges
+tagCharStatsPetTrapResistInfo=Le pourcentage de bonus à la résistance aux pièges de vos familiers et sbires invoqués.
+tagCharStatsPetPetrifyResist=Résist. à Pétrification
+tagCharStatsPetPetrifyResistInfo=Le pourcentage de bonus à la résistance à Pétrification de vos familiers et sbires invoqués.
+tagCharStatsPetFreezeResist=Résist. à Gel
+tagCharStatsPetFreezeResistInfo=Le pourcentage de bonus à la résistance à Gel de vos familiers et sbires invoqués.
+tagCharStatsPetSleepResist=Résist. à Sommeil
+tagCharStatsPetSleepResistInfo=Le pourcentage de bonus à la résistance à Sommeil de vos familiers et sbires invoqués.
+tagCharStatsPetSlowResist=Résist. à Ralentissement
+tagCharStatsPetSlowResistInfo=Le pourcentage de bonus à la résistance à Ralentissement de vos familiers et sbires invoqués.
+
+#Char Stats Tab 3
+
+#Defense
+tagCharStatsBlockChance=Chance de Bloquer
+tagCharStatsBlockChanceDescription=Le pourcentage de chance de bloquer une attaque qui arrive.
+
+tagCharStatsBlockAmount=Dégâts Bloqués
+tagCharStatsBlockAmountDescription=La quantité de dégâts qui seront annulés par un blocage réussi.
+
+tagCharStatsBlockRecovery=Rétablissement de Blocage
+tagCharStatsBlockRecoveryInfo=Le pourcentage selon lequel votre rétablissement de blocage est réduit.
+
+tagCharStatsDodgeChance=Chance d'Esquiver
+tagCharStatsDodgeChanceInfo=Le pourcentage de chance d'éviter une attaque de mêlée, niant complètement les dégâts.
+
+tagCharStatsProjDeflectChance=Chance de Dévier
+tagCharStatsProjDeflectChanceInfo=Le pourcentage de chance de dévier une attaque à distance, niant complètement les dégâts.
+
+tagCharStatsPhysicalResist=Résist. Physique
+tagCharStatsPhysicalResistInfo=Résistance aux sorts et attaques qui causent des maux physiques et des traumatismes internes.
+
+tagCharStatsDisruptionResist=Résist. aux Perturbations
+tagCharStatsDisruptionResistInfo=Résistance aux sorts et attaques qui interrompent votre capacité à utiliser vos compétences.
+
+tagCharStatsLifeLeechResist=Résist. au Drain de Vie
+tagCharStatsLifeLeechResistInfo=Résistance aux attaques drainant la vie.
+
+tagCharStatsEnergyLeechResist=Résist. au Drain d'Énergie
+tagCharStatsEnergyLeechResistInfo=Résistance aux attaques qui drainent votre énergie.
+
+tagCharStatsTrapResist=Résist. aux Pièges
+tagCharStatsTrapResistInfo=Résistance aux effets d'emprise qui vous immobilisent.
+
+tagCharStatsPetrifyResist=Résist. à la Pétrification
+tagCharStatsPetrifyResistInfo=Résistance aux sorts qui pétrifient la chair, vous laissant incapable de réagir.
+
+tagCharStatsFreezeResist=Résist. au Gel
+tagCharStatsFreezeResistInfo=Résistance aux sorts qui vous gèlent sur place, vous laissant incapable de réagir.
+
+tagCharStatsSleepResist=Résist. au Sommeil
+tagCharStatsSleepResistInfo=Résistance aux sorts qui vous placent dans un état semblable au sommeil profond, vous laissant incapable de réagir jusqu'à ce que vous soyez frappé.
+
+tagCharStatsSlowResist=Résist. au Ralentissement
+tagCharStatsSlowResistInfo=Résistance aux effets qui réduisent votre capacité à attaquer, jeter des sorts et courir.
+
+#Retaliation
+tagCharStatsDamageReflect=Réflexion des Dégâts
+tagCharStatsDamageReflectInfo=Le pourcentage de dégâts qu'on vous inflige renvoyés à l'assaillant.
+
+tagCharStatsCurrentLifeReflect=Représailles de Vie
+tagCharStatsCurrentLifeReflectInfo=Le pourcentage de la Santé actuelle d'un assaillant infligé comme dégât à chaque fois que vous êtes touché(e).
+
+tagCharStatsPhysicalRet=Physique
+tagCharStatsPhysicalRetInfo=Les dégâts physiques infligés à un assaillant à chaque fois que vous êtes touché(e).
+tagCharStatsPhysicalPercentRet=Modif. Physique
+tagCharStatsPhysicalPercentRetInfo=Le pourcentage de bonus à tous les effets de représailles par dégâts physiques. ^OTous les dégâts n'affectent pas les dégâts de Représailles.
+
+tagCharStatsPierceRet=Perforation
+tagCharStatsPierceRetInfo=Les dégâts de perforation infligés à un assaillant à chaque fois que vous êtes touché(e).
+tagCharStatsPiercePercentRet=Modif. Perforation
+tagCharStatsPiercePercentRetInfo=Le pourcentage de bonus à tous les effets de représailles par dégâts de perforation. ^OTous les dégâts n'affectent pas les dégâts de Représailles.
+
+tagCharStatsBleedRet=Saignement
+tagCharStatsBleedRetInfo=Les dégâts de saignement infligés par seconde pendant 3 secondes appliqués à un assaillant à chaque fois que vous êtes touché(e).
+tagCharStatsBleedPercentRet=Modif. Saignement
+tagCharStatsBleedPercentRetInfo=Le pourcentage de bonus à tous les effets de représailles par dégâts de saignement. ^OTous les dégâts n'affectent pas les dégâts de Représailles.
+
+tagCharStatsInternalTraumaRet=Trauma
+tagCharStatsInternalTraumaRetInfo=Les dégâts de trauma interne infligés par seconde pendant 5 secondes appliqués à un assaillant à chaque fois que vous êtes touché(e).
+tagCharStatsInternalTraumaPercentRet=Modif. Trauma
+tagCharStatsInternalTraumaPercentRetInfo=Le pourcentage de bonus à tous les effets de représailles par dégâts de trauma interne. ^OTous les dégâts n'affectent pas les dégâts de Représailles.
+
+tagCharStatsFireRet=Feu
+tagCharStatsFireRetInfo=Les dégâts de feu infligés à un assaillant à chaque fois que vous êtes touché(e).
+tagCharStatsFirePercentRet=Modif. Feu
+tagCharStatsFirePercentRetInfo=Le pourcentage de bonus à tous les effets de représailles par dégâts de feu. ^OTous les dégâts n'affectent pas les dégâts de Représailles.
+
+tagCharStatsColdRet=Froid
+tagCharStatsColdRetInfo=Les dégâts de froid infligés à un assaillant à chaque fois que vous êtes touché(e).
+tagCharStatsColdPercentRet=Modif. Froid
+tagCharStatsColdPercentRetInfo=Le pourcentage de bonus à tous les effets de représailles par dégâts de froid. ^OTous les dégâts n'affectent pas les dégâts de Représailles.
+
+tagCharStatsLightningRet=Foudre
+tagCharStatsLightningRetInfo=Les dégâts de foudre infligés à un assaillant à chaque fois que vous êtes touché(e).
+tagCharStatsLightningPercentRet=Modif. Foudre
+tagCharStatsLightningPercentRetInfo=Le pourcentage de bonus à tous les effets de représailles par dégâts de foudre. ^OTous les dégâts n'affectent pas les dégâts de Représailles.
+
+tagCharStatsAcidRet=Acide
+tagCharStatsAcidRetInfo=Les dégâts d'acide infligés à un assaillant à chaque fois que vous êtes touché(e).
+tagCharStatsAcidPercentRet=Modif. Acide
+tagCharStatsAcidPercentRetInfo=Le pourcentage de bonus à tous les effets de représailles par dégâts d'acide. ^OTous les dégâts n'affectent pas les dégâts de Représailles.
+
+tagCharStatsVitalityRet=Vitalité
+tagCharStatsVitalityRetInfo=Les dégâts de vitalité infligés à un assaillant à chaque fois que vous êtes touché(e).
+tagCharStatsVitalityPercentRet=Modif. Vitalité
+tagCharStatsVitalityPercentRetInfo=Le pourcentage de bonus à tous les effets de représailles par dégâts de vitalité. ^OTous les dégâts n'affectent pas les dégâts de Représailles.
+
+tagCharStatsAetherRet=Éther
+tagCharStatsAetherRetInfo=Les dégâts d'éther infligés à un assaillant à chaque fois que vous êtes touché(e).
+tagCharStatsAetherPercentRet=Modif. Éther
+tagCharStatsAetherPercentRetInfo=Le pourcentage de bonus à tous les effets de représailles par dégâts d'éther. ^OTous les dégâts n'affectent pas les dégâts de Représailles.
+
+tagCharStatsChaosRet=Chaos
+tagCharStatsChaosRetInfo=Les dégâts de chaos infligés à un assaillant à chaque fois que vous êtes touché(e).
+tagCharStatsChaosPercentRet=Modif. Chaos
+tagCharStatsChaosPercentRetInfo=Le pourcentage de bonus à tous les effets de représailles par dégâts de chaos. ^OTous les dégâts n'affectent pas les dégâts de Représailles.
+
+tagCharStatsBurnRet=Brûlure
+tagCharStatsBurnRetInfo=Les dégâts de brûlure infligés par seconde pendant 3 secondes appliqués à un assaillant à chaque fois que vous êtes touché(e).
+tagCharStatsBurnPercentRet=Modif. Brûlure
+tagCharStatsBurnPercentRetInfo=Le pourcentage de bonus à tous les effets de représailles par dégâts de brûlure. ^OTous les dégâts n'affectent pas les dégâts de Représailles.
+
+tagCharStatsColdburnRet=Brûlure de Froid
+tagCharStatsColdburnRetInfo=Les dégâts de brûlure de froid infligés par seconde pendant 3 secondes appliqués à un assaillant à chaque fois que vous êtes touché(e).
+tagCharStatsColdburnPercentRet=Modif. Brûlures de Froid
+tagCharStatsColdburnPercentRetInfo=Le pourcentage de bonus à tous les effets de représailles par brûlure de Froid. ^OTous les dégâts n'affectent pas les dégâts de Représailles.
+
+tagCharStatsElectrocuteRet=Électrocution
+tagCharStatsElectrocuteRetInfo=Les dégâts par électrocution infligés par seconde pendant 3 secondes appliqués à un assaillant à chaque fois que vous êtes touché(e).
+tagCharStatsElectrocutePercentRet=Modif. Électrocution
+tagCharStatsElectrocutePercentRetInfo=Le pourcentage de bonus à tous les effets de représailles par dégâts d'électrocution. ^OTous les dégâts n'affectent pas les dégâts de Représailles.
+
+tagCharStatsPoisonRet=Poison
+tagCharStatsPoisonRetInfo=Les dégâts de poison infligés par seconde pendant 5 secondes appliqués à un assaillant à chaque fois que vous êtes touché(e).
+tagCharStatsPoisonPercentRet=Modif. Poison
+tagCharStatsPoisonPercentRetInfo=Le pourcentage de bonus à tous les effets de représailles par dégâts de poison. ^OTous les dégâts n'affectent pas les dégâts de Représailles.
+
+tagCharStatsVitalityDecayRet=Perte de Vitalité
+tagCharStatsVitalityDecayRetInfo=Les dégâts par perte de vitalité infligés par seconde pendant 3 secondes appliqués à un assaillant à chaque fois que vous êtes touché(e).
+tagCharStatsVitalityDecayPercentRet=Modif. Perte de Vitalité
+tagCharStatsVitalityDecayPercentRetInfo=Le pourcentage de bonus à tous les effets de représailles par perte de vitalité. ^OTous les dégâts n'affectent pas les dégâts de Représailles.
+
+#Stats
+tagCharStatsItemLevel=Niveau d'Équipement
+tagCharStatsItemLevelInfo=Le niveau moyen des objets de tout votre équipement.
+
+tagRecordTime=Temps écoulé
+tagRecordTimeNumber={%d0}:{%d1}:{%d2}
+tagRecordTimeInfo=Temps total joué en jours, heures et minutes.
+
+tagRecordMonsterKills=Monstres tués
+tagRecordMonsterKillsInfo=Nombre total de monstres que votre personnage a tués.
+
+tagRecordChampionKills=Boss et Héros tués
+tagRecordChampionKillsInfo=Nombre total de Héros et Boss ennemis que votre personnage a tués.
+
+tagRecordHighestMonster=Plus fort monstre tué
+tagRecordHighestMonsterInfo=Le monstre le plus puissant tué par votre personnage.
+
+tagRecordHighestDamage=Plus gros dégâts infligés
+tagRecordHighestDamageInfo=Les dégâts les plus importants infligés par votre personnage en une fois.
+
+tagRecordHighestDamageTaken=Plus gros dégâts subis
+tagRecordHighestDamageTakenInfo=Les plus importants dégâts que votre personnage ait jamais reçus en une fois.
+
+tagRecordDeath=Nombre de morts
+tagRecordDeathInfo=Le nombre de fois que votre personnage est mort.
+
+tagCharStatsSecondaryResist=Résistances secondaires :
+
+tagCharacterStats=Stats. perso.
+tagCharStatsFactionTitle=Factions
+tagCPercentageValue={%.0f}%
+
+#Vendor
+
+tagVendorTabArtifactA=Artefacts
+tagVendorTabArtifactB=PLACEHOLDER
+tagVendorTab01A=Armes de mêlée
+tagVendorTab01B=Un assortiment d'armes martiales récupérées dans les maisons abandonnées, sur ceux décédés depuis longtemps et ceux qui vont l'être bientôt.
+tagVendorTab02A=Armes à distance
+tagVendorTab02B=Tout, depuis les pistolets fabriqués avec des pièces éparses jusqu'aux anciennes arbalètes, réassemblées avec des mécanismes rotatifs de tir automatiques.
+tagVendorTab03A=Armure
+tagVendorTab03B=Une collection d'armures assemblées à partir de vêtements usés et de déchets métalliques. Certaines sont même assemblées à partir de vraies plates d'armures du champ de bataille de jadis.
+tagVendorTab04A=Accessoires et objets consommables
+tagVendorTab04B=Un mélange de vieilles reliques et de remèdes faits maison.
+tagVendorTab05A=Rachat
+tagVendorTab05B=Changé d'avis ? Vous pouvez racheter vos objets sans coût supplémentaire pendant que vous êtes chez le vendeur. Dès que vous partez, cependant, la vente est finalisée.
+tagVendorSearchBoxInfo=Entrez dans les paramètres de recherche pour filtrer les objets selon leur nom ou les statistiques désirées.
+
+tagFactionVendorTab01A=Ami
+tagFactionVendorTab01B=Accès au Vendeur de Faction
+tagFactionVendorTab02A=Respecté
+tagFactionVendorTab02B=Armes de Faction{^n}Armures de Faction{^n}Schémas de Faction
+tagFactionVendorTab03A=Honoré
+tagFactionVendorTab03B=Augmentations de Faction{^n}Accessoires de Faction{^n}Assignations de Faction{^n}Schémas de Faction
+tagFactionVendorTab04A=Révéré
+tagFactionVendorTab04B=Augmentations Rares{^n}Mandats de Faction{^n}Armes de Faction d'Élite{^n}Armures de Faction d'Élite
+
+tagVendorRolloverName=Récupérateur
+tagVendorRolloverDescription=Les trafiquants profitent de l'infortune de l'humanité pour vendre des biens récupérés ou volés à ceux qui osent s'aventurer au-delà des forteresses humaines. Il vaut mieux ne pas poser de questions sur l'origine d'un objet.
+
+MarketCostAffordable={^G}Coût  {%d0}
+MarketCostTooExpensive={^R}Coût  {%d0} ~ Pas assez d'argent
+MarketCostReputationTooLow={^R}Coût  {%d0} ~ Pas assez de réputation
+MarketCostPreviousTransaction={^G}Coût  {%d0} ~ Valeur originale de vente
+MarketCostPreviousTransactionTooExpensive={^M}Coût  {%d0} ~ Pas assez d'argent
+MarketValue={^G}Valeur de vente  {%d0}
+MarketValuePreviousTransaction={^G}Valeur du rachat  {%d0} ~ Coût original de l'achat
+MarketSalePending=Vente en cours
+MarketPurchasePending=Achat en cours
+
+tagMarketError01=Vous n'avez pas assez d'argent.
+tagMarketError02=Il n'y a pas assez de place dans votre inventaire.
+tagMarketError03=Cet objet a été vendu.
+tagMarketError04=Cet objet ne peut pas être vendu.
+tagMarketError05=Le rang de votre faction n'est pas assez élevé.
+CanNotBeSoldHere=Ce vendeur n'acceptera pas cet objet.
+Sold=Vendu
+
+
+#Crafting
+
+tagCrafting=Artisanat
+tagInventorNamePlate=Inventeur
+tagCraftingComponentCount=Quantité de ce matériau dans votre inventaire.
+tagCraftingComponentMissing=Ce matériau n'est pas dans votre inventaire actuellement.
+tagCraftingWindowTitle=Inventeur
+tagCraftingPanelA=Modification de l'équipement
+tagCraftingPanelB=Séparation de l'équipement
+tagCraftingCost=Coût :
+tagCraftingBlueprint=Schéma
+tagCraftingComponent=Composant
+tagCraftingComponentRequired=Ingrédients :
+tagCraftingCombine=Combiner
+tagCraftingDisplayBoxHelp=Pour commencer l'artisanat d'équipement, placez un Schéma sur l'établi.
+tagCraftingBlueprintInfo=L'inventeur peut utiliser des Schémas pour fabriquer des objets ou pour les améliorer grâce aux divers matériaux de récupération.
+tagCraftingDeviceCost=Coût : {%t0}
+tagCraftingCreate=Artisanat :
+tagCraftingLearn=[Clic droit pour apprendre]
+tagCraftingRandom={^E}+Stat(s) aléatoire(s)
+tagCraftingQuantity={%d0}/{%d1} 
+tagCraftingLargeQuantity=99+/{%d0}
+tagCraftingLargeStack=99+
+
+tagCraftingItemType00= ~ Engin
+tagCraftingItemType01= ~ Composant achevé
+tagCraftingItemType02= ~ Matériaux complets
+tagCraftingItemType03= ~ Manuscrit
+tagCraftingItemType04= ~ Outillage
+
+tagCraftingButtonInfo=Combine les objets placés dans la Fenêtre d'artisanat. Ce bouton sera mis en surbrillance lorsque tous les matériaux requis seront ajoutés.
+tagCraftingConfirmation=Êtes-vous sûr(e) de vouloir réaliser cette combinaison ?
+
+tagCraftingDetatchmentInfo=
+
+tagCraftingProductBoxInfo=L'objet construit apparaîtra ici une fois que les composants requis auront été mis en place.
+tagCraftingProductBoxCompletion=Prenez votre objet nouvellement assemblé sur l'établi.
+
+tagCraftingInsterComponent=Ajouter dans ces emplacements des composants spécifiés par un Schéma.
+
+tagCraftingSearchBoxInfo=Entrer dans les paramètres de recherche pour filtrer les schémas selon le nom des objets ou les stats. désirées.
+
+#Subheadings
+
+tagCraftingAxes=HACHES
+tagCraftingBlunt=MASSES
+tagCraftingSwords=ÉPÉES
+tagCraftingImplements=INSTRUMENTS
+tagCraftingTwoHandedMelee=MÉLÉE DEUX MAINS
+tagCraftingSpears=LANCES
+tagCraftingStaves=BÂTONS
+
+tagCraftingOneHanded=À UNE MAIN
+tagCraftingTwoHanded=À DEUX MAINS
+
+tagCraftingBelts=CEINTURES
+tagCraftingHelms=HEAUMES
+tagCraftingTorso=TORSE
+tagCraftingShoulders=ÉPAULES
+tagCraftingLegs=JAMBES
+tagCraftingHands=MAINS
+tagCraftingFeet=PIEDS
+tagCraftingOffhands=FOCALISATEURS
+tagCraftingShields=BOUCLIERS
+
+tagCraftingComponents=COMPOSANTS
+tagCraftingAccessories=BIJOUX
+tagCraftingConsumables=CONSOMMABLES
+tagCraftingMaterials=MATÉRIAUX
+
+tagCraftingRelicsTier01=RELIQUES PUISSANTES
+tagCraftingRelicsTier02=RELIQUES TRANSCENDANTES
+tagCraftingRelicsTier03=RELIQUES MYTHIQUES
+
+tagDividerTab01=Récupération
+tagDividerRoll01=La chambre de récupération est utilisée pour retirer des parties de composants et des augmentations des objets. Malheureusement, le processus est imparfait et résulte toujours dans la destruction soit de l'objet, soit de la partie composant mais vous pouvez choisir lequel sauver et lequel sacrifier.{^n}{^n}Si vous récupérez l'objet, toutes les augmentations seront retirées. Si une augmentation liée à l'âme était retirée ainsi, et que l'objet n'était pas lié à l'âme, le statut d'Âme-lié serait retiré également.
+
+tagDividerTab02=Démonter
+tagDividerRoll02=La chambre de démontage est utilisée pour briser de puissants objets magiques en restituant leurs parties de base. L'Inventeur n'a pas encore appris cette capacité.
+tagDividerRoll02B=La chambre de démontage est utilisée pour briser de puissants objets magiques en restituant leurs parties de base. Ce processus requiert une grande énergie ; aussi l'inventeur avisé fait-il usage de dynamite pour remplir cette fonction.
+
+tagDividingButtonKeepItem=Garder l'objet
+tagDividingBoxInfo=Placez dans la chambre un objet avec un composant ou une augmentation attaché(e).
+tagDividingButtonKeepComponent=Garder l'ajout
+tagDividingButtonRemoveAugment=Sup. l'augmentation
+tagDividingKeepItemWarning=Choisir de récupérer l'objet détruira le composant attaché et retirera toutes les augmentations.
+tagDividingKeepComponentWarning=Choisir de récupérer la partie composant détruira l'objet et toutes ses augmentations.
+tagDividingRemoveAugmentWarning=Supprimer l'augmentation la détruira, mais toutes les propriétés liées à l'âme appliquées par l'augmentation seront aussi retirées.
+tagDividingCost=Coût de la récupération :
+
+tagDismantleDynamiteTotal=Dynamite totale :
+tagDismantleCost=Coût du démontage :
+tagDismantleButton=Choisir de démonter détruira cet objet.
+tagDismantleDestroyItemWarning=Choisir de démonter détruira cet objet. Continuer ?
+tagDismantleDestroyItemComponentWarning=Choisir de démonter détruira cet objet et conservera le composant. Continuer ?
+tagDismantleBoxInfo=Placer dans la chambre un objet de qualité supérieure à l'ordinaire.
+
+#Shrine
+
+tagShrineDesecrated=Autel profané
+tagShrineRuined=Autel en ruine
+tagShrineRestored=Autel restauré
+tagShrineButton01=Offre
+tagShrineButton02=Commencer
+tagShrineButton03=Annuler
+tagShrineButtonInfo=Déposez cette offrande près de l'Autel
+tagShrineConfirmProxy=Cet autel est corrompu et doit être nettoyé. Invoquer ce qui est piégé dedans ?
+tagShrineWarning=Cet Autel est détruit et a besoin d'être restauré. Êtes-vous sûr de vouloir déposer cette offrande ?
+tagShrineActivated=Cet Autel a déjà été restauré.
+tagShrineHostActivated=Cet Autel a déjà été restauré par l'hôte.
+tagShrineHostNotActivated=Vous avez déjà restauré cet Autel dans une autre session.
+tagShrineBusy=Cet Autel est utilisé par un autre joueur.
+tagShrineLocked=L'Autel est en sommeil.
+
+#Smuggler
+
+tagStorageRefund=Remboursement de stockage
+tagCaravanTitle=Contrebandier
+tagCaravanCost=Coût : {%d0}
+tagCaravanRefund=Remboursement : {%d0}
+tagCaravanExpand=+ de place
+tagCaravanItemStorage=Cache
+tagStorageInfo01={^W}Utilisez la Cache comme une extension de votre inventaire. Clic droit ou glissez déposez des objets de et jusqu'à la cache. Les objets stockés ainsi sont accessibles auprès de chaque Contrebandier du jeu.
+tagTransferCost=Coût du transfert : {%d0}
+tagTransferAdd=Êtes-vous sûr(e) de vouloir ajouter cet objet à la cache partagée ?
+tagTransferInfo01=Utilisez le Contrebandier pour transférer des objets à d'autres personnages. Déposez simplement un objet et il sera disponible pour tous vos personnages.
+tagCaravanItemTransfer=Transfert d'objet
+tagTransferInfo02=Placez les objets dans la zone de transfert pour que le Contrebandier les rende disponibles à tous vos personnages.
+tagCaravanError01=Vous n'avez pas assez de pièces de fer pour transférer cet objet.
+tagStorageError01=Vous n'avez pas assez de pièces de fer pour acheter un espace de stockage supplémentaire.
+tagTransferError01=Vous avez besoin de {%d0} pièces de fer pour acquérir un espace de stockage supplémentaire.
+tagTransferPurchase01=Dépenser {%d0} pièces de fer pour acheter une extension de stockage ?
+tagTransferTab01=Onglet 1
+tagTransferTab02=Onglet 2
+tagTransferTab03=Onglet 3
+tagTransferTab04=Onglet 4
+tagCaravanSort=Êtes-vous sûr(e) de souhaiter ranger automatiquement vos objets ?
+
+#Chat
+
+tagChatSend=Envoyer à...
+tagChatCommand01=Groupe
+tagChatCommand02=Tous
+tagChatCommand03=Répondre
+tagChatCommand04=Écrire
+tagChatCommand05=Couper le son
+tagChatCommand06=Remettre le son
+tagChatBrag=[{%t0}{%t1}{^-}]
+
+#NPC Conversation
+tagNpcConversationBusy=Ce PNJ est occupé à parler avec un autre joueur.
+
+#Treasure Trove
+tagTroveBusy=Un autre joueur est en train d'interagir avec cet objet.
+
+#Maps
+
+tagAerialMapCenteredButton=Centrer
+tagAerialMapZoomText=Zoom
+
+tagMapWindowName=Carte locale
+tagRiftWindowName=Carte des Failles
+tagWorldMapWindowName=Carte globale
+
+tagMapSymbolAOI=PI
+tagMapSymbolAOIDesc=Un point intéressant.
+tagMapSymbolSmuggler=Contreb.
+tagMapSymbolSmugglerDesc=Le contrebandier, un personnage louche qui stockera votre matériel et le transportera entre vos personnages.
+tagMapSymbolHero=Joueur
+tagMapSymbolHeroDesc=Votre position actuelle.
+tagMapSymbolInventor=Inventeur
+tagMapSymbolInventorDesc=Un bricoleur capable de retirer les composants du matériel.
+tagMapSymbolMission=Quête
+tagMapSymbolMissionDesc=Quête actuellement active.
+tagMapSymbolNPC=PNJ
+tagMapSymbolNPCDesc=Un personnage non-jouable.
+tagMapSymbolGroup=Groupe
+tagMapSymbolGroupDesc=Position des membres du groupe.
+tagMapSymbolRespawn=Guérisseur
+tagMapSymbolRespawnDesc=Un guérisseur formé dans la régénération et la fermeture des blessures graves.
+tagMapSymbolRiftgate=Faille
+tagMapSymbolRiftgateDesc=Une faille de l'autre monde capable de vous transporter en d'autres lieux.
+tagMapSymbolVendor=Marchand
+tagMapSymbolVendorDesc=Un marchand de biens martiaux.
+tagMapSymbolWitch=Guide
+tagMapSymbolWitchDesc=Le guide spirituel, une figure spirituelle qui pourra vous aider à désapprendre vos compétences.
+tagMapSymbolShrine=Autel
+tagMapSymbolShrineDesc=Un antique autel consacré aux étoiles et aux dieux des anciens.
+tagMapSymbolSmith=Forgeron
+tagMapSymbolSmithDesc=Un artisan compétent capable de créer de nouveaux objets.
+
+#SystemStatsSkillUI
+
+tagOptionsMenuReturn=Reprendre
+tagOptionsMenuExit=Quitter la partie
+tagOptionsMenuQuit=Quitter le jeu
+tagOptionsMenuOptions=Options
+tagOptionsMenuGameSaved=Votre partie est sauvegardée.
+tagOptionsMenuExitMenuConfirm=Êtes-vous sûr(e) de vouloir retourner au menu principal ?
+tagOptionsMenuExitGameConfirm=Êtes-vous sûr(e) de vouloir quitter et revenir au bureau ?
+tagInfoTitle=Information
+tagInfoButtonYes=Oui
+tagInfoButtonNo=Non
+tagInfoButtonOk=OK
+tagGameOver=Vous êtes mort(e) !
+
+SimpleStringFormat={%s0}
+SimpleStringsFormat={%_s1}{%_1a0}
+TripleStringFormat={%_s2}{%_2a1} {%_2a0}
+TripleStringFormat2={%s0} {%s1}{%s2}
+QuadStringFormat={%_s3}{%_3a2}{%_3a1}{%_3a0}
+SkillBaseNamesFormat={    %s0}
+CostFormat=Coût {%d0}
+ManaDisplayFormat=Énergie  {%d0} / {%d1} ( {%d2} Réservé)
+LifeDisplayFormat=Santé  {%d0} / {%d1}
+ExperienceDisplayFormat=Expérience actuelle : {^Y}{%d0}{^W} ~ Expérience jusqu'au prochain niveau : {^Y}{%d1}
+
+tagExpDisplayFormat=Expérience actuelle : {^Y}{%t0}{^W} ~ Expérience jusqu'au niveau suivant : {^Y}{%t1}
+
+tagCharPointsSpent=Points dépensés :
+
+tagCharAttribute01={%+.0f0} {^F}de malice{^E}
+tagCharAttribute02={%+.0f0} {^F}de physique{^E}
+tagCharAttribute03={%+.0f0} {^F}d'esprit{^E}
+tagCharAttribute04={%+.0f0} {^F}de santé{^E}
+tagCharAttribute05={%+.0f0} {^F}d'énergie{^E}
+tagCharConstitution={%+.0f0} {^E}de constitution
+tagCharLifeRegen={%+.1f0} {^E}de santé régénérée par seconde
+tagCharManaRegen={%+.1f0} {^E}d'énergie régénérée par seconde
+
+tagCharAttribute01Modifier={%+.0f0}% {^F}de malice{^E}
+tagCharAttribute02Modifier={%+.0f0}% {^F}de physique{^E}
+tagCharAttribute03Modifier={%+.0f0}% {^F}d'esprit{^E}
+tagCharAttribute04Modifier={%+.0f0}% {^F}de santé{^E}
+tagCharAttribute05Modifier={%+.0f0}% {^F}d'énergie{^E}
+tagCharConstitutionModifier={%+.0f0}% {^E}de Constitution
+tagCharLifeRegenModifier={^E}Augmente la régénération de santé de {^H}{%.0f0}%
+tagCharManaRegenModifier={^E}Augmente la régénération d'énergie de {^H}{%.0f0}%
+
+tagCharManaLimitReserve={%.0f0} {^E}d'énergie réservée
+tagCharManaLimitReserveMod={%+.0f0} {^E}d'énergie réservée
+tagCharManaLimitReserveReduction=-{%.0f0} {^E}en coût de réservation d'énergie
+tagCharManaLimitReserveModifier={+%.0f0}% {^E}d'énergie réservée
+tagCharManaLimitReserveReductionModifier=-{%.0f0}% {^E}d'énergie réservée
+
+tagCharRunSpeed={%+.0f0}% {^X}de vitesse de déplacement{^E}
+tagCharSpellCastSpeed={%+.0f0}% {^X}de vitesse de lancer{^E}
+tagCharAttackSpeed={%+.0f0}% {^X}de vitesse d'attaque{^E}
+tagCharTotalSpeedModifier={%+.0f0}% {^X}de vitesse totale{^E}
+tagCharRunSpeedModifier={%+.0f0}% {^X}de vitesse de déplacement{^E}
+tagCharSpellCastSpeedModifier={%+.0f0}% {^X}de vitesse de lancer{^E}
+tagCharAttackSpeedModifier={%+.0f0}% {^X}de vitesse d'attaque{^E}
+
+tagCharAttribute01R={%+.0f0}-{%.0f1} {^F}de malice{^E}
+tagCharAttribute02R={%+.0f0}-{%.0f1} {^F}de physique{^E}
+tagCharAttribute03R={%+.0f0}-{%.0f1} {^F}d'esprit{^E}
+tagCharAttribute04R={%+.0f0}-{%.0f1} {^F}de santé{^E}
+tagCharAttribute05R={%+.0f0}-{%.0f1} {^F}d'énergie{^E}
+tagCharLifeRegenR={%+.1f0}-{%.1f1} {^E}de santé régénérée par seconde
+tagCharManaRegenR={%+.1f0}-{%.1f1} {^E}d'énergie régénérée par seconde
+tagCharAttribute01ModifierR={%+.0f0}-{%.0f1}% {^F}de malice{^E}
+tagCharAttribute02ModifierR={%+.0f0}-{%.0f1}% {^F}de physique{^E}
+tagCharAttribute03ModifierR={%+.0f0}-{%.0f1}% {^F}d'esprit{^E}
+tagCharAttribute04ModifierR={%+.0f0}-{%.0f1}% {^F}de santé{^E}
+tagCharAttribute05ModifierR={%+.0f0}-{%.0f1}% {^F}d'énergie{^E}
+tagCharLifeRegenModifierR={^E}Augmente la régénération de santé de {^H}{%.0f0}-{%.0f1}%
+tagCharManaRegenModifierR={^E}Augmente la régénération d'énergie de {^H}{%.0f0}-{%.0f1}%
+tagCharManaLimitReserveR={%+.0f0}-{%.0f1} {^E}d'énergie réservée
+tagCharManaLimitReserveReductionR=-({%.0f0}-{%.0f1}) {^E}de coût d'énergie réservée
+tagCharManaLimitReserveModifierR={+%.0f0}-{%.0f1}% {^E}de réserve d'énergie
+tagCharManaLimitReserveReductionModifierR=-({%.0f0}-{%.0f1}%) {^E}de réserve d'énergie
+tagCharRunSpeedR={%+.0f0}-{%.0f1}% {^X}de vitesse de déplacement{^E}
+tagCharSpellCastSpeedR={%+.0f0}-{%.0f1}% {^X}de vitesse de sort{^E}
+tagCharAttackSpeedR={%+.0f0}-{%.0f1}% {^X}de vitesse d'attaque{^E}
+tagCharTotalSpeedModifierR={%+.0f0}-{%.0f1}% {^X}de vitesse totale{^E}
+tagCharRunSpeedModifierR={%+.0f0}-{%.0f1}% {^X}de vitesse de déplacement{^E}
+tagCharSpellCastSpeedModifierR={%+.0f0}-{%.0f1}% {^X}de vitesse de sort{^E}
+tagCharAttackSpeedModifierR={%+.0f0}-{%.0f1}% {^X}de vitesse d'attaque{^E}
+tagCharOffensiveAbilityR={%+.0f0}-{%.0f1} {^X}en capacité offensive{^E}
+tagCharDefensiveAbilityR={%+.0f0}-{%.0f1} {^X}en capacité défensive{^E}
+tagCharOffensiveAbilityModifierR={%+.0f0}-{%.0f1}% {^X}en capacité offensive{^E}
+tagCharDefensiveAbilityModifierR={%+.0f0}-{%.0f1}% {^X}en capacité défensive{^E}
+tagCharDefensiveBlockRecoveryReductionR=-({%.0f0}-{%.0f1})% {^E}de Temps de récupération de bouclier
+tagCharEnergyAbsorptionPercentR={%+.0f0}-{%.0f1}% {^E}d'Énergie absorbée dans les sorts ennemis
+tagCharDodgePercentR={%.0f0}-{%.0f1}% {^E}de chances d'éviter les attaques de mêlée
+tagCharDeflectProjectilesR={%.0f0}-{%.0f1}% {^E}de chances d'éviter les projectiles
+tagCharIncreasedExperienceR={%+.0f0}-{%.0f1}% {^X}d'expérience gagnée{^E}
+tagCharLightRadiusR={%+.0f0}-{%.0f1}% {^E}de rayon lumineux
+tagCharItemGlobalReductionR={%.0f0}-{%.0f1}% {^E}de réduction aux Prérequis des Attributs
+tagCharLevelReqReductionR=-({%.0f0}-{%.0f1}) {^E}de niveau joueur requis pour les objets
+tagCharArmorStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}de physique requis pour l'Armure
+tagCharArmorDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}de malice requise pour l'Armure
+tagCharArmorIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}d'esprit requis pour l'Armure
+tagCharJewelryIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}d'esprit requis pour le Bijou
+tagCharJewelryStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}de physique requis pour le Bijou
+tagCharJewelryDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}de malice requise pour le Bijou
+tagCharShieldStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}de physique requis pour les Boucliers
+tagCharShieldIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}d'esprit requis pour les Boucliers
+tagCharShieldDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}de malice requise pour les Boucliers
+tagCharMeleeStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}de physique requis pour les Armes de mêlée
+tagCharMeleeDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}de malice requise pour les Armes de mêlée
+tagCharMeleeIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}d'esprit requis pour les Armes de mêlée
+tagCharHuntingStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}de physique requis pour les Armes à distance
+tagCharHuntingDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}de malice requise pour les Armes à distance
+tagCharHuntingIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}d'esprit requis pour les Armes à distance
+tagCharStaffIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}d'esprit requis pour les Bâtons
+tagCharStaffStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}de physique requis pour les Bâtons
+tagCharStaffDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}de malice requise pour les Bâtons
+tagCharWeapon2HIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}d'esprit requis pour les Armes à deux mains
+tagCharWeapon2HStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}de physique requis pour les Armes à deux mains
+tagCharWeapon2HDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}de malice requis pour les Armes à deux mains
+tagCharWeaponIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}d'esprit requis pour toutes les armes
+tagCharWeaponStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}de physique requis pour toutes les armes
+tagCharWeaponDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}de malice requise pour toutes les armes
+
+SkillManaCostReductionR=-{%.0f0}% {^E}de coût en énergie de la compétence
+SkillCooldownReductionR=+{%.0f0}% {^E}de réduction de recharge de compétence
+SkillProjectileSpeedModifierR={%+.0f0}% {^E}d'augmentation de la vitesse de projectile
+SkillManaCostReductionModifierR=-{%.0f0}% {^E}de coût en énergie de la Compétence
+SkillCooldownReductionModifierR=-{%.0f0}% {^E}de rechargement de la compétence
+
+tagDamageConversion={%.0f0}% {^E}de {%s1} convertis en {%s2}
+tagDamageRemoval={%.0f0}% {^E}{%s1} réduits
+tagConversionPhysical={^K}dégâts physiques{^E}
+tagConversionPierce={^R}dégâts perforants{^E}
+tagConversionElemental={^Y}dégâts élémentaires{^E}
+tagConversionCold={^C}dégâts de froid{^E}
+tagConversionFire={^O}dégâts de feu{^E}
+tagConversionPoison={^L}dégâts d'acide{^E}
+tagConversionLightning={^Z}dégâts de foudre{^E}
+tagConversionLife={^M}dégâts de vitalité{^E}
+tagConversionChaos={^P}dégâts de chaos{^E}
+tagConversionAether={^A}dégâts d'éther{^E}
+tagConversionStun=durée d'étourdissement
+
+tagAttackSpeedNotSet=Vitesse : Non définie
+tagAttackSpeedVerySlow=Vitesse : Très lente
+tagAttackSpeedSlow=Vitesse : Lente
+tagAttackSpeedAverage=Vitesse : Moyenne
+tagAttackSpeedFast=Vitesse : Rapide
+tagAttackSpeedVeryFast=Vitesse : Très rapide
+
+tagAttackSpeed={^W}{%.2f0} {^S}d'attaques par seconde
+tagAttackSpeedR={^W}{%.2f0} - {%.2f1} {^S}d'attaques par seconde
+
+tagCharOffensiveAbility={%+.0f0} {^X}de capacité offensive{^E}
+tagCharDefensiveAbility={%+.0f0} {^X}de capacité défensive{^E}
+tagCharOffensiveAbilityModifier={%+.0f0}% {^X}de capacité offensive{^E}
+tagCharDefensiveAbilityModifier={%+.0f0}% {^X}de capacité défensive{^E}
+
+tagCharDefensiveBlockRecoveryReduction={-%.0f0}% {^E}de Temps de récupération du bouclier
+tagCharEnergyAbsorptionPercent={%+.0f0}% {^E}d'énergie absorbée des sorts ennemis
+tagCharDodgePercent={%.0f0}% {^E}de chances d'éviter les attaques de mêlée
+tagCharDeflectProjectiles={%.0f0}% {^E}de chances d'éviter les projectiles
+
+tagCharIncreasedExperience={%+.0f0}% {^X}d'expérience acquise{^E}
+tagCharLightRadius={%+.0f0}% {^E}de rayon d'éclairage
+
+tagCharItemGlobalReduction={%.0f0}% {^E}de réduction aux prérequis des attributs
+tagCharLevelReqReduction=-{%.0f0} {^E}de prérequis du joueur pour les objets
+tagCharArmorStrengthReqReduction=-{%.0f0}% {^E}de physique sont requis pour les armures
+tagCharArmorDexterityReqReduction=-{%.0f0}% {^E}de malice sont requis pour les armures
+tagCharArmorIntelligenceReqReduction=-{%.0f0}% {^E}d'esprit sont requis pour les armures
+tagCharJewelryIntelligenceReqReduction=-{%.0f0}% {^E}d'esprit sont requis pour les bijoux
+tagCharJewelryStrengthReqReduction=-{%.0f0}% {^E}de physique sont requis pour les bijoux
+tagCharJewelryDexterityReqReduction=-{%.0f0}% {^E}de malice sont requis pour les bijoux
+tagCharShieldStrengthReqReduction=-{%.0f0}% {^E}de physique sont requis pour les boucliers
+tagCharShieldIntelligenceReqReduction=-{%.0f0}% {^E}d'esprit sont requis pour les boucliers
+tagCharShieldDexterityReqReduction=-{%.0f0}% {^E}de malice sont requis pour les boucliers
+tagCharMeleeStrengthReqReduction=-{%.0f0}% {^E}de physique sont requis pour les armes de mêlée
+tagCharMeleeDexterityReqReduction=-{%.0f0}% {^E}de malice sont requis pour les armes de mêlée
+tagCharMeleeIntelligenceReqReduction=-{%.0f0}% {^E}d'esprit sont requis pour les armes de mêlée
+tagCharHuntingStrengthReqReduction=-{%.0f0}% {^E}de physique sont requis pour les armes à distance
+tagCharHuntingDexterityReqReduction=-{%.0f0}% {^E}de malice sont requis pour les armes à distance
+tagCharHuntingIntelligenceReqReduction=-{%.0f0}% {^E}d'esprit sont requis pour les armes à distance
+tagCharStaffIntelligenceReqReduction=-{%.0f0}% {^E}d'esprit sont requis pour les bâtons
+tagCharStaffStrengthReqReduction=-{%.0f0}% {^E}de physique sont requis pour les bâtons
+tagCharStaffDexterityReqReduction=-{%.0f0}% {^E}de malice sont requis pour les bâtons
+tagCharWeapon2HIntelligenceReqReduction=-{%.0f0}% {^E}d'esprit requis pour les armes à deux mains
+tagCharWeapon2HStrengthReqReduction=-{%.0f0}% {^E}de physique requis pour les armes à deux mains
+tagCharWeapon2HDexterityReqReduction=-{%.0f0}% {^E}de malice requis pour les armes à deux mains
+tagCharWeaponIntelligenceReqReduction=-{%.0f0}% {^E}d'esprit sont requis pour toutes les armes
+tagCharWeaponStrengthReqReduction=-{%.0f0}% {^E}de physique sont requis pour toutes les armes
+tagCharWeaponDexterityReqReduction=-{%.0f0}% {^E}de malice sont requis pour toutes les armes
+
+tagChanceOf={%.1f0}% {^E}de chances de {^H}
+tagChanceTo={%.1f0}% {^E}de chances {^H}
+
+Strength=Physique
+Dexterity=Malice
+Intelligence=Esprit
+Life=Santé
+Mana=Énergie
+UnusedPointsText={%d0} Points non utilisés
+LifeText={%.0f0}de santé
+ManaText={%.0f0}d'énergie
+StrengthText={%.0f0}de physique
+DexterityText={%.0f0}de malice
+IntelligenceText={%.0f0}d'esprit
+FloatFormat={%.0f0}
+Float1Format={%.1f0}
+Float2Format={%.2f0}
+NegativeFloat2Format=- {%.2f0}
+IntFormat={%d0}
+CharacterLevelDescription={%s0} - [Niveau {%d1}]
+ObjectIdFormat=({%d0})  
+SkillLevelFormat={%d0} / {%d1}
+ShortManaText=Énergie  {%.0f0} / {%.0f1} / {%.1f2}
+ShortLifeText=Santé {%.0f0} / {%.0f1}
+ShortExperienceText=Exp {%d0} / {%d1}
+ShortLevel=Niveau {%d0}
+HitFormat={%.0f0}
+CriticalHitFormat={%.0f0}
+CriticalHitFormatMult={%.0f0} (x{%.2f1})
+DurationCriticalHit=Crit.
+DurationCriticalHitMult=Crit. (x{%.2f0})
+tagMiss=Manque
+tagFumble=Effleure
+tagDodge=Esquive
+tagBlock=Bloque
+tagDeflect=Dévie
+tagInvulnerable=Invulnérable
+GiveMoneyFormat=+{%d0} pièces
+TakeMoneyFormat={%d0} pièces
+ExperienceFormat=+{%d0}{^-} d'expérience
+FactionFormat=+{%d0}{^-} {%s1} de réputation
+FactionUnlocked={%s0} débloqué
+LevelUpFormat=Montée en niveau !
+SkillPointFormat={%d0} Point(s) de compétence(s)
+AttributePointFormat={%d0} Point(s) d'attribut(s)
+MenuName=Nom : 
+MenuLevel=Niveau :   {%d0}
+ItemSkillIncrement={+%d0} à : {^E}{%s1}
+ItemMasteryIncrement={+%d0} {^X}à toutes les compétences: {%s1}{^E}
+ItemAllSkillIncrement={+%d0} {^X}à toutes les compétences{^E}
+ItemBasicAttributeBanner={^W}
+ItemBonusAttributeBanner={^B}
+tagPerSecond= par seconde
+tagDPS={%.1g0} de dégâts par seconde
+
+LevelRequirement=Niveau du joueur
+ShieldBlockAbsorption={%.0f0}% d'absorption
+ShieldBlockRecoveryTime={%.2f0} secondes de Rétablissement de blocage
+MeetsRequirement=Requiert {%s0} : {%.0f1}
+MeetsRequirementWithReduction=Requiert {%s0} : {%.0f1} [ {^r%.0f2 ^y- %.0f3}% de réduction]
+FailsRequirementWithReduction={^r}Requiert {%s0 : %.0f1} [ {%.0f2 {^y}- %.0f3}% de réduction]
+FailsRequirement={^r}Requiert {%s0 : %.0f1}
+SkillIntFormat={%d0 %s1}
+SkillFloatFormat={%.0f0 %s1}
+SkillFloat1Format={%.1f0 %s1}
+SkillFloat2Format={%.2f0 %s1}
+SkillSecondFormat={%.1f0 {^E}secondes %s1}
+SkillSecondFormatMod=+{%.1f0 {^E}secondes %s1}
+SkillDistanceFormat={%.1f0 {^E}mètres %s1}
+SkillDistanceFormatMod=+{%.1f0 {^E}mètres %s1}
+SkillCostFormat={%.0f0 %s1}
+SkillCostFormatMod=+{%.1f0 %s1}
+SkillPercentFormat={%.0f0% %s1}
+SkillNumProjectilesFormat=Lance {%d0} projectile(s)
+SkillWeaponDamageFormat={%.0f0%} {^E}de dégâts d'arme
+SkillWeaponDamageValuesFormat={%.0f0%} {^E}de dégâts d'arme ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageMainhandFormat={%.0f0%} {^E}de dégâts de main droite ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageOffhandFormat={%.0f0%} {^E}de dégâts de main gauche ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamagePetFormat={%.0f0%} {^E}de dégâts d'Attaque de base du familier 
+SkillChargeFactor=par Niveau de charge
+SkillChargeMax={^E}Niveaux de charge : 
+SkillChargeLevel={^H}{%d0}%
+SkillChargeLevel2={^E}, {^H}{%d0}%
+SkillChargeLevelMod={%d0}%
+SkillChargeLevelMod2=, {%d0}%
+SkillChargeDuration=Durée du niveau de charge
+SkillChargeFactorMod=augmentation par niveau de charge
+SkillChargeMaxMod=Niveaux de charge :
+SkillChargeDurationMod=augmentation de durée de charge
+SkillChanceWeight={%d0}% {^E}de chances d'être utilisé
+SkillActivationChance={^E}de chances d'activer
+SkillDamageAbsorption={%.0f0} {^E}d'absorption de dégâts
+SkillDamageAbsorptionPercent={%.0f0}% {^E}d'absorption de dégâts
+SkillPetBurstSpawn={^E}invoque {^H}{%d0}
+SkillPetBurstSpawnMod=+{%d0} {^E}invocation
+SkillPetBurstSpawnsMod=+{%d0} {^E}invocations
+SkillPetLimit={%d0} {^E}de limite d'invocation
+SkillPetLimitMod=+{%d0} {^E}de limite d'invocation
+SkillLifeBonus={%+.1f0} {^E}de vie restaurée
+SkillManaBonus={%+.1f0} {^E}d'énergie restaurée
+SkillLifePercent={%.1f0}% {^E}de vie restaurée
+SkillManaPercent={%.1f0}% {^E}d'énergie restaurée
+SkillLifeBonusAndPercent={%.0f1}% +{%.0f0} {^E}de santé restaurée
+SkillManaBonusAndPercent={%.0f1}% +{%.0f0} {^E}d'énergie restaurée
+SkillPetDescriptionHeading=Attributs : {%s0} :
+tagSkillPetAbilities=Capacités : {%s0} :
+SkillPetDescriptionNextHeading=Prochain {%s0} niveau :
+SkillPetDescriptionHealth=    {%.0f0}  {^E}de santé
+SkillPetDescriptionMana=    {%.0f0}  {^E}d'énergie
+SkillPetDescriptionDamageMinOnly=    {%.0f0}  de dégâts
+SkillPetDescriptionDamageMinMax=    {%.0f0} - {%.0f1} de dégâts
+tagSkillPetTimeToLive={^E}Vit pendant {%.1f0} {^E}secondes
+tagSkillPetTimeToLiveMod={^E}vit pendant {^H}{%+.1f0} {^E}secondes
+tagSkillPrevious=... Précédent
+tagSkillNext=Suivant...
+HoldCtrlToShowBaseValues=Maintenir (CTRL) pressé pour afficher les valeurs de base.
+PressToAddUnusedSkillPoints=Clic gauche pour ajouter des points de compétences inutilisés.
+PressToAddUnusedDevotionPoints=Clic gauche pour ajouter des points de Dévotion inutilisés
+PressToActivateDevotion=Clic gauche pour activer
+PressToAssignDevotion=Clic gauche pour assigner
+AssignDevotionForExp=Doit être assigné pour gagner de l'expérience
+SkillEnhancement=+{%d0} à toutes les compétences
+NoSkillPointsToAdd=Aucun point de compétence à ajouter.
+NoDevotionPointsToAdd=Aucun point de Dévotion disponible
+LockedDevotion=Verrouillé - Requiert une étoile plus tôt dans la constellation
+ActiveDevotion=Actif
+YouMustIncreaseMasteryLevel=Vous devez augmenter votre niveau de maîtrise pour ajouter davantage de points.
+EnableOneBaseSkill=Au moins une compétence requise doit être activée
+MaxSkillLevelReached=Niveau de compétence maximum atteint
+ActiveMasteriesAllowedReached=Le nombre de maîtrises actives autorisées a été atteint
+LifeMonitorPercent={^E}S'active quand la santé baisse au-dessous de {%.1f0}%
+FailedSkillDependancy=Requiert la compétence {%s0}
+FailedSkillDependancyAll=Requiert les compétences suivantes :
+FailedSkillDependancyOne=Requiert une des compétences suivantes :
+FailedSkillDependancyName={%s0} 
+FailedDevotionDependency=Affinité requise :
+FailedDevotionDependencyName={%d0} {%s1}
+FailedConstellationDependency=Dépendances de la constellation
+FailedConstellationSelfLocked=Cette constellation dépend de sa propre affinité. Vous avez besoin de plus d'affinité d'une autre constellation avant de pouvoir la désapprendre.
+ManaCost={^E}en coût énergétique
+ManaCostPerSecond={^E}en coût énergétique par seconde
+ActiveLifeCost={^E}en coût de santé active par seconde
+ActiveManaCost={^E}en coût d'énergie active par seconde
+ActiveDuration={^E}de durée
+Interval=Intervalle
+TargetRadius=de rayon de ciblage
+TargetAngle={%.0f0} {^E}degrés d'angle d'attaque
+TargetAngleMod=+{%.0f0} {^E}degrés d'angle d'attaque
+TargetNumber={%d0} {^E}cible(s) maximum
+TargetNumberMod=+{%d0} {^E}cible(s) maximum
+CooldownTime={^E}pour recharger la compétence
+ExplosionRadius=de rayon
+TargetRange=de portée
+ProjectileLaunchRotation={%.1f0} de Propagation de projectile 
+ProjectileLaunchNumber={%d0} {^E}Projectile(s)
+ProjectileLaunchNumberMod=+{%d0} {^E}Projectile(s)
+ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} {^E} fragments
+ProjectileFragmentsLaunchNumber={%d0} {^E} fragments
+ProjectilePiercingChance={%.1f0}% {^E}de chances de transpercer les ennemis
+ProjectilePiercingChanceMod=+{%.1f0}% {^E}de chances de transpercer les ennemis
+
+tagTooltipPetsHeader=Familiers
+tagTooltipSkillsHeader=Compétences conférées
+
+#Skill Wheel
+tagSkillConfig01=Config 1
+tagSkillConfig02=Config 2
+
+#Gamepad HUD
+tagGamePadSelect=Sélectionner
+tagGamePadBack=Retour
+tagGamePadEquip=Équiper l'objet
+tagGamePadDrop=Ramasser l'objet
+tagGamePadUseItem=Utiliser l'objet
+tagGamePadSellItem=Vendre l'objet
+tagGamePadMoveItem=Déplacer l'objet
+tagGamePadScroll=Dérouler
+tagGamePadAssignSkills=Assigner des compétences
+tagGamePadSwapConfig=Changer la configuration
+tagGamePadMove=Déplacer
+tagGamePadZoomIn=Zoom +
+tagGamePadZoomOut=Zoom -
+tagGamePadExit=Sortir
+tagGamePadRevert=Revers
+tagGamePadSplitStack=Scinder la réserve
+tagGamePadNone=N/A
+
+tagGamePadCharacter=Personnage
+tagGamePadSkills=Compétences
+tagGamePadMap=Carte
+tagGamePadFactions=Factions
+tagGamePadAchieve=Succès
+tagGamePadLootFilter=Filtre de butin
+tagGamePadDevotionSearch=Chercher
+tagGamePadMinimapSize=Mini-carte
+
+tagControllerUIWarning=Votre résolution d'écran actuelle ne supporte pas l'interface utilisateur de Contrôleur
+
+tagShieldBlockInfo={^H}{%.0f0}% {^E}de chances de bloquer {^H}{%.0f1} {^E}de dégâts
+
+
+
+SkillManaCostReduction=-{%.0f0}% {^E}de coût d'énergie
+SkillCooldownReduction=-{%.0f0}% {^E}de rechargement de compétence
+SkillProjectileSpeedModifier={%+.0f0}% {^E}d'augmentation de la vitesse de projectile
+SkillManaCostReductionModifier=-{%.0f0}% {^E}de coût d'énergie
+SkillCooldownReductionModifier=-{%.0f0}% {^E}de rechargement de compétence
+
+GlobalChanceOfAllTag={^E}Chance de : {^H}
+GlobalChanceOfOneTag={^E}Chance pour un des suivants : {^H}
+GlobalPercentChanceOfAllTag={%.1f0}% {^E}de chance de : {^H}
+GlobalPercentChanceOfOneTag={%.1f0}% {^E}de chance pour un des suivants : {^H}
+tagIndent={     }
+tagDamageAbsorptionTitle={^E}Protège contre :
+formatQualifyingDamage={     {^E}%s0}
+tagQualifyingDamagePhysical=Physique
+tagQualifyingDamagePierce=Perforation
+tagQualifyingDamageLightning=Foudre
+tagQualifyingDamageFire=Feu
+tagQualifyingDamageCold=Glace
+tagQualifyingDamagePoison=Poison ou Acide
+tagQualifyingDamageLife=Vitalité
+tagQualifyingDamageBleeding=Saignement
+tagQualifyingDamageElemental=Élémentaire
+tagQualifyingDamageAether=Éther
+tagQualifyingDamageChaos=Chaos
+
+DamageSingleFormat={%.0f0}
+DamageRangeFormat={%.0f0}-{%.0f1}
+DamageInfluenceSingleFormat={%.1f0}
+DamageInfluenceRangeFormat={%.1f0}-{%.1f1}
+DamageReflexSingleFormat={%.1f0}
+DamageReflexRangeFormat={%.1f0}-{%.1f1}
+DamageSingleFormatSecond= {^E}sur {^H}{%.1f0} {^E}seconde
+DamageSingleFormatTime= {^E}sur {^H}{%.1f0} {^E}secondes
+DamageRangeFormatTime= {^E}sur{^H}{%.1f0}-{%.1f1} {^E}secondes
+DamageFixedSingleFormatSecond= {^E}pendant {^H}{%.1f0} {^E}seconde
+DamageFixedSingleFormatTime= {^E}pendant {^H}{%.1f0} {^E}secondes
+DamageFixedRangeFormatTime= {^E}pendant {^H}{%.1f0} - {%.1f1} {^E}secondes
+RetaliationFixedSingleFormatSecond={^H}{%.1f0} {^E}seconde
+RetaliationFixedSingleFormatTime={^H}{%.1f0} {^E}secondes
+RetaliationFixedRangeFormatTime={^H}{%.1f0} - {%.1f1} {^E}secondes
+tagDurationDamageOverTime={%d0} {^E}de dégâts chaque seconde
+tagDotReductionAbsolute={%d0} {^E}de réduction
+tagDotReductionPercent={%d0}% {^E}de réduction
+tagDotTimeRemaining={^H}{%.0f0} {^E}secondes restantes
+tagDotTimeRemainingPrecise={^H}{%.1f0} {^E}secondes restantes
+tagDurationFumble={%d0}% {^E}de chances de rater
+tagDotBleeding=Saigne
+tagDotCold=Gelé
+tagDotFire=Enflammé
+tagDotPoison=Empoisonné
+tagDotLightning=Foudroyé
+tagDotChaos=Chaos
+tagDotAether=Éthéré
+tagDotVitality=Perte de Vitalité
+tagDotLifeLeech=Vie volée
+tagDotManaLeech=Énergie volée
+tagDotPhysical=Trauma interne
+tagDotAttackSpeed=Vitesse d'attaque
+tagDotCastSpeed=Vitesse de sort
+tagDotRunSpeed=Vitesse de course
+tagDotOffensiveAbility=Capacité offensive
+tagDotDefensiveAbility=Capacité défensive
+tagDotFumble=Ratage en mêlée
+tagDotRangedFumble=Visée défaillante
+tagDotTotalDamageReduction=Dégâts totaux
+tagDotPhysicalDamageReduction=Dégâts physiques
+tagDotElementalDamageReduction=Dégâts élémentaires
+tagDotTotalResistReduction=Résist. totales
+tagDotPhysicalResistReduction=Résist. physiques
+tagDotElementalResistReduction=Résist. élémentaires
+tagDotStun=Sonné
+tagDotSleep=Endormi
+tagDotTrap=Piégé
+tagDotFreeze=Gelé
+tagDotPetrify=Pétrifié
+
+tagSetItems=Ensemble ({%d0})
+tagSecond={^E}seconde
+tagSeconds={^E}secondes
+DamagePerSecond={%.0f0} {^S}de dégâts par seconde (si équipé)
+DamagePerSecondOffHand={%.0f0} {^S}de dégâts par seconde (main gauche)
+DamagePhysicalChance={%t0} {^K}de dégâts physiques{^E}
+DamageBasePhysical={%t0} {^K}de dégâts physiques{^S}
+DamageBasePierceRatio={%.0f0}% {^S}de perforation d'armure
+DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}de perforation d'armure
+DamageBonusPhysical={%t0} {^K}de dégâts physiques{^E}
+tagDamageBaseFire={%t0} {^O}de dégâts de feu{^S}
+tagDamageBaseLightning={%t0} {^Z}de dégâts de foudre{^S}
+tagDamageBaseCold={%t0} {^C}de dégâts de froid{^S}
+tagDamageBaseVitality={%t0} {^M}de dégâts de vitalité{^S}
+tagDamageBasePoison={%t0} {^L}de dégâts d'acide{^S}
+tagDamageBaseChaos={%t0} {^P}de dégâts de chaos{^S}
+tagDamageBaseAether={%t0} {^A}de dégâts d'éther{^S}
+DamageCold={%t0} {^C}de dégâts de froid{^E}
+DamageFire={%t0} {^O}de dégâts de feu{^E}
+DamageAether={%t0} {^A}de dégâts d'éther{^E}
+DamageChaos={%t0} {^P}de dégâts de chaos{^E}
+DamageLife={%t0} {^M}de dégâts de vitalité{^E}
+DamageLifeLeech={%t0}% {^E}de dégâts d'attaque sont convertis en santé
+DamageLightning={%t0} {^Z}de dégâts de foudre{^E}
+DamageElemental={%t0} {^Y}de dégâts élémentaires{^E}
+DamageModifierElemental={%+.0f0}% {^Y}de dégâts élémentaires{^E}
+DamageModifierElementalR={%+.0f0}-{%.0f1}% {^Y}de dégâts élémentaires{^E}
+DamagePhysical=+{%t0} {^K}de dégâts physiques{^E}
+DamagePierce={%t0} {^R}de dégâts de perforation{^E}
+DamagePoison={%t0} {^L}de dégâts d'acide{^E}
+DamageKnockdown={^}Ede renverser la cible{^H}{%t0}
+DamageStun={^E}Sonne la cible{%t0}
+DamageFreeze={^E}Gèle la cible{%t0}
+DamagePetrify={^E}Pétrifie la cible{%t0}
+DamageTrap={^E}Immobilise la cible{%t0}
+DamageTaunt={^E}Provoquer la cible 
+DamageThreat={^E}Génère une menace supplémentaire
+DamageConvert={^E}Contrôler l'esprit de la cible{%t0}
+DamageFear={^E}Terrifie la cible{%t0}
+DamageConfusion={^E}désorienter la cible{%t0}
+DamageDisruption={^E}Stoppe les compétences de la cible{%t0}
+DamagePercentCurrentLife={%t0}% {^E}de réduction de la santé de l'ennemi
+DamageManaDrain={%t0}% {^E}de brûlure d'énergie
+DamageManaBurnRatio= {^E}({^H}{%.0f0}% {^E}d'énergie brûlée cause des dégâts)
+DamageModifierManaBurn={%.0f0}% {^E}d'énergie brûlée cause des dégâts
+
+DamageDurationAttackSpeed=% {^E}de diminution de la vitesse d'attaque de l'ennemi
+DamageDurationCold= {^C}de dégâts de brûlure gel{^E}
+DamageDurationReduced= {^E}de défense réduite
+DamageDurationFire= {^O}de dégâts de brûlure{^E}
+DamageDurationLife= {^M}de perte de dégâts de vitalité{^E}
+DamageDurationLifeLeach= {^E}de drain de vie
+DamageDurationLightning= {^Z}de dégâts d'électrocution{^E}
+DamageDurationManaLeach= {^E}de drain d'énergie
+DamageDurationOffensiveAbility= {^E}de réduction de la capacité offensive de la cible
+DamageDurationOffensiveReduction= {^E}de réduction des dégâts physiques de la cible
+DamageDurationDefensiveAbility= {^E}de réduction de la capacité défensive de la cible
+DamageDurationDefensiveReduction= {^E}de réduction de l'armure de la cible
+DamageDurationPhysical= {^K}de trauma interne{^E}
+DamageDurationPoison= {^L}de dégâts de poison{^E}
+DamageDurationTotalSpeed=% {^E}de ralentissement de la cible
+DamageDurationRunSpeed=% {^E}de ralentissement des mouvements de la cible
+DamageDurationSpellCastSpeed=% {^E}de ralentissement du lancement des sorts de la cible
+DamageDurationBleeding= {^R}de dégâts de saignement{^E}
+DamageDurationElemental= {^Y}Flambée élémentaire{^E}
+
+DamageTotalDamageReductionPercent=% {^E}de réduction des dégâts de la cible
+DamageTotalDamageReductionAbsolute= {^E}de réduction des dégâts de la cible
+DamagePhysicalReductionPercent=% {^E}de réduction des dégâts physiques de la cible
+DamageElementalReductionPercent=% {^E}de réduction des dégâts élémentaires de la cible
+DamageTotalResistanceReductionPercent=% {^E}de réduction des résistances de la cible
+DamageTotalResistanceReductionAbsolute= {^E}de réduction des résistances de la cible
+DamagePhysicalResistanceReductionPercent=% {^E}de résistance physique de la cible réduite
+DamagePhysicalResistanceReductionAbsolute= {^E}de résistance physique de la cible réduite
+DamageElementalResistanceReductionPercent=% {^E}de résistances élémentaires de la cible réduites
+DamageElementalResistanceReductionAbsolute= {^E}de résistances élémentaires de la cible réduites
+DamageDurationFumble=% {^E}de risque que la cible rate ses attaques
+DamageDurationProjectileFumble=% {^E}de risques de visée défaillante de la cible
+
+DamageModifierPhysical={%+.0f0}% {^K}de dégâts physiques{^E}
+DamageModifierPhysicalR={%+.0f0}-{%.0f1}% {^K}de dégâts physiques{^E}
+DamageModifierPierceRatio={^E}Augmente la perforation d'armure de {^H}{%.0f0}%
+DamageModifierPierceRatioR={^E}Augmente la perforation d'armure de {^H}{%.0f0}-{%.0f1}%
+DamageModifierPierce={%+.0f0}% {^R}de dégâts de perforation{^E}
+DamageModifierPierceR={%+.0f0}-{%.0f1}% {^R}de dégâts de perforation{^E}
+DamageModifierCold={%+.0f0}% {^C}de dégâts de froid{^E}
+DamageModifierColdR={%+.0f0}-{%.0f1}% {^C}de dégâts de froid{^E}
+DamageModifierFire={%+.0f0}% {^O}de dégâts de feu{^E}
+DamageModifierFireR={%+.0f0}-{%.0f1}% {^O}de dégâts de feu{^E}
+DamageModifierPoison={%+.0f0}% {^L}de dégâts d'acide{^E}
+DamageModifierPoisonR={%+.0f0}-{%.0f1}% {^L}de dégâts d'acide{^E}
+DamageModifierLightning={%+.0f0}% {^Z}de dégâts de foudre{^E}
+DamageModifierLightningR={%+.0f0}-{%.0f1}% {^Z}de dégâts de foudre{^E}
+DamageModifierLife={%+.0f0}% {^M}de dégâts de vitalité{^E}
+DamageModifierLifeR={%+.0f0}-{%.0f1}% {^M}de dégâts de vitalité{^E}
+DamageModifierStun={%+.0f0}% {^E}de durée de l'étourdissement
+DamageModifierStunR={%+.0f0}-{%.0f1}% {^E}de durée de l'étourdissement
+DamageModifierChaos={%+.0f0}% {^P}de dégâts de chaos{^E}
+DamageModifierChaosR={%+.0f0}-{%.0f1}% {^P}de dégâts de chaos{^E}
+DamageModifierAether={%+.0f0}% {^A}de dégâts d'éther{^E}
+DamageModifierAetherR={%+.0f0}-{%.0f1}% {^A}de dégâts d'éther{^E}
+DamageModifierKnockdown={%+.0f0}% {^E}de durée de renversement
+DamageModifierKnockdownR={%+.0f0}-{%.0f1}% {^E}de durée de renversement
+DamageModifierTrap={%+.0f0}% {^E}de Durée de piège
+DamageModifierTrapR={%+.0f0}-{%.0f1}% {^E}de Durée de piège
+DamageModifierFreeze={%+.0f0}% {^E}de Durée de gel
+DamageModifierFreezeR={%+.0f0}-{%.0f1}% {^E}de Durée de gel
+DamageModifierPetrify={%+.0f0}% {^E}de Durée de pétrification
+DamageModifierPetrifyR={%+.0f0}-{%.0f1}% {^E}de Durée de pétrification
+
+DamageDurationModifierPhysical={%+.0f0}% {^K}de dégâts de trauma interne{^E}
+DamageDurationModifierBleeding={%+.0f0}% {^R}de dégâts de saignement{^E}
+DamageDurationModifierCold={%+.0f0}% {^C}de dégâts de brûlure de gel {^E}
+DamageDurationModifierFire={%+.0f0}% {^O}de dégâts de brûlure {^E}
+DamageDurationModifierPoison={%+.0f0}% {^L}de dégâts de poison {^E}
+DamageDurationModifierLightning={%+.0f0}% {^Z}de dégâts d'électrocution{^E}
+DamageDurationModifierLife={%+.0f0}% {^M}de perte de vitalité {^E}
+DamageDurationModifierAttackSpeed={%+.0f0}% {^E}d'attaque lente
+DamageDurationModifierSpellCastSpeed={%+.0f0}% {^E}de lancement lent
+DamageDurationModifierRunSpeed={%+.0f0}% {^E}de déplacement lent
+DamageDurationModifierLifeLeach={%+.0f0}% {^E}de drain de vie
+DamageDurationModifierManaLeach={%+.0f0}% {^E}de drain d'énergie
+DamageDurationModifierOffensiveAbility={%+.0f0}% {^E}de réduction de la capacité offensive de la cible
+DamageDurationModifierDefensiveAbility={%+.0f0}% {^E}de réduction de la capacité défensive de la cible
+DamageDurationModifierOffensiveReduction={%+.0f0}% {^E}de réduction des dégâts physiques de la cible 
+ImprovedTimeFormat= {^E}avec {^H}{%+.0f0}% {^E}de durée augmentée
+ImprovedTimeFormatR= {^E}avec {^H}{%+.0f0}-{%.0f1}% {^E}de durée augmentée
+IncreasedDuration={^H}{%+.0f0}%  {^E}de durée augmentée{%s1}
+
+RetaliationCold={%t0} {^C}en représailles de froid{^E}
+RetaliationFire={%t0} {^O}en représailles de feu{^E}
+RetaliationLife={%t0} {^M}en représailles de vitalité {^E}
+RetaliationLightning={%t0} {^Z}en représailles de foudre{^E}
+RetaliationElemental={%t0} {^Y}en représailles élémentaire{^E}
+RetaliationPhysical={%t0} {^K}en représailles de dégâts physiques {^E}
+RetaliationPierce={%t0} {^R}en représailles de perforation {^E}
+RetaliationPoison={%t0} {^L}en représailles d'acide{^E}
+RetaliationAether={%t0} {^A}en représailles d'éther{^E}
+RetaliationChaos={^P}{%t0} en représailles de chaos
+RetaliationStun={%t0} en représailles d'étourdissement
+RetaliationFreeze={%t0} en représailles de gel
+RetaliationPetrify={%t0} en représailles de pétrification
+RetaliationTrap={%t0} en représailles d'immobilisation
+RetaliationConvert={%t0} en représailles de contrôle de l'esprit
+RetaliationFear={%t0} en représailles de terreur
+RetaliationConfusion={%t0} en représailles de confusion
+RetaliationSleep={%t0} en représailles de sommeil
+RetaliationPercentCurrentLife={^E}représailles causant {^H}{%t0}% {^E}de réduction de la santé de l'ennemi
+RetaliationDurationAttackSpeed=% {^E}en représailles de réduction de vitesse d'attaque
+RetaliationDurationCold= {^C}en représailles de froid{^E}
+RetaliationDurationDefensiveAbility= {^E}en représailles de défense réduite 
+RetaliationDurationFire= {^O}en représailles de brûlure {^E}
+RetaliationDurationLife= {^M}en représailles de perte de vitalité {^E}
+RetaliationDurationLifeLeach= {^E}en représailles de vie absorbée 
+RetaliationDurationLightning= {^Z}en représailles d'électrocution {^E}
+RetaliationDurationManaLeach= {^E}en représailles de drain d'énergie 
+RetaliationDurationOffensiveAbility= {^E}en représailles de capacité offensive 
+RetaliationDurationOffensiveReduction= {^E}en représailles de réduction de dégâts 
+RetaliationDurationPhysical= {^K}en représailles de trauma interne {^E}
+RetaliationDurationBleeding= {^R}en représailles de saignement {^E}
+RetaliationDurationPoison= {^L}en représailles de poison {^E}
+RetaliationDurationRunSpeed=%  {^E}en représailles qui ralentit les mouvements 
+RetaliationDurationSpellCastSpeed=% {^E}en représailles qui Ralentit le lancement de sort 
+RetaliationModifierPhysical={%+.0f0}% {^K}en représailles de dégâts physiques {^E}
+RetaliationModifierPierceRatio={%+.0f0}% {^R}en représailles de perforation {^E}
+RetaliationModifierPierce={%+.0f0}% {^R}en représailles de perforation {^E}
+RetaliationModifierCold={%+.0f0}% {^C}en représailles de froid {^E}
+RetaliationModifierFire={%+.0f0}% {^O}en représailles de feu {^E}
+RetaliationModifierPoison={%+.0f0}% {^L}en représailles d'acide {^E}
+RetaliationModifierLightning={%+.0f0}% {^Z}en représailles de foudre{^E}
+RetaliationModifierAether={%+.0f0}% {^A}en représailles d'éther{^E}
+RetaliationModifierChaos={%+.0f0}% {^P}en représailles de chaos{^E}
+RetaliationModifierElemental={%+.0f0}% {^Y}en représailles élémentaire{^E}
+RetaliationModifierLife={%+.0f0}% {^M}en représailles de dégâts de vitalité {^E}
+RetaliationModifierStun={%+.0f0}% {^E}en représailles d'étourdissement 
+RetaliationModifierSleep={%+.0f0}% {^E}en représailles sommeil
+RetaliationDurationModifierPhysical={%+.0f0}% {^K}en représailles de trauma interne{^E}
+RetaliationDurationModifierBleeding={%+.0f0}% {^R}en représailles saignement{^E}
+RetaliationDurationModifierCold={%+.0f0}% {^C}en représailles de brûlure de gel{^E}
+RetaliationDurationModifierDefensiveAbility={%+.0f0}% {^E}en représailles de défense réduite
+RetaliationDurationModifierFire={%+.0f0}% {^O}en représailles brûlure{^E}
+RetaliationDurationModifierLife={%+.0f0}% {^M}en représailles de perte de vitalité{^E}
+RetaliationDurationModifierLifeLeach={%+.0f0}% {^E}en représailles de drain de vie
+RetaliationDurationModifierLightning={%+.0f0}% {^Z}en représailles d'électrocution{^E}
+RetaliationDurationModifierManaLeach={%+.0f0}% {^E}en représailles de drain d'énergie
+RetaliationDurationModifierOffensiveAbility={%+.0f0}% {^E}en représailles de capacité offensive
+RetaliationDurationModifierOffensiveReduction={%+.0f0}% {^E}en représailles de réduction des dégâts
+RetaliationDurationModifierPoison={%+.0f0}% {^L}en représailles de poison{^E}
+
+DefenseAbsorptionProtection={%.0f0} d'armure
+DefenseAbsorptionProtectionR={%.0f0}-{%.0f1} d'armure
+DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}d'armure
+DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^E}d'armure
+DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}de bonus d'armure
+DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}de bonus d'armure
+DefensePhysical={%.0f0}% {^K}de résistance physique{^E}
+DefensePhysicalR={%.0f0}-{%.0f1}% {^K}de résistance physique{^E}
+DefensePierce={%.0f0}% {^R}de résistance à la perforation{^E}
+DefensePierceR={%.0f0}-{%.0f1}% {^R}de résistance à la perforation{^E}
+DefenseElementalResistance={%.0f0}% {^Y}de résistance aux éléments{^E}
+DefenseElementalResistanceR={%.0f0}-{%.0f1}% {^Y}de résistance aux éléments{^E}
+DefenseCold={%.0f0}% {^C}de résistance au froid{^E}
+DefenseColdR={%.0f0}-{%.0f1}% {^C}de résistance au froid{^E}
+DefenseFire={%.0f0}% {^O}de résistance au feu{^E}
+DefenseFireR={%.0f0}-{%.0f1}% {^O}de résistance au feu{^E}
+DefenseAether={%.0f0}% {^A}de résistance à l'éther{^E}
+DefenseAetherR={%.0f0}-{%.0f1}% {^A}de résistance à l'éther{^E}
+DefenseChaos={%.0f0}% {^P}de résistance au chaos{^E}
+DefenseChaosR={%.0f0}-{%.0f1}% {^P}de résistance au chaos{^E}
+DefensePoison={%.0f0}% {^L}de résistances aux poisons et à l'acide{^E}
+DefensePoisonR={%.0f0}-{%.0f1}% {^L}de résistances aux poisons et à l'acide{^E}
+DefenseLightning={%.0f0}% {^Z}de résistance à la foudre{^E}
+DefenseLightningR={%.0f0}-{%.0f1}% {^Z}de résistance à la foudre{^E}
+DefenseLife={%.0f0}% {^M}de résistance aux dégâts de vitalité{^E}
+DefenseLifeR={%.0f0}-{%.0f1}% {^M}de résistance aux dégâts de vitalité{^E}
+DefenseStun={%.0f0}% {^E}de durée d'étourdissement réduite
+DefenseStunNegative={%.0f0}% {^E}de résistance à l'étourdissement
+DefenseStunR={%.0f0}-{%.0f1}% {^E}de durée d'étourdissement réduite
+DefenseLifeLeach={%.0f0}% {^E}de résistance au drain de vie
+DefenseLifeLeachR={%.0f0}-{%.0f1}% {^E}de résistance au drain de vie
+DefenseManaLeach={%.0f0}% {^E}de résistance au drain d'énergie
+DefenseManaLeachR={%.0f0}-{%.0f1}% {^E}de résistance au drain d'énergie
+DefenseTrap={%.0f0}% {^E}de durée de prise au piège réduite
+DefenseTrapNegative={%.0f0}% {^E}de résistance aux pièges
+DefenseTrapR={%.0f0}-{%.0f1}% {^E}de durée de prise au piège réduite
+DefenseFreeze={%.0f0}% {^E}de réduire la durée du blocage causé par le gel
+DefenseFreezeNegative={%.0f0}% {^E}de résistance au gel
+DefenseFreezeR={%.0f0}-{%.0f1}% {^E}de réduire la durée du blocage causé par le gel
+DefenseKnockdown={%.0f0}% {^E}de durée de mise à terre réduite
+DefenseKnockdownNegative={%.0f0}% {^E}de résistance à la mise à terre
+DefenseKnockdownR={%.0f0}-{%.0f1}% {^E}de durée de mise à terre réduite
+DefensePetrify={%.0f0}% {^E}de réduire la durée de pétrification
+DefensePetrifyNegative={%.0f0}% {^E}de résistance à la pétrification
+DefensePetrifyR={%.0f0}-{%.0f1}% {^E}de réduire la durée de pétrification
+DefenseTaunt={%.0f0}% {^E}Protection contre la provocation
+DefenseConvert={%.0f0}% {^E}de durée de Contrôle de l'esprit réduite
+DefenseFear={%.0f0}% {^E}de durée de peur réduite
+DefenseConfusion={%.0f0}% {^E}de résistance à la confusion
+DefenseDisruption={%.0f0}% {^E}de protection contre la rupture de compétence
+DefensePercentLife={%.0f0}% {^E}de résistance à la réduction de vitalité
+DefenseBleeding={%.0f0}% {^R}de résistance au saignement{^E}
+DefenseBleedingR={%.0f0}-{%.0f1}% {^R}de résistance au saignement{^E}
+DefenseBlock={%.0f0} {^E}de dégâts bloqués
+DefenseReflect={%.0f0}% {^E}de dégâts renvoyés
+DefenseReflectR={^H}{%.0f0}-{%.0f1}% {^E}de dégâts renvoyés
+DefensePhysicalDuration={%.0f0}% {^K}de réduction de la durée de trauma interne{^E}
+DefenseBleedingDuration={%.0f0}% {^R}de réduction de la durée de saignement{^E}
+DefenseColdDuration={%.0f0}% {^C}de réduction de la durée de brûlure de gel{^E}
+DefenseFireDuration={%.0f0}% {^O}de réduction de la durée de brûlure{^E}
+DefensePoisonDuration={%.0f0}% {^L}de réduction de la durée du poison{^E}
+DefenseLightningDuration={%.0f0}% {^Z}de réduction de la durée de l'électrocution{^E}
+DefenseLifeDuration={%.0f0}% {^M}de réduction de la durée de perte de vitalité{^E}
+DefenseLifeLeachDuration={%.0f0}% {^E}de réduction de la durée de drain de vie
+DefenseManaLeachDuration={%.0f0}% {^E}de réduction de la durée de drain d'énergie
+DefensePercentCurrentLife={%.0f0}% {^E}de résistance à la réduction de vie
+DefenseManaBurnRatio={%.0f0}% {^E}de résistance à la Brûlure de mana
+DefenseProtectionModifier={^E}Augmente la protection d'armure de {^H}{%.0f0}%
+DefenseProtectionModifierR={^E}Augmente la protection d'armure de {^H}{%.0f0}-{%.0f1}%
+DefenseAbsorptionModifier={^E}Augmente l'absorption d'armure de {^H}{%.0f0}%
+DefenseAbsorptionModifierR={^E}Augmente l'absorption d'armure de {^H}{%.0f0}-{%.0f1}%
+DefensePhysicalModifier={^K}Augmente la résistance physique actuelle de {^H}{%.0f0}%{^E}
+DefensePierceModifier={^R}Augmente la résistance à la perforation actuelle de {^H}{%.0f0}%{^E}
+DefenseColdModifier={^C}Augmente la résistance au froid actuelle de {^H}{%.0f0}%{^E}
+DefenseFireModifier={^O}Augmente la résistance au feu actuelle de {^H}{%.0f0}%{^E}
+DefensePoisonModifier={^L}Augmente la résistance au poison et à l'acide actuelle de {^H}{%.0f0}%{^E}
+DefenseLightningModifier={^Z}Augmente la résistance à la foudre actuelle de {^H}{%.0f0}%{^E}
+DefenseLifeModifier={^M}Augmente la résistance aux dégâts de vitalité actuelle de {^H}{%.0f0}%{^E}
+DefenseChaosModifier={^P}Augmente la résistance aux dégâts de chaos actuelle de {^H}{%.0f0}%{^E}
+DefenseAetherModifier={^A}Augmente la résistance aux dégâts d'éther actuelle de {^H}{%.0f0}%{^E}
+DefenseStunModifier={^E}Augmente la résistance à l'étourdissement actuelle de {^H}{%.0f0}%
+DefenseBlockModifier={%+.0f0}% {^E}de Chance de Bloquer avec le bouclier
+DefenseBlockAmountModifier={%+.0f0}% {^E}de dégâts de bouclier bloqués
+DefenseBlockAmountModifierR={%+.0f0} à {%+.0f1}% {^E}de dégâts de bouclier bloqués
+DefenseReflectModifier={%+.0f0}% {^E}de dégâts réfléchis
+DefenseLifeLeachModifier={^E}Augmente le pourcentage de résistance au drain de vie actuelle de {^H}{%.0f0}%
+DefenseManaLeachModifier={^E}Augmente le pourcentage de résistance au drain d'énergie actuelle de {^H}{%.0f0}%
+DefensePercentLifeModifier={^E}Augmente la résistance de vie de {^H}{%.0f0}%
+DefenseBleedingModifier={^R}Augmente la résistance contre le saignement actuelle de {^H}{%.0f0}%{^E}
+DefenseElementalModifier={^Y}Augmente la résistance élémentaire actuelle de {^H}{%.0f0}%{^E}
+DefensePhysicalDurationModifier={%+.0f0}% {^K}de réduction de la durée des blessures{^E}
+DefenseBleedingDurationModifier={%+.0f0}% {^E}de réduction de la durée de saignement
+DefenseColdDurationModifier={%+.0f0}% {^C}de réduction de la durée de brûlure de gel{^E}
+DefenseFireDurationModifier={%+.0f0}% {^O}de réduction de la durée de brûlure{^E}
+DefensePoisonDurationModifier={%+.0f0}% {^L}de réduction de la durée de poison{^E}
+DefenseLightningDurationModifier={%+.0f0}% {^Z}de réduction de la durée d'électrocution{^E}
+DefenseLifeDurationModifier={%+.0f0}% {^M}de réduction de la durée de perte de vitalité{^E}
+DefenseLifeLeachDurationModifier={%+.0f0}% {^E}de réduction de la durée de drain de vie
+DefenseManaLeachDurationModifier={%+.0f0}% {^E}de réduction de la durée de drain d'énergie
+DefensePhysicalMaxResist={%+.0f0}% {^K}de résistance physique maximum{^E}
+DefensePhysicalMaxResistR={%+.0f0}-{%.0f1}% {^K}de résistance physique maximum{^E}
+DefensePierceMaxResist={%+.0f0}% {^R}de résistance à la perforation maximum{^E}
+DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^R}de résistance à la perforation maximum{^E}
+DefenseColdMaxResist={%+.0f0}% {^C}de résistance maximum au froid{^E}
+DefenseColdMaxResistR={%+.0f0}-{%.0f1}% {^C}de résistance maximum au froid{^E}
+DefenseFireMaxResist={%+.0f0}% {^O}de résistance maximum au feu{^E}
+DefenseFireMaxResistR={%+.0f0}-{%.0f1}% {^O}de résistance maximum au feu{^E}
+DefenseAetherMaxResist={%+.0f0}% {^A}de résistance maximum à l'éther{^E}
+DefenseAetherMaxResistR={%+.0f0}-{%.0f1}% {^A}de résistance maximum à l'éther{^E}
+DefenseChaosMaxResist={%+.0f0}% {^P}de résistance maximum au chaos{^E}
+DefenseChaosMaxResistR={%+.0f0}-{%.0f1}% {^P}de résistance maximum au chaos{^E}
+DefensePoisonMaxResist={%+.0f0}% {^L}de résistance maximum au poison et à l'acide{^E}
+DefensePoisonMaxResistR={%+.0f0}-{%.0f1}% {^L}de résistance maximum au poison et à l'acide{^E}
+DefenseLightningMaxResist={%+.0f0}% {^Z}de résistance maximum à la foudre{^E}
+DefenseLightningMaxResistR={%+.0f0}-{%.0f1}% {^Z}de résistance maximum à la foudre{^E}
+DefenseLifeMaxResist={%+.0f0}% {^M}de résistance maximum à la vitalité{^E}
+DefenseLifeMaxResistR={%+.0f0}-{%.0f1}% {^M}de résistance maximum à la vitalité{^E}
+DefenseStunMaxResist={%+.0f0}% {^E}de réduire la durée maximum d'étourdissement 
+DefenseStunMaxResistR={%+.0f0}-{%.0f1}% {^E}de réduire la durée maximum d'étourdissement 
+DefenseLifeLeachMaxResist={%+.0f0}% {^E}de résistance maximum au vol de vie
+DefenseLifeLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}de résistance maximum au vol de vie
+DefenseManaLeachMaxResist={%+.0f0}% {^E}de résistance maximum au vol d'énergie
+DefenseManaLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}de résistance maximum au vol d'énergie
+DefenseTrapMaxResist={%+.0f0}% {^E}de réduire la durée maximum de prise au piège 
+DefenseTrapMaxResistR={%+.0f0}-{%.0f1}% {^E}de réduire la durée maximum de prise au piège 
+DefenseFreezeMaxResist={%+.0f0}% {^E}de réduire la durée maximum de gel 
+DefenseFreezeMaxResistR={%+.0f0}-{%.0f1}% {^E}de réduire la durée maximum de gel 
+DefensePetrifyMaxResist={%+.0f0}% {^E}de réduire la durée maximum de pétrification 
+DefensePetrifyMaxResistR={%+.0f0}-{%.0f1}% {^E}de réduire la durée maximum de pétrification
+DefenseDisruptionMaxResist={%+.0f0}% {^E}de Protection maximum de rupture de compétence
+DefenseDisruptionMaxResistR={%+.0f0}-{%.0f1}% {^E}de protection maximum de rupture de compétence
+DefenseBleedingMaxResist={%+.0f0}% {^R}de résistance maximum au saignement{^E}
+DefenseBleedingMaxResistR={%+.0f0}-{%.0f1}% {^R}de résistance maximum au saignement{^E}
+DefenseSleepMaxResist={%+.0f0}% {^E}de résistance maximum au sommeil
+DefenseSleepMaxResistR={%+.0f0}-{%.0f1}% {^E}de résistance maximum au sommeil
+DefenseAllMaxResist={%+.0f0}% {^E}de résistance maximum à tout
+DefenseAllMaxResistR={%+.0f0}-{%.0f1}% {^E}de résistance maximum à tout
+DefenseReflectResist={%.0f0}% {^E}de Réduction des Dégâts renvoyés
+DefenseReflectResistR={%+.0f0}-{%.0f1}% {^E}de Réduction des Dégâts renvoyés
+
+RacialBonusPercentDamage={%+.0f0}% {^E}de dégâts à : {^H}{%s1}
+RacialBonusAbsoluteDamage={%+.0f0} {^E}de dégâts à : {^H}{%s1}
+RacialBonusPercentDefense={%.0f0}% {^E}de dégâts en moins de : {^H}{%s1}
+RacialBonusAbsoluteDefense={%.0f0} {^E}de dégâts en moins de : {^H}{%s1}
+RacialBonusRaceName={%s0}
+
+
+tagDamageSleep={^E}d'endormir la cible{%t0}
+tagDamageModifierSleep={%+.0f0}% {^E}de dégâts de sommeil
+tagDefenseSleep={%.0f0}% {^E}de résistance au sommeil
+tagDefenseSleepModifier={%+.0f0}% {^E}de résistance au sommeil
+tagDamageModifierTotalDamage={%+.0f0}% {^X}à tous les dégâts{^E}
+tagDamageModifierCritDamage={%+.0f0}% {^X}de dégâts critiques{^E}
+tagDamageModifierCritDamageR={%+.0f0}-{%.0f1}% {^X}de dégâts critiques{^E}
+tagDamageModifierDamageMult={^X}Dégâts totaux modifiés de {^H}{%.0f0}%{^E}
+tagRetaliationModifierTotalDamage={%+.0f0}% {^X}à tous les dégâts de représailles{^E}
+tagRetaliationModifierTotalDamageR={%+.0f0}-{%.0f1}% {^X} à tous les dégâts de représailles{^E}
+tagRetaliationModifierDamageMult={^X}Dégâts de représailles totaux modifiés de {^H}{%.0f0}%{^E}
+tagTotalSpeedResistance={%.0f0}% {^E}de résistance aux ralentissements
+tagTotalSpeedResistanceR={%+.0f0}-{%.0f1}% {^E}de résistance aux ralentissements
+tagMindcontrolledMonster=Contrôlé mentalement
+tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}de chance d'affecter jusqu'à {^H}{%d1} {^E}cible
+tagSparkMaxNumberChanceSingleMod={^H}+{%.0f0}% {^E}de chance d'affecter jusqu'à {^H}{%d1} {^E}cibles
+tagSparkMaxNumberChance={^H}{%.0f0}% {^E}de chance d'affecter jusqu'à {^H}{%d1} {^E}cibles
+tagSparkMaxNumberChanceMod={^H}+{%.0f0}% {^E}de chance d'affecter jusqu'à {^H}{%d1} {^E}cibles
+tagSparkMaxNumberSingle={^E}Affecte jusqu'à {^H}{%d0} {^E}cible
+tagSparkMaxNumberSingleMod={^E}Affecte jusqu'à {^H}+{%d0} {^E}cible
+tagSparkMaxNumber={^E}Affecte jusqu'à {^H}{%d0} {^E} cibles
+tagSparkMaxNumberMod={^E}Affecte jusqu'à {^H}+{%d0} {^E}cibles
+
+tagItemGrantSkill=Confère la compétence :
+tagItemSkill= (Conférée par l'objet)
+tagItemSkillShort= (Objet)
+tagEffect=Effet :
+tagSkillGrantEffect=Pouvoir céleste :
+tagDevotionAttached=Lié(e) à :
+
+tagItemUseDirections=[Clic droit pour utiliser]
+
+tagInspectTitle=Inspecter
+tagInspectOption=Inspecter le joueur
+tagInspectWarning=Ce joueur est trop loin pour être inspecté.
+tagGroup01=JcJ activé
+tagGroup02=Auto-Groupe activé
+tagAutoItemSkill= (Conférée par l'objet - Activation passive)
+tagExclusiveSkill={^o}Compétence exclusive - Une seule compétence exclusive peut être activée à la fois.
+tagItemSkillModified= {^E}vers {^Z}{%s0}
+
+tagAutoSort=Auto-ranger
+tagAutoComplete=Combiner les composants
+tagAttributeUndo=Annuler
+
+tagQuestItem=Objet de quête
+
+
+tagCR_Jewelry=Bijoux :
+tagRelicError=Vous ne pouvez pas appliquer une relique ou un charme à un objet épique ou légendaire.
+
+tagExperienceDisplayFormat=Expérience actuelle : {^Y}{%t0}{^W} ~ Expérience jusqu'au prochain niveau : {^Y}{%t1}
+tagCXP=XP : {%t0}
+tagGrave01=Tombe du joueur ~ {%t0}
+tagGrave02=Tué par {%t0}
+tagGrave03=Expérience récupérée : {%d0}
+tagHeroXPShort={%d0} EXP Héros
+tagBossXPShort={%d0} EXP Boss
+tagBossXPLong01=Boss tué
+tagBossXPLong02={%d0} EXP attribuée
+tagHeroXPLong01=Monstre héros tué
+tagHeroXPLong02={%d0} EXP attribuée
+
+tagPetBonusNameAllPets=Bonus pour tous vos familiers
+tagPetBonusNameOnePet=Bonus pour {%s0} familier
+tagPetBonusNameTwoPets=Bonus pour {%s0} et {%s1} familiers
+tagPetBonusNameManyPets=Bonus aux familiers
+
+TagSpeakerSetup=Configuration des enceintes
+TagHeadphoneSpeakers=Casque
+Tag41Speakers=Enceintes 4
+Tag51Speakers=Enceintes 5.1
+TagKeybind40=Utiliser une barre rapide alternative
+tagKeybindUnassigned=Non assigné
+
+tagSelectPet1=Sélectionner le familier 1
+tagSelectPet2=Sélectionner le familier 2
+tagSelectPet3=Sélectionner le familier 3
+tagSelectPet4=Sélectionner le familier 4
+tagSelectPet5=Sélectionner le familier 5
+tagSelectAllPets=Sélectionner tous les familiers
+tagPortraitAggressive=Régler sur agressif
+tagPortraitNormal=Régler sur normal
+tagPortraitDefensive=Régler sur la défensive
+tagPortraitHireling=Inspecter
+
+tagMove=Bouger
+tagForceMove=Forcer le déplacement
+tagUse=Interagir
+tagPickup=Ramasser
+tagPushToTalk=Pousser pour parler
+tagUC_Button=Débloquer le contenu
+tagUC_Message=Veuillez entrer votre code pour débloquer ce nouveau contenu.
+tagUC_OK=Ok
+tagUC_Cancel=Annuler
+tagUC_Error=Vous avez déjà débloqué ce contenu avec ce personnage.
+
+tagHotSlotSwap=Bascule entre les barres d'emplacements primaire et secondaire.
+tagHotSlotTitle=Barre de raccourcis alternative
+tagEmptyHotSlot=Bouton pour vider l'emplacement.
+
+tagDevotionUnassigned=Aucune compétence
+
+#Stack Window
+
+tagStackOk=OK
+tagStackCancel=Annuler
+
+#Multiplayer
+
+tagMPTrade=Commerce
+tagMPGroup=Groupe
+tagMPInGame=En jeu
+tagMPCharName=Nom du personnage
+tagMPCharLevel=Niveau
+tagMPCharClass=Classe
+tagMPAdd=Ajouter
+tagMPRemove=Retirer
+tagMPMessage=Message
+tagMPInvite=Inviter
+tagMPLeave=Quitter
+tagMPBan=Bannir
+tagMPAvailable=Joueurs disponibles
+tagMPGroup1=Groupe 1
+tagMPGroup2=Groupe 2
+tagMPGroup3=Groupe 3
+tagMPNoClass=N/A
+tagMPInviteMessage={%t0} vous a invité à rejoindre un groupe.
+tagMPInviteError={%t0} est déjà dans un groupe.
+tagMPInviteSend={%t0} s'est vu envoyer une invitation pour rejoindre votre groupe.
+tagMPInviteRemove={%t0} a été retiré du groupe.
+tagMPMessageJoin={%t0} a rejoint votre groupe.
+tagMPMessageLeave={%t0} a quitté votre groupe.
+tagMPMessageDeny={%t0} a décliné votre invitation.
+tagMPMessageBan={%t0} a été banni de la partie.
+tagMPMessageGameJoin={%t0} a rejoint la partie.  Le niveau de difficulté a été ajusté à davantage de joueurs.
+tagMPMessageGameLeave={%t0} a quitté la partie.
+tagMPQuestionBan=Êtes-vous sûr de vouloir bannir {%t0} de la partie ?
+tagMPInviteAccept=Accepter
+tagMPInviteDeny=Refuser
+tagMPStats=Stats de la partie :
+tagMPMapName=Nom de la carte :
+tagMPServerName=Nom du serveur :
+tagMPServerAddress=Adresse du serveur :
+tagMPPing=Ping :
+tagMPTime=Temps écoulé :
+tagMPServer=Nom du serveur : {%t0}
+tagMPIPAddress=IP : {%t0}
+tagMPPort=Port : {%t0}
+tagMPErrorNoTarget=Ce joueur est trop loin pour le cibler.
+tagMPNameLevel={%t0} ({%d1})
+tagMPClass={%s0}
+tagMPLocation={%s0}
+tagMPLifeMana={^R}{%d0}/{%d1} {^G}{%d2}/{%d3}
+tagMPReport=Rapport
+tagTradeError01={%t0} négocie actuellement avec un autre joueur.
+tagTradeError02={%t0} a refusé votre demande d'échange.
+tagTradeError03={%t0} vous fait une demande d'échange.
+tagTradeError04=Vous n'avez pas assez de place dans votre inventaire pour accepter cet échange.
+tagTradeButton01=Marchander
+tagTradeButton02=Annuler
+tagTradeDistance=Ce joueur est trop loin pour pouvoir marchander.
+tagChatGroup=Groupe
+tagChatAll=TOUS
+tagChatFriends=AMIS
+tagChatReply=REPONDRE
+tagChatSpeak=Parler à...
+tagChatError=Aucun joueur avec ce pseudonyme n'existe.
+tagChatMuted={%t0} est à présent muet.
+tagChatUnmuted={%t0} n'est plus muet.
+tagChatCommandShort01=p
+tagChatCommandShort02=a
+tagChatCommandShort03=r
+tagChatCommandShort04=t
+tagChatCommandShort05=m
+tagChatCommandShort06=u
+
+
+#patch v1.2
+
+tagExclusiveSkillConflict=^rVous avez déjà activé une compétence exclusive plus puissante, {%s0}.
+tagAutoToggledSkill=^oLes buffs sont activés automatiquement.
+CooldownCharges={%d0} {^E}jets max.
+CooldownChargesMod=+{%d0} {^E}jets max.
+PotionCooldownCharges={%d0} {^E}utilisations max.
+PotionCooldownChargesMod=+{%d0} {^E}utilisations max.
+tagCharRunSpeedMaxModifier={%+.0f0} % {^E}de vitesse de déplacement max.
+tagCharSpellCastSpeedMaxModifier={%+.0f0} % {^E}de vitesse de jet de sort max.
+tagCharAttackSpeedMaxModifier={%+.0f0} % {^E}de vitesse d'attaque max.
+tagCharAttribute04MultModifier={^E}Santé totale modifiée de {^H}{%.0f0} %
+tagEvade=Esquive
+DamageDurationDamageMult=% de {^E}Scindement
+DamageDurationModifierDamageMult={%+.0f0} % {^E}d'augmentation de Scindement
+tagDotDamageMutiplier=Scindement
+tagDurationDamageMultiplier={^E}{^H}{%d0} % {^E}de dégâts subis en plus
+tagToggleUI=Activer/désactiver IU
+tagCharStatsPetStunResist=Résist. à Étourdissement
+tagCharStatsPetStunResistInfo=Le pourcentage de bonus à la résistance à Étourdissement de vos familiers et sbires invoqués.
+tagCharStatsPetCritDamage=Dégâts critiques
+tagCharStatsPetCritDamageInfo=Le pourcentage de bonus aux dégâts critiques de vos familiers et sbires invoqués.
+tagCurrentLevelAugment=Niveau actuel : {%d0} + ^B{%d1}
+tagNextLevelAugment=Niveau suivant : {%d0} + ^B{%d1}
+tagCurrentLevelExcessAugment=Niveau actuel : {%d0} + ^R{%d1}
+tagNextLevelExcessAugment=Niveau suivant : {%d0} + ^R{%d1}
+tagCharStatsReflectResist=Résist. à Réflexion
+tagCharStatsReflectResistInfo=La résistance aux effets de réflexion qui vous infligent des dégâts.
+tagHUDHealthPercent_Head={%d0}%
+tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
+

@@ -1,0 +1,4498 @@
+#prefix/quality/style/name/suffix concatenation
+
+tagItemNameOrder={%_s0}{%_s1}{%_s2}{%_s3}{%_s4}
+tagItemNameAndStack={%s0} ({%d1})
+
+#Weapons
+
+tagWeaponSwordA000={^W}シヴ
+tagWeaponSwordA001={^W}グラディウス
+tagWeaponSwordA002={^W}レイザー
+tagWeaponSwordA003={^W}ショートソード
+tagWeaponSwordA004={^W}カーバー
+tagWeaponSwordA005={^W}ロングソード
+tagWeaponSwordA006={^W}ブロードソード
+tagWeaponSwordA007={^W}ブッチャー
+tagWeaponSwordA008={^W}カットラス
+tagWeaponSwordA009={^W}マングラー
+tagWeaponSwordA010={^W}フェルブレイド
+tagWeaponSwordA011={^W}ボーンソー
+tagWeaponSwordA012={^W}コンカラー
+tagWeaponSwordA013={^W}セイバー
+
+tagWeaponSwordB001={^L}サラザールズ ソブリン ブレイド
+tagWeaponSwordB001Desc="その揺るぎなき奉仕のため ブレイド オブ クトーンに 授けられた。"
+tagWeaponSwordB002={^W}スペクトラル ブロードソード
+tagWeaponSwordB003={^L}スペクトラル ロングソード
+tagWeaponSwordB004={^G}ホーンド ロングソード
+tagWeaponSwordB005={^G}ホーンド ブロードソード
+tagWeaponSwordB006={^G}ホーンド コンカラー
+tagWeaponSwordB007={^L}マルカダールズ ドレッドブレイド
+tagWeaponSwordB008={^L}マンティコア ロングソード
+tagWeaponSwordB009={^W}ボーンカーバー
+tagWeaponSwordB010={^L}ボーンブレイド
+tagWeaponSwordB011={^W}デルマプテラン クロウ
+tagWeaponSwordB012={^L}デルマプテラン スライサー
+tagWeaponSwordB013={^L}ブラッドローズ ブレイド
+tagWeaponSwordB013Desc="クトーンの血で清められた､ タロニスの剣。"
+
+tagWeaponSwordC001={^B}ライトニング ロッド
+tagWeaponSwordC002={^B}ハウンズ バイト
+tagWeaponSwordC002Desc="刃先は､ 腐食と腐敗の 悪臭を 放っている。"
+tagWeaponSwordC003={^B}オーメン
+tagWeaponSwordC004={^B}狂気
+tagWeaponSwordC004Desc="狂気に歪んだ切っ先は､ 触れる すべてを 狂わせる。"
+tagWeaponSwordC005={^B}ブラッド カーバー
+tagWeaponSwordC006=(S) {^B}ブラッドリーパーの鉤爪
+tagWeaponSwordC007={^B}デュエリストのセイバー
+tagWeaponSwordC007Desc="剣の達人一族によって､ 繊細に バランスが 調節された。"
+tagWeaponSwordC008={^B}治安判事のセンサー
+tagWeaponSwordC008Desc="政敵を十分に買収できないことが 分かったとき､ マルマスの 治安判事は 交渉に代わる 手段を使った。"
+tagWeaponSwordC009={^B}フレイムブランド
+tagWeaponSwordC010={^B}ソウルシーフ
+tagWeaponSwordC011={^B}チルブレーズ
+tagWeaponSwordC012={^B}スパインカーバー
+tagWeaponSwordC013={^B}アサシンズ コーリング
+tagWeaponSwordC013Desc="毒の小瓶が刃の中に 嵌め 込まれ､ 固く麻痺させ 遂には 死に至らしめる。"
+tagWeaponSwordC014=(S) {^B}ブラインド アサシンの剃刀
+tagWeaponSwordC015={^B}ストームシーカーのセイバー
+tagWeaponSwordC016={^B}ウィリーの剃刀
+tagWeaponSwordC016Desc="この刃の先端は､ 決して 鈍らない。"
+tagWeaponSwordC017={^B}ブラッドボーン セイバー
+
+tagWeaponSwordD001={^I}深紅の棘
+tagWeaponSwordD001Desc="その武器を持った者は､ 抑えられない 血の渇望に 満たされる。"
+tagWeaponSwordD002={^I}クリスタラム
+tagWeaponSwordD002Desc="未利用の力が満ち溢れている ソラドリン クリスタル ブレイド。"
+tagWeaponSwordD003={^I}グリム フェイト
+tagWeaponSwordD004={^I}マインドワープ
+tagWeaponSwordD005={^I}鍛え直したベロナス
+tagWeaponSwordD005Desc="かつて壊れたベロナスを 屠りし武器は､ 最終的に 強力な剣に 鍛え直された。"
+tagWeaponSwordD006={^I}ブラッドソング
+tagWeaponSwordD007=(S) {^I}ネックス
+tagWeaponSwordD007Desc="この刃を見ると､ 己が死の運命を 感知し得る。"
+tagWeaponSwordD008=(S) {^I}オルタス
+tagWeaponSwordD008Desc="ただこの剣を眺めるだけで､ 希望に 満たされる。"
+tagWeaponSwordD009=(S) {^I}デスマークの鉤爪
+tagWeaponSwordD010={^I}ストームハート
+tagWeaponSwordD010Desc="柄に文字が彫り込まれている: D.T."
+tagWeaponSwordD011={^I}リーヴァーの鉤爪
+tagWeaponSwordD012={^F}マッド クイーンの鉤爪
+tagWeaponSwordD012Desc="子供たちから隔離されて 塁壁の下に 閉じ込められ､ ハサミムシの 女王はゆっくりと 発狂した。"
+tagWeaponSwordD013=(S) {^I}毒刃の剃刀
+
+tagWeaponSwordF001={^G}リージョン カーバー
+tagWeaponSwordF002={^G}チョーズン ブレイド
+tagWeaponSwordF003={^G}デビルズ バーゲン
+tagWeaponSwordF004={^G}リージョン スライサー
+
+tagWeaponBluntA000={^W}クラブ
+tagWeaponBluntA001={^W}ボール メイス
+tagWeaponBluntA002={^W}メイス
+tagWeaponBluntA003={^W}フランジド メイス
+tagWeaponBluntA004={^W}マレット
+tagWeaponBluntA005={^W}モーニングスター
+tagWeaponBluntA006={^W}トランチャン
+tagWeaponBluntA007={^W}ブレイデッド メイス
+tagWeaponBluntA008={^W}ブラジョン
+tagWeaponBluntA009={^W}ウォーハンマー
+tagWeaponBluntA010={^W}ウォーメイス
+
+tagWeaponBluntB000=トーチ
+tagWeaponBluntB001={^W}ウォードンズ バーディクト
+tagWeaponBluntB001Desc="この武器のなすがままに､ 何人の 罪なき者が 命を失ったのか 定かではない。"
+tagWeaponBluntB002={^L}ウォードンズ ジャッジメント
+tagWeaponBluntB003={^W}トロール ボーンスマッシャー
+tagWeaponBluntB004={^L}トロール ボーンクラッシャー
+tagWeaponBluntB005={^W}スペクトラル モーニングスター
+tagWeaponBluntB006={^L}スペクトラル ブラジョン
+tagWeaponBluntB007={^L}キルリアンズ スカルブレイカー
+tagWeaponBluntB008={^G}スキナーズ トーチ
+tagWeaponBluntB008Desc="自暴自棄な男の 最後の 希望..."
+tagWeaponBluntB009={^G}アデプツ ブレイデッド メイス
+tagWeaponBluntB010={^G}アデプツ モーニングスター
+tagWeaponBluntB011={^G}アデプツ フランジド メイス
+tagWeaponBluntB012={^W}ミュータント アーム
+tagWeaponBluntB013={^L}ミュータント ブラジョン
+tagWeaponBluntB014={^L}グルントレプリスズ テール
+tagWeaponBluntB015={^L}プスクィルズ テール
+tagWeaponBluntB016={^L}バーログズ ブラディ アーム
+
+tagWeaponBluntC001={^B}イーサーの悲痛
+tagWeaponBluntC002={^B}アナーキー
+tagWeaponBluntC002Desc="このかつて神聖だったセプターは､ クトーンの 生き血が 塗られた後､ 現在に 至る間に 捻れて しまった。"
+tagWeaponBluntC003={^B}悪意の接触
+tagWeaponBluntC003Desc="無数の人間の命を 要求した 卑劣な 武器。"
+tagWeaponBluntC004=(S) {^B}ガーズマンのハンマー
+tagWeaponBluntC005={^B}黒檀ワンド
+tagWeaponBluntC006={^B}潰えぬ憤怒の聖槌
+tagWeaponBluntC007={^B}聖松明
+tagWeaponBluntC007Desc="メンヒルの護衛の 燃えたぎる ハンマー。"
+tagWeaponBluntC008={^B}スピリットクラッシャー
+tagWeaponBluntC009={^B}反逆
+tagWeaponBluntC009Desc="人類の順応性の具現。"
+tagWeaponBluntC010={^B}イーサースチール アービター
+tagWeaponBluntC011=(S) {^B}ブラインド アサシンの拳
+tagWeaponBluntC012={^B}ボーンスナップ ガベル
+tagWeaponBluntC013={^B}ブラック ハンド オブ サナー'シーン
+tagWeaponBluntC014={^B}開祖
+tagWeaponBluntC015={^B}戦争非難
+tagWeaponBluntC016={^B}バートホーレムの裁定
+tagWeaponBluntC016Desc="価値無き者に 神の審判を下す のに用いた､ 執政官 バートホーレムの 聖なる小槌。"
+tagWeaponBluntC017={^B}チルスチール レディーマー
+
+tagWeaponBluntD001={^I}デス オーメン
+tagWeaponBluntD001Desc="死の到来を告げる。"
+tagWeaponBluntD002={^I}冬の帳の篝火
+tagWeaponBluntD003={^I}アゴニー
+tagWeaponBluntD004={^I}焼死の使者
+tagWeaponBluntD005={^I}プレイグベアラー オブ ドリーグ
+tagWeaponBluntD006=(S) {^I}ドーンブレイカーのスレッジ
+tagWeaponBluntD007=(S) {^I}毒刃の拳
+tagWeaponBluntD008=(S) {^I}ウォーボーン ガベル
+
+tagWeaponBluntF001={^G}デビルズ クラッシャー
+tagWeaponBluntF002={^G}リージョン ウォーハンマー
+tagWeaponBluntF003={^G}デス フォース
+tagWeaponBluntF004={^G}ローワリ ガベル
+tagWeaponBluntF005={^G}デビルズ カジェル
+
+tagWeaponAxeA000={^W}ウッズマンズ アックス
+tagWeaponAxeA001={^W}ソーブレイド
+tagWeaponAxeA002={^W}ハチェット
+tagWeaponAxeA003={^W}ダブル アックス
+tagWeaponAxeA004={^W}クリーバー
+tagWeaponAxeA005={^W}ブレイド アックス
+tagWeaponAxeA006={^W}バトル アックス
+tagWeaponAxeA007={^W}クレセント アックス
+tagWeaponAxeA008={^W}ヘビー アックス
+tagWeaponAxeA009={^W}ビアデッド アックス
+
+tagWeaponAxeB001={^W}スペクトラル クリーバー
+tagWeaponAxeB002={^L}スペクトラル バトル アックス
+tagWeaponAxeB003={^L}ピット マスターズ アックス
+tagWeaponAxeB004={^W}ボーンクリーバー
+tagWeaponAxeB005={^L}ボーンサイス
+tagWeaponAxeB006={^G}オルマンズ アックス
+tagWeaponAxeB007={^L}イーサーワープト クリーバー
+tagWeaponAxeB008={^L}イーサースコーチト クリーバー
+
+tagWeaponAxeC001={^B}クルエル エッジ
+tagWeaponAxeC002={^B}リーパーズ タッチ
+tagWeaponAxeC002Desc="絶えて久しき民族によって 鍛造された､ 生贄の 儀式に 用いる 古代の道具。"
+tagWeaponAxeC003={^B}血祭り
+tagWeaponAxeC004=(S) {^B}ブラッドリーパーのクリーバー
+tagWeaponAxeC005={^B}ストームズ エッジ
+tagWeaponAxeC006={^B}クリーグのクリーバー
+tagWeaponAxeC006Desc="残酷な武器が 残酷な男に 所有された。"
+tagWeaponAxeC007={^B}メイルファイカス
+tagWeaponAxeC008={^B}暴食のドゥームソウ
+tagWeaponAxeC009={^B}サースティング モー
+tagWeaponAxeC010={^B}実体なき刃
+tagWeaponAxeC010Desc="この武器の刃には､ イーサーそのものが 付いている。"
+tagWeaponAxeC011={^B}ノッチト ボーン オブ ア サウザンド デス
+tagWeaponAxeC011Desc="すべてのノッチ (刻み目) が奪われた命。"
+tagWeaponAxeC012={^B}コープス デシクレイター
+tagWeaponAxeC013={^B}チョナグ'リ
+tagWeaponAxeC013Desc="判別不能の様々な 人と動物の 骨から成る､ シャーマニズム の斧。"
+tagWeaponAxeC014={^B}アスターカーン クリーバー
+tagWeaponAxeC015={^B}ヘルクロウ スライサー
+
+tagWeaponAxeD001={^I}バーウィッチの屠殺人
+tagWeaponAxeD001Desc="グリム ドーンの直後より､ ケアンの 人々を 制圧した 狂気と 堕落の 化身。"
+tagWeaponAxeD002={^I}三日月
+tagWeaponAxeD002Desc="「聖なる粛清」の間に 壊された と思われていた､ 月の崇拝者の 神聖な 武器。"
+tagWeaponAxeD003={^I}ブルータラックス
+tagWeaponAxeD004={^I}アーススプリッター
+tagWeaponAxeD004Desc="神々に懇願されたとき､ メンヒル山を 真っ二つに割って 「メンヒルの二子山」を 作った人間 について､ 伝説は語る。"
+tagWeaponAxeD005={^I}天罰
+tagWeaponAxeD006=(S) {^I}デスマークの首斬り斧
+
+tagWeaponAxeF001={^G}ローワリ ジャスティス
+tagWeaponAxeF002={^G}ソーラー エッジ
+tagWeaponAxeF003={^G}デス クレセント
+
+tagWeaponGun1hA001={^W}ハンド-ブランダバス
+tagWeaponGun1hA002={^W}ハウダー
+tagWeaponGun1hA003={^W}ペパーボックス ガン
+tagWeaponGun1hA004={^W}ハンド キャノン
+tagWeaponGun1hA005={^W}リボルバー
+tagWeaponGun1hA006={^W}シックスガン
+tagWeaponGun1hA007={^W}デリンジャー
+tagWeaponGun1hA008={^W}リピーター
+tagWeaponGun1hA009={^W}スコープ リボルバー
+tagWeaponGun1hA010={^W}ボレー ガン
+
+tagWeaponGun1hB001={^G}ダブルバレル ピストル
+tagWeaponGun1hB002={^G}ハンド モーター
+tagWeaponGun1hB003={^G}シュラプネル ピストル
+tagWeaponGun1hB004={^W}ブラッドスウォーン ピストル
+tagWeaponGun1hB005={^L}ブラッドスウォーン リピーター
+tagWeaponGun1hB006={^G}フランシス ガン
+
+tagWeaponGun1hC001={^B}レアンダー グリーンのハンド キャノン
+tagWeaponGun1hC001Desc="ブラックウォーター山賊の､ 冷たく死んだ 手から もぎ取った。"
+tagWeaponGun1hC002={^B}ウィッチストーカー
+tagWeaponGun1hC002Desc="手前勝手なアルケインの 穢れた悪用者と 戦うため､ 闇の魔力が 吹き込まれた。"
+tagWeaponGun1hC003={^B}オーウェルのリボルバー
+tagWeaponGun1hC003Desc="その老司祭は､ 平和の説教で 知られていた にあらず。"
+tagWeaponGun1hC004=(S) {^B}略奪者の激怒
+tagWeaponGun1hC005=(S) {^B}略奪者の処罰
+tagWeaponGun1hC006={^B}ザ スラッガー
+tagWeaponGun1hC006B={^B}スラッガー
+tagWeaponGun1hC007={^B}第三中隊のリボルバー
+tagWeaponGun1hC007Desc="銃身に一つの言葉が 刻み付け られている： 忠誠。"
+tagWeaponGun1hC008={^B}暴動
+tagWeaponGun1hC009={^B}無法者の報復
+tagWeaponGun1hC009Desc="捻れた正義感。"
+tagWeaponGun1hC010={^B}スライム ボルター
+tagWeaponGun1hC011={^B}ソウルフレイヤー
+tagWeaponGun1hC012={^B}プレイグボーン リボルバー
+tagWeaponGun1hC013={^B}調停者
+tagWeaponGun1hC014={^B}厳しい北国の凍てつく銃身
+tagWeaponGun1hC015={^B}バーウィッチ ピースキーパー
+tagWeaponGun1hC015Desc="保安官ハーモン グリフィスの､ 信頼できる 携帯武器。"
+tagWeaponGun1hC016=(S) {^B}薬剤師の注射器
+tagWeaponGun1hC017=(S) {^B}誓い破り
+tagWeaponGun1hC018={^B}コープスフレイヤー
+tagWeaponGun1hC019={^B}焦土銃
+tagWeaponGun1hC020={^B}チルボーラー
+
+tagWeaponGun1hD001={^I}悪魔の舌
+tagWeaponGun1hD002={^I}大破壊
+tagWeaponGun1hD003={^I}解放者
+tagWeaponGun1hD003Desc="異教の魔神崇拝者の 粛清の際に 使われた､ 女尋問官 ジョシアン ファレルの 携帯武器。"
+tagWeaponGun1hD004={^I}絶滅者
+tagWeaponGun1hD004Desc="皆殺しにし､ はらわたを抜き､ 絶滅させよ。"
+tagWeaponGun1hD005={^I}アルケイナム シジリス
+tagWeaponGun1hD005Desc="シルバー タワーの グランド アルカニスト､ マスター アグリヴィックスの 精密な指定 で作られた。"
+tagWeaponGun1hD006={^I}デスディーラーズ サイドアーム
+tagWeaponGun1hD007=(S) {^I}デーモンスレイヤーの抹殺銃
+tagWeaponGun1hD008=(S) {^I}銃身職工の一斉射撃
+tagWeaponGun1hD009=(S) {^I}銃身職工の集中砲火
+
+tagWeaponGun1hF001={^G}デビルズ レトリビューション
+tagWeaponGun1hF002={^G}ソーラー リボルバー
+tagWeaponGun1hF003={^G}デス リボルバー
+tagWeaponGun1hF004={^G}リージョン ハンド キャノン
+tagWeaponGun1hF005={^G}デス シックスガン
+
+tagWeaponGun2hA001={^W}マスケット
+tagWeaponGun2hA002={^W}フリントロック ライフル
+tagWeaponGun2hA003={^W}ボルト-アクション ライフル
+tagWeaponGun2hA004={^W}ブランダバス
+tagWeaponGun2hA005={^W}リボルビング ライフル
+tagWeaponGun2hA006={^W}リピーティング ライフル
+tagWeaponGun2hA007={^W}カービン
+tagWeaponGun2hA008={^W}ブリーチローディング ライフル
+tagWeaponGun2hA009={^W}リボルビング キャノン
+tagWeaponGun2hA010={^W}ショットガン
+tagWeaponGun2hA011=コンバット ショットガン
+
+tagWeaponGun2hB001={^G}ロウテイティング ライフル
+tagWeaponGun2hB002={^G}フロントローディング ライフル
+tagWeaponGun2hB003={^G}シュラプネル ガン
+tagWeaponGun2hB004={^W}フレッシュワープト ライフル
+tagWeaponGun2hB005={^L}フレッシュワープト カービン
+tagWeaponGun2hB006={^W}フレッシュワープト コンフラグレイター
+tagWeaponGun2hB007={^L}フレッシュワープト インシネレイター
+tagWeaponGun2hB008={^L}ラグ'ナダールズ モー
+
+tagWeaponGun2hC001={^B}狩猟家
+tagWeaponGun2hC001B={^B}狩猟家
+tagWeaponGun2hC002={^B}ザ アイ
+tagWeaponGun2hC002B={^B}アイ
+tagWeaponGun2hC002Desc="一撃必殺。"
+tagWeaponGun2hC003={^B}ヘルモー ショットガン
+tagWeaponGun2hC004={^B}デビルズ マーク
+tagWeaponGun2hC005={^B}運命の意志
+tagWeaponGun2hC005Desc="弾道上に誰がいても､ すべての 銃弾は 本来の的と 出会う 運命にある。"
+tagWeaponGun2hC006={^B}緋色の狙撃手
+tagWeaponGun2hC006B={^B}緋色の狙撃手
+tagWeaponGun2hC007={^B}塩芯ボルター
+tagWeaponGun2hC007Desc="イセリアルを 破壊するよう 設計された､ スクラップの 集まった 武器。"
+tagWeaponGun2hC008={^B}ラースブリンガー
+tagWeaponGun2hC009={^B}サンダークラップ
+tagWeaponGun2hC010=(S) {^B}シャープシューターズ ボルト ライフル
+tagWeaponGun2hC011=(S) {^B}業火の連発銃
+tagWeaponGun2hC012={^B}ラーススチール リピーター
+tagWeaponGun2hC013=(S) {^B}フレイム キーパーの連発銃
+
+tagWeaponGun2hD001={^I}魔王
+tagWeaponGun2hD002={^I}魔の時
+tagWeaponGun2hD002Desc="宗教裁判の懲罰から 聖域を 守るため､ 魔神に 祝福されて 信者に授け られた武器。"
+tagWeaponGun2hD003={^I}ヘルボーン
+tagWeaponGun2hD003Desc="銃身は､ 七つの地獄の 激怒を 前に 噴き出す。"
+tagWeaponGun2hD004={^I}魂渦
+tagWeaponGun2hD004Desc="すべてのショットが､ イーサーを 通して 波紋を送る。"
+tagWeaponGun2hD005={^I}ガットリッパー
+tagWeaponGun2hD006=(S) {^I}ウルズインのフレイムスプレッダー
+tagWeaponGun2hD007=(S) {^I}ヴァルダンのライフル
+
+tagWeaponGun2hF001={^G}デビルズ マスケット
+tagWeaponGun2hF002={^G}ハーベスツ ダブルバレル
+
+tagWeaponCrossbow2hA001={^W}クロスボウ
+tagWeaponCrossbow2hA002={^W}アーバレスト
+tagWeaponCrossbow2hA003={^W}ヘビー クロスボウ
+tagWeaponCrossbow2hA004={^W}スコーピオン
+
+tagWeaponCrossbow2hB001={^W}スペクトラル クロスボウ
+tagWeaponCrossbow2hB002={^L}スペクトラル アーバレスト
+tagWeaponCrossbow2hB003={^G}ギャブリンズ クロスボウ
+
+tagWeaponCrossbow2hC001={^B}ボルトスピッター
+tagWeaponCrossbow2hC001Desc="試作品の武器。 不幸なことに､ 量産可能 となる前に 発明者が 殺された。"
+tagWeaponCrossbow2hC002={^B}病弊
+tagWeaponCrossbow2hC003={^B}バーウィッチの呪い
+tagWeaponCrossbow2hC003Desc="語るには多すぎる 過去の 所有者をもつ 不吉な武器。"
+tagWeaponCrossbow2hC004={^B}黒檀の石弓
+tagWeaponCrossbow2hC004Desc="黒檀荘園の､ 外の森の 木を使って 作った。"
+tagWeaponCrossbow2hC005={^B}極寒のクイルブレス
+tagWeaponCrossbow2hC006={^B}杭投げ
+tagWeaponCrossbow2hC007={^B}蜘蛛の抱擁
+tagWeaponCrossbow2hC007B={^B}蜘蛛の抱擁
+tagWeaponCrossbow2hC008={^B}ビスミールの不快なカラス
+tagWeaponCrossbow2hC008Desc="ビスミールの信仰心 篤き 信者の､ 象徴的 武器。"
+tagWeaponCrossbow2hC009={^B}ウルダ'ジャックス
+tagWeaponCrossbow2hC009Desc="粗雑な､ それでいて 驚くほど 効果的な､ 山岳荒野 の武器。"
+tagWeaponCrossbow2hC010={^B}スパークボルト アーバレスト
+tagWeaponCrossbow2hC011={^B}ナールズ アルケイン デストロイヤー
+tagWeaponCrossbow2hC011Desc="アルカニストから暗殺者に 転向した､ アルトス ナールが 好んだ武器。"
+tagWeaponCrossbow2hC012={^B}ワープブレス アーバレスト
+
+tagWeaponCrossbow2hD001={^I}シルバーボルト
+tagWeaponCrossbow2hD001Desc="デーモン スレイヤーに 転身した クトーン教信者､ デーモン ハンター エディス ザ ブラディッド 選り抜きの武器。"
+tagWeaponCrossbow2hD002={^I}クイルスロワー オブ ドリーグ
+tagWeaponCrossbow2hD002Desc="魔神ドリーグの まさにその エッセンスが 注入された。"
+tagWeaponCrossbow2hD003={^I}北のウィルム
+tagWeaponCrossbow2hD003Desc="偉大なるウィルムは､ 丸ごと貪る前に 触れたもの すべてを 凍らせる。"
+tagWeaponCrossbow2hD004={^I}ラカ'ジャックス
+tagWeaponCrossbow2hD005=(S) {^I}ハービンジャー オブ エターナル サファリング
+
+tagWeaponCrossbow2hF001={^G}ローワリ スコーピオン
+tagWeaponCrossbow2hF002={^G}チョーズン ボルター
+tagWeaponCrossbow2hF003={^G}ローワリ アーバレスト
+
+tagWeaponMelee2hA001={^W}グレートソード
+tagWeaponMelee2hA002={^W}ウォーソード
+tagWeaponMelee2hA003={^W}クレイモア
+tagWeaponMelee2hA004=フランベルジュ
+tagWeaponMelee2hA005={^W}グレート アックス
+tagWeaponMelee2hA006={^W}ウォー アックス
+tagWeaponMelee2hA007={^W}サイス
+tagWeaponMelee2hA008={^W}ハルバード
+tagWeaponMelee2hA009={^W}モール
+tagWeaponMelee2hA010={^W}スレッジハンマー
+tagWeaponMelee2hA011={^W}ウォーモール
+
+tagWeaponMelee2hB001=トロール ヘッドスマッシャー
+tagWeaponMelee2hB002=トロール スカルクラッシャー
+tagWeaponMelee2hB003={^G}ブルータル グレート アックス
+tagWeaponMelee2hB004={^G}ブルータル カーバー
+tagWeaponMelee2hB005={^G}ブルータル ディキャピテイター
+tagWeaponMelee2hB006={^L}アルカモス サイス
+tagWeaponMelee2hB007={^W}スペクトラル ウォー アックス
+tagWeaponMelee2hB008={^L}アルカモス ウォーソード
+tagWeaponMelee2hB009={^L}スペクトラル ウォーモール
+tagWeaponMelee2hB010={^L}バートホーレムズ ウォーモール
+tagWeaponMelee2hB011={^W}オブシディアン ヘッドスプリッター
+tagWeaponMelee2hB012={^L}オブシディアン ウォー クリーバー
+tagWeaponMelee2hB013={^G}ヘヴィルズ グレートソード
+tagWeaponMelee2hB014={^L}ヴォルドラクズ クラッシャー
+tagWeaponMelee2hB015={^L}ベイルゴアズ クラッシャー
+tagWeaponMelee2hB016={^L}ルーシャス ブレイドアーム
+tagWeaponMelee2hB016_Desc="言い表せぬほど イーサーに 歪められた。"
+
+tagWeaponMelee2hC001={^B}ガットレンチ イヴィサレイター
+tagWeaponMelee2hC002={^B}皆殺し
+tagWeaponMelee2hC003={^B}スリスベイン
+tagWeaponMelee2hC003Desc="忌まわしきスリスの 頭蓋骨を､ 数え切れぬ ほど二つに 割ったが故に､ この名が もたらされた。"
+tagWeaponMelee2hC004={^B}ファルコンズ クロウ
+tagWeaponMelee2hC005={^B}震動
+tagWeaponMelee2hC006={^B}導管
+tagWeaponMelee2hC006B={^B}導管
+tagWeaponMelee2hC006Desc="アルケイン鍛冶技術の 実験における 稀な 成功。"
+tagWeaponMelee2hC007={^B}ボーンシャード ラセレイター
+tagWeaponMelee2hC008={^B}ゴーレムフィスト ガベル
+tagWeaponMelee2hC009={^B}憤怒の剣
+tagWeaponMelee2hC010={^B}農場解放者
+tagWeaponMelee2hC010B={^B}農場解放者
+tagWeaponMelee2hC010Desc="帝国の武力によって 無慈悲に 鎮圧された 農場反乱に 由来する､ 歴史的武器。"
+tagWeaponMelee2hC011={^B}アルヴァリックの叱責
+tagWeaponMelee2hC012={^B}プリズマティック イヴィサレイター
+tagWeaponMelee2hC013={^B}レイザーリーフ グレイヴ
+tagWeaponMelee2hC013Desc="今は失われた時代､ 古代の技術 を使って 鍛造された。"
+tagWeaponMelee2hC014={^B}テネブリスの鎌
+tagWeaponMelee2hC014Desc="テネブリスの 生命泥棒､ 吸血鎌。"
+tagWeaponMelee2hC015={^B}神判のウォーハンマー
+tagWeaponMelee2hC015Desc="テンプル騎士団のブラザー､ バーナード メリントン の大ハンマー。"
+tagWeaponMelee2hC016=(S) {^B}光のチャンピオン
+tagWeaponMelee2hC017=(S) {^B}ワイルドコーラーの首切り斧
+tagWeaponMelee2hC018={^Z}シャー'ズールの加熱炉
+tagWeaponMelee2hC018B={^Z}シャー'ズールの焼却炉
+tagWeaponMelee2hC018Desc="シャー'ズールの ウォーモール の中で､ 炎が 果てしなく 燃え立っている。"
+tagWeaponMelee2hC019={^B}ラースモーン
+tagWeaponMelee2hC020={^B}トロールガット イヴィサレイター
+tagWeaponMelee2hC021=(S) {^B}モグドロゲンの神聖クリーバー
+
+tagWeaponMelee2hD001={^I}鉄拳制裁
+tagWeaponMelee2hD002={^I}ザ ギロチン
+tagWeaponMelee2hD003={^I}ナイトシェードのリーチ
+tagWeaponMelee2hD003Desc="アサシンたちの師匠､ ベラノールが 使った 異端の道具。 ナイトブレイドで､ 彼ほど グレートソードの 技を マスターした者は ほとんどいない。"
+tagWeaponMelee2hD004={^I}オブシディアン ジャガナート
+tagWeaponMelee2hD004Desc="活火山の溶解した 深淵の中で 造られた。"
+tagWeaponMelee2hD005={^I}地獄の業火
+tagWeaponMelee2hD005Desc="パラディン､ アリスター フォージベアラー の神聖な 槍が､ 大悪魔 の心臓を 貫いたときに 生まれた。"
+tagWeaponMelee2hD006={^I}ストームリーヴァー
+tagWeaponMelee2hD006Desc="無数のライトニング ストームを 貯めこんだ この武器は､ 自然の激怒を 解き放つ 準備がしてある。"
+tagWeaponMelee2hD007={^I}冬王の破滅剣
+tagWeaponMelee2hD007Desc="北流域の支配者にして 偉大なる 白狼の息子､ フロスナー王の 神聖な剣。"
+tagWeaponMelee2hD008={^I}テンポラル アークブレイド
+tagWeaponMelee2hD009=(S) {^I}ワイルドブラッド クラッシャー
+tagWeaponMelee2hD010=(S) {^I}ウルトスのストームシーカー
+tagWeaponMelee2hD011={^I}レヴィアタン
+tagWeaponMelee2hD012={^F}裂魂
+tagWeaponMelee2hD012_Desc="アルカモスの右腕､ 魂を貪る 邪悪な拷問者。"
+tagWeaponMelee2hD013={^F}シャー'ズールズ ワールドイーター
+tagWeaponMelee2hD013_Desc="クトーンのために 幾多となく 血の海を流した この武器は､ 更に多くの 血を恋い慕う。"
+
+tagWeaponMelee2hF001={^G}リージョン ウォーブレイド
+tagWeaponMelee2hF002={^G}ソーラー スレッジ
+tagWeaponMelee2hF003={^G}デス サイス
+tagWeaponMelee2hF004={^G}チョーズン ウォーモール
+tagWeaponMelee2hF005={^G}ルーナー スレッジ
+tagWeaponMelee2hF006={^G}チョーズン クラッシャー
+
+tagWeaponCaster1hA001={^W}ワンド
+tagWeaponCaster1hA002={^W}セプター
+tagWeaponCaster1hA003={^W}アルケイン ワンド
+tagWeaponCaster1hA004=アルケイン セプター
+tagWeaponCaster1hA005={^W}リチュアル ワンド
+tagWeaponCaster1hA006={^W}リチュアル セプター
+tagWeaponCaster1hA007={^W}イグザルテッド セプター
+tagWeaponCaster1hA008={^W}サクリフィシャル ナイフ
+tagWeaponCaster1hA009=ルーンド ダガー
+tagWeaponCaster1hA010={^W}アルケイン ダガー
+tagWeaponCaster1hA011={^W}スペルブレイド
+tagWeaponCaster1hA012=アルケイン ブレイド
+tagWeaponCaster1hA013=リチュアル ダガー
+tagWeaponCaster1hA014={^W}リチュアル ブレイド
+tagWeaponCaster1hA015={^W}イグザルテッド ダガー
+
+tagWeaponCaster1hB001={^G}アデプツ ダガー
+tagWeaponCaster1hB002={^G}アデプツ スペルブレイド
+tagWeaponCaster1hB003={^G}マスターズ スペルブレイド
+tagWeaponCaster1hB004={^G}アデプツ ワンド
+tagWeaponCaster1hB005={^G}アデプツ セプター
+tagWeaponCaster1hB006={^G}マスターズ セプター
+tagWeaponCaster1hB007={^G}ウィッチズ スペルブレイド
+tagWeaponCaster1hB008={^W}ボーンシヴ
+tagWeaponCaster1hB009={^L}ボーンスパイク
+tagWeaponCaster1hB010={^W}リフト スカージ クロウ
+tagWeaponCaster1hB011={^L}リフト スカージ スライサー
+tagWeaponCaster1hB012={^W}ブラッドスウォーン ワンド
+tagWeaponCaster1hB013={^L}ブラッドスウォーン セプター
+tagWeaponCaster1hB014={^L}ロクシミアズ フロストブレイド
+tagWeaponCaster1hB015={^G}スリスタン
+tagWeaponCaster1hB016={^L}ブレーズ ヘラルド
+tagWeaponCaster1hB017={^L}ストーム ヘラルド
+tagWeaponCaster1hB018={^L}ナイト ヘラルド
+
+tagWeaponCaster1hC001={^B}燃え上がる憎悪
+tagWeaponCaster1hC002={^B}スペルファイア ワンド
+tagWeaponCaster1hC003={^B}チルハート セプター
+tagWeaponCaster1hC004={^B}ストームコーラーのスペルブレイド
+tagWeaponCaster1hC004_Desc="常により多くのパワー に飢え､ 刃は エナジーの 火花を 散らす。"
+tagWeaponCaster1hC005={^B}虚無の剣
+tagWeaponCaster1hC006={^B}プレイグブラッド カーバー
+tagWeaponCaster1hC007={^B}ソウルカーバー
+tagWeaponCaster1hC007_Desc="この刃は､ ただの肉より 深い所を切る と言われる。"
+tagWeaponCaster1hC008={^B}コルトジアン インヴォーカー
+tagWeaponCaster1hC008_Desc="コルトジアのマスターたちが､ アルケインの 呪文を 詠唱する際に 愛用した道具。"
+tagWeaponCaster1hC009={^B}コールドスナップ
+tagWeaponCaster1hC010={^B}ライフバインダー
+tagWeaponCaster1hC011={^B}スパークストーン セプター
+tagWeaponCaster1hC012={^B}ファイアストーム セプター
+tagWeaponCaster1hC013={^B}スカイシャード スペルブレイド
+tagWeaponCaster1hC013_Desc="落ちた星の核心から 造られた。"
+tagWeaponCaster1hC014={^B}ネラ'ヴァルの病毒剣
+tagWeaponCaster1hC014_Desc="ネラ'ヴァルは､ 致死的な 消耗性疾患の 治療に 心を奪われた 開業医だった。 その狂った 追求で､ 罪無き者を 多数殺し､ その罪故に 絞首刑となった。"
+tagWeaponCaster1hC015={^B}フィーンドブラッド スペルブレイド
+tagWeaponCaster1hC016={^B}スペルウィーバー
+tagWeaponCaster1hC016_Desc="針が布を通るように､ イーサーが 現実を 縫い進む。"
+tagWeaponCaster1hC017={^B}ブライトストーン インヴォーカー
+tagWeaponCaster1hC018={^B}コズミック インヴォーカー
+tagWeaponCaster1hC019={^B}ストームトラップ
+tagWeaponCaster1hC020={^B}ヘルルーン カーバー
+tagWeaponCaster1hC021={^B}グレイシャーボーン スペルブレイド
+tagWeaponCaster1hC022=(S) {^B}誓約の血染めダガー
+tagWeaponCaster1hC023={^Z}アルドリッチのセプター
+tagWeaponCaster1hC023_Desc="理解できぬ言語の 奇妙な囁きが､ セプターから 聞こえる。"
+
+tagWeaponCaster1hD001={^I}清浄の接触
+tagWeaponCaster1hD001Desc="古代の民間伝承は､ マントに 覆われた ある人物の ことを語る。 その者は､ 病気を取り除き､ 創傷を 治療しながら 世界を旅し､ 一度たりと 感謝の念 以外に 何も求め なかった。"
+tagWeaponCaster1hD002={^I}ブラック スカージ
+tagWeaponCaster1hD003={^I}ラース オブ ザ アセンダント
+tagWeaponCaster1hD004={^I}ソウルベアラー
+tagWeaponCaster1hD004Desc="この下劣なセプターは､ 彷徨える魂を 閉じ込める。"
+tagWeaponCaster1hD005={^I}オレクスラの寒気
+tagWeaponCaster1hD006={^I}パネッティの複製ワンド
+tagWeaponCaster1hD006Desc="その昔､ 呪文模写の マスターにして 複製ミサイルの 創出者､ マスター パネッティが 所有していた道具。"
+tagWeaponCaster1hD007={^I}ウルトスの火花
+tagWeaponCaster1hD008={^I}アスターカーンの破片
+tagWeaponCaster1hD008Desc="刃は､ 身も凍る山風の如く 空気から 熱を奪う。"
+tagWeaponCaster1hD009={^I}ヴェノムラッシュ
+tagWeaponCaster1hD010={^I}ワープファイア
+tagWeaponCaster1hD011={^I}束の間の嵐
+tagWeaponCaster1hD011Desc="この短剣の切っ先 周りでは､ 時間そのもの が歪む。"
+tagWeaponCaster1hD012={^I}ドラキャリス
+tagWeaponCaster1hD013={^I}クトーンの牙
+tagWeaponCaster1hD014={^I}バシリスクの鉤爪
+tagWeaponCaster1hD015=(S) {^I}クレアボヤンツ ワンド
+tagWeaponCaster1hD016=(S) {^I}ドリーグのルーンダガー
+tagWeaponCaster1hD017=(S) {^I}トロザンのスターキーパー
+tagWeaponCaster1hD018=(S) {^I}黒炎の刃
+tagWeaponCaster1hD019={^F}アルドリッチの布告
+tagWeaponCaster1hD019Desc="ヴァン アルドリッチは 最後の布告で､ 市全体が グリム ドーンに 入ったことを 宣告した。"
+
+tagWeaponCaster1hF001={^G}リージョン ファイアスターター
+tagWeaponCaster1hF002={^G}リージョン イーサースパーク
+tagWeaponCaster1hF003={^G}リージョン ヴォイドカッター
+tagWeaponCaster1hF004={^G}ローワリ バイルタッチ
+tagWeaponCaster1hF005={^G}ローワリ チルタッチ
+tagWeaponCaster1hF006={^G}ローワリ デスタッチ
+tagWeaponCaster1hF007={^G}チョーズン スカイスプリッター
+tagWeaponCaster1hF008={^G}チョーズン フレイムコーラー
+tagWeaponCaster1hF009={^G}チョーズン アルケインスパーク
+
+
+tagWeaponArcaneA001={^W}クルード スタッフ
+tagWeaponArcaneA002=ナールド スタッフ
+tagWeaponArcaneA003={^W}パイン スタッフ
+tagWeaponArcaneA004=アッシュ スタッフ
+tagWeaponArcaneA005={^W}シーダー スタッフ
+tagWeaponArcaneA006=オーク スタッフ
+tagWeaponArcaneA007={^W}ブラックウッド スタッフ
+
+tagWeaponCrossbow1hA001=ピストル クロスボウ
+tagWeaponCrossbow1hA002=コンパウンド クロスボウ
+tagWeaponCrossbow1hA003=ウィンドラス クロスボウ
+tagWeaponCrossbow1hA004=リピーティング クロスボウ
+
+
+#Shields
+
+tagShieldA000={^W}プランク シールド
+tagShieldA001={^W}バックラー
+tagShieldA002={^W}ラウンド シールド
+tagShieldA003={^W}ヒーター シールド
+tagShieldA004={^W}タワー シールド
+tagShieldA005=ライオット シールド
+tagShieldA006={^W}ウォー シールド
+tagShieldA007={^W}タージ
+tagShieldA008=タージ
+tagShieldA009={^W}ロンデイク
+tagShieldA010={^W}カイト シールド
+tagShieldA011={^W}シールド
+
+tagShieldB001={^W}ウォードンズ ブルワーク
+tagShieldB001Desc="硬い鋼と残忍な憎悪で 鍛造された。"
+tagShieldB002={^L}ウォードンズ フォートレス
+tagShieldB003={^W}スペクトラル シールド
+tagShieldB004={^L}スペクトラル ウォー シールド
+tagShieldB005={^G}バトル シールド
+tagShieldB006={^G}シージ シールド
+tagShieldB007={^G}ソブリン シールド
+tagShieldB008={^W}トロッグ ボーンウォール
+tagShieldB009={^L}ヴァンピリック ボーンウォール
+tagShieldB010={^W}オブシディアン ガード
+tagShieldB011={^L}オブシディアン ブルワーク
+tagShieldB012={^W}フレッシュワープト シールド
+tagShieldB013={^L}フレッシュワープト ブルワーク
+tagShieldB014={^G}バーナーズ スライトリィ-チュード バックラー
+tagShieldB015={^L}ラドリス ブルワーク
+tagShieldB016={^L}ベイン'ガルゴスズ シャード
+tagShieldB017={^L}カリス カーズ ハーベスト
+
+tagShieldC001={^B}ディフェンダー オブ デビルズ クロッシング
+tagShieldC002={^B}スピリットイーター ブルワーク
+tagShieldC002Desc="下劣な霊に対する 防壁として､ 死霊術の 儀式で 造り出された。"
+tagShieldC003=(S) {^B}ガーズマンの防御
+tagShieldC004={^B}フレイムブレイカー
+tagShieldC005={^B}デビルズ グリン
+tagShieldC006={^B}獣の胃
+tagShieldC007={^B}ブラック リージョンの紋章盾
+tagShieldC007Desc="死の旗手としても 知られている､ 帝国軍の ブラック リージョンに 携行される。"
+tagShieldC008={^B}リッチガード
+tagShieldC009={^B}ドーンシャード ブルワーク
+tagShieldC009Desc="ソラドリン クリスタルの､ 最も純粋な 破片から 造られた。"
+tagShieldC010={^B}フェイスズ ガード
+tagShieldC011=(S) {^B}破滅の盾
+tagShieldC012=(S) {^B}誓い破りのガード
+tagShieldC013={^B}エレメンティアム
+tagShieldC013Desc="エレメントの生の力を導く ように､ アルケインの 鍛冶屋に よって 造られた。"
+tagShieldC014={^Z}ラヴナのガード
+tagShieldC014Desc="屠られたハサミムシの 女王から採った キチンの重層。"
+tagShieldC015={^B}剣闘士
+tagShieldC016={^B}ブレーズガード アービター
+tagShieldC017={^B}ヴァンガード オブ ザ リージョン
+tagShieldC018=(S) {^B}ミュルミドンのガード
+
+tagShieldD001={^I}ミート シールド
+tagShieldD001Desc="不運な小作農の胸腔で 形成された 死霊術の盾。"
+tagShieldD002={^I}ザ ファイナル ストップ
+tagShieldD002Desc="増大するクトーン信徒の 勢力に 対抗するため､ 絶望的な 戦いのさなかに 車両基地の 労働者たちに よって造られた。"
+tagShieldD003={^I}ザ アンタッチャブル
+tagShieldD004={^I}生者の意志
+tagShieldD004Desc="かつて皇帝の冠だった この盾は､ 人類の模範に なるべく イーサーファイア を通過した。"
+tagShieldD005={^I}スカイブリーチ ブルワーク
+tagShieldD006={^I}シージブレイカー
+tagShieldD007={^I}ゾルハンの報復
+tagShieldD008=(S) {^I}ドーンブレイカーの任務
+tagShieldD009=(S) {^I}マーコヴィアンのブルワーク
+
+tagShieldF001={^G}デビルズ プロテクター
+tagShieldF002={^G}ハーベスツ ガード
+tagShieldF003={^G}チョーズン ファイアガード
+tagShieldF004={^G}ハーベスツ ディフェンダー
+tagShieldF005={^G}チョーズン クリムゾンガード
+
+tagQualityShieldA01={^S}スクラップメタル
+tagQualityShieldA02=ラスティ
+tagQualityShieldA03={^S}インプラバイズド
+tagQualityShieldA04={^S}ターニッシュト
+tagQualityShieldA05={^S}レイダー
+tagQualityShieldA06={^S}フォーティファイド
+tagQualityShieldA07={^S}ウェザード
+tagQualityShieldA08={^S}リーインフォースト
+tagQualityShieldA09={^S}アサルト
+tagQualityShieldA10={^S}インペリアル
+tagQualityShieldA11=イグザルテッド
+
+
+#Focus
+
+tagFocusA001={^W}マスティ トウム
+tagFocusA002={^W}フレッシュバウンド トウム
+tagFocusA003={^W}ルーンバウンド アーカイブ
+tagFocusA004={^W}レザーバウンド スペルブック
+tagFocusA005={^W}エルドリッチ トウム
+tagFocusA006={^W}アルケイン コデックス
+tagFocusA013={^W}イグザルテッド コデックス
+
+tagFocusA007={^W}ルーンド ボーン
+tagFocusA008={^W}フィーンディッシュ エフィジー
+tagFocusA009={^W}エッチド ホーン
+tagFocusA010={^W}グリフト スカル
+tagFocusA011={^W}サヴィッジ エフィジー
+tagFocusA012={^W}エルドリッチ エフィジー
+tagFocusA014={^W}イグザルテッド エフィジー
+
+tagFocusB001={^L}ザースゼーランズ コデックス
+tagFocusB001Desc="信仰心なき者どもを 清めるため､ 燃えるが如き 祈りで 満たされている。"
+tagFocusB002={^L}ロルダーアティス トウム
+tagFocusB002Desc="この大冊にある言葉は､ 気も狂わん ばかりの憎しみで 持つ者の 心を冷えさせる。"
+tagFocusB003A={^G}グリフト アーカイブ
+tagFocusB003B={^G}オカルト ホーン
+tagFocusB004A={^G}グリフト スペルブック
+tagFocusB004B={^G}オカルト スカル
+tagFocusB005A={^G}グリフト トウム
+tagFocusB005B={^G}オカルト エフィジー
+tagFocusB006={^G}ウィッチズ エフィジー
+tagFocusB007={^L}パルシング シャード
+tagFocusB008={^W}ブラッドスウォーン トウム
+tagFocusB009={^L}ブラッドスウォーン コデックス
+tagFocusB010={^W}グローブル トクシク アイドル
+tagFocusB011={^L}グローブル トクシク エフィジー
+tagFocusB011_Desc="古くから伝わる グローブルの格言 : 干し首 二つ寄れば 文殊の知恵。"
+tagFocusB012={^W}チップト イェティ ホーン
+tagFocusB013={^L}イェティ ホーン
+tagFocusB014={^W}グローブル スカイ アイドル
+tagFocusB015={^L}グローブル スカイ エフィジー
+tagFocusB016={^W}グローブル ストーン アイドル
+tagFocusB017={^L}グローブル ストーン エフィジー
+tagFocusB018={^W}グローブル エンバー アイドル
+tagFocusB019={^L}グローブル エンバー エフィジー
+tagFocusB020={^W}グローブル デス アイドル
+tagFocusB021={^L}グローブル デス エフィジー
+tagFocusB022={^W}ゲイザー アイ
+tagFocusB023={^L}オーバーシーア アイ
+tagFocusB023_Desc="目は手の中で､ まだ ピクリと動く。"
+tagFocusB024={^G}カルボアズ カンジュリング ボーン
+tagFocusB025={^L}キゾッグス スカル
+tagFocusB026={^L}ラグラサールズ ホーン
+
+tagFocusC001={^B}錯乱
+tagFocusC002={^B}激烈なる意志
+tagFocusC003=(S) {^B}メイヴェンのトウム
+tagFocusC004={^B}異端者のトウム
+tagFocusC005={^B}奇形人形
+tagFocusC006={^B}バンシーの苦難
+tagFocusC006Desc="ページを めくる毎に､ この大冊から 苦難の 叫びが 生じる。"
+tagFocusC007={^B}ウィルムの爪
+tagFocusC008={^B}ブラック グリモワール オブ オグ'ナペッシュ
+tagFocusC008Desc="死刑を宣告された ネクロマンサー､ オグ'ナペッシュの 闇の著書。"
+tagFocusC009={^B}エドリックの孫の手
+tagFocusC010={^B}メンヒルの聖典
+tagFocusC010Desc="昔､ メンヒルへの信仰心 篤き騎士 によって 運ばれた 聖典。"
+tagFocusC011={^B}ノクターニス
+tagFocusC012=(S) {^B}誓約の魔導球
+tagFocusC013=(S) {^B}疫病のトウム
+tagFocusC014={^B}ストームコーラーの人形
+tagFocusC015={^B}嵐の接ぎ穂
+tagFocusC016={^B}スコーチャーの古文書
+tagFocusC017={^B}デスロードのトウム
+tagFocusC018=(S) {^B}キャリドアの古写本
+
+tagFocusD001={^I}悪魔の決断
+tagFocusD002={^I}アルダナーのうぬぼれ
+tagFocusD003={^I}嘘の古写本
+tagFocusD003Desc="カバリスト､ ヘスター モーガンによって 記された､ 魔神ソレイルの 禁断の書。"
+tagFocusD004={^I}名前のトウム
+tagFocusD004Desc="この本は､ これまでに存在し いつか存在 するであろう､ すべての人間の 名前が 記されている。"
+tagFocusD005={^I}ブラッド オーブ オブ クトーン
+tagFocusD005Desc="狂信的なカバリスト たちは､ 原始の 神々の 血の一滴が この球体の中に 含まれている と断言する。"
+tagFocusD006={^I}死の弁者
+tagFocusD006Desc="埋葬儀式用に 書かれた､ 詩と宗教的な テキストの 編集物。"
+tagFocusD007={^I}支配の目
+tagFocusD008={^I}トウム オブ ザ アルケイン ウェイスツ
+tagFocusD009={^I}グル'アマッシュの髑髏
+tagFocusD009Desc="かつての強力な オカルティスト､ グル'アマッシュ の髑髏。 その知識のせいで 糾弾され､ 公開審理の下､ それを見て怒った 暴徒の強要で 審理中に 処刑され､ 火刑にて 燃やされた。"
+tagFocusD010={^I}ナール'アディンの不快なトウム
+tagFocusD011={^I}永久嵐の古写本
+tagFocusD012={^I}アグリヴィックスの消耗
+tagFocusD012Desc="大アルカニストの アグリヴィックスは､ 呪文研究に 法外な量の エナジーを 注ぐことで 有名だった。 しかし､ この力への 渇望は､ 世界の正当な 支配者である という確信を 彼に持たせ､ 破壊の道に 貶めた。 最終的に アグリヴィックスは､ 幾人かを 道連れにして､ 尋問官たちの 手により 最期を遂げた。"
+tagFocusD013=(S) {^I}インヴォーカーの灼熱
+tagFocusD014=(S) {^I}イスカンドラのテキスト
+tagFocusD015=(S) {^I}黒炎のオーブ
+tagFocusD016=(S) {^I}アグリヴィックスの古写本
+
+tagFocusF001={^G}ハーベスツ トウム
+tagFocusF002={^G}ハーベスツ レジャー
+tagFocusF003={^G}ソーラー コデックス
+tagFocusF004={^G}ローワリ ウィンター コデックス
+tagFocusF005={^G}ローワリ ヴォイド コデックス
+tagFocusF006={^G}ローワリ スカイ コデックス
+tagFocusF007={^G}デス ルーイン
+tagFocusF008={^G}デス エンブレイス
+tagFocusF009={^G}デス アドバンス
+tagFocusF010={^G}ローワリ スペルウィーバー コデックス
+tagFocusF011={^G}デス ゲイズ
+
+#WEAPON_QUALITY
+
+TagQualityBrokenWeapon01=ブロークン
+TagQualityBrokenWeapon02=シャッタード
+TagQualityBrokenWeapon03=ベント
+TagQualityBrokenArmor01=ルーインド
+TagQualityBrokenAll01=デストロイド
+TagQualityOld={^S}オブソリート
+
+tagQualityWeaponMetal01={^S}スクラップメタル
+tagQualityWeaponMetal02={^S}ターニッシュト
+tagQualityWeaponMetal03={^S}アイアン
+tagQualityWeaponMetal04={^S}スチール
+tagQualityWeaponMetal05=インビュード
+tagQualityWeaponMetal06={^S}レイダー
+tagQualityWeaponMetal07={^S}アサルト
+tagQualityWeaponMetal08={^S}インペリアル
+tagQualityWeaponMetal09={^S}イグザルテッド
+
+tagQualityWeaponWood01={^S}スプリンタード
+tagQualityWeaponWood02={^S}クルード
+tagQualityWeaponWood03={^S}サヴィッジ
+tagQualityWeaponWood04={^S}ウェザード
+tagQualityWeaponWood05={^S}ソリッド
+tagQualityWeaponWood06={^S}ポリッシュト
+tagQualityWeaponWood07={^S}インビュード
+tagQualityWeaponWood08={^S}レイダー
+tagQualityWeaponWood09={^S}アサルト
+tagQualityWeaponWood10={^S}インペリアル
+tagQualityWeaponWood11={^S}イグザルテッド
+
+
+#ARMOR_STYLES
+
+tagStyle001={^S}ウォーン
+tagStyle002={^S}クロス
+tagStyle003={^S}パッデッド
+tagStyle004={^S}キルテッド
+tagStyle005={^S}ブリガンダイン
+tagStyle006={^S}エンブロイダード
+tagStyle007={^S}オルネイト
+tagStyle008={^S}ギルデッド
+
+tagStyle009={^S}パッチワーク
+tagStyle010={^S}レザー
+tagStyle011={^S}ハイド
+tagStyle012={^S}ファーラインド
+tagStyle013={^S}スパイクト
+tagStyle014={^S}フロンティア
+tagStyle015={^S}ヒンターランド
+tagStyle016={^S}レイダー
+
+tagStyle017={^S}リストアド
+tagStyle018={^S}サルベージド
+tagStyle019={^S}エングレイブド
+tagStyle020={^S}コンバット
+tagStyle021={^S}インファントリ
+tagStyle022={^S}インペリアル
+
+tagStyle023={^S}スクラップメタル
+tagStyle024={^S}スプリンテッド
+tagStyle025={^S}チェイン
+tagStyle026={^S}チェインメイル
+tagStyle027={^S}スケイルメイル
+tagStyle028={^S}ブロンズ
+tagStyle029={^S}スチール
+tagStyle030={^S}プレート
+tagStyle031={^S}プレーテッド
+tagStyle032={^S}フィールド
+tagStyle033={^S}ヘビー
+tagStyle034={^S}アサルト
+
+tagStyle035={^S}スタディッド
+tagStyle036={^S}ウォーブン
+tagStyle037={^S}リーインフォースト
+tagStyle038={^S}サヴィッジ
+tagStyle039={^S}ノヴィス
+tagStyle040={^S}アプレンティス
+
+tagStyle041={^S}イグザルテッド
+tagStyle042={^S}オプレント
+
+#ArmorClass
+tagArmorClass01=詠唱者用
+tagArmorClass02=
+tagArmorClass03=ヘビー
+
+#WeaponClass
+tagOffHand=オフハンド
+tagShield=盾
+
+tagOneHandedSword=片手剣
+tagOneHandedMace=片手メイス
+tagOneHandedAxe=片手斧
+tagOneHandedDagger=片手ダガー
+tagOneHandedScepter=片手セプター
+tagOneHandedPistol=片手遠隔武器
+
+tagTwoHandedSword=両手剣
+tagTwoHandedMace=両手メイス
+tagTwoHandedAxe=両手斧
+tagTwoHandedRifle=両手遠隔武器
+
+tagSpear=槍
+tagStaff=杖
+
+tagWeaponUnknown=不明
+
+#ArmorSlots
+tagRing=指輪
+tagAmulet=アミュレット
+tagMedal=メダル
+tagBelt=ベルト
+tagShoulders=ショルダー
+tagHead=ヘルム
+tagLegs=パンツ
+tagChest=チェスト アーマー
+tagFeet=ブーツ
+tagGloves=グローブ
+
+#QualityClass
+tagMagic=マジック 
+tagRare=レア 
+tagDoubleRare=ダブルレア
+tagEpic=エピック 
+tagLegend=レジェンダリー 
+
+tagStyleUniqueTier2={^A}強化版
+tagStyleUniqueTier3={^P}神話級
+tagStyleFactionTier2=エリート
+
+tagSoulbound=ソウルバウンド
+tagDestroySoulbound=ソウルバウンド アイテム を壊しますか？
+
+tagUntradeable=トレード不可
+tagDestroyUntradeable=トレードできないアイテム を壊しますか？
+
+tagTransmuted=イリュージョン: 
+tagTransmuteCapture=[右クリックで注入する]
+tagTransmuteApply=[右クリックで適用]
+tagTransmuteApplyRemove=[右クリックでイリュージョンを除去]
+tagTransmuteUnusable=[使用不可 - 必要条件が満たされて いません]
+tagTransmuteConfirmation=本当に､ このイリュージョンを 適用しますか？
+tagTransmuteOverwrite=本当に､ 現在のイリュージョンを 置き換えますか？
+tagTransmuteSoulboundConfirmation=本当に､ このイリュージョンを適用しますか？ それを行うと､ アイテムは ソウルバウンド になります。
+tagTransmuteSoulboundOverwrite=本当に､ 現在のイリュージョンを 置き換えますか？ それを行うと､ アイテムは ソウルバウンド になります。
+tagTransmuteDestroy=本当に､ このイリュージョンを 注入しますか？ それを行うと､ アイテムは 壊れるでしょう。
+tagTransmuteRemove=本当に､ このイリュージョンを 取り除きますか？
+
+#ArmorHead
+
+tagHeadA001={^W}ヘルム
+tagHeadA002={^W}キャップ
+tagHeadA003={^W}ヘルメット
+tagHeadA004={^W}マスク
+tagHeadA005={^W}コイフ
+tagHeadA006={^W}バシネット
+tagHeadA007={^W}カスク
+tagHeadA008={^W}ハット
+tagHeadA009={^W}ヴィジッジ
+tagHeadA010={^W}カウル
+tagHeadA011={^W}フード
+tagHeadA012={^W}サークレット
+tagHeadA013={^W}ダイアデム
+tagHeadA014={^W}コロネット
+
+tagHeadB001={^W}インセンディアリ ヘルム
+tagHeadB002={^L}インセンディアリ カスク
+tagHeadB003={^W}アセンデッド ヘルム
+tagHeadB004={^L}アセンデッド カスク
+tagHeadB005={^W}マーダラーズ コイフ
+tagHeadB006={^L}マーダラーズ カウル
+tagHeadB007={^G}アデプツ フード
+tagHeadB008={^G}レンジャーズ ヘルム
+tagHeadB009={^G}アデプツ サークレット
+tagHeadB010={^G}レンジャーズ カスク
+tagHeadB011={^W}アセンデッド サークレット
+tagHeadB012={^L}アセンデッド ダイアデム
+tagHeadB013={^W}フレッシュワープト ヘルム
+tagHeadB014={^L}フレッシュワープト カスク
+tagHeadB015={^L}スペクトラル クラウン
+tagHeadB015Desc="強力な壊死エナジーが､ 物質界に この冠を 出現させた。"
+tagHeadB016={^L}ミルトンズ カスク
+tagHeadB016Desc="ヘルメットの刻み目 全部が､ 乗っ取られたのを 殺した数。"
+
+tagHeadC001={^B}ストームコーラーのサークレット
+tagHeadC002={^B}バーサーカーのカウル
+tagHeadC003={^B}ネザー クラウン
+tagHeadC003Desc="聖職者に異端者として 称号を 剥奪され 処刑される 前に､ 最初にして 唯一の アルカニスト によるケアン王､ サミュエル ドレイクが 身に着けた。"
+tagHeadC004={^B}指令の王冠
+tagHeadC005={^B}アンコライトのヘッドガード
+tagheadC005Desc="メンヒルを守護する 者のための､ 入会者用 ヘルム。"
+tagHeadC006=(S) {^B}ガーズマンのヘルム
+tagHeadC007=(S) {^B}探検家のカバー
+tagHeadC008=(S) {^B}メイヴェンのフード
+tagHeadC009=(S) {^B}ブラッドリーパーのカウル
+tagHeadC010={^B}アイ オブ ザ ビホルダー
+tagHeadC010Desc="外観と美容の 虜となった 狂える 魔女が 身に付けた 凝視の目。"
+tagHeadC011={^B}精神錯乱のマスク
+tagHeadC012={^B}虚無の嵐
+tagHeadC013={^B}銀騎士の栄光
+tagHeadC014={^B}森の恐怖
+tagHeadC014Desc="いにしえのソーンド ホラーの 皮から 切り取った。"
+tagHeadC015={^B}スピリットウィーバー サークレット
+tagHeadC016={^B}シャドウスパーク フード
+tagHeadC017=(S) {^B}伝令官のマスク
+tagHeadC018=(S) {^B}破滅のフェイスガード
+tagHeadC019=(S) {^B}ブラインド アサシンのカウル
+tagHeadC020=(S) {^B}シャープシューターズ グラス アイ
+tagHeadC021=(S) {^B}誓約のアンホリー ヴィジッジ
+tagHeadC022=(S) {^B}模範のカウル
+tagHeadC023=(S) {^B}ドーンガード ヘルム
+tagHeadC024=(S) {^B}瘴気のフード
+tagHeadC025=(S) {^B}炎の目
+tagHeadC026=(S) {^B}ワイルドコーラーのカウル
+tagHeadC027=(S) {^B}近衛兵のフェイスガード
+tagHeadC028={^B}フロストシャード クラウン
+tagHeadC029={^B}サークレット オブ バーニング レイジ
+tagHeadC030={^B}リーパーの目
+tagHeadC031=(S) {^B}ミュルミドン バイザー
+tagHeadC032=(S) {^B}モグドロゲンのカウル
+tagHeadC033={^Z}エルドリッチ-キーパーのカスク
+tagHeadC033Desc="異界を見つめているが如く､ ヘルメットは 視力をかすませる。"
+tagHeadC034={^Z}三神連合
+tagHeadC034B={^B}三神連合
+tagHeadC034Desc="三神に祝福された。"
+
+tagHeadD001={^I}絶望の胃
+tagHeadD001Desc="我を見て絶望せよ､ 貴様の時が 来たぞ。"
+tagHeadD002={^I}ドレッド-マスク オブ グルゴス
+tagHeadD003={^I}秘密の囁き
+tagheadD003Desc="致命打の前に､ 敵の耳に 闇の秘密 を囁く。"
+tagHeadD004={^I}深淵のマスク
+tagheadD004Desc="死を解くために 死と結べ。"
+tagHeadD005={^I}うわばみのサークレット
+tagHeadD006={^I}マスク オブ インファーナル トゥルース
+tagHeadD007=(S) {^I}正義のフェイスガード
+tagHeadD008=(S) {^I}ビーストコーラーのカウル
+tagHeadD009=(S) {^I}マスク オブ ザ ハービンジャー
+tagHeadD010=(S) {^I}デーモンスレイヤーの帽子
+tagHeadD011=(S) {^I}クレアボヤンツ ハット
+tagHeadD012=(S) {^I}マーコヴィアンのバイザー
+tagHeadD013=(S) {^I}ウルズインのヘッドガード
+tagHeadD014=(S) {^I}ドリーグの頭巾
+tagHeadD015=(S) {^I}デスマークのフード
+tagHeadD016=(S) {^I}イスカンドラのフード
+tagHeadD017=(S) {^I}ウルトスのフード
+tagHeadD018={^I}冬王の王冠
+tagheadD018Desc="北の流域の支配者にして 偉大なる 白狼の息子､ フロスナー王 の王冠。"
+tagHeadD019=(S) {^I}トロザンの帽子
+tagHeadD020=(S) {^I}ヴァルダンの帽子
+tagHeadD021={^F}追放者の秘密
+tagHeadD022={^I}エルドリッチ ゲイズ
+tagHeadD022Desc="ヘルメットは､ 理解できない声で 囁きかけてくる。"
+tagHeadD023={^I}三神の誓約
+tagHeadD023Desc="相互破壊に対して 彼らと その信者を 拘束する 誓約のもと､ 三魔神の エッセンスで 力が与えられた。"
+tagHeadD024=(S) {^I}毒刃のカウル
+tagHeadD025=(S) {^I}黒炎の面
+tagHeadD026=(S) {^I}光の守護者のヘルム
+tagHeadD027=(S) {^I}地獄騎士のフェイスガード
+tagHeadD028=(S) {^I}ウォーボーン バイザー
+tagHeadD029=(S) {^I}ブラッドレイジャーのカウル
+
+
+tagHeadF001={^Z}アウトキャスツ フード
+tagHeadF001Desc="仮面が睨み返している ような気がして ならない。"
+tagHeadF002={^G}デビルズ カバー
+tagHeadF003={^G}デビルズ ヘッドガード
+tagHeadF004={^G}リージョン スペルベアラー
+tagHeadF005={^G}リージョン カスク
+tagHeadF006={^G}リージョン ヘッドガード
+tagHeadF007={^G}ハーベスツ ヘルム
+tagHeadF008={^G}ソーラー ディフェンダー
+tagHeadF009={^G}デス ヴィジッジ
+tagHeadF010={^G}デス ヘッドガード
+tagHeadF011={^G}チョーズン カウル
+tagHeadF012={^G}チョーズン ヘッドガード
+
+
+#ArmorShoulders
+
+tagShoulderA001={^W}スポールダー
+tagShoulderA002={^W}マント
+tagShoulderA003={^W}ショルダーガード
+tagShoulderA004={^W}エポレット
+tagShoulderA005={^W}ショルダープレート
+tagShoulderA006={^W}ポールドロン
+
+tagShoulderB001={^W}インセンディアリ スポールダー
+tagShoulderB002={^L}インセンディアリ ショルダープレート
+tagShoulderB003={^W}アセンデッド スポールダー
+tagShoulderB004={^L}アセンデッド ショルダープレート
+tagShoulderB005={^W}マーダラーズ スポールダー
+tagShoulderB006={^L}マーダラーズ エポレット
+tagShoulderB007={^G}アイザックズ スポールダー
+tagShoulderB008={^W}ホーンテッド マント
+tagShoulderB009={^L}ホーンテッド ショルダーパッド
+tagShoulderB010={^W}アセンデッド マント
+tagShoulderB011={^L}アセンデッド エポレット
+tagShoulderB012={^W}フレッシュワープト スポールダー
+tagShoulderB013={^L}フレッシュワープト ポールドロン
+tagShoulderB014={^L}ヴァルダランズ マント
+tagShoulderB015={^L}ヴァルダランズ ショルダーガード
+tagShoulderB016={^L}ベン'ジャールズ ショルダーガード
+tagShoulderB017={^L}ベン'ジャールズ ポールドロン
+tagShoulderB018={^L}ムージラウクズ ショルダーガード
+tagShoulderB019={^L}ムージラウクズ ポールドロン
+tagShoulderB020={^L}アイアン メイデンズ マント
+tagShoulderB021={^L}アイアン メイデンズ ショルダーガード
+tagShoulderB022={^L}ザンタリンズ マント
+tagShoulderB023={^L}ザンタリンズ ショルダーガード
+tagShoulderB024={^L}ファビウスズ ショルダーガード
+tagShoulderB025={^L}ファビウスズ ポールドロン
+tagShoulderB026={^L}ログホリアンズ コラプション
+tagShoulderB026_Desc="いまだ虚無の腐敗にもがいている。"
+
+tagShoulderC001={^B}レイザーバックス スパインド マント
+tagShoulderC001Desc="イノシシの死体から 縫い合わせた。"
+tagShoulderC002={^B}星のマント
+tagShoulderC003={^B}戦争屋のスポールダー
+tagShoulderC004=(S) {^B}ガーズマンのスポールダー
+tagShoulderC005={^B}手榴弾兵のショルダーガード
+tagShoulderC005Desc="弾丸の破片によって 焼け焦げ ズタズタになった この肩当は､ それにも拘わらず 防護品質の 多くを維持する。"
+tagShoulderC006={^B}涙目のマント
+tagShoulderC006Desc="アルカニストの王､ サミュエル ドレイクの 統治期間に 滅ぼされた､ 秘密主義 教団の衣服。"
+tagShoulderC007={^B}シェルショック エポレット
+tagShoulderC008={^B}加飾のポールドロン
+tagShoulderC009={^B}マント オブ ザ パトロン
+tagShoulderC009Desc="魔神ビスミールによって 人間の信者に 授けられた､ グレート レイヴンの 羽根で できたマント。"
+tagShoulderC010=(S) {^B}破滅のショルダーガード
+tagShoulderC011=シャープシューターズ カバー
+tagShoulderC012=(S) {^B}誓約のアンホリー マント
+tagShoulderC013=(S) {^B}模範のショルダーガード
+tagShoulderC014=(S) {^B}ドーンガード エポレット
+tagShoulderC015=(S) {^B}業火のショルダーガード
+tagShoulderC016=(S) {^B}近衛兵のショルダーガード
+tagShoulderC017={^B}錬金術師のマント
+tagShoulderC018={^B}チルメイン マント
+tagShoulderC019={^B}アマラスタのポールドロン
+tagShoulderC020=(S) {^B}フレイム キーパーのポールドロン
+tagShoulderC021=(S) {^B}キャリドアのマント
+tagShoulderC030={^Z}モグドロゲンのスポールダー
+
+tagShoulderD001={^I}フェイトウィーバーのマント
+tagShoulderD001Desc="運命の束は終わることなき 機織り に似て､ 人が年齢を 積む中で､ 巻き付き､ ほつれる。"
+tagShoulderD002={^I}ディヴァインスチール ショルダーガード
+tagShoulderD002Desc="死の職務を越えて 模範となるべき テンプル 騎士団長たちに 授けられた 肩甲。"
+tagShoulderD003={^I}ブラッドフューリー スポールダー
+tagShoulderD004={^I}シャドウフレイム マント
+tagShoulderD005={^I}タイタン ポールドロン
+tagShoulderD005Desc="このポールドロン上の 記号から すると､ 別の年代の 物のようだ。"
+tagShoulderD006={^I}チルドレッド マント
+tagShoulderD007={^I}ヴァイルブラッド マント
+tagShoulderD008={^I}フィーンドフレッシュ マント
+tagShoulderD009=(S) {^I}正義の肩甲
+tagShoulderD010=(S) {^I}ビーストコーラーのショルダーパッド
+tagShoulderD011=(S) {^I}ドーンブレイカーのショルダーガード
+tagShoulderD012=(S) {^I}ワイルドブラッド マント
+tagShoulderD013=(S) {^I}クレアボヤンツ マント
+tagShoulderD014=(S) {^I}マーコヴィアンのヴァンガード
+tagShoulderD015=(S) {^I}ウルズインのショルダーガード
+tagShoulderD016=(S) {^I}ドリーグの外套
+tagShoulderD017=(S) {^I}デスマークのショルダーガード
+tagShoulderD018=(S) {^I}イスカンドラのポールドロン
+tagShoulderD019=(S) {^I}ウルトスのスポールダー
+tagShoulderD020={^F}モグドロゲンのマント
+tagShoulderD020Desc="彼自身のアバターが 身に纏った マント。"
+tagShoulderD021=(S) {^I}トロザンのマント
+tagShoulderD022=(S) {^I}黒炎のマント
+tagShoulderD023=(S) {^I}光の守護者の肩章
+tagShoulderD024=(S) {^I}地獄騎士のポールドロン
+tagShoulderD025=(S) {^I}アグリヴィックスのマント
+tagShoulderD026=(S) {^I}ウォーボーン ポールドロン
+tagShoulderD027=(S) {^I}ブラッドレイジャーのショルダーガード
+
+tagShoulderF001={^G}アウトキャスツ バーニング マント
+tagShoulderF002={^G}アウトキャスツ チルド マント
+tagShoulderF003={^G}アウトキャスツ スカイ マント
+tagShoulderF004={^G}アウトキャスツ ラース マント
+tagShoulderF005={^G}アウトキャスツ ヴォイド マント
+tagShoulderF006={^G}アウトキャスツ バーニング ポールドロン
+tagShoulderF007={^G}アウトキャスツ チルド ポールドロン
+tagShoulderF008={^G}アウトキャスツ スカイ ポールドロン
+tagShoulderF009={^G}アウトキャスツ ラース ポールドロン
+tagShoulderF010={^G}アウトキャスツ ヴォイド ポールドロン
+tagShoulderF011={^G}デビルズ スポールダー
+tagShoulderF012={^G}デビルズ ショルダーガード
+tagShoulderF013={^G}ローワリ マント
+tagShoulderF014={^G}ローワリ ショルダーガード
+tagShoulderF015={^G}リージョン マント
+tagShoulderF016={^G}リージョン スポールダー
+tagShoulderF017={^G}リージョン ポールドロン
+tagShoulderF018={^G}デス マント
+tagShoulderF019={^G}デス ポールドロン
+tagShoulderF020={^G}チョーズン マント
+tagShoulderF021={^G}チョーズン ポールドロン
+
+
+#ArmorTorso
+
+tagTorsoA000={^W}クロージング
+tagTorsoA001L={^W}コート
+tagTorsoA002L={^W}ダブレット
+tagTorsoA003L={^W}キュイラス
+tagTorsoA004L={^W}ホーバーク
+tagTorsoA005H={^W}アーマー
+tagTorsoA006H={^W}トレンチコート
+tagTorsoA007H={^W}サーコート
+tagTorsoA008H={^W}チェインメイル
+tagTorsoA009H={^W}プレートメイル
+tagTorsoA010M={^W}ジャケット
+tagTorsoA011M={^W}ブレストプレート
+tagTorsoA012M={^W}チェストガード
+tagTorsoA013M={^W}ハーネス
+tagTorsoA014C={^W}チュニック
+tagTorsoA015C={^W}ベストメント
+tagTorsoA016C={^W}レイメント
+tagTorsoA017C={^W}ローブ
+
+tagTorsoB001={^W}マーダラーズ アーマー
+tagTorsoB002={^L}マーダラーズ ブレストプレート
+tagTorsoB003={^G}フォーティファイド ダブレット
+tagTorsoB004=
+tagTorsoB005=
+tagTorsoB006={^W}ホーンテッド ローブ
+tagTorsoB007={^L}ホーンテッド ベストメント
+tagTorsoB008={^W}アセンデッド ローブ
+tagTorsoB009={^L}アセンデッド ベストメント
+tagTorsoB010={^W}フレッシュワープト キュイラス
+tagTorsoB011={^L}フレッシュワープト プレートメイル
+tagTorsoB012={^W}ブラッドスウォーン ローブ
+tagTorsoB013={^L}ブラッドスウォーン ベストメント
+
+tagTorsoC001=
+tagTorsoC002={^B}ナイトハンターのチェストガード
+tagTorsoC003={^B}ガンスリンガーのジャケット
+tagTorsoC004={^B}マルドゥインのクロス
+tagTorsoC005={^B}ドゥームフォージド ブレストプレート
+tagTorsoC006=(S) {^B}ガーズマンのブレストプレート
+tagTorsoC007=(S) {^B}探検家のチュニック
+tagTorsoC008=(S) {^B}ブラッドリーパーのコート
+tagTorsoC009={^B}狂信者のオーバーコート
+tagTorsoC010={^B}ヒューズド キャラペイス アーマー
+tagTorsoC011={^B}皮剥ぎの服
+tagTorsoC011Desc="この汚らわしきローブを 縫い合わ せるのに､ どれだけの 犠牲者に 頼ったのかは､ 不明である。"
+tagTorsoC012={^B}オブシディアン-プレート キュイラス
+tagTorsoC013={^B}マグニソンのトレンチ コート
+tagTorsoC014={^B}哀悼の礼服
+tagTorsoC014Desc="かつて涙目結社の メンバー が着た､ 司祭の ローブ。"
+tagTorsoC015={^B}スパイダーシルク ホーバーク
+tagTorsoC016={^B}驚愕の祈祷服
+tagTorsoC016Desc="血に飢えた教団の エリート メンバー だけが着た､ クトーンの ローブ。"
+tagTorsoC017=(S) {^B}伝令官のジャケット
+tagTorsoC018=(S) {^B}破滅のチェストガード
+tagTorsoC019=(S) {^B}ブラインド アサシンのステルス ジャケット
+tagTorsoC020=(S) {^B}シャープシューターズ コート
+tagTorsoC021=(S) {^B}ドーンガード プレート
+tagTorsoC022={^B}ゾルハンズ バトル プレート
+tagTorsoC022Desc="有名なバトル マスター､ ゾルハンが 注文した アーマー。"
+tagTorsoC023=(S) {^B}瘴気のローブ
+tagTorsoC024=(S) {^B}イースタン ローブ
+tagTorsoC025=(S) {^B}ワイルドコーラーの皮
+tagTorsoC026={^B}ワイルドスピーカー コート
+tagTorsoC027=(S) {^B}近衛兵のチェストガード
+tagTorsoC028={^B}ヴォイドフォージド バトル プレート
+tagTorsoC029=(S) {^B}フレイム キーパーのジャケット
+tagTorsoC030=(S) {^B}キャリドアのベストメント
+tagTorsoC031=(S) {^B}ミュルミドン チェストガード
+tagTorsoC032=(S) {^B}モグドロゲンの陣羽織
+
+tagTorsoD001={^I}フィーンドスケイル ジャケット
+tagTorsoD002={^I}デビルズ ケージ ホーバーク
+tagTorsoD003={^I}幻影の覆い
+tagTorsoD003Desc="奇妙な布がチラチラ光り､ 着用者の 周囲を 魅了する錯覚を 生じさせて､ その光と共に 消え入る。"
+tagTorsoD004={^I}大守護者の法衣
+tagTorsoD004Desc="魔神たちの俗界の懸念を 守る 責務を担う､ ドリーグの 大司祭の ローブ。"
+tagTorsoD005={^I}ドレッド アーマー オブ アズラゴー
+tagTorsoD005Desc="アズラゴーは､ 陰険だが 議論の余地なき 戦術を とることで､ 騎士仲間の間で 恐れられた 残忍な男だった。"
+tagTorsoD006={^I}コロヴォランのチェストガード
+tagTorsoD006Desc="コロヴォランは､ 投げナイフにおける 致死的な 正確性で名高い､ 伝説的な ナイトブレイドだった。 彼はベルトに 刃が無いように 見えるときでも､ ナイフを 調達できた。"
+tagTorsoD007={^I}フィーンドマスター レイメント
+tagTorsoD008={^I}ディヴァインスチール ホーバーク
+tagTorsoD008Desc="死の職務を越えて 模範となるべき テンプル 騎士団長たちに 授けられた 防具。"
+tagTorsoD009=(S) {^I}正義のチェストガード
+tagTorsoD010=(S) {^I}ビーストコーラーの覆い
+tagTorsoD011=(S) {^I}デーモンスレイヤーのジャケット
+tagTorsoD012=(S) {^I}クレアボヤンツ ローブ
+tagTorsoD013=(S) {^I}マーコヴィアンのプレートメイル
+tagTorsoD014=(S) {^I}ウルズインのチェストガード
+tagTorsoD015=(S) {^I}ドリーグの法衣
+tagTorsoD016=(S) {^I}デスマークのジャケット
+tagTorsoD017=(S) {^I}イスカンドラのベストメント
+tagTorsoD018=(S) {^I}ウルトスのキュイラス
+tagTorsoD019={^I}フロストドレッド キュイラス
+tagTorsoD020=(S) {^I}トロザンのベストメント
+tagTorsoD021=(S) {^I}ヴァルダンのジャケット
+tagTorsoD022=(S) {^I}毒刃の隠れ蓑
+tagTorsoD023=(S) {^I}光の守護者のプレート
+tagTorsoD024=(S) {^I}地獄騎士のジャケット
+tagTorsoD025=(S) {^I}アグリヴィックスのベストメント
+tagTorsoD026=(S) {^I}ウォーボーン チェストガード
+tagTorsoD027=(S) {^I}ブラッドレイジャーのコート
+
+tagTorsoF001={^G}アウトキャスツ バーニング ベストメント
+tagTorsoF002={^G}アウトキャスツ チルド ベストメント
+tagTorsoF003={^G}アウトキャスツ スカイ ベストメント
+tagTorsoF004={^G}アウトキャスツ ラース ベストメント
+tagTorsoF005={^G}アウトキャスツ ヴォイド ベストメント
+tagTorsoF006={^G}アウトキャスツ バーニング キュイラス
+tagTorsoF007={^G}アウトキャスツ チルド キュイラス
+tagTorsoF008={^G}アウトキャスツ スカイ キュイラス
+tagTorsoF009={^G}アウトキャスツ ラース キュイラス
+tagTorsoF010={^G}アウトキャスツ ヴォイド キュイラス
+tagTorsoF011={^G}デビルズ キュイラス
+tagTorsoF012={^G}デビルズ チェストガード
+tagTorsoF013={^G}リージョン ベストメント
+tagTorsoF014={^G}リージョン キュイラス
+tagTorsoF015={^G}リージョン チェストガード
+tagTorsoF016={^G}デス ベストメント
+tagTorsoF017={^G}デス キュイラス
+tagTorsoF018={^G}チョーズン ベストメント
+tagTorsoF019={^G}チョーズン チェストガード
+tagTorsoF020={^G}ローワリ ベストメント
+tagTorsoF021={^G}ローワリ キュイラス
+
+tagTorsoM001={^W}ラガッド チュニック
+tagTorsoM002={^W}ブラッドステインド チュニック
+tagTorsoM003={^W}ブラッドステインド ローブ
+
+
+#ArmorWaist
+
+tagWaistA001={^W}クロス ストラップ
+tagWaistA002={^W}ウォーブン コード
+tagWaistA003={^W}ハイド サッシュ
+tagWaistA004={^W}レザー ベルト
+tagWaistA005={^W}チェイン ベルト
+tagWaistA006={^W}インファントリ ウェストガード
+tagWaistA007={^W}プレートメイル ガードル
+tagWaistA008={^W}アサルト ウェストガード
+tagWaistA009={^W}インペリアル ベルト
+tagWaistA010={^W}イグザルテッド ベルト
+
+tagWaistB001={^G}バウンティ ハンターズ ガードル
+tagWaistB002={^G}ショックウィーブ サッシュ
+tagWaistB003={^G}ウォーモンガーズ ベルト
+tagWaistB004={^G}フレイムシルク サッシュ
+tagWaistB005={^G}フロストガード ガードル
+tagWaistB006={^G}レイスボーン サッシュ
+tagWaistB007={^L}チェインズ オブ イグラード
+tagWaistB008={^L}チェインズ オブ オルダス
+tagWaistB009={^L}チェインズ オブ ブランディス
+
+tagWaistC001={^B}オルデナーのスタビライザー
+tagWaistC002={^B}フリジックの実用パック
+tagWaistC002Desc="ゾンビ忌避薬を使い 果たす まで､ 驚くほど フリジックに 役立った。"
+tagWaistC003={^B}錬金術師のベルト
+tagWaistC004=(S) {^B}略奪者の弾薬ベルト
+tagWaistC005={^B}ウォーチーフズ グローリー
+tagWaistC006={^B}ヘッドハンターのトロフィー
+tagWaistC007={^B}侍祭のコード
+tagWaistC008={^B}クトーニアン スレッド サッシュ
+tagWaistC009={^B}ブラッドベイスド リンクス
+tagWaistC009Desc="絶えず新鮮な血を 滴り落とし ている。"
+tagWaistC010={^B}祖先のコード
+tagWaistC011={^B}苦痛の鎖
+tagWaistC011Desc="鎖は筆舌し難い力を 与える､ ただし 等しき 血の 代償で。"
+tagWaistC012={^B}ウォーパス ガードル
+tagWaistC013=(S) {^B}シャープシューターズ ポーチ
+tagWaistC014={^B}スカイリーチ サッシュ
+tagWaistC015={^B}シャドウストーカーのベルト
+tagWaistC016={^B}フレイムスカージ ガードル
+tagWaistC017={^B}レジョネアの勝利
+tagWaistC018={^B}ストームタッチの鎖
+tagWaistC019={^B}ストーンスキン ガードル
+tagWaistC020={^B}ソウルバインダーの鎖
+tagWaistC021={^B}火炎糸のサッシュ
+tagWaistC022={^B}ドレッドウィーブ ガードル
+tagWaistC023={^B}平衡のサッシュ
+tagWaistC024=(S) {^B}フレイム キーパーのガードル
+
+tagWaistD001={^I}ソーン ガードル オブ ザ ミスティ グレイド
+tagWaistD002={^I}ブレイド ブレイカー サッシュ
+tagWaistD003={^I}ボーンウィーブ ガードル
+tagWaistD004={^I}ヴォイドマンサーのコード
+tagWaistD005={^I}ガットフック ベルト
+tagWaistD005Desc="その昔､ 被害者の内臓を 身に着ければ 逐次 彼自身の ものを 守るだろうと 確信する 常軌を逸した 大量殺人犯 によって 身に着けられた。"
+tagWaistD006={^I}ティンカーの工夫
+tagWaistD006Desc="世に知られたすべての 道具を､ いかにしてか 一つのベルトに 収納した。"
+tagWaistD007={^I}サッシュ オブ ザ ブラッドロード
+tagWaistD008={^I}ハンマーフォール ガードル
+tagWaistD009={^I}オレロンの鍛え直した鎖
+tagWaistD010={^I}ウルズインの苦悶
+tagWaistD011={^I}サッシュ オブ ザ イモータル セージ
+tagWaistD012={^I}ガードル オブ ストールン ドリームズ
+tagWaistD013={^I}スペルブレイカー ウェストガード
+tagWaistD013Desc="メンヒル神殿の､ 精選された パラディン 部隊である スペルブレイカー 連隊が 身に着けた ウェストガード。"
+tagWaistD014={^I}ファントム-スレッド ガードル
+tagWaistD014Desc="口にするのも恐ろしい 死霊術で､ 忌まわしきものの 魂から 紡いだ糸を 使って 織られた。"
+tagWaistD015=(S) {^I}ワイルドブラッド ガードル
+tagWaistD016=(S) {^I}地獄騎士のガードル
+
+tagWaistF001={^G}デビルズ コード
+tagWaistF002={^G}デビルズ ウェストガード
+tagWaistF003={^G}デビルズ ガードル
+tagWaistF004={^G}ローワリ コード
+tagWaistF005={^G}ローワリ ウェストガード
+tagWaistF006={^G}ローワリ ガードル
+tagWaistF007={^G}ソーラー ベルト
+tagWaistF008={^G}ソーラー ウェストガード
+tagWaistF009={^G}ソーラー ガードル
+tagWaistF010={^G}リージョン ベルト
+tagWaistF011={^G}リージョン ウェストガード
+tagWaistF012={^G}リージョン ガードル
+tagWaistF013={^G}デス コード
+tagWaistF014={^G}デス ウェストガード
+tagWaistF015={^G}デス ガードル
+tagWaistF016={^G}チョーズン コード
+tagWaistF017={^G}チョーズン ウェストガード
+tagWaistF018={^G}チョーズン ガードル
+
+#ArmorHands
+
+tagHandsA001={^W}グローブ
+tagHandsA002={^W}ヴァンブレイス
+tagHandsA003={^W}ガントレット
+tagHandsA004={^W}グリップ
+tagHandsA005={^W}ハンドガード
+
+tagHandsB001={^G}アデプツ グローブ
+tagHandsB002={^G}スクワイアズ ガントレット
+tagHandsB003={^G}アデプツ グリップ
+tagHandsB004={^G}スクワイアズ ハンドガード
+
+tagHandsC001={^B}シャドウズ グラスプ
+tagHandsC002={^B}狂信者のガントレット
+tagHandsC003={^B}ブレイドダンサーズ ハンドガード
+tagHandsC004={^B}スペルメイカーズ グリップ
+tagHandsC005=(S) {^B}略奪者のグローブ
+tagHandsC006={^B}ソウルズ タッチ
+tagHandsC007={^B}銘入りブレイサー
+tagHandsC008={^B}喧嘩屋のグローブ
+tagHandsC009={^B}ルーニック ブレイサー
+tagHandsC009Desc="力強き不滅のシンボルが､ 鋼に 刻まれてある。"
+tagHandsC010={^B}ブラックスチール ガントレット
+tagHandsC011={^B}シルクタッチ ハンドラップス
+tagHandsC011Desc="影に浸れ､ 闇に紛れば 無敵が故に。"
+tagHandsC012=ヘラルドのグローブ
+tagHandsC013=(S) {^B}薬剤師の接触
+tagHandsC014=(S) {^B}破滅のハンドガード
+tagHandsC015=(S) {^B}ドーンガード ガントレット
+tagHandsC016={^B}エンバーグリップ ハンドガード
+tagHandsC017={^B}早撃ちグローブ
+tagHandsC018=(S) {^B}イースタン グローブ
+tagHandsC019={^B}サンダータッチ ブレイサー
+tagHandsC020={^B}オブシディアン グラスプ
+tagHandsC021={^B}ドゥームタッチ
+tagHandsC022={^B}ドレッドチル グラスプ
+
+tagHandsD001={^I}グラスプ オブ アンチェインド マイト
+tagHandsD001Desc="グローブは､ オレロン自身の 獰猛性を 与えられた。"
+tagHandsD002={^I}タッチ オブ ザ エバーリビング グロウブ
+tagHandsD003={^I}ヴォイドスチール ガントレット
+tagHandsD003Desc="クトーニアン ハービンジャーの 燻っている 死体の上で 鍛造された。"
+tagHandsD004={^I}ボーンスカベンジャーズ デスグリップ
+tagHandsD004Desc="魔術師の陰惨な力が まだいくらか残る､ ネクロマンサーの 力を導く グローブ。"
+tagHandsD005={^I}ウィルムボーン ハンドガード
+tagHandsD006={^I}アイススコーン タロンズ
+tagHandsD007={^I}ヴァイパーファング グリップ
+tagHandsD008={^I}イーサーリーチ
+tagHandsD009={^I}コロッサル グラスプ
+tagHandsD010=(S) {^I}正義のハンドガード
+tagHandsD011=(S) {^I}ハービンジャーのグラスプ
+tagHandsD012=(S) {^I}光の守護者のガントレット
+
+tagHandsF001={^G}ローワリ グリップ
+tagHandsF002={^G}ローワリ ハンドガード
+tagHandsF003={^G}ハーベスト グリップ
+tagHandsF004={^G}ハーベスト ハンドガード
+
+
+#ArmorLegs
+
+tagLegsA001={^W}パンツ
+tagLegsA002={^W}レギンス
+tagLegsA003={^W}レッグラップス
+tagLegsA004={^W}ブリチス
+tagLegsA005={^W}ショース
+tagLegsA006={^W}レッグガード
+
+tagLegsB001={^L}ドリーグ-セクト レッグガード
+tagLegsB002={^L}ソレイル-セクト レッグガード
+tagLegsB003={^L}ビスミール-セクト レッグガード
+tagLegsB004={^L}アナステリアズ レッグガード
+tagLegsB005={^L}アナステリアズ レギンス
+
+tagLegsC001={^B}ミストウォーカー レギンス
+tagLegsC002={^B}隠者のレッグガード
+tagLegsC003={^B}沼居住者のレッグガード
+tagLegsC004=(S) {^B}探検家のトラウザーズ
+tagLegsC005={^B}染み付きトラウザーズ
+tagLegsC005Desc="前の所有者はこのズボンの 尻の中に ちょっとした サプライズ を残した ようだ。"
+tagLegsC006={^B}スリススケイル レッグラップス
+tagLegsC007={^B}アンコライトのレッグ アーマー
+tagLegsC008={^B}武勇のレッグプレート
+tagLegsC009={^B}フレッシュイーター レッグラップス
+tagLegsC009Desc="いくつかの物の起源は､ 歴史の 年代記に 最もよく 残される。"
+tagLegsC010={^B}シェイドレザー レギンス
+tagLegsC011={^B}ハルキング レッグガード
+tagLegsC012=(S) {^B}イースタン レッグガード
+tagLegsC013={^B}ブレイドガード レギンス
+tagLegsC014={^B}リフトハウンド レッグラップス
+tagLegsC015={^B}スペルウィーブ レッグラップス
+
+tagLegsD001={^I}デーモンボーン レッグプレート
+tagLegsD001Desc="必要な部品を手に入れて この防具を 作るのは､ とても難しい。"
+tagLegsD002={^I}ボーンウィーブ レギンス
+tagLegsD003={^I}デスウィスパー レギンス
+tagLegsD004={^I}ヘルフォージド レッグプレート
+tagLegsD004Desc="ヘルハウンドの､ 炎の息吹で 鍛えられた。"
+tagLegsD005={^I}フェイトウィーバーのレギンス
+tagLegsD005Desc="今このレギンスを形成している 糸の中に､ 数多くの 呪文と 力の言葉が 囁かれた。"
+tagLegsD006={^I}レイスボーン レッグラップス
+tagLegsD007={^I}アルケイン ハーモニー レギンス
+tagLegsD008={^I}ソーンハイド レッグガード
+tagLegsD009={^I}ニダラのレッグラップス
+tagLegsD010={^I}泰然自若のレッグラップス
+tagLegsD011={^I}バルバロスのショース
+tagLegsD011Desc="バルバロスは､ 多数の 滅茶苦茶になった 人馬の死体に 囲まれた戦場で 最期を遂げた､ ブラック リージョンの 兵士たちの中で 伝説的な 戦士だった。"
+tagLegsD012={^I}ストームケージ レッグガード
+tagLegsD013={^I}割と良いパンツ
+tagLegsD013Desc="実際､ これはまあまあだ。"
+tagLegsD014={^I}ワイルドショーン レッグガード
+
+
+#ArmorFeet
+
+tagFeetA001={^W}フットパッド
+tagFeetA002={^W}ブーツ
+tagFeetA003={^W}グリーヴ
+tagFeetA004={^W}サバトン
+tagFeetA005={^W}トレッド
+
+tagFeetB001={^G}アデプツ ブーツ
+tagFeetB002={^G}スクワイアズ ブーツ
+tagFeetB003={^G}アデプツ グリーヴ
+tagFeetB004={^G}スクワイアズ グリーヴ
+
+tagFeetC001={^B}モルテン ウォーカーズ
+tagFeetC002={^B}ウィンドボーン グリーヴ
+tagFeetC003={^B}盲目の敏捷ブーツ
+tagFeetC003Desc="このブーツの 型と 材料は､ この世界の どれとも 異なるように 思われる。"
+tagFeetC004={^B}ストーンロート グラウンドブレイカーズ
+tagFeetC005=(S) {^B}探検家のフットパッド
+tagFeetC006={^B}ブラッドハウンド グリーヴ
+tagFeetC007={^B}最後の進軍
+tagFeetC007B={^B}最後の進軍
+tagFeetC007Desc="それぞれの歩みが､ クトーンの力で 命を落とした 千人の兵士らの 重さを運ぶ。"
+tagFeetC008={^B}リフトハウンド レザー ブーツ
+tagFeetC008Desc="ろくでもない獣だが､ 素晴らしい ブーツができる。"
+tagFeetC009={^B}ドレッドノート フットパッド
+tagFeetC010={^B}ヘリオン グリーヴ
+tagFeetC011={^B}蛇のラップ
+tagFeetC012={^B}冒涜者のトレッド
+tagFeetC012Desc="勝算不明で追って 行き､ 残すは 冒涜の 足跡のみ。"
+tagFeetC013={^B}スペルセージ ブーツ
+tagFeetC014={^B}メイジロードのグリーヴ
+
+tagFeetD001={^I}ゴーレムボーン グリーヴ
+tagFeetD002={^I}ウィルムスケイル フットガード
+tagFeetD002Desc="ウィルムの鱗を手に入れるのは 非常に 危険なので､ 実際の防具の 部品どころか､ スクラップを 作ることすら ほとんど 成功しない。 これらの ブーツは､ 裕福な 貴族のための ステータ スシンボル のような ものだった。"
+tagFeetD003={^I}毒針グリーヴ
+tagFeetD003Desc="針は､ いくつかの異なった 種類の 蜘蛛と蛇の 毒の雫を 滴らす。"
+tagFeetD004={^I}ヴォイドウォーカー フットパッド
+tagFeetD005={^I}ボーンシャッター トレッド
+tagFeetD005Desc="骨をポキッと折る 胸糞悪い 破砕音を 最大に するため､ 靴底を 重くした。"
+tagFeetD006={^I}レイスウォーカーズ
+tagFeetD007={^I}ウィンドシーア グリーヴ
+tagFeetD008={^I}ストームタイタン トレッド
+tagFeetD009={^I}灰色の魔術師のフットパッド
+tagFeetD010={^I}大地粉砕のトレッド
+tagFeetD010Desc="このブーツの下で､ まさしく 大地が沸騰し､ ひび割れる。"
+
+tagFeetF001={^G}ローワリ フットパッド
+tagFeetF002={^G}ローワリ グリーヴ
+tagFeetF003={^G}リージョン グリーヴ
+tagFeetF004={^G}ハーベスト フットパッド
+tagFeetF005={^G}ハーベスト グリーヴ
+
+
+#Rings
+
+tagRingA001={^W}カッパー バンド
+tagRingA002={^W}シルバー バンド
+tagRingA003={^W}ゴールド バンド
+tagRingA004={^W}プラチナム バンド
+tagRingA005={^W}アメジスト リング
+tagRingA006={^W}ムーンストーン バンド
+tagRingA007={^W}オパール シグネット
+tagRingA008={^W}エメラルド リング
+tagRingA009={^W}サファイア バンド
+tagRingA010={^W}トパーズ シグネット
+tagRingA011={^W}ルビー リング
+tagRingA012={^W}インスクライブド バンド
+tagRingA013={^W}ダイヤモンド シグネット
+tagRingA014={^W}インペリアル リング
+tagRingA015={^W}オブシディアン バンド
+tagRingA016={^W}インペリアル シグネット
+
+tagRingB001={^G}レダンの形見の指輪
+tagRingB001Desc="バンドに沿って刻印された 陳腐な 銘に曰く： 愛を込めて - アメリア"
+tagRingB002={^L}クロンリーズ シグネット
+tagRingB002Desc="彼の被害者の血で 染まったものに､ 今彼自身の 血が加わった。"
+tagRingB003={^G}スキナー家の印環
+tagRingB003Desc="その家族がこれまで 所有した中で､ 最も貴重な 物だろう。"
+tagRingB004={^L}ゴラス リング
+tagRingB004Desc="彼は本当にその指輪が 好き だった。"
+tagRingB005={^L}ブラッドスウォーン シグネット
+tagRingB005Desc="召喚儀式の間､ 中の宝石が 微かに光る。"
+tagRingB006={^L}ヴィロスズ リング
+tagRingB006Desc="粗野に作られた宝飾の一品。 スリスが このような物を 使うとは 奇妙である。"
+
+tagRingC001={^B}骨髄の指輪
+tagRingC002={^B}オブシディアン シール
+tagRingC003={^B}ロアキーパーズ バンド
+tagRingC004={^B}トワイライト シグネット
+tagRingC005={^B}ブラックウォッチ シール
+tagRingC006={^B}スターファイア
+tagRingC006Desc="落ちた星の燃える残骸から 鋳造した。"
+tagRingC007={^B}ブラッドシール
+tagRingC008={^B}イーサーロードの印環
+tagRingC008Desc="貴族たちが一般的に身に 付けていた 指輪に､ イセリアルの霊が 憑依した。"
+tagRingC009={^B}エターナル バンド
+tagRingC010={^B}オブリトリックス
+tagRingC011={^B}彷徨える魂の指輪
+tagRingC012=(S) {^B}薬剤師の知恵
+tagRingC013=(S) {^B}シール オブ ザ ロイヤル クラウン
+tagRingC014=(S) {^B}ジュエル オブ ザ ロイヤル クラウン
+tagRingC015=(S) {^B}剛勇の指輪
+tagRingC016=(S) {^B}剛勇の印環
+tagRingC017=(S) {^B}殺戮の右腕
+tagRingC018=(S) {^B}殺戮の左腕
+tagRingC019A=(S) {^Z}アルカモスの恐怖
+tagRingC019B=(S) {^Z}アルカモスの辛苦
+tagRingC019Desc="死..."
+tagRingC020A=(S) {^Z}アルカモスの煩悶
+tagRingC020B=(S) {^Z}アルカモスの苦悶
+tagRingC020Desc="苦痛..."
+tagRingC021={^B}黒氷の指輪
+tagRingC022={^B}下劣な意志の指輪
+tagRingC023={^B}チルサージ リング
+tagRingC023Desc="この指輪の中のサファイアは､ ごく僅かな 接触で熱を 吸収する。"
+tagRingC024={^B}永劫腐敗の指輪
+tagRingC025={^B}燃焼地獄の印環
+tagRingC026={^B}アンコライトの印環
+tagRingC027={^B}クイックニング ジェム
+tagRingC028={^B}ブライアソーン バンド
+tagRingC029={^B}ライフブルーム バンド
+tagRingC030={^B}ゴリアテの印環
+tagRingC031={^B}堕落の印
+tagRingC032={^B}呪われし者の印環
+tagRingC033={^B}突然変異性の印
+tagRingC033Desc="宝石は､ 目の前で移ろい 形を変え 続けている。"
+tagRingC034={^B}アマラスタの印
+tagRingC035={^B}ワイルドパクト エメラルド
+tagRingC036=(S) {^B}イーサーストーム シジル
+tagRingC037=(S) {^B}イーサーストーム シール
+tagRingC038=(S) {^B}エレメンタル バランスのルビー
+tagRingC039=(S) {^B}エレメンタル バランスのサファイア
+
+tagRingD001={^I}シグネット オブ ザ フォールン
+tagRingD002={^I}ケルファト'ゾースのグリフ
+tagRingD002Desc="クトーンのグランド ハービンジャー､ ケルファト'ゾースが､ 最も忠実な 信者に 授けた印環。"
+tagRingD003={^I}ライフギバー シグネット
+tagRingD004={^I}タイム-フラックス バンド
+tagRingD005={^I}イーサーの嘲笑
+tagRingD005Desc="苦しい憑依過程を あざ笑う。"
+tagRingD006={^I}エントロピック コイル
+tagRingD007={^I}ブラック メイトリアークの指輪
+tagRingD007Desc="蜘蛛の毒を利用して､ 彼女の 敵対者たちを 麻痺させ 処刑した 冷酷無情の 暗殺者､ ブラック メイトリアーク の印環。"
+tagRingD008={^I}バンド オブ ザ エターナル ホーント
+tagRingD009={^I}ベルゴシアンの印
+tagRingD010={^I}アルブレヒトの二重性
+tagRingD010Desc="イーサー レイの創出者､ マスター アルブレヒトは､ アルケイン の熟達 のみならず エルドリッチの 神々との 関係でも 知られていた。 数多くの 法的紛争を 抱えていた 事実から､ ギルダム アルケイナムの 仲裁が なければ 処刑されて 終わって いただろう。"
+tagRingD011=(S) {^I}慈悲の開手
+tagRingD012=(S) {^I}復讐の拳骨
+tagRingD013=(S) {^I}インヴォーカーの燃え盛る手
+tagRingD014=(S) {^I}インヴォーカーの衝撃的接触
+tagRingD015=(S) {^F}アルカモスの恐怖の接触
+tagRingD016=(S) {^F}アルカモスの煩悶の接触
+
+
+tagRingF001={^B}デビルズ ウォー シール
+tagRingF002={^B}デビルズ ラース シール
+tagRingF003={^B}ローワリ ラース シール
+tagRingF004={^B}ローワリ ヴォイド シール
+tagRingF005={^B}リージョン ウォー シール
+tagRingF006={^B}リージョン コンジュレイション シール
+tagRingF007={^B}ハーベスト ヴェノム シール
+tagRingF008={^B}ハーベスト ブレイド シール
+tagRingF009={^B}デス フロスト シール
+tagRingF010={^B}デス ライフ シール
+tagRingF011={^B}チョーズン フレイム シール
+tagRingF012={^B}チョーズン ストーム シール
+
+
+#Necklaces
+
+tagNecklaceA00={^W}塩袋
+tagNecklaceA00Desc="悪霊を寄せ付けない ように見える､ 塩で一杯の袋。"
+
+tagNecklaceA001={^W}クロウ フェティッシュ
+tagNecklaceA002={^W}シルバー アミュレット
+tagNecklaceA003={^W}スカル フェティッシュ
+tagNecklaceA004={^W}プラチナム アミュレット
+tagNecklaceA005={^W}ボーン チャーム
+tagNecklaceA006={^W}ムーンストーン アミュレット
+tagNecklaceA007={^W}オパール ペンダント
+tagNecklaceA008={^W}エメラルド ネックレス
+tagNecklaceA009={^W}サファイア アミュレット
+tagNecklaceA010={^W}トパーズ ペンダント
+tagNecklaceA011={^W}ルビー ネックレス
+tagNecklaceA012={^W}インスクライブド アミュレット
+tagNecklaceA013={^W}ダイヤモンド ペンダント
+tagNecklaceA014={^W}インペリアル ネックレス
+tagNecklaceA015={^W}オブシディアン アミュレット
+tagNecklaceA016={^W}インペリアル ペンダント
+
+tagNecklaceB001={^L}ピュートリッド ネックレス
+tagNecklaceB001Desc="頭蓋骨は､ 悪臭を放つ粘液で 覆われている。"
+tagNecklaceB002={^L}デス-ウォッチャー ペンダント
+tagNecklaceB003={^L}エレナズ ネックレス
+tagNecklaceB003Desc="最初のスリス､ エレナの ものだった トロフィー。"
+tagNecklaceB004={^L}ザリアズ ペンダント
+tagNecklaceB005={^L}シャンブラーズ ハート
+tagNecklaceB006={^L}モガラズ ファングス
+tagNecklaceB007={^L}ゲイズ オブ アンゴリアックス
+tagNecklaceB008={^L}ブラッドブライアズ ソーン
+tagNecklaceB009={^L}ウルラプラックス スティング
+tagNecklaceB010={^L}ロナプラックス スティング
+
+tagNecklaceC001={^B}アミュレット オブ ザ アイ
+tagNecklaceC001Desc="宝石の中で 比類なき目が 前後に 素早く動く。"
+tagNecklaceC002={^B}アラーズラのルビー
+tagNecklaceC003={^B}ブラッドムーン
+tagNecklaceC004={^B}悪魔の護符
+tagNecklaceC004Desc="嘘と偽りを 織り込んだ 二枚舌。"
+tagNecklaceC005=(S) {^B}メイヴェンのレンズ
+tagNecklaceC006={^B}ワープ シャード
+tagNecklaceC006Desc="破片は､ 現実そのものを 捻じって 現れる。"
+tagNecklaceC007={^B}ウォーマスターの誇り
+tagNecklaceC008={^B}スピリットストーンの護符
+tagNecklaceC009={^B}旋風石
+tagNecklaceC010={^B}デス ウォード
+tagNecklaceC010Desc="その昔､ 悪霊除けとして 着用された お守り。"
+tagNecklaceC011={^B}ベロナスのエッセンス
+tagNecklaceC011Desc="偉大な獣ベロナスの､ 閉じ込められた 未処理の エッセンス。"
+tagNecklaceC012={^B}ベイン オブ ヌラム'シーン
+tagNecklaceC013={^B}オオカミ座の瑠璃
+tagNecklaceC014={^B}アンドロネウスの強欲
+tagNecklaceC014Desc="背中にナイフを導き入れる 前に､ 税のマスター アンドロネウス フィリアンが 公然と 見せびらかした 完璧な エメラルド。"
+tagNecklaceC015=(S) {^B}伝令官の防御
+tagNecklaceC016=(S) {^B}ブラインド アサシンの虚ろな目
+tagNecklaceC017=(S) {^B}ペンダント オブ ザ ロイヤル クラウン
+tagNecklaceC018=(S) {^B}剛勇のペンダント
+tagNecklaceC019={^B}レッチド ネセシティ
+tagNecklaceC019Desc="この宝石を一目見た だけで､ 強烈な 所有欲を 惹き起こす。"
+tagNecklaceC020={^B}ストームコーラーの宝石
+tagNecklaceC021={^B}ブライトシャード アミュレット
+tagNecklaceC022={^B}盾乙女の保護
+tagNecklaceC023={^B}フローズン コア
+tagNecklaceC024={^B}焦土のアミュレット
+tagNecklaceC025={^B}プレイグマンサーのアミュレット
+tagNecklaceC026={^B}紺碧の破片
+tagNecklaceC027={^B}ブレイドウォードの勇気
+tagNecklaceC028={^B}メンヒルのかけら
+tagNecklaceC029={^B}イバラの森のアミュレット
+tagNecklaceC030={^B}イナゴの宝石
+tagNecklaceC031={^B}先祖の護り
+tagNecklaceC032={^B}命令の破片
+tagNecklaceC033={^B}ソウル ペンダント
+tagNecklaceC034={^B}毒刃のアミュレット
+tagNecklaceC035={^B}アルケイン イクリプス
+tagNecklaceC036={^B}正義の炎
+tagNecklaceC037={^B}アイストラップ
+tagNecklaceC038=(S) {^B}キャリドアの破片
+tagNecklaceC039=(S) {^B}バインディング エメラルド オブ モグドロゲン
+tagNecklaceC040=(S) {^B}イーサーストーム アミュレット
+tagNecklaceC041={^B}マンティコアの瑠璃
+
+tagNecklaceD001={^I}ビスミールの意志
+tagNecklaceD002={^I}スレッド オブ モータリティ
+tagNecklaceD003={^I}慈悲のアバター
+tagNecklaceD003Desc="人間の７つの美徳の 最初。"
+tagNecklaceD004={^I}支配のソブリン ルビー
+tagNecklaceD005={^I}ベロナスの比類なき目
+tagNecklaceD005Desc="偉大な獣ベロナスの､ 防腐処置 をした目。"
+tagNecklaceD006={^I}スターフューリー エメラルド
+tagNecklaceD007={^I}グリム ドーンのエッセンス
+tagNecklaceD007Desc="グリム ドーンの始まりに､ 苦痛と死の 身体的発現 を目撃した。"
+tagNecklaceD008={^I}デスバウンド アメジスト
+tagNecklaceD009={^I}ハラコーのセレスチャル ストーン
+tagNecklaceD009Desc="ルミナリに加わるために､ 彼女の 地位と教えを 放棄した アルカニスト､ ジュネーブ ハラコーの 集中石。"
+tagNecklaceD010={^I}ドゥームブリンガー
+tagNecklaceD011={^I}ヘラルド オブ ザ アポカリプス
+tagNecklaceD011Desc="グリム ドーンが始まった時､ 最初のリフトを 破り開けた と噂される。"
+tagNecklaceD012={^I}ドリーグの悪疫
+tagNecklaceD012Desc="魔神ドリーグの､ 七疫病の 運搬人。"
+tagNecklaceD013={^I}夜の抱擁
+tagNecklaceD014={^I}ケアンの復讐者
+tagNecklaceD015=(S) {^I}ドーンブレイカーの篝火
+tagNecklaceD016=(S) {^I}デーモンスレイヤーの防御
+tagNecklaceD017=(S) {^I}インヴォーカーの破片
+tagNecklaceD018=(S) {^I}ドリーグの黒宝玉
+tagNecklaceD019=(S) {^I}イスカンドラの集中プリズム
+tagNecklaceD020=(S) {^I}ウルトスの宝石
+tagNecklaceD021=(S) {^I}マーコヴィアンの特質
+tagNecklaceD022=(S) {^I}ウルズインの心臓
+tagNecklaceD023={^I}山の心臓
+tagNecklaceD024=(S) {^I}ヴァルダンの賞金
+tagNecklaceD025=(S) {^I}アグリヴィックスのアルケイン シャード
+tagNecklaceD026=(S) {^I}ブラッドレイジャーの宝石
+
+tagNecklaceF001={^B}ローワリ ガードストーン
+tagNecklaceF002={^B}ローワリ ランカー
+tagNecklaceF003={^B}ローワリ ライフコーラー
+tagNecklaceF004={^B}ソーラー チャネリング ストーン
+tagNecklaceF005={^B}ハーベスター ストーン
+tagNecklaceF006={^B}サンダリング ジェム
+tagNecklaceF007={^B}グラスプ オブ ザ リーパー
+tagNecklaceF008={^B}ペンダント オブ ユビキタス ラース
+tagNecklaceF009={^B}ヴォイドコーラー ペンダント
+
+
+#Medals
+
+tagMedalA001={^W}リボン
+tagMedalA002={^W}バッジ
+tagMedalA003={^W}マーク
+tagMedalA004={^W}クレスト
+tagMedalA005={^W}スター
+tagMedalA006={^W}インペリアル クレスト
+tagMedalA007={^W}インペリアル スター
+
+tagMedalB001={^G}レンジャーズ リボン
+tagMedalB002={^G}レンジャーズ バッジ
+tagMedalB003={^L}イクリックス スケイル
+tagMedalB004={^L}カイモンズ バッジ
+tagMedalB005={^L}ブラッドスウォーン シジル
+tagMedalB006={^L}イルゴアズ エターナル ヴィジル
+tagMedalB006_Desc="苦悶の階段の看守たちは､ 無慈悲な徹夜を 果てしなく続けた。"
+tagMedalB007={^L}イルゴアズ エターナル カース
+tagMedalB008={^L}ラゴス'アクズ ヴォイドバインディング
+tagMedalB008_Desc="虚無とその主の莫大な力の､ 僅かな反響。"
+tagMedalB009={^L}ラゴス'アクズ ブラッドバインディング
+tagMedalB010={^L}バルタザールズ クレスト
+tagMedalB011={^L}マーティンズ クレスト
+tagMedalB012={^L}ハリオンズ クレスト
+tagMedalB013={^L}ブラッドフィースツ マーク
+tagMedalB014={^L}ガットワームズ マーク
+tagMedalB015={^L}マーク オブ ネクラーサン
+tagMedalB016={^L}マーク オブ ハーヴォウル
+
+tagMedalC001={^B}獣殺しの標章
+tagMedalC002={^B}不屈の記章
+tagMedalC003={^B}正義の勲章
+tagMedalC004=(S) {^B}ブラッドリーパーの標章
+tagMedalC005={^B}クリムゾン ハート
+tagMedalC006={^B}戦闘軍医の標章
+tagMedalC006Desc="戦闘の最中での勇敢な 奉仕故に､ 戦いで 鍛えられた 軍医に 授けられた。"
+tagMedalC007={^B}オースの標章
+tagMedalC008={^B}アルケイナム シジル
+tagMedalC009={^B}ヴァンガード スター
+tagMedalC010={^B}クリムゾン カンパニーのバッジ
+tagMedalC010Desc="無慈悲で効率的な 金目当ての グループ､ クリムゾン カンパニーのシンボル。"
+tagMedalC011=(S) {^B}薬剤師のサイン
+tagMedalC012=(S) {^B}誓約のアンホリー シジル
+tagMedalC013=(S) {^B}剛勇の綬章
+tagMedalC014={^B}エンチャンターの勲章
+tagMedalC015={^B}異端者の印
+tagMedalC016={^B}テンペスト シジル
+tagMedalC017={^B}偽神の標章
+tagMedalC018={^B}ガットワームズ ブラディ シール
+tagMedalC018Desc="彼の被害者の血に まみれている。"
+tagMedalC019={^B}モグドロゲン シジル
+tagMedalC020={^B}幻術師の標章
+tagMedalC021={^B}詐術のブラック スター
+tagMedalC022={^B}ニンフの標章
+tagMedalC023={^B}凍れる空の星
+tagMedalC024={^B}ヴォルケイナム
+tagMedalC025={^B}熾烈な決意の標章
+tagMedalC026=(S) {^B}ミュルミドン リヴィアド スター
+
+tagMedalD001={^I}禁断の標章
+tagMedalD001Desc="かつて異教徒に対して 強制的に､ 後に魔神の 信者が 誇りを持って 身に着けた シンボル。"
+tagMedalD002={^I}熟達の記章
+tagMedalD003={^I}火炎破壊の標章
+tagMedalD004={^I}熊王の印
+tagMedalD004Desc="熊王としても 知られている､ ウルザル ベネディクト 四世の印。"
+tagMedalD005={^I}クトーンの血の印
+tagMedalD006={^I}ダイアウルフの頂飾
+tagMedalD006Desc="北の荒地の守護獣､ 偉大なる 白狼の頂飾。"
+tagMedalD007={^I}不死の誓約
+tagMedalD008={^I}マーコヴィアンの策略
+tagMedalD008Desc="有名な策略家 マーコヴィアンに 敬意を表して 名付けられた このメダルは､ 最も優れた 将軍だけに 授与された。"
+tagMedalD009={^I}暗黒夢の標章
+tagMedalD010={^I}破門の標章
+tagMedalD011={^I}神聖の標章
+tagMedalD012=(S) {^I}ビーストコーラーのタリスマン
+
+tagMedalF001={^B}デビルズ バッジ オブ フレイム
+tagMedalF002={^B}デビルズ バッジ オブ フロスト
+tagMedalF003={^B}デビルズ バッジ オブ ヴェノム
+tagMedalF004={^B}リージョン マーク オブ ザ スペルウィーバー
+tagMedalF005={^B}リージョン マーク オブ ザ ヴォイド
+tagMedalF006={^B}リージョン マーク オブ ブレイズ
+tagMedalF007={^B}チョーズン スター オブ ウォー
+tagMedalF008={^B}チョーズン スター オブ サンダー
+tagMedalF009={^B}穢された チョーズン スター
+tagMedalF009Desc="敵の力に穢された にも 拘わらず､ このメダルは 公正な目的の 役に立つ。"
+
+
+#Blueprints
+tagTestBlueprint=blueprint： Item Name of the Awesomesauce
+tagTestBlueprintDescription="Flavor text of the Awesomesauce item that is awesome at things."
+
+tagBlueprint_RelicB001=設計図 : レリック - カラミティ
+tagBlueprint_RelicB002=設計図 : レリック - ルイネイション
+tagBlueprint_RelicB003=設計図 : レリック - 平衡
+tagBlueprint_RelicB004=設計図 : レリック - 氷河
+tagBlueprint_RelicB005=設計図 : レリック - スコール
+tagBlueprint_RelicB006=設計図 : レリック - インフェルノ
+tagBlueprint_RelicB007=設計図 : レリック - コラプション
+tagBlueprint_RelicB008=設計図 : レリック - 聖域
+tagBlueprint_RelicB009=設計図 : レリック - ガイル
+tagBlueprint_RelicB010=設計図 : レリック - ランペイジ
+tagBlueprint_RelicB011=設計図 : レリック - ミストボーン タリスマン
+tagBlueprint_RelicB012=設計図 : レリック - 誓剣のタリスマン
+tagBlueprint_RelicB013=設計図 : レリック - ガンスリンガーのタリスマン
+tagBlueprint_RelicC001=設計図 : レリック - 裁決者
+tagBlueprint_RelicC002=設計図 : レリック - 要塞
+tagBlueprint_RelicC003=設計図 : レリック - スローター
+tagBlueprint_RelicC004=設計図 : レリック - ジャガナート
+tagBlueprint_RelicC005=設計図 : レリック - テラー
+tagBlueprint_RelicC006=設計図 : レリック - 苦悶
+tagBlueprint_RelicC007=設計図 : レリック - ホーント
+tagBlueprint_RelicC008=設計図 : レリック - コンフラグレイション
+tagBlueprint_RelicC009=設計図 : レリック - サヴィッジ
+tagBlueprint_RelicC010=設計図 : レリック - デスチル
+tagBlueprint_RelicC011=設計図 : レリック - サクリファイス
+tagBlueprint_RelicC012=設計図 : レリック - ジール
+tagBlueprint_RelicC013=設計図 : レリック - 荒廃
+tagBlueprint_RelicC014=設計図 : レリック - ブライト
+tagBlueprint_RelicC015=設計図 : レリック - 先祖
+tagBlueprint_RelicC016=設計図 : レリック - ブレイドダンサーのタリスマン
+tagBlueprint_RelicC017=設計図 : レリック - 略奪者のタリスマン
+tagBlueprint_RelicD001=設計図 : レリック - 救済
+tagBlueprint_RelicD002=設計図 : レリック - 呪詛
+tagBlueprint_RelicD003=設計図 : レリック - ネメシス
+tagBlueprint_RelicD004=設計図 : レリック - 砦
+tagBlueprint_RelicD005=設計図 : レリック - 嵐の目
+tagBlueprint_RelicD006=設計図 : レリック - レコニング
+tagBlueprint_RelicD007=設計図 : レリック - スカージ
+tagBlueprint_RelicD008=設計図 : レリック - ウルズインのパイロクラズム
+tagBlueprint_RelicD009=設計図 : レリック - 壊死
+tagBlueprint_RelicD010=設計図 : レリック - アグリヴィックスの悪意
+tagBlueprint_RelicD011=設計図 : レリック - オブリビオン
+tagBlueprint_RelicD012=設計図 : レリック - ベルゴシアンの修羅道
+tagBlueprint_RelicD013=設計図 : レリック - アナイアレイション
+tagBlueprint_RelicD014=設計図 : レリック - 復讐者
+tagBlueprint_RelicD015=設計図 : レリック - 原始的本能
+tagBlueprint_RelicD016=設計図 : レリック - ソレイルの大殺戮
+tagBlueprint_RelicD017=設計図 : レリック - ドリーグの苦痛
+tagBlueprint_RelicD018=設計図 : レリック - ビスミールの支配
+tagBlueprint_RelicD019=設計図 : レリック - オレロンの憤怒
+tagBlueprint_RelicD020=設計図 : レリック - メンヒルの砦
+tagBlueprint_RelicD021=設計図 : レリック - イスカンドラのバランス
+tagBlueprint_RelicD022=設計図 : レリック - ブレイドマスターのタリスマン
+tagBlueprint_RelicD023=設計図 : レリック - 強奪者のタリスマン
+
+tagBlueprint_ComponentA01=設計図 : イーサー ソウル
+tagBlueprint_ComponentA02=設計図 : 耐弾装甲
+tagBlueprint_ComponentA03=設計図 : 神聖な鋼
+tagBlueprint_ComponentA04=設計図 : 集中プリズム
+tagBlueprint_ComponentA05=設計図 : 硬い皮
+tagBlueprint_ComponentA06=設計図 : 安らぎ無き遺骸
+tagBlueprint_ComponentA07=設計図 : 腐った心臓
+tagBlueprint_ComponentA08=設計図 : ルーンストーン
+tagBlueprint_ComponentA09=設計図 : 聖化した骨
+tagBlueprint_ComponentA10=設計図 : 棘付き甲羅
+tagBlueprint_ComponentA11=設計図 : 怨霊
+tagBlueprint_ComponentA12=設計図 : 防護石
+tagBlueprint_ComponentA13=設計図 : シルク スワッチ
+tagBlueprint_ComponentA14=設計図 : 鱗で覆われた皮
+tagBlueprint_ComponentA15=設計図 : 清められた塩
+tagBlueprint_ComponentA16=設計図 : くり抜かれた牙
+tagBlueprint_ComponentA17=設計図 : インビュード シルバー
+tagBlueprint_ComponentA18=設計図 : 神聖な砥石
+tagBlueprint_ComponentA19=設計図 : 黒い獣脂
+tagBlueprint_ComponentC01=設計図 : オレロンの血
+tagBlueprint_ComponentC02=設計図 : ベロナスのかけら
+tagBlueprint_ComponentC03=設計図 : アルケイン スパーク
+tagBlueprint_ComponentC04=設計図 : プリズム状ダイヤ
+tagBlueprint_ComponentC05=設計図 : ホーンテッド スチール
+tagBlueprint_ComponentC06=設計図 : モグドロゲンの標章
+tagBlueprint_ComponentC07=設計図 : シルバーコア ボルト
+tagBlueprint_ComponentC08=設計図 : 血まみれの砥石
+
+
+tagBlueprint_WaistB001=設計図 : バウンティ ハンターズ ガードル
+tagBlueprint_WaistB002=設計図 : ショックウィーブ サッシュ
+tagBlueprint_WaistB003=設計図 : ウォーモンガーズ ベルト
+tagBlueprint_WaistB004=設計図 : フレイムシルク サッシュ
+tagBlueprint_WaistB005=設計図 : フロストガード ガードル
+tagBlueprint_WaistB006=設計図 : レイスボーン サッシュ
+
+tagBlueprint_WeaponB001=設計図 : バトル シールド
+tagBlueprint_WeaponB002=設計図 : シージ シールド
+tagBlueprint_WeaponB003=設計図 : ソブリン シールド
+tagBlueprint_WeaponB004=設計図 : ロウテイティング ライフル
+tagBlueprint_WeaponB005=設計図 : フロントローディング ライフル
+tagBlueprint_WeaponB006=設計図 : シュラプネル ガン
+tagBlueprint_WeaponB007=設計図 : ホーンド ロングソード
+tagBlueprint_WeaponB008=設計図 : ホーンド ブロードソード
+tagBlueprint_WeaponB009=設計図 : ホーンド コンカラー
+tagBlueprint_WeaponB010=設計図 : ブルータル グレート アックス
+tagBlueprint_WeaponB011=設計図 : ブルータル カーバー
+tagBlueprint_WeaponB012=設計図 : ブルータル ディキャピテイター
+tagBlueprint_WeaponB013=設計図 : グリフト アーカイブ
+tagBlueprint_WeaponB014=設計図 : グリフト スペルブック
+tagBlueprint_WeaponB015=設計図 : グリフト トウム
+tagBlueprint_WeaponB016=設計図 : オカルト ホーン
+tagBlueprint_WeaponB017=設計図 : オカルト スカル
+tagBlueprint_WeaponB018=設計図 : オカルト エフィジー
+tagBlueprint_WeaponB019=設計図 : ダブルバレル ピストル
+tagBlueprint_WeaponB020=設計図 : ハンド モーター
+tagBlueprint_WeaponB021=設計図 : シュラプネル ピストル
+tagBlueprint_WeaponB022=設計図 : アデプツ ブレイデッド メイス
+tagBlueprint_WeaponB023=設計図 : アデプツ モーニングスター
+tagBlueprint_WeaponB024=設計図 : アデプツ フランジド メイス
+tagBlueprint_WeaponB025=設計図 : アデプツ ダガー
+tagBlueprint_WeaponB026=設計図 : アデプツ スペルブレイド
+tagBlueprint_WeaponB027=設計図 : マスターズ スペルブレイド
+tagBlueprint_WeaponB028=設計図 : アデプツ ワンド
+tagBlueprint_WeaponB029=設計図 : アデプツ セプター
+tagBlueprint_WeaponB030=設計図 : マスターズ セプター
+
+tagBlueprint_WeaponC001=設計図 : ウィッチストーカー
+tagBlueprint_WeaponC002=設計図 : ザ アイ
+tagBlueprint_WeaponC003=設計図 : ストームズ エッジ
+tagBlueprint_WeaponC004=設計図 : オーメン
+tagBlueprint_WeaponC005=設計図 : 震動
+tagBlueprint_WeaponC006=設計図 : スペルファイア ワンド
+tagBlueprint_WeaponC007=設計図 : ファイアストーム セプター
+tagBlueprint_WeaponC008=設計図 : ウルダ'ジャックス
+tagBlueprint_WeaponC009=設計図 : 強化版 スペルファイア ワンド
+tagBlueprint_WeaponC010=設計図 : 強化版 スカイシャード スペルブレイド
+tagBlueprint_WeaponC011=設計図 : 強化版 奇形人形
+tagBlueprint_WeaponC012=設計図 : 強化版 ブラック グリモワール オブ オグ'ナペッシュ
+
+tagBlueprint_WeaponD001=設計図 : アルケイナム シジリス
+tagBlueprint_WeaponD002=設計図 : ラカ'ジャックス
+tagBlueprint_WeaponD003=設計図 : 天罰
+tagBlueprint_WeaponD004=設計図 : 焼死の使者
+tagBlueprint_WeaponD005=設計図 : 鍛え直したベロナス
+tagBlueprint_WeaponD006=設計図 : レヴィアタン
+tagBlueprint_WeaponD007=設計図 : オレクスラの寒気
+tagBlueprint_WeaponD008=設計図 : バシリスクの鉤爪
+tagBlueprint_WeaponD009=設計図 : シージブレイカー
+tagBlueprint_WeaponD010=設計図 : 支配の目
+tagBlueprint_WeaponD011=設計図 : 永久嵐の古写本
+
+tagBlueprint_WeaponF001=設計図 : デビルズ カジェル
+tagBlueprint_WeaponF002=設計図 : 強化版 ディフェンダー オブ デビルズ クロッシング
+tagBlueprint_WeaponF003=設計図 : ローワリ スペルウィーバー コデックス
+tagBlueprint_WeaponF004=設計図 : ローワリ アーバレスト
+tagBlueprint_WeaponF005=設計図 : 強化版 オーメン
+tagBlueprint_WeaponF006=設計図 : ルーナー スレッジ
+tagBlueprint_WeaponF007=設計図 : ハーベスツ ディフェンダー
+tagBlueprint_WeaponF008=設計図 : 強化版 ボルトスピッター
+tagBlueprint_WeaponF009=設計図 : リージョン スライサー
+tagBlueprint_WeaponF010=設計図 : 強化版 ブラック リージョンの紋章盾
+tagBlueprint_WeaponF011=設計図 : デス シックスガン
+tagBlueprint_WeaponF012=設計図 : デス ゲイズ
+tagBlueprint_WeaponF013=設計図 : 強化版 リーパーズ タッチ
+tagBlueprint_WeaponF014=設計図 : チョーズン クリムゾンガード
+tagBlueprint_WeaponF015=設計図 : チョーズン クラッシャー
+tagBlueprint_WeaponF016=設計図 : 強化版 オーウェルのリボルバー
+
+
+tagBlueprint_ArmorB001=設計図 : アデプツ ブーツ
+tagBlueprint_ArmorB002=設計図 : アデプツ グリーヴ
+tagBlueprint_ArmorB003=設計図 : スクワイアズ ブーツ
+tagBlueprint_ArmorB004=設計図 : スクワイアズ グリーヴ
+tagBlueprint_ArmorB005=設計図 : アデプツ グローブ
+tagBlueprint_ArmorB006=設計図 : アデプツ グリップ
+tagBlueprint_ArmorB007=設計図 : スクワイアズ ガントレット
+tagBlueprint_ArmorB008=設計図 : スクワイアズ ハンドガード
+tagBlueprint_ArmorB009=設計図 : アデプツ フード
+tagBlueprint_ArmorB010=設計図 : アデプツ サークレット
+tagBlueprint_ArmorB011=設計図 : レンジャーズ ヘルム
+tagBlueprint_ArmorB012=設計図 : レンジャーズ カスク
+
+tagBlueprint_ArmorF001=設計図 : デビルズ コード
+tagBlueprint_ArmorF002=設計図 : デビルズ ウェストガード
+tagBlueprint_ArmorF003=設計図 : デビルズ ガードル
+tagBlueprint_ArmorF004=設計図 : ローワリ コード
+tagBlueprint_ArmorF005=設計図 : ローワリ ウェストガード
+tagBlueprint_ArmorF006=設計図 : ローワリ ガードル
+tagBlueprint_ArmorF007=設計図 : ソーラー ベルト
+tagBlueprint_ArmorF008=設計図 : ソーラー ウェストガード
+tagBlueprint_ArmorF009=設計図 : ソーラー ガードル
+tagBlueprint_ArmorF010=設計図 : リージョン ベルト
+tagBlueprint_ArmorF011=設計図 : リージョン ウェストガード
+tagBlueprint_ArmorF012=設計図 : リージョン ガードル
+tagBlueprint_ArmorF013=設計図 : デス コード
+tagBlueprint_ArmorF014=設計図 : デス ウェストガード
+tagBlueprint_ArmorF015=設計図 : デス ガードル
+tagBlueprint_ArmorF016=設計図 : チョーズン コード
+tagBlueprint_ArmorF017=設計図 : チョーズン ウェストガード
+tagBlueprint_ArmorF018=設計図 : チョーズン ガードル
+
+tagBlueprint_ArmorC001=設計図 : ガーズマンの防御
+tagBlueprint_ArmorC002=設計図 : ガーズマンのブレストプレート
+tagBlueprint_ArmorC003=設計図 : 探検家のチュニック
+tagBlueprint_ArmorC004=設計図 : 探検家のトラウザーズ
+tagBlueprint_ArmorC005=設計図 : 加飾のポールドロン
+tagBlueprint_ArmorC006=設計図 : ブラインド アサシンのカウル
+tagBlueprint_ArmorC007=設計図 : 誓約のアンホリー ヴィジッジ
+tagBlueprint_ArmorC008=設計図 : フレイム キーパーのジャケット
+tagBlueprint_ArmorC009=設計図 : キャリドアのベストメント
+tagBlueprint_ArmorC010=設計図 : ミュルミドン バイザー
+tagBlueprint_ArmorC011=設計図 : モグドロゲンのカウル
+
+tagBlueprint_ArmorD001=設計図 : 絶望の胃
+tagBlueprint_ArmorD002=設計図 : ドレッドマスク オブ グルゴス
+tagBlueprint_ArmorD003=設計図 : 秘密の囁き
+tagBlueprint_ArmorD004=設計図 : 深淵のマスク
+tagBlueprint_ArmorD005=設計図 : うわばみのサークレット
+tagBlueprint_ArmorD006=設計図 : マスク オブ インファーナル トゥルース
+tagBlueprint_ArmorD007=設計図 : 正義のフェイスガード
+tagBlueprint_ArmorD008=設計図 : ビーストコーラーのカウル
+tagBlueprint_ArmorD009=設計図 : マスク オブ ザ ハービンジャー
+tagBlueprint_ArmorD010=設計図 : デーモンスレイヤーの帽子
+tagBlueprint_ArmorD011=設計図 : クレアボヤンツ ハット
+tagBlueprint_ArmorD012=設計図 : マーコヴィアンのバイザー
+tagBlueprint_ArmorD013=設計図 : ウルズインのヘッドガード
+tagBlueprint_ArmorD014=設計図 : ドリーグの頭巾
+tagBlueprint_ArmorD015=設計図 : デスマークのフード
+tagBlueprint_ArmorD016=設計図 : イスカンドラのフード
+tagBlueprint_ArmorD017=設計図 : ウルトスのフード
+tagBlueprint_ArmorD018=設計図 : 冬王の王冠
+tagBlueprint_ArmorD019=設計図 : トロザンの帽子
+tagBlueprint_ArmorD020=設計図 : ヴァルダンの帽子
+tagBlueprint_ArmorD021=設計図 : エルドリッチ ゲイズ
+tagBlueprint_ArmorD022=設計図 : 三神の誓約
+tagBlueprint_ArmorD023=設計図 : 毒刃のカウル
+tagBlueprint_ArmorD024=設計図 : 黒炎の面
+tagBlueprint_ArmorD025=設計図 : 光の守護者のヘルム
+tagBlueprint_ArmorD026=設計図 : 地獄騎士のフェイスガード
+tagBlueprint_ArmorD027=設計図 : ウォーボーン バイザー
+tagBlueprint_ArmorD028=設計図 : ブラッドレイジャーのカウル
+
+
+tagBlueprint_AccessoryC001=設計図 : メイヴェンのレンズ
+tagBlueprint_AccessoryC002=設計図 : 旋風石
+tagBlueprint_AccessoryC003=設計図 : マンティコアの瑠璃
+tagBlueprint_AccessoryC004=設計図 : 熾烈な決意の標章
+tagBlueprint_AccessoryC005=設計図 : エレメンタル バランスのルビー
+tagBlueprint_AccessoryC006=設計図 : エレメンタル バランスのサファイア
+tagBlueprint_AccessoryC007=設計図 : 強化版 プレイグマンサーのアミュレット
+tagBlueprint_AccessoryC008=設計図 : 強化版 ベロナスのエッセンス
+tagBlueprint_AccessoryC009=設計図 : 強化版 テンペスト シジル
+tagBlueprint_AccessoryC010=設計図 : 火炎糸のサッシュ
+tagBlueprint_AccessoryC011=設計図 : 平衡のサッシュ
+tagBlueprint_AccessoryC012=設計図 : 強化版 クトーニアン スレッド サッシュ
+
+tagBlueprint_AccessoryD001=設計図 : スターフューリー エメラルド
+tagBlueprint_AccessoryD002=設計図 : グリム ドーンのエッセンス
+tagBlueprint_AccessoryD003=設計図 : ヘラルド オブ ザ アポカリプス
+tagBlueprint_AccessoryD004=設計図 : ドリーグの悪疫
+tagBlueprint_AccessoryD005=設計図 : ヴォイドマンサーのコード
+tagBlueprint_AccessoryD006=設計図 : ティンカーの工夫
+tagBlueprint_AccessoryD007=設計図 : オレロンの鍛え直した鎖
+tagBlueprint_AccessoryD008=設計図 : ウルズインの苦悶
+tagBlueprint_AccessoryD009=設計図 : スペルブレイカー ウェストガード
+tagBlueprint_AccessoryD010=設計図 : 熟達の記章
+tagBlueprint_AccessoryD011=設計図 : 神聖の標章
+
+tagBlueprint_MiscA01=設計図 : スケルトン キー
+tagBlueprint_MiscA01Desc=選ばれた少数の者 のみが 知る､ 古代の 工芸技術。
+
+tagBlueprint_MaterialA01=設計図 : イーサーの塊
+
+#Relics
+
+tagDeviceBonus=完成ボーナス
+tagDeviceTier01=通常の レリック
+tagDeviceTier02=超越的 レリック
+tagDeviceTier03=神話的 レリック
+
+tagRelicB001=カラミティ
+tagRelicB001Desc="抑えの利かない破壊。"
+tagRelicB002=ルイネイション
+tagRelicB002Desc="無謀な破壊。"
+tagRelicB003=平衡
+tagRelicB003Desc="不安定な エレメントの 海で 均衡を 取る。"
+tagRelicB004=氷河
+tagRelicB004Desc="氷の芯と冷酷 無情な心。"
+tagRelicB005=スコール
+tagRelicB005Desc="アーコヴィアの空の神､ ウルトスの 荒々しい 精神。"
+tagRelicB006=インフェルノ
+tagRelicB006Desc="ウルズインの抑制した 復讐。"
+tagRelicB007=コラプション
+tagRelicB007Desc="ケアンの苦しみを 明示する。"
+tagRelicB008=聖域
+tagRelicB008Desc="この試練の時代 における 避難所。"
+tagRelicB009=ガイル
+tagRelicB009Desc="機微と機知は 暴力と筋肉 に勝る。"
+tagRelicB010=ランペイジ
+tagRelicB010Desc="比類なき情熱で､ 戦神オレロンの 名のもとに 戦闘を 遂行する。"
+tagRelicB011=ミストボーン タリスマン
+tagRelicB011Desc="すべての敵が死んで 横たわる まで終わらない 非情な 戦闘の怒りを 奮い起こす ために､ トロールが 持ち歩く タリスマン。"
+tagRelicB012=誓剣のタリスマン
+tagRelicB012Desc="二刀流術の 熟練の シンボル。"
+tagRelicB013=ガンスリンガーのタリスマン
+tagRelicB013Desc="二丁拳銃を､ 致死的精度で 撃つ術の 熟練の シンボル。"
+tagRelicB014=ボーン タリスマン
+tagRelicB014Desc="この骨の小片には､ 放浪民にとって 精神的に 重要な 成句と シンボルが､ 細部にわたって 描き尽くされ ていた。"
+tagRelicB015=アイボリー タリスマン
+tagRelicB016=セイクリッド タリスマン
+
+tagRelicC001=裁決者
+tagRelicC001Desc="正義､ 公平､ 公正..."
+tagRelicC002=要塞
+tagRelicC002Desc="確固たる防御者にして 弱者の砦。"
+tagRelicC003=スローター
+tagRelicC003Desc="ナイトブレイドの任務 全てが､ 綺麗な殺しで 終わるわけ ではない。"
+tagRelicC004=ジャガナート
+tagRelicC004Desc="奪われることなき 破壊の力。"
+tagRelicC005=テラー
+tagRelicC005Desc="世界の暗部からの､ 恐怖と戦慄 の予見。"
+tagRelicC006=苦悶
+tagRelicC006Desc="数え切れぬ苦しみで 満たされた､ アーコヴィアの 苦悶の階段 の記念品。"
+tagRelicC007=ホーント
+tagRelicC007Desc="生者の世界に逃れんと 熱望する､ 不老の精霊。"
+tagRelicC008=コンフラグレイション
+tagRelicC008Desc="ウルズインの息吹。"
+tagRelicC009=サヴィッジ
+tagRelicC009Desc="野性の目覚めを 受け入れよ。"
+tagRelicC010=デスチル
+tagRelicC010Desc="死の凍える接触が､ 隅々まで 貪るように 長く留まる..."
+tagRelicC011=サクリファイス
+tagRelicC011Desc="この者たちに 要らぬ事を させぬよう､ 血を流せ。"
+tagRelicC012=ジール
+tagRelicC012Desc="何も気に懸けず､ 思いっきり 戦争を 行え。"
+tagRelicC013=荒廃
+tagRelicC013Desc="荒廃以外､ 何も跡に 残すな。"
+tagRelicC014=ブライト
+tagRelicC014Desc="ドリーグの､ 九疫病の 傑作。"
+tagRelicC015=先祖
+tagRelicC015Desc="先祖の中に､ 真の可能性 への鍵が 横たわる。"
+tagRelicC016=ブレイドダンサーのタリスマン
+tagRelicC016Desc="二刀流術の 至高の シンボル。"
+tagRelicC017=略奪者のタリスマン
+tagRelicC017Desc="致死的な正確さで 二丁の拳銃を 撃つ術における 至高の シンボル。"
+
+tagRelicD001=救済
+tagRelicD001Desc="イシュタークの導燈が 痛みを洗い､ 新たに蘇った 決意で 満たされる。"
+tagRelicD002=呪詛
+tagRelicD002Desc="身障者も戦士 も一様に倒す という点で､ 疫病と疾病は 並ぶものなき 力である。"
+tagRelicD003=ネメシス
+tagRelicD003Desc="月はガイド､ 影は同盟。 我は狩人..."
+tagRelicD004=砦
+tagRelicD004Desc="侵し得ぬ砦が如くと なって､ 乗り越えられぬ 壁の前で 敵が悲運に 見舞われる のを眺めよ。"
+tagRelicD005=嵐の目
+tagRelicD005Desc="神の力を求める者は､ 稲妻の 嵐の間､ 空を見上げる 以外に 必要なもの がある。"
+tagRelicD006=レコニング
+tagRelicD006Desc="すべての打撃を 何層倍にもして返す。"
+tagRelicD007=スカージ
+tagRelicD007Desc="我は死神を 恐れぬ､ 我は 人の姿をした 死なるが故に。"
+tagRelicD008=ウルズインのパイロクラズム
+tagRelicD008Desc="浄化の炎で 世界を 洗え..."
+tagRelicD009=壊死
+tagRelicD009Desc="あらゆるものの最後に､ 我々は皆 同じ運命を 共有する。"
+tagRelicD010=アグリヴィックスの悪意
+tagRelicD010Desc="イーサーの秘密は､ 我々が 手にすべき ものである。 ベールの 向こうに 何があるかなど､ 全く 恐れる ことはない。"
+tagRelicD011=オブリビオン
+tagRelicD011Desc="私は､ 予想以上に空虚な 虚無界の､ 大きな 暗闇を 覗き込んだ。 それが振り 返るとは､ 思いも しなかった。"
+tagRelicD012=ベルゴシアンの修羅道
+tagRelicD012Desc="わが兄弟のナイトブレイド たちには 彼らの やり方があり､ 私には私の やり方がある。 無辜など いない。"
+tagRelicD013=アナイアレイション
+tagRelicD013Desc="空がバラバラに裂け､ 深紅の天から 炎の雨が 降り注ぐ であろう..."
+tagRelicD014=復讐者
+tagRelicD014Desc="まさしく､ お前は 力強い打撃を 成功させた。 だが最後の 一撃は こちらに 残して おくべきだ。"
+tagRelicD015=原始的本能
+tagRelicD015Desc="奮い立て､ しもべたち。 ご馳走の時間だ..."
+tagRelicD016=ソレイルの大殺戮
+tagRelicD016Desc="このような力を､ 人が利用することは できないと 言われている。 だから私は 人である ことをやめた。"
+tagRelicD017=ドリーグの苦痛
+tagRelicD017Desc="あなたから隠された 最大の 秘密は､ あなたの 脆弱な 死亡率に 関する 誤信である。"
+tagRelicD018=ビスミールの支配
+tagRelicD018Desc="あれを見よ､ 小さな操り 人形たちを､ 全員 わが見えざる 糸に従って 動いているのを。"
+tagRelicD019=オレロンの憤怒
+tagRelicD019Desc="血... 苦痛... 死。 戦争のドラムを拒むのか？"
+tagRelicD020=メンヒルの砦
+tagRelicD020Desc="母なる地は､ 異教徒の 悪しき精神にも 汚れた血にも 我慢ならぬであろう。 彼女を護る為に 奮起せよ､ さらば ケアンは そなたと共に 立ち上がるだろう。"
+tagRelicD021=イスカンドラのバランス
+tagRelicD021Desc="大望を抱くすべての者が 最初に習得すべき 教訓は､ 我々すべてを囲む 魔法の生の力の バランスを 見つけることである。"
+tagRelicD022=ブレイドマスターのタリスマン
+tagRelicD022Desc="二刀流術に関する 熟達の シンボル。"
+tagRelicD023=強奪者のタリスマン
+tagRelicD023Desc="致死的な正確さで 二丁の拳銃を 撃つ術に関する 熟達の シンボル。"
+
+#Crafting
+tagCraftTabArtifactA=レリック
+tagCraftTabArtifactB=偉大な力を持った タリスマン､ レリック､ アーティファクト。
+tagCraftTabMeleeA=近接武器
+tagCraftTabMeleeB=スライスさせ､ 叩き切り､ あるいは 打撃することを 意図した 戦争武器の 各種組み合わせ。
+tagCraftTabRangedA=遠隔武器
+tagCraftTabRangedB=離れて戦う方を 好む者には､ ピストル､ ライフル､ クロスボウ といった 選択で。
+tagCraftTabArmorA=防具
+tagCraftTabArmorB=様々な型と材料の､ 盾や胴､ 各部防具の コレクション。
+tagCraftTabMiscA=アクセサリーと消耗品
+tagCraftTabMiscB=時として鍛冶をも越える 技法の混合物。
+
+tagCraftMaterial_RoyalJelly=ローヤル ゼリー
+tagCraftMaterial_RoyalJelly_Desc="オールド アーコヴィアの 巨大なスズメバチから 採った濃縮分泌物。 特性回復効果 があると 広く信じ られている。"
+tagCraftMaterial_AetherShard=イーサーのかけら
+tagCraftMaterial_AetherShard_Desc="イーサー クリスタル 構成体 から採った 大きなかけら。 まだ利用されて いないパワーが 満ち溢れている。"
+tagCraftMaterial_AetherCluster=イーサーの塊
+tagCraftMaterial_AetherCluster_Desc="不安定なエナジーで はち切れそうな､ イーサーのかけらの 濃厚な塊。"
+tagCraftMaterial_TaintedBrain=汚染した脳物質
+tagCraftMaterial_TaintedBrain_Desc="強力なイセリアルの 操作によって､ 傷つき 捻れた 脳組織。"
+tagCraftMaterial_BloodChthon=クトーンの血
+tagCraftMaterial_BloodChthon_Desc="虚無の神が 融合した 血液。"
+tagCraftMaterial_AncientHeart=エンシェント ハート
+tagCraftMaterial_AncientHeart_Desc="バッグの中で､ 間断なく 不気味なリズムを 叩きつづける。"
+tagCraftMaterial_Manticore=マンティコアの目
+tagCraftMaterial_Mancitore_Desc="比類なき 捕食動物の 鋭い目。"
+tagCraftMaterial_SkeletonKey=スケルトン キー
+tagCraftMaterial_SkeletonKey_Desc="物語が信じられるなら､ この鍵は ほとんどの 古代の扉を 開けてしまう だろう。"
+tagCraftMaterial_CultistSeal=クトーンの捕縛印
+tagCraftMaterial_CultistSeal_Desc="この物質世界に､ 強力な クリーチャーを 縛るため クトーン教が 使う封印。"
+
+tagCraftRandomItemDesc=鍛冶屋は､ プレイヤーの レベルに ふさわしい 魔法の アイテムを 作ります。 また､ 極めて稀な アイテムを 生成する ボーナス チャンスを 伴った レア品質の アイテムすら 作ることが あります。
+tagCraftRandomLegendaryItemDesc=鍛冶屋は､ プレイヤーの レベルに ふさわしい レジェンダリー品質の 魔法がかけられた レベル75 までのアイテム を造ります。
+tagCraftComponentDesc=鍛冶技法の経験は､ 優れた品質の 材料を もたらし得る。
+tagCraftComponentRareDesc=並外れた製作技術は､ 何世代もの間に 失われたと 考えられていた。
+tagCraftShardBeronathDesc=鋼を聖ベロナスの破片に 変える。
+tagCraftRelicDesc=古代の鍛冶技法は､ グリム ドーンで 失われた と考えられていた。
+tagCraftTransmuteDesc=鍛冶の熱とわずかな錬金術 を通して､ 稀少な資材を 同等に稀少な 他の創造物に､ 変える ことができる。
+tagCraftRandomLegendaryDesc=鍛冶屋は､ レベル75までの レジェンダリー品作製 可能性を秘めて､ これらの物にある 生のアルケイン パワーを結合する。 レベル58未満の キャラクターは､ 代わりに エピック アイテムを 造るだろう。
+tagCraftRandomLegendaryAccessoryDesc=鍛冶屋は､ レベル75までの レジェンダリー品作製 可能性を秘めて､ これらの物にある 生のアルケイン パワーを結合する。 レベル58未満の キャラクターは､ 代わりに エピック アイテムを 造るだろう。
+
+tagCraftRandomAxe=魔法の斧
+tagCraftRandomBlunt=魔法のメイス
+tagCraftRandomCrossbow2h=魔法のクロスボウ
+tagCraftRandomFocus=魔法の詠唱用具
+tagCraftRandomGun2h=魔法の両手銃
+tagCraftRandomShield=魔法の盾
+tagCraftRandomSword=魔法の剣
+tagCraftRandomGun1h=魔法の片手銃
+tagCraftRandomAxe2h=魔法の両手斧
+tagCraftRandomBlunt2h=魔法の両手メイス
+tagCraftRandomSword2h=魔法の両手剣
+tagCraftRandomCasterWeapon_01=魔法の冷気武器
+tagCraftRandomCasterWeapon_02=魔法の火炎武器
+tagCraftRandomCasterWeapon_03=魔法の酸武器
+tagCraftRandomCasterWeapon_04=魔法の雷武器
+tagCraftRandomCasterWeapon_05=魔法の生命力武器
+tagCraftRandomCasterWeapon_06=魔法のカオス武器
+tagCraftRandomCasterWeapon_07=魔法のイーサー武器
+
+tagCraftRandomRing=魔法のリング
+tagCraftRandomNecklace=魔法のネックレス
+tagCraftRandomMedal=魔法のメダル
+tagCraftRandomBelt=魔法のベルト
+
+tagCraftRandomFeet_Heavy=魔法のヘビーブーツ
+tagCraftRandomFeet_Light=魔法のライトブーツ
+tagCraftRandomHands_Heavy=魔法のヘビーグローブ
+tagCraftRandomHands_Light=魔法のライトグローブ
+tagCraftRandomHead_Caster=魔法の詠唱者用ヘルム
+tagCraftRandomHead_Heavy=魔法のヘビーヘルム
+tagCraftRandomHead_Light=魔法のライトヘルム
+tagCraftRandomLegs_Heavy=魔法の重装パンツ
+tagCraftRandomLegs_Light=魔法の軽装パンツ
+tagCraftRandomShoulder_Heavy=魔法の重肩甲
+tagCraftRandomShoulder_Light=魔法の軽肩甲
+tagCraftRandomTorso_Caster=魔法の詠唱者用胴着
+tagCraftRandomTorso_Heavy=魔法の重鎧
+tagCraftRandomTorso_Light=魔法の軽鎧
+
+tagCraftRandomLegendary_Armor=レジェンダリーアーマー
+tagCraftRandomLegendary_Accessory=レジェンダリーアクセサリ
+tagCraftRandomLegendary_MeleeWeapon=レジェンダリー近接武器
+tagCraftRandomLegendary_RangedWeapon=レジェンダリー遠隔武器
+tagCraftRandomLegendary_CasterWeapon=レジェンダリー詠唱者用武器
+
+
+tagSuppliesIncomplete=供給物の一部を製作
+tagSuppliesComplete=供給物を製作
+tagSuppliesNumber={%s0 - %d1 / %d2}
+tagSuppliesBonus=
+tagSuppliesHelp=[作成した供給物は 設計図で 使用されます]
+tagSuppliesError=
+
+
+#Consumables
+
+tagScrollDirections=[右クリックで消耗]
+tagUseDirections=[右クリックで使用]
+
+tagConsumableRoyalJellyBalmBlueprint=レシピ : ローヤル ゼリー 香油
+tagConsumableRoyalJellyBalmBlueprintDesc="放浪民の秘密の薬術。"
+tagConsumableBlueprintA01=レシピ : フレイムドリンカー 軟膏
+tagConsumableBlueprintA02=レシピ : フロストシュラウド 軟膏
+tagConsumableBlueprintA03=レシピ : ストームシュラウド 軟膏
+tagConsumableBlueprintA04=レシピ : ヴェノムガード 軟膏
+tagConsumableBlueprintA05=レシピ : ブラッドバウンド 軟膏
+tagConsumableBlueprintA06=レシピ : スピリットベイン 軟膏
+tagConsumableBlueprintA07=レシピ : デスウィスパー 軟膏
+tagConsumableBlueprintA08=レシピ : ホアフロスト 軟膏
+tagConsumableBlueprintA09=レシピ : ライフスチーラー オイル
+tagConsumableBlueprintA10=レシピ : 毒牙 オイル
+tagConsumableBlueprintA11=レシピ : 血牙 オイル
+tagConsumableBlueprintA12=レシピ : アルケイナム オイル
+tagConsumableBlueprintA13=レシピ : いにしえの霊薬
+tagConsumableBlueprintA13Desc="禁断の魔法をいじった 忘れられた術。"
+tagConsumableBlueprintA14=レシピ : イーサーの霊薬
+tagConsumableBlueprintA14Desc="気を散らすものすべてを 心から 取り去るために､ ギルダム アルケイナム によって完成 された調合物。"
+tagConsumableBlueprintA15=レシピ : 虚無の霊薬
+tagConsumableBlueprintA15Desc="クトーン教団によって よく使われる､ 彼らの神に 近いものを 連れてくる 調合物。"
+tagConsumableBlueprintA16=レシピ : 狩りの霊薬
+tagConsumableBlueprintA16Desc="より良く獲物を追跡 するために､ 狩人が使う 混合物。"
+tagConsumableBlueprintA17=レシピ : ローヤル ゼリー 抽出液
+tagConsumableBlueprintA18=レシピ : ローヤル ゼリー エッセンス
+tagConsumableBlueprintA19=レシピ : ローヤル ゼリー 膏薬
+tagConsumableBlueprintA19Desc="放浪民の秘密の薬術。"
+tagConsumableBlueprintA20=レシピ : ローヤル ゼリー 軟膏
+tagConsumableBlueprintA20Desc="放浪民の秘密の薬術。"
+
+tagConsumable_RoyalJellyBalm=ローヤル ゼリー 香油
+tagConsumable_RoyalJellyBalmDesc="濃厚なローヤル ゼリーから 作られた 調合鎮静薬。"
+tagConsumableA01=フレイムドリンカー 軟膏
+tagConsumableA01Desc="着火を拒絶する､ 嫌な臭いの 調合物。"
+tagConsumableA02=フロストシュラウド 軟膏
+tagConsumableA02Desc="妙に温かな感触の､ 濃密な 調合物。"
+tagConsumableA03=ストームシュラウド 軟膏
+tagConsumableA03Desc="電気エナジーを逸らす､ ヌルヌルした 調合物。"
+tagConsumableA04=ヴェノムガード 軟膏
+tagConsumableA04Desc="ほとんどの毒素を中和する､ 甘い匂いの 調合物。"
+tagConsumableA05=ブラッドバウンド 軟膏
+tagConsumableA05Desc="黒と深い血の赤の間を 絶えず 移行する､ 粘度の高い 調合物。"
+tagConsumableA06=スピリットベイン 軟膏
+tagConsumableA06Desc="奇妙な温かさを発する､ 赤熱の 調合物。"
+tagConsumableA07=デスウィスパー 軟膏
+tagConsumableA07Desc="塗布した後も グツグツ 泡立ち 変化する 吐き気を 催させるような 混合物。"
+tagConsumableA08=ホアフロスト 軟膏
+tagConsumableA08Desc="ほとんど火傷しそう なほど熱い､ 油性調合物。"
+tagConsumableA09=ライフスチーラー オイル
+tagConsumableA09Desc="所望の標的から 生命を 引き出す のに 使われた､ 吐き気を 催す毒素。"
+tagConsumableA10=毒牙 オイル
+tagConsumableA10Desc="スリスの毒液がほんの少々 混ざった､ 様々な 有毒生物からの 邪悪な 毒素。"
+tagConsumableA11=血牙 オイル
+tagConsumableA11Desc="標的に激しい出血を 誘発させる､ むかつく毒素。"
+tagConsumableA12=アルケイナム オイル
+tagConsumableA12Desc="武器の焦点特性を強化 するために､ ギルダム アルケイナムが用いた 混合物。"
+tagConsumableA13=いにしえの霊薬
+tagConsumableA13Desc="ケアン古代の獣から 引き出した 強力な霊薬。"
+tagConsumableA14=イーサーの霊薬
+tagConsumableA14Desc="イーサーのエッセンスから 引き出した､ 強力な霊薬。"
+tagConsumableA15=虚無の霊薬
+tagConsumableA15Desc="卑劣な血の魔法から 引き出した､ 強力な霊薬。"
+tagConsumableA16=狩りの霊薬
+tagConsumableA16Desc="より良く獲物を 追跡する ために､ 狩人と アサシンが使う 強力な霊薬。"
+tagConsumableA17=ローヤル ゼリー 抽出液
+tagConsumableA17Desc="心を鋭くするローヤル ゼリーの 濃縮液。"
+tagConsumableA18=ローヤル ゼリー エッセンス
+tagConsumableA18Desc="スズメバチのローヤル ゼリーから 作られた､ 生気を 回復させる トニック。"
+tagConsumableA19=ローヤル ゼリー 膏薬
+tagConsumableA19Desc="濃厚なローヤル ゼリーから 作られた 調合鎮静薬。"
+tagConsumableA20=ローヤル ゼリー 軟膏
+tagConsumableA20Desc="濃厚なローヤル ゼリーから 作られた 調合鎮静薬。"
+tagConsumableA21=
+tagConsumableA21Desc=
+tagConsumableA22=イーサーの塊
+tagConsumableA22Desc="奇妙なエナジーでハミング している､ イーサー クリスタルの 大きな塊。"
+
+tagConsumableF01=ストーンハート オイル
+tagConsumableF01Desc="盾を強化し軽くする オイル。"
+tagConsumableF02=スリスブラッド チンキ
+tagConsumableF02Desc="瓶を砕いて､ 周囲に不快な 毒の雲を 放出する。"
+tagConsumableF03=ローワリ オイル
+tagConsumableF03Desc="オールド アーコヴィアを うろついている 下劣な アンデッドから 採った毒素。"
+tagConsumableF04=ラース オブ ザ ビースト チンキ
+tagConsumableF04Desc="瓶を砕いて､ しもべたちを 狂乱状態にする。"
+tagConsumableF05=ハサミムシ オイル
+tagConsumableF05Desc="ハサミムシの毒腺から 採った毒素。"
+tagConsumableF06=勇気のチンキ
+tagConsumableF06Desc="瓶を砕いて､ 近くの仲間 全員を 鼓舞する。"
+tagConsumableF07=ハートシーカー オイル
+tagConsumableF07Desc="ブラック リージョン暗殺隊の 考案した毒素。"
+tagConsumableF08=ブレイド-ウォード チンキ
+tagConsumableF08Desc="瓶を砕いて､ 周囲に 旋回する刃を 召喚する。"
+tagConsumableF09=アイス-ブラッド オイル
+tagConsumableF09Desc="敵の血を凍らせる アルケイン の毒素。"
+tagConsumableF10=フロストガード チンキ
+tagConsumableF10Desc="瓶を砕いて､ 周囲に骨を冷やす 風を起こす。"
+tagConsumableF11=カイモンの神聖オイル
+tagConsumableF11Desc="敵を燃焼させるため､ カイモン自らが 祝福した 聖なるオイル。"
+tagConsumableF12=カイモンの激怒チンキ
+tagConsumableF12Desc="瓶を砕いて､ 周囲にカイモンの 激怒を 解き放つ。"
+
+tagConsumable_DevotionReset=明晰のトニック
+tagConsumable_DevotionReset_Desc="心を明晰にし､ 新しい精神的な 旅に備える。"
+
+#DLC
+tagDLCIllusionRemoval=幻影消散粉
+tagDLCIllusionRemovalDesc="100%真正の､ イリュージョン 除去粉末が 充満している。"
+tagDLCIllusionA01=イリュージョン: 化粧カツラ
+tagDLCA01=化粧カツラ
+tagDLCA01Desc="洗練とスタイルの明確化。"
+tagDLCIllusionA02=イリュージョン: 剣客のコート
+tagDLCA02=剣客のコート
+tagDLCA02Desc="どこにいる冒険家も好む逸品。"
+tagDLCIllusionA03=イリュージョン: 後援者の栄誉
+tagDLCA03=後援者の栄誉
+tagDLCA03Desc="後援者のこの上ない 献身に対する称賛。"
+tagDLCIllusionA04=イリュージョン: キックスターター従軍勲章
+tagDLCA04=キックスターター 従軍勲章
+tagDLCA04Desc="2012年の偉大な キックスターター 戦争からの 従軍勲章。"
+tagDLCIllusionA05=イリュージョン: キックスターター古参勲章
+tagDLCA05=キックスターター 古参勲章
+tagDLCA05Desc="2012年の偉大な キックスターター 戦争からの 古参勲章。"
+tagDLCIllusionA06=イリュージョン: キックスターター将校勲章
+tagDLCA06=キックスターター 将校勲章
+tagDLCA06Desc="2012年の偉大な キックスターター 戦争からの 将校勲章。"
+tagDLCIllusionA07=イリュージョン: 提督帽
+tagDLCA07=提督帽
+tagDLCA07Desc="陸と海とで､ 進軍指揮。"
+tagDLCIllusionA08=イリュージョン: 南部将軍のヘルム
+tagDLCA08=南部将軍のヘルム
+tagDLCA08Desc="揺るがぬ忠誠を引き起こすヘルメット。"
+tagDLCIllusionA09=イリュージョン: 略奪者の恐怖のヘルム
+tagDLCA09=略奪者の恐怖のヘルム
+tagDLCA09Desc="このヘルムは､ 無数の血まみれの 戦闘を見た。"
+tagDLCIllusionA10=イリュージョン: 荘厳な戦士のヘルム
+tagDLCA10=荘厳な戦士のヘルム
+tagDLCA10Desc="あらゆる点で尊敬される。"
+tagDLCConsumableA01=瓶詰 ウィル'オ'ウィスプ
+tagDLCConsumableA01Desc="瓶に閉じ込められた､ 無害な精霊。"
+tagDLCConsumableA01PetSkill01=ウィスプ オーラ
+tagDLCConsumableA01PetSkill01Desc=ウィスプは､ 闇を貫く温かな光で 持つ者の 周りを囲む。
+tagDLCConsumableA02=バーウィッチ ビール
+tagDLCConsumableA02Desc="気弱な方はご遠慮ください。 生じ得る副作用 : 吐き気､ 嘔吐､ 昨夜いた 場所の忘却。"
+
+tagDLCConsumableA03=聖 Crate
+tagDLCConsumableA03Desc="物質界に縛られた 神聖な クリーチャー。"
+tagDLCConsumableA03PetSkill01=Crate の存在
+
+tagDLCIllusionA11=イリュージョン: 黒騎士のブーツ
+tagDLCA11=黒騎士のブーツ
+tagDLCA11Desc="不吉な黒騎士の 装甲の一部。"
+tagDLCIllusionA12=イリュージョン: 黒騎士のガントレット
+tagDLCA12=黒騎士のガントレット
+tagDLCIllusionA13=イリュージョン: 黒騎士のヘルム
+tagDLCA13=黒騎士のヘルム
+tagDLCIllusionA14=イリュージョン: 黒騎士のレッグガード
+tagDLCA14=黒騎士のレッグガード
+tagDLCIllusionA15=イリュージョン: 黒騎士の盾
+tagDLCA15=黒騎士の盾
+tagDLCIllusionA16=イリュージョン: 黒騎士のショルダーガード
+tagDLCA16=黒騎士のショルダーガード
+tagDLCIllusionA17=イリュージョン: 黒騎士の剣
+tagDLCA17=黒騎士の剣
+tagDLCIllusionA18=イリュージョン: 黒騎士のチェストガード
+tagDLCA18=黒騎士のチェストガード
+
+tagDLCIllusionA19=イリュージョン: 銀騎士のブーツ
+tagDLCA19=銀騎士のブーツ
+tagDLCA19Desc="神聖な銀騎士の 装甲の一部。"
+tagDLCIllusionA20=イリュージョン: 銀騎士のガントレット
+tagDLCA20=銀騎士のガントレット
+tagDLCIllusionA21=イリュージョン: 銀騎士のヘルム
+tagDLCA21=銀騎士のヘルム
+tagDLCIllusionA22=イリュージョン: 銀騎士のレッグガード
+tagDLCA22=銀騎士のレッグガード
+tagDLCIllusionA23=イリュージョン: 銀騎士の盾
+tagDLCA23=銀騎士の盾
+tagDLCIllusionA24=イリュージョン: 銀騎士のショルダーガード
+tagDLCA24=銀騎士のショルダーガード
+tagDLCIllusionA25=イリュージョン: 銀騎士の剣
+tagDLCA25=銀騎士の剣
+tagDLCIllusionA26=イリュージョン: 銀騎士のチェストガード
+tagDLCA26=銀騎士のチェストガード
+
+tagDLCIllusionA27=イリュージョン: 竜将軍の槍
+tagDLCA27=竜将軍の槍
+tagDLCA27Desc="尊敬すべき竜将軍の コレクションの一部。"
+tagDLCIllusionA28=イリュージョン: 竜将軍の兜
+tagDLCA28=竜将軍の兜
+tagDLCIllusionA29=イリュージョン: 竜将軍の鎧
+tagDLCA29=竜将軍の鎧
+
+tagDLCIllusionA30=イリュージョン: 白魔導士の杖
+tagDLCA30=白魔導士の杖
+tagDLCA30Desc="謎めいた白魔導士の 盛装の一部。"
+tagDLCIllusionA31=イリュージョン: 白魔導士の帽子
+tagDLCA31=白魔導士の帽子
+tagDLCIllusionA32=イリュージョン: 白魔導士のローブ
+tagDLCA32=白魔導士のローブ
+
+tagDLCIllusionA33=イリュージョン: 暗黒魔導士の杖
+tagDLCA33=暗黒魔導士の杖
+tagDLCA33Desc="卑劣な暗黒魔導士の 盛装の一部。"
+tagDLCIllusionA34=イリュージョン:暗黒魔導士の帽子
+tagDLCA34=暗黒魔導士の帽子
+tagDLCIllusionA35=イリュージョン:暗黒魔導士のローブ
+tagDLCA35=暗黒魔導士のローブ
+
+tagDLCIllusionA36=イリュージョン: グレートウルフのブーツ
+tagDLCA36=グレートウルフのブーツ
+tagDLCA36Desc="獰猛なグレートウルフ アーマーの一部。"
+tagDLCIllusionA37=イリュージョン: グレートウルフのガントレット
+tagDLCA37=グレートウルフのガントレット
+tagDLCIllusionA38=イリュージョン: グレートウルフのヘルム
+tagDLCA38=グレートウルフのヘルム
+tagDLCIllusionA39=イリュージョン: グレートウルフのレガーズ
+tagDLCA39=グレートウルフのレガーズ
+tagDLCIllusionA40=イリュージョン: グレートウルフの盾
+tagDLCA40=グレートウルフの盾
+tagDLCIllusionA41=イリュージョン: グレートウルフのショルダーガード
+tagDLCA41=グレートウルフのショルダーガード
+tagDLCIllusionA42=イリュージョン: グレートウルフの噛みつき
+tagDLCA42=グレートウルフの噛みつき
+tagDLCIllusionA43=イリュージョン: グレートウルフのチェストガード
+tagDLCA43=グレートウルフのチェストガード
+
+tagDLCIllusionB01=イリュージョン : モグドロゲン の 聖なる 斧
+tagDLCB01=モグドロゲン の 聖なる 斧
+tagDLCB01Desc=「 神聖な モグドロゲン の 武装 の 一部。」
+tagDLCIllusionB02=イリュージョン : モグドロゲン の 聖なる 兜
+tagDLCB02=モグドロゲン の 聖なる 兜
+tagDLCIllusionB03=イリュージョン : モグドロゲン の 聖なる 鎧
+tagDLCB03=モグドロゲン の 聖なる 鎧
+tagDLCIllusionB04=イリュージョン : モグドロゲン の 聖なる 肩当て
+tagDLCB04=モグドロゲン の 聖なる 肩当て
+tagDLCIllusionB05=イリュージョン : モグドロゲン の 聖なる 手甲
+tagDLCB05=モグドロゲン の 聖なる 手甲
+tagDLCIllusionB06=イリュージョン : モグドロゲン の 聖なる ブーツ
+tagDLCB06=モグドロゲン の 聖なる ブーツ
+
+tagDLCIllusionB07=イリュージョン : ラトッシュ の 聖なる 杖
+tagDLCB07=ラトッシュ の 聖なる 杖
+tagDLCB07Desc=「 神聖な ラトッシュ の 装束 の 一部。」
+tagDLCIllusionB08=イリュージョン : ラトッシュ の 聖なる 仮面
+tagDLCB08=ラトッシュ の 聖なる 仮面
+tagDLCIllusionB09=イリュージョン : ラトッシュ の 聖なる ローブ
+tagDLCB09=ラトッシュ の 聖なる ローブ
+tagDLCIllusionB10=イリュージョン : ラトッシュ の 聖なる マント
+tagDLCB10=ラトッシュ の 聖なる マント
+
+tagDLCIllusionB11=イリュージョン : エンピリオン の 聖なる 槍
+tagDLCB11=エンピリオン の 聖なる 槍
+tagDLCB11Desc=「 神聖な エンピリオン の 武装 の 一部。」
+tagDLCIllusionB12=イリュージョン : エンピリオン の 聖なる 兜
+tagDLCB12=エンピリオン の 聖なる 兜
+tagDLCIllusionB13=イリュージョン : エンピリオン の 聖なる 鎧
+tagDLCB13=エンピリオン の 聖なる 鎧
+tagDLCIllusionB14=イリュージョン : エンピリオン の 聖なる 肩当て
+tagDLCB14=エンピリオン の 聖なる 肩当て
+tagDLCIllusionB15=イリュージョン : エンピリオン の 聖なる 手甲
+tagDLCB15=エンピリオン の 聖なる 手甲
+tagDLCIllusionB16=イリュージョン : エンピリオン の 聖なる 脚甲
+tagDLCB16=エンピリオン の 聖なる 脚甲
+tagDLCIllusionB17=イリュージョン : エンピリオン の 聖なる ブーツ
+tagDLCB17=エンピリオン の 聖なる ブーツ
+
+tagDLCIllusionB18=イリュージョン : クトーン の 聖なる 顔
+tagDLCB18=クトーン の 聖なる 顔
+tagDLCB18Desc=「 神聖な クトーン の 装備 の 一部。」
+tagDLCIllusionB19=イリュージョン : クトーン の 聖なる 鎖
+tagDLCB19=クトーン の 聖なる 鎖
+tagDLCIllusionB20=イリュージョン : クトーン の 聖なる マント
+tagDLCB20=クトーン の 聖なる マント
+tagDLCIllusionB21=イリュージョン : クトーン の 聖なる グリップ
+tagDLCB21=クトーン の 聖なる グリップ
+
+tagDLCIllusionB23=イリュージョン : 五輪 の 眼光
+tagDLCB23=五輪 の 眼光
+tagDLCB23Desc=「 五輪 の 祭服 の 一部。」
+tagDLCIllusionB24=イリュージョン : 五輪 の マント
+tagDLCB24=五輪 の マント
+tagDLCIllusionB25=イリュージョン : 五輪 の ローブ
+tagDLCB25=五輪 の ローブ
+
+
+#ItemNote
+
+tagNoteHelp=[右クリックで全文読む]
+tagNoteKnown=[ 既 読 ]
+tagNoteExcerpt="{%t}.."
+
+#ItemEnchantment
+
+tagEnchanted=増強剤 
+tagEnchantmentName=増強剤
+tagEnchantmentUsable=[右クリックで アイテムを 増強します]
+tagEnchantmentUnusable=[使用不可 - 必要条件を 満たして いません]
+tagEnchantmentConfirmation=本当にこの増強剤を 適用しますか？
+tagEnchantmentOverwrite=本当に増強剤を 交換しますか？
+tagEnchantmentSoulboundConfirmation=本当にこの増強剤を 適用しますか？ 増強させた アイテムは､ ソウルバウンド になります。
+tagEnchantmentSoulboundOverwrite=本当に増強剤を 交換しますか？ 増強させた アイテムは､ ソウルバウンド になります。
+tagEnchantmentSoulboundRemoval=本当に､ 今ある増強剤を 交換しますか？ 現在の増強剤に 上書きすると､ そのソウルバウンド 効果は 除去されます。
+
+tagEnchantTest=TEST NAME
+tagEnchantTestDesc="A test description."^w^n(Used in rings)
+
+tagEnchantA001A=マンティコアの毒
+tagEnchantA001B=マンティコアの毒 II
+tagEnchantA001C=マンティコアの毒 III
+tagEnchantA001Desc="マンティコアから 抽出された 強力な 毒素で､ 接触した 皮膚を燃やす。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantA002A=強力な マンティコアの毒
+tagEnchantA002B=強力な マンティコアの毒 II
+tagEnchantA002C=強力な マンティコアの毒 III
+tagEnchantA002Desc="マンティコアから 抽出された 強力な 毒素で､ 接触した 皮膚を燃やす。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantA003A=ヴォイドビースト パウダー
+tagEnchantA003B=ヴォイドビースト パウダー II
+tagEnchantA003C=ヴォイドビースト パウダー III
+tagEnchantA003Desc="クトーンの獣の 残骸から 得た 細かな 粉末。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantA004A=強力な ヴォイドビースト パウダー
+tagEnchantA004B=強力な ヴォイドビースト パウダー II
+tagEnchantA004C=強力な ヴォイドビースト パウダー III
+tagEnchantA004Desc="クトーンの獣の 残骸から 得た 細かな 粉末。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantA005A=ブラックスチール パウダー
+tagEnchantA005B=ブラックスチール パウダー II
+tagEnchantA005C=ブラックスチール パウダー III
+tagEnchantA005Desc="ブラック リージョン にだけ 知られている､ 鉄と 種々の鉱物との 秘密の混合。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantA006A=強力な ブラックスチール パウダー
+tagEnchantA006B=強力な ブラックスチール パウダー II
+tagEnchantA006C=強力な ブラックスチール パウダー III
+tagEnchantA006Desc="ブラック リージョン にだけ 知られている､ 鉄と 種々の鉱物との 秘密の混合。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantA007A=イーサー ダスト
+tagEnchantA007B=イーサー ダスト II
+tagEnchantA007C=イーサー ダスト III
+tagEnchantA007Desc="濃厚な塩に曝された､ イセリアルの 残骸から 得た粉末。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantA008A=強力な イーサー ダスト
+tagEnchantA008B=強力な イーサー ダスト II
+tagEnchantA008C=強力な イーサー ダスト III
+tagEnchantA008Desc="濃厚な塩に曝された､ イセリアルの 残骸から 得た粉末。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantA009A=アーコヴィアン ローズ パウダー
+tagEnchantA009B=アーコヴィアン ローズ パウダー II
+tagEnchantA009C=アーコヴィアン ローズ パウダー III
+tagEnchantA009Desc="オールド アーコヴィアの 高き山頂にのみ 育つことで 知られている､ 輝く赤い花 から引き 出した粉末。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA010A=ロットブルーム パウダー
+tagEnchantA010B=ロットブルーム パウダー II
+tagEnchantA010C=ロットブルーム パウダー III
+tagEnchantA010Desc="大虐殺と腐敗の間に 生えているのが 発見された 茶灰の花 から得た粉。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA011A=スリス草末
+tagEnchantA011B=スリス草末 II
+tagEnchantA011C=スリス草末 III
+tagEnchantA011Desc="沼とゴミの周囲に 広く見られる 雑草から 得た 臭い粉末。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA012A=ストームテイル ヴァイパーの毒
+tagEnchantA012B=ストームテイル ヴァイパーの毒 II
+tagEnchantA012C=ストームテイル ヴァイパーの毒 III
+tagEnchantA012Desc="ストームテイル ヴァイパーの 毒を 慎重に抽出した､ エナジーの火花を 散らす粉末。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA013A=アーコヴィアン ボーンミール
+tagEnchantA013B=アーコヴィアン ボーンミール II
+tagEnchantA013C=アーコヴィアン ボーンミール III
+tagEnchantA013Desc="呪われたアーコヴィア人の 粉砕された骨､ 放浪民の 長老によって 安全に処理 されてある。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantA014A=強力な アーコヴィアン ボーンミール
+tagEnchantA014B=強力な アーコヴィアン ボーンミール II
+tagEnchantA014C=強力な アーコヴィアン ボーンミール III
+tagEnchantA014Desc="呪われたアーコヴィア人の 粉砕された骨､ 放浪民の 長老によって 安全に処理 されてある。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantA015A=トロールのイボ粉
+tagEnchantA015B=トロールのイボ粉 II
+tagEnchantA015C=トロールのイボ粉 III
+tagEnchantA015Desc="古代トロールの イボから 得た粉末。 手袋をして 処理しなければ ならない。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantA016A=強力な トロールのイボ粉
+tagEnchantA016B=強力な トロールのイボ粉 II
+tagEnchantA016C=強力な トロールのイボ粉 III
+tagEnchantA016Desc="古代トロールの イボから 得た粉末。 手袋をして 処理しなければ ならない。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantA017A=ボーンバックの棘
+tagEnchantA017B=ボーンバックの棘 II
+tagEnchantA017C=ボーンバックの棘 III
+tagEnchantA017Desc="ボーンバック ラッツの 棘から得た 粗い粉末。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA018A=スリスの毒
+tagEnchantA018B=スリスの毒 II
+tagEnchantA018C=スリスの毒 III
+tagEnchantA018Desc="スリスの女族長の 有毒唾液から 抽出された 粉末。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA019A=ゲイザーの目
+tagEnchantA019B=ゲイザーの目 II
+tagEnchantA019C=ゲイザーの目 III
+tagEnchantA019Desc="イセリアル ゲイザーの､ 目を潰して 得た粉末。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA020A=コープスフィーンドの触手
+tagEnchantA020B=コープスフィーンドの触手 II
+tagEnchantA020C=コープスフィーンドの触手 III
+tagEnchantA020Desc="まだ生きているかのように､ 粉は 袋の中で 移動し 続ける。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA021A=ヴォイドヴァイン パウダー
+tagEnchantA021B=ヴォイドヴァイン パウダー II
+tagEnchantA021C=ヴォイドヴァイン パウダー III
+tagEnchantA021Desc="クトーンの虚無界を 積極的に 通り抜け､ 広がって いるところを 発見された つるから 得た粉末。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantA022A=強力な ヴォイドヴァイン パウダー
+tagEnchantA022B=強力な ヴォイドヴァイン パウダー II
+tagEnchantA022C=強力な ヴォイドヴァイン パウダー III
+tagEnchantA022Desc="クトーンの虚無界を 積極的に 通り抜け､ 広がって いるところを 発見された つるから 得た粉末。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantA023A=ストーンタスクの蹄
+tagEnchantA023B=ストーンタスクの蹄 II
+tagEnchantA023C=ストーンタスクの蹄 III
+tagEnchantA023Desc="ストーンタスク猪の蹄を 潰して 得た粉末､ 重い大ハンマーを 何度も 打たなければ ならない工程を 経たもの。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantA024A=強力な ストーンタスクの蹄
+tagEnchantA024B=強力な ストーンタスクの蹄 II
+tagEnchantA024C=強力な ストーンタスクの蹄 III
+tagEnchantA024Desc="ストーンタスク猪 の蹄を 潰して 得た粉末､ 重い大ハンマーを 何度も 打たなければ ならない工程を 経たもの。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantA025A=ハサミムシのキチン
+tagEnchantA025B=ハサミムシのキチン II
+tagEnchantA025C=ハサミムシのキチン III
+tagEnchantA025Desc="大規模な酸処理を 施した後に､ ハサミムシの 装甲から 得た粉末。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantA026A=強力な ハサミムシのキチン
+tagEnchantA026B=強力な ハサミムシのキチン II
+tagEnchantA026C=強力な ハサミムシのキチン III
+tagEnchantA026Desc="大規模な酸処理を 施した後に､ ハサミムシの 装甲から 得た粉末。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantA027A=雨乞い粉
+tagEnchantA027B=雨乞い粉 II
+tagEnchantA027C=雨乞い粉 III
+tagEnchantA027Desc="村のまじない師が 裸火に放り 込むと 二週間内に 雨を呼ぶ という､ 魔法の粉 について語る 民話が いくつかある。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantA028A=強力な 雨乞い粉
+tagEnchantA028B=強力な 雨乞い粉 II
+tagEnchantA028C=強力な 雨乞い粉 III
+tagEnchantA028Desc="村のまじない師が 裸火に放り 込むと 二週間内に 雨を呼ぶ という､ 魔法の粉 について語る 民話が いくつかある。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantA029A=聖なる炎
+tagEnchantA029B=聖なる炎 II
+tagEnchantA029C=聖なる炎 III
+tagEnchantA029Desc="カイモンの選民が 儀式の間に 使う粉。 火鉢に投げ 入れると､ 燃えさしが 火花を散らして 爆発する。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA030A=祝福された遺灰
+tagEnchantA030B=祝福された遺灰 II
+tagEnchantA030C=祝福された遺灰 III
+tagEnchantA030Desc="カイモンの選民の 遺灰。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA031A=清められた銀
+tagEnchantA031B=清められた銀 II
+tagEnchantA031C=清められた銀 III
+tagEnchantA031Desc="卑劣なクトーニアンと 戦うため､ 聖なる炎で 清められた銀。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA032A=儀式用の塩
+tagEnchantA032B=儀式用の塩 II
+tagEnchantA032C=儀式用の塩 III
+tagEnchantA032Desc="儀式のサークルを描き､ 安らぎ無き霊から 防護するのに しばしば用いられる､ 死霊術の 儀式用塩。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA033A=壊死肉
+tagEnchantA033B=壊死肉 II
+tagEnchantA033C=壊死肉 III
+tagEnchantA033Desc="死霊術の儀式のために 用いられる､ 死後長い遺体 から得た粉末。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA034A=モータル コイル
+tagEnchantA034B=モータル コイル II
+tagEnchantA034C=モータル コイル III
+tagEnchantA034Desc="禁断の儀式によって 物質的形態に 凝縮された､ 安らぎ無き霊 のエッセンス。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA035A=ウィンターブルーム パウダー
+tagEnchantA035B=ウィンターブルーム パウダー II
+tagEnchantA035C=ウィンターブルーム パウダー III
+tagEnchantA035Desc="不思議なことに､ 厳しい冬の 数か月の 間だけ 咲いているのが 見つかる 青白い花から 採った粉。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantA036A=強力な ウィンターブルーム パウダー
+tagEnchantA036B=強力な ウィンターブルーム パウダー II
+tagEnchantA036C=強力な ウィンターブルーム パウダー III
+tagEnchantA036Desc="不思議なことに､ 厳しい冬の 数か月の 間だけ 咲いているのが 見つかる 青白い花から 採った粉。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantA037A=妖術の粉
+tagEnchantA037B=妖術の粉 II
+tagEnchantA037C=妖術の粉 III
+tagEnchantA037Desc="厳密に言えば 違法だが､ 軍の 召喚術者 たちの間で 用途が見い だされた粉。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantA038A=強力な 妖術の粉
+tagEnchantA038B=強力な 妖術の粉 II
+tagEnchantA038C=強力な 妖術の粉 III
+tagEnchantA038Desc="厳密に言えば 違法だが､ 軍の 召喚術者 たちの間で 用途が見い だされた粉。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantA039A=カンジュラーの粉
+tagEnchantA039B=カンジュラーの粉 II
+tagEnchantA039C=カンジュラーの粉 III
+tagEnchantA039Desc="様々な儀式と瞑想の 会合で､ 放浪民が使う粉。 召喚儀式の 間における 効果は 驚くほどである。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA040A=リフトハウンドの塩
+tagEnchantA040B=リフトハウンドの塩 II
+tagEnchantA040C=リフトハウンドの塩 III
+tagEnchantA040Desc="リフトハウンド 女族長の､ 燃えるような 皮膚から 生じた粉。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA041A=獣使いの粉
+tagEnchantA041B=獣使いの粉 II
+tagEnchantA041C=獣使いの粉 III
+tagEnchantA041Desc="ホームステッドの 農民が､ 野生動物を 従順に 宥めるために 使う鎮静剤。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantA042A=強力な 獣使いの粉
+tagEnchantA042B=強力な 獣使いの粉 II
+tagEnchantA042C=強力な 獣使いの粉 III
+tagEnchantA042Desc="ホームステッドの 農民が､ 野生動物を 従順に 宥めるために 使う鎮静剤。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantA043A=ファイアブルーム パウダー
+tagEnchantA043B=ファイアブルーム パウダー II
+tagEnchantA043C=ファイアブルーム パウダー III
+tagEnchantA043Desc="しばしば火山のふもとで 見つかる､ 熱い感触の 花から得た粉。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA044A=ストーム パウダー
+tagEnchantA044B=ストーム パウダー II
+tagEnchantA044C=ストーム パウダー III
+tagEnchantA044Desc="落雷から得た､ 生のパワーで 火花を 散らしている 青い粉。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA045A=束縛紛
+tagEnchantA045B=束縛紛 II
+tagEnchantA045C=束縛紛 III
+tagEnchantA045Desc="修道会が､ アンデッドの 存在を その意志に 従わせるよう 使う粉。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantA046A=チルハート パウダー
+tagEnchantA046B=チルハート パウダー II
+tagEnchantA046C=チルハート パウダー III
+tagEnchantA046Desc="死者から得た粉。 周囲の空気から 熱を容易く 奪うよう に見える。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB001A=ウルグリムの策略
+tagEnchantB001B=ウルグリムの策略 II
+tagEnchantB001BC=ウルグリムの策略 III
+tagEnchantB001Desc="皇帝のファースト ブレイドが この魔法の粉 を作るのに､ 何を混ぜるのか 知る者は いないが､ その結果に 疑問を持ち得る 者も一人として いない。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB002A=強力な ウルグリムの策略
+tagEnchantB002B=強力な ウルグリムの策略 II
+tagEnchantB002BC=強力な ウルグリムの策略 III
+tagEnchantB002Desc="皇帝のファースト ブレイドが この魔法の粉 を作るのに､ 何を混ぜるのか 知る者は いないが､ その結果に 疑問を持ち得る 者も一人として いない。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB003A=クリードの狡猾
+tagEnchantB003B=クリードの狡猾 II
+tagEnchantB003BC=クリードの狡猾 III
+tagEnchantB003Desc="最も信頼する仲間にのみ 与えられる､ アルケイン エナジーの 火花を散らす 尋問官の パウダー。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB004A=強力な クリードの狡猾
+tagEnchantB004B=強力な クリードの狡猾 II
+tagEnchantB004BC=強力な クリードの狡猾 III
+tagEnchantB004Desc="最も信頼する仲間にのみ 与えられる､ アルケイン エナジーの 火花を散らす 尋問官の パウダー。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB005A=オレロンの情熱
+tagEnchantB005B=オレロンの情熱 II
+tagEnchantB005BC=オレロンの情熱 III
+tagEnchantB005Desc="若干のブラック リージョン 兵士らは､ 戦闘に 突撃する際に 戦争神の 名を叫ぶ。 このエンチャントは 将校にのみ 与えられ､ リージョンの 守護神に 敬意を表して 名付けられた。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB006A=強力な オレロンの情熱
+tagEnchantB006B=強力な オレロンの情熱 II
+tagEnchantB006BC=強力な オレロンの情熱 III
+tagEnchantB006Desc="若干のブラック リージョン 兵士らは､ 戦闘に 突撃する際に 戦争神の 名を叫ぶ。 このエンチャントは 将校にのみ 与えられ､ リージョンの 守護神に 敬意を表して 名付けられた。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB007A=イーサーストーム パウダー
+tagEnchantB007B=イーサーストーム パウダー II
+tagEnchantB007BC=イーサーストーム パウダー III
+tagEnchantB007Desc="ブラック リージョンの 魔術師たちは､ 敵と戦う 最善の 方法は､ 敵に対して その力を 使うことだと 信じている。 このパウダーは､ そのような実験が 公認された 稀な例である。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB008A=強力な イーサーストーム パウダー
+tagEnchantB008B=強力な イーサーストーム パウダー II
+tagEnchantB008BC=強力な イーサーストーム パウダー III
+tagEnchantB008Desc="ブラック リージョンの 魔術師たちは､ 敵と戦う 最善の 方法は､ 敵に対して その力を 使うことだと 信じている。 このパウダーは､ そのような実験が 公認された 稀な例である。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB009A=クトーンのエッセンス
+tagEnchantB009B=クトーンのエッセンス II
+tagEnchantB009BC=クトーンのエッセンス III
+tagEnchantB009Desc="クトーン生物の内臓を 被った武器は､ しばしば歪み､ 見る影もない ものとなる。 だが､ そうする中で､ 虚無そのものの 本質を獲得 するのである。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB010A=強力な クトーンのエッセンス
+tagEnchantB010B=強力な クトーンのエッセンス II
+tagEnchantB010BC=強力な クトーンのエッセンス III
+tagEnchantB010Desc="クトーン生物の内臓を 被った武器は､ しばしば歪み､ 見る影もない ものとなる。 だが､ そうする中で､ 虚無そのものの 本質を獲得 するのである。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB011A=ローワンの知恵
+tagEnchantB011B=ローワンの知恵 II
+tagEnchantB011BC=ローワンの知恵 III
+tagEnchantB011Desc="アーコヴィア最後の王にして ローワリの 創設者 ローワンは､ 放浪民の 知恵の 象徴である。 このエンチャントは 彼の名誉に 基づき 名付けられた。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB012A=モグドロゲンの神聖
+tagEnchantB012B=モグドロゲンの神聖 II
+tagEnchantB012BC=モグドロゲンの神聖 III
+tagEnchantB012Desc="伝説は､ 獣神モグドロゲンが ローワンと 協定を結んだ 時のことを 語っている。 ローワンと その民が 獣に刃を振り 上げぬ限り､ 獣も 彼らに害を 加えないこと としたのである。 不幸なことに､ イーサーを 浴びた獣は､ この感情を 共有できない ようだ。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB013A=旅人の恵み
+tagEnchantB013B=旅人の恵み II
+tagEnchantB013BC=旅人の恵み III
+tagEnchantB013Desc="長老は､ 特別な長旅に出かけようと している 放浪民に､ その長い道中 での彼らを 保護するため､ このエンチャントを 用意する。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB014A=命の息吹
+tagEnchantB014B=命の息吹 II
+tagEnchantB014BC=命の息吹 III
+tagEnchantB014Desc="春の精神､ 再生､ 新たな命の息吹。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB015A=冬の寒気
+tagEnchantB015B=冬の寒気 II
+tagEnchantB015BC=冬の寒気 III
+tagEnchantB015Desc="冬の寒気の本質､ 世界の変化と 浄化の 恐怖の力､ 新たな 始まりの印。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB016A=ローワンの決意
+tagEnchantB016B=ローワンの決意 II
+tagEnchantB016BC=ローワンの決意 III
+tagEnchantB016Desc="アーコヴィア最後の王にして ローワリの 創設者 ローワンは､ 路上に出発したときに､ 王にふさわしい 所有物を捨てた と言われた。 困難な時における 彼の信念 と決意は､ 放浪民たち 皆がすべき努力 すべてを 表している。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB017A=生存者の工夫
+tagEnchantB017B=生存者の工夫 II
+tagEnchantB017BC=生存者の工夫 III
+tagEnchantB017Desc="供給が限られている中で､ デビルズ クロッシング の人々は､ 見たところ いかなる脅威にも 対処する 巧妙な解決法 の数々を 考案した。 その中には エンチャント も含まれる。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB018A=生存者の回復力
+tagEnchantB018B=生存者の回復力 II
+tagEnchantB018BC=生存者の回復力 III
+tagEnchantB018Desc="最も厳しい時こそ､ 人間の生き延びよう とする意志は 最大となる。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB019A=生存者の忍耐力
+tagEnchantB019B=生存者の忍耐力 II
+tagEnchantB019BC=生存者の忍耐力 III
+tagEnchantB019Desc="カオスとイーサーの力が すぐそばに ある状態で､ 生存者らは この新たな 脅威に 順応した。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB020A=ケアンの希望
+tagEnchantB020B=ケアンの希望 II
+tagEnchantB020BC=ケアンの希望 III
+tagEnchantB020Desc="防衛の準備をしながらも､ 生存者たちは 世界が 侵略者から 解放される 時について 甘く語る。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB021A=エレメントの歌
+tagEnchantB021B=エレメントの歌 II
+tagEnchantB021BC=エレメントの歌 III
+tagEnchantB021Desc="スピリット ガイドのサディナは､ 火と氷の 矛盾する力を 包含するよう､ このエンチャント を考案した。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB022A=ヴィロスの腐食
+tagEnchantB022B=ヴィロスの腐食 II
+tagEnchantB022BC=ヴィロスの腐食 III
+tagEnchantB022Desc="有名なスリスの女族長 ヴィロスは､ 異常な 毒性胆汁を 作り出す。 バルナバスは､ それを粉末に 加工する方法 を発見し､ 今やデビルズ クロッシング のために戦う 意志ある者たち に提供する。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB023A=オーバーシーアの凝視
+tagEnchantB023B=オーバーシーアの凝視 II
+tagEnchantB023BC=オーバーシーアの凝視 III
+tagEnchantB023Desc="これまで注意を すべて実験に 向けて来た カスパロフは､ イセリアル オーバーシーアの 目の一つを 爆発物に 変えようと 試みたときに､ その用途を 偶然見つけた。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB024A=自然の収穫
+tagEnchantB024B=自然の収穫 II
+tagEnchantB024BC=自然の収穫 III
+tagEnchantB024Desc="一部の農民は､ 健やかな 収穫を祈る。 より魔法的な 傾向にある その者たちは､ 見込みを ごまかす方法を 知っている。 武器に応用 されるとき､ この激しい成長が 肉に惨事を もたらすことを 証明できる。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB025A=強力な 自然の収穫
+tagEnchantB025B=強力な 自然の収穫 II
+tagEnchantB025BC=強力な 自然の収穫 III
+tagEnchantB025Desc="一部の農民は､ 健やかな 収穫を祈る。 より魔法的な 傾向にある その者たは､ 見込みを ごまかす方法を 知っている。 武器に応用 されるとき､ この激しい成長が 肉に惨事を もたらすことを 証明できる。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB026A=太陽の輝き
+tagEnchantB026B=太陽の輝き II
+tagEnchantB026BC=太陽の輝き III
+tagEnchantB026Desc="魔法の粉に閉じ 込められた､ 太陽の力。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB027A=強力な 太陽の輝き
+tagEnchantB027B=強力な 太陽の輝き II
+tagEnchantB027BC=強力な 太陽の輝き III
+tagEnchantB027Desc="魔法の粉に閉じ 込められた､ 太陽の力。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB028A=メンヒルの祝福
+tagEnchantB028B=メンヒルの祝福 II
+tagEnchantB028BC=メンヒルの祝福 III
+tagEnchantB028Desc="神メンヒルに祝福された 大地が､ 最も豊かな 収穫をもたらす と言われている。 正確に 応用すれば､ この祝福は 器具や家､ さらには 武器にさえも 拡大適用が 可能である。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB029A=強力な メンヒルの祝福
+tagEnchantB029B=強力な メンヒルの祝福 II
+tagEnchantB029BC=強力な メンヒルの祝福 III
+tagEnchantB029Desc="神メンヒルに祝福された 大地が､ 最も豊かな 収穫をもたらす と言われている。 正確に 応用すれば､ この祝福は 器具や家､ さらには 武器にさえも 拡大適用が 可能である。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB030A=カイモンの意志
+tagEnchantB030B=カイモンの意志 II
+tagEnchantB030BC=カイモンの意志 III
+tagEnchantB030Desc="神々に選ばれしカイモンは､ 立派で 意欲的な者に 神のステータスの いくらかを 与える。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB031A=カイモンの激怒
+tagEnchantB031B=カイモンの激怒 II
+tagEnchantB031BC=カイモンの激怒 III
+tagEnchantB031Desc="戦闘中のカイモンを見た 人々は､ 彼は神々自身の 復讐の怒りを 持って 戦っている と言う。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB032A=カイモンの予見
+tagEnchantB032B=カイモンの予見 II
+tagEnchantB032BC=カイモンの予見 III
+tagEnchantB032Desc="ケアンの未来に関する カイモン の予見は､ 選民が ケアンの敵と 交戦するとき､ 狂乱状態に 追いやる。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB033A=ウロボルークの言葉
+tagEnchantB033B=ウロボルークの言葉 II
+tagEnchantB033BC=ウロボルークの言葉 III
+tagEnchantB033Desc="多くの訓練の最初の間､ マスター ウロボルークは 死体の上に 手をかざした 状態で 一つの言葉しか 口にしない だろう : 立ち上がれ。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB034A=ウロボルークの煩悶
+tagEnchantB034B=ウロボルークの煩悶 II
+tagEnchantB034BC=ウロボルークの煩悶 III
+tagEnchantB034Desc="マスター ウロボルークは､ アーコヴィア人から受けた 筆舌し難い 煩悶に耐えた。 この恐ろしい エンチャントは､ 彼の苦悩の 複製を目指す ものである。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB035A=ウロボルークの道
+tagEnchantB035B=ウロボルークの道 II
+tagEnchantB035BC=ウロボルークの道 III
+tagEnchantB035Desc="ウロボルークの道を 追うとは､ 知識の道を 探し求める 事である､ それがどこへ 導くもので あろうとも。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB036A=追放者の力
+tagEnchantB036B=追放者の力 II
+tagEnchantB036BC=追放者の力 III
+tagEnchantB036Desc="使用者に十人力 を与える､ 追放者に よって考案 された 最高の エンチャント。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB037A=強力な 追放者の力
+tagEnchantB037B=強力な 追放者の力 II
+tagEnchantB037BC=強力な 追放者の力 III
+tagEnchantB037Desc="使用者に十人力 を与える､ 追放者に よって考案 された 最高の エンチャント。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB038A=追放者のフロストバイト
+tagEnchantB038B=追放者のフロストバイト II
+tagEnchantB038BC=追放者のフロストバイト III
+tagEnchantB038Desc="使用者に氷上の支配を 与える､ 追放者に よって考案 された 最高の エンチャント。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB039A=強力な 追放者のフロストバイト
+tagEnchantB039B=強力な 追放者のフロストバイト II
+tagEnchantB039BC=強力な 追放者のフロストバイト III
+tagEnchantB039Desc="使用者に氷上の支配を与える､ 追放者に よって考案 された 最高の エンチャント。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB040A=追放者のインフェルノ
+tagEnchantB040B=追放者のインフェルノ II
+tagEnchantB040BC=追放者のインフェルノ III
+tagEnchantB040Desc="使用者にヘルファイアの 支配を与える､ 追放者に よって考案 された 最高の エンチャント。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB041A=強力な 追放者のインフェルノ
+tagEnchantB041B=強力な 追放者のインフェルノ II
+tagEnchantB041BC=強力な 追放者のインフェルノ III
+tagEnchantB041Desc="使用者にヘルファイアの 支配を与える､ 追放者に よって考案 された 最高の エンチャント。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB042A=追放者の雷
+tagEnchantB042B=追放者の雷 II
+tagEnchantB042BC=追放者の雷 III
+tagEnchantB042Desc="使用者に空の支配を与える､ 追放者に よって考案 された 最高の エンチャント。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB043A=強力な 追放者の雷
+tagEnchantB043B=強力な 追放者の雷 II
+tagEnchantB043BC=強力な 追放者の雷 III
+tagEnchantB043Desc="使用者に空の支配を与える､ 追放者に よって考案 された 最高の エンチャント。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB044A=追放者の毒
+tagEnchantB044B=追放者の毒 II
+tagEnchantB044BC=追放者の毒 III
+tagEnchantB044Desc="使用者に毒の支配 を与える､ 追放者に よって考案 された 最高の エンチャント。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB045A=強力な 追放者の毒
+tagEnchantB045B=強力な 追放者の毒 II
+tagEnchantB045BC=強力な 追放者の毒 III
+tagEnchantB045Desc="使用者に毒の支配 を与える､ 追放者に よって考案 された 最高の エンチャント。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB046A=追放者のデスタッチ
+tagEnchantB046B=追放者のデスタッチ II
+tagEnchantB046BC=追放者のデスタッチ III
+tagEnchantB046Desc="使用者に生命の本質への 支配を与える､ 追放者に よって考案 された 最高の エンチャント。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB047A=強力な 追放者のデスタッチ
+tagEnchantB047B=強力な 追放者のデスタッチ II
+tagEnchantB047BC=強力な 追放者のデスタッチ III
+tagEnchantB047Desc="使用者に生命の本質への 支配を与える､ 追放者に よって考案 された 最高の エンチャント。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB048A=追放者の憤怒
+tagEnchantB048B=追放者の憤怒 II
+tagEnchantB048BC=追放者の憤怒 III
+tagEnchantB048Desc="使用者にイーサーの支配 を与える､ 追放者に よって考案 された 最高の エンチャント。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB049A=強力な 追放者の憤怒
+tagEnchantB049B=強力な 追放者の憤怒 II
+tagEnchantB049BC=強力な 追放者の憤怒 III
+tagEnchantB049Desc="使用者にイーサーの支配 を与える､ 追放者に よって考案 された 最高の エンチャント。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB050A=追放者のリフトストーム
+tagEnchantB050B=追放者のリフトストーム II
+tagEnchantB050BC=追放者のリフトストーム III
+tagEnchantB050Desc="使用者に混沌とした 虚無の支配 を与える､ 追放者に よって考案 された 最高の エンチャント。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB051A=強力な 追放者のリフトストーム
+tagEnchantB051B=強力な 追放者のリフトストーム II
+tagEnchantB051BC=強力な 追放者のリフトストーム III
+tagEnchantB051Desc="使用者に混沌とした虚無の支配 を与える､ 追放者に よって考案 された 最高の エンチャント。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB052A=追放者の砦
+tagEnchantB052B=追放者の砦 II
+tagEnchantB052BC=追放者の砦 III
+tagEnchantB052Desc="使用者に鉄の皮膚 を与える､ 追放者によって 考案された 最高の エンチャント。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB053A=強力な 追放者の砦
+tagEnchantB053B=強力な 追放者の砦 II
+tagEnchantB053BC=強力な 追放者の砦 III
+tagEnchantB053Desc="使用者に鉄の皮膚 を与える､ 追放者によって 考案された 最高の エンチャント。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB054A=自然の憤怒
+tagEnchantB054B=自然の憤怒 II
+tagEnchantB054C=自然の憤怒 III
+tagEnchantB054Desc="放浪民にのみ知られ､ 緊急事態に おいてのみ 使われる､ 強力な毒と 毒素の混合。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB055A=復讐の霊
+tagEnchantB055B=復讐の霊 II
+tagEnchantB055C=復讐の霊 III
+tagEnchantB055Desc="アーコヴィアの廃墟から､ 下劣で 復讐心に 満ちた霊を 捕らえたもの。 るつぼの 内側には､ 保護のルーンが 彫られてある。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB056A=生存者の盟友
+tagEnchantB056B=生存者の盟友 II
+tagEnchantB056C=生存者の盟友 III
+tagEnchantB056Desc="同盟者がほとんど いないとき､ 動物仲間が 唯一 誠実な友だ という事が 証明できる。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB057A=ビーストロードの召命
+tagEnchantB057B=ビーストロードの召命 II
+tagEnchantB057BC=ビーストロードの召命 III
+tagEnchantB057Desc="ホームステッドの 人々が､ 群れを 祝福するために 使う調合物。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagEnchantB058A=強力な ビーストロードの召命
+tagEnchantB058B=強力な ビーストロードの召命 II
+tagEnchantB058BC=強力な ビーストロードの召命 III
+tagEnchantB058Desc="ホームステッドの 人々が､ 群れを 祝福するために 使う調合物。"^w^n(すべての 両手武器 に適合)
+
+tagEnchantB059A=モグドロゲンの祝福
+tagEnchantB059B=モグドロゲンの祝福 II
+tagEnchantB059C=モグドロゲンの祝福 III
+tagEnchantB059Desc="人と獣の絆を 強めるため､ 獣神自らが 祝福したと される粉。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB060A=エンピリオンの接触
+tagEnchantB060B=エンピリオンの接触 II
+tagEnchantB060C=エンピリオンの接触 III
+tagEnchantB060Desc="ライトブリンガー自らが 触れたと 信じられている､ 火花を 散らしている粉。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB061A=インファーナル ダスト
+tagEnchantB061B=インファーナル ダスト II
+tagEnchantB061C=インファーナル ダスト III
+tagEnchantB061Desc="エンピリオンの 激怒で 燃えている 魔法の粉。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB062A=マルカダールのチルベイン
+tagEnchantB062B=マルカダールのチルベイン II
+tagEnchantB062C=マルカダールのチルベイン III
+tagEnchantB062Desc="側近筆頭たる マルカダール の作った 魔法の粉。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantB063A=番人の束縛紛
+tagEnchantB063B=番人の束縛紛 II
+tagEnchantB063C=番人の束縛紛 III
+tagEnchantB063Desc="最も強力な アンデッドの しもべを 拘束するために､ 番人自身が 作った 束縛粉。"^w^n(指輪と アミュレット に適合)
+
+tagEnchantC001A=マンカインズ ヴィジル
+tagEnchantC001Desc="イセリアルとクトーニアンの 侵略軍から 兵士たちを 守るため､ リージョンの アルカニスト によって作られた 魔法の粉。"^w^n(すべての防具 に適合)
+tagEnchantC002A=キングズガード パウダー
+tagEnchantC002Desc="王の衣装に用いるため､ それにふさわしく 名付けられた 魔法の粉。 しかし､ 戦闘では 誰が使おうと 同じ価値だと 分かる。"^w^n(すべての防具 に適合)
+
+tagEnchantC003A=ヴェノムガード パウダー
+tagEnchantC003Desc="獣と植物の両方に 由来する､ いくつかの 致死的な毒素 から得た 放浪民の粉。"^w^n(すべての防具 に適合)
+tagEnchantC004A=ナイトシェード パウダー
+tagEnchantC004Desc="月光の中でのみ開花する､ アスターカーン産 ナイトシェードの 青い花弁 から得た粉。"^w^n(すべての防具 に適合)
+
+tagEnchantC005A=ブレイドウォード パウダー
+tagEnchantC005Desc="デビルズ クロッシングの守衛を 殴り合いから 守るため､ サディナが考案した 魔法のパウダー。"^w^n(すべての防具 に適合)
+tagEnchantC006A=モグドロゲンの接触
+tagEnchantC006Desc="自然の猛威から 信者を 守るための､ 獣神の恵み。"^w^n(すべての防具 に適合)
+
+tagEnchantC007A=フレイムウィーブ パウダー
+tagEnchantC007Desc="太陽で白くなった マンティコアの 骨から得た 魔法の粉。 しばしば､ 炎に備えて 防具を強化 するのに 用いられた。"^w^n(すべての防具 に適合)
+tagEnchantC008A=ソーラーストーム パウダー
+tagEnchantC008Desc="アルケインの特性を失い､ ただの灰 になって しまわぬよう､ この特別に 高度な技術で 作られた粉は､ 日食の間にのみ 混合できる。"^w^n(すべての防具 に適合)
+
+tagEnchantC009A=カイモンの祝福
+tagEnchantC009Desc="エンピリオンの 焼け付くような 炎に対して 信者を守るため､ カイモン神父 によって 祝福された 魔法の粉。"^w^n(すべての防具 に適合)
+tagEnchantC010A=カイモンの導管
+tagEnchantC010Desc="着用者の心臓から雷を 遠ざけるよう､ カイモン神父 によって作られた 魔法の粉。"^w^n(すべての防具 に適合)
+tagEnchantC011A=デーモンベイン パウダー
+tagEnchantC011Desc="クトーンの虚無界の 下劣な 生息物に対し､ 同盟者を 守るため､ 選民の 司祭によって 作られた 魔法の粉。"^w^n(すべての防具 に適合)
+
+tagEnchantC012A=レイスタッチ パウダー
+tagEnchantC012Desc="捕えられた亡霊の､ エッセンスが 注入された 魔法の粉。"^w^n(すべての防具 に適合)
+tagEnchantC013A=スピリットガード パウダー
+tagEnchantC013Desc="斃れたネクロマンサーの､ 遺灰から得た 魔法の粉。"^w^n(すべての防具 に適合)
+tagEnchantC014A=呪文除けパウダー
+tagEnchantC014Desc="修道会の会員の 中で 経験豊富な アルカニストが､ アルケインの 儀式から 同盟者を 守るために 高度な 技術で 作った粉。"^w^n(すべての防具 に適合)
+
+tagEnchantC015A=追放者の保護パウダー
+tagEnchantC015Desc="アルケインに対する 追放者の 並外れた 熟練が､ 最も鈍い 者ですら イーサーの 破壊力を 避け得る粉を 生成できる。"^w^n(すべての防具 に適合)
+tagEnchantC016A=追放者のエレメンタル スケイルズ
+tagEnchantC016Desc="追放者は､ 火と氷の 対照的な 力から 使用者を 守る粉を､ 特別に 高度な技術 で作った。"^w^n(すべての防具 に適合)
+tagEnchantC017A=追放者のスカイガード パウダー
+tagEnchantC017Desc="空の電力を備えた ソーサリーから 使用者を 守るべく､ 追放者が 特別に 高度な 技術で 作った粉。"^w^n(すべての防具 に適合)
+
+
+
+#ItemComponents
+
+tagComponentIncomplete=コンポーネントの一部
+tagComponentComplete=コンポーネント
+tagComponentNumber={%s0 - %d1 / %d2}
+tagComponentNumberRare={%s0}{%s1 - %d2 / %d3}
+tagComponentBonus=完成ボーナス
+tagComponentQualities=コンポーネントの品質：
+tagComponentHelp=[右クリックで適用]
+tagComponentError=[使用不可 - 必要条件が満たされてません]
+tagComponentCombine=[右クリックで結合]
+tagComponentConfirmation=本当にこの組み合わせで 完成させますか？
+
+tagCompA001Name=棘付き甲羅
+tagCompA001Desc="ギザギザの棘が並ぶ 厚い 甲羅。"^w^n(すべての防具 に適合)
+
+tagCompA002Name=耐弾装甲
+tagCompA002Desc="矢やボルト､ 銃弾に耐えるよう 設計された､ 古い防具 設計の 破片。"^w^n(胴防具 に適合)
+
+tagCompA003Name=聖化した骨
+tagCompA003Desc="正義の戦いで斃れた 聖騎士の 浄められた骨。"^w^n(胴と頭の 防具 に適合)
+
+tagCompA004Name=硬い皮
+tagCompA004Desc="突然の衝撃を吸収 するのに 最適な､ 凸凹の 表面を持った 厚い皮。"^w^n(頭の防具 に適合)
+
+tagCompA005Name=ルーンストーン
+tagCompA005Desc="この石には神秘的な ルーン 文字が 飾り付け られている。"^w^n(頭の防具 に適合)
+
+tagCompA006Name=突然変異性膿漿
+tagCompA006Desc="異世界のエナジー に感染した ケアンの クリーチャー より排出 された体液。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA007Name=腐った心臓
+tagCompA007Desc="死霊術の力で萎びた､ 長きに 渡って 静かな 心臓。"^w^n(胴防具 に適合)
+
+tagCompA008Name=突然変異の鱗
+tagCompA008Desc="イセリアル エナジーに 曝されたことで 突然変異した､ 異常に 厚く 硬いウロコ。"^w^n(肩､ 胴､ 脚､ 手の 防具 に適合)
+
+tagCompA009Name=死体の粉末
+tagCompA009Desc="死人の残骸から 得た埃。 しばしば妖術や 魔術の ために 使われた。"^w^n(指輪､ アミュレット､ メダル に適合)
+
+tagCompA010Name=ソウル シャード
+tagCompA010Desc="呪われた者の魂を 閉じ込めた という 噂の､ ウィッチ ハンターによって 使われる 魔法の ジェム。"^w^n(指輪､ アミュレット､ メダル に適合)
+
+tagCompA011Name=エクトプラズム
+tagCompA011Desc="時おり肉体的でない 実体に よって､ ゼラチン状の 残存物が 残される ことがある。"^w^n(頭の防具､ 指輪､ アミュレット､ メダル に適合)
+
+tagCompA012Name=神聖な鋼
+tagCompA012Desc="広がる闇を克服する よう､ メンヒルの 司祭によって 祝福された スチール。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA013Name=毒牙
+tagCompA013Desc="獰猛な牙から いまだに 邪悪な毒が 滴り 落ちている。"^w^n(近接武器に適合)
+
+tagCompA014Name=清められた塩
+tagCompA014Desc="悪魔祓いと､ 異界の悪魔抑止 のために 抽出された 岩塩。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA015Name=くり抜かれた牙
+tagCompA015Desc="生命の流体を 消耗させんと 意図された 曲がった牙。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA016Name=切断された爪
+tagCompA016Desc="力強き獣の手足から もぎ取った 冷酷無情の 鉤爪。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA017Name=インビュード シルバー
+tagCompA017Desc="この銀粉は､ 強力な魔術で 強化され ている。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA018Name=獰猛な棘
+tagCompA018Desc="自然ならざるものから 採取した 残忍な棘。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA019Name=輝く宝石
+tagCompA019Desc="各エレメントがキラキラ 光り､ 反射する 宝石。"^w^n(盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA020Name=ヘルズ ベイン弾薬
+tagCompA020Desc="不純な意志を持つ 者どもに､ 大きな痛みを 与えるべく 聖化された 弾薬。"^w^n(銃とクロスボウ､ 詠唱者用 オフハンド に適合)
+
+tagCompA021Name=デスチル ボルト
+tagCompA021Desc="敵に死の 凍える悪寒を 届ける。"^w^n(銃とクロスボウ､ 詠唱者用 オフハンド に適合)
+
+tagCompA022Name=イーサー ソウル
+tagCompA022Desc="物質界で破壊された イセリアルの 生き物が､ しばしば 跡に残す エナジーで 振動している石。"^w^n(アミュレット とメダル に適合)
+
+tagCompA023Name=硬い殻
+tagCompA023Desc="見たところ､ ショックを 通さぬ 硬い殻。"^w^n(すべての防具 に適合)
+
+tagCompA024Name=モルテン スキン
+tagCompA024Desc="炎に包まれたクリー チャーの､ 分厚い 皮の層。"^w^n(すべての防具 に適合)
+
+tagCompA025Name=魔法のフリント
+tagCompA025Desc="この魔法のかけられた 火打石が 愛撫した 武器は すべて､ 炎の精霊が 宿る であろう。"^w^n(近接武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA026Name=コールドストーン
+tagCompA026Desc="民間伝承によると､ これら 冷気を 放出する 神秘的な 石は､ 追放された レヴナントの 心臓だという。"^w^n(近接武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA027Name=琥珀
+tagCompA027Desc="雷が樹を撃った際､ 時として 嵐の精霊が 樹脂に 捉われる ことがある と言われている。"^w^n(近接武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA028Name=硫酸胆石
+tagCompA028Desc="むかつくような獣の 胆汁にできた 硫酸結石。"^w^n(近接武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA029Name=神聖な砥石
+tagCompA029Desc="最も鋭い切っ先すら シャープにし､ 敵の防具を 貫通する ダメージを 増やす。"^w^n(斧､ 剣､ 銃､ クロスボウ に適合)
+
+tagCompA030Name=シルク スワッチ
+tagCompA030Desc="西の遊牧民は､ 絹の重ねが 刺突性 投射物の 貫通を 包み込み 遅らせる ことが できる ことを､ 長い間 知っていた。"^w^n(肩, 胴, 脚の防具 に適合)
+
+tagCompA031Name=鱗で覆われた皮
+tagCompA031Desc="この密度が高いわりに 軽量な ウロコは､ 付加的な 保護のために 防具に 重ねること ができる。"^w^n(肩, 胴, 脚の防具 に適合)
+
+tagCompA032Name=フリントコア ボルト
+tagCompA032Desc="芯に魔法が掛かって おり､ 表面の至る所で 火花を散らし ている。"^w^n(銃とクロスボウ､ 詠唱者用 オフハンド に適合)
+
+tagCompA033Name=毒塗り弾薬
+tagCompA033Desc="有毒な胃から採った 毒素が､ この弾薬の 先端に 塗られている。"^w^n(銃とクロスボウ､ 詠唱者用 オフハンド に適合)
+
+tagCompA034Name=旅人の標章
+tagCompA034Desc="未開の地を通り 過ぎるとき､ 獣神 モグドロゲンに 狩人と 間違われぬよう､ 旅人たちは この標章を 使用した。"^w^n(ブーツに適合)
+
+tagCompA035Name=聖化した包み布
+tagCompA035Desc="クトーン教信者が 身に着けた､ 血で汚れた 包み布。"^w^n(腕の防具 に適合)
+
+tagCompA036Name=安らぎ無き遺骸
+tagCompA036Desc="拷問にかけられた 生き物の 残骸は､ 当然の 安眠を拒んだ。"^w^n(腕の防具 に適合)
+
+tagCompA037Name=密集した毛皮
+tagCompA037Desc="厳しい冬の状況に 完璧な､ 密度の濃い 毛皮のコート。"^w^n(すべての防具 に適合)
+
+tagCompA038Name=鋸状の棘
+tagCompA038Desc="獣から採った､ 頑丈ではないが 極めて鋭い 棘。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA039Name=焦熱の残り火
+tagCompA039Desc="全焼した家から採った 消えることなき 燃えさし。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA040Name=チルド スチール
+tagCompA040Desc="この鋼は､ 身も凍る冬の風で 満ちている。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA041Name=砕けた磁鉄鉱
+tagCompA041Desc="表面をエナジーの 火花が 飛び 交っている。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA042Name=欠けた爪
+tagCompA042Desc="最後に好敵手と 出会った 無情な 捕食動物から 採った鉤爪。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA043Name=廃品利用の板金
+tagCompA043Desc="かつての良き日々を見た 防具から得た 板金。"^w^n(すべての防具 に適合)
+
+tagCompA044Name=剛毛の毛皮
+tagCompA044Desc="自然にあらざる獣から 採った 毛皮の 厚い継ぎはぎ。"^w^n(すべての防具 に適合)
+
+tagCompA045Name=弾力的な板金
+tagCompA045Desc="無数の戦闘を切り抜け､ さらに多くの 戦いから 生き残るのに 適していそうな 防具の板金。"^w^n(盾, 詠唱者用 オフハンド, 胴と肩の 防具 に適合)
+
+tagCompA046Name=磨かれたエメラルド
+tagCompA046Desc="完璧に磨き上げられた 素晴らしい 宝石。"^w^n(盾, 詠唱者用 オフハンド, 指輪, 頭と胴の 防具 に適合)
+
+tagCompA047Name=フローズン ハート
+tagCompA047Desc="永遠に黒氷に 包まれた。"^w^n(指輪に適合)
+
+tagCompA048Name=濁った血
+tagCompA048Desc="かつて注がれた怒りで 煮立っている。"^w^n(指輪､ アミュレット､ メダル に適合)
+
+tagCompA049Name=防護石
+tagCompA049Desc="古代の防護の シンボルが 刻印されて いる石。"^w^n(アミュレット とメダル に適合)
+
+tagCompA050Name=集中プリズム
+tagCompA050Desc="特に負担が大きい 儀式の間､ アルカニストたち に使われる。"^w^n(アミュレット に適合)
+
+tagCompA051Name=黒い獣脂
+tagCompA051Desc="クトーンの儀式中に 燃やす､ 蝋燭の 獣脂。"^w^n(アミュレット とメダル に適合)
+
+tagCompA052Name=怨霊
+tagCompA052Desc="復讐の霊。"　　　　 ^w^n(指輪､ アミュレット､ メダル に適合)
+
+tagCompA053Name=幻影の標章
+tagCompA053Desc="多くの碑文に 使われる 力の シンボル。"^w^n(指輪と アミュレット に適合)
+
+tagCompA054Name=獰猛な顎骨
+tagCompA054Desc="棒切れのように 骨を 折るために 形成された 獣の顎。"^w^n(アミュレット とメダル に適合)
+
+tagCompA055Name=憤怒の石
+tagCompA055Desc="生きた肉と ごく僅かでも 触れれば 振動する。"^w^n(近接武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA056Name=リフトストーン
+tagCompA056Desc="虚無界の 生のパワーで 満たされ ている。"^w^n(近接武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompA057Name=イーサースチール ボルト
+tagCompA057Desc="イセリアルの怪物の エッセンスで 増強された。"^w^n(銃とクロスボウ､ 詠唱者用 オフハンド に適合)
+
+tagCompA058Name=ヴォイド-タッチ弾薬
+tagCompA058Desc="新鮮なクトーン教徒の 血に 軽く 浸した。"^w^n(銃とクロスボウ､ 詠唱者用 オフハンド に適合)
+
+tagCompA059Name=強化シェル
+tagCompA059Desc="無数の強打を 吸収した､ ほとんど 傷付かない殻。"^w^n(盾に適合)
+
+tagCompA060Name=乱打された殻
+tagCompA060Desc="殻は､ あり得ぬ ほどの 乱打を 凌いだよう に見える。"^w^n(盾に適合)
+
+tagCompA061Name=抗毒膏薬
+tagCompA061Desc="とりわけ有毒な クリーチャー からの 中和した胆汁。"^w^n(すべての防具 に適合)
+
+tagCompA062Name=鋸状の殻
+tagCompA062Desc="頑丈な殻が､ 一連の 鋭い脊柱で､ すべてに 亘って 一層手強く なった。"^w^n(盾に適合)
+
+
+tagCompB001Name=^kビスミールの拘束具
+tagCompB001Desc="召喚した存在の 支配を強化 する為に､ ビスミールの 妖術師たちが使う 魔織の拘束具。"^w^n(胴防具 に適合)
+
+tagCompB002Name=^kオレロンの鎖
+tagCompB002Desc="かつて神オレロンの 激怒を 封じるのに 用いられた､ 壊れた鎖。"^w^n(胴防具 に適合)
+
+tagCompB003Name=^k神聖な土
+tagCompB003Desc="メンヒルの立石の 基礎から 採った土。"^w^n(胴防具 に適合)
+
+tagCompB004Name=^kプリズム状ダイヤ
+tagCompB004Desc="核は､ 得も言われぬ力で 微かに光る。"^w^n(頭の防具 に適合)
+
+tagCompB005Name=^k魔織の繊維
+tagCompB005Desc="かつて強力だったマギの 死体を覆いし 布から 切り取られた 生地の 細片。"^w^n(腕の防具 に適合)
+
+tagCompB006Name=^k不浄の銘
+tagCompB006Desc="人間には話すことの できぬ､ 古代言語による 力の言葉。"^w^n(腕の防具 に適合)
+
+tagCompB007Name=^k古代防具の板金
+tagCompB007Desc="その昔､ 強力だった 防具セットから 取った 板金。"^w^n(胴と脚の防具 に適合)
+
+tagCompB008Name=^kアルケイン レンズ
+tagCompB008Desc="宇宙を流れるアルケイン のための 場所。"^w^n(アミュレット に適合)
+
+tagCompB009Name=^kデビル-タッチ弾薬
+tagCompB009Desc="神聖冒涜の炎で 満たされた。"^w^n(銃とクロスボウ､ 詠唱者用 オフハンド に適合)
+
+tagCompB010Name=^kシルバーコア ボルト
+tagCompB010Desc="ごく僅かな掻き傷で､ 邪悪を粛清。"^w^n(銃とクロスボウ､ 詠唱者用 オフハンド に適合)
+
+tagCompB011Name=^kソレイルのシンボル
+tagCompB011Desc="ソレイルの信者によって､ 互いに 自身を 識別するために 使われる 秘密の記号。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompB012Name=^kドリーグの標章
+tagCompB012Desc="硫酸血の涙滴り､ 閉じること なき 眼への 碑文。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompB013Name=^kホーンテッド スチール
+tagCompB013Desc="閉じ込められた霊たちの､ 気も狂わん 囁きが 持つ者の 心に溢れ返る。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompB014Name=^kベロナスのかけら
+tagCompB014Desc="伝説の槍ベロナスの断片 にすぎねど､ いまだに 大きな力 を保つ。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompB015Name=^k血まみれの砥石
+tagCompB015Desc="堕ちし者の血が 染み込む この忌まわしき 砥石は､ 血の渇望を 刃に 与える。"^w^n(斧､ 剣､ 銃､ クロスボウ に適合)
+
+tagCompB016Name=^k調律した磁鉄鉱
+tagCompB016Desc="いまだにそれを生んだ嵐の 雷鳴が 反響している､ レアで 強力な石。"^w^n(アミュレット とメダル に適合)
+
+tagCompB017Name=^kモグドロゲンの標章
+tagCompB017Desc="獣神モグドロゲンの ドルイド 崇拝者が 身に付けた､ 秘密の標章。"^w^n(ブーツに適合)
+
+tagCompB018Name=^k恐怖の髑髏
+tagCompB018Desc="特に危険なバウンティを 受領した 者に 認められる､ 暗殺者の シンボル。"^w^n(アミュレット とメダル に適合)
+
+tagCompB019Name=^kアルケイン スパーク
+tagCompB019Desc="最も純粋なアルケイン エナジーの 火花。"^w^n(アミュレット とメダル に適合)
+
+tagCompB020Name=^kミュルミドンの標章
+tagCompB020Desc="最も恐れ知らずのバトル ロードに 授けられた パワフルな シンボル。"^w^n(盾に適合)
+
+tagCompB021Name=^kオレロンの血
+tagCompB021Desc="戦争神の聖なる血。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagCompB022Name=^kキルリアンの粉砕した魂
+tagCompB022Desc="アーコヴィアの地下都市 の恐怖､ キルリアンの 傷ついた魂。"^w^n(胴防具 に適合)
+
+
+tagCompAetherCrystal=イーサー クリスタル
+tagCompAetherCrystalDesc="イセリアルの力が 長く留まった クリスタルの破片。 アルケインの アイテム製作に 使うことができる。"
+
+tagCompAmmoBox=武器庫
+tagCompAmmoBoxDesc="ケアンを苦しめる 闇の軍勢から 持ちこたえるために､ レジスタンスは 常により多くの 武器を使うことができる。"
+
+tagCompAScrap=スクラップ
+tagCompAScrapDesc="アイテムや建造物を 結合するのに使える ボルトや革紐､ 低級の金属といった 屑資材。"
+
+#ItemDifficultyUnlock
+tagDifficultyUnlock={^E}難易度 {%s0} 開放！
+tagDifficultyAlreadyUnlocked=この難易度は既に開放しました
+tagDifficultyUnlockDLC=あなたは､ このアイテムに関連したDLCを持っていません
+tagDifficultyIncorrectMode=適切なゲームモードでなければ､ このアイテムは使えません
+
+#ItemFactionBoosters
+
+tagFactionBooster={^E}{%s1} で名声が {^H}{%d0}% {^E}増加
+tagFactionAlreadyBoosted={^r}[この派閥は､ 既に 派閥の委任状 が適用済みです。]
+
+tagFactionNegativeBooster={^E}{%s1} で悪評が {^H}{%d0}% {^E}増加
+tagFactionAlreadyNegativeBoosted={^r}[この派閥は､ 既に 派閥の令状 が適用済みです。]
+
+tagFactionMandateConfirmation=本当に､ この派閥委任状を 適用しますか？ 現在の 派閥令状を 上書きする ことになります。
+tagFactionWarrantConfirmation=本当に､ この派閥令状を 適用しますか？ 現在の 派閥委任状を 上書きする ことになります。
+
+tagBoosterADesc=あなたを自分たちの 模範である と承認する 派閥公文書。 ^o委任状とは積み 重なりません。 委任状はこの ボーナスを 上書きします。
+tagBoosterBDesc=代理として別の 存在に託す､ 派閥公文書。 ^o他のキャラクターが 使用するよう､ 転送用 スタッシュに 置くことができます。 承認状 とは積み 重なりません。
+tagBoosterCDesc=あなたを宿命の敵 と宣告 している 指名手配ポスター。
+tagBoosterBL_A01=ブラック リージョンの承認状
+tagBoosterBL_A02=ブラック リージョンの上位承認状
+tagBoosterBL_B01=ブラック リージョンの委任状
+tagBoosterBL_B02=ブラック リージョンの上位委任状
+tagBoosterBL_B03=ブラック リージョンの神話的委任状
+tagBoosterDC_A01=デビルズ クロッシングの承認状
+tagBoosterDC_A02=デビルズ クロッシングの上位承認状
+tagBoosterDC_B01=デビルズ クロッシングの委任状
+tagBoosterDC_B02=デビルズ クロッシングの上位委任状
+tagBoosterDC_B03=デビルズ クロッシングの神話的委任状
+tagBoosterEXILE_A01=追放者の承認状
+tagBoosterEXILE_A02=追放者の上位承認状
+tagBoosterEXILE_B01=追放者の委任状
+tagBoosterEXILE_B02=追放者の上位委任状
+tagBoosterEXILE_B03=追放者の神話的委任状
+tagBoosterHS_A01=ホームステッドの承認状
+tagBoosterHS_A02=ホームステッドの上位承認状
+tagBoosterHS_B01=ホームステッドの委任状
+tagBoosterHS_B02=ホームステッドの上位委任状
+tagBoosterHS_B03=ホームステッドの神話的委任状
+tagBoosterKC_A01=カイモンの選民の承認状
+tagBoosterKC_A02=カイモンの選民の上位承認状
+tagBoosterKC_B01=カイモンの選民の委任状
+tagBoosterKC_B02=カイモンの選民の上位委任状
+tagBoosterKC_B03=カイモンの選民の神話的委任状
+tagBoosterODV_A01=死の目醒め修道会の承認状
+tagBoosterODV_A02=死の目醒め修道会の上位承認状
+tagBoosterODV_B01=死の目醒め修道会の委任状
+tagBoosterODV_B02=死の目醒め修道会の上位委任状
+tagBoosterODV_B03=死の目醒め修道会の神話的委任状
+tagBoosterRO_A01=放浪民の承認状
+tagBoosterRO_A02=放浪民の上位承認状
+tagBoosterRO_B01=放浪民の委任状
+tagBoosterRO_B02=放浪民の上位委任状
+tagBoosterRO_B03=放浪民の神話的委任状
+
+tagBoosterAetherial_C01=イセリアルの令状
+tagBoosterAetherial_C02=上位 イセリアルの令状
+tagBoosterAetherial_C03=神話的 イセリアルの令状
+tagBoosterChthonian_C01=クトーニアンの令状
+tagBoosterChthonian_C02=上位 クトーニアンの令状
+tagBoosterChthonian_C03=神話的 クトーニアンの令状
+tagBoosterOutlaw_C01=クロンリーの令状
+tagBoosterOutlaw_C02=上位 クロンリーの令状
+tagBoosterOutlaw_C03=神話的 クロンリーの令状
+tagBoosterUndead_C01=アーコヴィアンの令状
+tagBoosterUndead_C02=上位 アーコヴィアンの令状
+tagBoosterUndead_C03=神話的 アーコヴィアンの令状
+tagBoosterKC_C01=カイモンの令状
+tagBoosterKC_C02=上位 カイモンの令状
+tagBoosterKC_C03=神話的 カイモンの令状
+tagBoosterODV_C01=修道会の令状
+tagBoosterODV_C02=上位 修道会の令状
+tagBoosterODV_C03=神話的 修道会の令状
+tagBoosterEXILE_C01=追放者の令状
+tagBoosterEXILE_C02=上位 追放者の令状
+tagBoosterEXILE_C03=神話的 追放者の令状
+
+
+#Misc
+
+tagMoney01=鉄片
+tagMoneyFormat={^s}{%d0}  {%s1}
+
+tagPotionHealthA01=治癒薬
+tagPotionHealthA01Desc=“傷 を 塞 い で 骨 折 を 治 す。”
+tagPotionHealthA02=回復薬
+tagPotionHealthA02Desc="傷 を 塞 い で 骨 折 を 治 す。"
+tagPotionHealthA03=復活薬
+tagPotionHealthA03Desc="傷 を 塞 い で 骨 折 を 治 す。"
+
+tagPotionEnergyA01=精神の霊薬
+tagPotionEnergyA01Desc="心と精神を回復させる。"
+
+tagPotionConstitutionA01=配給食
+tagPotionConstitutionA01Desc="鮮度の無いゴミのような 味だが､ 永久に 持ちこたえ 失った活力を 復活させる。"
+
+tagPotionConstitutionB01=生命のエッセンス
+tagPotionConstitutionB01Desc=失った活力を 復活させる ために吸収 できる､ 残存した 生命エナジー。
+
+tagPotionDirections=[右クリックで消費]
+tagCombineStacks=[Ctrl + クリックで スタック分割]
+tagHideTooltip=[Ctrl を押すとツールチップが隠れます]
+
+# Bonuses
+tagBonusLifePercentAbsPercent={^E}回復 {^H}{%.0f0}%+{%.0f1} {^E}ヘルス {^H}+{%.0f2}% {^E}持続的回復
+tagBonusLifePercentPercent={^E}回復 {^H}{%.0f0}% {^E}ヘルス {^H}+{%.0f1}% {^E}持続的回復
+tagBonusLifePercentSlow=時間の経過とともにヘルスを {^E}{^H}{%.0f0}% {^E} 回復{^E}
+tagBonusLifePercentAbs={^E}回復 {^H}{%.0f0}% + {%.0f1} {^E}ヘルス
+tagBonusLifePercent={^E}回復 {^H}{%.0f0}% {^E}ヘルス
+tagBonusLifeAbs={^E}回復 {^H}{%.0f0} {^E}ヘルス
+tagBonusManaPercentAbs={^E}回復 {^H}{%.0f0}% + {%.0f1} {^E}エナジー
+tagBonusManaPercent={^E}回復 {^H}{%.0f0}% {^E}エナジー
+tagBonusManaAbs={^E}回復 {^H}{%.0f0} {^E}エナジー
+tagBonusExperience={%+d0} 経験値
+tagBonusMoney={%+d0} 鉄
+tagBonusSkillPoint={%+d0} スキル ポイント
+tagBonusAttribPoint={%+d0} 属性 ポイント
+
+
+#Devotion
+tagDevotionReset={^E}祈祷ポイントをリセットするのに使う
+tagDevotionNoPointsUsed={^r}[リセットするべき祈祷ポイントはありません]
+tagDevotionResetConfirmation=祈祷ポイントを 全部リセットしますか？
+
+
+
+#ItemSets
+
+
+tagItemSetC001Name=ガーズマンの衣装
+tagItemSetC001NameB=ピースキーパーの衣装
+tagItemSetC001Desc="かつては平和と王室を 守る者の 標準 仕様だった 装備だが､ ごく僅かな 装備一式 のみが グリム ドーンを 切り抜けて 残った。"
+
+tagItemSetC002Name=探検家の衣服
+tagItemSetC002Desc="熱意ある旅人のための､ 軽い割に 丈夫な防具。"
+
+tagItemSetC003Name=メイヴェンの聖域
+tagItemSetC003NameB=メイヴェンの聖所
+tagItemSetC003Desc="伝説のアルカニスト､ メイヴェンを 讃える 礼装。"
+
+tagItemSetC004Name=ブラッドリーパーの栄光
+tagItemSetC004NameB=ブラッドリーパーの殺戮
+tagItemSetC004Desc="ケアンの最も血に飢えた 暗殺者に のみ 使われる､ 防具と武器。"
+
+tagItemSetC005Name=略奪者の正義
+tagItemSetC005NameB=略奪者の審判
+tagItemSetC005Desc="判事にして陪審､ そして死刑執行人。"
+
+tagItemSetC006Name=伝令官の礼装
+tagItemSetC006NameB=伝令官の印
+tagItemSetC006Desc="外交使節団において 皇帝の 伝令官が 着た防具。"
+
+tagItemSetC007Name=薬剤師
+tagItemSetC007NameB=占い師
+tagItemSetC007Desc="必要とする人々を助けることに 身を捧げた 医者と 占い師が 身に着けた 礼装で､ 外交的に 中立な治療者 たることを 明示してある。"
+
+tagItemSetC008Name=破滅
+tagItemSetC008NameB=赦免
+tagItemSetC008Desc="邪悪なものはただ殺すのでは 不十分であり､ その過程で 懲罰が 要求される べきだ と信じ､ 敵に酸を かけることで 悪名高い 尋問官､ グレイウェザー の防具。"
+
+tagItemSetC009Name=虚ろな目
+tagItemSetC009Desc="盲目のアサシン､ サディアス ブラナガンは､ テンプラー教団の 団長を 真昼間に 暗殺して 名声を得た。"
+
+tagItemSetC010Name=鋭敏な射手の印
+tagItemSetC010Desc="500ヤード先を飛んでいる鳥 をも撃てる､ ライフルマンの 武器弾薬。"
+
+tagItemSetC011Name=不浄の誓約
+tagItemSetC011Desc="言語に絶する儀式の 間に着る 結社の礼装。"
+
+tagItemSetC012Name=王の楽しい熱中
+tagItemSetC012Desc="王の宝石コレクションは､ グリム ドーンの 破壊で 失われた と思われた。"
+
+tagItemSetC013Name=誓い破り
+tagItemSetC013NameB=誓い破りの炎
+tagItemSetC013Desc="かつて誓いを破りし者､ 敵に 都市門を 開いて 王を裏切った 騎士に 運ばれた 装備。"
+
+tagItemSetC014Name=剛勇の装飾
+tagItemSetC014Desc="戦時の英雄的な行動 を讃えて､ 兵士に 与えられた 勲章。"
+
+tagItemSetC015Name=殺戮
+tagItemSetC015Desc="この指輪を 嵌めた者は､ 誰もが流血 気分になる。"
+
+tagItemSetC016Name=アルケイナムの模範
+tagItemSetC016Desc="アルケインの理解に おいて､ 並外れた 飛躍をした アルカニストに 授けられた 衣装。"
+
+tagItemSetC017Name=ドーンガード
+tagItemSetC017Desc="メンヒルの神聖な信仰に､ 最も熱意を 持った防御者 だけが身に 付けた武具。"
+
+tagItemSetC018Name=アルカモスの憤怒
+tagItemSetC018NameB=アルカモスの激怒
+tagItemSetC018Desc="アーコヴィアの 主席死刑 執行人､ アルカモス の印環。"
+
+tagItemSetC019Name=ミアズマ
+tagItemSetC019NameB=死の瘴気
+tagItemSetC019Desc="ドリーグに選ばれし者 によって 使い古された 礼装。"
+
+tagItemSetC020Name=業火
+tagItemSetC020NameB=常燃の業火
+tagItemSetC020Desc="ウルズインの 敬虔な信者が 携行した 防具と武器。"
+
+tagItemSetC021Name=ザ イースタン プレッジ
+tagItemSetC021Desc="外国より大海を 越えて訪れ､ 崇敬された 司祭の 羽織りしローブ。"
+
+tagItemSetC022Name=ワイルドコーラー
+tagItemSetC022NameB=ワイルドコーラーの呼び声
+tagItemSetC022Desc="自然の声に調和した ワイルドコーラー､ シャーマンの 装飾品。"
+
+tagItemSetC023Name=近衛兵
+tagItemSetC023Desc="戦場でひるまぬ 献身を 認めた ものとして､ 百戦錬磨の ベテランが 身に着けた 防具。"
+
+tagItemSetC024Name=炎の番人
+tagItemSetC024Desc="炎の精霊が 吹き込まれた､ 灼熱の心臓。"
+
+tagItemSetC025Name=キャリドアの礼装
+tagItemSetC025Desc="崇拝されたアルカニスト にして アルケイン テンペストの 魔術創作者である､ マスター キャリドアの道具。"
+
+tagItemSetC026Name=ミュルミドン アーマー
+tagItemSetC026Desc="エリートの前衛に 支給された ブラック リージョン の防具。"
+
+tagItemSetC027Name=モグドロゲンの静穏
+tagItemSetC027Desc="獣神の信頼を得る者は 少ないが､ さらに少数の者は 彼の平穏な 注視に 恵まれる。"
+
+tagItemSetC028Name=ザ アルケイン ストーム
+tagItemSetC028Desc="騒々しいエナジーが､ イーサーの中で 猛威を振るう。 利用するのは､ 大胆か 愚かな者のみ。"
+
+tagItemSetC029Name=エレメンタル バランス
+tagItemSetC029Desc="火の猛威と 氷の力が 指先に。"
+
+tagItemSetD001Name=大司法官の防具
+tagItemSetD001Desc="メンヒルの守護者の 大審判､ 静かなる ホルヴァルド の防具。"
+
+tagItemSetD002Name=聖なるバランス
+tagItemSetD002Desc="生と死のまさにその 本質が､ 刃に 染み込んだ。"
+
+tagItemSetD003Name=ビーストコーラーの礼装
+tagItemSetD003Desc="熊の力､ フクロウの知恵､ 狼の激怒。"
+
+tagItemSetD004Name=暁光
+tagItemSetD004Desc="領域を侵す闇に対する 太陽の 激怒。"
+
+tagItemSetD005Name=ザ ハービンジャー
+tagItemSetD005Desc="エルーラン郊外で 名高い 賞金稼ぎ､ ザ ハービンジャー の道具。"
+
+tagItemSetD006Name=裁判官の印環
+tagItemSetD006Desc="一人の恣意で､ 多くの運命が 決定された。"
+
+tagItemSetD007Name=デーモンスレイヤーの服装
+tagItemSetD007Desc="メンヒルの信仰心篤き 信者にして 悪魔祓い､ オリバー バーンステッド の衣装。"
+
+tagItemSetD008Name=銃身職工の双銃
+tagItemSetD008Desc="共の鍛造､ 一丸で戦闘。"
+
+tagItemSetD009Name=ワイルドブラッド ヴァンガード
+tagItemSetD009Desc="さほど文明的ではない 時代の コレクション。"
+
+tagItemSetD010Name=千里眼
+tagItemSetD010Desc="ギルダム アルケイナムの 主たる砦､ シルバー タワーの 大魔術師が かつて着た 礼服。"
+
+tagItemSetD011Name=インヴォーカーのエレメント
+tagItemSetD011Desc="北風の寒気でバランスを 取った､ 火山の 猛烈なパワー。"
+
+tagItemSetD012Name=マーコヴィアンの砦
+tagItemSetD012Desc="勇敢にも､ すべての前線で 部下と共に 戦った 有名な戦術家､ マーコヴィアン 将軍の防具。"
+
+tagItemSetD013Name=ウルズインのアバター
+tagItemSetD013Desc="裏切られた神の 煮えたぎる 憎悪が､ 着る者を 消すことのできぬ 炎で満たす。"
+
+tagItemSetD014Name=ドリーグの覆い
+tagItemSetD014Desc="偉大なガーディアンの 妖術師団における､ 高司祭の ローブ。"
+
+tagItemSetD015Name=ザ デスマーク
+tagItemSetD015Desc="死の重責は､ 真の名前を 放棄した 慈悲無き無名 の暗殺者､ デスマークの 遺産を体現する 者たちに 重くのしかかる。"
+
+tagItemSetD016Name=イスカンドラの一式
+tagItemSetD016Desc="マスター イスカンドラの 慎重に保存 された礼装。 彼女の名に ちなんだ呪文 を作った日 に着用された。"
+
+tagItemSetD017Name=ウルトスの嵐
+tagItemSetD017Desc="破壊の嵐の召喚者､ 空の神 ウルトスの アバターが 身に付けた 武具。"
+
+tagItemSetD018Name=トロザンの上昇
+tagItemSetD018Desc="隠遁の中でトロザンは星を研究し､ かかる 未加工の エナジーの 制御には あらゆる危険が あるにも拘わらず､ その信じがたいほどの 力を利用する 術を習得した。"
+
+tagItemSetD019Name=ヴァルダンの裏切り
+tagItemSetD019Desc="ヴァルダンは､ ケアン全土で 最も優れた 射撃手の 一人だった。 しかし､ 彼が本当に 悪名高く なったのは､ エルーランの 貴族に照準を 向けた後の ことである。"
+
+tagItemSetD020Name=毒刃の盟約
+tagItemSetD020Desc="忌まわしき毒塗り武器の 使用を 専門とする､ ナイトブレイド 一派が 身に付けた 武具。"
+
+tagItemSetD021Name=黒炎の誓約
+tagItemSetD021Desc="青白き者､ ソレイルの 黒炎マスターの ベストメント。"
+
+tagItemSetD022Name=光の守護者
+tagItemSetD022Desc="信仰篤きガーディアン。 エンピリオンの 光の守護者。"
+
+tagItemSetD023Name=地獄の騎士
+tagItemSetD023Desc="ブラック リージョンの 地獄騎士 として知られている､ ガルロス ヴァルの防具。"
+
+tagItemSetD024Name=アグリヴィックスの憤怒
+tagItemSetD024Desc="アグリヴィックスはアルケインの 有名なマスター だったが､ 力に対する 彼の切望が しまいには身の破滅を もたらした。"
+
+tagItemSetD025Name=ウォーボーン アーマー
+tagItemSetD025Desc="戦いによって造り出された この武具は､ 今日に至るまで 他のいかなる 遺物よりも 多くの闘争を 見てきた。"
+
+tagItemSetD026Name=ブラッドレイジャーの狂乱
+tagItemSetD026Desc="北の凍結した不毛地帯から 来た蛮族､ ブラッドレイジャー たちの防具。"
+
+tagItemSetD027Name=死刑執行人の印
+tagItemSetD027Desc="アーコヴィアの死刑執行人 アルカモスは､ いるだけで恐怖を､ 間もなく来る 苦悩の兆しを 呼び起こした。"
+
+#Prefixes
+
+tagPrefixAA002={^Y}エンライトニング
+tagPrefixAA003={^Y}ルミナス
+tagPrefixAA004={^Y}シュルード
+tagPrefixAA005={^Y}マイティ
+tagPrefixAA006={^Y}ミスティック
+tagPrefixAA007={^Y}ビガラス
+tagPrefixAA008={^Y}エネジャイジング
+tagPrefixAA009={^Y}アグレッシブ
+tagPrefixAA010={^Y}ストーワート
+
+tagPrefixAA011={^Y}ソルジャーズ
+tagPrefixAA012={^Y}デモリッショニスツ
+tagPrefixAA013={^Y}オカルティスツ
+tagPrefixAA014={^Y}ナイトブレイズ
+tagPrefixAA015={^Y}アルカニスツ
+
+tagPrefixAA016={^Y}リストアティブ
+tagPrefixAA017={^Y}サブジュゲイターズ
+tagPrefixAA018={^Y}ワンダラーズ
+
+tagPrefixAA019={^Y}テネイシャス
+tagPrefixAA020={^Y}インヴィゴレイティング
+tagPrefixAA021={^Y}シャーマンズ
+
+tagPrefixAD001={^Y}インペネトラブル
+tagPrefixAD002={^Y}インサレイティング
+tagPrefixAD003={^Y}シェルタリング
+tagPrefixAD004={^Y}ニゲイティング
+tagPrefixAD005={^Y}パージング
+tagPrefixAD006={^Y}インパーヴィアス
+tagPrefixAD007={^Y}インパーヴィアス
+tagPrefixAD008={^Y}インパーヴィアス
+tagPrefixAD009={^Y}インパーヴィアス
+tagPrefixAD010={^Y}レジスタント
+tagPrefixAD011={^Y}レジスタント
+tagPrefixAD012={^Y}レジスタント
+tagPrefixAD013={^Y}レジスタント
+tagPrefixAD014={^Y}レジスタント
+tagPrefixAD015={^Y}レジスタント
+tagPrefixAD016={^Y}プリザーヴィング
+tagPrefixAD017={^Y}オーダード
+tagPrefixAD018={^Y}ウォーディング
+tagPrefixAD019={^Y}レゾルート
+tagPrefixAD020={^Y}ナリファイイング
+tagPrefixAD021={^Y}プリズマティック
+tagPrefixAD022={^Y}ラギッド
+tagPrefixAD023={^Y}スタンチング
+tagPrefixAD024={^Y}ソーイング
+tagPrefixAD025={^Y}デュラブル
+tagPrefixAD026={^Y}エンデューリング
+tagPrefixAD027={^Y}インパッサブル
+tagPrefixAD028={^Y}タフ
+tagPrefixAD029={^Y}エヴァーラスティング
+tagPrefixAD030={^Y}アンブレイカブル
+tagPrefixAD031={^Y}アダマント
+tagPrefixAD032={^Y}ストーンチ
+
+
+tagPrefixAO001={^Y}スピリア
+tagPrefixAO002={^Y}クラッシング
+tagPrefixAO003={^Y}パンクチャリング
+tagPrefixAO004={^Y}チルド
+tagPrefixAO005={^Y}シーリング
+tagPrefixAO006={^Y}ポイズンド
+tagPrefixAO007={^Y}チャージド
+tagPrefixAO008={^Y}ヴァンピリック
+tagPrefixAO009={^Y}ドレイニング
+tagPrefixAO010={^Y}サッピング
+tagPrefixAO011={^Y}コロッシヴ
+tagPrefixAO012={^Y}ワープト
+tagPrefixAO013={^Y}ヴォイド-タッチ
+tagPrefixAO014={^Y}ディケイイング
+
+tagPrefixB001_WpnMelee1h_A={^G}タイランツ
+tagPrefixB002_WpnMelee1h_A={^G}リレントレス
+tagPrefixB003_WpnMelee1h_A={^G}ルーンキャスターズ
+tagPrefixB004_WpnMelee1h_A={^G}プレイグベアラーズ
+tagPrefixB005_WpnMelee1h_A={^G}バーバリック
+tagPrefixB006_WpnMelee1h_A={^G}ブラッドサースティー
+tagPrefixB007_WpnMelee1h_A={^G}オフィサーズ
+tagPrefixB008_WpnMelee1h_A={^G}デモニック
+tagPrefixB009_WpnMelee1h_A={^G}インファーナル
+tagPrefixB010_WpnMelee1h_A={^G}エンチャンターズ
+tagPrefixB011_WpnMelee1h_A={^G}エルドリッチ
+tagPrefixB012_WpnMelee1h_A={^G}スカイフォールン
+tagPrefixB013_WpnMelee1h_A={^G}フロストボーン
+tagPrefixB014_WpnMelee1h_A={^G}アースバウンド
+tagPrefixB015_WpnMelee1h_A={^G}ストームチャージド
+tagPrefixB016_WpnMelee1h_A={^G}ヘルファイア
+tagPrefixB017_WpnMelee1h_A={^G}インキャンターズ
+tagPrefixB018_WpnMelee1h_A={^G}ヴェノムファング
+tagPrefixB019_WpnMelee1h_A={^G}イーサーファイア
+tagPrefixB020_WpnMelee1h_A={^G}シニスター
+tagPrefixB021_WpnMelee1h_A={^G}ハート ピアシング
+tagPrefixB022_WpnMelee1h_A={^G}フレンジド
+tagPrefixB023_WpnMelee1h_A={^G}グレイシャル
+tagPrefixB024_WpnMelee1h_A={^G}サンダーストラック
+tagPrefixB025_WpnMelee1h_A={^G}ライムフロスト
+
+tagPrefixB001_Ar_A={^G}セレスチャル
+tagPrefixB002_Ar_A={^G}ランペイジ
+tagPrefixB003_Ar_A={^G}レネゲイズ
+tagPrefixB004_Ar_A={^G}リッチズ
+tagPrefixB005_Ar_A={^G}ハーモニアス
+tagPrefixB006_Ar_A={^G}ドレッド ローズ
+tagPrefixB007_Ar_A={^G}デヴァステイティング
+tagPrefixB008_Ar_A={^G}エンシェント
+tagPrefixB009_Ar_A={^G}テンペスト
+tagPrefixB010_Ar_A={^G}サバイバリスツ
+tagPrefixB011_Ar_A={^G}マニアカル
+tagPrefixB012_Ar_A={^G}オーバーシーアズ
+tagPrefixB013_Ar_A={^G}クレリックス
+tagPrefixB014_Ar_A={^G}セラフィム
+tagPrefixB015_Ar_A={^G}コンセクレイテッド
+tagPrefixB016_Ar_A={^G}ライムフロスト
+tagPrefixB017_Ar_A={^G}ブライテッド
+tagPrefixB018_Ar_A={^G}インコラプティブル
+tagPrefixB019_Ar_A={^G}ライト ブリンガーズ
+tagPrefixB020_Ar_A={^G}アンイェールディング
+tagPrefixB021_Ar_A={^G}レゾナント
+tagPrefixB022_Ar_A={^G}メナシング
+tagPrefixB023_Ar_A={^G}フォーミダブル
+tagPrefixB024_Ar_A={^G}インポージング
+tagPrefixB025_Ar_A={^G}マーシレス
+tagPrefixB026_Ar_A={^G}カットスローツ
+tagPrefixB027_Ar_A={^G}ブラッドレターズ
+tagPrefixB028_Ar_A={^G}ストーンハイド
+tagPrefixB029_Ar_A={^G}ジェネラルズ
+tagPrefixB030_Ar_A={^G}グレイシャル
+tagPrefixB031_Ar_A={^G}サンダーストラック
+tagPrefixB032_Ar_A={^G}デモニック
+tagPrefixB033_Ar_A={^G}イーサーファイア
+tagPrefixB034_Ar_A={^G}タスクマスターズ
+tagPrefixB035_Ar_A={^G}ドミネイターズ
+
+tagPrefixB001_Class_A={^G}コマンドーズ
+tagPrefixB002_Class_A={^G}ウィッチブレイズ
+tagPrefixB003_Class_A={^G}ブレイドマスターズ
+tagPrefixB004_Class_A={^G}バトルメイジズ
+tagPrefixB005_Class_A={^G}パイロマンサーズ
+tagPrefixB006_Class_A={^G}サバターズ
+tagPrefixB007_Class_A={^G}ソーサラーズ
+tagPrefixB008_Class_A={^G}ウィッチ ハンターズ
+tagPrefixB009_Class_A={^G}ウォーロックズ
+tagPrefixB010_Class_A={^G}スペルブレイカーズ
+tagPrefixB011_Class_A={^G}ウォーリアーズ
+tagPrefixB012_Class_A={^G}アルソニスツ
+tagPrefixB013_Class_A={^G}ヘリティックス
+tagPrefixB014_Class_A={^G}アサシンズ
+tagPrefixB015_Class_A={^G}マギズ
+tagPrefixB016_Class_A={^G}ウォーダーズ
+tagPrefixB017_Class_A={^G}エレメンタリスツ
+tagPrefixB018_Class_A={^G}カンジュラーズ
+tagPrefixB019_Class_A={^G}トリックスターズ
+tagPrefixB020_Class_A={^G}ドルイズ
+tagPrefixB021_Class_A={^G}シーアズ
+
+tagPrefixB001_Sh_A={^G}イムーバブル
+tagPrefixB002_Sh_A={^G}キーパーズ
+tagPrefixB003_Sh_A={^G}スーパーチャージド
+tagPrefixB004_Sh_A={^G}クロノマンサーズ
+tagPrefixB005_Sh_A={^G}オーバーローズ
+tagPrefixB006_Sh_A={^G}ハウンドマスターズ
+tagPrefixB007_Sh_A={^G}サンドストーム
+tagPrefixB008_Sh_A={^G}グレイシャル
+tagPrefixB009_Sh_A={^G}サンダーストラック
+tagPrefixB010_Sh_A={^G}コースティック
+tagPrefixB011_Sh_A={^G}デストロイヤーズ
+tagPrefixB012_Sh_A={^G}フレイムウォール
+tagPrefixB013_Sh_A={^G}グレイシャル
+tagPrefixB014_Sh_A={^G}サンダーストラック
+tagPrefixB015_Sh_A={^G}コースティック
+tagPrefixB016_Sh_A={^G}ストーンハイド
+tagPrefixB017_Sh_A={^G}エルドリッチ
+tagPrefixB018_Sh_A={^G}インファーナル
+tagPrefixB019_Sh_A={^G}ストームチャージド
+tagPrefixB020_Sh_A={^G}ホアフロスト
+tagPrefixB021_Sh_A={^G}デモニック
+tagPrefixB022_Sh_A={^G}イーサーファイア
+
+#Suffixes
+
+tagSuffixA001={^Y}オブ プラウアス
+tagSuffixA002={^Y}オブ フォーティチュード
+tagSuffixA003={^Y}オブ プシュケー
+tagSuffixA004={^Y}オブ ザ ウルフ
+tagSuffixA005={^Y}オブ ザ フォックス
+tagSuffixA006={^Y}オブ ザ ボア
+tagSuffixA007={^Y}オブ ザ イーグル
+
+tagSuffixA008={^Y}オブ バイタリティ
+tagSuffixA009={^Y}オブ ウィズダム
+tagSuffixA010={^Y}オブ ポウテンシー
+tagSuffixA011={^Y}オブ メディテーション
+
+tagSuffixA014={^Y}オブ アラクリティ
+tagSuffixA015={^Y}オブ ヘイスト
+tagSuffixA016={^Y}オブ セレリティ
+tagSuffixA017={^Y}オブ ジール
+tagSuffixA017B={^Y}オブ クラウト
+
+tagSuffixA018={^Y}オブ アタック
+tagSuffixA019={^Y}オブ プロテクション
+tagSuffixA020={^Y}オブ レディネス
+
+tagSuffixA022={^Y}オブ ディトクシフィケーション
+tagSuffixA023={^Y}オブ コアグレイション
+
+tagSuffixA024={^Y}オブ ザ ハント
+tagSuffixA025={^Y}オブ マーダー
+tagSuffixA026={^Y}オブ バニッシュメント
+tagSuffixA027={^Y}オブ エクソシズム
+
+tagSuffixA028={^Y}オブ ルーイン
+tagSuffixA029={^Y}オブ フロストバイト
+tagSuffixA030={^Y}オブ スコーチング
+tagSuffixA031={^Y}オブ サンダー
+tagSuffixA032={^Y}オブ コロージョン
+tagSuffixA033={^Y}オブ ディケイ
+tagSuffixA034={^Y}オブ ヴェノム
+tagSuffixA035={^Y}オブ ブラッド
+tagSuffixA036={^Y}オブ フォーティフィケイション
+tagSuffixA037={^Y}オブ ソーンズ
+tagSuffixA038={^Y}オブ ザ イーサー
+tagSuffixA039={^Y}オブ ザ ヴォイド
+tagSuffixA040={^Y}オブ スパインズ
+
+tagSuffixA041={^Y}オブ メンディング
+tagSuffixA042={^Y}オブ リニューアル
+tagSuffixA043={^Y}オブ ザ トータス
+tagSuffixA044={^Y}オブ ザ ウルヴァリン
+tagSuffixA045={^Y}オブ ザ バジャ
+tagSuffixA046={^Y}オブ ザ サーペント
+tagSuffixA047={^Y}オブ ザ シー
+tagSuffixA048={^Y}オブ ザ マウンテン
+
+tagSuffixA049={^Y}オブ ザ バット
+tagSuffixA050={^Y}オブ ザ ヴァイパー
+tagSuffixA051={^Y}オブ ザ ブル
+tagSuffixA052={^Y}オブ ザ オウル
+tagSuffixA053={^Y}オブ ザ リフトハウンド
+tagSuffixA054={^Y}オブ ザ デザート
+tagSuffixA055={^Y}オブ ザ アークティック
+tagSuffixA056={^Y}オブ ザ ウェイスツ
+tagSuffixA057={^Y}オブ ザ スワンプ
+tagSuffixA058={^Y}オブ ザ ウィンド
+tagSuffixA059={^Y}オブ ザ レイス
+tagSuffixA060={^Y}オブ スペルウィービング
+tagSuffixA061={^Y}オブ ザ フレイム
+tagSuffixA062={^Y}オブ チリング
+tagSuffixA063={^Y}オブ エレクトロキューション
+tagSuffixA064={^Y}オブ トラウマ
+
+tagSuffixA065={^Y}オブ バリケード
+
+tagSuffixB001_Wpn_A={^G}オブ コンフラグレイション
+tagSuffixB002_Wpn_A={^G}オブ インサニティ
+tagSuffixB003_Wpn_A={^G}オブ サンクティフィケイション
+tagSuffixB004_Wpn_A={^G}オブ ザ アビス
+tagSuffixB005_Wpn_A={^G}オブ ザ セージ
+tagSuffixB006_Wpn_A={^G}オブ ザ スレイヤー
+tagSuffixB007_Wpn_A={^G}オブ ヴォラシティ
+tagSuffixB008_Wpn_A=オブ ザ デヴァウア
+tagSuffixB009_Wpn_A={^G}オブ ファーヴァー
+tagSuffixB010_Wpn_A={^G}オブ クルエルティ
+tagSuffixB011_Wpn_A={^G}オブ ルスレスネス
+tagSuffixB012_Wpn_A={^G}オブ ベスチャル レイジ
+tagSuffixB013_Wpn_A={^G}オブ フューリー
+tagSuffixB014_Wpn_A={^G}オブ フェロシティ
+tagSuffixB015_Wpn_A={^G}オブ スローター
+tagSuffixB016_Wpn_A={^G}オブ オンスロート
+tagSuffixB017_Wpn_A={^G}オブ ワイルドファイア
+tagSuffixB018_Wpn_A={^G}オブ トーレンツ
+tagSuffixB019_Wpn_A={^G}オブ シャタリング
+tagSuffixB020_Wpn_A={^G}オブ ブライト
+tagSuffixB021_Wpn_A={^G}オブ ザ ヴェノムクロウ
+tagSuffixB022_Wpn_A={^G}オブ ザ アボミネイション
+tagSuffixB023_Wpn_A={^G}オブ アナイアレイション
+tagSuffixB024_Wpn_A={^G}オブ ザ エレメンツ
+tagSuffixB025_Wpn_A={^G}オブ バインディング
+tagSuffixB026_Wpn_A=オブ アフリクション
+tagSuffixB027_Wpn_A={^G}オブ ピアシング ダークネス
+tagSuffixB028_Wpn_A=オブ ザ ウィンター ストーム
+tagSuffixB029_Wpn_A=オブ スコールズ
+tagSuffixB030_Wpn_A=オブ ザ ハリケーン
+tagSuffixB031_Wpn_A={^G}オブ アルケイン バランス
+tagSuffixB032_Wpn_A={^G}オブ ザ フレイムコーラー
+tagSuffixB033_Wpn_A={^G}オブ ザ アルケイン ブレーズ
+tagSuffixB034_Wpn_A={^G}オブ ヴォイドファイア
+tagSuffixB035_Wpn_A={^G}オブ フォールン スカイズ
+tagSuffixB036_Wpn_A={^G}オブ ソレイルズ マリス
+tagSuffixB037_Wpn_A={^G}オブ シャッタード リアリティ
+tagSuffixB038_Wpn_A={^G}オブ ザ カバール
+
+tagSuffixB001_Ar_A={^G}オブ アルケイン ロア
+tagSuffixB002_Ar_A={^G}オブ メンヒルズ ウォール
+tagSuffixB003_Ar_A={^G}オブ ウルズインズ フレイム
+tagSuffixB004_Ar_A={^G}オブ ドリーグズ ゲイズ
+tagSuffixB005_Ar_A={^G}オブ ソレイルズ マリス
+tagSuffixB006_Ar_A={^G}オブ オレロンズ ラース
+tagSuffixB007_Ar_A={^G}オブ ネイチャーズ バウンティ
+tagSuffixB008_Ar_A={^G}オブ アルブレヒツ フォーカス
+tagSuffixB009_Ar_A={^G}オブ ザ ギルダム アルケイナム
+tagSuffixB010_Ar_A={^G}オブ ハンガリング リフツ
+tagSuffixB011_Ar_A={^G}オブ ザ グロウブ
+tagSuffixB012_Ar_A={^G}オブ ブレイズ
+tagSuffixB013_Ar_A={^G}オブ ヒロイズム
+tagSuffixB014_Ar_A={^G}オブ ザ ドレングール
+tagSuffixB015_Ar_A={^G}オブ ザ ワイルド
+tagSuffixB016_Ar_A={^G}オブ ザ アンテイムド
+tagSuffixB017_Ar_A={^G}オブ インシネレイション
+tagSuffixB018_Ar_A={^G}オブ ザ グレイシャー
+tagSuffixB019_Ar_A={^G}オブ ザ ハリケーン
+tagSuffixB020_Ar_A={^G}オブ ザ バシリスク
+tagSuffixB021_Ar_A={^G}オブ ザ スリス
+tagSuffixB022_Ar_A={^G}オブ アノマリーズ
+tagSuffixB023_Ar_A={^G}オブ ザ ディヴァイナ
+tagSuffixB024_Ar_A={^G}オブ ザ フレッシュ ハルク
+tagSuffixB025_Ar_A={^G}オブ ザ ヴォイド ハービンジャー
+tagSuffixB026_Ar_A={^G}オブ バランスト スチール
+tagSuffixB027_Ar_A={^G}オブ スプレマシー
+tagSuffixB028_Ar_A={^G}オブ シャドウズ
+tagSuffixB029_Ar_A={^G}オブ ヴィシャス バーブズ
+tagSuffixB030_Ar_A={^G}オブ ブッチャリー
+tagSuffixB031_Ar_A={^G}オブ インカンテイションズ
+tagSuffixB032_Ar_A={^G}オブ インサイト
+tagSuffixB033_Ar_A={^G}オブ スコーチト エンズ
+tagSuffixB034_Ar_A={^G}オブ サバイバル
+tagSuffixB035_Ar_A={^G}オブ キングス
+tagSuffixB036_Ar_A={^G}オブ デストラクション
+tagSuffixB037_Ar_A={^G}オブ アマラスタズ フラーリ
+tagSuffixB038_Ar_A={^G}オブ メイヴェンズ ウィット
+tagSuffixB039_Ar_A={^G}オブ ザ ウィンター ストーム
+tagSuffixB040_Ar_A={^G}オブ スコールズ
+tagSuffixB041_Ar_A={^G}オブ アルケイン バランス
+tagSuffixB042_Ar_A={^G}オブ ザ アルケイン ブレーズ
+tagSuffixB043_Ar_A={^G}オブ ヴォイドファイア
+tagSuffixB044_Ar_A={^G}オブ フォールン スカイズ
+tagSuffixB045_Ar_A={^G}オブ シャッタード リアリティ
+tagSuffixB046_Ar_A={^G}オブ ザ カバール
+tagSuffixB047_Ar_A={^G}オブ ブライト
+tagSuffixB049_Ar_A={^G}オブ ドリーグズ ゲイズ
+tagSuffixB050_Ar_A={^G}オブ ソレイルズ マリス
+tagSuffixB051_Ar_A={^G}オブ オレロンズ ラース
+tagSuffixB052_Ar_A={^G}オブ ネイチャーズ バウンティ
+tagSuffixB053_Ar_A={^G}オブ デストラクション
+tagSuffixB054_Ar_A={^G}オブ アマラスタズ フラーリ
+tagSuffixB055_Ar_A={^G}オブ フォールン スカイズ
+tagSuffixB056_Ar_A={^G}オブ アルケイン ウィンズ
+tagSuffixB057_Ar_A={^G}オブ フェザーステップ
+tagSuffixB058_Ar_A={^G}オブ ストーンフッティング
+tagSuffixB059_Ar_A={^G}オブ ダンシング シャドウズ
+tagSuffixB060_Ar_A={^G}オブ レプティリアン レジリエンス
+tagSuffixB061_Ar_A={^G}オブ アルケイン ウィンズ
+tagSuffixB062_Ar_A={^G}オブ ラピッド リフレックスィズ
+tagSuffixB063_Ar_A={^G}オブ アマラスタズ アラクリティ
+tagSuffixB064_Ar_A={^G}オブ ザ オナー ガード
+tagSuffixB065_Ar_A={^G}オブ アルケイン マインズ
+tagSuffixB066_Ar_A={^G}オブ イーサー ストームズ
+tagSuffixB067_Ar_A={^G}オブ ダーク インテント
+tagSuffixB068_Ar_A={^G}オブ バトル フューリー
+tagSuffixB069_Ar_A={^G}オブ アルケイン マイト
+tagSuffixB070_Ar_A={^G}オブ ストーン フィスツ
+tagSuffixB071_Ar_A={^G}オブ ザ ワイルド
+tagSuffixB072_Ar_A={^G}オブ ザ アンテイムド
+
+tagSuffixB001_Sh_A={^G}オブ リダウト
+tagSuffixB002_Sh_A={^G}オブ ヴァラー
+tagSuffixB003_Sh_A={^G}オブ ザ プロテクター
+tagSuffixB004_Sh_A={^G}オブ ザ オラクル
+tagSuffixB005_Sh_A={^G}オブ スペクターズ
+tagSuffixB006_Sh_A={^G}オブ セレニティ
+tagSuffixB007_Sh_A={^G}オブ ワイルドファイア
+tagSuffixB008_Sh_A={^G}オブ シャタリング
+tagSuffixB009_Sh_A={^G}オブ トーレンツ
+tagSuffixB010_Sh_A={^G}オブ ブライト
+tagSuffixB011_Sh_A=オブ ザ ディファイラー
+tagSuffixB012_Sh_A={^G}オブ ザ アボミネイション
+tagSuffixB013_Sh_A={^G}オブ ソレイルズ マリス
+tagSuffixB014_Sh_A={^G}オブ ベンジェンス
+tagSuffixB015_Sh_A={^G}オブ ザ セージ
+tagSuffixB016_Sh_A={^G}オブ ザ ガーディアン
+tagSuffixB017_Sh_A={^G}オブ ワイルドファイア
+tagSuffixB018_Sh_A={^G}オブ シャタリング
+tagSuffixB019_Sh_A={^G}オブ トーレンツ
+tagSuffixB020_Sh_A={^G}オブ ブライト
+tagSuffixB021_Sh_A={^G}オブ メンヒルズ ウォール
+tagSuffixB022_Sh_A={^G}オブ アナイアレイション
+tagSuffixB023_Sh_A={^G}オブ リチュアルズ
+tagSuffixB024_Sh_A={^G}オブ バインディング
+tagSuffixB025_Sh_A=オブ アフリクション
+tagSuffixB026_Sh_A={^G}オブ ザ サンズ
+tagSuffixB027_Sh_A={^G}オブ デス チル
+tagSuffixB028_Sh_A=オブ ストームズ
+tagSuffixB029_Sh_A=オブ コンフラグレイション
+tagSuffixB030_Sh_A=オブ ザ ウィンター ストーム
+tagSuffixB031_Sh_A=オブ スコールズ
+tagSuffixB032_Sh_A={^G}オブ イモータリティ
+tagSuffixB033_Sh_A={^G}オブ アルケイン バランス
+tagSuffixB034_Sh_A={^G}オブ ザ フレイムコーラー
+tagSuffixB035_Sh_A={^G}オブ ザ アルケイン ブレーズ
+tagSuffixB036_Sh_A={^G}オブ ヴォイドファイア
+tagSuffixB037_Sh_A={^G}オブ フォールン スカイズ
+tagSuffixB038_Sh_A={^G}オブ シャッタード リアリティ
+tagSuffixB039_Sh_A={^G}オブ ザ カバール
+tagSuffixB040_Sh_A={^G}オブ コラプション
+tagSuffixB041_Sh_A={^G}オブ アナイアレイション
+tagSuffixB042_Sh_A={^G}オブ コンフラグレイション
+tagSuffixB043_Sh_A={^G}オブ ザ ハリケーン
+tagSuffixB044_Sh_A={^G}オブ ザ グレイシャー
+
+#ItemSkills
+
+tagAutoSkillCondition01= ({%.0f1}% ヘルス時 {%d0}% の確率で)
+tagAutoSkillCondition02= ({%.0f1}% エナジー時 {%d0}% の確率で)
+tagAutoSkillCondition03= (被打時 {%d0}% の確率で)
+tagAutoSkillCondition04= (近接攻撃被打時 {%d0}% の確率で)
+tagAutoSkillCondition05= (遠隔攻撃被打時 {%d0}% の確率で)
+tagAutoSkillCondition06= (Buff 詠唱時 {%d0}% の確率で)
+tagAutoSkillCondition07= (攻撃時 {%d0}% の確率で)
+tagAutoSkillCondition08= (装備中に稼働)
+tagAutoSkillCondition09= (クリティカル被打時 {%d0}% の確率で)
+tagAutoSkillCondition10= (クリティカル攻撃時 {%d0}% の確率で)
+tagAutoSkillCondition11= (ブロック時 {%d0}% の確率で)
+tagAutoSkillCondition12= (敵の死亡時 {%d0}% の確率で)
+
+#LootChests
+
+tagChestWoodA01=風雨に曝されたチェスト
+tagChestRationA01=旅人のリュック
+tagChestMetalA01=金属製金庫
+tagChestNaturalA01=印の付いた岩
+tagChestNaturalA02=根こそぎになった切り株
+tagChestCorpseA01=腐敗の進んでいる死体
+tagChestRockCairnA01=石室
+tagChestCocoonA01=繭に包まれた遺体
+tagChestWoodB01=上品なチェスト
+tagChestMetalB01=華麗な金庫
+tagChestStoneAltarC01=石の祭壇
+tagChestSlithAltarC01=スリスの祭壇
+tagChestStoneMonolithC01=石造りのチェスト
+tagChestStoneSarcophagusC01=古代の石棺
+tagChestBoneChestD01=骨の聖骨箱
+tagChestBoneChestD02=骨の貴重品箱
+tagChestTreasureTrove01=お宝
+tagChestCorruptedChestD01=穢れた聖骨箱
+tagChestCorruptedChestD02=穢れた貴重品箱
+
+tagChestRackArmorA01=防具棚
+tagChestRackArmorB01=防具の収集品
+tagChestRackWeaponsA01=武器棚
+tagChestRackWeaponsB01=武器の収集品
+
+tagChestCorpse_Mornay=モルネーの死体
+tagChestCorpse_RoverElder=マティアス長老の死体
+tagChestCorpse_Jacob=ヤコブの死体
+tagChestCorpse_Refugee=ダリア タヴァリンの死体
+tagChestCorpse_BlackLegion=ブラック リージョンの遺体
+tagChestCorpse_Malkadarr=マルカダールの遺体
+tagChestCorpse_BurrwitchScout=サルナの遺体
+
+tagLectern_WardensLabA01=研究日誌
+tagLectern_OldArkoviaRuinsA01=古代の書見台
+tagChestBozemanFolly=ボーズマンのカバン
+
+tagChestHeroD01=英雄的チェスト
+tagChestHeroD01_Dropped=英雄的戦利品
+tagChestHeroD02=壮大なチェスト
+tagChestHeroD02_Dropped=壮大な戦利品
+tagChestHeroD03=最高級のチェスト
+tagChestHeroD03_Dropped=最高級の戦利品
+tagChestHeroD04=荘厳なチェスト
+tagChestHeroD04_Dropped=荘厳な戦利品
+tagChestHeroD05=栄光のチェスト
+tagChestHeroD06=超越的チェスト
+tagChestHeroD07=オブシディアンの塊
+tagChestHeroD08=オブシディアンの財宝
+tagChestHeroD09=オブシディアンの富
+tagChestHeroD10=ログホリアンの財宝
+tagChestHeroD11=エドマンドの隠し財産
+tagChestNemesis01=ネメシスの財宝
+tagChestNemesis02=クローンの財宝
+
+tagChestSecret01=隠された戦利品
+tagChestSecret02=隠された残骸
+tagChestSecret03=隠された財宝
+
+tagBreakableA01=樽
+tagBreakableA02=木箱
+tagBreakableJugA01=水入れ
+tagBreakableBonePileHumanA01=人の遺骸
+tagBreakableBonePileHumanA02=人の残骸
+tagBreakableJunkPileA01=ガラクタの山
+tagBreakableGrobleTotemA01=グローブル トーテム
+tagBreakableSlithPileA01=スリスのゴミ
+tagBreakableScrapPileA01=屑の山
+tagBreakableWaspClusterA01=スズメバチの巣
+tagBreakableUrnA01=壊れかけた壺
+tagBreakableUrnB01=古びた壺
+tagBreakableUrnClusterA01=壺の集まり
+tagBreakableDermapteranA01=ハサミムシの房
+tagBreakableBonePileA01=骨塚
+tagBreakableObsidianA01=悲運の残骸
+tagBreakableObsidianB01=オブシディアンのかけら
+tagBreakableAetherCrystal=イーサー クリスタル 構成体
+
+tagChestLocked= {^R} ~ 鍵が掛かっている
+tagChestLockedBoss= {^R} ~ 強力な存在によって鍵が掛けられている
+tagChestLockedQuest= {^R} ~ クエストによってロックされている
+
+tagChestBossOneShot_Warden=ウォードンのチェスト
+tagChestBossOneShot_Darius=ダリウスのチェスト
+tagChestBossOneShot_Loghorrean=ログホリアンの腐敗
+tagChestOneShot_Sacrifice=アイザックの隠匿物
+tagChestOneShot_Generic01=高貴なスタッシュ
+tagChestOneShot_Generic02=高貴なスタッシュ
+tagChestOneShot_BurrwitchCave01=モンスターの宝物庫
+tagChestOneShot_LowerCrossingCave01=モンスターの宝物庫
+tagChestOneShot_CultistSummoner=カローズのチェスト
+tagChestOneShot_ChthonicAbomination=クトーンのチェスト
+tagChestOneShot_HiddenWealth=隠された富
+
+#Interactive Objects
+tagShrineConstitutionA01=手つかずの食事
+tagShrineBossLocked= {^R} ~ 強力な存在に封印されている
+tagShrineMogdrogenLocked= {^R} ~ クトーンのエナジーに封印されている
+
+#Breakables
+
+tagWoodenDoor=木の扉
+tagBarnDoor=倉庫の扉
+tagCageDoor=門
+tagTrollDoor=ゲート
+
+tagBreakableStoneWall=崩れかけた壁
+tagBreakableNaturalWall=緩んだ地面
+tagBreakableObsidianWall=崩れかけたオブシディアン
+
+#Dungeon Doors
+
+tagUGDoorCave01=洞穴入口
+tagUGDoorTrapdoor01=落とし扉
+tagUGDoorTrapDoorLocked01=鍵のかかった隠し扉
+tagUGDoorLadder01=ぐらつく梯子
+tagUGDoorCellarDoor01=独房の扉
+tagUGDoorMine01=鉱山入口
+tagUGDoorRuin01=廃墟入口
+tagUGDoorIronDoorSecret01=鉄の扉
+tagUGDoorIronGate=鉄の扉
+tagUGDoorPortcullisFloor01=落とし門
+tagUGDoorBoat=ボートを漕ぐ
+tagUGDoorObsidian=オブシディアンの脊柱
+tagUGDoorFort=砦 入口
+tagUGDoorCrypt=地下聖堂 入口
+tagUGDoorWitchGods=印の付いた石
+tagUGDoorAetherFire=イーサー バリア
+tagDoorLocked= {^R} ~ 鍵が掛かっている
+tagUGCellarOneWay=地下室入口
+
+tagDoorOneWay01=地表への脱出
+tagDoorOneWayPortValbury=都市からの脱出
+tagDoorLever01=落とし門の制御装置
+tagTorchLever01=緩んだ松明
+tagStoneLever01=緩んだ石
+
+#Doors
+
+tagCellDoor=独房の扉
+tagPrisonEntranceDoor=バーウィッチ刑務所の門
+tagMineDoor=鉱山の扉
+tagEpicDoor_StepsOfTorment=苦痛の門
+tagEpicDoor_BastionOfChais=要塞の門
+tagEpicDoor_PortValbury=ヴァルバリー港の門
+tagEpicDoor_StepsOfTormentLocked= {^R} ~ 古代の力で封印されている (スケルトン キーが 必要です)
+tagLocked= {^R} ~ ロックされている
+tagBlocked= {^R} ~ 落盤が道を塞いでいる
+tagLocked_BlackLegion= {^R} ~ ブラック リージョンによって 封印されている
+tagLocked_Cult= {^R} ~ クトーン教団 によって 封印されている
+tagUGDoorDermapteranQueen=女王のねぐらへの入り口
+tagUGDoorDermapteranQueenLocked= {^R} ~ グランド ワズィール によって 封印されている
+tagUGDoorDermapteranQueenShortcut=巣の入口への近道
+tagDoorRampart=障害物で塞がった扉
+tagDoorWarden=鉄の扉
+tagDoorFarmland=木の門
+tagDoorLab=強化扉
+tagDoorStone=石の扉
+tagLocked_Kymon= {^R} ~ カイモン神父によって 封印されている
+tagLocked_Necro= {^R} ~ 死の目醒め修道会によって 封印されている
+tagLocked_Outcast= {^R} ~ アナステリアによって 封印されている
+tagLocked_BoCGauntlet= {^R} ~ ガーディアン によって 封印されている
+tagLocked_WitchGods= {^R} ~ エルドリッチの力 によって 封印されている
+
+#Quest Rewards
+
+tagQuestItemBrothersAmulet={^G}シスターズ アミュレット オブ ライフギビング
+tagQuestItemBrothersAmuletDesc="大切な兄へ : このアミュレットがあれば､ 戦闘中 強さを保って いられる でしょう。 -シビル"
+
+tagQuestItemSlithRing={^G}スリス プライマル リング
+tagQuestItemSlithRingDesc="この指輪には､ 洗い落ちない 残存した 悪臭がある。"
+
+tagItemTest={^F}ゲイザー マン
+tagItemTestDesc="ゲイザーの服に身を包んだ 最高実績者。"
+
+#Equipment Locations
+
+tagSlotLeftHand= (左手)
+tagSlotRightHand= (右手)
+tagSlotHead= (頭)
+tagSlotNeck= (首)
+tagSlotRing1= (指輪 1)
+tagSlotRing2= (指輪 2)
+tagSlotChest= (胴)
+tagSlotLegs= (脚)
+tagSlotShoulders= (肩)
+tagSlotHands= (手)
+tagSlotFeet= (足)
+tagSlotWaist= (腰)
+tagSlotRelic= (レリック)
+tagSlotMedal= (メダル)
+tagSlotUnknown= (準備中)

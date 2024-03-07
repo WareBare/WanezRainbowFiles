@@ -1,0 +1,227 @@
+﻿#Region Names=
+tagGDX2MapEndlessDungeon=Thế Giới Tan Vỡ
+tagGDX2MapEndlessBoss=Sảnh Hộ Vệ Thế Giới Tan Vỡ
+tagGDX2MapEndlessTreasure=Sự Kỳ Vĩ Của Thế Giới Tan Vỡ
+
+#Shattered Bosses
+tagGDX2EndlessDungeon_Boss01=Cai Ngục Kriev ~ Hộ Vệ Thế Giới Tan Vỡ
+tagGDX2EndlessDungeon_Boss02=Darius Connolay ~ Linh Hồn Tan Vỡ
+tagGDX2EndlessDungeon_Boss03=Karriv Kẻ Suy Tàn
+tagGDX2EndlessDungeon_Boss03B=Linh Hồn Của Karriv
+tagGDX2EndlessDungeon_Boss04=Ekket'Zal ~ Sứ Giả Của Yugol
+tagGDX2EndlessDungeon_Boss05=Theodin Maurin ~ Kiến Tạo Giả Tan Vỡ
+tagGDX2EndlessDungeon_Boss06=Quản Gia Thế Giới Tan Vỡ
+tagGDX2EndlessDungeon_Boss07=Lucian ~ Chỉ Huy Các Linh Hồn Tan Vỡ
+tagGDX2EndlessDungeon_Boss08=Alkamir ~ Đao Phủ Thế Giới Tan Vỡ
+tagGDX2EndlessDungeon_Boss09=Shar'Zal ~ Hộ Vệ Của Yugol
+tagGDX2EndlessDungeon_Boss10=Gargaban ~ Trái Tim Tan Vỡ
+tagGDX2EndlessDungeon_Boss11=Người Canh Gác Thế Giới Tan Vỡ
+tagGDX2EndlessDungeon_Boss12=Kẻ Bị Ruồng Bỏ Của Thế Giới Tan Vỡ
+tagGDX2EndlessDungeon_Boss13=Salazin ~ Thanh Kiếm Bị Đập Vỡ
+tagGDX2EndlessDungeon_Boss14=Hinass ~ Kiến Tạo Giả Tan Vỡ
+tagGDX2EndlessDungeon_Boss15=Người Gác Cổng Tan Vỡ
+tagGDX2EndlessDungeon_Boss16=Hoá Thân Của Kẻ Khát Máu
+tagGDX2EndlessDungeon_Boss16_Tentacle=Xúc Tu Khát Máu
+tagGDX2EndlessDungeon_Boss16_Void=Hư Không Đói Khát
+
+tagGDX2EndlessDungeon_Special01=Kẻ Cuồng Tín ~ Giáo Phái Hầm Mỏ
+tagGDX2EndlessDungeon_Special02=Tà Nhãn Tướng Lĩnh
+tagGDX2EndlessDungeon_Special03=Truy Hồn Giả Bị Nguyền Rủa
+tagGDX2EndlessDungeon_Special04=Crate of Entertainment ~ Chiếc Thùng Giải Trí
+tagGDX2EndlessDungeon_Special05=Crate ~ Chiếc Thùng Khiêm Tốn
+tagGDX2EndlessDungeon_Special06=CHO TÔI MỘT CÁI TÊN
+tagGDX2EndlessDungeon_Special07=ẤU TRÙNG SIÊU BỰ TRÔNG CỰC KỲ BÌNH THƯỜNG
+tagGDX2EndlessDungeon_Special07B=Ấu Trùng Siêu Bự
+tagGDX2EndlessDungeon_Special08=Linh Hồn Thùng Gỗ
+tagGDX2EndlessDungeon_Special09=Dromedary Xương Trắng
+tagGDX2EndlessDungeon_Special10=Dromedary Xương Trắng ~ Vô Địch
+tagGDX2EndlessDungeon_Special11=Dromedary Xương Trắng ~ Người Canh Gác
+tagGDX2EndlessDungeon_Special12=Ấu Trùng Đói Khát
+tagGDX2EndlessDungeon_Special13=Ấu Trùng Bùng Cháy
+tagGDX2EndlessDungeon_Special14=Ấu Trùng Siêu Béo
+tagGDX2EndlessDungeon_Special15=Ấu Trùng To Béo
+tagGDX2EndlessDungeon_Special16=Kẻ Đói Khát Bất Ổn Định
+tagGDX2EndlessDungeon_Special17=Kẻ Đói Khát ~ Phàm Ăn
+tagGDX2EndlessDungeon_Special18=Kẻ Đói Khát
+
+tagGDX2EndlessDungeon_Lever01=Cần Gạt Màu Đỏ
+tagGDX2EndlessDungeon_Lever02=Cần Gạt Xanh Lá
+tagGDX2EndlessDungeon_Lever03=Cần Gạt Xanh Dương
+tagGDX2EndlessDungeon_Lever04=Cần Gạt Màu Vàng
+tagGDX2EndlessDungeon_Lever05=Cần Gạt Màu Tím
+tagGDX2EndlessDungeon_Lever06=Cần Gạt Màu Trắng
+tagGDX2EndlessDungeon_Door01=Cửa Sắt Bị Yểm Chú
+tagGDX2EndlessDungeon_Door01_Lock={^R} ~ Bị Khoá Bởi Các Cần Gạt Gần Đó
+
+
+tagGDX2EndlessDungeon_Boss_Skill01=Hiện Thân Khát Máu
+tagGDX2EndlessDungeon_Boss_Skill01_Desc=Bóng tối khát máu kéo bạn vào trong nó, giảm lượng Máu.
+
+tagGDX2EndlessDungeon_Boss_Summon01=Ấu Trùng Thần Thánh
+tagGDX2EndlessDungeon_Boss_Summon02=Bóng Đêm Khát Máu
+tagGDX2EndlessDungeon_Boss_Summon02_Skill=Bóng Đêm Khát Máu
+tagGDX2EndlessDungeon_Boss_Summon02_Skill_Desc=Sự thèm khát lạnh lẽo từ bóng đêm vô tận đang ăn mòn linh hồn bạn.
+
+tagGDX2EndlessDungeon_S201=Chiếc Khiên Cực Kỳ Bình Thường
+tagGDX2EndlessDungeon_S201_Desc="Southpaws mới hiểu được."
+tagGDX2EndlessDungeon_S202={^L}Trường Kích Xương Trắng
+tagGDX2EndlessDungeon_S203={^I}Leovinus' Ring
+tagGDX2EndlessDungeon_S203_Desc="Một chiếc nhẫn cổ xưa được làm từ các vật liệu lạ rất dễ uốn nắn. Trông nó khá là kỳ quái."
+
+
+#NPCs
+tagGDX2EndlessDungeon_NPC_Event01=Mazaan ~ Người Gác Cổng
+
+tagGDX2EndlessDungeon_NPC_Merchant01=Ullana
+tagGDX2EndlessDungeon_ StoreTitle_Merchant01=Người Bán Hàng Rong Thế Giới Tan Vỡ
+tagGDX2EndlessDungeon_ StoreTitle_Merchant02=Cận Vệ Thế Giới Tan Vỡ
+tagGDX2EndlessDungeon_ StoreTitle_Merchant03=Hiệp Sĩ Thế Giới Tan Vỡ
+tagGDX2EndlessDungeon_ StoreTitle_Merchant04=Lãnh Chúa Thế Giới Tan Vỡ
+tagGDX2EndlessDungeon_ StoreTitle_Merchant05=Hộ Vệ Thế Giới Tan Vỡ
+
+
+tagGDX2EndlessDungeon_NPC_Smith01=Ikarrod
+tagGDX2EndlessDungeon_StoreTitle_Smith01=Thợ Rèn Bị Nguyền Rủa
+tagGDX2EndlessDungeon_StoreDesc_Smith01_1={}Tài Năng Từ Cõi Chết
+tagGDX2EndlessDungeon_StoreDesc_Smith01_2=Ikarrod được ban cho kiến thức về nghề rèn đúc qua nhiều thế kỷ, ẩn nấp dưới vẻ ngoài khá là... đặc biệt của mình.
+tagGDX2EndlessDungeon_StoreDesc_Smith01_3=
+tagGDX2EndlessDungeon_StoreDesc_Smith01_4=Vũ Khí, Giáp Phục và Trang Sức được chế tác sẽ nhận được một trong các thuộc tính sau:
+
+tagGDX2EndlessDungeon_NPC_Smuggler01=Agnath
+tagGDX2EndlessDungeon_StoreTitle_Smuggler01=Kẻ Buôn Lậu Bất Tử
+
+tagGDX2EndlessDungeon_NPC_Reallocator01=Rathia
+tagGDX2EndlessDungeon_StoreTitle_Reallocator01=Dẫn Dắt Linh Hồn
+
+tagGDX2EndlessDungeon_NPC_Inventor01=Laduna
+tagGDX2EndlessDungeon_StoreTitle_Inventor01=Nhà Phát Minh Tan Vỡ
+
+tagGDX2EndlessDungeon_NPC_PowerUps01=Callagadra ~ Hộ Vệ Sa Mạc
+
+#Shrines
+tagGDX2EndlessDungeon_Shrine01=Miếu Thờ Azrakaa
+tagGDX2EndlessDungeon_Shrine01_Desc=Lập một khế ước với Azrakaa, giúp bạn tăng Tốc Độ Di Chuyển và khiến các đòn tấn công của bạn phóng ra những lưỡi kiếm bóng ma vào các kẻ thù.
+tagGDX2EndlessDungeon_Shrine01Skill=Giao Ước Azrakaa
+tagGDX2EndlessDungeon_Shrine01Skill_Desc=Bạn thực hiện một giao ước với Azrakaa, giúp bạn tăng Tốc Độ Di Chuyển và khiến các đòn tấn công của bạn phóng ra những lưỡi kiếm bóng ma vào các kẻ thù.
+tagGDX2EndlessDungeon_Shrine01SkillProc=Lưỡi Kiếm Bóng Ma
+
+tagGDX2EndlessDungeon_Shrine02=Miếu Thờ Oleron
+tagGDX2EndlessDungeon_Shrine02_Desc=Huyết Nộ Oleron dâng tràn trong người bạn, giúp bạn tăng Tốc Độ Di Chuyển và tăng mạnh % Khả Năng Tấn Công.
+tagGDX2EndlessDungeon_Shrine02Skill=Huyết Nộ Oleron
+tagGDX2EndlessDungeon_Shrine02Skill_Desc=Bạn được nạp đầy Huyết Nộ Oleron, giúp bạn tăng Tốc Độ Di Chuyển và tăng mạnh % Khả Năng Tấn Công.
+
+tagGDX2EndlessDungeon_Shrine03=Miếu Thờ Rattosh
+tagGDX2EndlessDungeon_Shrine03_Desc=Có được sức mạnh của người bảo vệ bức màn, tăng Tốc Độ Di Chuyển của bạn và khiến các đòn tấn công của bạn tiêu hao sinh mệnh của các kẻ thù.
+tagGDX2EndlessDungeon_Shrine03Skill=Bức Màn Của Rattosh
+tagGDX2EndlessDungeon_Shrine03Skill_Desc=Bạn có sức mạnh của bức màn, tăng Tốc Độ Di Chuyển và khiến các đòn tấn công của bạn tiêu hao sinh mệnh của các kẻ thù.
+tagGDX2EndlessDungeon_Shrine03SkillProc=Rút Sinh Mệnh
+
+tagGDX2EndlessDungeon_Shrine04=Miếu Thờ Amatok
+tagGDX2EndlessDungeon_Shrine04_Desc=Hút nhiệt từ không khí xung quanh, giúp bạn tăng Tốc Độ Di Chuyển và khiến các đòn tấn công vào bạn đôi khi gây ra vụ nổ băng giá.
+tagGDX2EndlessDungeon_Shrine04Skill=Lời Thì Thầm Của Amatok
+tagGDX2EndlessDungeon_Shrine04Skill_Desc=Bạn hút nhiệt từ không khí xung quanh, giúp bạn tăng Tốc Độ Di Chuyển và khiến các đòn tấn công vào bạn đôi khi gây ra vụ nổ băng giá.
+tagGDX2EndlessDungeon_Shrine04SkillProc=Vụ Nổ Băng Giá
+
+tagGDX2EndlessDungeon_Shrine05=Miếu Thờ Tử Thần
+tagGDX2EndlessDungeon_Shrine05_Desc=Thực hiện giao ước với Thần Chết, tăng Tốc Độ Di Chuyển và làm cho bạn bất khả chiến bại.
+tagGDX2EndlessDungeon_Shrine05Skill=Khao Khát Trần Tục
+tagGDX2EndlessDungeon_Shrine05Skill_Desc=Bạn thực hiện giao ước với Thần Chết, tăng Tốc Độ Di Chuyển và làm cho bạn bất khả chiến bại.
+
+
+#Powerups
+tagGDX2EndlessDungeon_Powerup01=Tinh Hoa Thế Giới Tan Vỡ
+tagGDX2EndlessDungeon_Powerup01_Desc=Bạn đã hấp thụ một Linh Hồn của Thế Giới Tan Vỡ, ban cho bạn sức mạnh và sự dẻo dai trong một khoảng thời gian ngắn. ^oHiệu ứng này có thể cộng dồn tối đa 5 lần, số lần cộng dồn có thể được tăng thêm ở các Mảnh Thế Giới xa hơn.
+tagGDX2EndlessDungeon_Powerup02_Desc=Bạn đã hấp thụ một Linh Hồn của Thế Giới Tan Vỡ, ban cho bạn sức mạnh và sự dẻo dai trong một khoảng thời gian ngắn. ^oHiệu ứng này có thể cộng dồn tối đa 8 lần, số lần cộng dồn có thể được tăng thêm ở các Mảnh Thế Giới xa hơn.
+tagGDX2EndlessDungeon_Powerup03_Desc=Bạn đã hấp thụ một Linh Hồn của Thế Giới Tan Vỡ, ban cho bạn sức mạnh và sự dẻo dai trong một khoảng thời gian ngắn. ^oHiệu ứng này có thể cộng dồn tối đa 9 lần, số lần cộng dồn có thể được tăng thêm ở các Mảnh Thế Giới xa hơn.
+tagGDX2EndlessDungeon_Powerup04_Desc=Bạn đã hấp thụ một Linh Hồn của Thế Giới Tan Vỡ, ban cho bạn sức mạnh và sự dẻo dai trong một khoảng thời gian ngắn. ^oHiệu ứng này có thể cộng dồn tối đa 10 lần.
+
+
+#Items
+tagGDX2EndlessDungeon_Essence_01=Linh Hồn Tan Vỡ
+tagGDX2EndlessDungeon_Essence_02=Linh Hồn Tan Vỡ Hùng Mạnh
+tagGDX2EndlessDungeon_Essence_03=Linh Hồn Tan Vỡ Thần Thánh
+tagGDX2EndlessDungeon_Essence_04=Linh Hồn Tan Vỡ Vô Song
+
+tagGDX2EndlessDungeon_Key_01=Đá Dẫn Đường Bị Vỡ
+tagGDX2EndlessDungeon_Key_01_Desc=Đá Dẫn Đường Bị Vỡ từng chứa những quyền năng to lớn. Nó giúp Mazaan mở cánh cổng đến Mảnh Thế Giới thứ 5, tối đa là Mảnh thứ 15, của Thế Giới Tan Vỡ.
+tagGDX2EndlessDungeon_Key_01_Blueprint=Bản Thiết Kế: Đá Dẫn Đường Bị Vỡ
+
+tagGDX2EndlessDungeon_Key_02=Đá Dẫn Đường Cộng Hưởng
+tagGDX2EndlessDungeon_Key_02_Desc=Đá Dẫn Đường Cộng Hưởng toả sáng lấp lánh một phần sức mạnh quyền năng nó từng có ngày trước. Nó giúp Mazaan mở cánh cổng đến Mảnh Thế Giới thứ 20, tối đa là Mảnh thứ 30, của Thế Giới Tan Vỡ.
+tagGDX2EndlessDungeon_Key_02_Blueprint=Bản Thiết Kế: Đá Dẫn Đường Cộng Hưởng
+
+tagGDX2EndlessDungeon_Key_03=Đá Dẫn Đường Ám Ảnh
+tagGDX2EndlessDungeon_Key_03_Desc=Đá Dẫn Đường Ám Ảnh chứa đựng những linh hồn từ cõi chết. Nó giúp Mazaan mở cánh cổng đến Mảnh Thế Giới thứ 35, tối đa là Mảnh thứ 45, của Thế Giới Tan Vỡ.
+tagGDX2EndlessDungeon_Key_03_Blueprint=Bản Thiết Kế: Đá Dẫn Đường Ám Ảnh
+
+tagGDX2EndlessDungeon_Key_04=Đá Dẫn Đường Ô Uế
+tagGDX2EndlessDungeon_Key_04_Desc=Đá Dẫn Đường Ô Uế được thoa lên những dòng máu ô uế. Nó giúp Mazaan mở cánh cổng đến Mảnh Thế Giới thứ 50, tối đa là Mảnh thứ 60, của Thế Giới Tan Vỡ.
+tagGDX2EndlessDungeon_Key_04_Blueprint=Bản Thiết Kế: Đá Dẫn Đường Ô Uế
+
+tagGDX2EndlessDungeon_Key_05=Đá Dẫn Đường Thần Thánh
+tagGDX2EndlessDungeon_Key_05_Desc=Đá Dẫn Đường Thần Thánh đã được phục hồi nguyên trạng sức mạnh thần thánh của nó. Nó giúp Mazaan mở cánh cổng đến Mảnh Thế Giới thứ 65, tối đa là Mảnh thứ 75, của Thế Giới Tan Vỡ.^n^nĐá Dẫn Đường này không dành cho những kẻ yếu đuối nhát gan! 
+tagGDX2EndlessDungeon_Key_05_Blueprint=Bản Thiết Kế: Đá Dẫn Đường Thần Thánh
+
+tagGDX2EndlessDungeon_Key_06=Đá Dẫn Đường Tử Thần
+tagGDX2EndlessDungeon_Key_06_Desc=Bị làm ô uế bởi sức mạnh từ cõi chết, viên Đá Dẫn Đường này sẽ giúp người sử dụng nó mở cánh cổng đến những Mảnh Thế Giới vô cùng nguy hiểm, nhưng sẽ không nhận được phần thưởng dù có chinh phục được các Mảnh Thế Giới đó, nên chỉ thích hợp cho những người có khao khát đạt đến đỉnh vinh quang. ^n^nNó cho phép Mazaan mở cánh cổng đến Mảnh thứ 80 và cao hơn trong Thế Giới Tan Vỡ. ^n^nLoại Đá Dẫn Đường nguy hiểm này không dành cho những kẻ yếu đuối.
+tagGDX2EndlessDungeon_Key_06_Blueprint=Bản Thiết Kế: Đá Dẫn Đường Tử Thần
+
+tagGDX2ItemTest={^F}Miss Gazer Man
+tagGDX2ItemTestDesc="Đạt được vương miện trong cuộc thi trang phục Gazer."
+tagGDX2ItemTest2={^F}Mildly Amusing Box
+tagGDX2ItemTest2Desc="Lấy cảm hứng từ những sự kiện có thực."
+
+#Traps
+tagGDX2Trap_A01=Trụ Hàn Băng
+tagGDX2Trap_A02=Trụ Hoả Diệm
+tagGDX2Trap_A03=Trụ Tử Thần
+tagGDX2Trap_A04=Trụ Độc Tố
+tagGDX2Trap_A09=Trụ Thần Bí
+
+tagGDX2Trap_A09_Skill01=Hào Quang Thần Bí
+tagGDX2Trap_A09_Skill01_Desc=Năng Lượng Thần Bí thuần khiết bao quanh khối tinh thể này, tăng sức mạnh cho kẻ địch và gây hại cho bạn.
+
+
+#Notifications
+tagGDX2Notification_FloorActive=Thu thập Linh Hồn Tan Vỡ từ kẻ địch của bạn
+tagGDX2Notification_FloorFinished=Đi đến khu vực kế tiếp
+tagGDX2Notification_BossActive=Tiêu diệt tất cả kẻ địch
+tagGDX2Notification_BossFinished=Nói chuyện với Mazaan để đi tiếp
+tagGDX2Notification_Reward=Phần thưởng đang chờ bạn phía bên kia cánh cổng!
+tagGDX2Notification_Reset=(Tuỳ Chọn) Nói chuyện với Mazaan tại Hội Tam Thần để thử sức một lần nữa
+
+tagGDX2Notification_ArkovianPrison_01=Cửa Sắt gần đó đã mở!
+tagGDX2Notification_TreasureTrap_01=Một linh hồn hiện ra ở gần đây!
+tagGDX2Notification_Special=Hình như có gì đó không đúng...
+tagGDX2Notification_Special02=Bạn nghe thấy tiếng tảng đá dịch chuyển ở gần đây...
+
+
+#Doors
+tagGDX2EndlessDungeonEntrance=Cổng Vào Thế Giới Tan Vỡ
+tagGDX2EndlessDungeonFloorEntrance=Cổng Dịch Chuyển Thế Giới Tan Vỡ
+tagGDX2EndlessDungeonNextFloor=Đi Đến Khu Vực Kế Tiếp
+tagGDX2EndlessDungeonTreasureRoom=Cổng Vào Kho Tàng Vĩnh Hằng
+tagGDX2EndlessDungeonExit=Quay Lại Lục Địa Cairn
+
+
+#Rewards
+tagGDX2Item_ChestA01=Rương Lữ Hành
+tagGDX2Item_ChestB01=Rương Vô Địch
+tagGDX2Item_ChestC01=Rương Khải Hoàn
+tagGDX2Item_ChestD01=Rương Tinh Xảo
+tagGDX2Item_ChestE01=Rương Anh Hùng
+tagGDX2Item_ChestF01=Rương Quả Cảm
+tagGDX2Item_ChestG01=Rương Vĩ Đại
+tagGDX2Item_ChestH01=Rương Tối Thượng
+tagGDX2Item_ChestI01=Rương Lộng Lẫy
+tagGDX2Item_ChestJ01=Rương Huy Hoàng
+tagGDX2Item_ChestK01=Rương Siêu Việt
+tagGDX2Item_ChestL01=Kho Tàng Kình Địch
+tagGDX2Item_ChestM01=Kho Tàng Thăng Thiên
+tagGDX2Item_ChestN01=Kho Tàng Thần Bí
+tagGDX2Item_ChestO01=Kho Tàng Thần Thánh
+tagGDX2Item_ChestP01=Kho Tàng Thượng Cổ
+tagGDX2Item_ChestQ01=Kho Tàng Vĩnh Hằng
+
+tagGDX2Item_SpecialChestA01=Bí Mật Của Thế Giới Tan Vỡ
+tagGDX2Item_SpecialChestA02=Lễ Vật Từ Thế Giới Tan Vỡ

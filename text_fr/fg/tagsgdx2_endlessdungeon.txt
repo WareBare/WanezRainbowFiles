@@ -1,0 +1,237 @@
+#Region Names
+tagGDX2MapEndlessDungeon=Le Royaume Fragmenté
+tagGDX2MapEndlessBoss=Domaine du Gardien Fragmenté
+tagGDX2MapEndlessTreasure=Splendeurs du Royaume Fragmenté
+
+#Shattered Bosses
+tagGDX2EndlessDungeon_Boss01=Directeur Kriev, Gardien Fragmenté
+tagGDX2EndlessDungeon_Boss02=Darius Connolay, Âme Fragmentée
+tagGDX2EndlessDungeon_Boss03=Karriv le Brisé
+tagGDX2EndlessDungeon_Boss03B=Âme de Karriv
+tagGDX2EndlessDungeon_Boss04=Ekket'Zal, Annonciateur de Yugol
+tagGDX2EndlessDungeon_Boss05=Theodin Maurin, Modeleur des Fragmentés
+tagGDX2EndlessDungeon_Boss06=Intendant Fragmenté
+tagGDX2EndlessDungeon_Boss07=Lucian, Commandant des Fragmentés
+tagGDX2EndlessDungeon_Boss08=Alkamir, Exécuteur Fragmenté
+tagGDX2EndlessDungeon_Boss09=Shar'Zal, Jeune descendant de Yugol
+tagGDX2EndlessDungeon_Boss10=Gargaban, Cœur Fragmenté
+tagGDX2EndlessDungeon_Boss11=Sentinelle Fragmentée
+tagGDX2EndlessDungeon_Boss12=Exilée Fragmentée
+tagGDX2EndlessDungeon_Boss13=Salazin la Lame Fragmentée
+tagGDX2EndlessDungeon_Boss14=Hinass le Fragmentomorphe
+tagGDX2EndlessDungeon_Boss15=Conservateur des Portes Fragmentées
+tagGDX2EndlessDungeon_Boss16=Manifestation de la Faim
+tagGDX2EndlessDungeon_Boss16_Tentacle=Tentacules affamés
+tagGDX2EndlessDungeon_Boss16_Void=Vide affamé
+
+tagGDX2EndlessDungeon_Special01=Fanatique ~ Culte de la Mine
+tagGDX2EndlessDungeon_Special02=Contemplateur Premier
+tagGDX2EndlessDungeon_Special03=Chercheur des Damnés
+tagGDX2EndlessDungeon_Special04=Crate Entertainment
+tagGDX2EndlessDungeon_Special05=Caisse sans prétention
+tagGDX2EndlessDungeon_Special06=Caisse d'All et Pendragon
+tagGDX2EndlessDungeon_Special07=Asticot surdimensionné parfaitement ordinaire
+tagGDX2EndlessDungeon_Special07B=Asticot surdimensionné
+tagGDX2EndlessDungeon_Special08=Esprit de Crate
+tagGDX2EndlessDungeon_Special09=Dromadaire d'os blanchi
+tagGDX2EndlessDungeon_Special10=Dromadaire d'os blanchi ~ Champion
+tagGDX2EndlessDungeon_Special11=Dromadaire d'os blanchi ~ Guetteur
+tagGDX2EndlessDungeon_Special12=Asticot mort de faim
+tagGDX2EndlessDungeon_Special13=Asticot gonflé à bloc
+tagGDX2EndlessDungeon_Special14=Asticot ballonné
+tagGDX2EndlessDungeon_Special15=Asticot sur-nourri
+tagGDX2EndlessDungeon_Special16=Dévoreur instable
+tagGDX2EndlessDungeon_Special17=Dévoreur ballonné
+tagGDX2EndlessDungeon_Special18=Goulu
+
+tagGDX2EndlessDungeon_Lever01=Levier rouge
+tagGDX2EndlessDungeon_Lever02=Levier vert
+tagGDX2EndlessDungeon_Lever03=Levier bleu
+tagGDX2EndlessDungeon_Lever04=Levier jaune
+tagGDX2EndlessDungeon_Lever05=Levier pourpre
+tagGDX2EndlessDungeon_Lever06=Levier blanc
+tagGDX2EndlessDungeon_Door01=Herse enchantée
+tagGDX2EndlessDungeon_Door01_Lock= {^R} ~ Verrouillé par des Leviers alentour
+
+
+tagGDX2EndlessDungeon_Boss_Skill01=Présence affamante
+tagGDX2EndlessDungeon_Boss_Skill01_Desc=Les ténèbres affamantes vous attirent à l'intérieur, réduisant votre Santé.
+
+tagGDX2EndlessDungeon_Boss_Summon01=Ver céleste
+tagGDX2EndlessDungeon_Boss_Summon02=Ténèbres affamantes
+tagGDX2EndlessDungeon_Boss_Summon02_Skill=Ténèbres affamantes
+tagGDX2EndlessDungeon_Boss_Summon02_Skill_Desc=Le frisson affamant des ténèbres infinies vous consume... lentement...
+
+tagGDX2EndlessDungeon_S201=Bouclier complètement normal
+tagGDX2EndlessDungeon_S201_Desc="Les gauchers comprendront."
+tagGDX2EndlessDungeon_S202={^L}Hallebarde d'os blanchi
+tagGDX2EndlessDungeon_S203={^I}Anneau de Leovinus
+tagGDX2EndlessDungeon_S203_Desc="Un anneau spectaculairement préservé fait d'un étrange matériau très malléable. Semble tout bête."
+
+
+#NPCs
+tagGDX2EndlessDungeon_NPC_Event01=Mazaan, Gardien des Portails
+
+tagGDX2EndlessDungeon_NPC_Merchant01=Ullana
+tagGDX2EndlessDungeon_ StoreTitle_Merchant01=Camelot Fragmenté
+tagGDX2EndlessDungeon_ StoreTitle_Merchant02=Écuyer Fragmenté
+tagGDX2EndlessDungeon_ StoreTitle_Merchant03=Chevalier Fragmenté
+tagGDX2EndlessDungeon_ StoreTitle_Merchant04=Jeune fille Fragmentée
+tagGDX2EndlessDungeon_ StoreTitle_Merchant05=Gardien Fragmenté
+
+
+tagGDX2EndlessDungeon_NPC_Smith01=Ikarrod
+tagGDX2EndlessDungeon_StoreTitle_Smith01=Forgeron maudit
+tagGDX2EndlessDungeon_StoreDesc_Smith01_1={}Don de la Non-vie
+tagGDX2EndlessDungeon_StoreDesc_Smith01_2=Ikarrod est détenteur d'un savoir en forge de plusieurs siècles, renforcé par son... état d'existence assez unique.
+tagGDX2EndlessDungeon_StoreDesc_Smith01_3= 
+tagGDX2EndlessDungeon_StoreDesc_Smith01_4=Les Armes, Armures et Accessoires forgées sont imprégnés d'une des propriétés suivantes :
+
+tagGDX2EndlessDungeon_NPC_Smuggler01=Agnath
+tagGDX2EndlessDungeon_StoreTitle_Smuggler01=Contrebandier immortel
+
+tagGDX2EndlessDungeon_NPC_Reallocator01=Rathia
+tagGDX2EndlessDungeon_StoreTitle_Reallocator01=Guide spirituel
+
+tagGDX2EndlessDungeon_NPC_Inventor01=Laduna
+tagGDX2EndlessDungeon_StoreTitle_Inventor01=Inventeur fragmenté
+
+tagGDX2EndlessDungeon_NPC_PowerUps01=Callagadra, Jeune descendant des sables
+
+#Shrines
+tagGDX2EndlessDungeon_Shrine01=Autel d'Azrakaa
+tagGDX2EndlessDungeon_Shrine01_Desc=Passez un pacte avec Azrakaa pour augmenter votre vitesse de déplacement et projeter des lames spectrales sur vos ennemis avec vos attaques.
+tagGDX2EndlessDungeon_Shrine01Skill=Arrangement d'Azrakaa
+tagGDX2EndlessDungeon_Shrine01Skill_Desc=Vous avez convenu d'un arrangement avec Azrakaa. Votre vitesse de déplacement est accrue, et vos attaques projettent des lames spectrales sur vos ennemis.
+tagGDX2EndlessDungeon_Shrine01SkillProc=Lame spectrale
+
+tagGDX2EndlessDungeon_Shrine02=Autel d'Oleron
+tagGDX2EndlessDungeon_Shrine02_Desc=Laissez-vous envahir par la soif de sang d'Oleron pour augmenter votre vitesse de déplacement et considérablement améliorer votre % de capacité offensive.
+tagGDX2EndlessDungeon_Shrine02Skill=Soif de sang d'Oleron
+tagGDX2EndlessDungeon_Shrine02Skill_Desc=La soif de sang d'Oleron vous envahit. Votre vitesse de déplacement est accrue et votre % de capacité offensive est considérablement amélioré.
+
+tagGDX2EndlessDungeon_Shrine03=Autel de Rattosh
+tagGDX2EndlessDungeon_Shrine03_Desc=Obtenez le pouvoir du gardien du Voile pour augmenter votre vitesse de déplacement et siphonner la santé de vos ennemis avec vos attaques.
+tagGDX2EndlessDungeon_Shrine03Skill=Voile de Rattosh
+tagGDX2EndlessDungeon_Shrine03Skill_Desc=Vous détenez le pouvoir du Voile. Votre vitesse de déplacement est accrue et vos attaques siphonnent la santé de vos ennemis.
+tagGDX2EndlessDungeon_Shrine03SkillProc=Drain de vie
+
+tagGDX2EndlessDungeon_Shrine04=Autel d'Amatok
+tagGDX2EndlessDungeon_Shrine04_Desc=Absorbez la chaleur alentour pour augmenter votre vitesse de déplacement et déclencher occasionnellement une explosion de froid quand vous subissez des attaques.
+tagGDX2EndlessDungeon_Shrine04Skill=Murmure d'Amatok
+tagGDX2EndlessDungeon_Shrine04Skill_Desc=Vous avez absorbé la chaleur alentour. Votre vitesse de déplacement est accrue, et les attaques que vous subissez déclenchent parfois une explosion de froid.
+tagGDX2EndlessDungeon_Shrine04SkillProc=Explosion de froid
+
+tagGDX2EndlessDungeon_Shrine05=Autel de la Mort
+tagGDX2EndlessDungeon_Shrine05_Desc=Passez un pacte avec la Mort pour augmenter votre vitesse de déplacement et devenir invulnérable.
+tagGDX2EndlessDungeon_Shrine05Skill=Désirs mortels
+tagGDX2EndlessDungeon_Shrine05Skill_Desc=Vous avez passé un pacte avec la Mort. Votre vitesse de déplacement est accrue et vous êtes invulnérable.
+
+
+#Powerups
+tagGDX2EndlessDungeon_Powerup01=Essence du Royaume Fragmenté
+tagGDX2EndlessDungeon_Powerup01_Desc=Vous avez absorbé une âme du Royaume Fragmenté, ce qui vous confère un vaste pouvoir et une dureté pour une brève période. Cet effet s'accumule jusqu'à 5 fois, avec davantage d'accumulations possibles dans les Fragments supérieurs.
+tagGDX2EndlessDungeon_Powerup02_Desc=Vous avez absorbé une âme du Royaume Fragmenté, ce qui vous confère un vaste pouvoir et une dureté pour une brève période. Cet effet s'accumule jusqu'à 8 fois, avec davantage d'accumulations possibles dans les Fragments supérieurs.
+tagGDX2EndlessDungeon_Powerup03_Desc=Vous avez absorbé une âme du Royaume Fragmenté, ce qui vous confère un vaste pouvoir et une dureté pour une brève période. Cet effet s'accumule jusqu'à 9 fois, avec davantage d'accumulations possibles dans les Fragments supérieurs.
+tagGDX2EndlessDungeon_Powerup04_Desc=Vous avez absorbé une âme du Royaume Fragmenté, ce qui vous confère un vaste pouvoir et une dureté pour une brève période. Cet effet s'accumule jusqu'à 10 fois.
+
+
+#Items
+tagGDX2EndlessDungeon_Essence_01=Âme fragmentée
+tagGDX2EndlessDungeon_Essence_02=Âme fragmentée puissante
+tagGDX2EndlessDungeon_Essence_03=Âme céleste fragmentée
+tagGDX2EndlessDungeon_Essence_04=Âme fragmentée accablante
+
+tagGDX2EndlessDungeon_Key_01=Borne fragmentée
+tagGDX2EndlessDungeon_Key_01_Desc=La Borne fragmentée offraient autrefois un incroyable potentiel. Elles permettent à Mazaan d'ouvrir la voie à partir du 5e Fragment, jusqu'au 15e Fragment, du Royaume Fragmenté.
+tagGDX2EndlessDungeon_Key_01_Blueprint=Schéma: Borne fragmentée
+
+tagGDX2EndlessDungeon_Key_02=Borne résonnante
+tagGDX2EndlessDungeon_Key_02_Desc=La Borne résonnante luit d'un fragment de son ancien pouvoir. Elle permet à Mazaan d'ouvrir la voie à partir du 20e Fragment, jusqu'au 30e Fragment, du Royaume Fragmenté.
+tagGDX2EndlessDungeon_Key_02_Blueprint=Schéma: Borne résonnante
+
+tagGDX2EndlessDungeon_Key_03=Borne hantée
+tagGDX2EndlessDungeon_Key_03_Desc=La Borne hantée a été imprégnée des esprits des morts. Elle permet à Mazaan d'ouvrir la voie à partir du 35e Fragment, jusqu'au 45e Fragment, du Royaume Fragmenté.
+tagGDX2EndlessDungeon_Key_03_Blueprint=Schéma: Borne hantée
+
+tagGDX2EndlessDungeon_Key_04=Borne profanée
+tagGDX2EndlessDungeon_Key_04_Desc=La Borne profanée a été ointe de sang souillé. Elle permet à Mazaan d'ouvrir la voie à partir du 50e Fragment, jusqu'au 60e Fragment, du Royaume Fragmenté.
+tagGDX2EndlessDungeon_Key_04_Blueprint=Schéma: Borne profanée
+
+tagGDX2EndlessDungeon_Key_05=Borne céleste
+tagGDX2EndlessDungeon_Key_05_Desc=La Borne céleste a été pleinement restaurée jusqu'à son potentiel divin. Elle permet à Mazaan d'ouvrir la voie à partir du 65e Fragment, jusqu'au 75e Fragment, du Royaume Fragmenté. {^n}{ n}Cette borne ne devrait pas être utilisée par les personnes au cœur fragile.
+tagGDX2EndlessDungeon_Key_05_Blueprint=Schéma: Borne céleste
+
+tagGDX2EndlessDungeon_Key_06=Borne d'éternité
+tagGDX2EndlessDungeon_Key_06_Desc=Une borne qui manipule la trame de la réalité pour mieux se greffer dessus. Elle permet à Mazaan d'ouvrir un passage donnant au minimum sur le 80e fragment du Royaume Fragmenté, et au maximum sur le 90e. ^n^nL'usage de cette borne est déconseillé aux faibles d'esprit.
+tagGDX2EndlessDungeon_Key_06_Blueprint=Patron : Borne d'éternité
+
+tagGDX2EndlessDungeon_Key_07=Borne de la Mort
+tagGDX2EndlessDungeon_Key_07_Desc=Souillée par le pouvoir de la Mort, cette borne ouvre désormais la voie vers des dangers insondables n'offrant aucune récompense, si ce n'est la gloire de la conquête. ^n^nElle permet à Mazaan d'ouvrir un passage donnant au minimum sur le 95e fragment du Royaume Fragmenté, et au-delà. ^n^nL'usage de cette borne est déconseillé aux faibles d'esprit.
+tagGDX2EndlessDungeon_Key_07_Blueprint=Patron : Borne de la Mort
+
+
+#Items Test
+tagGDX2ItemTest={^F}Contemplateur des demoiselles
+tagGDX2ItemTestDesc="Un succès qui couronne la tenue du Contemplateur."
+tagGDX2ItemTest2={^F}Boîte légèrement amusante
+tagGDX2ItemTest2Desc="Inspirée par des événements réels."
+
+#Traps
+tagGDX2Trap_A01=Pylône de Gel
+tagGDX2Trap_A02=Pylône infernal
+tagGDX2Trap_A03=Pylône de la Mort
+tagGDX2Trap_A04=Pylône toxique
+tagGDX2Trap_A09=Pylône Inquiétant
+
+tagGDX2Trap_A09_Skill01=Aura Inquiétante
+tagGDX2Trap_A09_Skill01_Desc=Des énergies Inquiétantes brutes entourent ce cristal, donnant de la puissance à vos ennemis tout en vous blessant.
+
+
+#Notifications
+tagGDX2Notification_FloorActive=Rassembler les Âmes fragmentées de vos ennemis
+tagGDX2Notification_FloorFinished=Continuer jusqu'au Portail suivant
+tagGDX2Notification_BossActive=Éliminer tous les ennemis
+tagGDX2Notification_BossFinished=Parler à Mazaan pour poursuivre
+tagGDX2Notification_Reward=Votre Récompense vous attend au delà du prochain Portail
+tagGDX2Notification_Reset=(Optionnel) Parler à Mazaan au sein du Conclave des Trois pour une autre tentative
+
+tagGDX2Notification_ArkovianPrison_01=Une Herse proche s'ouvre !
+tagGDX2Notification_TreasureTrap_01=Une âme se manifeste alentour !
+tagGDX2Notification_Special=Quelque chose semble avoir mal tourné...
+tagGDX2Notification_Special02=Vous entendez un son de pierre qu'on tourne alentour...
+
+
+#Doors
+tagGDX2EndlessDungeonEntrance=Portail vers le Royaume Fragmenté
+tagGDX2EndlessDungeonFloorEntrance=Portail du Royaume Fragmenté
+tagGDX2EndlessDungeonNextFloor=Continuez plus avant
+tagGDX2EndlessDungeonTreasureRoom=Portail vers la Richesse Éternelle
+tagGDX2EndlessDungeonExit=Fuite vers Cairn
+
+
+#Rewards
+tagGDX2Item_ChestA01=Coffre de commis-voyageur
+tagGDX2Item_ChestB01=Coffre de Champion
+tagGDX2Item_ChestC01=Coffre de Triomphant
+tagGDX2Item_ChestD01=Coffre orné
+tagGDX2Item_ChestE01=Coffre héroïque
+tagGDX2Item_ChestF01=Coffre valeureux
+tagGDX2Item_ChestG01=Grand coffre
+tagGDX2Item_ChestH01=Coffre suprême
+tagGDX2Item_ChestI01=Coffre magnifique
+tagGDX2Item_ChestJ01=Coffre glorieux
+tagGDX2Item_ChestK01=Coffre transcendant
+tagGDX2Item_ChestL01=Coffre au trésor de Némésis
+tagGDX2Item_ChestM01=Coffre au trésor ascensionné
+tagGDX2Item_ChestN01=Coffre au trésor Inquiétant
+tagGDX2Item_ChestO01=Coffre au trésor Céleste
+tagGDX2Item_ChestP01=Coffre au trésor Primordial
+tagGDX2Item_ChestQ01=Coffre au trésor Éternel
+tagGDX2Item_ChestR01=Trésor d'outre-monde
+tagGDX2Item_ChestS01=Trésor de demi-dieu
+
+tagGDX2Item_SpecialChestA01=Secrets des Royaumes Fragmentés
+tagGDX2Item_SpecialChestA02=Dons des Royaumes Fragmentés
+
+

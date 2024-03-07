@@ -1,0 +1,235 @@
+#Region Names
+tagGDX2MapEndlessDungeon=Das Erschütterte Reich
+tagGDX2MapEndlessBoss=Domäne des Erschütterten Wächters
+tagGDX2MapEndlessTreasure=Herrlichkeiten des Erschütterten Reichs
+
+#Shattered Bosses
+tagGDX2EndlessDungeon_Boss01=Aufseher Kriev, erschütterter Wächter
+tagGDX2EndlessDungeon_Boss02=Darius Connolay, erschütterte Seele
+tagGDX2EndlessDungeon_Boss03=Karriv der Gebrochene
+tagGDX2EndlessDungeon_Boss03B=Karrivs Seele
+tagGDX2EndlessDungeon_Boss04=Ekket'Zal, Yugols Vorbote
+tagGDX2EndlessDungeon_Boss05=Theodin Maurin, erschütterter Former
+tagGDX2EndlessDungeon_Boss06=Erschütterter Diener
+tagGDX2EndlessDungeon_Boss07=Lucian, erschütterter Commander
+tagGDX2EndlessDungeon_Boss08=Alkamir, erschütterter Vollstrecker
+tagGDX2EndlessDungeon_Boss09=Shar'Zal, Yugols Nachkomme
+tagGDX2EndlessDungeon_Boss10=Gargaban, erschüttertes Herz
+tagGDX2EndlessDungeon_Boss11=Erschütterter Wächter
+tagGDX2EndlessDungeon_Boss12=Erschütterte Verbannte
+tagGDX2EndlessDungeon_Boss13=Salazin, die erschütterte Klinge
+tagGDX2EndlessDungeon_Boss14=Erschütterter Former Hinass
+tagGDX2EndlessDungeon_Boss15=Wächter der Erschütterten Tore
+tagGDX2EndlessDungeon_Boss16=Manifestation des Hungers
+tagGDX2EndlessDungeon_Boss16_Tentacle=Hungriger Tentakel
+tagGDX2EndlessDungeon_Boss16_Void=Hungrige Leere
+
+tagGDX2EndlessDungeon_Special01=Fanatiker ~ Kult der Mine
+tagGDX2EndlessDungeon_Special02=Gazer Prime
+tagGDX2EndlessDungeon_Special03=Sucher der Verdammten
+tagGDX2EndlessDungeon_Special04=Crate of Entertainment
+tagGDX2EndlessDungeon_Special05=Bescheidene Kiste
+tagGDX2EndlessDungeon_Special06=GIB MIR EINEN NAMEN
+tagGDX2EndlessDungeon_Special07=Vollkommen gewöhnliche übergroße Made
+tagGDX2EndlessDungeon_Special07B=Übergroße Made
+tagGDX2EndlessDungeon_Special08=Der Geist von Crate
+tagGDX2EndlessDungeon_Special09=Bonebleach-Kamel
+tagGDX2EndlessDungeon_Special10=Bonebleach-Kamel ~ Champion
+tagGDX2EndlessDungeon_Special11=Bonebleach-Kamel ~ Wächter
+tagGDX2EndlessDungeon_Special12=Verhungerte Made
+tagGDX2EndlessDungeon_Special13=Brennende Made
+tagGDX2EndlessDungeon_Special14=Aufgedunsene Made
+tagGDX2EndlessDungeon_Special15=Überfütterte Made
+tagGDX2EndlessDungeon_Special16=Instabiler Verschlinger
+tagGDX2EndlessDungeon_Special17=Aufgedunsener Verschlinger
+tagGDX2EndlessDungeon_Special18=Hungerleider
+
+tagGDX2EndlessDungeon_Lever01=Roter Hebel
+tagGDX2EndlessDungeon_Lever02=Grüner Hebel
+tagGDX2EndlessDungeon_Lever03=Blauer Hebel
+tagGDX2EndlessDungeon_Lever04=Gelber Hebel
+tagGDX2EndlessDungeon_Lever05=Lilafarbener Hebel
+tagGDX2EndlessDungeon_Lever06=Weißer Hebel
+tagGDX2EndlessDungeon_Door01=Verzaubertes Fallgitter
+tagGDX2EndlessDungeon_Door01_Lock= {^R} ~ von Hebeln in der Nähe verschlossen
+
+
+tagGDX2EndlessDungeon_Boss_Skill01=Hungrige Präsenz
+tagGDX2EndlessDungeon_Boss_Skill01_Desc=Die hungrige Finsternis zieht dich an und verringert deine Gesundheit.
+
+tagGDX2EndlessDungeon_Boss_Summon01=Himmlische Made
+tagGDX2EndlessDungeon_Boss_Summon02=Hungrige Finsternis
+tagGDX2EndlessDungeon_Boss_Summon02_Skill=Hungrige Finsternis
+tagGDX2EndlessDungeon_Boss_Summon02_Skill_Desc=Der hungrige Frost der unendlichen Finsternis verschlingt dich... langsam....
+
+tagGDX2EndlessDungeon_S201=Ganz normaler Schild
+tagGDX2EndlessDungeon_S201_Desc="Linkshänder werden es verstehen."
+tagGDX2EndlessDungeon_S202={^L}Bonebleach-Hellebarde
+tagGDX2EndlessDungeon_S203={^I}Leovinus' Ring
+tagGDX2EndlessDungeon_S203_Desc="Ein erstaunlich gut erhaltener Ring, der aus einem sehr verformbaren Material angefertigt wurde. Sieht ziemlich albern aus."
+
+
+#NPCs
+tagGDX2EndlessDungeon_NPC_Event01=Mazaan, Wächter der Portale
+
+tagGDX2EndlessDungeon_NPC_Merchant01=Ullana
+tagGDX2EndlessDungeon_ StoreTitle_Merchant01=Erschütterte Händlerin
+tagGDX2EndlessDungeon_ StoreTitle_Merchant02=Erschütterter Knappe
+tagGDX2EndlessDungeon_ StoreTitle_Merchant03=Erschütterter Ritter
+tagGDX2EndlessDungeon_ StoreTitle_Merchant04=Erschütterte Maid
+tagGDX2EndlessDungeon_ StoreTitle_Merchant05=Erschütterter Wächter
+
+
+tagGDX2EndlessDungeon_NPC_Smith01=Ikarrod
+tagGDX2EndlessDungeon_StoreTitle_Smith01=Verfluchter Schmied
+tagGDX2EndlessDungeon_StoreDesc_Smith01_1={}Geschenk des Unlebens
+tagGDX2EndlessDungeon_StoreDesc_Smith01_2=Ikarrod verfügt durch seinen eher einmaligen... Existenzzustand über ein jahrhundertelanges Schmiedewissen.
+tagGDX2EndlessDungeon_StoreDesc_Smith01_3= 
+tagGDX2EndlessDungeon_StoreDesc_Smith01_4=Hergestellten Waffen, Rüstungen und Zubehör wird eine der folgenden Eigenschaften verliehen:
+
+tagGDX2EndlessDungeon_NPC_Smuggler01=Agnath
+tagGDX2EndlessDungeon_StoreTitle_Smuggler01=Unsterblicher Schmuggler
+
+tagGDX2EndlessDungeon_NPC_Reallocator01=Rathia
+tagGDX2EndlessDungeon_StoreTitle_Reallocator01=Geistführerin
+
+tagGDX2EndlessDungeon_NPC_Inventor01=Laduna
+tagGDX2EndlessDungeon_StoreTitle_Inventor01=Erschütterte Erfinderin
+
+tagGDX2EndlessDungeon_NPC_PowerUps01=Callagadra, Nachkomme des Sandes
+
+#Shrines
+tagGDX2EndlessDungeon_Shrine01=Azrakaas Schrein
+tagGDX2EndlessDungeon_Shrine01_Desc=Gehe einen Pakt mit Azrakaa ein, der dir ein erhöhtes Bewegungstempo gewährt und dazu führt, dass durch deine Angriffe Spektralklingen auf deine Feinde verschossen werden.
+tagGDX2EndlessDungeon_Shrine01Skill=Azrakaas Abmachung
+tagGDX2EndlessDungeon_Shrine01Skill_Desc=Du hast mit Azrakaa eine Abmachung getroffen, die dir ein erhöhtes Bewegungstempo gewährt und dazu führt, dass durch deine Angriffe Spektralklingen auf deine Feinde verschossen werden.
+tagGDX2EndlessDungeon_Shrine01SkillProc=Spektralklinge
+
+tagGDX2EndlessDungeon_Shrine02=Olerons Schrein
+tagGDX2EndlessDungeon_Shrine02_Desc=Erfülle dich mit Olerons Blutrausch, der dir ein erhöhtes Bewegungstempo gewährt und deine Angriffsfähigkeit stark erhöht.
+tagGDX2EndlessDungeon_Shrine02Skill=Olerons Blutrausch
+tagGDX2EndlessDungeon_Shrine02Skill_Desc=Du bist von Olerons Blutrausch erfüllt, der dir ein erhöhtes Bewegungstempo gewährt und deine Angriffsfähigkeit stark erhöht.
+
+tagGDX2EndlessDungeon_Shrine03=Rattoshs Schrein
+tagGDX2EndlessDungeon_Shrine03_Desc=Erlange die Kraft des Wächters des Schleiers, die dir ein erhöhtes Bewegungstempo gewährt und dafür sorgt, dass deine Angriffe deinen Feinden Leben entziehen.
+tagGDX2EndlessDungeon_Shrine03Skill=Rattoshs Schleier
+tagGDX2EndlessDungeon_Shrine03Skill_Desc=Du hast die Macht des Schleiers, die dir ein erhöhtes Bewegungstempo gewährt und dafür sorgt, dass deine Angriffe deinen Feinden Leben entziehen.
+tagGDX2EndlessDungeon_Shrine03SkillProc=Aderlass
+
+tagGDX2EndlessDungeon_Shrine04=Amatoks Schrein
+tagGDX2EndlessDungeon_Shrine04_Desc=Ziehe die Wärme aus der Luft in der Nähe ab, um ein erhöhtes Bewegungstempo zu erhalten und dafür zu sorgen, dass Angriffe auf dich gelegentlich eine Gefrierende Explosion auslösen.
+tagGDX2EndlessDungeon_Shrine04Skill=Amatoks Flüstern
+tagGDX2EndlessDungeon_Shrine04Skill_Desc=Du hast die Wärme aus der Luft in der Nähe abgezogen, um ein erhöhtes Bewegungstempo zu erhalten und dafür zu sorgen, dass Angriffe auf dich gelegentlich eine Gefrierende Explosion auslösen.
+tagGDX2EndlessDungeon_Shrine04SkillProc=Gefrierende Explosion
+
+tagGDX2EndlessDungeon_Shrine05=Schrein des Todes
+tagGDX2EndlessDungeon_Shrine05_Desc=Schließe einen Handel mit dem Tod ab, der dir ein erhöhtes Bewegungstempo gewährt und dich unbesiegbar macht.
+tagGDX2EndlessDungeon_Shrine05Skill=Sterbliche Begierden
+tagGDX2EndlessDungeon_Shrine05Skill_Desc=Du hast einen Handel mit dem Tod abgeschlossen, der dir ein erhöhtes Bewegungstempo gewährt und dich unbesiegbar macht.
+
+
+#Powerups
+tagGDX2EndlessDungeon_Powerup01=Essenz des Erschütterten Reichs
+tagGDX2EndlessDungeon_Powerup01_Desc=Du hast eine Seele des Erschütterten Reichs absorbiert. Sie verleiht dir für kurze Zeit enorme Kraft und Zähigkeit. ^oDieser Effekt stapelt sich bis zu 5 Mal. In höheren Fragmenten ist eine höhere Stapelung möglich.
+tagGDX2EndlessDungeon_Powerup02_Desc=Du hast eine Seele des Erschütterten Reichs absorbiert. Sie verleiht dir für kurze Zeit enorme Kraft und Zähigkeit. ^oDieser Effekt stapelt sich bis zu 8 Mal. In höheren Fragmenten ist eine höhere Stapelung möglich.
+tagGDX2EndlessDungeon_Powerup03_Desc=Du hast eine Seele des Erschütterten Reichs absorbiert. Sie verleiht dir für kurze Zeit enorme Kraft und Zähigkeit. ^oDieser Effekt stapelt sich bis zu 9 Mal. In höheren Fragmenten ist eine höhere Stapelung möglich.
+tagGDX2EndlessDungeon_Powerup04_Desc=Du hast eine Seele des Erschütterten Reichs absorbiert. Sie verleiht dir für kurze Zeit enorme Kraft und Zähigkeit. ^oDieser Effekt stapelt sich bis zu 10 Mal.
+
+
+#Items
+tagGDX2EndlessDungeon_Essence_01=Erschütterte Seele
+tagGDX2EndlessDungeon_Essence_02=Mächtige erschütterte Seele
+tagGDX2EndlessDungeon_Essence_03=Himmlische erschütterte Seele
+tagGDX2EndlessDungeon_Essence_04=Überwältigende erschütterte Seele
+
+tagGDX2EndlessDungeon_Key_01=Erschütterter Wegstein
+tagGDX2EndlessDungeon_Key_01_Desc=Früher gewährte der Erschütterte Wegstein unglaubliches Potenzial. Mit seiner Hilfe kann Mazaan den Weg ab dem 5. bis zum 15. Fragment des Erschütterten Reichs öffnen.
+tagGDX2EndlessDungeon_Key_01_Blueprint=Bauplan: Erschütterter Wegstein
+
+tagGDX2EndlessDungeon_Key_02=Resonierender Wegstein
+tagGDX2EndlessDungeon_Key_02_Desc=Der resonierende Wegstein schimmert mit einem Bruchteil seiner früheren Kraft. Mit seiner Hilfe kann Mazaan den Weg ab dem 20. bis zum 30. Fragment des Erschütterten Reichs öffnen.
+tagGDX2EndlessDungeon_Key_02_Blueprint=Bauplan: Resonierender Wegstein
+
+tagGDX2EndlessDungeon_Key_03=Verfluchter Wegstein
+tagGDX2EndlessDungeon_Key_03_Desc=Der verfluchte Wegstein wurde mit den Geistern der Toten verzaubert. Mit seiner Hilfe kann Mazaan den Weg ab dem 35. bis zum 45. Fragment des Erschütterten Reichs öffnen.
+tagGDX2EndlessDungeon_Key_03_Blueprint=Bauplan: Verfluchter Wegstein
+
+tagGDX2EndlessDungeon_Key_04=Entweihter Wegstein
+tagGDX2EndlessDungeon_Key_04_Desc=Der entweihte Wegstein wurde in verdorbenem Blut geweiht. Mit seiner Hilfe kann Mazaan den Weg ab dem 50. bis zum 60. Fragment des Erschütterten Reichs öffnen.
+tagGDX2EndlessDungeon_Key_04_Blueprint=Bauplan: Entweihter Wegstein
+
+tagGDX2EndlessDungeon_Key_05=Himmlischer Wegstein
+tagGDX2EndlessDungeon_Key_05_Desc=Das göttliche Potenzial des himmlischen Wegsteins wurde vollständig wiederhergestellt. Mit seiner Hilfe kann Mazaan den Weg ab dem 65. bis zum 75. Fragment des Erschütterten Reichs öffnen. ^n^nZartbesaitete sollten diesen Wegstein nicht verwenden.
+tagGDX2EndlessDungeon_Key_05_Blueprint=Bauplan: Himmlischer Wegstein
+
+tagGDX2EndlessDungeon_Key_06=Ewiger Wegstein
+tagGDX2EndlessDungeon_Key_06_Desc=Ein Wegstein, der die Realität um ihn herum verändert. Er ermöglicht Mazaan, den Weg mindestens bis zum 80., wenn nicht sogar 90. Fragment des Zerschmetterten Reichs freizugeben. ^n^nZartbesaitete sollten diesen Wegstein nicht verwenden.
+tagGDX2EndlessDungeon_Key_06_Blueprint=Bauplan: Ewiger Wegstein
+
+tagGDX2EndlessDungeon_Key_07=Wegstein des Todes
+tagGDX2EndlessDungeon_Key_07_Desc=Der von der Macht des Todes befleckte Wegstein öffnet nun den Weg zu unergründlichen Gefahren, auf dem dich keine Belohnungen außer dem Ruhm der Eroberung erwarten. ^n^nEr ermöglicht Mazaan, den Weg mindestens bis zum 95. Fragment des Zerschmetterten Reichs und darüber hinaus freizugeben. ^n^nZartbesaitete sollten diesen Wegstein nicht verwenden.
+tagGDX2EndlessDungeon_Key_07_Blueprint=Bauplan: Wegstein des Todes
+
+tagGDX2ItemTest={^F}Miss Gazer Man
+tagGDX2ItemTestDesc="Eine krönende Errungenschaft in der Gazer-Kleidung."
+tagGDX2ItemTest2={^F}Halbwegs amüsante Box
+tagGDX2ItemTest2Desc="Beruht auf wahren Begebenheiten."
+
+#Traps
+tagGDX2Trap_A01=Frostpylon
+tagGDX2Trap_A02=Höllenpylon
+tagGDX2Trap_A03=Todespylon
+tagGDX2Trap_A04=Giftpylon
+tagGDX2Trap_A09=Übernatürlicher Pylon
+
+tagGDX2Trap_A09_Skill01=Übernatürliche Aura
+tagGDX2Trap_A09_Skill01_Desc=Die reinen übernatürlichen Energien, die diesen Kristall umgeben, lassen deine Feinde stärker werden und fügen dir Schaden zu.
+
+
+#Notifications
+tagGDX2Notification_FloorActive=Sammle Erschütterte Seelen deiner Feinde auf
+tagGDX2Notification_FloorFinished=Begib dich zum nächsten Portal
+tagGDX2Notification_BossActive=Besiege alle Feinde
+tagGDX2Notification_BossFinished=Sprich mit Mazaan, um fortzufahren
+tagGDX2Notification_Reward=Deine Belohnung erwartet dich hinter dem nächsten Portal
+tagGDX2Notification_Reset=(Optional) Sprich mit Mazaan im Konklave der Drei für einen weiteren Versuch
+
+tagGDX2Notification_ArkovianPrison_01=Ein Fallgitter öffnet sich in der Nähe!
+tagGDX2Notification_TreasureTrap_01=Eine Seele manifestiert sich in der Nähe!
+tagGDX2Notification_Special=Etwas scheint schiefgegangen zu sein...
+tagGDX2Notification_Special02=Du hörst das Geräusch eines Steins, der sich in der Nähe verschiebt...
+
+
+#Doors
+tagGDX2EndlessDungeonEntrance=Portal zum Erschütterten Reich
+tagGDX2EndlessDungeonFloorEntrance=Portal des Erschütterten Reichs
+tagGDX2EndlessDungeonNextFloor=Fortfahren
+tagGDX2EndlessDungeonTreasureRoom=Portal zum ewigen Reichtum
+tagGDX2EndlessDungeonExit=Fluchtweg nach Cairn
+
+
+#Rewards
+tagGDX2Item_ChestA01=Truhe des Wandergesellen
+tagGDX2Item_ChestB01=Truhe des Champions
+tagGDX2Item_ChestC01=Triumphale Truhe
+tagGDX2Item_ChestD01=Verzierte Truhe
+tagGDX2Item_ChestE01=Heldenhafte Truhe
+tagGDX2Item_ChestF01=Tapfere Truhe
+tagGDX2Item_ChestG01=Großartige Truhe
+tagGDX2Item_ChestH01=Überlegene Truhe
+tagGDX2Item_ChestI01=Prachtvolle Truhe
+tagGDX2Item_ChestJ01=Herrliche Truhe
+tagGDX2Item_ChestK01=Überragende Truhe
+tagGDX2Item_ChestL01=Nemesis-Schatztruhe
+tagGDX2Item_ChestM01=Aufgestiegene Schatztruhe
+tagGDX2Item_ChestN01=Übernatürliche Schatztruhe
+tagGDX2Item_ChestO01=Himmlische Schatztruhe
+tagGDX2Item_ChestP01=Urzeitliche Schatztruhe
+tagGDX2Item_ChestQ01=Ewige Schatztruhe
+tagGDX2Item_ChestR01=Übernatürliche Schatztruhe
+tagGDX2Item_ChestS01=Halbgott-Schatztruhe
+
+tagGDX2Item_SpecialChestA01=Geheimnisse des Erschütterten Reichs
+tagGDX2Item_SpecialChestA02=Gaben des Erschütterten Reichs
+
+

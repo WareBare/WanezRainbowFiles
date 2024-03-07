@@ -1,0 +1,1938 @@
+
+#Weapons
+
+
+tagGDX1WeaponSwordB101={^L}ウェンディゴ クロウ
+tagGDX1WeaponSwordB101Desc="悪臭にまみれた鉤爪。"
+tagGDX1WeaponSwordB102={^L}ウェンディゴ バーブ
+tagGDX1WeaponSwordB102Desc="汚物の滴り落ちる鉤爪。"
+
+tagGDX1WeaponSwordC101={^B}エルゴロスの浄化刃
+tagGDX1WeaponSwordC101_Desc="一度クトーニアンの 手によって 侵された この刃は､ ルミナリの手によって 元の栄光を 取り戻した。"
+tagGDX1WeaponSwordC104={^B}レジョネアの誇り
+
+tagGDX1WeaponSwordD101={^I}死の刃
+tagGDX1WeaponSwordD102={^I}パガールの裏切り
+tagGDX1WeaponSwordD102_Desc="尋問官 パガールが ルミナリの訓練施設で 虚無の力と 結託していた ときほど､ 深い裏切りを感じる ことはなかった。"
+tagGDX1WeaponSwordD105={^I}苦難
+tagGDX1WeaponSwordD106={^I}ブレーズハート
+tagGDX1WeaponSwordD106_Desc="柄には､ 血文字で D と 彫り込まれている。"
+tagGDX1WeaponSwordD107=(S) {^I}ベルゴシアンのスライサー
+
+tagGDX1WeaponSwordF101={^B}マルマス スライサー
+tagGDX1WeaponSwordF102={^B}マルマス ブレイド
+tagGDX1WeaponSwordF103={^B}ウェンディゴ ジョーボーン
+tagGDX1WeaponSwordF104={^I}マルマスの救世主
+
+
+tagGDX1WeaponBluntB101={^L}バルゴールズ ハート
+tagGDX1WeaponBluntB101Desc="バルゴールの石の 心臓は､ 致死的冷気を放つ。"
+tagGDX1WeaponBluntB102={^L}バルゴールズ コア
+tagGDX1WeaponBluntB102Desc="生けるバルゴールの 核は生命 エッセンスを 求め､ もう一度 蘇ることを 可能にする。"
+
+tagGDX1WeaponBluntC101={^B}デッドビーター
+
+tagGDX1WeaponBluntD101={^I}マラコアの注入
+tagGDX1WeaponBluntD101_Desc="ルミナリとの密接な 同盟者である アルカニスト マラコアは､ エルドリッチの 存在に対して 自らの術式によって 戦わんがため､ エレメンタルの炎で この武器を鍛えた。"
+tagGDX1WeaponBluntD103={^I}アマラスタのクラッシャー
+tagGDX1WeaponBluntD104={^I}ザ パムラー
+tagGDX1WeaponBluntD105=(S) {^I}ストーンガード パムラー
+
+tagGDX1WeaponBluntF101={^B}マルマス ウォーハンマー
+tagGDX1WeaponBluntF102={^B}マルマス メイス
+tagGDX1WeaponBluntF103={^B}ウェンディゴ メイス
+tagGDX1WeaponBluntF104={^I}ウェンディゴの遠吠え
+
+tagGDX1WeaponAxeB101={^L}サービターズ スライサー
+tagGDX1WeaponAxeB102={^L}サービターズ コラプター
+tagGDX1WeaponAxeB103={^Y}ブラッドスピル クリーバー
+
+tagGDX1WeaponAxeC101={^B}ハルヴォアの皮剥ぎ
+
+tagGDX1WeaponAxeD101={^I}破壊者の噛みつき
+tagGDX1WeaponAxeD101_Desc="偉大なる破壊者の､ 過去の具現の鉤爪より 造られた。"
+tagGDX1WeaponAxeD103={^I}夜の鉤爪
+tagGDX1WeaponAxeD104={^I}エッジ オブ サニティ
+tagGDX1WeaponAxeD104_Desc="この武器が最終的に 犠牲者を狂わせるか､ あるいは 運び手とさせるか... それは不明である。"
+tagGDX1WeaponAxeD105=(S) {^I}コルバの首斬り斧
+tagGDX1WeaponAxeD106=(S) {^I}コルバの狂乱
+
+tagGDX1WeaponAxeF101={^B}カヴン クリーバー
+tagGDX1WeaponAxeF102={^B}カヴン アックス
+tagGDX1WeaponAxeF103={^B}ウェンディゴ クリーバー
+tagGDX1WeaponAxeF104={^I}ウィッチ ムーン
+
+
+tagGDX1WeaponGun1hB101={^L}ウグデンボーグ ハウラー
+tagGDX1WeaponGun1hB101Desc="ウェンディゴの霊魂が 吹き込まれた。"
+tagGDX1WeaponGun1hB102={^L}ウグデンボーグ ヴェノム ランチャー
+tagGDX1WeaponGun1hB102Desc="それぞれの弾丸が､ ウグデンボーグに棲む 様々な獣から作られた､ 固有の調合剤に 浸されている。"
+tagGDX1WeaponGun1hB103={^Y}ストームサージ ピストル
+
+tagWeaponGun1hC013B={^B}調停者
+tagGDX1WeaponGun1hC101={^B}異端者
+tagGDX1WeaponGun1hC101B={^B}異端者
+tagGDX1WeaponGun1hC102={^B}アルダーの尋問
+tagGDX1WeaponGun1hC102_Desc="異端者狩りと ガルバー'スールの 討伐者として 名を馳せた､ 尋問官 アルダーの サイドアーム。"
+tagGDX1WeaponGun1hC103={^Z}ガルガボルの核
+tagGDX1WeaponGun1hC103_Desc="かつての強力な守護者の 揺らめく炎が､ 今でも核の内で 光を放つ。"
+tagGDX1WeaponGun1hC108={^B}ウルトスのストームランチャー
+tagGDX1WeaponGun1hC110=(S) {^B}ルミナリ サイドアーム
+
+tagGDX1WeaponGun1hD101={^I}モルグールの死命
+tagGDX1WeaponGun1hD101_Desc="マスター モルグールは この拳銃のための 弾薬として､ 腐敗と衰退を 劇的に早める調達者を 作るべく､ ネクロティック パワーと 致死的な毒を 組み合わせた。"
+tagGDX1WeaponGun1hD102={^I}アンデロスの増幅器
+tagGDX1WeaponGun1hD102_Desc="サイドアームは､ 彼のアルケイン ルーンに対する 優れた熟達を さらに高めるため､ 尋問官 アンデロスによって 特別に考案された。"
+tagGDX1WeaponGun1hD103={^I}アルケイナム エレクトロリス
+tagGDX1WeaponGun1hD103_Desc="シルバー タワーの グランド アルカニスト､ マスター アグリヴィックスの 精密な指定 で作られた。"
+tagGDX1WeaponGun1hD107={^I}シンダーコア
+tagGDX1WeaponGun1hD108=(S) {^I}ストロングホールド リボルバー
+tagGDX1WeaponGun1hD109=(S) {^I}闇炎の焼却器
+tagGDX1WeaponGun1hD110=(S) {^I}ダガロンの破壊者
+tagGDX1WeaponGun1hD110_Desc="銃身内部は､ 超自然の力で 弾丸を 推進する ために､ ルーンで 装飾されている。"
+tagGDX1WeaponGun1hD111=(S) {^I}ダガロンの殲滅者
+tagGDX1WeaponGun1hD112={^I}ハガラッドの執行者
+tagGDX1WeaponGun1hD112_Desc="シリンダーには､ 原初の ハガラッドのルーンの 破片が装填されており､ ルーンは 発射ごとに 骨を刺す冷気を 吹き込む。"
+tagGDX1WeaponGun1hD114={^F}ガルガボルの腐敗
+tagGDX1WeaponGun1hD114_Desc="かつては偉大なる 自然の守護者 だった､ 虚無の腐蝕により 永久に汚染したもの。"
+
+tagGDX1WeaponGun1hF101={^B}カヴン ハンドキャノン
+tagGDX1WeaponGun1hF101_Desc="粗雑なデザインでは あるものの､ 魔女団の秘密が この武器に 吹き込まれている。"
+tagGDX1WeaponGun1hF102={^B}カヴン ヴェノムランチャー
+tagGDX1WeaponGun1hF102_Desc="粗雑なデザインでは あるものの､ 魔女団の秘密が この武器に 吹き込まれている。"
+tagGDX1WeaponGun1hF103={^B}ウェンディゴ リピーター
+tagGDX1WeaponGun1hF104={^I}ヘクス ランチャー
+
+
+tagGDX1WeaponGun2hB101={^L}ウグデンボーグ スパークスロワー
+tagGDX1WeaponGun2hB101Desc="スワンプ ゴーレムの石核は､ アルケイン エナジーに曝されたときに 驚くべき順応性を 示すことが 証明され､ 鎧､ 器具､ そして銃の鍛造にも 使用される。"
+tagGDX1WeaponGun2hB102={^L}ウグデンボーグ バイルランチャー
+tagGDX1WeaponGun2hB103={^L}ウグデンボーグ ボルトスロワー
+tagGDX1WeaponGun2hB104={^L}ウグデンボーグ アルケインウィーバー
+tagGDX1WeaponGun2hB105={^Y}フレイムウォーダー ライフル
+
+tagGDX1WeaponGun2hC101={^B}尋問者
+tagGDX1WeaponGun2hC101B={^B}尋問者
+tagGDX1WeaponGun2hC102={^B}スピリット キャノン
+tagGDX1WeaponGun2hC102_Desc="苦痛を受けた魂の エッセンスで 鍛造された。"
+tagGDX1WeaponGun2hC103={^B}バーニング ピュリファイア
+tagGDX1WeaponGun2hC106={^B}アマラスタのブレイドスロワー
+tagGDX1WeaponGun2hC106_Desc="ナイトブレイドの マスター､ アマラスタの 手によって 型に囚われない デザインで 作られた。"
+tagGDX1WeaponGun2hC110={^B}コズミック トーレント
+
+tagWeaponGun2hD001B={^I}魔王
+tagWeaponCrossbow2hD003B={^I}北のウィルム
+tagGDX1WeaponGun2hD101={^I}エルゴロスの召喚者
+tagGDX1WeaponGun2hD102={^I}ドレッドスコーチャー
+tagGDX1WeaponGun2hD102_Desc="この武器から放たれる 強烈な炎は､ 意図した標的と 同程度に､ 使用者にも 危険が及ぶ。"
+tagGDX1WeaponGun2hD104={^I}ギルドアの粉砕器
+tagGDX1WeaponGun2hD104_Desc="ルミナリの秘密が 吹き込まれた この武器は､ 発射ごとに 計り知れない力が 放出される。"
+tagGDX1WeaponGun2hD106={^I}ヴェノムランス
+tagGDX1WeaponGun2hD107=(S) {^I}ルーンバインダーズ スペルスロワー
+
+tagGDX1WeaponGun2hF101={^B}マルマス カービン
+tagGDX1WeaponGun2hF102={^B}マルマス ライフル
+tagGDX1WeaponGun2hF103={^B}ウェンディゴ ステークスロワー
+tagGDX1WeaponGun2hF104={^I}ザ デソレイター
+tagGDX1WeaponGun2hF104_Desc="すべての敵は､ 後ろに続く 遅れた荒廃 にすぎない。"
+
+
+tagGDX1WeaponMelee2hB101={^L}フレッシュワープト コア
+tagGDX1WeaponMelee2hB102={^L}フレッシュワープト シャード
+tagGDX1WeaponMelee2hB103={^Y}ガットクラッシュ ウォーモール
+
+tagGDX1WeaponMelee2hC101={^B}ソウルスプリッター
+tagGDX1WeaponMelee2hC101_Desc="この鎌の刃は､ 肉体以上のものを 引き裂くと 言われている。"
+tagGDX1WeaponMelee2hC102={^B}セサリンの信念
+tagGDX1WeaponMelee2hC107={^B}ウルトスの拳
+
+tagWeaponMelee2hD002B={^I}ギロチン
+tagGDX1WeaponMelee2hD101={^I}死の到達
+tagGDX1WeaponMelee2hD102={^I}死門の守護者
+tagGDX1WeaponMelee2hD102_Desc="ウロボルーク自身が振るったと 噂される この武器の 切先は､ 僅かな接触で 魂を閉じ込める。"
+tagGDX1WeaponMelee2hD103={^I}ルミナリの刃 アルカノア
+tagGDX1WeaponMelee2hD103_Desc="数世紀に渡り 首長に受け継がれて きた､ ルミナリ組織の儀式剣。"
+tagGDX1WeaponMelee2hD107={^I}ガッツマッシャー
+tagGDX1WeaponMelee2hD107_Desc="過去の犠牲者の 臓物によって､ 永久に 濡れている。"
+tagGDX1WeaponMelee2hD108=(S) {^I}アヴェンジャーズ クラッシャー
+
+tagGDX1WeaponMelee2hF101={^B}カヴン ヘッドクラッシャー
+tagGDX1WeaponMelee2hF102={^B}マルマス グレートソード
+tagGDX1WeaponMelee2hF103={^B}ウェンディゴ ディキャピテイター
+tagGDX1WeaponMelee2hF104={^I}ブレーズラッシュ
+
+
+tagGDX1WeaponCaster1hA101={^W}プリザーバー セプター
+tagGDX1WeaponCaster1hA102={^W}レディーマー セプター
+tagGDX1WeaponCaster1hA103={^W}プリザーバー ダガー
+tagGDX1WeaponCaster1hA104={^W}レディーマー ダガー
+
+tagGDX1WeaponCaster1hB101={^L}ウグデンボーグ フレイムストライフ
+tagGDX1WeaponCaster1hB102={^L}ウグデンボーグ チルストライフ
+tagGDX1WeaponCaster1hB103={^L}ウグデンボーグ ストームストライフ
+tagGDX1WeaponCaster1hB104={^L}アセンダント カンデュイト
+tagGDX1WeaponCaster1hB105={^L}アセンダント ソース
+tagGDX1WeaponCaster1hB106={^Y}ライム-ロッテン ワンド
+tagGDX1WeaponCaster1hB107={^Y}デスボーン セプター
+tagGDX1WeaponCaster1hB108={^L}ハート オブ セオディン マルセル
+tagGDX1WeaponCaster1hB108_Desc="支配者の力の 破片は､ 今でも脈打つ。"
+
+tagGDX1WeaponCaster1hC101={^B}破壊者の逆棘
+tagGDX1WeaponCaster1hC102={^B}ジャラヴークの噛みつき
+tagGDX1WeaponCaster1hC102_Desc="ベールそのものを 貫通し 引き裂くと 言われる､ マスター ジャラヴークの 儀式剣。"
+tagGDX1WeaponCaster1hC103={^B}ウルザードの交信器
+tagGDX1WeaponCaster1hC103_Desc="天界の息吹が､ セプターの中に 永遠に閉じ込められた。"
+tagGDX1WeaponCaster1hC104={^B}アルケイン ストーム イヴォーカー
+tagGDX1WeaponCaster1hC105={^B}ガル'ダルヴァーの指
+tagGDX1WeaponCaster1hC105_Desc="堕ちし ガル'ダルヴァーには､ 彼の死刑執行人に 一つだけ 言うべきことが あった。"
+tagGDX1WeaponCaster1hC113={^B}レイジフレイム スペルブレイド
+tagGDX1WeaponCaster1hC114={^B}サイクロニック インヴォーカー
+tagGDX1WeaponCaster1hC115=(S) {^B}ドレッドウォーカー カーバー
+tagGDX1WeaponCaster1hC116={^Z}マルマスのセプター
+tagGDX1WeaponCaster1hC116_Desc="ヴァルバリー港の 崩壊都市の 幻像が､ 心の内に 押し寄せる。"
+
+tagGDX1WeaponCaster1hD101={^I}ドレッドファイア
+tagGDX1WeaponCaster1hD102={^I}ベールピアサー
+tagGDX1WeaponCaster1hD102_Desc="あたかも鍵が ぴたりと穴に はまるように､ 刃は現実の隙間を 奇妙にすり抜ける。"
+tagGDX1WeaponCaster1hD103={^I}ドレッドウィーバー
+tagGDX1WeaponCaster1hD104={^I}チルフレイム イヴォーカー
+tagGDX1WeaponCaster1hD105={^I}エルゴロスのルーン
+tagGDX1WeaponCaster1hD105_Desc="原初の エルゴロスのストーム ボックスから 想起された武器は､ そのルーンによって 飾り立て られている。"
+tagGDX1WeaponCaster1hD106={^I}スペルドリンカー
+tagGDX1WeaponCaster1hD106_Desc="呪文への渇望は､ 容易く着用者に もたらされる。"
+tagGDX1WeaponCaster1hD113={^I}パンデミック
+tagGDX1WeaponCaster1hD114={^I}スパーク オブ リアリティ
+tagGDX1WeaponCaster1hD114_Desc="この武器を覗き込むと､ まるで圧倒的に 広大な虚空を 眺めているようだ。"
+tagGDX1WeaponCaster1hD115=(S) {^I}彷徨える魂の篝火
+tagGDX1WeaponCaster1hD116=(S) {^I}アラガストのストームバインダー
+tagGDX1WeaponCaster1hD117=(S) {^I}デスガード ブレイド
+tagGDX1WeaponCaster1hD118={^F}マルマスの布告
+tagGDX1WeaponCaster1hD118Desc="ヴァルバリー港の 崩壊都市の 幻像が､ 心の内に 押し寄せる。"
+
+tagGDX1WeaponCaster1hF101={^B}カヴン イーサースパーク
+tagGDX1WeaponCaster1hF102={^B}カヴン バイルタッチ
+tagGDX1WeaponCaster1hF103={^B}カヴン スペルウィーバー
+tagGDX1WeaponCaster1hF104={^B}マルマス フレイムキャスター
+tagGDX1WeaponCaster1hF105={^B}マルマス ストームキャスター
+tagGDX1WeaponCaster1hF106={^B}マルマス チルベアラー
+tagGDX1WeaponCaster1hF107={^B}ウェンディゴ ブラッドドリンカー
+tagGDX1WeaponCaster1hF108={^B}ウェンディゴ カオスウィーバー
+tagGDX1WeaponCaster1hF109={^B}ウェンディゴ イーサーウィーバー
+tagGDX1WeaponCaster1hF110={^I}ヘクスフレイム
+tagGDX1WeaponCaster1hF111={^I}ハガラズの鉤爪
+
+
+#Shields
+tagGDX1ShieldB101={^L}コロッサル フォートレス
+tagGDX1ShieldB101Desc="強大な盾に釣り合うよう､ 同じく並外れた 力を要する。"
+tagGDX1ShieldB102={^L}コロッサル ブルワーク
+tagGDX1ShieldB103={^Y}ストーンウォール ディフェンダー
+
+tagGDX1ShieldC101={^B}ドレッドガード
+tagGDX1ShieldC102={^B}レジョネアの非難
+tagGDX1ShieldC102_Desc="この盾の歴史は､ おおよそブラック リージョンと 同様の長さを持つ。"
+tagGDX1ShieldC107={^B}ストームスカージ ブルワーク
+
+tagShieldD002B={^I}ファイナル ストップ
+tagShieldD003B={^I}アンタッチャブル
+tagGDX1ShieldD101={^I}呪われし者の胃
+tagGDX1ShieldD101_Desc="共にウェンディゴの 賜物を受け､ 永久に呪われし 者たち。"
+tagGDX1ShieldD102={^I}エルーランの監視者
+tagGDX1ShieldD102_Desc="石の顔は､ 帝国が危機に 差し迫った ときにのみ､ その目が開くと 言われている。"
+tagGDX1ShieldD103={^I}タリオンの復讐
+tagGDX1ShieldD107={^I}ザ グレイ ナイト
+tagGDX1ShieldD107_Desc="メンヒルの無個性な守護防壁は､ 異端者の集団に 単独で 立ち向かい､ その勝者を 明らかにした。"
+tagGDX1ShieldD108=(S) {^I}オクタヴィアスのブルワーク
+tagGDX1ShieldD109=(S) {^I}ストロングホールド ディフェンダー
+tagGDX1ShieldD110=(S) {^I}スペルスカージ ブルワーク
+tagGDX1ShieldD110_Desc="盾を通って､ 壊滅的な力が 流れ込む。"
+
+tagGDX1ShieldF101={^B}カヴン プロテクター
+tagGDX1ShieldF102={^B}マルマス ディフェンダー
+tagGDX1ShieldF103={^B}ウェンディゴ スピリットガード
+tagGDX1ShieldF104={^I}ラースガード
+
+
+#Focus
+tagGDX1FocusA101={^W}イグザルテッド トウム
+tagGDX1FocusA102={^W}イグザルテッド エフィジー
+tagGDX1FocusA103={^W}プリザーバー アーカイブ
+tagGDX1FocusA104={^W}プリザーバー スフィア
+
+tagGDX1FocusB101={^L}ターノックスズ イーサー トウム
+tagGDX1FocusB101Desc="イーサーの知識が詰め 込まれており､ そのほとんどは 解読不能である。"
+tagGDX1FocusB102={^L}ターノックスズ アルケイン トウム
+tagGDX1FocusB102Desc="ターノックスのみが 読むことの できる､ アルケインの知識で 満たされている。"
+tagGDX1FocusB103={^L}バウンド レイス
+tagGDX1FocusB104={^L}エンスレイブド レイス
+tagGDX1FocusB105={^L}フレッシュワープト トウム
+tagGDX1FocusB105Desc="手の中で､ 大冊がのたうち回る。"
+tagGDX1FocusB106={^L}フレッシュワープト コデックス
+tagGDX1FocusB107={^L}フレッシュワープト アーカイブ
+tagGDX1FocusB108={^Y}スペルショック トウム
+tagGDX1FocusB109={^Y}スモルダリング トウム
+tagGDX1FocusB110={^L}リーフメイン ホーン
+tagGDX1FocusB111={^L}リーフメイン トロフィー
+
+tagGDX1FocusC101={^B}パダラの意志
+tagGDX1FocusC102={^B}ヴィルレント モー
+tagGDX1FocusC102_Desc="腐敗した頭は 不快に満ちた 悪臭を放つが､ それが生み出す 毒は､ それ以上に下劣である。"
+tagGDX1FocusC103={^B}マリゴスタの古写本
+tagGDX1FocusC103_Desc="マリゴスタは､ 精神的エナジーを 破壊的呪文へと 流入させる技術の 達人だった。 彼女は部分的に ネクロマンサーであり､ 部分的に アルカニスト であった。"
+tagGDX1FocusC104={^B}尋問官アバロンの言葉
+tagGDX1FocusC104_Desc="尋問官 アバロンは彼の時代で 最も型破りな尋問官の 一人であり､ 最終的に帝国の安全が 守られる限り､ レリックを 積極的に多用した。 後に､ 彼のやり方を異端と 呼ぶ者もいる。"
+tagGDX1FocusC105={^B}凍風のトウム
+tagGDX1FocusC113={^B}ヘルトウム
+tagGDX1FocusC114={^B}百刃の球
+tagGDX1FocusC114_Desc="本当のトリックは､ 自身を傷つける ことなく その球を 保持することである。"
+tagGDX1FocusC115=(S) {^B}ドレッドウォーカー トウム
+
+tagGDX1FocusD101={^I}忌々しき死神
+tagGDX1FocusD101_Desc="鎌は､ 未練を持った魂が 近くにいると､ 僅かに震える。"
+tagGDX1FocusD102={^I}伝染病
+tagGDX1FocusD103={^I}フィーンドゲイズ トウム
+tagGDX1FocusD104={^I}真実の古写本
+tagGDX1FocusD104_Desc="エンピリオンの聖なる真実､ 最初の統治者 アガティア ハガールによって 書籍化された。"
+tagGDX1FocusD105={^I}イクシロアの怒りの炎
+tagGDX1FocusD105_Desc="アルケインの炎は 気まぐれで､ 扱うのが難しい。 集中が一度 薄れると､ 炎は新しい マスターの もとへと 移ってゆく。"
+tagGDX1FocusD111={^I}ファラスのキューブ
+tagGDX1FocusD111_Desc="ファラスのパズル キューブはかつて 一度だけ 解かれたが､ その所持者は 中に含まれる 光輝を目撃した ことによって､ 盲目になったと 言われている。"
+tagGDX1FocusD112={^I}ヘルスカージ
+tagGDX1FocusD113=(S) {^I}激動の目
+tagGDX1FocusD114=(S) {^I}ヴァルグールの集中
+tagGDX1FocusD115=(S) {^I}ウロボルークの呪具
+tagGDX1FocusD116=(S) {^I}ディヴァイナズ コデックス
+
+tagGDX1FocusF101={^B}カヴン ヴァイル エフィジー
+tagGDX1FocusF102={^B}カヴン アルケイン エフィジー
+tagGDX1FocusF103={^B}カヴン ヴェノム エフィジー
+tagGDX1FocusF104={^B}マルマス ヴォイド トウム
+tagGDX1FocusF105={^B}マルマス コラプテッド トウム
+tagGDX1FocusF106={^B}マルマス インファーナル トウム
+tagGDX1FocusF107={^B}ウェンディゴ ライフ エフィジー
+tagGDX1FocusF108={^B}ウェンディゴ チリング エフィジー
+tagGDX1FocusF109={^B}ウェンディゴ コースティック エフィジー
+tagGDX1FocusF110={^I}マルマスのストームブリンガー
+
+
+#ItemStyles
+tagGDX1ArmorStyle001={^S}プリザーバー
+tagGDX1ArmorStyle002={^S}レディーマー
+tagGDX1WeaponQuality001={^S}イグザルテッド
+tagGDX1WeaponQuality002={^S}プリザーバー
+
+#ArmorHead
+tagGDX1HeadB101={^L}アセンダント フード
+tagGDX1HeadB102={^L}アセンダント カウル
+tagGDX1HeadB103={^L}パックラズ スキン
+tagGDX1HeadB103_Desc="このマスクを成すために､ どれだけの犠牲者が 出たのか 想像もつかない。"
+tagGDX1HeadB104={^L}パックラズ ヴィジッジ
+tagGDX1HeadB104_Desc="マスクを外すと､ 耐えられないほどの 悪臭に満ちる。"
+tagGDX1HeadB105={^L}デス ウィスパー フード
+tagGDX1HeadB106={^L}スカイブレイカー サークレット
+tagGDX1HeadB107={^L}ナマディアズ ホーン
+tagGDX1HeadB107_Desc="死の悪寒が､ この頭巾に重く のしかかっている。"
+
+tagGDX1HeadC101={^B}魂の環
+tagGDX1HeadC101_Desc="頭飾りに捕らえられた 魂は､ 時おり所有者に 秘密を囁くが､ それが所有者にとって 重要なこととは 限らないかも しれない。"
+tagGDX1HeadC102={^B}腐敗癒者の帽子
+tagGDX1HeadC103={^B}パージング ゲイズ
+tagGDX1HeadC103_Desc="世界は異教者や異端者らで 溢れているがゆえ､ ルミナリの 好意により､ これらは粛清されねば ならぬ。"
+tagGDX1HeadC104={^B}バウンティ ハンターの帽子
+tagGDX1HeadC105={^Z}エケット'ズールの角
+tagGDX1HeadC105_Desc="角は､ いまだにはっきりと した暗闇に満ち 溢れている。"
+tagGDX1HeadC106={^Z}ソウルレス ゲイズ
+tagGDX1HeadC107={^Z}テインテッド ゲイズ
+tagGDX1HeadC108={^Z}破壊者の凝視
+tagGDX1HeadC108_Desc="物質界から追放された 破壊者の 魂の破片が､ 捻れたマスクの中に 残る。"
+tagGDX1HeadC109=(S) {^B}汚染者のマスク
+tagGDX1HeadC110=(S) {^B}シルバー センチネルのマスク
+tagGDX1HeadC115={^B}ストームヘラルドの面
+tagGDX1HeadC122=(S) {^B}ドレッドウォーカー カウル
+tagGDX1HeadC123=(S) {^B}ルミナリ ハット
+tagGDX1HeadC124={^B}興奮の大釜
+tagGDX1HeadC124_Desc="ちょいと刺激が過ぎる､ とは誰かの談。"
+
+tagGDX1HeadD101={^I}ネクロロードの凝視
+tagGDX1HeadD102={^I}ヴェノマンサーの狡猾
+tagGDX1HeadD103={^I}スペルゲイズ
+tagGDX1HeadD104={^I}ウィルムボーン マスク
+tagGDX1HeadD109={^I}ボイス オブ ドリーグ
+tagGDX1HeadD109_Desc="祝福と呪い､ 所有者に与えられる ドリーグの言葉､ 魔神の神秘なる声が こだまする。"
+tagGDX1HeadD110={^I}エンピリオンの凝視
+tagGDX1HeadD110_Desc="エンピリオンの聖なる光が､ この冠の所有者を 照らす。"
+tagGDX1HeadD111={^F}破壊者の恐視
+tagGDX1HeadD111_Desc="物質界から追放された 破壊者の 魂の破片が､ 捻れたマスクの中に 残る。"
+tagGDX1HeadD112=(S) {^F}クリーグのマスク
+tagGDX1HeadD113=(S) {^I}彷徨える魂のマスク
+tagGDX1HeadD114=(S) {^I}オクタヴィアスのバイザー
+tagGDX1HeadD115=(S) {^I}コルバのフード
+tagGDX1HeadD116=(S) {^I}闇炎のヘッドガード
+tagGDX1HeadD117=(S) {^I}スペルスカージ バイザー
+tagGDX1HeadD118=(S) {^I}メイジスレイヤーのフード
+tagGDX1HeadD119=(S) {^I}ヴァルグールの宝飾
+tagGDX1HeadD120=(S) {^I}ルーンバインダーズ ハット
+tagGDX1HeadD121=(S) {^I}ウロボルークの面
+tagGDX1HeadD122=(S) {^I}ダガロンのフェイスガード
+tagGDX1HeadD123=(S) {^I}デスガード フード
+tagGDX1HeadD124=(S) {^I}ディヴァイナズ マスク
+tagGDX1HeadD125=(S) {^F}闇き者のフード
+tagGDX1HeadD126=(S) {^I}ベルゴシアンのマスク
+tagGDX1HeadD127=(S) {^I}ラダガンのマスク
+tagGDX1HeadD128=(S) {^I}ライムタン マスク
+tagGDX1HeadD129=(S) {^I}ブラッド ナイトの面
+
+tagGDX1HeadF101={^G}カヴン マインドベンダー フード
+tagGDX1HeadF102={^G}カヴン テイマーズ フード
+tagGDX1HeadF103={^G}カヴン アルケイン フード
+tagGDX1HeadF104={^G}カヴン コンバタント カスク
+tagGDX1HeadF105={^G}カヴン フレイムウィーバー カスク
+tagGDX1HeadF106={^G}カヴン ディフェンダー カスク
+tagGDX1HeadF107={^G}マルマス エンフォーサー ヘッドガード
+tagGDX1HeadF108={^G}マルマス デストロイヤー ヘッドガード
+tagGDX1HeadF109={^G}マルマス チリング ヘッドガード
+tagGDX1HeadF110={^G}マルマス フレイムウォーダー カスク
+tagGDX1HeadF111={^G}マルマス ドレッド カスク
+tagGDX1HeadF112={^G}マルマス ディフェンダー カスク
+tagGDX1HeadF113={^G}ウェンディゴ ドレッド マスク
+tagGDX1HeadF114={^G}ウェンディゴ ヴァイル マスク
+tagGDX1HeadF115={^G}ウェンディゴ スペルウィーバー マスク
+tagGDX1HeadF116={^G}ウェンディゴ ブレイデッド ヘッドガード
+tagGDX1HeadF117={^G}ウェンディゴ ヴァイル ヘッドガード
+tagGDX1HeadF118={^G}ウェンディゴ テンパード ヘッドガード
+
+
+#ArmorShoulders
+tagGDX1ShoulderB101={^L}アセンダント ポールドロン
+tagGDX1ShoulderB102={^L}アセンダント ショルダーガード
+tagGDX1ShoulderB103={^L}クラ'ヴァール ショルダーガード
+tagGDX1ShoulderB103_Desc="ウグデンボーグ クラーケンの 強固な肌は 扱いにくい かもしれないが､ 相当の理由で 職人には 評価される。"
+tagGDX1ShoulderB104={^L}クラ'ヴァール ショルダーパッド
+
+tagGDX1ShoulderC101={^B}レイスコーラーのマント
+tagGDX1ShoulderC102={^B}霊騎士のポールドロン
+tagGDX1ShoulderC103={^B}ストームスコーチト ショルダーガード
+tagGDX1ShoulderC103_Desc="百嵐の猛威ですら､ この防具を 粉砕するには 不十分だった。"
+tagGDX1ShoulderC104={^B}バウンティ ハンターのショルダーガード
+tagGDX1ShoulderC105=(S) {^B}汚染者のマント
+tagGDX1ShoulderC106=(S) {^B}シルバー センチネルのショルダーガード
+tagGDX1ShoulderC111={^B}スペルストーカーのマント
+
+tagGDX1ShoulderD101={^I}ライフブレーズ マント
+tagGDX1ShoulderD102={^I}ドレッド ナイトのガード
+tagGDX1ShoulderD103={^I}ザ コルトジアン スクロールズ
+tagGDX1ShoulderD103B={^I}コルトジアン スクロールズ
+tagGDX1ShoulderD103_Desc="巻物には､ コルトジアの アルカニストたちに よって書き下された､ 呪文や技術が 並んでいる。"
+tagGDX1ShoulderD104={^I}ブレーズボーン マント
+tagGDX1ShoulderD109={^I}ヴェノムタン マント
+tagGDX1ShoulderD110={^I}エンバーコア ショルダーガード
+tagGDX1ShoulderD110_Desc="防具は､ 着用者を静まる ことなき 炎の激怒で 満たす。"
+tagGDX1ShoulderD111=(S) {^F}クリーグのショルダーガード
+tagGDX1ShoulderD112=(S) {^I}アヴェンジャーズ ポールドロン
+tagGDX1ShoulderD113=(S) {^I}彷徨える魂のマント
+tagGDX1ShoulderD114=(S) {^I}オクタヴィアスのポールドロン
+tagGDX1ShoulderD115=(S) {^I}スペルスカージ ヴァンガード
+tagGDX1ShoulderD116=(S) {^I}メイジスレイヤーのショルダーガード
+tagGDX1ShoulderD117=(S) {^I}ルーンバインダーズ ショルダーガード
+tagGDX1ShoulderD118=(S) {^I}ウロボルークのマント
+tagGDX1ShoulderD119=(S) {^I}アラガストのマント
+tagGDX1ShoulderD120=(S) {^I}ディヴァイナズ マント
+tagGDX1ShoulderD121=(S) {^F}闇き者のマント
+tagGDX1ShoulderD122=(S) {^I}ベルゴシアンのショルダーガード
+tagGDX1ShoulderD123=(S) {^I}デスガード マント
+tagGDX1ShoulderD124=(S) {^I}ラダガンのマント
+tagGDX1ShoulderD125=(S) {^I}ライムタン ショルダーガード
+tagGDX1ShoulderD126=(S) {^I}ブラッド ナイトの巻物
+
+tagGDX1ShoulderF101={^G}カヴン ラース マント
+tagGDX1ShoulderF102={^G}カヴン ライフバインダー マント
+tagGDX1ShoulderF103={^G}カヴン アルケイン マント
+tagGDX1ShoulderF104={^G}カヴン コンバタンツ スポールダー
+tagGDX1ShoulderF105={^G}カヴン ウォーダー スポールダー
+tagGDX1ShoulderF106={^G}カヴン アルケイン スポールダー
+tagGDX1ShoulderF107={^G}マルマス チリング マント
+tagGDX1ShoulderF108={^G}マルマス イーサーブレーズ マント
+tagGDX1ShoulderF109={^G}マルマス テインテッド マント
+tagGDX1ShoulderF110={^G}マルマス ヴァンガード ポールドロン
+tagGDX1ShoulderF111={^G}マルマス ヴォイド ポールドロン
+tagGDX1ShoulderF112={^G}マルマス ディフェンダー ポールドロン
+tagGDX1ShoulderF113={^G}ウェンディゴ ブレイデッド ポールドロン
+tagGDX1ShoulderF114={^G}ウェンディゴ ヴァイル スポールダー
+tagGDX1ShoulderF115={^G}ウェンディゴ スペルウィーバー スポールダー
+tagGDX1ShoulderF116={^G}ウェンディゴ テンパード ポールドロン
+tagGDX1ShoulderF117={^G}ウェンディゴ ヴァイル ポールドロン
+tagGDX1ShoulderF118={^G}ウェンディゴ ガーディアン ポールドロン
+
+
+#ArmorTorso
+tagGDX1TorsoB101={^L}ガラクロス シングド プレーティング
+tagGDX1TorsoB102={^L}ガラクロス ドレッド プレーティング
+tagGDX1TorsoB103={^L}ヴァラックステリアズ アルケイン ローブ
+tagGDX1TorsoB103_Desc="ローブは､ 細やかに編み 込まれた アルケイン ルーンによって 仄かに光る。"
+tagGDX1TorsoB104={^L}ヴァラックステリアズ スカイトーン ローブ
+
+tagGDX1TorsoC101={^B}デスブリンガー レイメント
+tagGDX1TorsoC102={^B}ダークフレイム チェストガード
+tagGDX1TorsoC103={^B}星のローブ
+tagGDX1TorsoC103_Desc="スピリット ガイドがしばしば 身に着けるローブは､ 才ある占師の象徴だったが､ 運命の糸の 気まぐれな性質は､ 時に彼らを ペテン師と 容易に 間違わせる。"
+tagGDX1TorsoC104={^B}高等評議員のコート
+tagGDX1TorsoC104_Desc="エルーランの貴族の ために作られた であろう服は とても柔らかく､ まだ弾力を 保っている。"
+tagGDX1TorsoC105=(S) {^B}汚染者のローブ
+tagGDX1TorsoC106=(S) {^B}シルバー センチネルのアーマー
+tagGDX1TorsoC111={^B}感染者の影
+tagGDX1TorsoC114=(S) {^B}ドレッドウォーカー レイメント
+tagGDX1TorsoC115=(S) {^B}ルミナリ ジャケット
+
+tagGDX1TorsoD101={^I}ヴェノマンサーの服
+tagGDX1TorsoD102={^I}ネクロロードの覆い
+tagGDX1TorsoD103={^I}イグナファーのルーン アーマー
+tagGDX1TorsoD103_Desc="この鎧の元の着用者は､ 悪辣な アルカニストが 放った破壊の炎で 死んでしまったが､ 鎧は奇跡的に 無傷のまま 炎の中から 発見された。"
+tagGDX1TorsoD104={^I}ストームウィーブ アーマー
+tagGDX1TorsoD109={^I}フェイトウィーバーの服
+tagGDX1TorsoD109_Desc="気まぐれで移ろいゆく 運命の糸は､ 人間の宿命を 未知へと 織り成す。"
+tagGDX1TorsoD110={^I}ギルドアのガード
+tagGDX1TorsoD111=(S) {^F}クリーグのチェストガード
+tagGDX1TorsoD112=(S) {^I}アヴェンジャーズ アーマー
+tagGDX1TorsoD113=(S) {^I}オクタヴィアスのプレートメイル
+tagGDX1TorsoD114=(S) {^I}コルバの毛皮
+tagGDX1TorsoD115=(S) {^I}ヴァルグールの服
+tagGDX1TorsoD116=(S) {^I}ルーンバインダーズ アーマー
+tagGDX1TorsoD117=(S) {^I}ウロボルークのローブ
+tagGDX1TorsoD118=(S) {^I}アラガストのローブ
+tagGDX1TorsoD119=(S) {^I}ダガロンのアーマー
+tagGDX1TorsoD120=(S) {^I}デスガード シュラウド
+tagGDX1TorsoD121=(S) {^I}ディヴァイナズ レイメント
+tagGDX1TorsoD122=(S) {^F}闇き者の服
+tagGDX1TorsoD123=(S) {^I}ベルゴシアンのアーマー
+tagGDX1TorsoD124=(S) {^I}ラダガンの覆い
+tagGDX1TorsoD125=(S) {^I}ライムタン チェストガード
+tagGDX1TorsoD126=(S) {^I}ブラッド ナイトのアーマー
+
+tagGDX1TorsoF101={^G}カヴン ラース ベストメント
+tagGDX1TorsoF102={^G}カヴン ライフバインダー ベストメント
+tagGDX1TorsoF103={^G}カヴン アルケイン ベストメント
+tagGDX1TorsoF104={^G}カヴン コンバタンツ チェストガード
+tagGDX1TorsoF105={^G}カヴン ウォーダー チェストガード
+tagGDX1TorsoF106={^G}カヴン アルケイン チェストガード
+tagGDX1TorsoF107={^G}マルマス チリング ベストメント
+tagGDX1TorsoF108={^G}マルマス イーサーブレーズ ベストメント
+tagGDX1TorsoF109={^G}マルマス テインテッド ベストメント
+tagGDX1TorsoF110={^G}マルマス ヴァンガード キュイラス
+tagGDX1TorsoF111={^G}マルマス ヴォイド キュイラス
+tagGDX1TorsoF112={^G}マルマス ディフェンダー キュイラス
+tagGDX1TorsoF113={^G}ウェンディゴ ブレイデッド チェストガード
+tagGDX1TorsoF114={^G}ウェンディゴ ヴァイル チェストガード
+tagGDX1TorsoF115={^G}ウェンディゴ スペルウィーバー チェストガード
+tagGDX1TorsoF116={^G}ウェンディゴ テンパード キュイラス
+tagGDX1TorsoF117={^G}ウェンディゴ ヴァイル キュイラス
+tagGDX1TorsoF118={^G}ウェンディゴ ガーディアン キュイラス
+
+
+#ArmorHands
+tagGDX1HandsC101={^B}ハルードのフリジッド グリップ
+tagGDX1HandsC101_Desc="ハルードのグラスプは､ 死の凍えそのものを 運ぶと 言われていた。"
+tagGDX1HandsC102={^B}タッチ オブ コマンド
+tagGDX1HandsC103={^B}ルーンシングド ハンドガード
+tagGDX1HandsC104={^B}浄化の接触
+tagGDX1HandsC104_Desc="ほんの一触れで､ 邪悪な者は 恐怖に退く。"
+tagGDX1HandsC111={^B}ブラッドライト ガントレット
+
+tagGDX1HandsD101={^I}リフトワープト グラスプ
+tagGDX1HandsD101_Desc="虚無そのものに 到達すると､ グローブは その遭遇により 永久なる 変化を遂げた。"
+tagGDX1HandsD102={^I}大君主のアイアン グリップ
+tagGDX1HandsD103={^I}イグナファーのガントレット
+tagGDX1HandsD104={^I}ハガラッドのチリング グリップ
+tagGDX1HandsD109={^I}深紅の鉤爪
+tagGDX1HandsD109_Desc="血を滴らせ､ 更なるものを 渇望すると､ 鉤爪は熱心に 新鮮な犠牲者を 捜し出す。"
+tagGDX1HandsD110={^I}シンダータッチ
+tagGDX1HandsD111=(S) {^I}メイジスレイヤーのアームガード
+tagGDX1HandsD112=(S) {^I}ヴァルグールの接触
+tagGDX1HandsD113=(S) {^F}クリーグのグリップ
+tagGDX1HandsD114=(S) {^F}闇き者のグラスプ
+
+
+#ArmorLegs
+tagGDX1LegsB101={^L}アレクサンダーズ レッグガード
+tagGDX1LegsB102={^L}アレクサンダーズ ショース
+tagGDX1LegsB103={^L}グラヴァ'スルズ レギンス
+tagGDX1LegsB104={^L}グラヴァ'スルズ レッグガード
+tagGDX1LegsB105={^L}クバカブラズ レッグガード
+tagGDX1LegsB106={^L}クバカブラズ ショース
+tagGDX1LegsB107={^L}リーパーズ レギンス
+tagGDX1LegsB108={^L}リーパーズ レッグガード
+
+tagGDX1LegsC101={^B}スコーチルーン レッグラップス
+tagGDX1LegsC102={^B}ドレッドルーン レッグガード
+tagGDX1LegsC103={^B}シャドウィーブ レギンス
+tagGDX1LegsC103_Desc="いかにしてか､ 防具には それ自身の影が 織り込まれている。"
+tagGDX1LegsC104={^B}ルーンウォード レッグガード
+tagGDX1LegsC111={^B}スペルストーカーのレッグラップス
+
+tagLegsD013B={^I}かなり良いパンツ
+tagLegsD013BDesc="うん､ まだイケてる。"
+
+tagGDX1LegsD101={^I}ウェンディゴメイン レギンス
+tagGDX1LegsD101_Desc="古い血が酷く臭う 毛皮は､ ウェンディゴ そのものであるか､ あるいは その過去の犠牲者 であるか､ 定かではない。"
+tagGDX1LegsD102={^I}ドレッド ナイトのレッグプレート
+tagGDX1LegsD103={^I}イグナファーのルーンプレート
+tagGDX1LegsD104={^I}メイジガード レッグガード
+tagGDX1LegsD109={^I}ヴェノムスキン レッグラップス
+tagGDX1LegsD110={^I}フィラルメイン レッグプレート
+tagGDX1LegsD110_Desc="この防具を作るために 毛皮を差し出した 獣は､ エルーラン 地方には 姿を見せない。"
+
+
+#ArmorFeet
+tagGDX1FeetB101={^Y}イントレピッド ウォーブーツ
+tagGDX1FeetB102={^Y}ストーンプレート グリーヴ
+
+tagGDX1FeetC101={^B}グリム ハーベスト ブーツ
+tagGDX1FeetC102={^B}デッドウォーカー フットパッド
+tagGDX1FeetC102_Desc="ブーツに取り付けられ ている骨が､ 獣のものか それとも... 人間のものかは､ わかっていない。"
+tagGDX1FeetC103={^B}セレコアの行進
+tagGDX1FeetC104={^B}エンバーストーン トレッド
+tagGDX1FeetC111={^B}ストームステップ フットガード
+
+tagGDX1FeetD101={^I}フィーンドフレッシュ グリーヴ
+tagGDX1FeetD102={^I}凶兆のグリーヴ
+tagGDX1FeetD103={^I}タイムワープト ウォーカーズ
+tagGDX1FeetD103_Desc="伝説によると､ このブーツは 悠久の時を 超越できる ようだが､ 今だ その力の活用法を 理解し得る 者はいない。"
+tagGDX1FeetD104={^I}ルーンガード グリーヴ
+tagGDX1FeetD109={^I}暴風のトレッド
+tagGDX1FeetD110={^I}ストームベアラーズ
+tagGDX1FeetD110_Desc="ブーツは荒れ狂う稲妻の 矛を帯びて､ 今でも 大地へと 完全に 放電しきっては いない。"
+tagGDX1FeetD111=(S) {^F}クリーグのブーツ
+
+
+#ArmorWaist
+tagGDX1WaistA101={^W}プリザーバー ベルト
+tagGDX1WaistA102={^W}レディーマー ウェストガード
+
+tagGDX1WaistB101={^L}ウグデンボーグ ガードル
+tagGDX1WaistB102={^L}ウグデンボーグ ウェストガード
+tagGDX1WaistB103={^L}ルナール'ヴァルゴスズ ガードル
+tagGDX1WaistB104={^L}ルナール'ヴァルゴスズ ウェストガード
+tagGDX1WaistB105={^Y}トロールハート ウェストガード
+tagGDX1WaistB106={^Y}パペットマスター リンクス
+tagGDX1WaistB107={^Y}ストーンプレート ウェストガード
+
+tagGDX1WaistC101={^B}悪霊の腰帯
+tagGDX1WaistC102={^B}ソウルウィーブ ガードル
+tagGDX1WaistC102_Desc="このベルトの糸には､ 縛られた魂が 織り込まれている。"
+tagGDX1WaistC103={^B}シャドウフィーンドのコード
+tagGDX1WaistC104={^B}星読みのコード
+tagGDX1WaistC105={^B}チェインズ オブ ザ ハンガリング ヴォイド
+tagGDX1WaistC106={^B}アルケノウィーブ コード
+tagGDX1WaistC115={^B}スコーチベアラー サッシュ
+tagGDX1WaistC116={^B}サングィヌス
+tagGDX1WaistC116_Desc="それぞれの板金が､ 戦場の血溜まりに 浸された。"
+tagGDX1WaistC117=(S) {^B}ブレーズシーア ガードル
+
+tagGDX1WaistD101={^I}コード オブ バイオレント ディケイ
+tagGDX1WaistD102={^I}剣闘士の殊勲
+tagGDX1WaistD103={^I}スピリットシーカー コード
+tagGDX1WaistD103_Desc="彷徨う魂は､ このベルトの 織り目に 引き寄せられる。"
+tagGDX1WaistD104={^I}反逆的手法の包み
+tagGDX1WaistD104_Desc="火薬兵器にアルケインの術への 価値ある挑戦をした､ 化学的に理想的な 爆薬と毒物の混合物。"
+tagGDX1WaistD105={^I}欺瞞のコード
+tagGDX1WaistD106={^I}ベロナスの鱗
+tagGDX1WaistD106_Desc="偉大なる獣 ベロナスの鱗は 数世紀を経ても 衰えず､ 以後も同様だろう。"
+tagGDX1WaistD113={^I}シンダープレート ガードル
+tagGDX1WaistD114={^I}ラセレイター ガードル
+tagGDX1WaistD115=(S) {^I}アヴェンジャーズ ガードル
+tagGDX1WaistD116=(S) {^I}激動の盟約
+tagGDX1WaistD117=(S) {^I}ストーンガード ガードル
+tagGDX1WaistD118=(S) {^I}ストロングホールド ウェストガード
+tagGDX1WaistD119=(S) {^I}闇炎の弾薬ベルト
+
+tagGDX1WaistF101A={^G}カヴン ヴァイル ウェストガード
+tagGDX1WaistF101B={^G}カヴン ヴァイル ガードル
+tagGDX1WaistF102A={^G}カヴン リーサル ウェストガードル
+tagGDX1WaistF102B={^G}カヴン リーサル ガードル
+tagGDX1WaistF103A={^G}マルマス ブレイデッド ウェストガード
+tagGDX1WaistF103B={^G}マルマス ブレイデッド ガードル
+tagGDX1WaistF104A={^G}マルマス アルケイン ウェストガード
+tagGDX1WaistF104B={^G}マルマス アルケイン ガードル
+tagGDX1WaistF105A={^G}ウェンディゴ テインテッド ウェストガード
+tagGDX1WaistF105B={^G}ウェンディゴ テインテッド ガードル
+tagGDX1WaistF106A={^G}ウェンディゴ ウォーダー ウェストガード
+tagGDX1WaistF106B={^G}ウェンディゴ ウォーダー ガードル
+
+
+#Rings
+tagGDX1RingA101={^W}イグザルテッド リング
+tagGDX1RingA102={^W}イグザルテッド バンド
+tagGDX1RingA103={^W}プリザーバー リング
+tagGDX1RingA104={^W}プリザーバー バンド
+
+tagGDX1RingB101={^L}リビング リング
+tagGDX1RingB101_Desc="指輪に沿った棘は 血を引き寄せ､ ツルを活性化 させるようだ。"
+tagGDX1RingB102={^L}ヴァイン リング
+tagGDX1RingB103={^L}ガルガボルズ リング
+tagGDX1RingB103_Desc="燃え盛る指輪は 触るのにも 苦痛を伴うが､ 物理的な害を 受けることは ない。"
+
+tagGDX1RingC101={^B}カースベアラー
+tagGDX1RingC101_Desc="この捻れた指輪は､ その主人のために 恐ろしい呪いを 帯びていると 噂されるが､ その効果は 今でも残存している。"
+tagGDX1RingC102={^B}レイスストーカー バンド
+tagGDX1RingC103={^B}腐敗癒者のリング
+tagGDX1RingC104={^B}ルーンファーザーの印環
+tagGDX1RingC104_Desc="現在ルミナリで標準的に 使用される ルーン言語の 創始者､ ルーンファーザーの印。"
+tagGDX1RingC105={^B}星の瞑想の印環
+tagGDX1RingC105_Desc="指輪から星々の秘密が 囁かれるが､ 習熟なき者の耳には それらを理解することは できない。"
+tagGDX1RingC106={^B}ウィドウズ スティング
+tagGDX1RingC115={^B}ナイトスコーン
+tagGDX1RingC116={^B}逆上
+tagGDX1RingC117=(S) {^B}ブレーズシーア シグネット
+tagGDX1RingC118=(S) {^B}メイジロード シグネット
+tagGDX1RingC119=(S) {^B}メイジロード バンド
+
+tagGDX1RingD101={^I}デスロードの指輪
+tagGDX1RingD102={^I}スピリットバインダー グリフ
+tagGDX1RingD102_Desc="この指輪のグリフは､ 死の目醒め修道会で 最も強力な 魂を縛るシンボルと 言われている。"
+tagGDX1RingD103={^I}ヴォイドウィスパー バンド
+tagGDX1RingD103_Desc="正気を冒す囁きが､ 指輪から 発せられる。"
+tagGDX1RingD104={^I}発火の指輪
+tagGDX1RingD105={^I}ジャクソンのラッキー バレット
+tagGDX1RingD106={^I}氷炎の統治
+tagGDX1RingD113={^I}ブレイドツイスター シグネット
+tagGDX1RingD114={^I}ヴォイドハート
+tagGDX1RingD115=(S) {^I}アラガストの嵐石
+tagGDX1RingD116={^I}デスガード シジル
+
+tagGDX1RingF101={^B}カヴン ストーム シール
+tagGDX1RingF102={^B}カヴン スカイ シール
+tagGDX1RingF103={^B}カヴン ディフェンダー シール
+tagGDX1RingF104={^B}マルマス アルケイン シール
+tagGDX1RingF105={^B}マルマス ブレイド シール
+tagGDX1RingF106={^B}マルマス イーサーブレーズ シール
+tagGDX1RingF107={^B}ウェンディゴ ワープト シール
+tagGDX1RingF108={^B}ウェンディゴ カンジュリング シール
+
+
+
+#Necklaces
+tagGDX1NecklaceA101={^W}イグザルテッド アミュレット
+tagGDX1NecklaceA102={^W}イグザルテッド ペンダント
+tagGDX1NecklaceA103={^W}プリザーバー アミュレット
+tagGDX1NecklaceA104={^W}プリザーバー ペンダント
+
+tagGDX1NecklaceB100={^G}サディナの形見
+tagGDX1NecklaceB100_Desc="シンプルなペンダントは､ 悪意から 身を守る。 記述に曰く: 我らの 織り成す布は､ 悪き心像の 兆しを 運ぶものなり。 - ジェイ ペギンス"
+tagGDX1NecklaceB101={^L}ガルガゾールズ ハート
+tagGDX1NecklaceB102={^L}ヴィルガゾールズ ハート
+
+tagGDX1NecklaceC101={^B}死の囁き
+tagGDX1NecklaceC102={^B}切断石
+tagGDX1NecklaceC103={^B}枯れた心臓
+tagGDX1NecklaceC103_Desc="心臓は､ 今だ稀に 脈打つ。"
+tagGDX1NecklaceC104={^B}平静石
+tagGDX1NecklaceC104_Desc="ケアンの混乱や苦痛に かかわらず､ 石は心を 過度な平穏で 満たす。"
+tagGDX1NecklaceC105={^B}落涙のルビー
+tagGDX1NecklaceC106={^B}ギラードのルーンド トパーズ
+tagGDX1NecklaceC106_Desc="尋問官 ギラードの防護護符は､ オカルティストを 匿っている とされた 帝国境界近辺の 村への進出が失敗し､ 彼の体が 回復することの なかった後に､ 失われたと 考えられていた。"
+tagGDX1NecklaceC115={^B}志望者の守り
+tagGDX1NecklaceC116={^B}ルーンファーザーの宝石
+
+tagNecklaceD005B={^I}ベロナスの比類なき目
+tagGDX1NecklaceD101={^I}ソウルキャッチャー
+tagGDX1NecklaceD101_Desc="殺された敵の魂 すべてが､ このネックレスに 素早く 取り込まれる。"
+tagGDX1NecklaceD102={^I}憤怒の炎
+tagGDX1NecklaceD103={^I}ヴィガーの飢え
+tagGDX1NecklaceD103_Desc="小瓶は､ ウェンディゴの 破壊者自身の 血で 満たされている。"
+tagGDX1NecklaceD104={^I}ガル'ダルの穢れたルビー
+tagGDX1NecklaceD105={^I}処刑人の裁き
+tagGDX1NecklaceD106={^I}ストームシーア サファイア
+tagGDX1NecklaceD113A={^I}好戦的囁きの導管
+tagGDX1NecklaceD113B={^I}破壊的囁きの導管
+tagGDX1NecklaceD113C={^I}エルドリッチの囁きの導管
+tagGDX1NecklaceD113D={^I}夜の囁きの導管
+tagGDX1NecklaceD113E={^I}アルケインの囁きの導管
+tagGDX1NecklaceD113F={^I}野性の囁きの導管
+tagGDX1NecklaceD113G={^I}ルーンの囁きの導管
+tagGDX1NecklaceD113H={^I}不朽の囁きの導管
+tagGDX1NecklaceD113_Desc="目を覗き込むと 広大で奇妙な 大地が 浮かび上がり､ そこに跋扈する 生物や悪鬼は､ ケアンのどの 原生物とも 似ていない。"
+tagGDX1NecklaceD114={^I}終わりなき炎の破片
+tagGDX1NecklaceD114_Desc="このクリスタルから 放たれた炎は､ 決して完全に 消え失せる ことはない。"
+tagGDX1NecklaceD115=(S) {^I}彷徨える魂の破片
+tagGDX1NecklaceD116=(S) {^I}激動の触媒
+tagGDX1NecklaceD117=(S) {^I}ストーンガード ウォード
+tagGDX1NecklaceD118=(S) {^I}闇炎の源
+tagGDX1NecklaceD119=(S) {^I}スペルスカージ ディフレクター
+tagGDX1NecklaceD120=(S) {^I}メイジスレイヤーのプロテクター
+tagGDX1NecklaceD121=(S) {^I}ルーンバインダーズ ジェム
+tagGDX1NecklaceD122=(S) {^I}ウロボルークの目
+tagGDX1NecklaceD123=(S) {^I}ラダガンの宝石
+tagGDX1NecklaceD124=(S) {^I}ライムタン ペンダント
+tagGDX1NecklaceD125=(S) {^I}ブラッド ナイトのペンダント
+
+tagGDX1NecklaceF101={^B}カヴン ダークナー ペンダント
+tagGDX1NecklaceF102={^B}カヴン マニピュレイター ペンダント
+tagGDX1NecklaceF103={^B}カヴン ブレイド ペンダント
+tagGDX1NecklaceF104={^B}マルマス ストームバインダー ペンダント
+tagGDX1NecklaceF105={^B}マルマス ワープト ペンダント
+tagGDX1NecklaceF106={^B}マルマス ディフェンダー ペンダント
+tagGDX1NecklaceF107={^B}ウェンディゴ ヴァイル ペンダント
+tagGDX1NecklaceF108={^B}ウェンディゴ スカイ ペンダント
+tagGDX1NecklaceF109={^I}イーサーボルト ペンダント
+tagGDX1NecklaceF110={^I}マルマスの心臓
+tagGDX1NecklaceF111={^I}リーヴァーの飢え
+
+
+#Medals
+tagGDX1MedalA101={^W}イグザルテッド スター
+tagGDX1MedalA102={^W}プリザーバー クレスト
+
+tagGDX1MedalB101={^L}バシリスク クレスト
+tagGDX1MedalB101_Desc="牙は､ いまだに石化の 毒を滴らせる。"
+tagGDX1MedalB102={^L}バシリスク マーク
+tagGDX1MedalB102_Desc="牙は､ いまだに出血の 毒を滴らせる。"
+tagGDX1MedalB103={^L}ライロック クレスト
+tagGDX1MedalB103_Desc="クトーニアンの鱗は､ 血を渇望する。"
+tagGDX1MedalB104={^L}ライロック マーク
+tagGDX1MedalB104_Desc="クトーニアンの鱗は､ 虚無の闇に 満ちている。"
+tagGDX1MedalB105={^L}ウェンディゴ アイ
+tagGDX1MedalB105_Desc="血まみれの目は､ 近くに血があると 今でも動く。"
+tagGDX1MedalB106={^L}ウェンディゴ ゲイズ
+tagGDX1MedalB106_Desc="血まみれの目は､ その凝視で 下等な生物を 当惑させる。"
+tagGDX1MedalB107={^Y}ニンブル クレスト
+tagGDX1MedalB108={^Y}ウォッチャー クレスト
+tagGDX1MedalB109={^L}スラッサーズ クレスト
+tagGDX1MedalB109_Desc="牙は､ イーサーに歪め られた毒を 滴らせる。"
+tagGDX1MedalB110={^L}マーク オブ プラギウス
+tagGDX1MedalB111={^L}ナマディアズ アイ
+tagGDX1MedalB111_Desc="いまだにピクついている目は､ 不死に 満ちている。"
+
+tagGDX1MedalC101={^B}正式の標章
+tagGDX1MedalC102={^B}不純の標章
+tagGDX1MedalC103={^B}忘れられし魂の標章
+tagGDX1MedalC103_Desc="失われ､ 忘れ去られた 者たちの備忘。"
+tagGDX1MedalC104={^B}破られし誓いの標章
+tagGDX1MedalC104_Desc="このメダルはかつて 記録から 抹消された 尋問者が所持し､ 彼の名声は､ ルミナリへの すべての 卑劣な裏切りによって 錆びついた。"
+tagGDX1MedalC105={^B}ヴォルトキーパーの標章
+tagGDX1MedalC105_Desc="ヴォルトキーパーの証､ ルミナリ宝物庫の 聖なる守護者。"
+tagGDX1MedalC106={^B}サンクトゥスの紋章
+tagGDX1MedalC115={^B}マーク オブ インファーナル ミザリー
+tagGDX1MedalC116={^B}マーク オブ ストーン ウィル
+tagGDX1MedalC117=(S) {^B}ブレーズシーア クレスト
+tagGDX1MedalC118=(S) {^B}ルミナリの推賞
+
+tagGDX1MedalD101={^I}ドレッドブレイドの標章
+tagGDX1MedalD102={^I}ドレッドチル マーク
+tagGDX1MedalD103={^I}腐敗飲みの紋章
+tagGDX1MedalD104={^I}ギルダム アルケイナムの推賞
+tagGDX1MedalD104_Desc="ギルダム アルケイナムの メンバーに 与えられた推賞は､ 過去にルミナリと アルカニストとの 緊張において､ 人類の生存という より大きな展望を 選んだことに よるものである。"
+tagGDX1MedalD105={^I}セレニアの推賞
+tagGDX1MedalD105_Desc="ガンダールの角を勇敢に 振るい､ オカルト集会を 一手に受けて 征服した､ 高尋問官 セレニアに 与えられた推賞。"
+tagGDX1MedalD106={^I}カラスターの標章
+tagGDX1MedalD113={^I}ウルズインの標章
+tagGDX1MedalD113_Desc="ウルズインの信者によって その肉を焼き､ 怒れる神へと 捧げるために 使用される。"
+tagGDX1MedalD114={^I}消耗の標章
+
+tagGDX1MedalF101={^B}カヴン マーク オブ ブレイズ
+tagGDX1MedalF102={^B}カヴン マーク オブ ザ アルケイン
+tagGDX1MedalF103={^B}マルマス バッジ オブ デセクレイション
+tagGDX1MedalF104={^B}マルマス バッジ オブ ザ エレメンツ
+tagGDX1MedalF105={^B}ウェンディゴ テインテッド マーク
+tagGDX1MedalF106={^B}ウェンディゴ ディフェンダーズ マーク
+tagGDX1MedalF107={^I}殺意の標章
+tagGDX1MedalF108={^I}ザ オーバーシーア
+tagGDX1MedalF109={^I}貪る者の標章
+
+
+#Blueprints
+tagGDX1Blueprint_RelicB101=設計図 : レリック - 暴食
+tagGDX1Blueprint_RelicB102=設計図 : レリック - スペクター
+tagGDX1Blueprint_RelicB103=設計図 : レリック - 熱情
+tagGDX1Blueprint_RelicB104=設計図 : レリック - 剛勇
+tagGDX1Blueprint_RelicB105=設計図 : レリック - ヒステリー
+
+tagGDX1Blueprint_RelicC101=設計図 : レリック - モータリティ
+tagGDX1Blueprint_RelicC102=設計図 : レリック - ヴェンデッタ
+
+tagGDX1Blueprint_RelicD101=設計図 : レリック - インピュリティ
+tagGDX1Blueprint_RelicD102=設計図 : レリック - ヴェンジェンス
+tagGDX1Blueprint_RelicD103=設計図 : レリック - アーコヴィアの哀歌
+tagGDX1Blueprint_RelicD104=設計図 : レリック - 災厄
+tagGDX1Blueprint_RelicD105=設計図 : レリック - ドゥーム
+tagGDX1Blueprint_RelicD106=設計図 : レリック - コルヴァークの欺瞞
+tagGDX1Blueprint_RelicD107=設計図 : レリック - エルドリッチの契約
+tagGDX1Blueprint_RelicD108=設計図 : レリック - ニダラの大感染
+tagGDX1Blueprint_RelicD109=設計図 : レリック - エタニティ
+tagGDX1Blueprint_RelicD110=設計図 : レリック - 皆殺し
+tagGDX1Blueprint_RelicD111=設計図 : レリック - ウロボルークの刈取り
+tagGDX1Blueprint_RelicD112=設計図 : レリック - イグナファーの燃焼
+tagGDX1Blueprint_RelicD113=設計図 : レリック - モグドロゲンの熱情
+tagGDX1Blueprint_RelicD114=設計図 : レリック - デスストーカー
+
+
+tagGDX1Blueprint_ComponentA101=設計図 : 力の印章
+tagGDX1Blueprint_ComponentA102=設計図 : 刃の印章
+tagGDX1Blueprint_ComponentA103=設計図 : 空の印章
+tagGDX1Blueprint_ComponentA104=設計図 : 荒廃の印章
+tagGDX1Blueprint_ComponentA105=設計図 : 腐敗の印章
+tagGDX1Blueprint_ComponentA106=設計図 : 虚無の印章
+tagGDX1Blueprint_ComponentA107=設計図 : 夜の印章
+tagGDX1Blueprint_ComponentA108=設計図 : 破壊の印章
+tagGDX1Blueprint_ComponentA109=設計図 : 影の印章
+tagGDX1Blueprint_ComponentA110=設計図 : 共鳴の印章
+tagGDX1Blueprint_ComponentA111=設計図 : 汚染した心臓
+tagGDX1Blueprint_ComponentA112=設計図 : 燃え盛るルビー
+tagGDX1Blueprint_ComponentA113=設計図 : ルーンバウンド トパーズ
+tagGDX1Blueprint_ComponentA114=設計図 : 血まみれのクリスタル
+tagGDX1Blueprint_ComponentA115=設計図 : 魔法の土
+tagGDX1Blueprint_ComponentA116=設計図 : 魔焦の板金
+tagGDX1Blueprint_ComponentA117=設計図 : 刃の板金
+tagGDX1Blueprint_ComponentA118=設計図 : ウグデンボーグの革
+
+tagGDX1Blueprint_ComponentC101=設計図 : 聖なる板金
+tagGDX1Blueprint_ComponentC102=設計図 : 生ける防具
+tagGDX1Blueprint_ComponentC103=設計図 : 巨人の板金
+tagGDX1Blueprint_ComponentC104=設計図 : エルドリッチ ミラー
+tagGDX1Blueprint_ComponentC105=設計図 : 全滅の印章
+tagGDX1Blueprint_ComponentC106=設計図 : 先祖の印章
+
+
+tagGDX1Blueprint_WaistF101A=設計図 : カヴン ヴァイル ウェストガード
+tagGDX1Blueprint_WaistF101B=設計図 : カヴン ヴァイル ガードル
+tagGDX1Blueprint_WaistF102A=設計図 : カヴン リーサル ウェストガード
+tagGDX1Blueprint_WaistF102B=設計図 : カヴン リーサル ガードル
+tagGDX1Blueprint_WaistF103A=設計図 : マルマス ブレイデッド ウェストガード
+tagGDX1Blueprint_WaistF103B=設計図 : マルマス ブレイデッド ガードル
+tagGDX1Blueprint_WaistF104A=設計図 : マルマス アルケイン ウェストガード
+tagGDX1Blueprint_WaistF104B=設計図 : マルマス アルケイン ガードル
+tagGDX1Blueprint_WaistF105A=設計図 : ウェンディゴ テインテッド ウェストガード
+tagGDX1Blueprint_WaistF105B=設計図 : ウェンディゴ テインテッド ガードル
+tagGDX1Blueprint_WaistF106A=設計図 : ウェンディゴ ウォーダー ウェストガード
+tagGDX1Blueprint_WaistF106B=設計図 : ウェンディゴ ウォーダー ガードル
+
+
+tagGDX1Blueprint_WeaponB101=設計図 : ストームサージ ピストル
+tagGDX1Blueprint_WeaponB102=設計図 : フレイムウォーダー ライフル
+tagGDX1Blueprint_WeaponB103=設計図 : ブラッドスピル クリーバー
+tagGDX1Blueprint_WeaponB104=設計図 : ガットクラッシュ ウォーモール
+tagGDX1Blueprint_WeaponB105=設計図 : ストーンウォール ディフェンダー
+tagGDX1Blueprint_WeaponB106=設計図 : スペルショック トウム
+tagGDX1Blueprint_WeaponB107=設計図 : スモルダリング トウム
+tagGDX1Blueprint_WeaponB108=設計図 : ライム-ロッテン ワンド
+tagGDX1Blueprint_WeaponB109=設計図 : デスボーン セプター
+
+tagGDX1Blueprint_WeaponC101=設計図 : 異端者
+tagGDX1Blueprint_WeaponC102=設計図 : 神話級 アルダーの尋問
+tagGDX1Blueprint_WeaponC103=設計図 : コズミック トーレント
+tagGDX1Blueprint_WeaponC104=設計図 : レイジフレイム スペルブレイド
+tagGDX1Blueprint_WeaponC105=設計図 : 神話級 バーウィッチ ピースキーパー
+tagGDX1Blueprint_WeaponC106=設計図 : 神話級 ヘルモー ショットガン
+tagGDX1Blueprint_WeaponC107=設計図 : 神話級 暴食のドゥームソウ
+tagGDX1Blueprint_WeaponC108=設計図 : 神話級 聖松明
+tagGDX1Blueprint_WeaponC109=設計図 : 神話級 デュエリストのセイバー
+tagGDX1Blueprint_WeaponC110=設計図 : 神話級 ラースモーン
+tagGDX1Blueprint_WeaponC111=設計図 : 神話級 ヘルルーン カーバー
+tagGDX1Blueprint_WeaponC112=設計図 : 神話級 ネラ'ヴァルの病毒剣
+tagGDX1Blueprint_WeaponC113=設計図 : 神話級 リッチガード
+tagGDX1Blueprint_WeaponC114=設計図 : 神話級 バンシーの苦難
+
+tagGDX1Blueprint_WeaponD101=設計図 : シンダーコア
+tagGDX1Blueprint_WeaponD102=設計図 : ヴェノムランス
+tagGDX1Blueprint_WeaponD103=設計図 : 神話級 死の刃
+tagGDX1Blueprint_WeaponD104=設計図 : 神話級 チルフレイム イヴォーカー
+tagGDX1Blueprint_WeaponD105=設計図 : 神話級 デスディーラーズ サイドアーム
+tagGDX1Blueprint_WeaponD106=設計図 : 神話級 北のウィルム
+tagGDX1Blueprint_WeaponD107=設計図 : 神話級 魂渦
+tagGDX1Blueprint_WeaponD108=設計図 : 神話級 三日月
+tagGDX1Blueprint_WeaponD109=設計図 : 神話級 プレイグベアラー オブ ドリーグ
+tagGDX1Blueprint_WeaponD110=設計図 : 神話級 鍛え直したベロナス
+tagGDX1Blueprint_WeaponD111=設計図 : 神話級 ストームリーヴァー
+tagGDX1Blueprint_WeaponD112=設計図 : 神話級 テンポラル アークブレイド
+tagGDX1Blueprint_WeaponD113=設計図 : 神話級 アスターカーンの破片
+tagGDX1Blueprint_WeaponD114=設計図 : 神話級 クトーンの牙
+tagGDX1Blueprint_WeaponD115=設計図 : 神話級 ゾルハンの報復
+tagGDX1Blueprint_WeaponD116=設計図 : 神話級 ブラッド オーブ オブ クトーン
+tagGDX1Blueprint_WeaponD117=設計図 : 神話級 ナール'アディンの不快なトウム
+
+tagGDX1Blueprint_WeaponF101=設計図 : ヘクス ランチャー
+tagGDX1Blueprint_WeaponF102=設計図 : ザ デソレイター
+tagGDX1Blueprint_WeaponF103=設計図 : ウィッチ ムーン
+tagGDX1Blueprint_WeaponF104=設計図 : ウェンディゴの遠吠え
+tagGDX1Blueprint_WeaponF105=設計図 : マルマスの救世主
+tagGDX1Blueprint_WeaponF106=設計図 : ブレーズラッシュ
+tagGDX1Blueprint_WeaponF107=設計図 : ヘクスフレイム
+tagGDX1Blueprint_WeaponF108=設計図 : ハガラズの鉤爪
+tagGDX1Blueprint_WeaponF109=設計図 : ラースガード
+tagGDX1Blueprint_WeaponF110=設計図 : マルマスのストームブリンガー
+
+
+
+tagGDX1Blueprint_ArmorB101=設計図 : イントレピッド ウォーブーツ
+tagGDX1Blueprint_ArmorB102=設計図 : ストーンプレート グリーヴ
+
+tagGDX1Blueprint_ArmorC101=設計図 : ストームヘラルドの面
+tagGDX1Blueprint_ArmorC102=設計図 : 神話級 バウンティ ハンターのショルダーガード
+tagGDX1Blueprint_ArmorC103=設計図 : ドレッドウォーカー カウル
+tagGDX1Blueprint_ArmorC104=設計図 : ルミナリ ハット
+tagGDX1Blueprint_ArmorC105=設計図 : 神話級 メイジロードのグリーヴ
+tagGDX1Blueprint_ArmorC106=設計図 : 神話級 リフトハウンド レザー ブーツ
+tagGDX1Blueprint_ArmorC107=設計図 : 神話級 ソウルズ タッチ
+tagGDX1Blueprint_ArmorC108=設計図 : 神話級 早撃ちグローブ
+tagGDX1Blueprint_ArmorC109=設計図 : 神話級 スペルウィーブ レッグラップス
+tagGDX1Blueprint_ArmorC110=設計図 : 神話級 アマラスタのポールドロン
+tagGDX1Blueprint_ArmorC111=設計図 : 神話級 ナイトハンターのチェストガード
+tagGDX1Blueprint_ArmorC112=設計図 : 神話級 ドゥームフォージド ブレストプレート
+tagGDX1Blueprint_ArmorC113=設計図 : 神話級 ブラインド アサシンのカウル
+tagGDX1Blueprint_ArmorC114=設計図 : 神話級 シャープシューターズ グラス アイ
+tagGDX1Blueprint_ArmorC115=設計図 : 神話級 誓約のアンホリー ヴィジッジ
+tagGDX1Blueprint_ArmorC116=設計図 : 神話級 ドーンガード ヘルム
+tagGDX1Blueprint_ArmorC117=設計図 : 神話級 フレイム キーパーのジャケット
+tagGDX1Blueprint_ArmorC118=設計図 : 神話級 キャリドアのベストメント
+tagGDX1Blueprint_ArmorC119=設計図 : 神話級 ミュルミドン バイザー
+tagGDX1Blueprint_ArmorC120=設計図 : 神話級 モグドロゲンのカウル
+tagGDX1Blueprint_ArmorC121=設計図 : 神話級 模範のカウル
+
+tagGDX1Blueprint_ArmorD101=設計図 : ネクロロードの凝視
+tagGDX1Blueprint_ArmorD102=設計図 : ヴェノマンサーの狡猾
+tagGDX1Blueprint_ArmorD103=設計図 : スペルゲイズ
+tagGDX1Blueprint_ArmorD104=設計図 : ウィルムボーン マスク
+tagGDX1Blueprint_ArmorD105=設計図 : 神話級 ネクロロードの凝視
+tagGDX1Blueprint_ArmorD106=設計図 : 神話級 ヴェノマンサーの狡猾
+tagGDX1Blueprint_ArmorD107=設計図 : 神話級 スペルゲイズ
+tagGDX1Blueprint_ArmorD108=設計図 : 神話級 ウィルムボーン マスク
+tagGDX1Blueprint_ArmorD109=設計図 : ボイス オブ ドリーグ
+tagGDX1Blueprint_ArmorD110=設計図 : エンピリオンの凝視
+tagGDX1Blueprint_ArmorD113=設計図 : 彷徨える魂のマスク
+tagGDX1Blueprint_ArmorD114=設計図 : オクタヴィアスのバイザー
+tagGDX1Blueprint_ArmorD115=設計図 : コルバのフード
+tagGDX1Blueprint_ArmorD116=設計図 : 闇炎のヘッドガード
+tagGDX1Blueprint_ArmorD117=設計図 : スペルスカージ バイザー
+tagGDX1Blueprint_ArmorD118=設計図 : メイジスレイヤーのフード
+tagGDX1Blueprint_ArmorD119=設計図 : ヴァルグールの宝飾
+tagGDX1Blueprint_ArmorD120=設計図 : ルーンバインダーズ ハット
+tagGDX1Blueprint_ArmorD121=設計図 : ウロボルークの面
+tagGDX1Blueprint_ArmorD122=設計図 : ダガロンのフェイスガード
+tagGDX1Blueprint_ArmorD123=設計図 : デスガード フード
+tagGDX1Blueprint_ArmorD124=設計図 : ディヴァイナズ マスク
+
+tagGDX1Blueprint_ArmorD125=設計図 : 神話級 絶望の胃
+tagGDX1Blueprint_ArmorD126=設計図 : 神話級 ドレッド-マスク オブ グルゴス
+tagGDX1Blueprint_ArmorD127=設計図 : 神話級 秘密の囁き
+tagGDX1Blueprint_ArmorD128=設計図 : 神話級 深淵のマスク
+tagGDX1Blueprint_ArmorD129=設計図 : 神話級 うわばみのサークレット
+tagGDX1Blueprint_ArmorD130=設計図 : 神話級 マスク オブ インファーナル トゥルース
+tagGDX1Blueprint_ArmorD131=設計図 : 神話級 正義のフェイスガード
+tagGDX1Blueprint_ArmorD132=設計図 : 神話級 ビーストコーラー カウル
+tagGDX1Blueprint_ArmorD133=設計図 : 神話級 マスク オブ ザ ハービンジャー
+tagGDX1Blueprint_ArmorD134=設計図 : 神話級 デーモンスレイヤーの帽子
+tagGDX1Blueprint_ArmorD135=設計図 : 神話級 クレアボヤンツ ハット
+tagGDX1Blueprint_ArmorD136=設計図 : 神話級 マーコヴィアンのバイザー
+tagGDX1Blueprint_ArmorD137=設計図 : 神話級 ウルズインのヘッドガード
+tagGDX1Blueprint_ArmorD138=設計図 : 神話級 ドリーグの頭巾
+tagGDX1Blueprint_ArmorD139=設計図 : 神話級 デスマークのフード
+tagGDX1Blueprint_ArmorD140=設計図 : 神話級 イスカンドラのフード
+tagGDX1Blueprint_ArmorD141=設計図 : 神話級 ウルトスのフード
+tagGDX1Blueprint_ArmorD142=設計図 : 神話級 冬王の王冠
+tagGDX1Blueprint_ArmorD143=設計図 : 神話級 トロザンの帽子
+tagGDX1Blueprint_ArmorD144=設計図 : 神話級 ヴァルダンの帽子
+tagGDX1Blueprint_ArmorD145=設計図 : エルドリッチ ゲイズ
+tagGDX1Blueprint_ArmorD146=設計図 : 三神の誓約
+tagGDX1Blueprint_ArmorD147=設計図 : 神話級 毒刃のカウル
+tagGDX1Blueprint_ArmorD148=設計図 : 神話級 黒炎の面
+tagGDX1Blueprint_ArmorD149=設計図 : 神話級 光の守護者のヘルム
+tagGDX1Blueprint_ArmorD150=設計図 : 神話級 地獄騎士のフェイスガード
+tagGDX1Blueprint_ArmorD151=設計図 : 神話級 ウォーボーン バイザー
+tagGDX1Blueprint_ArmorD152=設計図 : 神話級 ブラッドレイジャーのカウル
+
+tagGDX1Blueprint_ArmorD153=設計図 : 神話級 ブレーズボーン マント
+tagGDX1Blueprint_ArmorD154=設計図 : 神話級 ストームウィーブ アーマー
+tagGDX1Blueprint_ArmorD155=設計図 : アヴェンジャーズ アーマー
+tagGDX1Blueprint_ArmorD156=設計図 : アラガストのローブ
+tagGDX1Blueprint_ArmorD157=設計図 : 神話級 ウィンドシーア グリーヴ
+tagGDX1Blueprint_ArmorD158=設計図 : 神話級 灰色の魔術師のフットパッド
+tagGDX1Blueprint_ArmorD159=設計図 : 神話級 ウィルムボーン ハンドガード
+tagGDX1Blueprint_ArmorD160=設計図 : 神話級 アイススコーン タロンズ
+tagGDX1Blueprint_ArmorD161=設計図 : 神話級 アルケイン ハーモニー レギンス
+tagGDX1Blueprint_ArmorD162=設計図 : かなり良いパンツ
+tagGDX1Blueprint_ArmorD163=設計図 : 神話級 タイタン ポールドロン
+tagGDX1Blueprint_ArmorD164=設計図 : 神話級 ヴァイルブラッド マント
+tagGDX1Blueprint_ArmorD165=設計図 : 神話級 ドレッド アーマー オブ アズラゴー
+tagGDX1Blueprint_ArmorD166=設計図 : 神話級 ディヴァインスチール ホーバーク
+
+tagGDX1Blueprint_ArmorD167=設計図 : ベルゴシアンのマスク
+
+tagGDX1Blueprint_ArmorD168=設計図: ラダガンのマスク
+tagGDX1Blueprint_ArmorD169=設計図: ライムタン マスク
+tagGDX1Blueprint_ArmorD170=設計図: ブラッド ナイトの面
+
+tagGDX1Blueprint_AccessoryB101=設計図 : ニンブル クレスト
+tagGDX1Blueprint_AccessoryB102=設計図 : ウォッチャー クレスト
+tagGDX1Blueprint_AccessoryB103=設計図 : トロールハート ウェストガード
+tagGDX1Blueprint_AccessoryB104=設計図 : パペットマスター リンクス
+tagGDX1Blueprint_AccessoryB105=設計図 : ストーンプレート ウェストガード
+
+tagGDX1Blueprint_AccessoryC101=設計図 : 神話級 平静石
+tagGDX1Blueprint_AccessoryC102=設計図 : ルーンファーザーの宝石
+tagGDX1Blueprint_AccessoryC103=設計図 : サングィヌス
+tagGDX1Blueprint_AccessoryC104=設計図 : 神話級 サンクトゥスの紋章
+tagGDX1Blueprint_AccessoryC105=設計図 : 神話級 ウィドウズ スティング
+tagGDX1Blueprint_AccessoryC106=設計図 : 神話級 命令の破片
+tagGDX1Blueprint_AccessoryC107=設計図 : 神話級 焦土のアミュレット
+tagGDX1Blueprint_AccessoryC108=設計図 : 神話級 苦痛の鎖
+tagGDX1Blueprint_AccessoryC109=設計図 : 神話級 錬金術師のベルト
+tagGDX1Blueprint_AccessoryC110=設計図 : 神話級 ヴォルケイナム
+tagGDX1Blueprint_AccessoryC111=設計図 : 神話級 戦闘軍医の標章
+tagGDX1Blueprint_AccessoryC112=設計図 : 神話級 アマラスタの印
+tagGDX1Blueprint_AccessoryC113=設計図 : 神話級 ゴリアテの印環
+tagGDX1Blueprint_AccessoryC114=設計図 : 神話級 エレメンタル バランスのルビー
+tagGDX1Blueprint_AccessoryC115=設計図 : 神話級 エレメンタル バランスのサファイア
+
+tagGDX1Blueprint_AccessoryD101=設計図 : 神話級 ストームシーア サファイア
+tagGDX1Blueprint_AccessoryD102=設計図 : 神話級 反逆的手法の包み
+tagGDX1Blueprint_AccessoryD103=設計図 : シンダープレート ガードル
+tagGDX1Blueprint_AccessoryD104=設計図 : 神話級 カラスターの標章
+tagGDX1Blueprint_AccessoryD105=設計図 : 消耗の標章
+tagGDX1Blueprint_AccessoryD106=設計図 : 神話級 氷炎の統治
+tagGDX1Blueprint_AccessoryD107=設計図 : ストーンガード ガードル
+tagGDX1Blueprint_AccessoryD108=設計図 : ストロングホールド ウェストガード
+tagGDX1Blueprint_AccessoryD109=設計図 : 神話級 慈悲のアバター
+tagGDX1Blueprint_AccessoryD110=設計図 : 神話級 ドリーグの悪疫
+tagGDX1Blueprint_AccessoryD111=設計図 : 神話級 ケアンの復讐者
+tagGDX1Blueprint_AccessoryD112=設計図 : 神話級 ティンカーの工夫
+tagGDX1Blueprint_AccessoryD113=設計図 : 神話級 ハンマーフォール ガードル
+tagGDX1Blueprint_AccessoryD114=設計図 : 神話級 サッシュ オブ ザ イモータル セージ
+tagGDX1Blueprint_AccessoryD115=設計図 : 神話級 暗黒夢の標章
+tagGDX1Blueprint_AccessoryD116=設計図 : 神話級 破門の標章
+tagGDX1Blueprint_AccessoryD117=設計図 : 神話級 ケルファト'ゾースのグリフ
+tagGDX1Blueprint_AccessoryD118=設計図 : 神話級 タイム-フラックス バンド
+tagGDX1Blueprint_AccessoryD119=設計図 : 神話級 バンド オブ ザ エターナル ホーント
+tagGDX1Blueprint_AccessoryD120=設計図 : 激動の盟約
+tagGDX1Blueprint_AccessoryD121A=設計図 : 好戦的囁きの導管
+tagGDX1Blueprint_AccessoryD121B=設計図 : 破壊的囁きの導管
+tagGDX1Blueprint_AccessoryD121C=設計図 : エルドリッチの囁きの導管
+tagGDX1Blueprint_AccessoryD121D=設計図 : 夜の囁きの導管
+tagGDX1Blueprint_AccessoryD121E=設計図 : アルケインの囁きの導管
+tagGDX1Blueprint_AccessoryD121F=設計図 : 野性の囁きの導管
+tagGDX1Blueprint_AccessoryD121G=設計図 : ルーンの囁きの導管
+tagGDX1Blueprint_AccessoryD121H=設計図 : 不朽の囁きの導管
+
+tagGDX1Blueprint_AccessoryF101=設計図 : イーサーボルト ペンダント
+tagGDX1Blueprint_AccessoryF102=設計図 : マルマスの心臓
+tagGDX1Blueprint_AccessoryF103=設計図 : リーヴァーの飢え
+tagGDX1Blueprint_AccessoryF104=設計図 : 殺意の標章
+tagGDX1Blueprint_AccessoryF105=設計図 : ザ オーバーシーア
+tagGDX1Blueprint_AccessoryF106=設計図 : 貪る者の標章
+
+#Relics
+tagGDX1RelicB101=暴食
+tagGDX1RelicB101Desc="終わりなき飢え。"
+tagGDX1RelicB102=スペクター
+tagGDX1RelicB102Desc="苦痛の魂が､ 石の中で 動き回る。"
+tagGDX1RelicB103=熱情
+tagGDX1RelicB103Desc="森羅万象の激怒。"
+tagGDX1RelicB104=剛勇
+tagGDX1RelicB104Desc="戦の華。"
+tagGDX1RelicB105=ヒステリー
+tagGDX1RelicB105Desc="死を越えた 狂気。"
+
+tagGDX1RelicC101=モータリティ
+tagGDX1RelicC101Desc="全事象は終わりを 告げなければ ならない という､ 絶え間なき 感情。"
+tagGDX1RelicC102=ヴェンデッタ
+tagGDX1RelicC102Desc="古敵の､ 無慈悲な追跡。"
+
+tagGDX1RelicD101=インピュリティ
+tagGDX1RelicD101Desc="下劣な欲望で汚された､ 生のアルケイン エナジー。"
+tagGDX1RelicD102=ヴェンジェンス
+tagGDX1RelicD102Desc="復讐とは､ 冷たく徹すべし。"
+tagGDX1RelicD103=アーコヴィアの哀歌
+tagGDX1RelicD103Desc="この石から､ 恐怖の歌が 発せられる。"
+tagGDX1RelicD104=災厄
+tagGDX1RelicD104Desc="破滅が､ 敵へと降りかかる。"
+tagGDX1RelicD105=ドゥーム
+tagGDX1RelicD105Desc="運命の手と化し､ 敵の運命を封じる。"
+tagGDX1RelicD106=コルヴァークの欺瞞
+tagGDX1RelicD106Desc="我への奉仕は即ち､ ケアンへの 奉仕である。 -エンピリオン"
+tagGDX1RelicD107=エルドリッチの契約
+tagGDX1RelicD107Desc="三神の束縛､ 解くことかなわず。"
+tagGDX1RelicD108=ニダラの大感染
+tagGDX1RelicD108Desc="危険な毒は､ 取引の材料。"
+tagGDX1RelicD109=エタニティ
+tagGDX1RelicD109Desc="一瞬の内に､ 存在のすべて。"
+tagGDX1RelicD110=皆殺し
+tagGDX1RelicD110Desc="流血三昧。"
+tagGDX1RelicD111=ウロボルークの刈取り
+tagGDX1RelicD111Desc="不死のマスター その人から 譲り受けた。"
+tagGDX1RelicD112=イグナファーの燃焼
+tagGDX1RelicD112Desc="イグナファーの石は､ ルミナリによって 古代の埋葬より 修復され､ 後に浄化された 唯一の アーティファクト ではなかった。"
+tagGDX1RelicD113=モグドロゲンの熱情
+tagGDX1RelicD113Desc="一匹狼は死して､ 群れ生き長らえる。"
+tagGDX1RelicD114=デスストーカー
+tagGDX1RelicD114Desc="獰猛な霊は､ 自由の身になる ことを切願する。"
+
+
+#Crafting
+tagGDX1CraftRandomLegendaryDesc2=鍛冶屋は､ レベル94までの レジェンダリー品作製の 可能性を秘めて､ これらの物にある 生のアルケイン パワーを結合する。 レベル58未満の キャラクターは､ 代わりに エピック アイテムを 造るだろう。
+tagGDX1CraftRandomLegendaryAccessoryDesc2=鍛冶屋は､ レベル94までの レジェンダリー品作製の 可能性を秘めて､ これらの物にある 生のアルケイン パワーを結合する。 レベル58未満の キャラクターは､ 代わりに エピック アイテムを 造るだろう。
+tagGDX1CraftRandomLegendaryItemDesc2=鍛冶屋は､ レベル94までの キャラクターが持つ レジェンダリー レベルに 合わせた､ 魔法のかかった アイテムを 作製する。
+
+tagGDX1CraftMaterial_AetherialVanguard=イセリアルの信書
+tagGDX1CraftMaterial_AetherialVanguard_Desc="イセリアル エナジーが吹き 込まれた､ アルケインの文書。 生者の目には 刺激が 強すぎる 情報を 伝達するために､ 使われる 可能性が高い。"
+
+tagGDX1CraftMaterial_AetherialVanguard02=イセリアルの変異原物質
+tagGDX1CraftMaterial_AetherialVanguard02_Desc="生きた肉体が近くに 来ると､ 容器の中で 凶暴に 動き回る､ 粘性のイーサー質 流体。"
+
+tagGDX1CraftMaterial_Wendigo=ウェンディゴの霊
+tagGDX1CraftMaterial_Wendigo_Desc="暗き可能性を秘める､ 邪悪な 霊魂。 霊は､ 力の契約を 囁きかける。"
+
+tagGDX1CraftMaterial_Ugdenbloom=ウグデンブルーム
+tagGDX1CraftMaterial_Ugdenbloom_Desc="その素晴らしい色を 保つため､ 真に強烈な 腐臭を放つ。"
+
+tagGDX1CraftMaterial_HeartOfDarkness=暗黒の心臓
+tagGDX1CraftMaterial_HeartOfDarkness_Desc="灰の祭壇への飢えで､ 邪悪な エナジーが 満ち溢れ ている。"
+
+#Consumables
+
+tagGDX1ConsumableBlueprintA01=レシピ : フレイムドリンカー 軟膏
+
+tagGDX1ConsumableA101=ハルゲイトのクリスタル
+tagGDX1ConsumableA101Desc="何かがそこから 逃れようと するように､ 奇妙な エナジーが 音を立てる..."
+
+tagGDX1ConsumableA102=カスパロフのクリスタル
+tagGDX1ConsumableA102Desc="何かがそこから 逃れようと するように､ 奇妙な エナジーが 音を立てる..."
+
+tagGDX1ConsumableBlueprintB101=レシピ : ウグデンジュース
+tagGDX1ConsumableBlueprintB102=レシピ : ウグデン膏薬
+tagGDX1ConsumableBlueprintB103=レシピ : ヴァイルスカー 軟膏
+tagGDX1ConsumableBlueprintB104=レシピ : ドレングールの霊薬
+tagGDX1ConsumableBlueprintB105=レシピ : モグドロゲンの霊薬
+
+tagGDX1ConsumableB101=ウグデンジュース
+tagGDX1ConsumableB101Desc="ウグデンブルームの 抽出物から 作られた､ 甘い匂いの 調合物。"
+tagGDX1ConsumableB102=ウグデン膏薬
+tagGDX1ConsumableB102Desc="ウグデンブルームの 濃縮物から 作られた､ 調合鎮静薬。"
+tagGDX1ConsumableB103=ヴァイルスカー 軟膏
+tagGDX1ConsumableB103Desc="凝固作用を早める､ 粘度の高い 調合物。"
+tagGDX1ConsumableB104=ドレングールの霊薬
+tagGDX1ConsumableB104Desc="ウグデンブルームの 幹から引き出した 強力な霊薬。"
+tagGDX1ConsumableB105=モグドロゲンの霊薬
+tagGDX1ConsumableB105Desc="モグドロゲン自身が 作り出した､ 強力な霊薬。"
+
+tagGDX1ConsumableF101=ヘックス オイル
+tagGDX1ConsumableF101Desc="魔女団の､ 腐敗の呪いが 込められた オイル。"
+tagGDX1ConsumableF102=カースド チンキ
+tagGDX1ConsumableF102Desc="瓶を砕いて､ 近くの敵に 残忍な呪いを 放つ。"
+tagGDX1ConsumableF103=イーサーウォード オイル
+tagGDX1ConsumableF103Desc="武器を､ イーサーの手から 保護するオイル。"
+tagGDX1ConsumableF104=ストームフレイム チンキ
+tagGDX1ConsumableF104Desc="瓶を砕いて､ 電撃を伴う炎の 爆発を 放出する。"
+tagGDX1ConsumableF105=ハンガラー オイル
+tagGDX1ConsumableF105Desc="武器に､ ウェンディゴの飢えを 吹き込む オイル。"
+tagGDX1ConsumableF106=邪悪なチンキ
+tagGDX1ConsumableF106Desc="瓶を砕いて､ 邪悪な霊を放ち 敵を脅かす。"
+tagGDX1ConsumableF107=明瞭のポーション
+tagGDX1ConsumableF107Desc="可能性を秘めた､ 粘性の 流体。" ^o他のキャラクターが 使用するよう､ 転送用 スタッシュに 置くことができます。
+
+tagGDX1Consumable_AttributeReset=再構成のトニック
+tagGDX1Consumable_AttributeReset_Desc="自身の全体像を表面的に 再構成すると､ 不気味な 暖かさに 包まれる。"
+
+
+
+#ItemEnchantment
+
+tagGDX1EnchantA101A=スターダスト
+tagGDX1EnchantA101Desc="注意深く集められた 流星の塵の､ アルケイン特性が 衰える ことはない。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantA102A=強力な スターダスト
+tagGDX1EnchantA102Desc="注意深く集められた 流星の塵の､ アルケインの特性が 衰える ことはない。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantA103A=ウィップヴァイン パウダー
+tagGDX1EnchantA103Desc="ウィップヴァインは 収穫が難しく､ 時には 死の危険が 及ぶが､ 薬や魔法に多用され､ その努力に 見合う 効果を生む。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantA104A=強力な ウィップヴァイン パウダー
+tagGDX1EnchantA104Desc="ウィップヴァインは 収穫が難しく､ 時には 死の危険が 及ぶが､ 薬や魔法に多用され､ その努力に 見合う 効果を生む。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantA105A=呪術師の口吻
+tagGDX1EnchantA105Desc="強力な粉末は､ 特に望ましくない 厄介物を 処分するために､ 魔女団が 使用する。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantA106A=強力な 呪術師の口吻
+tagGDX1EnchantA106Desc="強力な粉末は､ 特に望ましくない 厄介物を 処分するために､ 魔女団が 使用する。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantA107A=ブライト ビーストの膿疱
+tagGDX1EnchantA107Desc="屍霊術は魔女団の間では 滅多に使われないが､ これは そのために 用いる。 ブライト ビーストの膿は､ 適切に抽出 することで､ 特有の アルケイン特性が 得られる。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantA108A=強力な ブライト ビーストの膿疱
+tagGDX1EnchantA108Desc="屍霊術は魔女団の間では 滅多に使われないが､ これは そのために 用いる。 ブライト ビーストの膿は､ 適切に抽出 することで､ 特有の アルケイン特性が 得られる。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantA109A=ロットフレッシュ パウダー
+tagGDX1EnchantA109Desc="粉末の作成者は､ ウグデンボーグで 浮遊している 肥大した 人間の死体を 粉末化したものだと 主張した。 誰もその 真実を､ 知ろうとは 思わない。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantA110A=虚無の舌
+tagGDX1EnchantA110Desc="クトーニアンの悪鬼から 取った､ 粉末の舌。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantA111A=メイジキャップ パウダー
+tagGDX1EnchantA111Desc="メイジキャップは ウグデンボーグの 湿地に繁茂し､ 魔女団に生計と 加工素材を 提供する。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantA112A=呪術師の清純
+tagGDX1EnchantA112Desc="ケアンに新しく 現れたこの植物は､ リフトハウンドや 他の獣と同様に 現実間の障壁の 脆さを抜けてきた 可能性が高いが､ そのアルケイン特性は 魔女団の備蓄所を 豊かなもの にした。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantA113A=ブラッドローズの棘
+tagGDX1EnchantA113Desc="信じ難いほどに鋭い棘と 鮮やかな赤色から 名付けられた ブラッドローズの棘は､ 濃縮すると 強力な出血性の 毒を作り出す。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantA114A=呪術師の歓喜
+tagGDX1EnchantA114Desc="ウグデンボーグで育つ､ 希少なキノコから 得た粉末。 市民には珍味として､ 魔女団には強力な 原料として 考えられている。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantA115A=マシニスト パウダー
+tagGDX1EnchantA115Desc="かつてマルマスの 好況産業で作られた 魔法の粉末は､ 金属を強化し､ より強い衝撃にも 耐えうるように する。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantA116A=強力な マシニスト パウダー
+tagGDX1EnchantA116Desc="かつてマルマスの 好況産業で作られた 魔法の粉末は､ 金属を強化し､ より強い衝撃にも 耐えうるように する。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantA117A=虚無の脂
+tagGDX1EnchantA117Desc="扱いにくく非常に 不安定だが､ マルマスの アルカニストは､ この理解し難い材料を エンチャントに 利用できる ことを発見した。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantA118A=強力な 虚無の脂
+tagGDX1EnchantA118Desc="扱いにくく非常に 不安定だが､ マルマスの アルカニストは､ この理解し難い材料を エンチャントに利用できる ことを発見した。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantA119A=インプ アイ パウダー
+tagGDX1EnchantA119Desc="イセリアル インプの､ 膨れた目から 抽出した粉末。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantA120A=強力な インプ アイ パウダー
+tagGDX1EnchantA120Desc="イセリアル インプの､ 膨れた目から 抽出した粉末。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantA121A=スパークブルーム パウダー
+tagGDX1EnchantA121Desc="マルマス郊外で育ち 火色の花弁で知られる､ 生花から得た 粉末。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantA122A=強力な スパークブルーム パウダー
+tagGDX1EnchantA122Desc="マルマス郊外で育ち 火色の花弁で知られる､ 生花から得た 粉末。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantA123A=ブレーズコア パウダー
+tagGDX1EnchantA123Desc="燃え立つ獣の､ 燃え盛る心臓から 抽出した粉末。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantA124A=フレッシュワープ パウダー
+tagGDX1EnchantA124Desc="この魔法の粉は 人間の肉に決して 触れぬよう 細心の注意を払って 扱わなければ ならないが､ イセリアル コラプションから 素材を取り出すのは､ 恐らく最も難しい 部分だろう。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantA125A=虚無の灰
+tagGDX1EnchantA125Desc="クトーニアン レルムの灰は､ しばしば 斃したクトーニアンの 死体から見つかる。 実際にクトーニアン リフトに入って 見つけようと する愚か者は いない。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantA126A=ナイトスチール ポリッシュ
+tagGDX1EnchantA126Desc="マルマスの名産品は､ エルーランの ナイトブレイドたちに よく好まれる。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantA127A=メンダーズ パウダー
+tagGDX1EnchantA127Desc="マルマスの生存者によって 調合され､ 戦場で素早く 傷を癒やす。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantA128A=コロッサスの棘針
+tagGDX1EnchantA128Desc="イセリアル コロッサスは侮れない 相手だが､ 一体だけでも 一月の供給に 十分な素材を 得られる。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantA129A=ウェンディゴの毛皮
+tagGDX1EnchantA129Desc="ウェンディゴの毛房から 得た粉末は､ ラヴァジャーからの 贈り物。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantA130A=強力な ウェンディゴの毛皮
+tagGDX1EnchantA130Desc="ウェンディゴの毛房から 得た粉末は､ ラヴァジャーからの 贈り物。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantA131A=ブラッドスケイル パウダー
+tagGDX1EnchantA131Desc="ウグデンボーグの 一部地域で 時おり 見られる ブラッドスケイル スリスの､ 鱗から得た 粉末。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantA132A=強力な ブラッドスケイル パウダー
+tagGDX1EnchantA132Desc="ウグデンボーグの 一部地域で 時おり 見られる ブラッドスケイル スリスの､ 鱗から得た 粉末。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantA133A=スパイクシェル パウダー
+tagGDX1EnchantA133Desc="ウグデンボーグ スパイクシェルの 硬い甲羅から 得た粉末。 良い素材を取り出す ために 甲羅を潰すには､ 長い時間と 強い力が 必要になる。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantA134A=強力な スパイクシェル パウダー
+tagGDX1EnchantA134Desc="ウグデンボーグ スパイクシェルの 硬い甲羅から 得た粉末。 良い素材を取り出す ために 甲羅を潰すには､ 長い時間と 強い力が 必要になる。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantA135A=ホーンテッド パウダー
+tagGDX1EnchantA135Desc="ウグデンボーグ周辺で 時おり見られる 霊的存在が､ 残していく 粉末。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantA136A=強力な ホーンテッド パウダー
+tagGDX1EnchantA136Desc="ウグデンボーグ周辺で 時おり見られる 霊的存在が､ 残していく 粉末。"^w^n(すべての 両手武器 に適合)
+
+
+tagGDX1EnchantB101A=魔女団の理知
+tagGDX1EnchantB101Desc="彼らの暗き技術を 強化する ために､ 魔女団によって 作られた 特別製の 魔法粉末。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantB102A=強力な 魔女団の理知
+tagGDX1EnchantB102Desc="彼らの暗き技術を 強化する ために､ 魔女団によって 作られた 特別製の 魔法粉末。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantB103A=魔女団の狡猾
+tagGDX1EnchantB103Desc="彼らの感覚をより 鋭敏にするために､ 魔女団によって 作られた 特別製の 魔法粉末。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantB104A=強力な 魔女団の狡猾
+tagGDX1EnchantB104Desc="彼らの感覚をより 鋭敏にするために､ 魔女団によって 作られた 特別製の 魔法粉末。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantB105A=魔女団の恐怖
+tagGDX1EnchantB105Desc="彼らの敵の心理に 恐怖の 映像を 呼び起こすために､ 魔女団の 呪いが 込められた 特別製の毒。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantB106A=強力な 魔女団の恐怖
+tagGDX1EnchantB106Desc="彼らの敵の心理に 恐怖の 映像を 呼び起こすために､ 魔女団の 呪いが 込められた 特別製の毒。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantB107A=魔女団の災厄
+tagGDX1EnchantB107Desc="ウグデンボーグの様々な 植物から得た 下劣な毒を､ 効果を最大限 引き出すために 魔女団の魔法と 組み合わせた。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantB108A=強力な 魔女団の災厄
+tagGDX1EnchantB108Desc="ウグデンボーグの様々な 植物から得た 下劣な毒を､ 効果を最大限 引き出すために 魔女団の魔法と 組み合わせた。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantB109A=魔女の黒炎
+tagGDX1EnchantB109Desc="三神カルトの儀式に しばしば 関連する 邪悪な粉末は､ 魔女団が 儀式の呼び 出しの際に よく使用する。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantB110A=死霊の絶叫
+tagGDX1EnchantB110Desc="恐ろしい束縛の儀式を 通して､ 魔女団の 呪術師は､ ウグデンボーグの 悪霊を捕らえ 崩壊させる 才を持つ。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantB111A=スカイシャード パウダー
+tagGDX1EnchantB111Desc="最初にアルカニスト マスター トロザンが作り出した､ 魔女団が空輸の アルケイン 特性をよく用いる 粉末。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantB112A=バシリスクの噛みつき
+tagGDX1EnchantB112Desc="ウグデンボーグ バシリスクの 毒腺から 抽出した､ 強力な毒。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantB113A=バシリスクの凝視
+tagGDX1EnchantB113Desc="ウグデンボーグ バシリスクの 石化眼から 抽出した､ 強力な毒。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantB114A=シルヴァリアのエッセンス
+tagGDX1EnchantB114Desc="伝説はウグデンボーグで 生長し､ 沼地全体に 根を広げる 神話的 存在を語る。 この生物より 命名された エンチャントは､ 地域内の 様々な植物からの 特性を引き出す。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantB115A=ウグデンボーグの心臓
+tagGDX1EnchantB115Desc="ウグデンボーグの最も 強靭な ゴーレムの 石の心臓から 作った､ 強力なエンチャント。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantB116A=マルマスの救済
+tagGDX1EnchantB116Desc="イセリアルから自身を 防衛すべく､ マルマスの生存者が作った 強力なエンチャント。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantB117A=強力な マルマスの救済
+tagGDX1EnchantB117Desc="イセリアルから自身を 防衛すべく､ マルマスの生存者が作った 強力なエンチャント。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantB118A=マルマスの意志
+tagGDX1EnchantB118Desc="マルマスの鍛冶屋が 武器の振りを 強化するために 作った強力な エンチャントは､ 戦闘においても 同様に 機能する。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantB119A=強力な マルマスの意志
+tagGDX1EnchantB119Desc="マルマスの鍛冶屋が 武器の振りを 強化するために 作った強力な エンチャントは､ 戦闘においても 同様に 機能する。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantB120A=マルマスの魂
+tagGDX1EnchantB120Desc="民衆に鉄の意志を 鼓吹する､ 強化粉末。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantB121A=強力な マルマスの魂
+tagGDX1EnchantB121Desc="民衆に鉄の意志を 鼓吹する､ 強化粉末。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantB122A=マルマスの心臓
+tagGDX1EnchantB122Desc="マルマスの襲撃初期に おいて作られた､ 驚くほど強力な 粉末。 それはイーサーからの 借り物であり 行く行くは人類の 壊滅を招くだろうが､ 今のところは 価値ある 効果を持つ。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantB123A=強力な マルマスの心臓
+tagGDX1EnchantB123Desc="マルマスの襲撃初期に おいて作られた､ 驚くほど強力な 粉末。 それはイーサーからの 借り物であり 行く行くは人類の 壊滅を招くだろうが､ 今のところは 価値ある 効果を持つ。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantB124A=アルケイン ハート パウダー
+tagGDX1EnchantB124Desc="防具にもダメージを もたらしうる 不安定な 魔術師の粉末は､ アルケインの開拓者に とってリスクに見合う 能力を持つ。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantB125A=ハンマーフォール パウダー
+tagGDX1EnchantB125Desc="アルケインで鍛造した 鋼鉄の残存灰を 集めた粉末。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantB126A=スチールブルーム パウダー
+tagGDX1EnchantB126Desc="珍しいスチールブルーム から得た魔法の粉末で､ 花は 巨大な根より 吸い上げた 茎の中に 金属粒子を多量に 含む。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantB127A=タイフーン パウダー
+tagGDX1EnchantB127Desc="破壊的な嵐の力を､ 魔術師の粉末に 閉じ込めた。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantB128A=フォージファイア
+tagGDX1EnchantB128Desc="マルマス鍛冶屋の お気に入りである この粉末は､ 鍛冶で火力を高めるために よく用いられるが､ エンチャントとしても よく機能する。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantB129A=内臓腐敗の毒
+tagGDX1EnchantB129Desc="マルマスにのみ存在する 材料をふんだんに 使用した､ ナイトブレイド作の 致死毒。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantB130A=アルケイナム ダスト
+tagGDX1EnchantB130Desc="ギルダム アルケイナム用の 特別製エンチャントは､ 使用者の アルケイン能力を 高める。"^w^n(指輪と アミュレット に適合)
+
+tagGDX1EnchantB131A=ラヴァジャーの収穫
+tagGDX1EnchantB131Desc="ラヴァジャーが､ 彼の呪われた 崇拝者に与えた 贈り物。 それは､ 飽くなき飢えを 吹き込む。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantB132A=強力な ラヴァジャーの収穫
+tagGDX1EnchantB132Desc="ラヴァジャーが､ 彼の呪われた 崇拝者に与えた 贈り物。 それは､ 飽くなき飢えを 吹き込む。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantB133A=ラヴァジャーの目
+tagGDX1EnchantB133Desc="ラヴァジャーが､ 彼の呪われた 崇拝者に与えた 贈り物。 それは､ 無比の忠誠心を 引き起こす。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantB134A=強力な ラヴァジャーの目
+tagGDX1EnchantB134Desc="ラヴァジャーが､ 彼の呪われた 崇拝者に与えた 贈り物。 それは､ 無比の忠誠心を 引き起こす。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantB135A=ラヴァジャーの激怒
+tagGDX1EnchantB135Desc="ラヴァジャーが､ 彼の呪われた 崇拝者に与えた 贈り物。 それは､ 制御不能な激怒を 呼び覚ます。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantB136A=強力な ラヴァジャーの激怒
+tagGDX1EnchantB136Desc="ラヴァジャーが､ 彼の呪われた 崇拝者に与えた 贈り物。 それは､ 制御不能な激怒を 呼び覚ます。"^w^n(すべての 両手武器 に適合)
+
+tagGDX1EnchantB137A=ラヴァジャーの吐息
+tagGDX1EnchantB137Desc="ラヴァジャーが､ 彼の呪われた 崇拝者に与えた 贈り物。 その接触は､ 肉体に 重い傷や 疱疹を 引き起こす。"^w^n(すべての 片手武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1EnchantB138A=強力な ラヴァジャーの吐息
+tagGDX1EnchantB138Desc="ラヴァジャーが､ 彼の呪われた 崇拝者に与えた 贈り物。 その接触は､ 肉体に 重い傷や 疱疹を 引き起こす。"^w^n(すべての 両手武器 に適合)
+
+
+tagGDX1EnchantC101A=魔女団の保護パウダー
+tagGDX1EnchantC101Desc="儀式を守るべく 魔女団が作った､ 魔術の粉末。"^w^n(すべての防具 に適合)
+tagGDX1EnchantC102A=魔女団の黒灰
+tagGDX1EnchantC102Desc="魔女団によって クトーニアンの血を 吹き込まれた灰。"^w^n(すべての防具 に適合)
+tagGDX1EnchantC103A=魔女団の血灰
+tagGDX1EnchantC103Desc="魔女団によって ウェンディゴの血を 吹き込まれた灰。"^w^n(すべての防具 に適合)
+tagGDX1EnchantC104A=マルマスのソウルガード パウダー
+tagGDX1EnchantC104Desc="生存者をイセリアルの 憑依から守るために､ マルマスで作られた 魔術の粉末。 その効果を実証する 大胆な者は いない。"^w^n(すべての防具 に適合)
+tagGDX1EnchantC105A=マルマスのウーンドシアー パウダー
+tagGDX1EnchantC105Desc="緊急時に､ 傷を焼き焦がすのに 用いる魔術の粉末。 痛みを伴うが､ 出血よりは 望ましい 状況になる。"^w^n(すべての防具 に適合)
+tagGDX1EnchantC106A=マルマスの防御パウダー
+tagGDX1EnchantC106Desc="数時間に渡る 戦闘の疲れを回復 させるために 使用する､ 魔術の粉末。"^w^n(すべての防具 に適合)
+tagGDX1EnchantC107A=ウェンディゴ ブラッドセント パウダー
+tagGDX1EnchantC107Desc="失血を抑え､ より使用者への 追跡を困難にする､ ラヴァジャーの 贈り物。"^w^n(すべての防具 に適合)
+tagGDX1EnchantC108A=ウェンディゴ ソウルセント パウダー
+tagGDX1EnchantC108Desc="悪霊から魂を保護する､ ラヴァジャーの 贈り物。"^w^n(すべての防具 に適合)
+tagGDX1EnchantC109A=ウェンディゴ ライフセント パウダー
+tagGDX1EnchantC109Desc="命の巻糸を強める､ ラヴァジャーの 贈り物。"^w^n(すべての防具 に適合)
+
+
+
+
+#ItemComponents
+
+tagGDX1CompA101Name=力の印章
+tagGDX1CompA101Desc="ウルガード ザ マイティによって 記された印は､ 作者の著しい アルケイン パワーを 比類なき 物理の力に 集中させた。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1CompA102Name=刃の印章
+tagGDX1CompA102Desc="伝説のナイトブレイド ベルゴシアンが考案した 印は､ 暗殺者の致死的攻撃を 増幅し､ 標的の出血を 激しいものにした。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1CompA103Name=空の印章
+tagGDX1CompA103Desc="アルケイン マスター トロザンによって 最初に記された印は､ 聖なる空そのものを 呼び落とす。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1CompA104Name=荒廃の印章
+tagGDX1CompA104Desc="三神の力が吹き込まれた 印は､ 過去に犠牲者が 苦痛を受けた すべての病を 呼び起こす。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1CompA105Name=腐敗の印章
+tagGDX1CompA105Desc="この印の作者が歴史から 忘れ去られようとも､ このイーサーを 利用する 能力を誇る ことはできない。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1CompA106Name=虚無の印章
+tagGDX1CompA106Desc="この印の作成には､ 言語に絶する行動を 要した。 これを利用して 見つかったものは､ 飢えと腐敗の 力である。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1CompA107Name=夜の印章
+tagGDX1CompA107Desc="特に捕らえにくい 標的への準備として､ ナイトブレイド アマラスタが 考案した。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1CompA108Name=破壊の印章
+tagGDX1CompA108Desc="ウルズインの名誉を受けて 作られた印は､ 神々を嘲笑う者に 焼死を約束する。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1CompA109Name=影の印章
+tagGDX1CompA109Desc="ナイトブレイド ニダラのお気に入り であるこの印は､ 武器に 痛烈な酸を 注入する。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1CompA110Name=共鳴の印章
+tagGDX1CompA110Desc="ルミナリの精密な指示に 基いて作られた この印は､ 振るうのが アルケインに 精通しない者でも､ 武器の魔法特性を 強化する。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
+
+tagGDX1CompA111Name=汚染した心臓
+tagGDX1CompA111Desc="いまだにイーサーの腐敗と 共に鼓動する 心臓。"^w^n(アミュレット とメダル に適合)
+
+tagGDX1CompA112Name=燃え盛るルビー
+tagGDX1CompA112Desc="光り輝く炎の舞が､ 宝石の小面に 浮かぶ。"^w^n(アミュレット とメダル に適合)
+
+tagGDX1CompA113Name=ルーンバウンド トパーズ
+tagGDX1CompA113Desc="宝石の側面に刻まれた ルーンは､ その防御特性を 強化する。"^w^n(指輪､ アミュレット､ メダル に適合)
+
+tagGDX1CompA114Name=血まみれのクリスタル
+tagGDX1CompA114Desc="真珠のような 白きクリスタルは､ 筆舌に尽くし難い量の 流血を 吸い込んだ。"^w^n(指輪､ アミュレット､ メダル に適合)
+
+tagGDX1CompA115Name=魔法の土
+tagGDX1CompA115Desc="土は､ 生長と健康を 促進する 生命エッセンスを 吹き込まれた。"^w^n(すべての防具 に適合)
+
+tagGDX1CompA116Name=魔焦の板金
+tagGDX1CompA116Desc="致死的なアルケインの 攻撃から生き延びた 防具の残骸で､ 金属中に 魔法的 エナジーが 捕らえられ ている。"^w^n(すべての防具 に適合)
+
+tagGDX1CompA117Name=刃の板金
+tagGDX1CompA117Desc="致死的な刃の並びを 整えた防具。 無法者や､ 無慈悲な暴君に 好まれる。"^w^n(すべての防具 に適合)
+
+tagGDX1CompA118Name=ウグデンボーグの革
+tagGDX1CompA118Desc="ウグデンボーグとして 知られる地域に 生息する 獣から得た 革。 湿地の致死的特性は､ ケアンを徘徊 する中で 最も強靭な獣を 時に作り出す。"^w^n(すべての防具 に適合)
+
+
+tagGDX1CompB101Name=^k聖なる板金
+tagGDX1CompB101Desc="エンピリオン自身によって 祝福されたと 噂される､ 強力な防具一式から 取られた板金。"^w^n(肩､ 胴､ 頭の 防具 に適合)
+
+tagGDX1CompB102Name=^k生ける防具
+tagGDX1CompB102Desc="明らかにイセリアルの 操作を受けて 手中でのたうち回る 防具の板金は､ もはや金属よりも 肉に近い。"^w^n(肩､ 胴､ 頭の 防具 に適合)
+
+tagGDX1CompB103Name=^k巨人の板金
+tagGDX1CompB103Desc="驚くほど分厚い 板金。 その総量は､ 普通の人間には 持ち運んだり､ 動かすことも できない。"^w^n(胴と頭の 防具 に適合)
+
+tagGDX1CompB104Name=^kエルドリッチ ミラー
+tagGDX1CompB104Desc="鏡の表面は 様々な色に 移り変わり､ 覗き込むとまるで 現実とは 別の領域を見て いるように､ 酷い頭痛を 惹き起こす。"^w^n(胴と頭の 防具 に適合)
+
+tagGDX1CompB105Name=^k全滅の印章
+tagGDX1CompB105Desc="アルケインの印は､ 僅かな接触で 暴力と虐殺の感情を 呼び起こす。 それは､ 死に飢えている。"^w^n(アミュレット に適合)
+
+tagGDX1CompB106Name=^k先祖の印章
+tagGDX1CompB106Desc="アルケインの印は､ それまでの人生で 出会うことすら なかった先祖の 記憶すらも 思い起こす。"^w^n(アミュレット に適合)
+
+
+
+#ItemFactionBoosters
+tagGDX1BoosterCU_A01=ウグデンボーグ魔女団の承認状
+tagGDX1BoosterCU_B01=ウグデンボーグ魔女団の委任状
+tagGDX1BoosterCW_A01=バロウホルムの承認状
+tagGDX1BoosterCW_B01=バロウホルムの委任状
+tagGDX1BoosterPM_A01=マルマスの人々の承認状
+tagGDX1BoosterPM_B01=マルマスの人々の委任状
+
+tagGDX1BoosterAetherialVanguard_C01=イセリアルの先鋒の令状
+tagGDX1BoosterWendigo_C01=バロウホルムの令状
+tagGDX1BoosterBeast_C01=獣類の "令状"
+tagGDX1BoosterBeastDesc=グローブルによって 明らかに "書かれて" いるそれは､ どうやら 怒っており､ あなたの絵が 描かれている らしい。
+
+#Misc
+
+
+# Bonuses
+
+#Devotion
+
+#Attributes
+tagAttributeReset={^E}属性値をリセットするのに使う
+tagAttributeNoPointsUsed={^r}[リセットするべき属性ポイントは ありません]
+tagAttributeResetConfirmation=属性値を全部リセットしますか？
+
+#ItemSets
+tagGDX1ItemSetC018CName=アルカモスの苦難
+
+tagGDX1ItemSetC101Name=精神を汚す者
+tagGDX1ItemSetC101BName=魂を汚す者
+tagGDX1ItemSetC101Desc="精神は､ 意志を捻じ曲げる。"
+
+tagGDX1ItemSetC102Name=ザ シルバー ガーディアン
+tagGDX1ItemSetC102BName=ザ シルバー センチネル
+tagGDX1ItemSetC102Desc="退魔の防護､ 皇帝の銀の守護者は､ オカルトの脅威に 常に注意を 怠らなかった。"
+
+tagGDX1ItemSetC103Name=炎の予言者
+tagGDX1ItemSetC103Desc="心臓は焼けつく残り火､ 抑え切れない 破壊の衝動。"
+
+tagGDX1ItemSetC104Name=ザ メイジロード
+tagGDX1ItemSetC104Desc="かつて皇室で重用された メンバーであり､ アルカニストでも あった ホルガス エヴェリオンの 礼装。"
+
+tagGDX1ItemSetC105Name=ドレッドウォーカー
+tagGDX1ItemSetC105Desc="ドレッドウォーカーの まさにその 存在は､ 付近の生命を 説明し難い不安へと 陥れる。"
+
+tagGDX1ItemSetC106Name=ルミナリの礼装
+tagGDX1ItemSetC106Desc="ルミナリの特製 対策装備は､ 危険な任務に当たる 高位メンバーに 授けられた。"
+
+tagItemSetC009BName=虚ろな凝視
+tagItemSetC010BName=鋭敏な射手の任務
+tagItemSetC011BName=冒涜者の誓約
+tagItemSetC016BName=パネッティの模範
+tagItemSetC017BName=ドーンシールド
+tagItemSetC021BName=ザ イースタン オース
+tagItemSetC024BName=炎熱の番人
+tagItemSetC025BName=キャリドアの防御
+tagItemSetC026BName=ミュルミドン バスティオン
+tagItemSetC027BName=モグドロゲンの平静
+tagItemSetC028BName=ザ アルケイン テンペスト
+tagItemSetC029BName=エレメンタル ハーモニー
+
+
+tagGDX1ItemSetD101Name=クリーグの武装
+tagGDX1ItemSetD101Desc="旧バーウィッチ 刑務所長の防具は､ イセリアルの 汚染エッセンス によって 永久に歪められた。"
+
+tagGDX1ItemSetD102Name=自然の復讐者
+tagGDX1ItemSetD102Desc="モグドロゲンによって 祝福された防具は､ 自然の秩序を守る 彼のチャンピオンに 着用される。"
+
+tagGDX1ItemSetD103Name=彷徨える魂の飼い主
+tagGDX1ItemSetD103Desc="偉大なる力は､ ベールの彼方に 在る。 利用する術を学ぶべし､ 死とは一種の 娯楽にすぎぬ。 - ウロボルーク"
+
+tagGDX1ItemSetD104Name=オクタヴィアスの熱意
+tagGDX1ItemSetD104Desc="オクタヴィアス ガラドールは ルミナリの中で 最も着飾る ハンターの一人で あり､ 息を引き取るまで 城砦の司令官として 働いていた。"
+
+tagGDX1ItemSetD105Name=大異変
+tagGDX1ItemSetD105Desc="誰かがこれらを一同に集め､ 破壊的な力を解き放たぬよう､ 人類の安全のために ルミナリによって ばらばらに 隠されていた。"
+
+tagGDX1ItemSetD106Name=ストーンガード
+tagGDX1ItemSetD106Desc="メンヒルの信仰を忠実に 守る者､ ストーンガードの 装具。"
+
+tagGDX1ItemSetD107Name=リージョンの砦
+tagGDX1ItemSetD107Desc="ブラック リージョンの 盾の乙女､ パリオナ ダールの装具。"
+
+tagGDX1ItemSetD108Name=コルバの激怒
+tagGDX1ItemSetD108Desc="フロスナー王の じゃじゃ馬娘､ またの名を偉大なる 白狼の牙と言う コルバの防具。"
+
+tagGDX1ItemSetD109Name=闇炎の服装
+tagGDX1ItemSetD109Desc="三神の諍いの中､ 彼の従者に 授けられた 魔神 ソレイルの印の 装具。"
+
+tagGDX1ItemSetD110Name=ザ スペルスカージ
+tagGDX1ItemSetD110Desc="戦鎧に刻まれた､ 戦闘術とアルケイン能力の 不釣り合いな結合。"
+
+tagGDX1ItemSetD111Name=ザ メイジスレイヤー
+tagGDX1ItemSetD111Desc="帝国内の野良魔術師を 根絶せんがため､ ナイトブレイドによって 訓練された ルミナリ下部組織の､ メイジスレイヤーの 防具。"
+
+tagGDX1ItemSetD112Name=ヴァルグールの飢え
+tagGDX1ItemSetD112Desc="ヴァルグールは他の 生命への 飽くなき飢えに 呪われていたが､ ウェンディゴの精霊たる ラヴァジャーに よって 祝福された。"
+
+tagGDX1ItemSetD113Name=ザ ルーンバインダー
+tagGDX1ItemSetD113Desc="ルミナリ宝物庫の 原初の番人､ タリオス ザ ルーンバインダーの防護鎧。"
+
+tagGDX1ItemSetD114Name=ウロボルークの外装
+tagGDX1ItemSetD114Desc="不死のネクロマンサー､ ウロボルークが アーコヴィアに いた時の服装。 歴史から 消え失せようとも､ 隠された可能性を 秘める。"
+
+tagGDX1ItemSetD115Name=アラガストの傑作
+tagGDX1ItemSetD115Desc="マスター アラガストは ルミナリの密接な 協力者であり､ アーティファクトの 研究や､ その潜在性を 解き明かすのに 多大に貢献した。"
+
+tagGDX1ItemSetD116Name=ダガロンの破壊
+tagGDX1ItemSetD116Desc="ダガロンは多くの戒告を 受けた異端の 尋問官だったが､ ルミナリの内 大多数は､ 異端者がどのように 罰せられるかを 気にしていなかった。"
+
+tagGDX1ItemSetD117Name=デスガード
+tagGDX1ItemSetD117Desc="現世の看守､ 最終関門の守護者。"
+
+tagGDX1ItemSetD118Name=ディヴァイナの予見
+tagGDX1ItemSetD118Desc="星々は多くの秘密を持ち､ それらを聞かんと する不敵な者にのみ 囁いた。"
+
+tagGDX1ItemSetD119Name=闇き者の賜物
+tagGDX1ItemSetD119Desc="彼の帰還を抱き止める 死命の者への､ クトーンの贈り物。"
+
+tagGDX1ItemSetD120Name=ベルゴシアンの屠殺
+tagGDX1ItemSetD120Desc="雇い主を不安にさせる ほどの無謀な虐殺と 血の渇望で 悪名高い､ マスター ナイトブレイド ベルゴシアンが 身に着けた防具。"
+
+tagGDX1ItemSetD121Name=ラダガンの愚行
+tagGDX1ItemSetD121Desc="ルミナリへの異端､ 裏切り者であり､ 偉大なる守護者の 忠実なる 下僕と化した､ アスター ラダガンの防具。"
+
+tagGDX1ItemSetD122Name=ライムタン
+tagGDX1ItemSetD122Desc="皇室の隠れたる一員､ 潜入と政治的 破壊活動の達人､ ライムタンの防具。"
+
+tagGDX1ItemSetD123Name=ザ ブラッド ナイト
+tagGDX1ItemSetD123Desc="ブラッド ナイトとして 知られていた 深紅の王､ ロード ナザランの 血塗られた防具。"
+
+
+tagItemSetD001BName=大司法官の防護
+tagItemSetD002BName=聖なる調和
+tagItemSetD003BName=ネイチャーズ コールの礼装
+tagItemSetD004BName=曙光
+tagItemSetD005BName=ハービンジャーの伝言
+tagItemSetD006BName=裁判官の封印
+tagItemSetD007BName=デーモンスレイヤーの武装
+tagItemSetD008BName=銃身職工の破壊者
+tagItemSetD009BName=ワイルドハート ヴァンガード
+tagItemSetD010BName=千里眼の集中
+tagItemSetD011BName=インヴォーカーの意志
+tagItemSetD012BName=マーコヴィアンの要塞
+tagItemSetD013BName=ウルズインの地獄のアバター
+tagItemSetD014BName=ドリーグの欺瞞
+tagItemSetD015BName=デスマークの影
+tagItemSetD016BName=イスカンドラの統一
+tagItemSetD017BName=ウルトスのテンペスト
+tagItemSetD018BName=トロザンの空裂き
+tagItemSetD019BName=ヴァルダンの背信
+tagItemSetD020BName=卑刃の盟約
+tagItemSetD021BName=黒焦の誓約
+tagItemSetD022BName=光のガーディアン
+tagItemSetD023BName=地獄のチャンピオン
+tagItemSetD024BName=アグリヴィックスの激怒
+tagItemSetD025BName=ウォーボーン バスティオン
+tagItemSetD026BName=ブラッドレイジャーの果てなき狂乱
+tagItemSetD027BName=アルカモスの恐怖の印
+
+
+#Prefixes
+tagGDX1PrefixAA101=エンライトニング
+
+tagGDX1PrefixAA022={^Y}インクィジターズ
+tagGDX1PrefixAA023={^Y}ネクロマンサーズ
+
+tagGDX1PrefixAD101=インペネトラブル
+
+tagGDX1PrefixAO101=スピリア
+
+tagGDX1PrefixB101_WpnMelee1h_A={^G}エッセンス ドリンカーズ
+tagGDX1PrefixB102_WpnMelee1h_A={^G}ストーンフェイスド
+tagGDX1PrefixB103_WpnMelee1h_A={^G}ルーンカーブド
+tagGDX1PrefixB104_WpnMelee1h_A={^G}レイスバウンド
+tagGDX1PrefixB105_WpnMelee1h_A={^G}メイジストーム
+
+tagGDX1PrefixB101_Ar_A={^G}ストーンフェイスド
+tagGDX1PrefixB102_Ar_A={^G}ルーンカーブド
+tagGDX1PrefixB103_Ar_A={^G}レイスバウンド
+tagGDX1PrefixB104_Ar_A={^G}メイジストーム
+
+tagPrefixB022_Class_A={^G}タクティシャンズ
+tagPrefixB023_Class_A={^G}ピュリファイアズ
+tagPrefixB024_Class_A={^G}デシーヴァーズ
+tagPrefixB025_Class_A={^G}インフィルトレイターズ
+tagPrefixB026_Class_A={^G}メイジ ハンターズ
+tagPrefixB027_Class_A={^G}ヴィンディケイターズ
+tagPrefixB028_Class_A={^G}アポステイツ
+tagPrefixB029_Class_A={^G}デス ナイツ
+tagPrefixB030_Class_A={^G}ディファイラーズ
+tagPrefixB031_Class_A={^G}カバリスツ
+tagPrefixB032_Class_A={^G}リーパーズ
+tagPrefixB033_Class_A={^G}スペルバインダーズ
+tagPrefixB034_Class_A={^G}リチュアリスツ
+tagPrefixB035_Class_A={^G}インタラゲイターズ
+tagPrefixB036_Class_A={^G}サージスツ
+
+tagGDX1PrefixB101_Sh_A={^G}エッセンス ドリンカーズ
+tagGDX1PrefixB102_Sh_A={^G}バイルリドゥン
+tagGDX1PrefixB103_Sh_A={^G}ルーンカーブド
+tagGDX1PrefixB104_Sh_A={^G}メイジストーム
+tagGDX1PrefixB105_Sh_A={^G}レイスバウンド
+tagGDX1PrefixB106_Sh_A={^G}レイスウォーディッド
+tagGDX1PrefixB107_Sh_A={^G}ストーンフェイスド
+
+
+#Suffixes
+tagGDX1SuffixA101=オブ 
+
+tagGDX1SuffixB101_Wpn_A={^G}オブ トーメンテッド ソウルズ
+tagGDX1SuffixB102_Wpn_A={^G}オブ ソウルウォーディング
+tagGDX1SuffixB103_Wpn_A={^G}オブ スコーチト ルーンズ
+tagGDX1SuffixB104_Wpn_A={^G}オブ ケージド ソウルズ
+tagGDX1SuffixB105_Wpn_A={^G}オブ セレスチャル ラース
+
+tagGDX1SuffixB101_Ar_A={^G}オブ トーメンテッド ソウルズ
+tagGDX1SuffixB102_Ar_A={^G}オブ トーメンテッド ソウルズ
+tagGDX1SuffixB103_Ar_A={^G}オブ ソウルウォーディング
+tagGDX1SuffixB104_Ar_A={^G}オブ スコーチト ルーンズ
+tagGDX1SuffixB105_Ar_A={^G}オブ ケージド ソウルズ
+tagGDX1SuffixB106_Ar_A={^G}オブ ケージド ソウルズ
+
+tagGDX1SuffixB101_Sh_A={^G}オブ トーメンテッド ソウルズ
+tagGDX1SuffixB102_Sh_A={^G}オブ スコーチト ルーンズ
+tagGDX1SuffixB103_Sh_A={^G}オブ ケージド ソウルズ
+tagGDX1SuffixB104_Sh_A={^G}オブ セレスチャル ラース
+tagGDX1SuffixB105_Sh_A={^G}オブ アルケイン バリアズ
+tagGDX1SuffixB106_Sh_A={^G}オブ インポージング プレゼンス
+
+
+#ItemSkills
+
+
+#LootChests
+
+tagGDX1ChestWoodA01=風雨に曝されたチェスト
+tagGDX1ChestAltarD01=ウェンディゴの祭壇
+tagGDX1ChestMalmouthC01=鉄のチェスト
+tagGDX1ChestMalmouthD01=装飾されたチェスト
+tagGDX1ChestFleshC01=肉造りのチェスト
+tagGDX1ChestFleshD01=変質肉のチェスト
+
+tagGDX1ChestSpecial01=気高いチェスト
+tagGDX1ChestBucket01=不運な遺骸
+
+tagGDX1ChestFleshshaper=支配者の財宝
+tagGDX1ChestNemesis03=剣闘士の財宝
+
+tagGDX1ChestSecret01=隠された変質肉の戦利品
+
+tagGDX1BreakableA01=腐った切り株
+tagGDX1BreakableA02=魔女団の貯蔵所
+tagGDX1Breakable_UgdenbogA01=ウグデンボーグ茸
+tagGDX1Breakable_WendigoDoor=ウェンディゴの檻
+
+tagGDX1ChestBoss_Kraken=水浸しのチェスト
+tagGDX1Chest_Barrowholm=スコーヴの私物箱
+tagGDX1Chest_DravisClue=古い聖書台
+
+tagGDX1ChestBossOneShot_Fleshshaper=支配者の収蔵品
+tagGDX1ChestOneShot_Flesh=変質肉の隠し財宝
+tagGDX1ChestOneShot_GloomwaldHidden=ネインの隠匿物
+tagGDX1ChestOneShot_MalmouthHidden=リクターの貯蔵物
+
+tagGDX1Chest_MadRamblingsReward=イヴォンダの贈り物
+tagGDX1Chest_MadRamblingsLoot=イヴォンダの隠し財宝
+tagGDX1Chest_MadRamblingsNote=イヴォンダのチェスト
+
+tagGDX1Chest_KatrineCorpse=カトリーネの遺体
+tagGDX1Chest_RenochCorpse=レノックの遺体
+tagGDX1Chest_UnknownCorpse=腐敗した死骸
+
+tagGDX1ChestGauntletChestD01=喪亡の聖骨箱
+
+
+#Interactive Objects
+
+tagGDX1DoorWendigoLocked= {^R} ~ スコーヴ エグデナーによって ロックされている
+tagGDX1DoorPuppetmasterLocked= {^R} ~ イセリアルによってロックされている
+tagGDX1DoorSlumsLocked= {^R} ~ レジスタンスによってロックされている
+tagGDX1DoorDocksLocked= {^R} ~ イセリアルによってロックされている
+tagGDX1DoorEnclaveLocked= {^R} ~ イセリアルによってロックされている
+
+tagGDX1LeverFleshFactory=イーサー クリスタル
+tagGDX1AetherialRift=イセリアル リフト
+
+
+#Quest Items
+
+
+#Breakables
+tagGDX1Quest_CorpseWagon_01=イセリアルの死体ワゴン
+tagGDX1Quest_FactoryVent=肉に覆われた孔
+tagGDX1Quest_ObsidianCrystal=ルーンが刻まれたオブシディアン
+
+#Dungeon Doors
+tagGDX1UGDoorFactoryEntrance=肉に覆われた入口
+tagGDX1UGDoorSlums=キャンドル地区
+tagGDX1UGDoorIndust=スチールキャップ地区
+tagGDX1UGDoorHideout=レジスタンス 避難所
+tagGDX1UGDoorFactoryGeneric=肉に覆われた扉
+tagGDX1UGDoorFactoryHeart=中心部
+tagGDX1UGDoorSewerGeneric=下水道口
+tagGDX1RiftVoidExit=虚無界 出口
+tagGDX1WendioDoor=地下室 入口
+tagGDX1WitchDoor=住処 入口
+tagGDX1FleshFactoryDoor=肉の入口
+tagGDX1DoorMapleStump01=聖地 入口
+tagGDX1DoorOvergrownCave=草に覆われた洞穴 入口
+tagGDX1DoorLighthouse=灯台 入口
+tagGDX1CarraxusDoor=キャラクサスのねぐら
+
+tagGDX1DoorOneWayAncientGrove=森からの脱出
+tagGDX1EpicDoor_AncientGrove=古代の森の門
+tagGDX1EpicDoor_AncientGroveLocked= {^R} ~ モグドロゲンによってロックされている (スケルトン キーが必要)
+
+#Doors
+tagGDX1Door_Vine=ツル
+tagGDX1Door_Flesh=生ける肉の扉
+tagGDX1Door_Puppetmaster=生ける肉の扉
+
+
+#DLC
+tagGDX1DLCIllusionA01=イリュージョン: 黒騎士の防具
+tagGDX1DLCA01=黒騎士の防具
+tagGDX1DLCA01Desc="不吉な黒騎士の防具。"
+
+
+tagGDX1DLCIllusionA02=イリュージョン: 銀騎士の防具
+tagGDX1DLCA02=銀騎士の防具
+tagGDX1DLCA02Desc="神聖な銀騎士の防具。"
+
+tagGDX1DLCIllusionA03=イリュージョン: 竜将軍のコレクション
+tagGDX1DLCA03=竜将軍のコレクション
+tagGDX1DLCA03Desc="尊敬すべき竜将軍の コレクション。"
+
+tagGDX1DLCIllusionA04=イリュージョン: 白魔導士
+tagGDX1DLCA04=白魔導士の盛装
+tagGDX1DLCA04Desc="謎めいた白魔導士の 盛装。"
+
+tagGDX1DLCIllusionA05=イリュージョン: 暗黒魔導士
+tagGDX1DLCA05=暗黒魔導士の盛装
+tagGDX1DLCA05Desc="卑劣な暗黒魔導士の 盛装。"
+
+tagGDX1DLCIllusionA06=イリュージョン: ウルフアーマー
+tagGDX1DLCA06=グレートウルフ アーマー
+tagGDX1DLCA06Desc="獰猛なグレートウルフ アーマーの一部。"
+
+tagGDX1DLCIllusionB01=イリュージョン : モグドロゲン の 聖なる 鎧
+tagGDX1DLCB01=モグドロゲン の 聖なる 鎧
+tagGDX1DLCB01Desc=「 獣神 モグドロゲン の 鎧。」
+
+tagGDX1DLCIllusionB02=イリュージョン : ラトッシュ の 聖なる 法衣
+tagGDX1DLCB02=ラトッシュ の 聖なる 法衣
+tagGDX1DLCB02Desc=「 ヴェール の 番人、 ラトッシュ の 祭服。」
+
+tagGDX1DLCIllusionB03=イリュージョン : エンピリオン の 聖なる 鎧
+tagGDX1DLCB03=エンピリオン の 聖なる 鎧
+tagGDX1DLCB03Desc=「 神々 の 中 で 最も 偉大なる 者、 エンピリオン の 鎧」
+
+tagGDX1DLCIllusionB04=イリュージョン : クトーン の 神具
+tagGDX1DLCB04=クトーン の 神具
+tagGDX1DLCB04Desc=「 死せる 神 クトーン の 断ち切ら れた 鎖。」
+
+tagGDX1DLCIllusionB05=イリュージョン : 五輪 の 祭服
+tagGDX1DLCB05=五輪 の 祭服
+tagGDX1DLCB05Desc=「 イセリアル の 法 を 司る 《 五輪》 の 祭服。」
+
+tagGDX1DLCIllusionHelmInvisible=見えないヘルム
+tagGDX1DLCIllusionHelmInvisibleDesc="重量0%で防護は100%。 しかも乳製品 不使用です。"
+
+tagGDX1DLCIllusionShouldersInvisible=見えないショルダーガード
+tagGDX1DLCIllusionShouldersInvisibleDesc="重量0%で防護は100%。 しかも乳製品 不使用です。"
+
+tagGDX1DLCIllusionMedalInvisible=見えないメダル
+tagGDX1DLCIllusionMedalInvisibleDesc="どのピンも100% 認知されません。 しかも乳製品 不使用です。"
+
+
+

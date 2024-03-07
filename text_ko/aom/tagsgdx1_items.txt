@@ -1,0 +1,1936 @@
+
+#Weapons
+
+
+tagGDX1WeaponSwordB101={^L}웬디고 발톱
+tagGDX1WeaponSwordB101Desc="발톱에서 부식의 연기가 난다."
+tagGDX1WeaponSwordB102={^L}웬디고 갈고리
+tagGDX1WeaponSwordB102Desc="발톱에서 오물이 떨어진다."
+
+tagGDX1WeaponSwordC101={^B}엘고로스의 정화된 칼
+tagGDX1WeaponSwordC101_Desc="크토니안의 오염의 손길로 더럽혀진 적도 있었지만, 광휘단에 의해 과거의 빛을 되찾게 되었다."
+tagGDX1WeaponSwordC104={^B}군단병의 자존심
+
+tagGDX1WeaponSwordD101={^I}죽음의 경계
+tagGDX1WeaponSwordD102={^I}파가르의 배신
+tagGDX1WeaponSwordD102_Desc="그 어떤 배반의 순간도 인퀴지터 파가르가 광휘단의 훈련 시설에서 자신이 공허의 힘과 함께하고 있음을 밝혔던 순간보다 심한 타격으로 느껴진 적은 없었다."
+tagGDX1WeaponSwordD105={^I}재난
+tagGDX1WeaponSwordD106={^I}블레이즈하트
+tagGDX1WeaponSwordD106_Desc="칼자루에는 피로 글자 D가 새겨져 있다."
+tagGDX1WeaponSwordD107=(S) {^I}벨고시안의 참격검
+
+tagGDX1WeaponSwordF101={^B}말무스 절단검
+tagGDX1WeaponSwordF102={^B}말무스 블레이드
+tagGDX1WeaponSwordF103={^B}웬디고 턱뼈
+tagGDX1WeaponSwordF104={^I}말무스의 탈환자
+
+
+tagGDX1WeaponBluntB101={^L}바르골의 심장
+tagGDX1WeaponBluntB101Desc="바르골의 바위 심장이 치명적인 냉기를 뿜어낸다."
+tagGDX1WeaponBluntB102={^L}바르골의 핵
+tagGDX1WeaponBluntB102Desc="한때 생명력을 지녔던 바르골의 핵은 자신의 부활을 노리며 생명의 정수를 갈망하고 있다."
+
+tagGDX1WeaponBluntC101={^B}데드비터
+
+tagGDX1WeaponBluntD101={^I}말라코르의 주입
+tagGDX1WeaponBluntD101_Desc="광휘단과 밀접한 동료였던 아케니스트 말라코르는, 그들의 방식대로 엘드리치 차원의 존재들과 싸우기 위해 원소의 불길을 이용해 이 무기를 만들었다."
+tagGDX1WeaponBluntD103={^I}아마라스타의 분쇄기
+tagGDX1WeaponBluntD104={^I}퍼멜러
+tagGDX1WeaponBluntD105=(S) {^I}스톤가드 난타철퇴
+
+tagGDX1WeaponBluntF101={^B}말무스 워해머
+tagGDX1WeaponBluntF102={^B}말무스 철퇴
+tagGDX1WeaponBluntF103={^B}웬디고 철퇴
+tagGDX1WeaponBluntF104={^I}웬디고의 울부짖음
+
+tagGDX1WeaponAxeB101={^L}서비터의 날선발톱
+tagGDX1WeaponAxeB102={^L}서비터의 오염기
+tagGDX1WeaponAxeB103={^Y}피쏟는 절단도끼
+
+tagGDX1WeaponAxeC101={^B}할보르의 박피도끼
+
+tagGDX1WeaponAxeD101={^I}래비저의 상처
+tagGDX1WeaponAxeD101_Desc="과거에 현신했었던 위대한 래비저가 남긴 발톱으로 만들어졌다."
+tagGDX1WeaponAxeD103={^I}나이트클로
+tagGDX1WeaponAxeD104={^I}이성의 끝자락
+tagGDX1WeaponAxeD104_Desc="이 무기가 어느 쪽을 미치게 만드는 지는 확실하지 않다. 공격받은 자인지...휘두르는 자인지."
+tagGDX1WeaponAxeD105=(S) {^I}코르바의 참수도끼
+tagGDX1WeaponAxeD106=(S) {^I}코르바의 광란
+
+tagGDX1WeaponAxeF101={^B}마녀단 절단도끼
+tagGDX1WeaponAxeF102={^B}마녀단의 도끼
+tagGDX1WeaponAxeF103={^B}웬디고 절단도끼
+tagGDX1WeaponAxeF104={^I}마녀의 달
+
+
+tagGDX1WeaponGun1hB101={^L}우그덴늪 하울러
+tagGDX1WeaponGun1hB101Desc="웬디고의 영혼이 주입되어 있다."
+tagGDX1WeaponGun1hB102={^L}우그덴늪 맹독발사기
+tagGDX1WeaponGun1hB102Desc="발사되는 모든 탄환은 우그덴늪에 사는 다양한 야수들로부터 얻은 재료의 독특한 혼합물에 적셔진다."
+tagGDX1WeaponGun1hB103={^Y}폭풍파도 피스톨
+
+tagWeaponGun1hC013B={^B}중재자
+tagGDX1WeaponGun1hC101={^B}교리반대자
+tagGDX1WeaponGun1hC101B={^B}교리반대자
+tagGDX1WeaponGun1hC102={^B}알두르의 이단자추적
+tagGDX1WeaponGun1hC102_Desc="유명한 이단자 사냥꾼이자 갈바르'투울의 살해자, 인퀴지터 알두르의 휴대무기."
+tagGDX1WeaponGun1hC103={^Z}가르가볼의 코어
+tagGDX1WeaponGun1hC103_Desc="한 때 강력했던 수호자의 불꽃이 여전히 그 내부에서 빛난다."
+tagGDX1WeaponGun1hC108={^B}울토스의 폭풍발사기
+tagGDX1WeaponGun1hC110=(S) {^B}광휘단 특무권총
+
+tagGDX1WeaponGun1hD101={^I}모르구울의 필멸성
+tagGDX1WeaponGun1hD101_Desc="마스터 모르구울은, 사령술의 힘과 치명적인 독소들을 조합하여 부패와 부식을 엄청나게 가속하는 촉매를 만들어내어 이 권총을 위한 탄환을 완성했다."
+tagGDX1WeaponGun1hD102={^I}안데로스의 증폭기
+tagGDX1WeaponGun1hD102_Desc="인퀴지터 안데로스가 이미 가공할 수준이던 그의 비전 마법 룬 활용 능력을 증폭하겠다는 명확한 의도로 고안한 권총."
+tagGDX1WeaponGun1hD103={^I}아케이넘 엘렉트롤리스
+tagGDX1WeaponGun1hD103_Desc="은빛 탑의 위대한 아케니스트였던 마스터 아그리빅스의 정확한 설계에 따라 만들어졌다."
+tagGDX1WeaponGun1hD107={^I}신더코어
+tagGDX1WeaponGun1hD108=(S) {^I}요새의 포화
+tagGDX1WeaponGun1hD109=(S) {^I}암흑화염 소각기
+tagGDX1WeaponGun1hD110=(S) {^I}다갈론의 파괴기
+tagGDX1WeaponGun1hD110_Desc="초자연적인 힘을 실어 탄환을 발사하기 위해 총신의 안쪽에 룬이 새겨져 있다."
+tagGDX1WeaponGun1hD111=(S) {^I}다갈론의 소멸기
+tagGDX1WeaponGun1hD112={^I}하가라드식 집행기
+tagGDX1WeaponGun1hD112_Desc="하가라드의 룬 원본의 조각이 들어있는 탄창 덕분에, 모든 탄환에 뼈도 얼릴 듯한 냉기가 주입된다."
+tagGDX1WeaponGun1hD114={^F}가르가볼의 타락
+tagGDX1WeaponGun1hD114_Desc=자연을 수호하는 자랑스러운 존재였으나, 공허의 오염의 손길에 의해 영구히 훼손되고 말았다."
+
+tagGDX1WeaponGun1hF101={^B}마녀단 핸드캐논
+tagGDX1WeaponGun1hF101_Desc="외형은 투박하지만, 마녀단의 비밀스러운 방식으로 마력이 부여되어 있다."
+tagGDX1WeaponGun1hF102={^B}마녀단 맹독발사기
+tagGDX1WeaponGun1hF102_Desc="외형은 투박하지만, 마녀단의 비밀스러운 방식으로 마력이 부여되어 있다."
+tagGDX1WeaponGun1hF103={^B}웬디고 연발권총
+tagGDX1WeaponGun1hF104={^I}주술력 발산기
+
+
+tagGDX1WeaponGun2hB101={^L}우그덴늪 섬광투사기
+tagGDX1WeaponGun2hB101Desc="늪지대 골렘의 돌로된 핵은 비전 마법 에너지에 대한 놀라운 반응성을 보이는 것이 확인되었고, 이를 이용해 갑옷이나 도구는 물론 총기까지도 만들 수 있게 되었다."
+tagGDX1WeaponGun2hB102={^L}우그덴늪 담즙발사기
+tagGDX1WeaponGun2hB103={^L}우그덴늪 화살발사기
+tagGDX1WeaponGun2hB104={^L}우그덴늪 마력투사기
+tagGDX1WeaponGun2hB105={^Y}화염감시자 라이플
+
+tagGDX1WeaponGun2hC101={^B}심문관
+tagGDX1WeaponGun2hC101B={^B}심문관
+tagGDX1WeaponGun2hC102={^B}스피릿 캐논
+tagGDX1WeaponGun2hC102_Desc="고통받은 영혼들의 정수로 만들어졌다."
+tagGDX1WeaponGun2hC103={^B}타오르는 정화자
+tagGDX1WeaponGun2hC106={^B}아마라스타식 칼날투척기
+tagGDX1WeaponGun2hC106_Desc="고위 나이트블레이트 아마라스타의 전통에 얽매이지 않은 설계."
+tagGDX1WeaponGun2hC110={^B}우주적 급류
+
+tagWeaponGun2hD001B={^I}적수
+tagWeaponCrossbow2hD003B={^I}북부 고룡
+tagGDX1WeaponGun2hD101={^I}엘고로스의 이보커
+tagGDX1WeaponGun2hD102={^I}공포소각기
+tagGDX1WeaponGun2hD102_Desc="이 총에서 방출되는 진한 불길은 설정된 목표에게만큼이나 사용자에게도 위험하다."
+tagGDX1WeaponGun2hD104={^I}길도르의 압착기
+tagGDX1WeaponGun2hD104_Desc="광휘단의 비밀들이 사용된 이 무기는 발사될 때마다 헤아리기 힘들 정도의 위력을 뿜어낸다."
+tagGDX1WeaponGun2hD106={^I}베놈랜스
+tagGDX1WeaponGun2hD107=(S) {^I}룬바인더의 주문투척기
+
+tagGDX1WeaponGun2hF101={^B}말무스 카빈
+tagGDX1WeaponGun2hF102={^B}말무스 라이플
+tagGDX1WeaponGun2hF103={^B}웬디고 말뚝발사기
+tagGDX1WeaponGun2hF104={^I}디솔레이터
+tagGDX1WeaponGun2hF104_Desc="황폐화에 따라 모든 적이 잠시 느려진다."
+
+
+tagGDX1WeaponMelee2hB101={^L}뒤틀린 자의 코어
+tagGDX1WeaponMelee2hB102={^L}뒤틀린 자의 파편
+tagGDX1WeaponMelee2hB103={^Y}복부분쇄 전쟁망치
+
+tagGDX1WeaponMelee2hC101={^B}영혼분할기
+tagGDX1WeaponMelee2hC101_Desc="이 낫의 날은 피부 그 이상을 벤다고 전해진다."
+tagGDX1WeaponMelee2hC102={^B}체사린의 신념
+tagGDX1WeaponMelee2hC107={^B}울토스의 주먹
+
+tagWeaponMelee2hD002B={^I}길로틴
+tagGDX1WeaponMelee2hD101={^I}죽음의 범위
+tagGDX1WeaponMelee2hD102={^I}죽음의 관문 수호자
+tagGDX1WeaponMelee2hD102_Desc="우로보룩이 한때 직접 사용했었다는 소문이 따라다니는 이 무기의 날은 살짝만 스쳐도 영혼들을 붙잡아 둘 수 있다."
+tagGDX1WeaponMelee2hD103={^I}아르카노르, 광휘단의 검
+tagGDX1WeaponMelee2hD103_Desc="여러 세기 동안 광휘단 조직 내에서 단장으로부터 단장에게로 대대로 전해져왔던 의식용 검."
+tagGDX1WeaponMelee2hD107={^I}거트스매셔
+tagGDX1WeaponMelee2hD107_Desc="과거에 희생됐던 자들의 내장들의 액체가 끝없이 떨어진다."
+tagGDX1WeaponMelee2hD108=(S) {^I}복수자의 분쇄기
+
+tagGDX1WeaponMelee2hF101={^B}마녀단 두개골분쇄기
+tagGDX1WeaponMelee2hF102={^B}말무스 그레이트소드
+tagGDX1WeaponMelee2hF103={^B}웬디고 참수도끼
+tagGDX1WeaponMelee2hF104={^I}블레이즈러쉬
+
+
+tagGDX1WeaponCaster1hA101={^W}전승자 셉터
+tagGDX1WeaponCaster1hA102={^W}탈환자 셉터
+tagGDX1WeaponCaster1hA103={^W}전승자 대거
+tagGDX1WeaponCaster1hA104={^W}탈환자 대거
+
+tagGDX1WeaponCaster1hB101={^L}우그덴늪 화염의분투
+tagGDX1WeaponCaster1hB102={^L}우그덴늪 차가운분투
+tagGDX1WeaponCaster1hB103={^L}우그덴늪 폭풍의분투
+tagGDX1WeaponCaster1hB104={^L}승천자의 마력도체
+tagGDX1WeaponCaster1hB105={^L}승천자의 마력원천
+tagGDX1WeaponCaster1hB106={^Y}서리부패 완드
+tagGDX1WeaponCaster1hB107={^Y}죽음의 힘 셉터
+tagGDX1WeaponCaster1hB108={^L}테오딘 마르셀의 심장
+tagGDX1WeaponCaster1hB108_Desc="이 심장의 주인이던 자의 힘이 여전히 안에서 요동치는 파편."
+
+tagGDX1WeaponCaster1hC101={^B}래비저의 갈고리
+tagGDX1WeaponCaster1hC102={^B}자라북의 이빨
+tagGDX1WeaponCaster1hC102_Desc="마스터 자라북이 사용하던 의식용 칼로 장막 자체를 베어넘긴다고 전해진다."
+tagGDX1WeaponCaster1hC103={^B}울자드의 전도체
+tagGDX1WeaponCaster1hC103_Desc="셉터 안에 천상의 숨결을 영구히 가두어 두었다."
+tagGDX1WeaponCaster1hC104={^B}마력 폭풍 생성기
+tagGDX1WeaponCaster1hC105={^B}가르'달부르의 손가락
+tagGDX1WeaponCaster1hC105_Desc="가르'달부르가 최후의 순간 그를 처형한 자들에게 할 말은 하나 뿐이었다."
+tagGDX1WeaponCaster1hC113={^B}거센 불길의 스펠블레이드
+tagGDX1WeaponCaster1hC114={^B}사이클론 소환기
+tagGDX1WeaponCaster1hC115=(S) {^B}드레드워커 단검
+tagGDX1WeaponCaster1hC116={^Z}말무스의 셉터
+tagGDX1WeaponCaster1hC116_Desc="무너진 항구도시 발버리의 광경이 당신의 머릿속에 흘러넘친다."
+
+tagGDX1WeaponCaster1hD101={^I}두려운불길
+tagGDX1WeaponCaster1hD102={^I}속세관통자
+tagGDX1WeaponCaster1hD102_Desc="마치 열쇠가 자물쇠에 들어맞는 것처럼, 이 칼날은 현실 공간들 사이를 이상하리만치 쉽게 넘나든다."
+tagGDX1WeaponCaster1hD103={^I}드레드위버
+tagGDX1WeaponCaster1hD104={^I}냉기불꽃 생성기
+tagGDX1WeaponCaster1hD105={^I}엘고로스의 룬
+tagGDX1WeaponCaster1hD105_Desc="엘고로스가 만든 최초의 폭풍상자에서 영감을 얻어 만들어진, 룬들로 화려하게 장식된 셉터."
+tagGDX1WeaponCaster1hD106={^I}주문흡인기
+tagGDX1WeaponCaster1hD106_Desc="이 셉터는 굶주린 듯이 주문의 힘을 빨아들이며, 심지어 사용자의 주문까지도 흡인하려할 것이다."
+tagGDX1WeaponCaster1hD113={^I}유행병
+tagGDX1WeaponCaster1hD114={^I}현실의 불꽃
+tagGDX1WeaponCaster1hD114_Desc="이 셉터를 응시하고 있으면 현실 너머의 광막하며 터무니없고도 압도적인 공백을 바라보는 느낌을 받는다."
+tagGDX1WeaponCaster1hD115=(S) {^I}길 잃은 영혼들의 횃불
+tagGDX1WeaponCaster1hD116=(S) {^I}알라가스트의 폭풍연결체
+tagGDX1WeaponCaster1hD117=(S) {^I}죽음의 경비자 칼날
+tagGDX1WeaponCaster1hD118={^F}말무스의 포고
+tagGDX1WeaponCaster1hD118Desc="무너진 항구도시 발버리의 광경이 당신의 머릿속에 흘러넘친다."
+
+tagGDX1WeaponCaster1hF101={^B}마녀단 에테르불꽃
+tagGDX1WeaponCaster1hF102={^B}마녀단 산성단검
+tagGDX1WeaponCaster1hF103={^B}마녀단 주문결합기
+tagGDX1WeaponCaster1hF104={^B}말무스 화염투사기
+tagGDX1WeaponCaster1hF105={^B}말무스 폭풍투사기
+tagGDX1WeaponCaster1hF106={^B}말무스 냉기방출기
+tagGDX1WeaponCaster1hF107={^B}웬디고 피흡인기
+tagGDX1WeaponCaster1hF108={^B}웬디고 혼돈단검
+tagGDX1WeaponCaster1hF109={^B}웬디고 에테르단검
+tagGDX1WeaponCaster1hF110={^I}주술화염
+tagGDX1WeaponCaster1hF111={^I}하가라즈의 발톱
+
+
+#Shields
+tagGDX1ShieldB101={^L}거대한 요새
+tagGDX1ShieldB101Desc="방패의 크기 자체가 거인의 것과 같은 힘을 요구한다."
+tagGDX1ShieldB102={^L}거대한 방벽
+tagGDX1ShieldB103={^Y}바위장벽 보호방패
+
+tagGDX1ShieldC101={^B}드레드가드
+tagGDX1ShieldC102={^B}군단병의 징벌
+tagGDX1ShieldC102_Desc="이 방패의 역사는 거의 검은군단의 그것만큼이나 길다."
+tagGDX1ShieldC107={^B}폭풍천벌 방벽
+
+tagShieldD002B={^I}종착역
+tagShieldD003B={^I}언터처블
+tagGDX1ShieldD101={^I}저주받은 자의 입
+tagGDX1ShieldD101_Desc="영원한 저주를 받은 이 자들은 바로 웬디고의 선물을 나눠가졌던 자들이다."
+tagGDX1ShieldD102={^I}에룰란의 감시자
+tagGDX1ShieldD102_Desc="여기에 돌로 조각된 얼굴은 제국이 절박한 위기에 빠질 때에만 눈을 뜬다는 이야기가 있다."
+tagGDX1ShieldD103={^I}투리온의 보복
+tagGDX1ShieldD107={^I}잿빛의 기사
+tagGDX1ShieldD107_Desc="몰려든 이단자들 앞에 홀로 맞서서 결국 승리자가 되었던, 얼굴없는 멘허의 수호자가 쓰던 대형방패."
+tagGDX1ShieldD108=(S) {^I}옥타비우스의 방벽
+tagGDX1ShieldD109=(S) {^I}요새의 방벽
+tagGDX1ShieldD110=(S) {^I}주문의 재앙 방벽
+tagGDX1ShieldD110_Desc="파괴적인 힘이 이 방패를 통해 흐른다."
+
+tagGDX1ShieldF101={^B}마녀단 보호자
+tagGDX1ShieldF102={^B}말무스 디펜더
+tagGDX1ShieldF103={^B}웬디고 영혼방패
+tagGDX1ShieldF104={^I}분노로부터의 보호
+
+
+#Focus
+tagGDX1FocusA101={^W}최고급 학술서
+tagGDX1FocusA102={^W}고급 조각품
+tagGDX1FocusA103={^W}전승자 기록서
+tagGDX1FocusA104={^W}전승자 스피어
+
+tagGDX1FocusB101={^L}테르녹스의 에테르 학술서
+tagGDX1FocusB101Desc="에테르에 대한 지식들이 가득한 것 같지만, 대부분은 해독이 불가능하다."
+tagGDX1FocusB102={^L}테르녹스의 비전 마법 학술서
+tagGDX1FocusB102Desc="테르녹스만이 알고 있던 비전 마법 지식으로 채워져 있다."
+tagGDX1FocusB103={^L}속박된 망령
+tagGDX1FocusB104={^L}종속된 망령
+tagGDX1FocusB105={^L}뒤틀린 자의 학술서
+tagGDX1FocusB105Desc="당신의 손 안에서 서책이 꿈틀거린다."
+tagGDX1FocusB106={^L}뒤틀린 자의 필사본
+tagGDX1FocusB107={^L}뒤틀린 자의 기록서
+tagGDX1FocusB108={^Y}충격의 주문 서책
+tagGDX1FocusB109={^Y}연기나는 서책
+tagGDX1FocusB110={^L}나뭇잎털예티의 뿔
+tagGDX1FocusB111={^L}나뭇잎털예티 전리품
+
+tagGDX1FocusC101={^B}파다라의 의지
+tagGDX1FocusC102={^B}극독 뱉는 입
+tagGDX1FocusC102_Desc="부패 중인 머리 부분이 불쾌한 냄새를 뿜어내지만, 만들어지는 독소들은 그보다도 더 불쾌하다."
+tagGDX1FocusC103={^B}말리고스타의 필사본
+tagGDX1FocusC103_Desc="말리고스타는 영혼의 에너지들을 파괴적인 주문을 사용하는데 활용하는 기술의 권위자였다. 그녀는 네크로맨서이면서 동시에 아케니스트였다."
+tagGDX1FocusC104={^B}인퀴지터 아발론의 어록
+tagGDX1FocusC104_Desc="인퀴지터 아발론은 그의 시대에서 가장 대담한 인퀴지터 중 하나였는데, 그는 어떤 유물이라도 제국의 안보에 궁극적으로 도움될 수 있다면 이용할 의사를 지녔었다. 훗날 어떤 이들은 그의 방식들을 이단적이라고 말했다."
+tagGDX1FocusC105={^B}혹한의 바람들의 학술서
+tagGDX1FocusC113={^B}지옥에 대한 서책
+tagGDX1FocusC114={^B}수많은 칼날 달린 구체
+tagGDX1FocusC114_Desc="진정한 비법은 자신이 다치지 않고 구체를 들고 있는 것에 있다."
+tagGDX1FocusC115=(S) {^B}드레드워커 서책
+
+tagGDX1FocusD101={^I}저주받은 자들을 거두는 낫
+tagGDX1FocusD101_Desc="방황하는 영혼들이 가까이 있으면 낫에서 미묘한 떨림이 전해진다."
+tagGDX1FocusD102={^I}감염원
+tagGDX1FocusD103={^I}응시하는 악마의 마법서
+tagGDX1FocusD104={^I}진실들의 필사본
+tagGDX1FocusD104_Desc="최초의 집정관 아가티아 하가르가 정리한, 엠피리온에 대한 신성한 진실들."
+tagGDX1FocusD105={^I}익실로르의 맹렬한 화염
+tagGDX1FocusD105_Desc="마법적 화염은 불안정하여 다루기가 어렵다. 집중 중에 한 번의 실수만 있어도 화염은 다른 주인을 찾아 옮겨 가버릴 수 있다."
+tagGDX1FocusD111={^I}파라스의 육면체
+tagGDX1FocusD111_Desc="파라스의 퍼즐 육면체는 지금까지 단 한 번 풀렸었는데, 그 사람은 이 육면체 안에 들어있던 마법적인 빛을 보고 나서 시력을 잃고 말았다고 전해진다."
+tagGDX1FocusD112={^I}지옥의 재앙
+tagGDX1FocusD113=(S) {^I}격변의 눈동자
+tagGDX1FocusD114=(S) {^I}발구르의 초점
+tagGDX1FocusD115=(S) {^I}우로보룩의 조각상
+tagGDX1FocusD116=(S) {^I}예언자의 필사본
+
+tagGDX1FocusF101={^B}마녀단의 불길한 조각상
+tagGDX1FocusF102={^B}마녀단의 비전 마력 조각상
+tagGDX1FocusF103={^B}마녀단의 맹독성 조각상
+tagGDX1FocusF104={^B}말무스 공허 마법서
+tagGDX1FocusF105={^B}말무스 오염된 마법서
+tagGDX1FocusF106={^B}말무스 지옥의 마법서
+tagGDX1FocusF107={^B}웬디고 생명력 조각상
+tagGDX1FocusF108={^B}웬디고 냉기 조각상
+tagGDX1FocusF109={^B}웬디고 부식성 조각상
+tagGDX1FocusF110={^I}말무스의 폭풍유도기
+
+
+#ItemStyles
+tagGDX1ArmorStyle001={^S}전승자
+tagGDX1ArmorStyle002={^S}탈환자
+tagGDX1WeaponQuality001={^S}최고급
+tagGDX1WeaponQuality002={^S}전승자
+
+#ArmorHead
+tagGDX1HeadB101={^L}승천자의 후드
+tagGDX1HeadB102={^L}승천자의 가면
+tagGDX1HeadB103={^L}파클라의 피부
+tagGDX1HeadB103_Desc="얼마나 많은 이들이 이 가면이 만들어지는데 희생됐는지 짐작도 되지 않는다."
+tagGDX1HeadB104={^L}파클라의 가면
+tagGDX1HeadB104_Desc="이 가면에서 풍겨나오는 악취는 견디기 힘든 수준이다."
+tagGDX1HeadB105={^L}죽음의 속삭임의 후드
+tagGDX1HeadB106={^L}하늘을 부수는 자의 서클렛
+tagGDX1HeadB107={^L}나마디아의 뿔
+tagGDX1HeadB107_Desc="죽음의 한기가 투구를 무겁게 짓누르고 있다."
+
+tagGDX1HeadC101={^B}영혼들의 화관
+tagGDX1HeadC101_Desc="이 서클렛에 붙잡혀 있는 영혼들은 착용자에게 종종 비밀들을 속삭여 주지만, 아마 착용자가 정말로 궁금해할 만한 내용은 아닐 것이다."
+tagGDX1HeadC102={^B}부패치료사의 모자
+tagGDX1HeadC103={^B}정화의 시선
+tagGDX1HeadC103_Desc="세계에는 이방인들과 이단자들이 수없이 존재하며, 광휘단의 이름 아래 이 저주스러운 것들은 정화되어야만 한다."
+tagGDX1HeadC104={^B}현상금 사냥꾼의 모자
+tagGDX1HeadC105={^Z}에케트'줄의 뿔 투구
+tagGDX1HeadC105_Desc="투구의 뿔들은 눈에 보이는 듯한 암흑으로 여전히 가득하다."
+tagGDX1HeadC106={^Z}영혼없는 시선
+tagGDX1HeadC107={^Z}더럽혀진 시선
+tagGDX1HeadC108={^Z}래비저의 시선
+tagGDX1HeadC108_Desc="비록 물질 차원으로부터 추방되었지만, 래비저의 영혼 일부분이 이 뒤틀린 가면에 남아있다."
+tagGDX1HeadC109=(S) {^B}더럽히는 자의 가면
+tagGDX1HeadC110=(S) {^B}은빛 감시자의 가면
+tagGDX1HeadC115={^B}폭풍의 전령의 면갑
+tagGDX1HeadC122=(S) {^B}드레드워커 후드
+tagGDX1HeadC123=(S) {^B}광휘단의 특무복면
+tagGDX1HeadC124={^B}즐거움의 솥
+tagGDX1HeadC124_Desc="어떤 이는 말한다, 지나친 즐거움이라고."
+
+tagGDX1HeadD101={^I}사령술의 왕의 시선
+tagGDX1HeadD102={^I}독 주술사의 교활함
+tagGDX1HeadD103={^I}스펠게이즈
+tagGDX1HeadD104={^I}고룡의 뼈 가면
+tagGDX1HeadD109={^I}드리그의 목소리
+tagGDX1HeadD109_Desc="드리그의 언어를 지닌 자에게 주어지는 축복이자 저주인, 이 하나의 목소리를 통해 주술 신의 암호와도 같은 전언들이 울려퍼진다."
+tagGDX1HeadD110={^I}엠피리온의 눈빛
+tagGDX1HeadD110_Desc="이 왕관을 지닌 자에게는 엠피리온의 성스러운 빛이 내려와 닿는다."
+tagGDX1HeadD111={^F}래비저의 공포의 시선
+tagGDX1HeadD111_Desc="비록 물질 차원으로부터 추방되었지만, 래비저의 영혼 일부분이 이 뒤틀린 가면에 남아있다."
+tagGDX1HeadD112=(S) {^F}크리그의 마스크
+tagGDX1HeadD113=(S) {^I}길 잃은 영혼들의 가면
+tagGDX1HeadD114=(S) {^I}옥타비우스의 면갑
+tagGDX1HeadD115=(S) {^I}코르바의 후드
+tagGDX1HeadD116=(S) {^I}암흑화염 투구
+tagGDX1HeadD117=(S) {^I}주문의 재앙 면갑
+tagGDX1HeadD118=(S) {^I}메이지슬레이어 후드
+tagGDX1HeadD119=(S) {^I}발구르의 보석
+tagGDX1HeadD120=(S) {^I}룬바인더의 모자
+tagGDX1HeadD121=(S) {^I}우로보룩의 면갑
+tagGDX1HeadD122=(S) {^I}다갈론의 면갑
+tagGDX1HeadD123=(S) {^I}죽음의 경비자 가면
+tagGDX1HeadD124=(S) {^I}예언자의 가면
+tagGDX1HeadD125=(S) {^F}어둠의 존재의 후드
+tagGDX1HeadD126=(S) {^I}벨고시안의 투구
+tagGDX1HeadD127=(S) {^I}라다간의 가면
+tagGDX1HeadD128=(S) {^I}서리방언 가면
+tagGDX1HeadD129=(S) {^I}피의 기사 면갑
+
+tagGDX1HeadF101={^G}정신조종의 마녀단 머리장식
+tagGDX1HeadF102={^G}조련사용 마녀단 머리장식
+tagGDX1HeadF103={^G}비전 마법의 마녀단 머리장식
+tagGDX1HeadF104={^G}전투원용 마녀단 캐스크
+tagGDX1HeadF105={^G}불꽃깃든 마녀단 캐스크
+tagGDX1HeadF106={^G}방어의 마녀단 캐스크
+tagGDX1HeadF107={^G}강행의 말무스 투구
+tagGDX1HeadF108={^G}파괴의 말무스 투구
+tagGDX1HeadF109={^G}냉기의 말무스 투구
+tagGDX1HeadF110={^G}화염의 말무스 캐스크
+tagGDX1HeadF111={^G}공포의 말무스 캐스크
+tagGDX1HeadF112={^G}방어의 말무스 캐스크
+tagGDX1HeadF113={^G}공포의 웬디고 가면
+tagGDX1HeadF114={^G}불쾌한 웬디고 가면
+tagGDX1HeadF115={^G}비전 마력의 웬디고 가면
+tagGDX1HeadF116={^G}칼날의 웬디고 투구
+tagGDX1HeadF117={^G}사악의 웬디고 투구
+tagGDX1HeadF118={^G}담금질된 웬디고 투구
+
+
+#ArmorShoulders
+tagGDX1ShoulderB101={^L}승천자의 견갑
+tagGDX1ShoulderB102={^L}승천자의 어깨보호대
+tagGDX1ShoulderB103={^L}크라'발의 견갑
+tagGDX1ShoulderB103_Desc="우그덴늪의 크라켄의 단단한 껍질은 다루기는 힘들 수 있지만, 대장장이들에게 최고로 여겨질 재료임은 분명하다."
+tagGDX1ShoulderB104={^L}크라'발의 어깨보호대
+
+tagGDX1ShoulderC101={^B}망령소환자의 망토
+tagGDX1ShoulderC102={^B}유령 기사의 견갑
+tagGDX1ShoulderC103={^B}폭풍에 그을린 견갑
+tagGDX1ShoulderC103_Desc="백 개의 폭풍의 맹렬함도 이 갑옷을 부수기에는 충분하지 않았다."
+tagGDX1ShoulderC104={^B}현상금 사냥꾼의 어깨보호대
+tagGDX1ShoulderC105=(S) {^B}더럽히는 자의 망토
+tagGDX1ShoulderC106=(S) {^B}은빛 감시자의 어깨보호대
+tagGDX1ShoulderC111={^B}주문추적자의 망토
+
+tagGDX1ShoulderD101={^I}생명불길의 망토
+tagGDX1ShoulderD102={^I}공포의 기사의 방어
+tagGDX1ShoulderD103={^I}코토시안 깃발 견갑
+tagGDX1ShoulderD103B={^I}코토시안 깃발 견갑
+tagGDX1ShoulderD103_Desc="부착된 깃발에는 여러 세대의 코토시안 아케니스트들이 사용해온 주문과 기술들이 빼곡하게 적혀있다."
+tagGDX1ShoulderD104={^I}불길담긴 망토
+tagGDX1ShoulderD109={^I}맹독혀 망토
+tagGDX1ShoulderD110={^I}장작의 핵 어깨보호대
+tagGDX1ShoulderD110_Desc="착용자에게 절대 가라앉지 않는 불 같은 분노를 가득 채우는 갑옷."
+tagGDX1ShoulderD111=(S) {^F}크리그의 어깨보호대
+tagGDX1ShoulderD112=(S) {^I}복수자의 견갑
+tagGDX1ShoulderD113=(S) {^I}길 잃은 영혼들의 망토
+tagGDX1ShoulderD114=(S) {^I}옥타비우스의 견갑
+tagGDX1ShoulderD115=(S) {^I}주문의 재앙 뱅가드
+tagGDX1ShoulderD116=(S) {^I}메이지슬레이어 어깨보호대
+tagGDX1ShoulderD117=(S) {^I}룬바인더의 어깨보호대
+tagGDX1ShoulderD118=(S) {^I}우로보룩의 망토
+tagGDX1ShoulderD119=(S) {^I}알라가스트의 망토
+tagGDX1ShoulderD120=(S) {^I}예언자의 망토
+tagGDX1ShoulderD121=(S) {^F}어둠의 존재의 망토
+tagGDX1ShoulderD122=(S) {^I}벨고시안의 견갑
+tagGDX1ShoulderD123=(S) {^I}죽음의 경비자 망토
+tagGDX1ShoulderD124=(S) {^I}라다간의 망토
+tagGDX1ShoulderD125=(S) {^I}서리방언 어깨보호대
+tagGDX1ShoulderD126=(S) {^I}피의 기사 깃대견갑
+
+tagGDX1ShoulderF101={^G}망령의 마녀단 망토
+tagGDX1ShoulderF102={^G}생명속박의 마녀단 망토
+tagGDX1ShoulderF103={^G}비전 마력의 마녀단 망토
+tagGDX1ShoulderF104={^G}전투원용 마녀단 견갑
+tagGDX1ShoulderF105={^G}보호의 마녀단 견갑
+tagGDX1ShoulderF106={^G}비전 마력의 마녀단 견갑
+tagGDX1ShoulderF107={^G}냉기의 말무스 망토
+tagGDX1ShoulderF108={^G}에테르불길의 말무스 망토
+tagGDX1ShoulderF109={^G}오염된 말무스 망토
+tagGDX1ShoulderF110={^G}선봉대용 말무스 견갑
+tagGDX1ShoulderF111={^G}공허의 말무스 견갑
+tagGDX1ShoulderF112={^G}방어의 말무스 견갑
+tagGDX1ShoulderF113={^G}칼날의 웬디고 견갑
+tagGDX1ShoulderF114={^G}불쾌한 웬디고 견갑
+tagGDX1ShoulderF115={^G}주문걸린 웬디고 견갑
+tagGDX1ShoulderF116={^G}담금질된 웬디고 견갑
+tagGDX1ShoulderF117={^G}사악의 웬디고 견갑
+tagGDX1ShoulderF118={^G}수호자의 웬디고 견갑
+
+
+#ArmorTorso
+tagGDX1TorsoB101={^L}갈라크로스의 메아리 판금갑옷
+tagGDX1TorsoB102={^L}갈라크로스의 공포의 판금갑옷
+tagGDX1TorsoB103={^L}발락스테리아의 비전 마력 로브
+tagGDX1TorsoB103_Desc="로브에 정교하게 수놓아진 비전 마력의 룬들이 부드러운 빛을 낸다."
+tagGDX1TorsoB104={^L}발락스테리아의 천공 파열 로브
+
+tagGDX1TorsoC101={^B}죽음인도자의 의복
+tagGDX1TorsoC102={^B}암흑불길 흉갑
+tagGDX1TorsoC103={^B}천체장식 로브
+tagGDX1TorsoC103_Desc="영혼 길잡이들에게 애용되었으며 선천적인 예언자들의 상징이기도 했던 로브이지만, 운명의 끈이란 본질적으로 불안정한 것처럼 이 로브도 사기꾼들이 입는 것으로 쉽게 오해받는 면이 있었다."
+tagGDX1TorsoC104={^B}고위 법무관의 코트
+tagGDX1TorsoC104_Desc="에룰란의 귀족을 위해 제작됐음이 분명한, 매우 부드러우면서 탄성도 충분히 지니고 있는 옷."
+tagGDX1TorsoC105=(S) {^B}더럽히는 자의 로브
+tagGDX1TorsoC106=(S) {^B}은빛 감시자의 갑옷
+tagGDX1TorsoC111={^B}더럽히는 자의 그늘
+tagGDX1TorsoC114=(S) {^B}드레드워커 복장
+tagGDX1TorsoC115=(S) {^B}광휘단 특무자켓
+
+tagGDX1TorsoD101={^I}독 주술사의 복장
+tagGDX1TorsoD102={^I}사령술의 왕의 장막
+tagGDX1TorsoD103={^I}이그나파르의 룬 갑옷
+tagGDX1TorsoD103_Desc="비록 이 갑옷의 원 주인은 악한 아케니스트가 일으킨 파괴적인 불길에 사망했지만, 불가사의하게도 이 갑옷은 그 지옥같은 불길 속에서도 전혀 손상되지 않았다."
+tagGDX1TorsoD104={^I}폭풍깃들인 갑옷
+tagGDX1TorsoD109={^I}운명엮는 자의 복장
+tagGDX1TorsoD109_Desc="불안정하며 언제나 변화하는 운명의 끈들은, 인류의 운명을 알 수 없는 곳을 향해 이끌어 나간다."
+tagGDX1TorsoD110={^I}길도의 방어
+tagGDX1TorsoD111=(S) {^F}크리그의 흉갑
+tagGDX1TorsoD112=(S) {^I}복수자의 갑옷
+tagGDX1TorsoD113=(S) {^I}옥타비우스의 판금갑옷
+tagGDX1TorsoD114=(S) {^I}코르바의 털가죽옷
+tagGDX1TorsoD115=(S) {^I}발구르의 의복
+tagGDX1TorsoD116=(S) {^I}룬바인더의 갑옷
+tagGDX1TorsoD117=(S) {^I}우로보룩의 로브
+tagGDX1TorsoD118=(S) {^I}알라가스트의 로브
+tagGDX1TorsoD119=(S) {^I}다갈론의 갑옷
+tagGDX1TorsoD120=(S) {^I}죽음의 경비자 장막
+tagGDX1TorsoD121=(S) {^I}예언자의 예복
+tagGDX1TorsoD122=(S) {^F}어둠의 존재의 예복
+tagGDX1TorsoD123=(S) {^I}벨고시안의 갑옷
+tagGDX1TorsoD124=(S) {^I}라다간의 수의
+tagGDX1TorsoD125=(S) {^I}서리방언 흉갑
+tagGDX1TorsoD126=(S) {^I}피의 기사 갑옷
+
+tagGDX1TorsoF101={^G}격노의 마녀단 전례복
+tagGDX1TorsoF102={^G}생명속박의 마녀단 전례복
+tagGDX1TorsoF103={^G}비전 마력의 마녀단 전례복
+tagGDX1TorsoF104={^G}전투원용 마녀단 흉갑
+tagGDX1TorsoF105={^G}보호의 마녀단 흉갑
+tagGDX1TorsoF106={^G}비전 마력의 마녀단 흉갑
+tagGDX1TorsoF107={^G}냉기의 말무스 전례복
+tagGDX1TorsoF108={^G}에테르불길의 말무스 전례복
+tagGDX1TorsoF109={^G}오염된 말무스 전례복
+tagGDX1TorsoF110={^G}선봉대용 말무스 퀴라스
+tagGDX1TorsoF111={^G}공허의 말무스 퀴라스
+tagGDX1TorsoF112={^G}방어의 말무스 퀴라스
+tagGDX1TorsoF113={^G}칼날의 웬디고 흉갑
+tagGDX1TorsoF114={^G}불쾌한 웬디고 흉갑
+tagGDX1TorsoF115={^G}주문걸린 웬디고 흉갑
+tagGDX1TorsoF116={^G}담금질된 웬디고 퀴라스
+tagGDX1TorsoF117={^G}사악의 웬디고 퀴라스
+tagGDX1TorsoF118={^G}수호자의 웬디고 퀴라스
+
+
+#ArmorHands
+tagGDX1HandsC101={^B}하루드의 혹한의 장갑
+tagGDX1HandsC101_Desc="하루드의 장갑에는 죽음 그 자체의 냉기가 서려있다는 이야기가 있었다."
+tagGDX1HandsC102={^B}명령의 손짓
+tagGDX1HandsC103={^B}노래의 룬 손목보호대
+tagGDX1HandsC104={^B}정화의 손길
+tagGDX1HandsC104_Desc="살짝 닿는 것만으로도, 악은 두려워하며 물러간다."
+tagGDX1HandsC111={^B}피의 의식 건틀렛
+
+tagGDX1HandsD101={^I}뒤틀린 균열의 장갑
+tagGDX1HandsD101_Desc="공허 자체에 직접 닿았었으며, 그 접촉으로 이 장갑은 영구적으로 변형되었다."
+tagGDX1HandsD102={^I}군림하는 자의 철권
+tagGDX1HandsD103={^I}이그나파르 건틀렛
+tagGDX1HandsD104={^I}하가라드의 냉각의 장갑
+tagGDX1HandsD109={^I}크림슨 클로
+tagGDX1HandsD109_Desc="선혈이 방울져 떨어지고 있음에도 더 많은 피를 원하는, 새로운 희생자를 간절하게 찾는 클로."
+tagGDX1HandsD110={^I}장작의 손
+tagGDX1HandsD111=(S) {^I}메이지슬레이어 팔보호대
+tagGDX1HandsD112=(S) {^I}발구르의 손길
+tagGDX1HandsD113=(S) {^F}크리그의 장갑
+tagGDX1HandsD114=(S) {^F}어둠의 존재의 장갑
+
+
+#ArmorLegs
+tagGDX1LegsB101={^L}알렉산더의 다리보호대
+tagGDX1LegsB102={^L}알렉산더의 다리갑옷
+tagGDX1LegsB103={^L}그라바'툴의 레깅스
+tagGDX1LegsB104={^L}그라바'툴의 다리보호대
+tagGDX1LegsB105={^L}쿠바카브라의 다리보호대
+tagGDX1LegsB106={^L}쿠바카브라의 다리갑옷
+tagGDX1LegsB107={^L}리퍼의 레깅스
+tagGDX1LegsB108={^L}리퍼의 다리보호대
+
+tagGDX1LegsC101={^B}태워새긴 룬의 바지
+tagGDX1LegsC102={^B}공포의 룬 다리보호대
+tagGDX1LegsC103={^B}그림자깃든 레깅스
+tagGDX1LegsC103_Desc="이 방어구의 재질은 어떻게 해서인지 그림자 자체가 스며든 채로 꿰메져 만들어졌다."
+tagGDX1LegsC104={^B}룬의 결계 다리보호대
+tagGDX1LegsC111={^B}주문추적자의 바지
+
+tagLegsD013B={^I}정말 멋진 바지
+tagLegsD013BDesc="확실한 건, 여전히 괜찮다는 거."
+
+tagGDX1LegsD101={^I}웬디고갈기 레깅스
+tagGDX1LegsD101_Desc="달려있는 털에서는 오래된 피의 악취가 나는데, 그 피가 웬디고의 것인지 아니면 그에 희생된 자들의 것인지는 불확실하다."
+tagGDX1LegsD102={^I}공포의 기사의 하체 판금갑옷
+tagGDX1LegsD103={^I}이그나파르의 룬새김 보호대
+tagGDX1LegsD104={^I}메이지가드 다리보호대
+tagGDX1LegsD109={^I}맹독껍질 바지
+tagGDX1LegsD110={^I}야생동물갈기 다리보호대
+tagGDX1LegsD110_Desc="이 방어구의 만드는 데 쓰인 털가죽은 에룰란의 자연에 서식하지 않는 듯한 동물에게서 얻었다."
+
+
+#ArmorFeet
+tagGDX1FeetB101={^Y}용기의 전쟁부츠
+tagGDX1FeetB102={^Y}스톤플레이트 그리브
+
+tagGDX1FeetC101={^B}무서운 수확의 부츠
+tagGDX1FeetC102={^B}죽음과 걷는 자의 신발
+tagGDX1FeetC102_Desc="이 신발에 부착된 뼈들이 짐승의 것인지...사람의 것인지 알 수가 없다."
+tagGDX1FeetC103={^B}셀레코르의 행진
+tagGDX1FeetC104={^B}장작바위 전투화
+tagGDX1FeetC111={^B}폭풍의 발걸음 신발보호대
+
+tagGDX1FeetD101={^I}악마피부 그리브
+tagGDX1FeetD102={^I}불길한 징조들의 그리브
+tagGDX1FeetD103={^I}왜곡된 시간을 걷는 자
+tagGDX1FeetD103_Desc="전설에 따르면 이 신발은 무한한 시간의 선을 초월할 수 있지만, 아무도 이런 능력이 어떻게 담기게 되었는지는 밝혀내지 못했다고 한다."
+tagGDX1FeetD104={^I}룬가드 그리브
+tagGDX1FeetD109={^I}폭발적 강풍의 전투화
+tagGDX1FeetD110={^I}폭풍보유자
+tagGDX1FeetD110_Desc="번개 폭풍의 맹렬함을 온전히 담고 있는 신발이지만, 발밑의 대지를 향해서는 그 힘을 완전히 방출하지 않는다."
+tagGDX1FeetD111=(S) {^F}크리그의 부츠
+
+
+#ArmorWaist
+tagGDX1WaistA101={^W}전승자 벨트
+tagGDX1WaistA102={^W}탈환자 허리보호대
+
+tagGDX1WaistB101={^L}우그덴늪 허리띠
+tagGDX1WaistB102={^L}우그덴늪 허리보호대
+tagGDX1WaistB103={^L}루날'발고스의 허리띠
+tagGDX1WaistB104={^L}루날'발고스의 허리보호대
+tagGDX1WaistB105={^Y}트롤심장 허리보호대
+tagGDX1WaistB106={^Y}인형술사의 사슬
+tagGDX1WaistB107={^Y}스톤플레이트 허리보호대
+
+tagGDX1WaistC101={^B}원한령의 허리띠
+tagGDX1WaistC102={^B}영혼깃든 허리띠
+tagGDX1WaistC102_Desc="속박된 영혼들이 이 허리띠의 실들 사이에 꿰메어져 있다."
+tagGDX1WaistC103={^B}그림자악마의 허리끈
+tagGDX1WaistC104={^B}점성술사의 허리끈
+tagGDX1WaistC105={^B}갈망의 공허의 사슬
+tagGDX1WaistC106={^B}마력깃든 허리끈
+tagGDX1WaistC115={^B}그을린 자국의 허리끈
+tagGDX1WaistC116={^B}피비린내
+tagGDX1WaistC116_Desc="허리띠의 조각들은 전장에 뿌려진 피로 젖었던 것들이다."
+tagGDX1WaistC117=(S) {^B}불길 바라보는 자의 허리띠
+
+tagGDX1WaistD101={^I}극심한 부식의 허리띠
+tagGDX1WaistD102={^I}검투사의 차별화
+tagGDX1WaistD103={^I}영혼탐색기 허리띠
+tagGDX1WaistD103_Desc="방황하는 영혼들은 이 벨트의 표면으로 끌려온다."
+tagGDX1WaistD104={^I}의심스러운 수단의 꾸러미
+tagGDX1WaistD104_Desc="화약 무기가 마법 기술에 비견되게 해 줄, 화학반응에 이상적인 가루와 독소 꾸러미."
+tagGDX1WaistD105={^I}기만의 허리띠
+tagGDX1WaistD106={^I}베로나스의 비늘
+tagGDX1WaistD106_Desc="거대한 야수 베로나스의 비늘들은 몇 세기가 지났지만 빛이 바래지 않았고, 앞으로도 절대그러지 않을 듯 하다."
+tagGDX1WaistD113={^I}잉걸불판금 허리띠
+tagGDX1WaistD114={^I}찢어발기는 자의 허리띠
+tagGDX1WaistD115=(S) {^I}복수자의 허리띠
+tagGDX1WaistD116=(S) {^I}격변의 계약
+tagGDX1WaistD117=(S) {^I}스톤가드 허리띠
+tagGDX1WaistD118=(S) {^I}요새의 사슬
+tagGDX1WaistD119=(S) {^I}암흑화염 탄환 벨트
+
+tagGDX1WaistF101A={^G}타락의 마녀단 허리보호대
+tagGDX1WaistF101B={^G}타락의 마녀단 허리띠
+tagGDX1WaistF102A={^G}치명적인 마녀단 허리보호대
+tagGDX1WaistF102B={^G}치명적인 마녀단 허리띠
+tagGDX1WaistF103A={^G}칼날의 말무스 허리보호대
+tagGDX1WaistF103B={^G}칼날의 말무스 허리띠
+tagGDX1WaistF104A={^G}비전 마력의 말무스 허리보호대
+tagGDX1WaistF104B={^G}비전 마력의 말무스 허리띠
+tagGDX1WaistF105A={^G}오염된 웬디고 허리보호대
+tagGDX1WaistF105B={^G}오염된 웬디고 허리띠
+tagGDX1WaistF106A={^G}보호의 웬디고 허리보호대
+tagGDX1WaistF106B={^G}보호의 웬디고 허리띠
+
+
+#Rings
+tagGDX1RingA101={^W}고급 반지
+tagGDX1RingA102={^W}고급 끈반지
+tagGDX1RingA103={^W}전승자 반지
+tagGDX1RingA104={^W}전승자 끈반지
+
+tagGDX1RingB101={^L}살아있는 반지
+tagGDX1RingB101_Desc="반지에 나있는 가시들이 피를 흘리게 하는데, 그 피가 덩굴을 소생시키는 것 같아 보인다."
+tagGDX1RingB102={^L}덩굴 반지
+tagGDX1RingB103={^L}가르가볼의 반지
+tagGDX1RingB103_Desc="손을 대면 고통스러운 불타는 반지이지만, 착용한 손에 물리적인 피해는 끼치지 않는다."
+
+tagGDX1RingC101={^B}저주담긴 반지
+tagGDX1RingC101_Desc="이 비뚤어진 반지는 그 주인을 위하여 끔찍한 저주를 담고 있었다는 소문이 있었고, 그 효과들은 지금까지도 반지 안에 여전히 남아있다."
+tagGDX1RingC102={^B}망령추적자 반지
+tagGDX1RingC103={^B}부패치료사의 반지
+tagGDX1RingC104={^B}룬의 아버지의 인장
+tagGDX1RingC104_Desc="광휘단에서 이제는 보편적으로 사용되는 룬을 영창하는 방식을 창시한 인물, 룬의 아버지의 표식."
+tagGDX1RingC105={^B}별에 대한 생각의 인장
+tagGDX1RingC105_Desc="이 반지는 별들에 대한 비밀들을 속삭여주지만, 훈련받지 않은 자의 귀에는 해석이 불가능하다."
+tagGDX1RingC106={^B}미망인의 독침
+tagGDX1RingC115={^B}밤의 냉소
+tagGDX1RingC116={^B}광란의 반지
+tagGDX1RingC117=(S) {^B}불길 바라보는 자의 인장
+tagGDX1RingC118=(S) {^B}궁정마법사의 인장
+tagGDX1RingC119=(S) {^B}궁정마법사의 반지
+
+tagGDX1RingD101={^I}죽음관장자의 반지
+tagGDX1RingD102={^I}영혼을 속박하는 기호
+tagGDX1RingD102_Desc="반지에서 보이는 기호들은 죽음의 감시자 교단에서 파악하고 있는 영혼을 속박하는 힘을 가진 표식들 가운데 가장 강력한 것이라고 한다."
+tagGDX1RingD103={^I}공허의 속삭임 반지
+tagGDX1RingD103_Desc="반지에서 흘러나오는 속삭임들은 착용자의 이성을 위협한다."
+tagGDX1RingD104={^I}연소의 반지
+tagGDX1RingD105={^I}작손의 행운의 탄환
+tagGDX1RingD106={^I}얼음과 불의 군림
+tagGDX1RingD113={^I}칼날 비트는 자의 인장
+tagGDX1RingD114={^I}공허의 심장
+tagGDX1RingD115=(S) {^I}알라가스트의 폭풍의 보석
+tagGDX1RingD116={^I}죽음의 경비자 인장
+
+tagGDX1RingF101={^B}폭풍의 마녀단 인장
+tagGDX1RingF102={^B}하늘의 마녀단 인장
+tagGDX1RingF103={^B}방어의 마녀단 인장
+tagGDX1RingF104={^B}마력의 말무스 인장
+tagGDX1RingF105={^B}칼날의 말무스 인장
+tagGDX1RingF106={^B}에테르불길의 말무스 인장
+tagGDX1RingF107={^B}뒤틀린 웬디고 인장
+tagGDX1RingF108={^B}소환의 웬디고 인장
+
+
+
+#Necklaces
+tagGDX1NecklaceA101={^W}고급 아뮬렛
+tagGDX1NecklaceA102={^W}고급 펜던트
+tagGDX1NecklaceA103={^W}전승자 아뮬렛
+tagGDX1NecklaceA104={^W}전승자 펜던트
+
+tagGDX1NecklaceB100={^G}사디나의 유품
+tagGDX1NecklaceB100_Desc="단순하지만, 악에 대한 결계를 지닌 펜던트. 이런 내용이 새겨져 있다: 우리가 짜는 그물에는 악의 형상의 징조들도 내포한다. - 제이 페긴스"
+tagGDX1NecklaceB101={^L}굴라조르의 심장
+tagGDX1NecklaceB102={^L}빌가조르의 심장
+
+tagGDX1NecklaceC101={^B}망자의 속삭임
+tagGDX1NecklaceC102={^B}절단의 돌
+tagGDX1NecklaceC103={^B}말라붙은 심장
+tagGDX1NecklaceC103_Desc="매우 드물긴 하지만, 이 심장은 여전히 뛴다."
+tagGDX1NecklaceC104={^B}침착함의 돌
+tagGDX1NecklaceC104_Desc="케언을 뒤덮은 혼란과 고통에도 불구하고, 이 돌은 어울리지 않을 정도의 침착함을 당신의 마음에 채워준다."
+tagGDX1NecklaceC105={^B}눈물 흘리는 루비
+tagGDX1NecklaceC106={^B}길라드의 룬장식 토파즈
+tagGDX1NecklaceC106_Desc="인퀴지터 길라드가 쓰던 결계용 아뮬렛이었지만, 오컬티스트들을 숨겨주고 있다는 혐의를 받은 제국 국경의 한 외딴 마을로 들어갔던 뒤로 그가 다시는 발견되지 않으면서 이 아뮬렛도 없어진 것으로 여겨졌었다."
+tagGDX1NecklaceC115={^B}뜻을 지닌 자의 감시
+tagGDX1NecklaceC116={^B}룬의 아버지의 보석
+
+tagNecklaceD005B={^I}베로나스의 초점없는 눈동자
+tagGDX1NecklaceD101={^I}영혼함정
+tagGDX1NecklaceD101_Desc="처치한 모든 적들의 영혼은 이 목걸이 속으로 빠르게 붙잡혀 들어간다."
+tagGDX1NecklaceD102={^I}격노의 화염
+tagGDX1NecklaceD103={^I}비가르의 굶주림
+tagGDX1NecklaceD103_Desc="이 작은 유리병에는 래비저라는 웬디고의 피가 들어있다."
+tagGDX1NecklaceD104={^I}가르'달의 오염된 루비
+tagGDX1NecklaceD105={^I}처형집행자의 판결
+tagGDX1NecklaceD106={^I}폭풍을 보는 자의 사파이어
+tagGDX1NecklaceD113A={^I}투쟁의 속삭임 컨듀잇
+tagGDX1NecklaceD113B={^I}파괴의 속삭임 컨듀잇
+tagGDX1NecklaceD113C={^I}엘드리치의 속삭임 컨듀잇
+tagGDX1NecklaceD113D={^I}심야의 속삭임 컨듀잇
+tagGDX1NecklaceD113E={^I}마력의 속삭임 컨듀잇
+tagGDX1NecklaceD113F={^I}야생의 속삭임 컨듀잇
+tagGDX1NecklaceD113G={^I}룬의 속삭임 컨듀잇
+tagGDX1NecklaceD113H={^I}죽지 않는 속삭임 컨듀잇
+tagGDX1NecklaceD113_Desc="목걸이의 눈동자를 바라보고 있으면, 케언의 어느 토착 생물과도 비슷하지 않은 괴수와 악마들로 넘쳐나는 광대하고 기이한 대지의 모습이 나타난다."
+tagGDX1NecklaceD114={^I}영원한 화염의 파편
+tagGDX1NecklaceD114_Desc="이 크리스탈에서 방출되는 화염은 절대로 완전히 꺼지지 않는다."
+tagGDX1NecklaceD115=(S) {^I}길 잃은 영혼들의 파편
+tagGDX1NecklaceD116=(S) {^I}격변의 촉매
+tagGDX1NecklaceD117=(S) {^I}스톤가드 결계
+tagGDX1NecklaceD118=(S) {^I}암흑화염의 근원
+tagGDX1NecklaceD119=(S) {^I}주문의 재앙 편향기
+tagGDX1NecklaceD120=(S) {^I}메이지슬레이어 수호석
+tagGDX1NecklaceD121=(S) {^I}룬바인더의 보석
+tagGDX1NecklaceD122=(S) {^I}우로보룩의 눈
+tagGDX1NecklaceD123=(S) {^I}라다간의 보석
+tagGDX1NecklaceD124=(S) {^I}서리방언 펜던트
+tagGDX1NecklaceD125=(S) {^I}피의 기사 펜던트
+
+tagGDX1NecklaceF101={^B}어둠을 부르는 마녀단 펜던트
+tagGDX1NecklaceF102={^B}조종하는 자의 마녀단 펜던트
+tagGDX1NecklaceF103={^B}칼날의 마녀단 펜던트
+tagGDX1NecklaceF104={^B}폭풍결박의 말무스 펜던트
+tagGDX1NecklaceF105={^B}뒤틀린 말무스 펜던트
+tagGDX1NecklaceF106={^B}방어의 말무스 펜던트
+tagGDX1NecklaceF107={^B}타락의 웬디고 펜던트
+tagGDX1NecklaceF108={^B}하늘의 웬디고 펜던트
+tagGDX1NecklaceF109={^I}에테르화살 펜던트
+tagGDX1NecklaceF110={^I}말무스의 심장
+tagGDX1NecklaceF111={^I}파괴자의 굶주림
+
+
+#Medals
+tagGDX1MedalA101={^W}고급 훈장
+tagGDX1MedalA102={^W}전승자 문장
+
+tagGDX1MedalB101={^L}바실리스크 문장
+tagGDX1MedalB101_Desc="송곳니들에서는 석화의 맹독이 여전히 방울져 떨어진다."
+tagGDX1MedalB102={^L}바실리스크 표식
+tagGDX1MedalB102_Desc="송곳니들에서는 출혈성 맹독이 여전히 방울져 떨어진다."
+tagGDX1MedalB103={^L}라일록 문장
+tagGDX1MedalB103_Desc="이 크토니안의 비늘은 피를 갈구한다."
+tagGDX1MedalB104={^L}라일록 표식
+tagGDX1MedalB104_Desc="이 크토니안의 비늘은 공허의 암흑으로 가득하다."
+tagGDX1MedalB105={^L}웬디고 눈동자
+tagGDX1MedalB105_Desc="이 충혈된 눈동자는 여전히 가까이에 피가 있으면 움직인다."
+tagGDX1MedalB106={^L}웬디고 시선
+tagGDX1MedalB106_Desc="이 충혈된 눈동자는 눈길이 마주친 약한 존재들을 위축시킨다."
+tagGDX1MedalB107={^Y}재빠름의 문장
+tagGDX1MedalB108={^Y}은둔자의 문장
+tagGDX1MedalB109={^L}슬라스라의 문장
+tagGDX1MedalB109_Desc="송곳니들에서 에테르에 뒤틀린 맹독이 방울져 떨어진다."
+tagGDX1MedalB110={^L}노쇠한 자의 휘장
+tagGDX1MedalB111={^L}나마디아의 눈동자
+tagGDX1MedalB111_Desc="아직도 깜빡이는 눈은 불사의 힘으로 가득 찼다."
+
+tagGDX1MedalC101={^B}엄숙함의 상징
+tagGDX1MedalC102={^B}불순함의 표식
+tagGDX1MedalC103={^B}잊혀진 영혼들의 표식
+tagGDX1MedalC103_Desc="사라지고 잊혀져간 이들을 기념하는 물건."
+tagGDX1MedalC104={^B}깨어진 서약의 표식
+tagGDX1MedalC104_Desc="이 메달은 이름이 기록에서 말살된 어느 인퀴지터가 소유했던 것으로, 그에 대한 평판은 광휘단을 상징하는 모든 것에 대한 비열한 배반에 의해 더럽혀졌다."
+tagGDX1MedalC105={^B}보관소 관리자의 상징
+tagGDX1MedalC105_Desc="광휘단 보관소만을 지키는 수호자들, 보관소 관리자임을 나타나는 표식."
+tagGDX1MedalC106={^B}찬미의 문장
+tagGDX1MedalC115={^B}지옥의 비참함의 표식
+tagGDX1MedalC116={^B}바위의 의지의 상징
+tagGDX1MedalC117=(S) {^B}불길 바라보는 자의 문장
+tagGDX1MedalC118=(S) {^B}광휘단 무공훈장
+
+tagGDX1MedalD101={^I}공포의 칼날의 상징
+tagGDX1MedalD102={^I}끔찍한 한기의 표식
+tagGDX1MedalD103={^I}부패흡수자 문장
+tagGDX1MedalD104={^I}길덤 아케이넘 추천장
+tagGDX1MedalD104_Desc="광휘단과 아케니스트들 사이의 긴장 관계 너머를 보면서 '인류의 확고한 생존'이라는 보다 큰 목표에 맞는 선택을 할 수 있는 길덤 아케이넘의 고위 요원들에게 주어졌던 추천장."
+tagGDX1MedalD105={^I}세레니어의 무공훈장
+tagGDX1MedalD105_Desc="간다르의 뿔을 활용하여 단독으로 오컬티스트 은신처를 소탕하는 대담함을 선보였던, 고위 인퀴지터 세레니어에게 수여됐던 훈장."
+tagGDX1MedalD106={^I}칼라스토르의 표식
+tagGDX1MedalD113={^I}얼즈인의 상징
+tagGDX1MedalD113_Desc="자신들의 피부를 그을려 가면서 얼즈인에게 헌신하던 그의 신자들이 사용했었다."
+tagGDX1MedalD114={^I}소모의 표식
+
+tagGDX1MedalF101={^B}칼날의 마녀단 표식
+tagGDX1MedalF102={^B}비전 마력의 마녀단 표식
+tagGDX1MedalF103={^B}모독의 말무스 뱃지
+tagGDX1MedalF104={^B}원소의 말무스 뱃지
+tagGDX1MedalF105={^B}오염된 웬디고 표식
+tagGDX1MedalF106={^B}방어의 웬디고 표식
+tagGDX1MedalF107={^I}살상 계획의 표식
+tagGDX1MedalF108={^I}오버시어
+tagGDX1MedalF109={^I}탐욕스러운 존재의 상징
+
+
+#Blueprints
+tagGDX1Blueprint_RelicB101=도안: 렐릭 - 탐식
+tagGDX1Blueprint_RelicB102=도안: 렐릭 - 망령
+tagGDX1Blueprint_RelicB103=도안: 렐릭 - 열렬함
+tagGDX1Blueprint_RelicB104=도안: 렐릭 - 인내
+tagGDX1Blueprint_RelicB105=도안: 렐릭 - 히스테리
+
+tagGDX1Blueprint_RelicC101=도안: 렐릭 - 필멸성
+tagGDX1Blueprint_RelicC102=도안: 렐릭 - 앙숙
+
+tagGDX1Blueprint_RelicD101=도안: 렐릭 - 불순함
+tagGDX1Blueprint_RelicD102=도안: 렐릭 - 보복
+tagGDX1Blueprint_RelicD103=도안: 렐릭 - 아코비아의 만가
+tagGDX1Blueprint_RelicD104=도안: 렐릭 - 멸망
+tagGDX1Blueprint_RelicD105=도안: 렐릭 - 파멸
+tagGDX1Blueprint_RelicD106=도안: 렐릭 - 코르박의 기만
+tagGDX1Blueprint_RelicD107=도안: 렐릭 - 엘드리치의 계약
+tagGDX1Blueprint_RelicD108=도안: 렐릭 - 니달라의 돌출
+tagGDX1Blueprint_RelicD109=도안: 렐릭 - 영원성
+tagGDX1Blueprint_RelicD110=도안: 렐릭 - 살육
+tagGDX1Blueprint_RelicD111=도안: 렐릭 - 우로보룩의 수확
+tagGDX1Blueprint_RelicD112=도안: 렐릭 - 이그나파르의 연소
+tagGDX1Blueprint_RelicD113=도안: 렐릭 - 모그드로젠의 격정
+tagGDX1Blueprint_RelicD114=도안: 렐릭 - 죽음추적자
+
+
+tagGDX1Blueprint_ComponentA101=도안: 완력의 문장
+tagGDX1Blueprint_ComponentA102=도안: 칼날의 문장
+tagGDX1Blueprint_ComponentA103=도안: 하늘의 문장
+tagGDX1Blueprint_ComponentA104=도안: 황폐의 문장
+tagGDX1Blueprint_ComponentA105=도안: 오염의 문장
+tagGDX1Blueprint_ComponentA106=도안: 공허의 문장
+tagGDX1Blueprint_ComponentA107=도안: 심야의 문장
+tagGDX1Blueprint_ComponentA108=도안: 파괴의 문장
+tagGDX1Blueprint_ComponentA109=도안: 그림자 문장
+tagGDX1Blueprint_ComponentA110=도안: 공진의 문장
+tagGDX1Blueprint_ComponentA111=도안: 더럽혀진 심장
+tagGDX1Blueprint_ComponentA112=도안: 타오르는 루비
+tagGDX1Blueprint_ComponentA113=도안: 룬새겨진 토파즈
+tagGDX1Blueprint_ComponentA114=도안: 피에 물든 크리스탈
+tagGDX1Blueprint_ComponentA115=도안: 마법걸린 토양
+tagGDX1Blueprint_ComponentA116=도안: 주문에 그을린 판금
+tagGDX1Blueprint_ComponentA117=도안: 칼날 달린 판금
+tagGDX1Blueprint_ComponentA118=도안: 우그덴늪 가죽
+
+tagGDX1Blueprint_ComponentC101=도안: 신성한 판금
+tagGDX1Blueprint_ComponentC102=도안: 살아있는 갑옷
+tagGDX1Blueprint_ComponentC103=도안: 타이탄의 판금
+tagGDX1Blueprint_ComponentC104=도안: 엘드리치 거울
+tagGDX1Blueprint_ComponentC105=도안: 섬멸의 문장
+tagGDX1Blueprint_ComponentC106=도안: 선조의 문장
+
+
+tagGDX1Blueprint_WaistF101A=도안: 타락의 마녀단 허리보호대
+tagGDX1Blueprint_WaistF101B=도안: 타락의 마녀단 허리띠
+tagGDX1Blueprint_WaistF102A=도안: 치명적인 마녀단 허리보호대
+tagGDX1Blueprint_WaistF102B=도안: 치명적인 마녀단 허리띠
+tagGDX1Blueprint_WaistF103A=도안: 칼날의 말무스 허리보호대
+tagGDX1Blueprint_WaistF103B=도안: 칼날의 말무스 허리띠
+tagGDX1Blueprint_WaistF104A=도안: 비전 마력의 말무스 허리보호대
+tagGDX1Blueprint_WaistF104B=도안: 비전 마력의 말무스 허리띠
+tagGDX1Blueprint_WaistF105A=도안: 오염된 웬디고 허리보호대
+tagGDX1Blueprint_WaistF105B=도안: 오염된 웬디고 허리띠
+tagGDX1Blueprint_WaistF106A=도안: 보호의 웬디고 허리보호대
+tagGDX1Blueprint_WaistF106B=도안: 보호의 웬디고 허리띠
+
+
+tagGDX1Blueprint_WeaponB101=도안: 폭풍파도 피스톨
+tagGDX1Blueprint_WeaponB102=도안: 화염감시자 라이플
+tagGDX1Blueprint_WeaponB103=도안: 피쏟는 절단도끼
+tagGDX1Blueprint_WeaponB104=도안: 복부분쇄 전쟁망치
+tagGDX1Blueprint_WeaponB105=도안: 바위장벽 보호방패
+tagGDX1Blueprint_WeaponB106=도안: 충격의 주문 서책
+tagGDX1Blueprint_WeaponB107=도안: 연기나는 서책
+tagGDX1Blueprint_WeaponB108=도안: 서리부패 완드
+tagGDX1Blueprint_WeaponB109=도안: 죽음의 힘 셉터
+
+tagGDX1Blueprint_WeaponC101=도안: 교리반대자
+tagGDX1Blueprint_WeaponC102=도안: 신화적인 알두르의 이단자추적
+tagGDX1Blueprint_WeaponC103=도안: 우주적 급류
+tagGDX1Blueprint_WeaponC104=도안: 거센 불길의 스펠블레이드
+tagGDX1Blueprint_WeaponC105=도안: 신화적인 버위치 치안감시기
+tagGDX1Blueprint_WeaponC106=도안: 신화적인 지옥구렁텅이 산탄총
+tagGDX1Blueprint_WeaponC107=도안: 신화적인 식탐의 파멸톱날
+tagGDX1Blueprint_WeaponC108=도안: 신화적인 축복받은 횃불
+tagGDX1Blueprint_WeaponC109=도안: 신화적인 결투자용 세이버
+tagGDX1Blueprint_WeaponC110=도안: 신화적인 격노비탄
+tagGDX1Blueprint_WeaponC111=도안: 신화적인 지옥의 룬 단검
+tagGDX1Blueprint_WeaponC112=도안: 네라'발의 오염된 칼
+tagGDX1Blueprint_WeaponC113=도안: 신화적인 리치가드
+tagGDX1Blueprint_WeaponC114=도안: 신화적인 밴시의 비참함
+
+tagGDX1Blueprint_WeaponD101=도안: 신더코어
+tagGDX1Blueprint_WeaponD102=도안: 베놈랜스
+tagGDX1Blueprint_WeaponD103=도안: 신화적인 죽음의 경계
+tagGDX1Blueprint_WeaponD104=도안: 신화적인 냉기불꽃 생성기
+tagGDX1Blueprint_WeaponD105=도안: 신화적인 데스딜러 권총
+tagGDX1Blueprint_WeaponD106=도안: 신화적인 북부 고룡
+tagGDX1Blueprint_WeaponD107=도안: 신화적인 영혼 소용돌이
+tagGDX1Blueprint_WeaponD108=도안: 신화적인 초승달
+tagGDX1Blueprint_WeaponD109=도안: 신화적인 드리그의 질병유발자
+tagGDX1Blueprint_WeaponD110=도안: 신화적인 다시 벼려진 베로나스
+tagGDX1Blueprint_WeaponD111=도안: 신화적인 스톰리버
+tagGDX1Blueprint_WeaponD112=도안: 신화적인 시간의 전극방전검
+tagGDX1Blueprint_WeaponD113=도안: 신화적인 아스테르칸 파편
+tagGDX1Blueprint_WeaponD114=도안: 신화적인 크'톤의 송곳니
+tagGDX1Blueprint_WeaponD115=도안: 신화적인 졸한의 앙갚음
+tagGDX1Blueprint_WeaponD116=도안: 신화적인 크'톤의 피의 구체
+tagGDX1Blueprint_WeaponD117=도안: 신화적인 나르'아딘의 불쾌한 서책
+
+tagGDX1Blueprint_WeaponF101=도안: 주술력 발산기
+tagGDX1Blueprint_WeaponF102=도안: 디솔레이터
+tagGDX1Blueprint_WeaponF103=도안: 마녀의 달
+tagGDX1Blueprint_WeaponF104=도안: 웬디고의 울부짖음
+tagGDX1Blueprint_WeaponF105=도안: 말무스의 탈환자
+tagGDX1Blueprint_WeaponF106=도안: 블레이즈러쉬
+tagGDX1Blueprint_WeaponF107=도안: 주술화염
+tagGDX1Blueprint_WeaponF108=도안: 하가라즈의 발톱
+tagGDX1Blueprint_WeaponF109=도안: 분노로부터의 보호
+tagGDX1Blueprint_WeaponF110=도안: 말무스의 폭풍유도기
+
+
+
+tagGDX1Blueprint_ArmorB101=도안: 용기의 전쟁부츠
+tagGDX1Blueprint_ArmorB102=도안: 스톤플레이트 그리브
+
+tagGDX1Blueprint_ArmorC101=도안: 폭풍의 전령의 면갑
+tagGDX1Blueprint_ArmorC102=도안: 신화적인 현상금 사냥꾼의 어깨보호대
+tagGDX1Blueprint_ArmorC103=도안: 드레드워커 후드
+tagGDX1Blueprint_ArmorC104=도안: 광휘단 특무복면
+tagGDX1Blueprint_ArmorC105=도안: 신화적인 궁정마법사의 그리브
+tagGDX1Blueprint_ArmorC106=도안: 신화적인 균열사냥개의 가죽 부츠
+tagGDX1Blueprint_ArmorC107=도안: 신화적인 영혼의 손길
+tagGDX1Blueprint_ArmorC108=도안: 신화적인 신속연사 장갑
+tagGDX1Blueprint_ArmorC109=도안: 신화적인 주문엮는 자의 바지
+tagGDX1Blueprint_ArmorC110=도안: 신화적인 아마라스타의 어깨갑옷
+tagGDX1Blueprint_ArmorC111=도안: 신화적인 나이트헌터의 흉갑
+tagGDX1Blueprint_ArmorC112=도안: 신화적인 죽음의 장식 판금갑옷
+tagGDX1Blueprint_ArmorC113=도안: 신화적인 눈먼 암살자의 후드
+tagGDX1Blueprint_ArmorC114=도안: 신화적인 샤프슈터의 글래스-아이
+tagGDX1Blueprint_ArmorC115=도안: 신화적인 계약의 증표인 부정한 면갑
+tagGDX1Blueprint_ArmorC116=도안: 신화적인 새벽수호자 투구
+tagGDX1Blueprint_ArmorC117=도안: 신화적인 화염보관자 자켓
+tagGDX1Blueprint_ArmorC118=도안: 신화적인 칼리도르의 전례복
+tagGDX1Blueprint_ArmorC119=도안: 신화적인 미르미돈 면갑
+tagGDX1Blueprint_ArmorC120=도안: 신화적인 모그드로젠의 투구
+tagGDX1Blueprint_ArmorC121=도안: 신화적인 권위자의 면갑
+
+tagGDX1Blueprint_ArmorD101=도안: 사령술의 왕의 시선
+tagGDX1Blueprint_ArmorD102=도안: 독 주술사의 교활함
+tagGDX1Blueprint_ArmorD103=도안: 스펠게이즈
+tagGDX1Blueprint_ArmorD104=도안: 고룡의 뼈 가면
+tagGDX1Blueprint_ArmorD105=도안: 신화적인 사령술의 왕의 시선
+tagGDX1Blueprint_ArmorD106=도안: 신화적인 독 주술사의 교활함
+tagGDX1Blueprint_ArmorD107=도안: 신화적인 스펠게이즈
+tagGDX1Blueprint_ArmorD108=도안: 신화적인 고룡의 뼈 가면
+tagGDX1Blueprint_ArmorD109=도안: 드리그의 목소리
+tagGDX1Blueprint_ArmorD110=도안: 엠피리온의 눈빛
+tagGDX1Blueprint_ArmorD113=도안: 길 잃은 영혼들의 가면
+tagGDX1Blueprint_ArmorD114=도안: 옥타비우스의 면갑
+tagGDX1Blueprint_ArmorD115=도안: 코르바의 후드
+tagGDX1Blueprint_ArmorD116=도안: 다크블레이즈 투구
+tagGDX1Blueprint_ArmorD117=도안: 주문의 재앙 면갑
+tagGDX1Blueprint_ArmorD118=도안: 메이지슬레이어 후드
+tagGDX1Blueprint_ArmorD119=도안: 발구르의 보석
+tagGDX1Blueprint_ArmorD120=도안: 룬바인더의 모자
+tagGDX1Blueprint_ArmorD121=도안: 우로보룩의 면갑
+tagGDX1Blueprint_ArmorD122=도안: 다갈론의 면갑
+tagGDX1Blueprint_ArmorD123=도안: 죽음의 경비자 가면
+tagGDX1Blueprint_ArmorD124=도안: 예언자의 가면
+
+tagGDX1Blueprint_ArmorD125=도안: 신화적인 절망의 입
+tagGDX1Blueprint_ArmorD126=도안: 신화적인 굴고스의 공포가면
+tagGDX1Blueprint_ArmorD127=도안: 신화적인 비밀 밀고자
+tagGDX1Blueprint_ArmorD128=도안: 신화적인 심연의 가면
+tagGDX1Blueprint_ArmorD129=도안: 신화적인 거대 서펜트 형상의 서클렛
+tagGDX1Blueprint_ArmorD130=도안: 신화적인 지옥같은 진실의 가면
+tagGDX1Blueprint_ArmorD131=도안: 신화적인 정의의 면갑
+tagGDX1Blueprint_ArmorD132=도안: 신화적인 야수소환사의 후드
+tagGDX1Blueprint_ArmorD133=도안: 신화적인 하빈저의 가면
+tagGDX1Blueprint_ArmorD134=도안: 신화적인 악마사냥꾼의 모자
+tagGDX1Blueprint_ArmorD135=도안: 신화적인 투시자의 모자
+tagGDX1Blueprint_ArmorD136=도안: 신화적인 마코비안의 투구
+tagGDX1Blueprint_ArmorD137=도안: 신화적인 얼즈인의 머리보호구
+tagGDX1Blueprint_ArmorD138=도안: 신화적인 드리그의 후드
+tagGDX1Blueprint_ArmorD139=도안: 신화적인 데스마크 후드
+tagGDX1Blueprint_ArmorD140=도안: 신화적인 이스칸드라의 후드
+tagGDX1Blueprint_ArmorD141=도안: 신화적인 울토스의 후드
+tagGDX1Blueprint_ArmorD142=도안: 신화적인 겨울의 왕의 왕관
+tagGDX1Blueprint_ArmorD143=도안: 신화적인 트로잔의 모자
+tagGDX1Blueprint_ArmorD144=도안: 신화적인 발던의 모자
+tagGDX1Blueprint_ArmorD145=도안: 엘드리치의 주목
+tagGDX1Blueprint_ArmorD146=도안: 삼신의 증표
+tagGDX1Blueprint_ArmorD147=도안: 신화적인 베놈블레이드 후드
+tagGDX1Blueprint_ArmorD148=도안: 신화적인 검은 화염의 면갑
+tagGDX1Blueprint_ArmorD149=도안: 신화적인 빛의 수호자 투구
+tagGDX1Blueprint_ArmorD150=도안: 신화적인 지옥의 기사 면갑
+tagGDX1Blueprint_ArmorD151=도안: 신화적인 워본 면갑
+tagGDX1Blueprint_ArmorD152=도안: 신화적인 피의 광란자 투구
+
+tagGDX1Blueprint_ArmorD153=도안: 신화적인 불길담긴 망토
+tagGDX1Blueprint_ArmorD154=도안: 신화적인 폭풍깃들인 갑옷
+tagGDX1Blueprint_ArmorD155=도안: 복수자의 갑옷
+tagGDX1Blueprint_ArmorD156=도안: 알라가스트의 로브
+tagGDX1Blueprint_ArmorD157=도안: 신화적인 바람가르는 자의 그리브
+tagGDX1Blueprint_ArmorD158=도안: 신화적인 잿빛 마술사의 덮개신발
+tagGDX1Blueprint_ArmorD159=도안: 신화적인 고룡의 뼈 손목보호대
+tagGDX1Blueprint_ArmorD160=도안: 신화적인 아이스스콘 맹금발톱
+tagGDX1Blueprint_ArmorD161=도안: 신화적인 비전 마법의 균형 레깅스
+tagGDX1Blueprint_ArmorD162=도안: 정말 멋진 바지
+tagGDX1Blueprint_ArmorD163=도안: 신화적인 타이탄 견갑
+tagGDX1Blueprint_ArmorD164=도안: 신화적인 부정한 피의 망토
+tagGDX1Blueprint_ArmorD165=도안: 신화적인 아즈라고르의 공포의 갑옷
+tagGDX1Blueprint_ArmorD166=도안: 신화적인 디바인스틸 사슬갑옷
+
+tagGDX1Blueprint_ArmorD167=도안: 벨고시안의 투구
+
+tagGDX1Blueprint_ArmorD168=도안: 라다간의 가면
+tagGDX1Blueprint_ArmorD169=도안: 서리방언 가면
+tagGDX1Blueprint_ArmorD170=도안: 피의 기사 면갑
+
+tagGDX1Blueprint_AccessoryB101=도안: 재빠름의 문장
+tagGDX1Blueprint_AccessoryB102=도안: 은둔자의 문장
+tagGDX1Blueprint_AccessoryB103=도안: 트롤심장 허리보호대
+tagGDX1Blueprint_AccessoryB104=도안: 인형술사의 사슬
+tagGDX1Blueprint_AccessoryB105=도안: 스톤플레이트 허리보호대
+
+tagGDX1Blueprint_AccessoryC101=도안: 신화적인 침착함의 돌
+tagGDX1Blueprint_AccessoryC102=도안: 룬의 아버지의 보석
+tagGDX1Blueprint_AccessoryC103=도안: 피비린내
+tagGDX1Blueprint_AccessoryC104=도안: 신화적인 찬미의 문장
+tagGDX1Blueprint_AccessoryC105=도안: 신화적인 미망인의 독침
+tagGDX1Blueprint_AccessoryC106=도안: 신화적인 지휘의 조각
+tagGDX1Blueprint_AccessoryC107=도안: 신화적인 그을린 대지의 아뮬렛
+tagGDX1Blueprint_AccessoryC108=도안: 신화적인 고통의 사슬 허리띠
+tagGDX1Blueprint_AccessoryC109=도안: 신화적인 연금술사의 벨트
+tagGDX1Blueprint_AccessoryC110=도안: 신화적인 볼케이넘
+tagGDX1Blueprint_AccessoryC111=도안: 신화적인 전선 의무병의 표식
+tagGDX1Blueprint_AccessoryC112=도안: 신화적인 아마라스타의 인장
+tagGDX1Blueprint_AccessoryC113=도안: 신화적인 골리앗 인장
+tagGDX1Blueprint_AccessoryC114=도안: 신화적인 근원적 평형의 루비
+tagGDX1Blueprint_AccessoryC115=도안: 신화적인 근원적 평형의 사파이어
+
+tagGDX1Blueprint_AccessoryD101=도안: 신화적인 폭풍을 보는 자의 사파이어
+tagGDX1Blueprint_AccessoryD102=도안: 신화적인 의심스러운 수단의 꾸러미
+tagGDX1Blueprint_AccessoryD103=도안: 잉걸불판금 허리띠
+tagGDX1Blueprint_AccessoryD104=도안: 신화적인 칼라스토르의 표식
+tagGDX1Blueprint_AccessoryD105=도안: 소모의 표식
+tagGDX1Blueprint_AccessoryD106=도안: 신화적인 얼음과 불의 군림
+tagGDX1Blueprint_AccessoryD107=도안: 스톤가드 허리띠
+tagGDX1Blueprint_AccessoryD108=도안: 요새의 사슬
+tagGDX1Blueprint_AccessoryD109=도안: 신화적인 자비의 화신
+tagGDX1Blueprint_AccessoryD110=도안: 신화적인 드리그의 전염병
+tagGDX1Blueprint_AccessoryD111=도안: 신화적인 케언의 복수자
+tagGDX1Blueprint_AccessoryD112=도안: 신화적인 땜장이의 독창성
+tagGDX1Blueprint_AccessoryD113=도안: 신화적인 해머폴 거들
+tagGDX1Blueprint_AccessoryD114=도안: 신화적인 불멸의 현자의 허리끈
+tagGDX1Blueprint_AccessoryD115=도안: 신화적인 어두운 꿈들의 표식
+tagGDX1Blueprint_AccessoryD116=도안: 신화적인 아나테마의 휘장
+tagGDX1Blueprint_AccessoryD117=도안: 신화적인 켈팟'조스 형상의 반지
+tagGDX1Blueprint_AccessoryD118=도안: 신화적인 유동적인 시간의 반지
+tagGDX1Blueprint_AccessoryD119=도안: 신화적인 끝없이 출몰하는 유령의 반지
+tagGDX1Blueprint_AccessoryD120=도안: 격변의 계약
+tagGDX1Blueprint_AccessoryD121A=도안: 투쟁의 속삭임 컨듀잇
+tagGDX1Blueprint_AccessoryD121B=도안: 파괴의 속삭임 컨듀잇
+tagGDX1Blueprint_AccessoryD121C=도안: 엘드리치의 속삭임 컨듀잇
+tagGDX1Blueprint_AccessoryD121D=도안: 심야의 속삭임 컨듀잇
+tagGDX1Blueprint_AccessoryD121E=도안: 마력의 속삭임 컨듀잇
+tagGDX1Blueprint_AccessoryD121F=도안: 야생의 속삭임 컨듀잇
+tagGDX1Blueprint_AccessoryD121G=도안: 룬의 속삭임 컨듀잇
+tagGDX1Blueprint_AccessoryD121H=도안: 죽지 않는 속삭임 컨듀잇
+
+tagGDX1Blueprint_AccessoryF101=도안: 에테르화살 펜던트
+tagGDX1Blueprint_AccessoryF102=도안: 말무스의 심장
+tagGDX1Blueprint_AccessoryF103=도안: 파괴자의 굶주림
+tagGDX1Blueprint_AccessoryF104=도안: 살상 계획의 표식
+tagGDX1Blueprint_AccessoryF105=도안: 오버시어
+tagGDX1Blueprint_AccessoryF106=도안: 탐욕스러운 자의 상징
+
+#Relics
+tagGDX1RelicB101=탐식
+tagGDX1RelicB101Desc="끝없는 굶주림."
+tagGDX1RelicB102=망령
+tagGDX1RelicB102Desc="고통받은 영혼이 안에서 요동친다."
+tagGDX1RelicB103=열렬함
+tagGDX1RelicB103Desc="모든 것에 열광하라."
+tagGDX1RelicB104=인내
+tagGDX1RelicB104Desc="전장에서의 용기."
+tagGDX1RelicB105=히스테리
+tagGDX1RelicB105Desc="죽음을 넘어선 광기."
+
+tagGDX1RelicC101=필멸성
+tagGDX1RelicC101Desc="모든 것에는 끝이 있어야만 한다는 흔들리지 않는 직감."
+tagGDX1RelicC102=앙숙
+tagGDX1RelicC102Desc="오래된 적을 향한 가차없는 추적."
+
+tagGDX1RelicD101=불순함
+tagGDX1RelicD101Desc="비열한 의도로 오염된, 날것의 비전 마력."
+tagGDX1RelicD102=보복
+tagGDX1RelicD102Desc="복수는 차갑게 전해져야 가장 좋다."
+tagGDX1RelicD103=아코비아의 만가
+tagGDX1RelicD103Desc="돌에서 무서운 노래가 흘러나온다."
+tagGDX1RelicD104=멸망
+tagGDX1RelicD104Desc="그대의 적들은 몰락하리라."
+tagGDX1RelicD105=파멸
+tagGDX1RelicD105Desc="운명의 손이 되어 적들의 운명을 결정하라."
+tagGDX1RelicD106=코르박의 기만
+tagGDX1RelicD106Desc="나를 섬기는 것이 곧 케언을 섬기는 것일지니. -엠피리온"
+tagGDX1RelicD107=엘드리치의 계약
+tagGDX1RelicD107Desc="삼신의 결속은 되돌릴 수 없다."
+tagGDX1RelicD108=니달라의 돌출
+tagGDX1RelicD108Desc="의심스러운 맹독, 혹은 거래의 도구."
+tagGDX1RelicD109=영원성
+tagGDX1RelicD109Desc="눈을 깜박이는 순간에도, 존재는 온전하다"
+tagGDX1RelicD110=살육
+tagGDX1RelicD110Desc="흘러나오는 피에 취하라."
+tagGDX1RelicD111=우로보룩의 수확
+tagGDX1RelicD111Desc="스스로 불사성을 완성한 자로부터 전해져 내려왔다."
+tagGDX1RelicD112=이그나파르의 연소
+tagGDX1RelicD112Desc="고대의 무덤에서 발견된 뒤 훗날 광휘단에 의해 정화된 아티팩트가 이그나파르의 돌뿐만은 아니었다."
+tagGDX1RelicD113=모그드로젠의 격정
+tagGDX1RelicD113Desc="외로운 늑대는 죽지만, 늑대 무리는 살아남는다."
+tagGDX1RelicD114=죽음추적자
+tagGDX1RelicD114Desc="자유로워지기를 갈망하는 사나운 영혼"
+
+
+#Crafting
+tagGDX1CraftRandomLegendaryDesc2=대장장이가 대상 물품들의 원초적인 마법적 힘을 혼합하여, 최대 94레벨 수준의 전설 등급 아이템 하나를 만들어낼 수 있습니다. 다만 58레벨 이하의 캐릭터들의 경우 에픽 아이템이 대신 만들어집니다.
+tagGDX1CraftRandomLegendaryAccessoryDesc2=대장장이가 대상 물품들의 원초적인 마법적 힘을 혼합하여, 최대 94레벨 수준의 전설 등급 아이템 하나를 만들어낼 수 있습니다. 다만 58레벨 이하의 캐릭터들의 경우 에픽 아이템이 대신 만들어집니다.
+tagGDX1CraftRandomLegendaryItemDesc2=대장장이가 최대 94레벨 수준의 전설 등급의 아이템을 제작할 수 있습니다.
+
+tagGDX1CraftMaterial_AetherialVanguard=에테리얼 서신
+tagGDX1CraftMaterial_AetherialVanguard_Desc="에테리얼의 에너지가 주입된 마법적인 텍스트. 필멸자의 눈에 띄기엔 너무 민감한 정보를 전달할 때 사용된 것 같다."
+
+tagGDX1CraftMaterial_AetherialVanguard02=에테리얼 뮤타젠
+tagGDX1CraftMaterial_AetherialVanguard02_Desc="살아있는 것의 피부가 가까이에 있으면 격렬하게 요동치는, 에테르가 주입된 끈적한 액체"
+
+tagGDX1CraftMaterial_Wendigo=웬디고 영혼
+tagGDX1CraftMaterial_Wendigo_Desc="암흑의 잠재력을 품은 사악한 영혼. 힘을 약속하는 말들을 속삭여온다."
+
+tagGDX1CraftMaterial_Ugdenbloom=우그덴꽃
+tagGDX1CraftMaterial_Ugdenbloom_Desc="그렇게 선명한 색을 띠고 있는데, 정말 지독한 썩은 냄새를 뿜어낸다."
+
+tagGDX1CraftMaterial_HeartOfDarkness=암흑의 심장
+tagGDX1CraftMaterial_HeartOfDarkness_Desc="잿더미 제단을 갈망하는 불쾌한 에너지가 넘쳐흐른다."
+
+#Consumables
+
+tagGDX1ConsumableBlueprintA01=제조법: 화염흡수의 연고
+
+tagGDX1ConsumableA101=하르게이트의 크리스탈
+tagGDX1ConsumableA101Desc="마치 무언가가 빠져나오려 하는 것처럼, 기이한 에너지로 울리고 있다..."
+
+tagGDX1ConsumableA102=카스파로프의 크리스탈
+tagGDX1ConsumableA102Desc="마치 무언가가 빠져나오려 하는 것처럼, 기이한 에너지로 울리고 있다..."
+
+tagGDX1ConsumableBlueprintB101=제조법: 우그덴주스
+tagGDX1ConsumableBlueprintB102=제조법: 우그덴연고
+tagGDX1ConsumableBlueprintB103=제조법: 중상용 연고
+tagGDX1ConsumableBlueprintB104=제조법: 드란구울 엘릭서
+tagGDX1ConsumableBlueprintB105=제조법: 모그드로젠의 엘릭서
+
+tagGDX1ConsumableB101=우그덴주스
+tagGDX1ConsumableB101Desc="우그덴꽃 추출물로 만든 달콤한 냄새의 혼합물."
+tagGDX1ConsumableB102=우그덴연고
+tagGDX1ConsumableB102Desc="우그덴꽃을 농축하여 만든 상처에 바르는 혼합물."
+tagGDX1ConsumableB103=중상용 연고
+tagGDX1ConsumableB103Desc="상처의 응고를 가속시키는 끈적한 혼합물."
+tagGDX1ConsumableB104=드란구울의 엘릭서
+tagGDX1ConsumableB104Desc="우그덴꽃의 줄기에서 뽑아낸 강력한 엘릭서."
+tagGDX1ConsumableB105=모그드로젠의 엘릭서
+tagGDX1ConsumableB105Desc="모그드로젠이 직접 조합한 강력한 엘릭서."
+
+tagGDX1ConsumableF101=주술의 오일
+tagGDX1ConsumableF101Desc="마녀단의 부정한 저주들이 주입된 오일."
+tagGDX1ConsumableF102=저주걸린 물약
+tagGDX1ConsumableF102Desc="약병을 깨트리면, 잔인한 저주가 주위의 적들에게 방출된다."
+tagGDX1ConsumableF103=에테르차단 오일
+tagGDX1ConsumableF103Desc="사용자의 장비를 에테르로부터 차단시켜주는 오일."
+tagGDX1ConsumableF104=폭풍화염 물약
+tagGDX1ConsumableF104Desc="약병을 깨트리면, 전기가 감도는 화염이 폭발적으로 방출된다."
+tagGDX1ConsumableF105=굶주림의 오일
+tagGDX1ConsumableF105Desc="웬디고의 허기를 사용자의 장비들에 주입하는 오일."
+tagGDX1ConsumableF106=사악의 물약
+tagGDX1ConsumableF106Desc="약병을 깨트리면, 사용자의 적들을 괴롭히는 사악한 영혼이 방출된다."
+tagGDX1ConsumableF107=명료함의 물약
+tagGDX1ConsumableF107Desc="가능성이 충만한 끈적한 액체."^o다른 캐릭터들이 사용할 수 있도록 전송용 창고에 보낼 수 있습니다.
+
+tagGDX1Consumable_AttributeReset=재형성의 물약
+tagGDX1Consumable_AttributeReset_Desc="사용자의 육체 자체가 재형성되는 동안 불편한 따스함을 느끼게 한다."
+
+
+
+#ItemEnchantment
+
+tagGDX1EnchantA101A=스타더스트
+tagGDX1EnchantA101Desc="흘러가는 별에서 나온 가루를, 담겨있는 마법적 특성이 흩어지지 않도록 조심스럽게 모은 것."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantA102A=강력한 스타더스트
+tagGDX1EnchantA102Desc="흘러가는 별에서 나온 가루를, 담겨있는 마법적 특성이 흩어지지 않도록 조심스럽게 모은 것."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantA103A=채찍덩굴 가루
+tagGDX1EnchantA103Desc="채찍덩굴은 얻기가 어려우며 때로는 죽음의 위험도 따르지만, 약에서도 마법에서도 많은 사용처가 있기 때문에 어려움을 감수할 만큼의 값어치를 지닌다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantA104A=강력한 채찍덩굴 가루
+tagGDX1EnchantA104Desc="채찍덩굴은 얻기가 어려우며 때로는 죽음의 위험도 따르지만, 약에서도 마법에서도 많은 사용처가 있기 때문에 어려움을 감수할 만큼의 값어치를 지닌다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantA105A=주술사의 입맞춤
+tagGDX1EnchantA105Desc="매우 불쾌한 해충들을 제거하기 위해 마녀단에서 사용하는 마력의 가루."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantA106A=강력한 주술사의 입맞춤
+tagGDX1EnchantA106Desc="매우 불쾌한 해충들을 제거하기 위해 마녀단에서 사용하는 마력의 가루."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantA107A=고사병 야수의 고름
+tagGDX1EnchantA107Desc="사령술은 마녀단에서 거의 사용되지 않지만, 나름의 쓸모는 있다. 특정한 고사병 야수들의 고름은 적절한 방식으로 추출하면 마법적 특성을 유지한다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantA108A=강력한 고사병 야수의 고름
+tagGDX1EnchantA108Desc="사령술은 마녀단에서 거의 사용되지 않지만, 나름의 쓸모는 있다. 특정한 고사병 야수들의 고름은 적절한 방식으로 추출하면 마법적 특성을 유지한다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantA109A=부패한 피부 가루
+tagGDX1EnchantA109Desc="이 가루를 만든 자는 우그덴늪을 떠다니던 부풀어오른 인간 시체의 피부를 가루로 만들었을 뿐이라고 주장한다. 그에 대한 확실한 사실을 알고 싶어하는 사람은 아무도 없다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantA110A=공허의 혀
+tagGDX1EnchantA110Desc="크토니안 악마의 혀로 만든 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantA111A=메이지캡 가루
+tagGDX1EnchantA111Desc="메이지캡은 우그덴늪의 습기찬 땅에 무성하게 자라는데, 마녀단은 그들의 생활에도 물품 제작의 재료로도 이것을 이용한다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantA112A=주술사의 꽃
+tagGDX1EnchantA112Desc="이 식물은 균열사냥개와 같은 야수들이 그러했듯이 약해진 장막을 넘어와서 케언에 새로이 나타난 것으로 보이는데, 이것이 지닌 마법적 특성 덕분에 마녀단의 저장고들에서 금방 한 자리를 차지하게 되었다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantA113A=피의 장미 가시
+tagGDX1EnchantA113Desc="믿기 힘들 정도로 날카로운 가시와 선명한 붉은 빛깔에 따라 이름이 붙은 꽃, 피의 장미의 가시는 압축시킬 경우 심각한 출혈을 일으키는 독이 된다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantA114A=주술사의 희열
+tagGDX1EnchantA114Desc="우그덴늪에서 자라는 희귀한 버섯에서 얻은 가루. 이 버섯은 일반 주민에게는 진기한 음먹거리로, 마녀단에게는 강력한 재료로 여겨진다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantA115A=기계공의 가루
+tagGDX1EnchantA115Desc="한때 번성했던 말무스의 산업 덕분에 유명해진, 보다 강한 충격들에도 금속들이 견딜 수 있게 강화해주는 가루."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantA116A=강력한 기계공의 가루
+tagGDX1EnchantA116Desc="한때 번성했던 말무스의 산업 덕분에 유명해진, 보다 강한 충격들에도 금속들이 견딜 수 있게 강화해주는 가루."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantA117A=공허의 타르
+tagGDX1EnchantA117Desc="다루기도 어렵고 매우 불안정한 재료이지만, 말무스의 아케니스트들은 이 뻑뻑한 재료를 강화마법에 이용할 방법을 발견해냈다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantA118A=강력한 공허의 타르
+tagGDX1EnchantA118Desc="다루기도 어렵고 매우 불안정한 재료이지만, 말무스의 아케니스트들은 이 뻑뻑한 재료를 강화마법에 이용할 방법을 발견해냈다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantA119A=임프의 눈 가루
+tagGDX1EnchantA119Desc="에테리얼 임프들의 부풀어오른 눈들에서 얻어낸 가루."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantA120A=강력한 임프의 눈 가루
+tagGDX1EnchantA120Desc="에테리얼 임프들의 부풀어오른 눈들에서 얻어낸 가루."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantA121A=스파크블룸 가루
+tagGDX1EnchantA121Desc="말무스 외곽에서 자라는 것이 발견된, 불꽃의 색을 띈 꽃잎을 가졌다고 알려진 꽃으로 만든 가루."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantA122A=강력한 스파크블룸 가루
+tagGDX1EnchantA122Desc="말무스 외곽에서 자라는 것이 발견된, 불꽃의 색을 띈 꽃잎을 가졌다고 알려진 꽃으로 만든 가루."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantA123A=불길의 심장 가루
+tagGDX1EnchantA123Desc="화염에 감싸인 야수들의 불타는 심장들에서 얻은 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantA124A=뒤틀린피부 가루
+tagGDX1EnchantA124Desc="인간의 피부에 직접 닿지 않도록 조심스럽게 다뤄져야 하는 이 마법의 가루는, 에테리얼 오염체들로부터 재료를 얻는 것이 제작 과정에서 가장 어려운 부분일 것이다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantA125A=공허의 재
+tagGDX1EnchantA125Desc="처치된 크토니안의 시체에서 종종 발견되는, 크토니안 차원의 잿더미. 크토니안 리프트를 통해 실제로 그 차원에 들어갈 만큼 무모한 사람은 아마 없을 것이다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantA126A=나이트스틸 광택제
+tagGDX1EnchantA126Desc="에룰란의 나이트블레이드들이 매우 탐내던, 말무스의 특제품."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantA127A=치유자의 가루
+tagGDX1EnchantA127Desc="전투의 현장에서 빠르게 상처들을 치유하기 위해 말무스의 생존자들이 개발한 혼합물."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantA128A=거체의 척추
+tagGDX1EnchantA128Desc="에테리얼 거체는 절대 가볍게 상대해서는 안되지만, 단 하나의 거체만 쓰러트려도 몇 달을 쓸 수 있을 분량을 만들 재료가 나온다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantA129A=웬디고 털가죽
+tagGDX1EnchantA129Desc="래비저께서 내리신, 웬디고 털가죽 뭉치들에서 얻은 가루."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantA130A=강력한 웬디고 털가죽
+tagGDX1EnchantA130Desc="래비저께서 내리신, 웬디고 털가죽 뭉치들에서 얻은 가루."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantA131A=핏빛비늘 가루
+tagGDX1EnchantA131Desc="우그덴늪 일부 지역에서 돌아다니는게 종종 목격되는 핏빛비늘 슬리스의 비늘들로 만든 가루."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantA132A=강력한 핏빛비늘 가루
+tagGDX1EnchantA132Desc="우그덴늪 일부 지역에서 돌아다니는게 종종 목격되는 핏빛비늘 슬리스의 비늘들로 만든 가루."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantA133A=송곳껍질 가루
+tagGDX1EnchantA133Desc="우그덴늪 송곳껍질의 딱딱한 등껍질로 만든 가루. 그 단단한 껍질을 이 정도의 부드러운 가루로 만드는 데는 많은 시간과 엄청난 힘이 필요하다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantA134A=강력한 송곳껍질 가루
+tagGDX1EnchantA134Desc="우그덴늪 송곳껍질의 딱딱한 등껍질로 만든 가루. 그 단단한 껍질을 이 정도의 부드러운 가루로 만드는 데는 많은 시간과 엄청난 힘이 필요하다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantA135A=유령의 가루
+tagGDX1EnchantA135Desc="우그덴늪에서 종종 보이는 유령같은 존재가 남기는 가루."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantA136A=강력한 유령의 가루
+tagGDX1EnchantA136Desc="우그덴늪에서 종종 보이는 유령같은 존재가 남기는 가루."^w^n(모든 양손 무기에 적용 가능)
+
+
+tagGDX1EnchantB101A=마녀단의 재치
+tagGDX1EnchantB101Desc="마녀단이 그들의 어둠의 기술들을 강화하기 위해 제작한 특벌한 마법적 가루."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantB102A=강력한 마녀단의 재치
+tagGDX1EnchantB102Desc="마녀단이 그들의 어둠의 기술들을 강화하기 위해 제작한 특벌한 마법적 가루."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantB103A=마녀단의 교활함
+tagGDX1EnchantB103Desc="마녀단에서 감각을 보다 날카롭게 하기 위해 제작한 특별한 마법적 가루."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantB104A=강력한 마녀단의 교활함
+tagGDX1EnchantB104Desc="마녀단에서 감각을 보다 날카롭게 하기 위해 제작한 특별한 마법적 가루."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantB105A=마녀단의 공포
+tagGDX1EnchantB105Desc="적들의 정신에 끔찍한 광경이 보이도록 만들어 제압하기 위해 마녀단의 주술로 강화된 특별한 독."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantB106A=강력한 마녀단의 공포
+tagGDX1EnchantB106Desc="적들의 정신에 끔찍한 광경이 보이도록 만들어 제압하기 위해 마녀단의 주술로 강화된 특별한 독."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantB107A=마녀단의 해악
+tagGDX1EnchantB107Desc="우그덴늪의 다양한 식물들에서 채취한 재료들을 마녀단의 마법으로 효과를 극대화하며 조합한 강력한 독소."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantB108A=강력한 마녀단의 해악
+tagGDX1EnchantB108Desc="우그덴늪의 다양한 식물들에서 채취한 재료들을 마녀단의 마법으로 효과를 극대화하며 조합한 강력한 독소."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantB109A=마녀의 검은 화염
+tagGDX1EnchantB109Desc="세 주술의 신을 섬기던 집단에서 치러지던 의식들에 자주 참여했었기에, 마녀단에서도 필요할 경우 자신들의 의식에 이 불쾌한 가루를 종종 사용해왔다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantB110A=망령의 비명
+tagGDX1EnchantB110Desc="마녀단의 주술사는 무서운 속박의 의식을 통하여 우그덴늪의 망령을 붙잡아서 분해시킬 수 있었다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantB111A=하늘파편 가루
+tagGDX1EnchantB111Desc="원래는 아케니스트 마스터였던 트로잔이 창조한 것이지만, 마녀단에서도 하늘의 힘을 담은 물품의 마법적 잠재력을 여러 모로 이용해왔다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantB112A=바실리스크의 이빨
+tagGDX1EnchantB112Desc="우그덴늪 바실리스크의 맹독 분비관으로부터 추출한 강력한 독소."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantB113A=바실리스크의 시선
+tagGDX1EnchantB113Desc="우그덴늪 바실리스크의 대상을 석화시키는 눈들에서 추출한 강력한 독소."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantB114A=실바리아의 정수
+tagGDX1EnchantB114Desc="전설들에서는 우그덴늪에서 늪지대 전체에 뿌리를 펼쳐두고 성장하는 신화적인 식물이 언급된다. 그 식물의 이름을 따온 이 마법적 강화제는 이 지역의 다양한 식물들을 재료로 만들어진 것이다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantB115A=우그덴늪의 심장
+tagGDX1EnchantB115Desc="우그덴늪에서 가장 강력한 존재의 하나인 골렘들의 돌 심장으로 만들어진 강력한 마법적 강화제."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantB116A=말무스의 구원
+tagGDX1EnchantB116Desc="말무스의 생존자들이 자신들을 에테리얼들로부터 보호하기 위해 제작한 강력한 마법적 강화제."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantB117A=강력한 말무스의 구원
+tagGDX1EnchantB117Desc="말무스의 생존자들이 자신들을 에테리얼들로부터 보호하기 위해 제작한 강력한 마법적 강화제."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantB118A=말무스의 의지
+tagGDX1EnchantB118Desc="말무스의 대장장이들이 그들의 망치질을 보다 강해지게 하려고 만든 마법적 강화제이지만, 전투에서도 똑같이 도움이 된다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantB119A=강력한 말무스의 의지
+tagGDX1EnchantB119Desc="말무스의 대장장이들이 그들의 망치질을 보다 강해지게 하려고 만든 마법적 강화제이지만, 전투에서도 똑같이 도움이 된다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantB120A=말무스의 영혼
+tagGDX1EnchantB120Desc="사람들의 무쇠와 같은 의지가 담긴 마법적 강화제."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantB121A=강력한 말무스의 영혼
+tagGDX1EnchantB121Desc="사람들의 무쇠와 같은 의지가 담긴 마법적 강화제."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantB122A=말무스의 심장
+tagGDX1EnchantB122Desc="말무스에 최초의 공격이 가해졌을 때의 절박함 속에서 만들어진 놀랄만큼 강력한 마법적 강화제. 비록 에테르에서 힘을 빌려온 것이라서 궁극적으로는 인류가 없애야할 대상이 될 수도 있지만, 지금으로서는 충분히 사용할 가치가 있다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantB123A=강력한 말무스의 심장
+tagGDX1EnchantB123Desc="말무스에 최초의 공격이 가해졌을 때의 절박함 속에서 만들어진 놀랄만큼 강력한 마법적 강화제. 비록 에테르에서 힘을 빌려온 것이라서 궁극적으로는 인류가 없애야할 대상이 될 수도 있지만, 지금으로서는 충분히 사용할 가치가 있다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantB124A=마력의 심장 가루
+tagGDX1EnchantB124Desc="매우 뜨겁게 타오르므로 갑옷도 손상시킬 수 있는 불안정한 마법의 가루이지만, 지니고 있는 위력 때문에 많은 비전 마법사들이 위험을 감수하고 사용했다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantB125A=제련 부산물 가루
+tagGDX1EnchantB125Desc="비전 마법을 이용해 강철을 제작하는 과정에서 나온 재의 부스러기들을 모아 만든 마법적 강화제."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantB126A=강철꽃 가루
+tagGDX1EnchantB126Desc="대지에 깊이 박힌 뿌리 조직으로부터 끌어올린 것으로 보이는 금속성 미립자가 줄기에 많이 함유되어 있음이 밝혀져서 강철꽃이라 이름붙은 식물을 이용해 만든 마법적 강화제."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantB127A=태풍의 가루
+tagGDX1EnchantB127Desc="파괴적인 태풍의 힘을 끌어들여 만든 마법적 강화제."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantB128A=용광로 불꽃
+tagGDX1EnchantB128Desc="용광로의 불꽃을 더 강하게 타오르게 해주어서 말무스 대장장이들이 가장 선호하던 마법적 강화제였는데, 그 기능은 전투에서도 유용하다."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantB129A=내장부식 맹독
+tagGDX1EnchantB129Desc="나이트블레이드들이 개발한, 필요한 재료들의 다수가 말무스에서만 구할 수 있는 것들인 치명적인 독소."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantB130A=아케이넘 더스트
+tagGDX1EnchantB130Desc="길덤 아케이넘을 위해 특별히 개발된, 사용자의 비전 마법 활용능력을 높여주는 마법적 강화제."^w^n(반지와 목걸이에 적용 가능)
+
+tagGDX1EnchantB131A=래비저의 수확
+tagGDX1EnchantB131Desc="래비저가 자신을 추종하는 저주받은 자들에게 내려준 선물. 채워지지 않는 굶주림을 주입한다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantB132A=강력한 래비저의 수확
+tagGDX1EnchantB132Desc="래비저가 자신을 추종하는 저주받은 자들에게 내려준 선물. 채워지지 않는 굶주림을 주입한다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantB133A=래비저의 눈동자
+tagGDX1EnchantB133Desc="래비저가 자신을 추종하는 저주받은 자들에게 내려준 선물. 비길데 없는 충성심을 발생시킨다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantB134A=강력한 래비저의 눈동자
+tagGDX1EnchantB134Desc="래비저가 자신을 추종하는 저주받은 자들에게 내려준 선물. 비길데 없는 충성심을 발생시킨다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantB135A=래비저의 분노
+tagGDX1EnchantB135Desc="래비저가 자신을 추종하는 저주받은 자들에게 내려준 선물. 통제될 수 없는 분노를 이끌어낸다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantB136A=강력한 래비저의 분노
+tagGDX1EnchantB136Desc="래비저가 자신을 추종하는 저주받은 자들에게 내려준 선물. 통제될 수 없는 분노를 이끌어낸다."^w^n(모든 양손 무기에 적용 가능)
+
+tagGDX1EnchantB137A=래비저의 숨결
+tagGDX1EnchantB137Desc="래비저가 자신을 추종하는 저주받은 자들에게 내려준 선물. 여기에 닿으면 심각한 상처를 입거나 피부에 물집이 생긴다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1EnchantB138A=강력한 래비저의 숨결
+tagGDX1EnchantB138Desc="래비저가 자신을 추종하는 저주받은 자들에게 내려준 선물. 여기에 닿으면 심각한 상처를 입거나 피부에 물집이 생긴다."^w^n(모든 양손 무기에 적용 가능)
+
+
+tagGDX1EnchantC101A=마녀단의 결계의 가루
+tagGDX1EnchantC101Desc="의식을 치르는 동안 스스로를 보호하기 위해 마녀단에서 개발한 마법적 강화제."^w^n(모든 방어구에 적용 가능)
+tagGDX1EnchantC102A=마녀단의 검은 재
+tagGDX1EnchantC102Desc="마녀단에서 크토니안의 피를 주입해 만든 재의 가루."^w^n(모든 방어구에 적용 가능)
+tagGDX1EnchantC103A=마녀단의 피투성이 재
+tagGDX1EnchantC103Desc="마녀단에서 웬디고들의 피를 주입해 만든 재의 가루."^w^n(모든 방어구에 적용 가능)
+tagGDX1EnchantC104A=말무스 영혼보호 가루
+tagGDX1EnchantC104Desc="에테리얼의 지배로부터 생존자들을 보호하기 위해 말무스에서 만들어진 마법적 강화제. 하지만 아직까지 그 효과를 실험해볼 정도로 무모한 자는 아무도 없었다."^w^n(모든 방어구에 적용 가능)
+tagGDX1EnchantC105A=말무스 상처지짐 가루
+tagGDX1EnchantC105Desc="위급한 상황에서 상처들을 살짝 태우는 데에 종종 사용되었던 마법의 가루. 고통스럽지만, 출혈이 계속되는 것보다는 나은 선택이다."^w^n(모든 방어구에 적용 가능)
+tagGDX1EnchantC106A=말무스 기력증폭 가루
+tagGDX1EnchantC106Desc="힘겨운 몇 시간의 전투를 치른 뒤에도 힘을 회복해야할 때 사용되던 마법의 가루."^w^n(모든 방어구에 적용 가능)
+tagGDX1EnchantC107A=웬디고 피냄새 가루
+tagGDX1EnchantC107Desc="출혈을 억제하여 사용자를 향한 추적이 어려워지게 만드는 래비저가 내린 선물."^w^n(모든 방어구에 적용 가능)
+tagGDX1EnchantC108A=웬디고 영혼향료 가루
+tagGDX1EnchantC108Desc="망령들로부터 영혼을 보호하라는 뜻으로 래비저가 내린 선물."^w^n(모든 방어구에 적용 가능)
+tagGDX1EnchantC109A=웬디고 생명향료 가루
+tagGDX1EnchantC109Desc="필멸의 생명의 흐름을 강화시켜주는 래비저가 내린 선물."^w^n(모든 방어구에 적용 가능)
+
+
+
+
+#ItemComponents
+
+tagGDX1CompA101Name=완력의 문장
+tagGDX1CompA101Desc="투사 울가드의 모습이 장식된 이 문장은, 제작 과정에서 부여된 상당량의 비전 마력을 집중하여 강한 물리적 완력을 이끌어낸다."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1CompA102Name=칼날의 문장
+tagGDX1CompA102Desc="전설적인 나이트블레이드 벨고시안이 고안한 이 문장은, 암살자들의 기존의 치명적인 공격들을 증폭시키고 표적의 출혈 상태를 자극한다."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1CompA103Name=하늘의 문장
+tagGDX1CompA103Desc="처음에는 비전 마법의 거장 트로잔이 장식됐던 이 문장은, 신들의 천상 그 자체로부터 힘을 끌어낸다."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1CompA104Name=황폐의 문장
+tagGDX1CompA104Desc="세 주술의 신의 힘이 주입된 이 문장은, 표적이 된 자에게 과거에 겪었던 모든 질병들을 겪게 만든다."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1CompA105Name=오염의 문장
+tagGDX1CompA105Desc="비록 이 문장을 만든 사람은 역사 속으로 잊혀졌지만, 에테르의 힘에 닿게하는 문장의 기능은 과장된 것이 아니다."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1CompA106Name=공허의 문장
+tagGDX1CompA106Desc="이 문장의 제작에는 말로 표현하기 힘든 끔찍한 과정들이 필요했다. 이 문장을 사용하는 자들은 힘에 굶주려 타락한 것으로 간주되었었다."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1CompA107Name=심야의 문장
+tagGDX1CompA107Desc="도피 능력이 매우 뛰어난 좋은 표적에 대처할 목적으로 나이트블레이드 아마라스타가 고안한 문장."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1CompA108Name=파괴의 문장
+tagGDX1CompA108Desc="얼즈인에 대한 경의와 신을 비웃는 자에게는 불길에 휩싸인 최후가 예정되리라는 의미를 담은 문장."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1CompA109Name=그림자 문장
+tagGDX1CompA109Desc="나이트블레이드 니달라가 가장 선호했던, 자극적인 산성을 무기에 주입하는 문장."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1CompA110Name=공진의 문장
+tagGDX1CompA110Desc="광휘단의 정교한 설계에 따라 제작된 이 문장은, 비전 마법에 전혀 숙련되지 않은 자가 사용하더라도 무기의 마법적 특성들을 강화해준다."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagGDX1CompA111Name=더럽혀진 심장
+tagGDX1CompA111Desc="여전히 고동치는 심장이 에테르의 오염으로 진동한다."^w^n(목걸이,메달에 적용 가능)
+
+tagGDX1CompA112Name=타오르는 루비
+tagGDX1CompA112Desc="보석의 단면들 안에서는 찬란한 불길이 춤추고 있다."^w^n(목걸이, 메달에 적용 가능)
+
+tagGDX1CompA113Name=룬새겨진 토파즈
+tagGDX1CompA113Desc="보석의 측면에 장식된 룬이 방어적 능력들을 강화시킨다."^w^n(반지, 목걸이, 메달에 적용 가능)
+
+tagGDX1CompA114Name=피에 물든 크리스탈
+tagGDX1CompA114Desc="한때는 진주의 백색을 띄었으나 표현조차 힘들 만큼 많은 흐르는 피를 흡수한 크리스탈."^w^n(반지, 목걸이, 메달에 적용 가능)
+
+tagGDX1CompA115Name=마법걸린 토양
+tagGDX1CompA115Desc="작물의 성장과 건강을 자극하기 위해 생명의 정수가 주입되었던 토양."^w^n(모든 방어구에 적용 가능)
+
+tagGDX1CompA116Name=주문에 그을린 판금
+tagGDX1CompA116Desc="치명적인 비전 마법 공격을 견뎌냈던 갑옷의 잔해. 금속 안에 마법적 에너지가 포획되어 있는 듯 하다."^w^n(모든 방어구에 적용 가능)
+
+tagGDX1CompA117Name=칼날 달린 판금
+tagGDX1CompA117Desc="위험한 칼날들이 여러 줄 부착된 갑옷용 판금. 강도들이나 무자비한 폭도들 사이에서 선호된다."^w^n(모든 방어구에 적용 가능)
+
+tagGDX1CompA118Name=우그덴늪 가죽
+tagGDX1CompA118Desc="우그덴늪으로 알려진 지역에서 살고 있는 야수들에게서 얻은 가죽. 이 늪의 위험성은 케언 전체에서도 가장 강한 수준의 야수들을 여럿 만들어냈다."^w^n(모든 방어구에 적용 가능)
+
+
+tagGDX1CompB101Name=^k신성한 판금
+tagGDX1CompB101Desc="엠피리온으로부터 직접 축복받았다는 소문도 있었던, 어느 강력한 갑옷 세트의 일부분이던 판금."^w^n(머리 방어구, 어깨 방어구, 상체 방어구에 적용 가능)
+
+tagGDX1CompB102Name=^k살아있는 갑옷
+tagGDX1CompB102Desc="금속보다는 피부에 가까워 보이며 지금은 당신의 손 안에서 꿈틀거리는, 에테리얼의 조작이 가해졌음이 틀림없는 갑옷용 판금."^w^n(머리 방어구, 어깨 방어구, 상체 방어구에 적용 가능)
+
+tagGDX1CompB103Name=^k타이탄의 판금
+tagGDX1CompB103Desc="믿기 힘들 정도로 두꺼운 갑옷용 판금. 온전한 갑옷 세트였다면 그 어느 인간이라도 모두 착용하고 움직이는 것이 절대 불가능할 정도의 무게일 것이다."^w^n(머리 방어구, 상체 방어구에 적용 가능)
+
+tagGDX1CompB104Name=^k엘드리치 거울
+tagGDX1CompB104Desc="거울의 표면에서 분광되어 반사되는 다양한 색들은 계속 변화하고, 거울을 바라보고 있으면 마치 다른 차원의 현실을 응시하는 듯하여 심한 두통이 발생한다."^w^n(머리 방어구, 상체 방어구에 적용 가능)
+
+tagGDX1CompB105Name=^k섬멸의 문장
+tagGDX1CompB105Desc="살짝 닿는 것만으로도 폭력과 살육의 느낌을 끌어내는 마법적 문장. 이 문장은 죽음에 굶주려있다."^w^n(목걸이에 적용 가능)
+
+tagGDX1CompB106Name=^k선조의 문장
+tagGDX1CompB106Desc="선조들에 대한 기억, 살아오면서 절대 만날 수 없었을 이들에 대한 기억까지 끌어내는 마법적 문장."^w^n(목걸이에 적용 가능)
+
+
+
+#ItemFactionBoosters
+tagGDX1BoosterCU_A01=우그덴늪의 마녀단 인정서
+tagGDX1BoosterCU_B01=우그덴늪의 마녀단 신임장
+tagGDX1BoosterCW_A01=바로우홀름 인정서
+tagGDX1BoosterCW_B01=바로우홀름 신임장
+tagGDX1BoosterPM_A01=말무스 레지스탕스 인정서
+tagGDX1BoosterPM_B01=말무스 레지스탕스 신임장
+
+tagGDX1BoosterAetherialVanguard_C01=에테리얼 뱅가드 수배서
+tagGDX1BoosterWendigo_C01=바로우홀름 수배서
+tagGDX1BoosterBeast_C01=짐승 "수배서"
+tagGDX1BoosterBeastDesc=그로블이 "적었음"이 분명한 이 문서는, 내용에서 분노가 느껴지는 데다가 조악하게 그려진 얼굴 모습은 당신의 것이 확실하다.
+
+#Misc
+
+
+# Bonuses
+
+#Devotion
+
+#Attributes
+tagAttributeReset={^E}능력치를 초기화하는데 사용합니다
+tagAttributeNoPointsUsed={^r}[초기화할 능력치가 없습니다]
+tagAttributeResetConfirmation=모든 능력치를 초기화하겠습니까?
+
+#ItemSets
+tagGDX1ItemSetC018CName=알카모스의 고뇌
+
+tagGDX1ItemSetC101Name=정신을 더럽히는 자
+tagGDX1ItemSetC101BName=영혼을 더럽히는 자
+tagGDX1ItemSetC101Desc="영혼들이 그대의 의지에 복종하리라."
+
+tagGDX1ItemSetC102Name=은빛의 수호자
+tagGDX1ItemSetC102BName=은빛의 감시자
+tagGDX1ItemSetC102Desc="제국의 황궁을 지키는 마법에 대한 방호력을 갖춘 은빛의 수호자들은 주술적인 위협들에 대해 언제나 빈틈없이 경계한다."
+
+tagGDX1ItemSetC103Name=불길 바라보는 자
+tagGDX1ItemSetC103Desc="당신의 심장은 타오르는 장작이며, 꺼지지 않는 파괴에 대한 갈망이 되리라."
+
+tagGDX1ItemSetC104Name=궁정마법사
+tagGDX1ItemSetC104Desc="제국 궁정의 존중받는 일원이면서 아케니스트였던, 홀거스 에벨리온이 입었던 정식 근무복."
+
+tagGDX1ItemSetC105Name=드레드워커
+tagGDX1ItemSetC105Desc="드레드워커의 존재 자체는 눈에 보이지만 설명할 수 없는 병을 주위에 일으킨다."
+
+tagGDX1ItemSetC106Name=광휘단 정복
+tagGDX1ItemSetC106Desc="특별히 제작되는 광휘단 전용 장비로, 위험한 임무를 수행해야 하는 고위 요원들에게만 수여되었다."
+
+tagItemSetC009BName=초점없는 시선
+tagItemSetC010BName=샤프슈터의 의무
+tagItemSetC011BName=모독적 계약의 증표
+tagItemSetC016BName=파네티를 이은 권위자
+tagItemSetC017BName=새벽의 방패
+tagItemSetC021BName=동방의 서약
+tagItemSetC024BName=불길보관자
+tagItemSetC025BName=칼리도르의 방어
+tagItemSetC026BName=미르미돈 요새
+tagItemSetC027BName=모그드로젠의 안식
+tagItemSetC028BName=비전 마법 소용돌이
+tagItemSetC029BName=근원적 조화
+
+
+tagGDX1ItemSetD101Name=크리그의 무장
+tagGDX1ItemSetD101Desc="과거 버위치 교도소장이었던 자의 무장은 에테리얼의 타락한 정수에 의해 영원히 뒤틀어져 버렸다."
+
+tagGDX1ItemSetD102Name=자연의 복수자
+tagGDX1ItemSetD102Desc="모그드로젠의 축복이 담긴, 자연의 질서를 수호해야할 때 그의 최고의 전사들이 입게 되는 무장."
+
+tagGDX1ItemSetD103Name=길 잃은 영혼들의 인도자
+tagGDX1ItemSetD103Desc="장막 너머에는 거대한 힘이 존재한다. 그 힘을 이용하는 법을 깨우친다면, 죽음 자체는 그저 하나의 장애물에 불과하게 될 것이다. - 우로보룩"
+
+tagGDX1ItemSetD104Name=옥타비우스의 정열
+tagGDX1ItemSetD104Desc="옥타비우스 갈라도르는 광휘단에서도 가장 공적이 많은 추적자였으며, 임종의 순간까지 시타델의 수장 자리를 맡고 있었음에도 그러했다."
+
+tagGDX1ItemSetD105Name=격변
+tagGDX1ItemSetD105Desc="모두의 안전을 위해서, 광휘단은 이 아티팩트들을 제각기 다른 곳에 숨겨서, 누군가가 이것들을 모아서 격변을 일으키는 그 힘을 방출시킬  가능성을 최대한 낮추고자 했다."
+
+tagGDX1ItemSetD106Name=스톤가드
+tagGDX1ItemSetD106Desc="멘허의 신앙에 대한 충실한 수호자, 스톤가드의 장비들."
+
+tagGDX1ItemSetD107Name=군단의 요새
+tagGDX1ItemSetD107Desc="검은군단의 여전사였던 여인, 팔리오나 다르의 장비들."
+
+tagGDX1ItemSetD108Name=코르바의 맹렬함
+tagGDX1ItemSetD108Desc="흐로스나르의 야성적인 딸이며 위대한 하얀 늑대의 송곳니라는 이명을 얻기도 했던, 코르바의 무장."
+
+tagGDX1ItemSetD109Name=암흑화염 복장
+tagGDX1ItemSetD109Desc="주술의 신 솔라엘의 상징이 새겨진, 삼신 사이에서 치열한 전쟁이 벌어지던 시기에 그의 부하들에게 수여되었던 장비들."
+
+tagGDX1ItemSetD110Name=주문의 재앙
+tagGDX1ItemSetD110Desc="전투기술과 비전 마법적 기량의 가능할 것 같지 않은 결합의 문장이, 이 전쟁용 판금갑옷에 새겨져 있다."
+
+tagGDX1ItemSetD111Name=메이지슬레이어
+tagGDX1ItemSetD111Desc="제국 안에서 사악한 주문사용자들을 멸절시키기 위해 나이트블레이들로부터 훈련을 받은 광휘단 산하의 부대, 메이지슬레이어가 사용하던 무장."
+
+tagGDX1ItemSetD112Name=발구르의 갈망
+tagGDX1ItemSetD112Desc="발구르는 타인의 생명에 대한 채워지지 않는 갈증이라는 저주를 받았지만, 그랬기 때문에 웬디고의 혼 래비저에게서는 축복을 받았다."
+
+tagGDX1ItemSetD113Name=룬바인더
+tagGDX1ItemSetD113Desc="광휘단의 보관소의 최초의 관리자, 룬바인더 탈리오스의 방어용 무장."
+
+tagGDX1ItemSetD114Name=우로보룩의 복장
+tagGDX1ItemSetD114Desc="불멸의 네크로맨서, 우로보룩이 아코비아 제국 시기에 입었던 의복. 역사가 흐르면서 사라졌다고 여겨졌었지만 여전히 숨겨진 잠재력으로 충만하다."
+
+tagGDX1ItemSetD115Name=알라가스트의 걸작
+tagGDX1ItemSetD115Desc="마스터 알라가스트는 광휘단의 친밀한 동료였으며, 광휘단이 보유한 아티팩트들을 연구하여 잠재력을 개방하는데 오랫동안 커다란 공헌을 했다."
+
+tagGDX1ItemSetD116Name=다갈론의 파괴
+tagGDX1ItemSetD116Desc="다갈론은 그의 방식들이 많은 질책을 받았던 비정통적인 인퀴지터였지만, 광휘단에는 이단자들이 어떻게 심판받았는지에 대해서 진지하게 고민하는 사람은 거의 없었다."
+
+tagGDX1ItemSetD117Name=죽음의 경비자
+tagGDX1ItemSetD117Desc="마지막 관문의 수호자이자, 속세의 감시자."
+
+tagGDX1ItemSetD118Name=예언자의 통찰력
+tagGDX1ItemSetD118Desc="별들은 많은 비밀들을 품고 있으나, 경청할 용기를 가진 자에게만 속삭이는 법이다."
+
+tagGDX1ItemSetD119Name=어둠의 존재의 선물
+tagGDX1ItemSetD119Desc="크'톤으로부터 그의 귀환을 신봉하는 필멸자들에게 내려진 선물."
+
+tagGDX1ItemSetD120Name=벨고시안의 학살
+tagGDX1ItemSetD120Desc="악명높은 나이트블레이드 마스터, 벨고시안이 입었던 갑옷으로, 그의 나중을 생각지 않는 살육과 피에 대한 갈망은 그를 고용하는 사람들마저도 난처하게 만들었다."
+
+tagGDX1ItemSetD121Name=라다간의 어리석음
+tagGDX1ItemSetD121Desc="이단자이자 광휘단을 배신했던 자, 위대한 수호자의 충성스러운 수하로 전향했던 아스토르 라다간의 방어구."
+
+tagGDX1ItemSetD122Name=서리방언
+tagGDX1ItemSetD122Desc="황제의 궁정 요인이었지만 정체가 알려지지 않아 서리방언이라고 불렸던, 잠입과 정치 공작의 전문가의 방어구."
+
+tagGDX1ItemSetD123Name=피의 기사
+tagGDX1ItemSetD123Desc="붉은 핏빛의 왕, 그 이전에는 피의 기사라고 알려졌던 국왕 나자란의 피에 물든 방어구."
+
+
+tagItemSetD001BName=심판자의 가호
+tagItemSetD002BName=성스러운 조화
+tagItemSetD003BName=자연의 부름의 정복
+tagItemSetD004BName=새벽추구자의 빛
+tagItemSetD005BName=하빈저의 살육
+tagItemSetD006BName=법관의 문장
+tagItemSetD007BName=악마사냥꾼의 무장
+tagItemSetD008BName=총포제작자의 파괴병기
+tagItemSetD009BName=야생의 심장 선봉대
+tagItemSetD010BName=투시자의 집중
+tagItemSetD011BName=인보커의 의지
+tagItemSetD012BName=마코비안의 성채
+tagItemSetD013BName=얼즈인의 지옥의 아바타
+tagItemSetD014BName=드리그의 기만
+tagItemSetD015BName=데스마크의 그림자
+tagItemSetD016BName=이스칸드라의 합일
+tagItemSetD017BName=울토스의 돌풍
+tagItemSetD018BName=트로잔의 폭풍우
+tagItemSetD019BName=발던의 배신
+tagItemSetD020BName=사악칼날의 계약
+tagItemSetD021BName=검은 소각의 계약 증표
+tagItemSetD022BName=빛의 가디언
+tagItemSetD023BName=지옥의 챔피언
+tagItemSetD024BName=아그리빅스의 맹렬함
+tagItemSetD025BName=워본 요새
+tagItemSetD026BName=피의 광란자의 끝없는 광기
+tagItemSetD027BName=알카모스의 공포의 인장
+
+
+#Prefixes
+tagGDX1PrefixAA101=일깨워주는
+
+tagGDX1PrefixAA022={^Y}인퀴지터의
+tagGDX1PrefixAA023={^Y}네크로맨서의
+
+tagGDX1PrefixAD101=관통차단의
+
+tagGDX1PrefixAO101=우수한
+
+tagGDX1PrefixB101_WpnMelee1h_A={^G}정수흡수자의
+tagGDX1PrefixB102_WpnMelee1h_A={^G}돌덮인
+tagGDX1PrefixB103_WpnMelee1h_A={^G}룬새겨진
+tagGDX1PrefixB104_WpnMelee1h_A={^G}망령속박된
+tagGDX1PrefixB105_WpnMelee1h_A={^G}마력폭풍의
+
+tagGDX1PrefixB101_Ar_A={^G}돌덮인
+tagGDX1PrefixB102_Ar_A={^G}룬새겨진
+tagGDX1PrefixB103_Ar_A={^G}망령속박된
+tagGDX1PrefixB104_Ar_A={^G}마력폭풍의
+
+tagPrefixB022_Class_A={^G}택티션의
+tagPrefixB023_Class_A={^G}퓨리파이어의
+tagPrefixB024_Class_A={^G}디시버의
+tagPrefixB025_Class_A={^G}인필트레이터의
+tagPrefixB026_Class_A={^G}메이지헌터의
+tagPrefixB027_Class_A={^G}빈디케이터의
+tagPrefixB028_Class_A={^G}아포스테이트의
+tagPrefixB029_Class_A={^G}데스나이트의
+tagPrefixB030_Class_A={^G}디파일러의
+tagPrefixB031_Class_A={^G}카발리스트의
+tagPrefixB032_Class_A={^G}리퍼의
+tagPrefixB033_Class_A={^G}스펠바인더의
+tagPrefixB034_Class_A={^G}리추얼리스트의
+tagPrefixB035_Class_A={^G}심문관의
+tagPrefixB036_Class_A={^G}신비술사의
+
+tagGDX1PrefixB101_Sh_A={^G}정수흡수자의
+tagGDX1PrefixB102_Sh_A={^G}담즙덧입힌
+tagGDX1PrefixB103_Sh_A={^G}룬새겨진
+tagGDX1PrefixB104_Sh_A={^G}마력폭풍의
+tagGDX1PrefixB105_Sh_A={^G}망령속박된
+tagGDX1PrefixB106_Sh_A={^G}유령결계의
+tagGDX1PrefixB107_Sh_A={^G}돌덮인
+
+
+#Suffixes
+tagGDX1SuffixA101=of 
+
+tagGDX1SuffixB101_Wpn_A={^G}고통받은 영혼의
+tagGDX1SuffixB102_Wpn_A={^G}영혼결계의
+tagGDX1SuffixB103_Wpn_A={^G}태워새긴 룬의
+tagGDX1SuffixB104_Wpn_A={^G}포박된 영혼의
+tagGDX1SuffixB105_Wpn_A={^G}천상의 격노의
+
+tagGDX1SuffixB101_Ar_A={^G}고통받은 영혼의
+tagGDX1SuffixB102_Ar_A={^G}고통받은 영혼의
+tagGDX1SuffixB103_Ar_A={^G}영혼결계의
+tagGDX1SuffixB104_Ar_A={^G}태워새긴 룬의
+tagGDX1SuffixB105_Ar_A={^G}포박된 영혼의
+tagGDX1SuffixB106_Ar_A={^G}포박된 영혼의
+
+tagGDX1SuffixB101_Sh_A={^G}고통받은 영혼의
+tagGDX1SuffixB102_Sh_A={^G}태워새긴 룬의
+tagGDX1SuffixB103_Sh_A={^G}포박된 영혼의
+tagGDX1SuffixB104_Sh_A={^G}천상의 격노의
+tagGDX1SuffixB105_Sh_A={^G}마법적 장벽의
+tagGDX1SuffixB106_Sh_A={^G}위풍당당한
+
+
+#ItemSkills
+
+
+#LootChests
+
+tagGDX1ChestWoodA01=마모된 상자
+tagGDX1ChestAltarD01=웬디고 제단
+tagGDX1ChestMalmouthC01=강철 상자
+tagGDX1ChestMalmouthD01=화려한 상자
+tagGDX1ChestFleshC01=인육외형 상자
+tagGDX1ChestFleshD01=뒤틀린피부 상자
+
+tagGDX1ChestSpecial01=식별된 상자
+tagGDX1ChestBucket01=불운한 시체
+
+tagGDX1ChestFleshshaper=조형사의 수집품
+tagGDX1ChestNemesis03=검투사의 수집품
+
+tagGDX1ChestSecret01=숨겨진 뒤틀린 존재의 전리품
+
+tagGDX1BreakableA01=부패 중인 그루터기
+tagGDX1BreakableA02=마녀단 저장물
+tagGDX1Breakable_UgdenbogA01=우그덴늪 버섯
+tagGDX1Breakable_WendigoDoor=웬디고 우리
+
+tagGDX1ChestBoss_Kraken=물에 젖은 상자
+tagGDX1Chest_Barrowholm=스코브의 개인 보관함
+tagGDX1Chest_DravisClue=오래된 독서대
+
+tagGDX1ChestBossOneShot_Fleshshaper=조형사의 보관함
+tagGDX1ChestOneShot_Flesh=뒤틀린인육 보관함
+tagGDX1ChestOneShot_GloomwaldHidden=네인의 은닉품
+tagGDX1ChestOneShot_MalmouthHidden=릭터의 은닉품
+
+tagGDX1Chest_MadRamblingsReward=이본다의 선물
+tagGDX1Chest_MadRamblingsLoot=이본다의 은닉품
+tagGDX1Chest_MadRamblingsNote=이본다의 상자
+
+tagGDX1Chest_KatrineCorpse=카트린의 시체
+tagGDX1Chest_RenochCorpse=레녹의 시체
+tagGDX1Chest_UnknownCorpse=부패 중인 시체
+
+tagGDX1ChestGauntletChestD01=잊혀진 유물함
+
+
+#Interactive Objects
+
+tagGDX1DoorWendigoLocked= {^R} ~ 스코브 에지노르에 의해 잠겨있음
+tagGDX1DoorPuppetmasterLocked= {^R} ~ 에테리얼에 의해 잠겨있음
+tagGDX1DoorSlumsLocked= {^R} ~ 레지스탕스에 의해 잠겨있음
+tagGDX1DoorDocksLocked= {^R} ~ 에테리얼에 의해 잠겨있음
+tagGDX1DoorEnclaveLocked= {^R} ~ 에테리얼에 의해 잠겨있음
+
+tagGDX1LeverFleshFactory=에테르 크리스탈
+tagGDX1AetherialRift=에테리얼 리프트
+
+
+#Quest Items
+
+
+#Breakables
+tagGDX1Quest_CorpseWagon_01=에테리얼의 시체 마차
+tagGDX1Quest_FactoryVent=인육형체 배기구
+tagGDX1Quest_ObsidianCrystal=룬새겨진 흑요석
+
+#Dungeon Doors
+tagGDX1UGDoorFactoryEntrance=인육형체 출입구
+tagGDX1UGDoorSlums=촛불 지구 출입구
+tagGDX1UGDoorIndust=강철지붕 지구 출입구
+tagGDX1UGDoorHideout=레지스탕스 피신처
+tagGDX1UGDoorFactoryGeneric=인육형체 문
+tagGDX1UGDoorFactoryHeart=심장부
+tagGDX1UGDoorSewerGeneric=하수도관
+tagGDX1RiftVoidExit=공허 출구
+tagGDX1WendioDoor=지하층 출입구
+tagGDX1WitchDoor=거주지 출입구
+tagGDX1FleshFactoryDoor=살덩어리 출입구
+tagGDX1DoorMapleStump01=움푹 파인 출입구
+tagGDX1DoorOvergrownCave=지하덤불동굴 출입구
+tagGDX1DoorLighthouse=등대 출입구
+tagGDX1CarraxusDoor=카락서스의 동굴
+
+tagGDX1DoorOneWayAncientGrove=숲에서 탈출
+tagGDX1EpicDoor_AncientGrove=고대의 숲 관문
+tagGDX1EpicDoor_AncientGroveLocked= {^R} ~ 모그드로젠에 의해 봉인됨 (해골 열쇠 필요)
+
+#Doors
+tagGDX1Door_Vine=덩굴문
+tagGDX1Door_Flesh=살아있는 피부의 문
+tagGDX1Door_Puppetmaster=살아있는 피부의 문
+
+
+#DLC
+tagGDX1DLCIllusionA01=환영: 흑기사 갑옷
+tagGDX1DLCA01=흑기사 갑옷
+tagGDX1DLCA01Desc="사악한 흑기사의 갑옷."
+
+
+tagGDX1DLCIllusionA02=환영: 은기사 갑옷
+tagGDX1DLCA02=은기사 갑옷
+tagGDX1DLCA02Desc="신성한 은기사의 갑옷."
+
+tagGDX1DLCIllusionA03=환영: 용장군의 소장품
+tagGDX1DLCA03=용장군의 소장품
+tagGDX1DLCA03Desc="존엄한 용장군의 소장품."
+
+tagGDX1DLCIllusionA04=환영: 백마법사
+tagGDX1DLCA04=백마법사 복장
+tagGDX1DLCA04Desc="정체 모를 백마법사의 복장."
+
+tagGDX1DLCIllusionA05=환영: 흑마법사
+tagGDX1DLCA05=흑마법사 복장
+tagGDX1DLCA05Desc="사악한 흑마법사의 복장."
+
+tagGDX1DLCIllusionA06=환영: 거대 늑대 갑옷
+tagGDX1DLCA06=거대 늑대 갑옷
+tagGDX1DLCA06Desc="흉포한 거대 늑대 갑옷."
+
+tagGDX1DLCIllusionB01=환영: 모그드로젠의 신성한 갑옷
+tagGDX1DLCB01=모그드로젠의 신성한 갑옷
+tagGDX1DLCB01Desc="야수의 신 모그드로젠의 방어구."
+
+tagGDX1DLCIllusionB02=환영: 라토쉬의 신성한 복장
+tagGDX1DLCB02=라토쉬의 신성한 복장
+tagGDX1DLCB02Desc="장막의 관리자 라토쉬의 전례복."
+
+tagGDX1DLCIllusionB03=환영: 엠피리온의 신성한 갑옷
+tagGDX1DLCB03=엠피리온의 신성한 갑옷
+tagGDX1DLCB03Desc="가장 강력한 신 엠피리온의 방어구."
+
+tagGDX1DLCIllusionB04=환영: 크'톤의 신성한 도구
+tagGDX1DLCB04=크'톤의 신성한 도구
+tagGDX1DLCB04Desc="죽은 신 크'톤의 끊어진 사슬."
+
+tagGDX1DLCIllusionB05=환영: 5인의 의회의 전례복
+tagGDX1DLCB05=5인의 의회의 전례복
+tagGDX1DLCB05Desc="에테리얼의 지배자 5인의 의회의 전례복."
+
+tagGDX1DLCIllusionHelmInvisible=투명 투구
+tagGDX1DLCIllusionHelmInvisibleDesc="0%의 무게로 100% 방어한다. 이제 유류 첨가물도 없다."
+
+tagGDX1DLCIllusionShouldersInvisible=투명 어깨보호대
+tagGDX1DLCIllusionShouldersInvisibleDesc="0%의 무게로 100% 방어한다. 이제 유류 첨가물도 없다."
+
+tagGDX1DLCIllusionMedalInvisible=투명 메달
+tagGDX1DLCIllusionMedalInvisibleDesc="배지가 없어도 100% 인식한다. 이제 유류 첨가물도 없다."
+

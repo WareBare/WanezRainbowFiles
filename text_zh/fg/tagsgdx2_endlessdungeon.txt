@@ -1,0 +1,235 @@
+#Region Names
+tagGDX2MapEndlessDungeon=碎裂之境
+tagGDX2MapEndlessBoss=碎境守卫的领地
+tagGDX2MapEndlessTreasure=碎裂之境的辉煌
+
+#Shattered Bosses
+tagGDX2EndlessDungeon_Boss01=碎境守卫 ~ 典狱长克里夫
+tagGDX2EndlessDungeon_Boss02=碎裂之魂 ~ 德莱厄斯·克隆利
+tagGDX2EndlessDungeon_Boss03=破碎的卡里夫
+tagGDX2EndlessDungeon_Boss03B=卡里夫之魂
+tagGDX2EndlessDungeon_Boss04=尤戈尔的先驱 ~ 艾克特扎尔
+tagGDX2EndlessDungeon_Boss05=碎境塑造者 ~ 西奥丁·莫林
+tagGDX2EndlessDungeon_Boss06=碎境管家
+tagGDX2EndlessDungeon_Boss07=碎境指挥官 ~ 卢西恩
+tagGDX2EndlessDungeon_Boss08=碎境行刑者 ~ 阿卡米尔
+tagGDX2EndlessDungeon_Boss09=尤戈尔之嗣 ~ 沙扎尔
+tagGDX2EndlessDungeon_Boss10=碎境之心 ~ 加尔加班
+tagGDX2EndlessDungeon_Boss11=碎境哨卫
+tagGDX2EndlessDungeon_Boss12=碎境放逐者
+tagGDX2EndlessDungeon_Boss13=碎境之刃 ~ 萨拉辛
+tagGDX2EndlessDungeon_Boss14=碎境塑造者·辛纳斯
+tagGDX2EndlessDungeon_Boss15=碎境守门人
+tagGDX2EndlessDungeon_Boss16=饥渴表象
+tagGDX2EndlessDungeon_Boss16_Tentacle=饥渴触须
+tagGDX2EndlessDungeon_Boss16_Void=饥渴虚空
+
+tagGDX2EndlessDungeon_Special01=狂热者 ~ 挖矿狂人
+tagGDX2EndlessDungeon_Special02=精英监察者
+tagGDX2EndlessDungeon_Special03=诅咒探寻者
+tagGDX2EndlessDungeon_Special04=板条箱娱乐
+tagGDX2EndlessDungeon_Special05=低调的板条箱
+tagGDX2EndlessDungeon_Special06=NAME ME
+tagGDX2EndlessDungeon_Special07=完美般正常的超大蛆虫
+tagGDX2EndlessDungeon_Special07B=超大蛆虫
+tagGDX2EndlessDungeon_Special08=板条箱之魂
+tagGDX2EndlessDungeon_Special09=白骨单峰驼
+tagGDX2EndlessDungeon_Special10=白骨单峰驼 ~ 精英
+tagGDX2EndlessDungeon_Special11=白骨单峰驼 ~ 哨兵
+tagGDX2EndlessDungeon_Special12=饥饿的蛆虫
+tagGDX2EndlessDungeon_Special13=火爆的蛆虫
+tagGDX2EndlessDungeon_Special14=膨胀的蛆虫
+tagGDX2EndlessDungeon_Special15=吃饱的蛆虫
+tagGDX2EndlessDungeon_Special16=不稳定的吞噬者
+tagGDX2EndlessDungeon_Special17=膨胀的吞噬者
+tagGDX2EndlessDungeon_Special18=小饿魔
+
+tagGDX2EndlessDungeon_Lever01=红色拉杆
+tagGDX2EndlessDungeon_Lever02=绿色拉杆
+tagGDX2EndlessDungeon_Lever03=蓝色拉杆
+tagGDX2EndlessDungeon_Lever04=黄色拉杆
+tagGDX2EndlessDungeon_Lever05=紫色拉杆
+tagGDX2EndlessDungeon_Lever06=白色拉杆
+tagGDX2EndlessDungeon_Door01=魔法吊门
+tagGDX2EndlessDungeon_Door01_Lock= {^R} ~ 被附近的拉杆锁住
+
+
+tagGDX2EndlessDungeon_Boss_Skill01=饥渴光环
+tagGDX2EndlessDungeon_Boss_Skill01_Desc=饥渴的黑暗吸引你，降低你的生命值。
+
+tagGDX2EndlessDungeon_Boss_Summon01=神之蛆虫
+tagGDX2EndlessDungeon_Boss_Summon02=饥渴黑暗
+tagGDX2EndlessDungeon_Boss_Summon02_Skill=饥渴黑暗
+tagGDX2EndlessDungeon_Boss_Summon02_Skill_Desc=无尽黑暗产生的刺骨的饥渴在缓慢吞噬着你...
+
+tagGDX2EndlessDungeon_S201=完全正常的盾牌
+tagGDX2EndlessDungeon_S201_Desc="左撇子会懂的。"
+tagGDX2EndlessDungeon_S202={^L}白骨之戟
+tagGDX2EndlessDungeon_S203={^I}莱奥维纳斯的戒指
+tagGDX2EndlessDungeon_S203_Desc="一枚保存完好的戒指，用一种可塑性很强的陌生材料制成，看起来相当愚蠢。"
+
+
+#NPCs
+tagGDX2EndlessDungeon_NPC_Event01=传送门守护者 ~ 玛赞
+
+tagGDX2EndlessDungeon_NPC_Merchant01=乌兰纳
+tagGDX2EndlessDungeon_ StoreTitle_Merchant01=碎境商贩
+tagGDX2EndlessDungeon_ StoreTitle_Merchant02=碎境侍从
+tagGDX2EndlessDungeon_ StoreTitle_Merchant03=碎境骑士
+tagGDX2EndlessDungeon_ StoreTitle_Merchant04=碎境少女
+tagGDX2EndlessDungeon_ StoreTitle_Merchant05=碎境守卫
+
+
+tagGDX2EndlessDungeon_NPC_Smith01=伊卡洛德
+tagGDX2EndlessDungeon_StoreTitle_Smith01=被诅咒的铁匠
+tagGDX2EndlessDungeon_StoreDesc_Smith01_1={}亡者之礼
+tagGDX2EndlessDungeon_StoreDesc_Smith01_2=伊卡洛德数个世纪以来都在锻造学识上颇有天赋，被他那特别的...存在形态所支持着。
+tagGDX2EndlessDungeon_StoreDesc_Smith01_3= 
+tagGDX2EndlessDungeon_StoreDesc_Smith01_4=制作武器，护甲或饰品，并向其中灌注下列特性之一：
+
+tagGDX2EndlessDungeon_NPC_Smuggler01=阿格纳斯
+tagGDX2EndlessDungeon_StoreTitle_Smuggler01=不朽的走私者
+
+tagGDX2EndlessDungeon_NPC_Reallocator01=拉提亚
+tagGDX2EndlessDungeon_StoreTitle_Reallocator01=灵魂向导
+
+tagGDX2EndlessDungeon_NPC_Inventor01=拉杜纳
+tagGDX2EndlessDungeon_StoreTitle_Inventor01=碎境发明家
+
+tagGDX2EndlessDungeon_NPC_PowerUps01=沙漠之嗣 ~ 卡拉加德拉
+
+#Shrines
+tagGDX2EndlessDungeon_Shrine01=阿兹拉卡的神龛
+tagGDX2EndlessDungeon_Shrine01_Desc=与阿兹拉卡交易，提升自身移动速度，并使你的攻击能够向敌人发射鬼魅刀刃。
+tagGDX2EndlessDungeon_Shrine01Skill=阿兹拉卡的交易
+tagGDX2EndlessDungeon_Shrine01Skill_Desc=你与阿兹拉卡达成了交易。自身移动速度提升，你的攻击能够向敌人发射鬼魅刀刃。
+tagGDX2EndlessDungeon_Shrine01SkillProc=鬼魅刀刃
+
+tagGDX2EndlessDungeon_Shrine02=奥莱隆的神龛
+tagGDX2EndlessDungeon_Shrine02_Desc=用奥利翁对血的渴望充盈自身，提升自身移动速度和%攻击能力。
+tagGDX2EndlessDungeon_Shrine02Skill=奥利翁的嗜血
+tagGDX2EndlessDungeon_Shrine02Skill_Desc=你浑身充满了奥利翁对血的渴望。自身移动速度提升，攻击能力增加%。
+
+tagGDX2EndlessDungeon_Shrine03=莱托什的神龛
+tagGDX2EndlessDungeon_Shrine03_Desc=获得幕帘守望者的力量，提升自身移动速度，并使你的攻击能够吸取敌人的生命。
+tagGDX2EndlessDungeon_Shrine03Skill=拉托什的幕帘
+tagGDX2EndlessDungeon_Shrine03Skill_Desc=你获得了幕帘之力。自身移动速度提升，你的攻击能够吸取敌人的生命。
+tagGDX2EndlessDungeon_Shrine03SkillProc=生命汲取
+
+tagGDX2EndlessDungeon_Shrine04=阿玛托克神龛
+tagGDX2EndlessDungeon_Shrine04_Desc=汲取周围空气中的热量，提升自身移动速度，并使攻击你的敌人有概率触发冰爆。
+tagGDX2EndlessDungeon_Shrine04Skill=阿玛托克的低语
+tagGDX2EndlessDungeon_Shrine04Skill_Desc=你汲取了周围空气中的热量。自身移动速度提升，攻击你的敌人有概率触发冰爆。
+tagGDX2EndlessDungeon_Shrine04SkillProc=冰爆
+
+tagGDX2EndlessDungeon_Shrine05=死亡的神龛
+tagGDX2EndlessDungeon_Shrine05_Desc=与死神交易，提升自身移动速度，并使自身获得无敌。
+tagGDX2EndlessDungeon_Shrine05Skill=凡人之愿
+tagGDX2EndlessDungeon_Shrine05Skill_Desc=你与死神达成了交易。自身移动速度提升，并获得无敌。
+
+
+#Powerups
+tagGDX2EndlessDungeon_Powerup01=碎裂之境的精华
+tagGDX2EndlessDungeon_Powerup01_Desc=你已经吸收了一个碎裂之境的灵魂，它将短时间内内大幅提升你的的力量和韧性。^o这个效果最多可以叠加5次，越高层数的碎境可叠加次数越多。
+tagGDX2EndlessDungeon_Powerup02_Desc=你已经吸收了一个碎裂之境的灵魂，它将短时间内内大幅提升你的的力量和韧性。^o这个效果最多可以叠加8次，越高层数的碎境可叠加次数越多。
+tagGDX2EndlessDungeon_Powerup03_Desc=你已经吸收了一个碎裂之境的灵魂，它将短时间内内大幅提升你的的力量和韧性。^o这个效果最多可以叠加9次，越高层数的碎境可叠加次数越多。
+tagGDX2EndlessDungeon_Powerup04_Desc=你已经吸收了一个碎裂之境的灵魂，它将短时间内内大幅提升你的的力量和韧性。^o这个效果最多可以叠加10次，越高层数的碎境可叠加次数越多。
+
+
+#Items
+tagGDX2EndlessDungeon_Essence_01=碎裂之魂
+tagGDX2EndlessDungeon_Essence_02=强大的碎裂之魂
+tagGDX2EndlessDungeon_Essence_03=上神的碎裂之魂
+tagGDX2EndlessDungeon_Essence_04=势不可挡的碎裂之魂
+
+tagGDX2EndlessDungeon_Key_01=碎裂引路石
+tagGDX2EndlessDungeon_Key_01_Desc=碎裂引路石提供了难以置信的力量。它能使玛赞打开通往第5层碎境至第15层碎境的道路。
+tagGDX2EndlessDungeon_Key_01_Blueprint=设计图：碎裂引路石
+
+tagGDX2EndlessDungeon_Key_02=共鸣引路石
+tagGDX2EndlessDungeon_Key_02_Desc=共鸣引路石带着它昔日力量的碎片闪烁。它能使玛赞打开通往第20层碎境至第30层碎境的道路。
+tagGDX2EndlessDungeon_Key_02_Blueprint=设计图：共鸣引路石
+
+tagGDX2EndlessDungeon_Key_03=幽魂引路石
+tagGDX2EndlessDungeon_Key_03_Desc=幽魂引路石注入了死者的灵魂。它能使玛赞打开通往第35层碎境至第45层碎境的道路。
+tagGDX2EndlessDungeon_Key_03_Blueprint=设计图：幽魂引路石
+
+tagGDX2EndlessDungeon_Key_04=亵渎引路石
+tagGDX2EndlessDungeon_Key_04_Desc=亵渎引路石上涂满了被污染的鲜血。它能使玛赞打开通往第50层碎境至第60层碎境的道路。
+tagGDX2EndlessDungeon_Key_04_Blueprint=设计图：亵渎引路石
+
+tagGDX2EndlessDungeon_Key_05=天神引路石
+tagGDX2EndlessDungeon_Key_05_Desc=天神引路石完全恢复了它的神圣力量。它能使玛赞打开通往第65层碎境至第75层碎境的道路。^n^n胆小的人不应该使用这种引路石。
+tagGDX2EndlessDungeon_Key_05_Blueprint=设计图：天神引路石
+
+tagGDX2EndlessDungeon_Key_06=永恒引路石
+tagGDX2EndlessDungeon_Key_06_Desc=能够扭曲其周边现实的引路石，玛赞能够用它开启通往第80-90层破碎之境的道路。^n^n内心脆弱者慎用。
+tagGDX2EndlessDungeon_Key_06_Blueprint=设计图：永恒引路石
+
+tagGDX2EndlessDungeon_Key_07=死亡引路石
+tagGDX2EndlessDungeon_Key_07_Desc=这块充满死亡之力的引路石开启了一条通往无尽危险的道路，只有征服的荣誉在终点等候。玛赞能够用它开启通往第95层或更高破碎之境的道路^n^n内心脆弱者慎用。
+tagGDX2EndlessDungeon_Key_07_Blueprint=设计图：死亡引路石
+
+tagGDX2ItemTest={^F}人形凝视者♀
+tagGDX2ItemTestDesc="一个成就不凡的家伙把凝视者套在了身上。"
+tagGDX2ItemTest2={^F}温和有趣的盒子
+tagGDX2ItemTest2Desc="受现实生活的启发"
+
+#Traps
+tagGDX2Trap_A01=冰霜水晶塔
+tagGDX2Trap_A02=地狱水晶塔
+tagGDX2Trap_A03=死亡水晶塔
+tagGDX2Trap_A04=毒素水晶塔
+tagGDX2Trap_A09=邪术水晶塔
+
+tagGDX2Trap_A09_Skill01=邪术光环
+tagGDX2Trap_A09_Skill01_Desc=原始的邪术能量包围着这块水晶，增强你的敌人并攻击你。
+
+
+#Notifications
+tagGDX2Notification_FloorActive=从你的敌人那里收集碎裂之魂
+tagGDX2Notification_FloorFinished=前往下一个传送门
+tagGDX2Notification_BossActive=消灭所有敌人
+tagGDX2Notification_BossFinished=与玛赞对话
+tagGDX2Notification_Reward=你的奖励将在下一个传送门后面等着你
+tagGDX2Notification_Reset=(可选) 与三巫神秘会的玛赞对话来进行新的尝试
+
+tagGDX2Notification_ArkovianPrison_01=附近的一扇吊门打开了！
+tagGDX2Notification_TreasureTrap_01=一个灵魂出现在附近！
+tagGDX2Notification_Special=似乎出了点问题...
+tagGDX2Notification_Special02=你听到附近有石头移动的声音...
+
+
+#Doors
+tagGDX2EndlessDungeonEntrance=碎裂之境传送门
+tagGDX2EndlessDungeonFloorEntrance=碎裂之境传送门
+tagGDX2EndlessDungeonNextFloor=向更深处前进
+tagGDX2EndlessDungeonTreasureRoom=永恒珍藏传送门
+tagGDX2EndlessDungeonExit=返回凯恩世界
+
+
+#Rewards
+tagGDX2Item_ChestA01=旅行者的箱子
+tagGDX2Item_ChestB01=胜利者的宝箱
+tagGDX2Item_ChestC01=凯旋宝箱
+tagGDX2Item_ChestD01=装饰宝箱
+tagGDX2Item_ChestE01=英雄的宝箱
+tagGDX2Item_ChestF01=勇士的宝箱
+tagGDX2Item_ChestG01=豪华宝箱
+tagGDX2Item_ChestH01=至高宝箱
+tagGDX2Item_ChestI01=华丽的宝箱
+tagGDX2Item_ChestJ01=荣耀宝箱
+tagGDX2Item_ChestK01=卓越宝箱
+tagGDX2Item_ChestL01=复仇者的珍藏
+tagGDX2Item_ChestM01=卓越珍藏
+tagGDX2Item_ChestN01=邪术珍藏
+tagGDX2Item_ChestO01=神之珍藏
+tagGDX2Item_ChestP01=崇高珍藏
+tagGDX2Item_ChestQ01=永恒珍藏
+tagGDX2Item_ChestR01=异界宝藏
+tagGDX2Item_ChestS01=半神宝藏
+
+tagGDX2Item_SpecialChestA01=碎裂之境的秘密
+tagGDX2Item_SpecialChestA02=碎裂之境的礼物
+
+

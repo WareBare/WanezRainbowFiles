@@ -1,0 +1,2564 @@
+tagHUD_LootModeDescription=Настройка параметров отображаемой добычи. Переключатель "Показать/Скрыть предметы" используется, чтобы скрыть всю добычу во время серьёзного боя, и снова отобразить их, после его завершения.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.9{^n}for Grim Dawn: v1.2.0.4{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+#General
+
+tagGameDifficultySetting01=Обычная
+tagGameDifficultySetting02=Элита
+tagGameDifficultySetting03=Абсолют
+tagDifficultyUnlocked=Сложность разблокирована
+tagDifficultyLevelUnlocked=Теперь вам доступна сложность {^g}{%s0}{^w}!
+
+tagAutosort=Автосортировка инвентаря
+
+tagPromptButtonYes=Да
+tagPromptButtonNo=Нет
+tagPromptButtonOkay=ОК
+tagPromptButtonClose=Закрыть
+
+tagGraveName=Могила игрока ~ {%t0}
+tagGraveSlainBy=Убийца: {%t0}
+tagGraveXPRecovered=Восстановлено опыта: {%d0}
+tagHeroXP={%d0} опыта за вражеского героя
+tagBossXP={%d0} опыта за вражеского босса
+tagHeroKilled=Вражеский герой убит
+tagBossKilled=Вражеский босс убит
+tagXPAwarded=Получено {%d0} опыта
+tagReputationBonus=Бонус репутации
+tagRepAwarded=+{%d0} репутации у фракции {^g}{%s1}
+tagLoreBonus=Бонус знаний
+
+tagLevelUp=Новый уровень
+tagLevelReached=Вы достигли {^y}{%d0}{^w} уровня
+
+#Devotion
+
+tagDevotionPointAwarded=Получено {%d0} очко набожности
+tagDevotionPointsAwarded=Получено {%d0} очков набожности
+tagDevotionShrine=Алтарь очищен
+tagDevotionShrineGuardian=Охрана алтаря
+tagDevotionUpdate=Уровень набожности
+tagDevotionSkillLevelUp={^g}{%s0} {^w}- достигнут {%d1} уровень!
+tagDevotionSkillMaxLevel={^g}{%s0} {^w}достигнут максимальный уровень!
+tagDevotionAffinityBonus=Бонус полного созвездия:
+tagDevotionAffinity=Склонность:
+tagDevotionSelected= (Выбрано)
+tagDevotionInUse= (Используется)
+tagDevotionConfirm=Заменить небесную силу?
+tagDevotionExperienceFormat=Опыт: {^y}{%d0}{^w} / {^y}{%d1}
+tagDevotionSkillRank=Текущий уровень: {%d0} / {%d1}
+
+tagUndo=Отмена
+Chat=Чат:
+
+tagGamePaused=Пауза
+
+tagSkillNotReady={^r}Умение не готово
+
+tagTransferStashError={^r}Этот предмет нельзя поместить сюда
+
+#Riftgate
+
+tagRiftgatePersonal=Личный разлом
+tagRiftgateDestination=Пункт назначения
+tagRiftgateError01=Вы не можете использовать этот разлом. Он создан игроком не из вашей группы.
+tagRiftgateError02=Вы не можете переместиться из этого разлома обратно в этот же самый разлом.
+tagRiftgateError03=Вы не можете переместиться отсюда к этому разлому.
+tagRiftgateDialog01=Открытый разлом закроет предыдущий. Вы хотите продолжить?
+tagRiftGateMapA01=Каирн
+
+#Quest
+
+tagQuests=Активные задания
+tagQuestLogNameNumber={%t0} ({%d1})
+tagQuestJournalNoQuests=Нет заданий
+tagQuestJournalNoComplete=Нет завершённых заданий
+tagQuestIncentives=Стимулы:
+tagQuestObjectives=Цели:
+tagQuestRewards=Награды:
+tagCodexJournalNoNotes=Нет записей
+tagCodexJournalSubHeadingEnemy=Враги
+tagCodexJournalSubHeadingFaction=Фракции
+tagCodexJournalSubHeadingCreed=Инквизитор Крид
+tagCodexJournalSubHeadingArkovia=История Арковии
+tagCodexJournalSubHeadingNecropolis=История Некрополиса
+tagCodexJournalSubHeadingSurvivorBlackLegion=Выжившие - Чёрный Легион
+tagCodexJournalSubHeadingSurvivorBurrwitch=Выжившие - Чертополох
+tagCodexJournalSubHeadingSurvivorsHomestead=Выжившие - Усадьба
+tagCodexJournalSubHeadingSurvivorsDarkvale=Выжившие - Тёмная Долина
+tagCodexJournalSubHeadingSurvivorsValbury=Выжившие - Порт Валбери
+tagCodexJournalSubHeadingHistoryGods=Боги Каирна
+tagCodexJournalSubHeadingDefault=Разное
+tagDevotionJournalTitle={%d0}/{%d1} Алтарей набожности
+tagAccept=Принять
+tagDecline=Отклонить
+tagContinue=Дальше
+tagEndConversation=Закончить разговор
+tagQuestPrimary=(основное)
+tagQuestSecondary=(вторичное)
+tagQuestElite=(элитное)
+tagQuestAccepted=Вы получили задание {^n}"{%t0}"
+tagQuestCompleted=Вы выполнили задание {^n}"{%t0}"
+tagQuestUpdate=Ход выполнения задания
+tagQuestUpdated=Задание {^n}"{%t0}" обновлено
+tagQuestFailed=Вы провалили задание {^n}"{%t0}"
+tagActionGiveMoney={%d0} железок
+tagActionGiveTribute=Подношения ({%d0})
+tagActionGiveTributes=Подношений ({%d0})
+tagActionGiveExperience=Опыт ({%d0})
+tagActionGiveFaction={%d0} {%t1} фракции
+tagActionGiveLevel={%d0} уровень
+tagActionGiveLevels={%d0} уровней
+tagActionGiveSkillPoint={%d0} очко умений
+tagActionGiveSkillPoints={%d0} очков умений
+tagActionGiveAttributePoint={%d0} очко характеристик
+tagActionGiveAttributePoints={%d0} очков характеристик
+tagActionGiveDevotionPoint={%d0} очко набожности
+tagActionGiveDevotionPoints={%d0} очков набожности
+tagConditionHasKilled={%t0} ({%d1}/{%d2})
+tagConditionHasItem={%t0} ({%d1}/{%d2})
+tagQuestRewardWindowTitle=Задание выполнено
+tagQuestRewardWindowInterim=Ход выполнения задания
+tagQuestRewardTitle=Награда:
+tagQuestRewardMoney={%d0} железок
+tagQuestRewardXP={%d0} опыта
+tagQuestRewardReputationPositive=+{%d0} репутации у фракции {%s1}
+tagQuestRewardReputationNegative=-{%d0} репутации у фракции {%s1}
+tagQuestRewardAcceptButton=Закрыть
+tagQuestBlockedDescription=В этой сессии задание недоступно из-за сервера.
+
+tagObjectives=Цели
+
+#Faction
+
+tagFaction={%s0}
+tagFactionStanding=Состояние: {^s}{%t0}
+tagFactionQuestReq=Дополнительное задание: {^s}{%+d0}
+tagFactionAlone=Одиночки
+tagFactionInvisible=Невидимки
+tagFactionGenericMonster=Чудовища
+tagFactionPlayer=Игроки
+tagFactionSurvivors=Перекрёсток Дьявола
+tagFactionSurvivorsInfo=Штаб-квартира: Перекрёсток Дьявола {^n}{^n} Выжившие... Это слово лучше всего подходит для описания обитателей Перекрёстка Дьявола. Мужчины и женщины пережившие Мрачный Рассвет сформировали небольшую общину среди руин заброшенной тюрьмы. Во время вторжения эфириалов все они теряли друзей и близких.{^n}{^n} Завоевать их доверие будет не просто, но, учитывая, что продовольствие иссякает, а на горизонте маячит угроза вторжения эфириалов, они могут ухватиться за любую возможность.
+tagFactionSurvivorsRewards1=Н/Д
+tagFactionSurvivorsRewards2=Н/Д
+tagFactionSurvivorsRewards3=Н/Д
+tagFactionSurvivorsRewards4=Пусто
+tagFactionSurvivorsRewards5=Новое задание {^n}Доступ к квартирмейстеру
+tagFactionSurvivorsRewards6=Новое задание {^n}Доступ к столу заказов {^n}Оружие фракции {^n}Доспехи фракции {^n}Чертежи фракции
+tagFactionSurvivorsRewards7=Новое задание/подземелье {^n}Примеси фракции {^n}Аксессуары фракции {^n}Приказы фракции {^n}Чертежи фракции
+tagFactionSurvivorsRewards8=Редкие примеси {^n}Мандаты фракции {^n}Элитное оружие фракции {^n}Элитные доспехи фракции
+tagFactionAetherials=Эфириалы
+tagFactionAetherialsInfo= По собственной глупости и жадности мистики Каирна проникли за магическую завесу, известную как Эфир, не подозревая, что именно они там встретят.{^n}{^n} День, когда эфириалы сошли в Каирн, впоследствии назвали Мрачным Рассветом: они вселились во множество людей и приступили к истреблению оставшихся. Но, что ещё более гнусно, они стали поднимать павших в виде мутировавших ходячих мертвецов, создавая бездушное пушечное мясо для своего вторжения. Даже их присутствия в Каирне достаточно для искажения дикой природы, превращая некогда безобидных существ животных в злобных чудовищ.{^n}{^n} Но самое странное из всего этого - их явная ненависть к хтонийцам, они истребляют пришельцев из пустоты при каждом удобном случае.
+tagFactionAetherialsRewards1=Немезида
+tagFactionAetherialsRewards2=Дополнительный герой
+tagFactionAetherialsRewards3=Увеличение числа врагов
+tagFactionAetherialsRewards4=Пусто
+tagFactionAetherialsRewards5=Н/Д
+tagFactionAetherialsRewards6=Н/Д
+tagFactionAetherialsRewards7=Н/Д
+tagFactionAetherialsRewards8=Н/Д
+tagFactionCthonians=Хтонийцы
+tagFactionCthoniansInfo= Хтонийцы - кошмарные порождения пустоты. До наступления Мрачного Рассвета хтонийцы в Каирне могли появиться разве что в результате неудачного магического ритуала или по призыву могущественного колдуна.{^n}{^n} Несмотря на все попытки пресечения, в Каирне сформировался культ кровавых ритуалов и поклонения тварям пустоты. Члены культа чаще других упоминали одно имя - Х'тон. С наступлением всеобщей разрухи культ стал быстро пополняться новыми последователями, людьми, потерявшими смысл жизни.{^n}{^n} Хтонийцы и преданные им культисты, как оказалось, не в ладах с эфириалами: первые вовсю используют беспомощных людей для своих кровавых обрядов, тогда как другим они нужны в качестве сосудов.
+tagFactionCthoniansRewards1=Немезида
+tagFactionCthoniansRewards2=Дополнительный герой
+tagFactionCthoniansRewards3=Увеличение числа врагов
+tagFactionCthoniansRewards4=Пусто
+tagFactionCthoniansRewards5=Н/Д
+tagFactionCthoniansRewards6=Н/Д
+tagFactionCthoniansRewards7=Н/Д
+tagFactionCthoniansRewards8=Н/Д
+tagFactionOutlaws=Банда Кронли
+tagFactionOutlawsInfo= В отличие от большинства шаек бродячих бандитов, банда Кронли высоко организована и хорошо вооружена. Это заслуга их самопровозглашенного лидера Дариуса Кронли.{^n}{^n} Воспользовавшись неразберихой, наступившей после Мрачного Рассвета, и сбежав из тюрьмы Перекрёстка Дьявола, эти преступники намереваются теперь захватить то самое место, в котором они когда-то были лишены свободы. Члены банды Кронли - садисты и насильники, беспощадные к ближним, олицетворение того, что самая главная угроза человечеству - это, пожалуй, само человечество.
+tagFactionOutlawsRewards1=Немезида
+tagFactionOutlawsRewards2=Дополнительный герой
+tagFactionOutlawsRewards3=Увеличение числа врагов
+tagFactionOutlawsRewards4=Пусто
+tagFactionOutlawsRewards5=Н/Д
+tagFactionOutlawsRewards6=Н/Д
+tagFactionOutlawsRewards7=Н/Д
+tagFactionOutlawsRewards8=Н/Д
+tagFactionBeasts=Звери
+tagFactionBeastsInfo= Существа из меха и когтей, чешуи и яда, панцирей и хребтов - все они часть Каирна. Повинуясь одному из самых жестоких законов природы, правилу, что выживает сильнейший, каждое последующее их поколение становится сильнее.{^n}{^n} И они выстоят, станут более свирепыми и бесстрашными, неважно, под влиянием естественных ли сил, или же по причине необдуманного вмешательства человека.
+tagFactionUser0=Бродяги
+tagFactionUser0Info=Штаб-квартира: Старая Арковия {^n}{^n} Ровари или бродяги, как их обычно называют - группа людей без постоянного места жительства. Для них открытая дорога стала домом и всем, что им нужно. Путешествуя по Каирну в паломничестве длиною в жизнь, они очищаются от мирских соблазнов и разлагающего влияния цивилизации. Значительная часть их истории утеряна в веках, а большинство культур считают их не более, чем бродягами и мелкими воришками.{^n}{^n} Бродяги ненавидят насилие и пытаются избежать его любой ценой, что часто приводит к злоупотреблениям со стороны более опасных людей.
+tagFactionUser0Rewards1=Н/Д
+tagFactionUser0Rewards2=Н/Д
+tagFactionUser0Rewards3=Н/Д
+tagFactionUser0Rewards4=Пусто
+tagFactionUser0Rewards5=Новое задание {^n}Доступ к квартирмейстеру
+tagFactionUser0Rewards6=Доступ к столу заказов {^n}Оружие фракции {^n}Доспехи фракции {^n}Чертежи фракции
+tagFactionUser0Rewards7=Новое задание {^n}Примеси фракции {^n}Аксессуары фракции {^n}Приказы фракции {^n}Чертежи фракции
+tagFactionUser0Rewards8=Редкие примеси {^n}Мандаты фракции {^n}Элитное оружие фракции {^n}Элитные доспехи фракции
+tagFactionUser1=Нейтральные
+tagFactionUser1Info=Н/Д
+tagFactionUser2=Усадьба
+tagFactionUser2Info=Штаб-квартира: Усадьба {^n}{^n} Когда беда пришла в северные сельскохозяйственные угодья, фермеры и их семьи собрались в Усадьбе. Теперь, когда над человечеством нависла угроза уничтожения, это чувство взаимовыручки оказалось как никогда кстати.{^n}{^n} При поддержке Чёрного легиона, Усадьба превратилась в настоящую крепость, островок относительной безопасности в мире, опустошаемом смертью. Однако сильные враги, нападающие со всех сторон, заставляют усомниться в правильности принятого решения.{^n}{^n} Пока Чёрный легион поглощён борьбой с хтонийцами и эфириалами, население Усадьбы сосредоточилось на более близкой им угрозе: прожорливые уховёртки неимоверно размножились и заполонили заброшенные поля.
+tagFactionUser2Rewards1=Н/Д
+tagFactionUser2Rewards2=Н/Д
+tagFactionUser2Rewards3=Н/Д
+tagFactionUser2Rewards4=Пусто
+tagFactionUser2Rewards5=Доступ к квартирмейстеру
+tagFactionUser2Rewards6=Доступ к столу заказов {^n}Оружие фракции {^n}Доспехи фракции {^n}Чертежи фракции
+tagFactionUser2Rewards7=Новое задание {^n}Примеси фракции {^n}Аксессуары фракции {^n}Приказы фракции {^n}Чертежи фракции
+tagFactionUser2Rewards8=Редкие примеси {^n}Мандаты фракции {^n}Элитное оружие фракции {^n}Элитные доспехи фракции
+tagFactionUser3=Свободный народ шахты Корриган
+tagFactionUser3Info=Штаб-квартира: Шахта Корриган {^n}{^n} МНОГО СЛОВЕЙ
+tagFactionUser3Rewards1=Н/Д
+tagFactionUser3Rewards2=Н/Д
+tagFactionUser3Rewards3=Н/Д
+tagFactionUser3Rewards4=Пусто
+tagFactionUser3Rewards5=Н/Д
+tagFactionUser3Rewards6=Н/Д
+tagFactionUser3Rewards7=Н/Д
+tagFactionUser3Rewards8=Н/Д
+tagFactionUser4=Изгнанница
+tagFactionUser4Info=Штаб-квартира: Форт Икон {^n}{^n} Не так много известно о загадочной Анастерии, откуда она столько знает об эфириалах и их планах. Она, казалось бы, прибыла из ниоткуда и предоставила Чёрному легиону сведения о действиях врага, что спасло множество драгоценных жизней.{^n}{^n} Большинство легионеров считают её ведьмой, и предпочли бы увидеть её на костре, несмотря на обещанные ей инквизитором Кридом неприкосновенность и безопасность.
+tagFactionUser4Rewards1=Месть Изгнанницы
+tagFactionUser4Rewards2=Гнев Изгнанницы
+tagFactionUser4Rewards3=Слуги Изгнанницы
+tagFactionUser4Rewards4=Пусто
+tagFactionUser4Rewards5=Новое задание
+tagFactionUser4Rewards6=Новое задание {^n}Доступ к столу заказов
+tagFactionUser4Rewards7=Новое задание {^n}Доступ к квартирмейстеру
+tagFactionUser4Rewards8=Редкие примеси {^n}Мандаты фракции {^n}Элитное оружие фракции {^n}Элитные доспехи фракции
+tagFactionUser5=Орден смертного бдения
+tagFactionUser5Info=Штаб-квартира: Бастион Скорби {^n}{^n} Орден смертного бдения представляет последнюю связь с почти утраченным искусством некромантии, драгоценные знания передаются ученикам от самого мастера Уроборуука. {^n}{^n} Члены Ордена не боятся смерти, вместо этого они постигают все её суровые уроки, полагая, что через овладение смертью, они смогут достичь гармонии с самим миром. {^n}{^n} Подвергаясь преследованиям со стороны Империи на протяжении столетий, Орден стал объектом для предрассудков и предубеждений. Однако самый непримиримый его противник - Избранные Кимона. Избранные, фанатично жаждущие очистить мир от скверны, видят в Ордене лишь ересь, которую необходимо искоренить.
+tagFactionUser5Rewards1=Немезида
+tagFactionUser5Rewards2=Дополнительный герой
+tagFactionUser5Rewards3=Увеличение числа врагов
+tagFactionUser5Rewards4=Пусто
+tagFactionUser5Rewards5=Доступ к квартирмейстеру
+tagFactionUser5Rewards6=Новое задание {^n}Доступ к столу заказов {^n}Оружие фракции {^n}Доспехи фракции {^n}Чертежи фракции
+tagFactionUser5Rewards7=Новое задание {^n}Примеси фракции {^n}Аксессуары фракции {^n}Приказы фракции {^n}Чертежи фракции
+tagFactionUser5Rewards8=Редкие примеси {^n}Мандаты фракции {^n}Элитное оружие фракции {^n}Элитные доспехи фракции
+tagFactionUser6=Арковианская нежить
+tagFactionUser6Info= Многие трагические истории повествуют о нежити, наводнившей руины Арковии. Некоторые считают, что это духи, застрявшие в мире смертных, неспособные перейти к обетованной загробной жизни. Другие утверждают, что это творения мерзкой некромантии, легионы нежити обречённой служить жестокому хозяину. Возможно, истина лежит где-то посередине.{^n}{^n} Единственное, с чем согласны все - нежить чрезвычайно опасна для живых, так что разграбление этих заброшенных руин представляется крайне рискованной затеей.
+tagFactionUser6Rewards1=Немезида
+tagFactionUser6Rewards2=Дополнительный герой
+tagFactionUser6Rewards3=Увеличение числа врагов
+tagFactionUser6Rewards4=Пусто
+tagFactionUser6Rewards5=Н/Д
+tagFactionUser6Rewards6=Н/Д
+tagFactionUser6Rewards7=Н/Д
+tagFactionUser6Rewards8=Н/Д
+tagFactionUser7=Чёрный Легион
+tagFactionUser7Info=Штаб-квартира: Форт Икон {^n}{^n} Чёрный Легион - элита Империи, Знаменосцы Смерти, исполнявшие волю императора с большим усердием. Легенд об их доблести не меньше, чем легенд об их жестокости и любви к насилию.{^n}{^n} Независимо от того, за что их уважали или боялись, Чёрный Легион - единственное подразделение имперской армии, переживший резню в столице, последовавшую за Мрачным Рассветом, и теперь они - единственная надежда человечества дать хоть какой-то отпор.
+tagFactionUser7Rewards1=Н/Д
+tagFactionUser7Rewards2=Н/Д
+tagFactionUser7Rewards3=Н/Д
+tagFactionUser7Rewards4=Пусто
+tagFactionUser7Rewards5=Доступ к столу заказов {^n}Доступ к квартирмейстеру
+tagFactionUser7Rewards6=Оружие фракции {^n}Доспехи фракции {^n}Чертежи фракции
+tagFactionUser7Rewards7=Новое задание/подземелье {^n}Примеси фракции {^n}Аксессуары фракции {^n}Приказы фракции {^n}Чертежи фракции
+tagFactionUser7Rewards8=Редкие примеси {^n}Мандаты фракции {^n}Элитное оружие фракции {^n}Элитные доспехи фракции
+tagFactionUser8=Избранные Кимона
+tagFactionUser8Info=Штаб-квартира: Бастион Скорби {^n}{^n} Избранные Кимона - фанатичные последователи Эмпириона Светоносца, который, согласно их верованиям, вернётся в Каирн в пылающей славе и поведёт своих Избранных в новую эру порядка и процветания.{^n}{^n} Под предводительством харизматичного проповедника, известного как отец Кимон, и под защитой собственной веры, Избранные готовы искоренить всю нечисть в Каирне, будь то мерзкие хтонийцы или манипулирующие смертью некроманты. Что касается последних, то Избранные полагают одной из главнейших своих задач избавление мира от Ордена смертного бдения.
+tagFactionUser8Rewards1=Немезида
+tagFactionUser8Rewards2=Дополнительный герой
+tagFactionUser8Rewards3=Увеличение числа врагов
+tagFactionUser8Rewards4=Пусто
+tagFactionUser8Rewards5=Доступ к квартирмейстеру
+tagFactionUser8Rewards6=Новое задание {^n}Доступ к столу заказов {^n}Оружие фракции {^n}Доспехи фракции {^n}Чертежи фракции
+tagFactionUser8Rewards7=Новое задание {^n}Примеси фракции {^n}Аксессуары фракции {^n}Приказы фракции {^n}Чертежи фракции
+tagFactionUser8Rewards8=Редкие примеси {^n}Мандаты фракции {^n}Элитное оружие фракции {^n}Элитные доспехи фракции
+tagFactionUser9=Угденский ковен
+tagFactionUser9Info=Штаб-квартира: Угденская топь{^n}{^n} Немногое известно о таинственном Угденском ковене. Будучи сообществом ведьм и чернокнижников, ковен стремится оградить своих братьев и сестёр от преследований общества, которое не понимает и, как следствие, боится их способностей (и зачастую оправданно).{^n}{^n} Успешно скрываясь от имперского ордена Люминари на протяжении десятилетий, ведьмы создали себе прибежище глубоко в предательской Угденской топи, месте куда даже самые решительные их преследователи не смеют ступить. Однако, это связано и с опасностью для них самих.{^n}{^n} Те же, кто нашёл пристанище в ковене должны сохранять бдительность, поскольку здесь возникают всё новые угрозы, будь то заблудившиеся путники, наткнувшиеся на их прибежище или смертельно опасная дикая природа самого болота.{^n}{^n} Но что ещё хуже, топь хранит в себе тайны, которых избегает даже ковен, чтобы не повторять ошибок прошлого и не дать повода люминари вновь начать охоту.
+tagFactionUser9Rewards1=Н/Д
+tagFactionUser9Rewards2=Н/Д
+tagFactionUser9Rewards3=Н/Д
+tagFactionUser9Rewards4=Пусто
+tagFactionUser9Rewards5=Доступ к квартирмейстеру
+tagFactionUser9Rewards6=Новое задание {^n}Доступ к столу заказов {^n}Оружие фракции {^n}Доспехи фракции {^n}Чертежи фракции
+tagFactionUser9Rewards7=Новые задания {^n}Примеси фракции {^n}Оружие фракции {^n}Аксессуары фракции {^n}Приказы фракции {^n}Чертежи фракции
+tagFactionUser9Rewards8=Редкие примеси {^n}Мандаты фракции {^n}Элитные доспехи фракции {^n}Легендарные чертежи фракции
+tagFactionUser10=Могильный курган
+tagFactionUser10Info=Штаб-квартира: Угденская топь{^n}{^n} Могильный курган, поистине жемчужина в грязи, своей безукоризненной чистотой и атмосферой мирной жизни он резко выделяется на фоне опасностей окружающего болота. Его обитатели по праву защищают свой дом, но относятся к путникам со странной смесью настороженности и тёплого гостеприимства.{^n}{^n} В конце концов, в мире разорённом эфириалами и хтонийцами, хоть что-то совершенное должно быть сохранено любой ценой.
+tagFactionUser10Rewards1=Немезида
+tagFactionUser10Rewards2=Дополнительный герой
+tagFactionUser10Rewards3=Увеличение числа врагов
+tagFactionUser10Rewards4=Пусто
+tagFactionUser10Rewards5=Доступ к квартирмейстеру
+tagFactionUser10Rewards6=Новое задание {^n}Доступ к столу заказов {^n}Оружие фракции {^n}Доспехи фракции {^n}Чертежи фракции
+tagFactionUser10Rewards7=Новое задание {^n}Примеси фракции {^n}Оружие фракции {^n}Аксессуары фракции {^n}Приказы фракции {^n}Чертежи фракции
+tagFactionUser10Rewards8=Редкие примеси {^n}Мандаты фракции {^n}Элитные доспехи фракции  {^n}Легендарные чертежи фракции
+tagFactionUser11=Сопротивление Мальмута
+tagFactionUser11Info=Штаб-квартира: Мальмут {^n}{^n} Мальмут был некогда гордостью всего востока, индустриальным чудом империи Эрулан, с оживлённым морским портом и процветающей экономикой. Но с началом Мрачного Рассвета этот город пал одним из первых. {^n}{^n} Разрушаемый изнутри вторгшимися эфириалами, Мальмут за считанные недели превратился из величественного светоча империи в кошмар наяву для своих жителей. Но не всё его население сгинуло в результате разразившейся битвы. Некоторые уцелели... выжили... дали отпор. {^n}{^n} Теперь эти люди составляют костяк сопротивления, стремящегося вырвать свой город из лап коварных захватчиков; но их запасы на исходе, а людей слишком мало по сравнению с бесчисленными полчищами эфириалов, окопавшихся в Мальмуте.
+tagFactionUser11Rewards1=Н/Д
+tagFactionUser11Rewards2=Н/Д
+tagFactionUser11Rewards3=Н/Д
+tagFactionUser11Rewards4=Пусто
+tagFactionUser11Rewards5=Доступ к квартирмейстеру
+tagFactionUser11Rewards6=Новое задание {^n}Доступ к столу заказов {^n}Оружие фракции {^n}Доспехи фракции {^n}Чертежи фракции
+tagFactionUser11Rewards7=Новое задание {^n}Примеси фракции {^n}Оружие фракции {^n}Аксессуары фракции {^n}Приказы фракции {^n}Чертежи фракции
+tagFactionUser11Rewards8=Редкие примеси {^n}Мандаты фракции {^n}Элитные доспехи фракции  {^n}Легендарные чертежи фракции
+tagFactionUser12=Авангард эфириалов
+tagFactionUser12Info= Среди эфириалов, сокрушивших человеческую цивилизацию в опустошительном событии, названном впоследствии Мрачным Рассветом, были те, кто первыми прошли через завесу и стали предвестниками гибели человечества. {^n}{^n} Они первыми проникли в ряды знати Эрулана, первыми стали манипулировать ничего не подозревающими людьми, ведя подрывную деятельность против городов и правительств. Этот авангард эфириалов теперь распространяет своё разлагающее влияние из руин того, что некогда было величественным светочем угасшей империи. {^n}{^n} Но учинённое ими побоище было только началом их деятельности. Руками эфирных скульпторов из человеческой плоти в глубинах Мальмута создаются новые чудовищные существа. Что будет дальше - неизвестно, но над человечеством нависла угроза полного уничтожения.
+tagFactionUser12Rewards1=Немезида
+tagFactionUser12Rewards2=Дополнительный герой
+tagFactionUser12Rewards3=Увеличение числа врагов
+tagFactionUser12Rewards4=Пусто
+tagFactionUser12Rewards5=Н/Д
+tagFactionUser12Rewards6=Н/Д
+tagFactionUser12Rewards7=Н/Д
+tagFactionUser12Rewards8=Н/Д
+tagFactionUser13=Культ Бисмиэль
+tagFactionUser13Info=Штаб-квартира: Конклав Троих{^n}{^n} Поклоняющийся неуловимой Госпоже слухов, Культ Бисмиэль славится кознями и изворотливостью.{^n}{^n} Именно благодаря интригам Бисмиэль, все усилия имперских инквизиторов, веками бесцельно охотившихся за культами Колдовских богов, вязли в бесконечной паутине ловушек и лжи.{^n}{^n} Всё это стало возможно благодаря обширной сети шпионов и информаторов сети Бисмиэль. Лишь немногим избранным известен полный охват интриг Бисмиэль.
+tagFactionUser13Rewards1=Н/Д
+tagFactionUser13Rewards2=Н/Д
+tagFactionUser13Rewards3=Н/Д
+tagFactionUser13Rewards4=Пусто
+tagFactionUser13Rewards5=Доступ к квартирмейстеру
+tagFactionUser13Rewards6=Доступ к столу заказов {^n}Оружие фракции {^n}Доспехи фракции {^n}Чертежи фракции
+tagFactionUser13Rewards7=Новое задание (Если союзники) {^n}Примеси фракции {^n}Оружие фракции {^n}Аксессуары фракции {^n}Приказы фракции {^n}Чертежи фракции
+tagFactionUser13Rewards8=Редкие примеси {^n}Мандаты фракции {^n}Элитное оружие фракции {^n}Легендарные чертежи фракции
+tagFactionUser14=Культ Дрига
+tagFactionUser14Info=Штаб-квартира: Конклав Троих{^n}{^n} Одарённые истинным зрением Великого Хранителя, последователи Дрига поглощены видениями возможного будущего. Многие из них сходят с ума от шёпота, но те, кто выдержит, становятся бесценным резервом, способным изменить будущие события в достижении целей Колдовских богов.{^n}{^n} Последователи Дрига говорят, что предстать перед Великим Хранителем - благословение без состязания. Его мудрые слова эхом проникают сквозь века когда он пытается восстановить равновесие в беспорядочных нитях судьбы, сотканной самими небожителями. Однако, никто никогда не становился свидетелем искаженного образа Дрига лично, потому что это разрушило бы их слабый смертный разум.
+tagFactionUser14Rewards1=Н/Д
+tagFactionUser14Rewards2=Н/Д
+tagFactionUser14Rewards3=Н/Д
+tagFactionUser14Rewards4=Пусто
+tagFactionUser14Rewards5=Доступ к квартирмейстеру
+tagFactionUser14Rewards6=Доступ к столу заказов {^n}Оружие фракции {^n}Доспехи фракции {^n}Чертежи фракции
+tagFactionUser14Rewards7=Новое задание (Если союзники) {^n}Примеси фракции {^n}Оружие фракции {^n}Аксессуары фракции {^n}Приказы фракции {^n}Чертежи фракции
+tagFactionUser14Rewards8=Редкие примеси {^n}Мандаты фракции {^n}Элитное оружие фракции {^n}Легендарные чертежи фракции
+tagFactionUser15=Культ Солаэля
+tagFactionUser15Info=Штаб-квартира: Конклав Троих{^n}{^n} Сама сущность Жуткого мира состоит в том, что Солаэль формирует реальность так, как считает нужным, и делится этими знаниями со своими верными слугами. Но такая сила не даётся без жертв. Некоторым суждено умереть, чтобы остальных согрели лучи его славы, высшего проявления верности. {^n}{^n} Поклоняющиеся Солаэлю заплатят любую цену, чтобы вкусить дары Солаэля. Они говорят, что Жуткий огонь не имеет себе равных и достоин того, чтобы пролить немного крови, даже если эта кровь их собственная... или их союзников.
+tagFactionUser15Rewards1=Н/Д
+tagFactionUser15Rewards2=Н/Д
+tagFactionUser15Rewards3=Н/Д
+tagFactionUser15Rewards4=Пусто
+tagFactionUser15Rewards5=Доступ к квартирмейстеру
+tagFactionUser15Rewards6=Доступ к столу заказов {^n}Оружие фракции {^n}Доспехи фракции {^n}Чертежи фракции
+tagFactionUser15Rewards7=Новое задание (Если союзники) {^n}Примеси фракции {^n}Оружие фракции {^n}Аксессуары фракции {^n}Приказы фракции {^n}Чертежи фракции
+tagFactionUser15Rewards8=Редкие примеси {^n}Мандаты фракции {^n}Элитное оружие фракции {^n}Легендарные чертежи фракции
+tagFactionUnknown=Неизвестно
+tagFactionStateEnemy5=Заклятый враг
+tagFactionStateEnemy4=Ненавистный
+tagFactionStateEnemy3=Отвратный
+tagFactionStateEnemy2=Презираемый
+tagFactionStateEnemy1=Враждебный
+tagFactionStateNeutral=Терпимый
+tagFactionStateFriend1=Дружественный
+tagFactionStateFriend2=Уважаемый
+tagFactionStateFriend3=Доверенный
+tagFactionStateFriend4=Заслуженный
+tagFactionStateFriend5=Почитаемый
+tagFactionStateNemesis=Заклятый враг
+tagFactionStateHated=Ненавистный
+tagFactionStateReviled=Упрекаемый
+tagFactionStateHostile=Враждебный
+tagFactionStateUnfriendly=Недружелюбный
+tagFactionStateSuspicious=Подозрительный
+tagFactionStateFriendly=Дружественный
+tagFactionStateTrusted=Доверенный
+tagFactionStateHonored=Заслуженный
+tagFactionStateRevered=Почитаемый
+
+#Faction Window
+
+tagFactionUpdated=Репутация обновлена
+tagFactionStatusChange={^w}Вы получили статус {%s0} {^w}у фракции {^b}{%s1}
+tagFactionNegativeStatusChange={^w}Вы получили статус {%s0} {^w}у фракции {^b}{%s1}
+tagFactionDoorLocked={^r}Ваши отношения с фракцией {^b}{%s0} {^r}не позволяют сюда войти
+tagFactionWindowName=Фракции
+tagFactionWindowFactionTitle={%s0} - {%s1}
+tagFactionReputation=Увеличивайте репутацию: {^n}
+tagFactionReputationKilling=Убивая {%s0}{^n}
+tagFactionReputationBounties=Выполняя заказы{^n}
+tagFactionReputationQuests=Выполняя задания{^n}
+tagFactionDiscountPositive=Наценка: {^r}+ {%.0f0}%
+tagFactionDiscountNegative=Скидка: {^g}- {%.0f0}%
+tagFactionDiscountZero=Скидка: {^s}{%.0f0}%
+tagFactionProgress=До следующего звания {%s0}{^w}: {^b}{%d1}
+tagFactionKillingGain=Чтобы повысить репутацию убивайте:
+tagFactionKillingLoss=Чтобы вызвать ненависть убивайте:
+tagFactionRewardsTier=Статус {%s0}{^w} разблокирует:
+tagFactionKillCommon=Обычных монстров
+tagFactionKillChampion=Чемпионов
+tagFactionKillHero=Героев
+tagFactionKillBoss=Боссов
+tagFactionBonusRep=Бонус уважения: {%d0}%
+tagFactionBonusInfamy=Бонус ненависти: {%d0}%
+
+#Achievements
+
+tagAchievements=Достижения
+tagAchievementUnlocked=Новое достижение!
+tagAchievementsComplete={%d0} / {%d1}
+
+#HUD
+
+tagHUDMenu=Кнопки меню
+tagHUDAttacks=Текущие атаки
+tagHUDSkills=Ячейки быстрого доступа
+tagHUD_PotionHealth=Целебный отвар
+tagHUD_PotionEnergy=Эликсир духа
+
+tagPortraitKick=Выгнать с сервера
+tagPortraitTrade=Торговля
+tagPortraitRemove=Исключить из группы
+tagPortraitChat=Чат
+tagPortraitDisband=Отпустить питомца
+
+tagHUDHealth_Head=({%t0}/{%t1})
+tagHUDHealthPercent_Head={%d0}%
+tagHUDPlayerHealth_Head={%t0}({%t1}/{%t2})
+tagHUDPlayerHealthPercent_Head={%t0}({%d1}%)
+tagHUDRoll_Health={%s0} {%d1} / {%d2}
+tagHUDRoll_XP={%s0} {%d1}  ~  {%s2} {%d3}
+tagHUDXP_Current=Опыт
+tagHUDXP_Next=Следующий уровень
+tagMaxLevel=Достигнут максимальный уровень
+tagSkillRefreshTime=-{%.1f0} {%z1} к перезарядке всех активных умений
+tagSkillRefreshTimeInfinate=-100% {^E}времени перезарядки
+tagSkillRefreshBaseSkillTime=-{%.1f0} {%z1} перезарядки основного умения
+
+tagSkillUnusableLowMana=Недостаточно энергии
+tagSkillUnusableCooldown=Умение перезаряжается
+tagSkillUnusableConfiguration=Умение требует экипировки
+tagSkillUnusableNotLearned=Умение не изучено
+
+tagHUD_Riftgate=Пронзить структуры материального мира и переместиться к любому известному вам разлому.
+tagHUD_EmptySlot_R=Свободная ячейка быстрого доступа
+tagHUD_EmptySlot_R1=ПКМ, чтобы назначить умение.
+tagHUD_LeftMouse_R=Назначить ЛКМ
+tagHUD_LeftMouse_R1=Это ваша основная атака. ПКМ, чтобы назначить умение.
+tagHUD_RightMouse_R=Назначить ПКМ
+tagHUD_RightMouse_R1=Это ваша дополнительная атака. ПКМ, чтобы назначить умение.
+tagHUD_CooldownLong=^W 59м
+tagHUD_CooldownSecondsW=^W{%d0}
+tagHUD_CooldownSecondsY=^Y{%d0}
+tagHUD_CooldownSecondsR=^R{%d0}
+tagHUD_CompassToggleName=Переключение мини-карты
+tagHUD_CompassToggleDescription=Изменение размера или отключение мини-карты.
+tagHUD_LootMode=Фильтр добычи
+tagHUD_LootHide=Показать/Скрыть предметы
+tagHUD_LootModeDescription=Настройка параметров отображаемой добычи. Переключатель "Показать/Скрыть предметы" используется, чтобы скрыть всю добычу во время серьёзного боя, и снова отобразить их, после его завершения.
+tagHUD_LootModeToggleOff=Фильтр добычи (выключено)
+tagHUD_LootModeToggleCommon=Фильтр добычи (обычные+)
+tagHUD_LootModeToggleMagic=Фильтр добычи ^Y(магические+)
+tagHUD_LootModeToggleRare=Фильтр добычи ^G(редкие+)
+tagHUD_LootModeToggleEpic=Фильтр добычи ^B(эпические+)
+tagHUD_LootModeToggleLegendary=Фильтр добычи ^P(легендарные+)
+
+tagHUD_LootModeToggleDescription=Выберите минимальную редкость отображаемой добычи.
+
+tagHUD_LeftMouse=ЛК
+tagHUD_RightMouse=ПК
+
+tagHUDPortraitLevelUP=Новый уровень
+tagHUDWeaponSwap=Смена оружия
+tagHUDWeaponSwapRoll=Переключение между комплектами оружия. У вас должен быть второй комплект оружия. 
+tagHUDWeaponSwapHelpRoll=Чтобы иметь возможность быстро сменить оружие, у вас должен быть экипирован второй комплект в альтернативных ячейках в окне персонажа. 
+
+tagHUDRiftgateButton=Путешествие через разлом
+tagHUDRiftgateButtonRoll=Создание небольшого личного разлома для перемещения к любому известному разлому, в том числе личному разлому другого члена группы.
+
+tagHUDQuickslot=Пустая ячейка быстрого доступа
+tagHUDQuickslotRoll=ПКМ, чтобы назначить умение.
+tagHUDQuickslotLM=Назначение ЛКМ
+tagHUDQuickslotLMRoll=Основная атака. ПКМ, чтобы назначить умение.
+tagHUDQuickslotRM=Назначение ПКМ
+tagHUDQuickslotRMRoll=Дополнительная атака. ПКМ, чтобы назначить умение.
+tagHUDQuickslotBarSwap=Переключение панелей быстрого доступа
+
+tagHUDButtonCharacter=Персонаж
+tagHUDButtonSkills=Умения
+tagHUDButtonGroup=Отряд
+tagHUDButtonQuest=Журнал
+tagHUDButtonMap=Карта
+tagHUDButtonChat=Чат
+tagHUDButtonFaction=Фракции
+tagHUDButtonAchievements=Достижения
+tagHUDButtonOptions=Настройки
+
+tagHUDButtonRollCharacter=Характеристики персонажа, инвентарь и экипировка.
+tagHUDButtonRollSkills=Выбор мастерства, изучение умений и набожность.
+tagHUDButtonRollGroup=Приглашение игрока и управление отрядом.
+tagHUDButtonRollQuest=Журнал заданий, заметки, алтари набожности и помощь по игре.
+tagHUDButtonRollMap=Детализированная карта местности и мира.
+tagHUDButtonRollChat=Отправить сообщения другим игрокам.
+tagHUDButtonRollFaction=Подробная информация о различных фракциях, населяющих Каирн.
+tagHUDButtonRollAchievements=Полученные достижения.
+tagHUDButtonRollOptions=Сохранение, настройки и выход из игры.
+
+#LootFilterUI
+tagLootFilterWindowTitle=Фильтр добычи
+tagLootFilterToggleOn=Отображение добычи включено
+tagLootFilterToggleOff=Добыча скрыта
+tagLootFilterTitle01=Качество
+tagLootFilterTitle02=Тип
+tagLootFilterTitle03=Урон
+tagLootFilterTitle04=Персонаж
+
+tagLootFilterReset=Сброс
+tagLootFilterResetInfo=Сбросить настройки фильтра до стандартных.
+tagLootFilterResetConfirm=Вы действительно хотите сбросить настройки фильтра до стандартных?
+
+tagLootFilter01=Обычные
+tagLootFilter01Info=Показать/скрыть предметы Обычного (белого) качества.
+tagLootFilter02=Магические
+tagLootFilter02Info=Показать/скрыть предметы Магического (жёлтого) качества.
+tagLootFilter03=Редкие
+tagLootFilter03Info=Показать/скрыть предметы Редкого (зелёного) качества. Включая предметы, добываемые из определённых врагов, также известные как вражеская экипировка.
+tagLootFilter04=Вражеская экипировка
+tagLootFilter04Info=Показать/скрыть предметы, добываемые из определённых врагов, также известные как вражеская экипировка.{^N}{^N}Используйте этот фильтр, если хотите видеть только редкие предметы из категории Вражеская экипировка, сняв при этом отметку Редкие.
+tagLootFilter05=Эпические
+tagLootFilter05Info=Показать/скрыть предметы Эпического (синего) качества. Включая предметы, являющиеся частью наборов.
+tagLootFilter06=Легендарные
+tagLootFilter06Info=Показать/скрыть предметы Легендарного (фиолетового) качества. Включая предметы, являющиеся частью наборов.
+tagLootFilter07=Наборы
+tagLootFilter07Info=Показать/скрыть предметы из наборов. Используйте этот фильтр, если хотите видеть только эпические и легендарные предметы, входящие в наборы, сняв при этом отметки Эпические и Легендарные.
+tagLootFilter08=Всегда показывать уники
+tagLootFilter08Info=Поставьте эту отметку, чтобы всегда видеть уникальные предметы (Эпического и Легендарного качества), независимо от настроек фильтра.{^N}{^N}Используйте эту настройку, если ищете определённые предметы, редко встречающиеся в магических, редких или вражеской экипировке, но по-прежнему хотите собирать все уникальные.
+
+tagLootFilter09=1-ручное холодное
+tagLootFilter09Info=Показать/скрыть одноручные топоры, булавы и мечи.
+tagLootFilter10=2-ручное холодное
+tagLootFilter10Info=Показать/скрыть двуручные топоры, булавы и мечи.
+tagLootFilter11=1-ручное стрелковое
+tagLootFilter11Info=Показать/скрыть одноручное стрелковое оружие.
+tagLootFilter12=2-ручное стрелковое
+tagLootFilter12Info=Показать/скрыть двуручное стрелковое оружие.
+tagLootFilter13=Кинжалы/Скипетры
+tagLootFilter13Info=Показать/скрыть кинжалы и скипетры.
+tagLootFilter14=Книги/тотемы
+tagLootFilter14Info=Показать/скрыть книги и тотемы.
+tagLootFilter15=Щиты
+tagLootFilter15Info=Показать/скрыть щиты.
+tagLootFilter16=Доспехи
+tagLootFilter16Info=Показать/скрыть шлемы, наплечники, нагрудники, штаны, обувь и перчатки.
+tagLootFilter17=Аксессуары
+tagLootFilter17Info=Показать/скрыть амулеты, кольца, медали и пояса.
+
+tagLootFilter18=Физический
+tagLootFilter18Info=Показать предметы, увеличивающие физический урон и урон внутренними травмами.
+tagLootFilter19=Проникающий
+tagLootFilter19Info=Показать предметы, увеличивающие проникающий урон.
+tagLootFilter20=Огонь
+tagLootFilter20Info=Показать предметы, увеличивающие урон огнём и горением.
+tagLootFilter21=Холод
+tagLootFilter21Info=Показать предметы, увеличивающие урон холодом и обморожением.
+tagLootFilter22=Молния
+tagLootFilter22Info=Показать предметы, увеличивающие урон молнией и электрошоком.
+tagLootFilter23=Кислота
+tagLootFilter23Info=Показать предметы, увеличивающие урон кислотой и ядом.
+tagLootFilter24=Урон здоровью
+tagLootFilter24Info=Показать предметы, увеличивающие урон здоровью и разложением.
+tagLootFilter25=Эфир
+tagLootFilter25Info=Показать предметы, увеличивающие урон эфиром.
+tagLootFilter26=Хаос
+tagLootFilter26Info=Показать предметы, увеличивающие урон хаосом.
+tagLootFilter27=Кровотечение
+tagLootFilter27Info=Показать предметы, увеличивающие урон кровотечением.
+tagLootFilter28=Бонусы питомцам
+tagLootFilter28Info=Показать предметы, предоставляющие бонусы питомцам.
+
+tagLootFilter29=Мои мастерства
+tagLootFilter29Info=Показать предметы, увеличивающие ранг умений в выбранных вами мастерствах.
+tagLootFilter30=Другие мастерства
+tagLootFilter30Info=Показать предметы, увеличивающие ранг умений в мастерствах, которые вы не используете.
+tagLootFilter31=Скорость
+tagLootFilter31Info=Показать предметы, увеличивающие скорость атаки, колдовства и бега.
+tagLootFilter32=Снижение перезарядки
+tagLootFilter32Info=Показать предметы, снижающие время перезарядки умений.
+tagLootFilter33=Критический урон
+tagLootFilter33Info=Показать предметы, увеличивающие критический урон.
+tagLootFilter34=Навык атаки
+tagLootFilter34Info=Показать предметы, увеличивающие навык атаки.
+tagLootFilter35=Навык защиты
+tagLootFilter35Info=Показать предметы, увеличивающие навык защиты.
+tagLootFilter36=Сопротивления
+tagLootFilter36Info=Показать предметы, увеличивающие сопротивления урону, контролю или таким экзотическим эффектам, как отражение урона или снижение урона с течением времени.
+tagLootFilter37=Ответный урон
+tagLootFilter37Info=Показать предметы, увеличивающие ответный урон.
+
+tagLootFilter38=Компоненты
+tagLootFilter38Info=Показать/скрыть компоненты.
+tagLootFilter39=Всегда двойные редкие
+tagLootFilter39Info=Поставьте эту отметку, чтобы предметы с редкими префиксом и суффиксом (Редкие и Вражеская экипировка) отображались всегда, независимо от остальных настроек фильтра.{^N}{^N}Используйте эту настройку, если вы хотите искать только наиболее мощные Редкие предметы или Вражескую экипировку.
+
+
+
+#SkillUI
+
+tagSkillUndoClass=Отменить выбор
+tagSkillUndoPoints=Вернуть очки
+tagSkillUndoGeneric=Вернуть
+tagSkillClassSelect=Мастерство
+tagCurrentLevel=Текущий уровень : {%d0}
+tagNextLevel=Следующий уровень : {%d0}
+tagSkillClassSelectInfo=Выберите мастерство для изучения{^n}{^n}После того, как вы закроете окно умений, выбор нельзя будет отменить.
+tagSkillReq01=Требуется {%d0} дополнительных очков в {%t1}.
+tagSkillReq01Singular=Требуется {%d0} дополнительное очко в {%t1}.
+tagSkillReq02=Требуется {%d0} дополнительных очков в {%t1} и умение {%s2}.
+tagSkillReq02Singular=Требуется {%d0} дополнительное очко в {%t1} и умение {%s2}.
+tagSkillReq03=Требуется умение {%s1}.
+tagSkillPointsRemain={%d0} неиспользованных очков
+tagSkillPointsRemainSingular=Осталось {%d0} очко(в)
+
+#Character
+
+GenderFormat={%t0}{%0a1}
+
+tagInventoryBag=Рюкзак
+tagInventoryBagDescription=Увеличивает размер инвентаря
+
+tagStatsResistanceTitle=Сопротивления
+tagStatsResistance01=Огонь
+tagStatsResistance01Desc=Сопротивление огненным атакам и заклинаниям, причиняющим урон от огня и горения.
+tagStatsResistance02=Молния
+tagStatsResistance02Desc=Сопротивление электрическим и шоковым атакам и заклинаниям, шокирующим и причиняющим урон током.
+tagStatsResistance03=Холод
+tagStatsResistance03Desc=Сопротивление ледяным атакам и заклинаниям, замораживающим и наносящим урон холодом.
+tagStatsResistance04=Яд и кислота
+tagStatsResistance04Desc=Сопротивление ядам и сильнодействующим кислотам.
+tagStatsResistance05=Проникающий урон
+tagStatsResistance05Desc=Сопротивление бронебойным снарядам и клинкам, наносящим проникающий урон.
+tagStatsResistance06=Кровотечение
+tagStatsResistance06Desc=Сопротивление кровотечению, вызванному рваными ранами и заклинаниями.
+tagStatsResistance07=Урон здоровью
+tagStatsResistance07Desc=Сопротивление колдовству, наносящему мгновенный или длительный урон непосредственно здоровью персонажа.
+tagStatsResistance08=Эфир
+tagStatsResistance08Desc=Сопротивление эфирным атакам и заклинаниям, наносящими урон эфиром.
+tagStatsResistance09=Оглушение
+tagStatsResistance09Desc=Сокращает продолжительность оглушающих атак и заклинаний, которые останавливают вас.
+tagStatsResistance10=Хаос
+tagStatsResistance10Desc=Сопротивление нестабильным энергиям самой вселенной, которые часто используют хтонийцы.
+tagStatsResistance11=Опрокидывание
+tagStatsResistance11Desc=Сопротивление опрокидыванию.
+tagStatsResistance12=Прерывание
+tagStatsResistance12Desc=Сопротивление прерыванию эффектов и перезарядки умений и заклинаний.
+
+tagCharStatsTab1Name=Основной
+tagCharStatsTab2Name=Дополнительный
+tagCharAttributeTitle=Характеристики
+tagCharAttributeName01=Искусность
+tagCharAttributeName02=Телосложение
+tagCharAttributeName03=Дух
+tagCharAttributeName04=Здоровье
+tagCharAttributeName05=Энергия
+
+tagCharAttributeDescription01=Искусность улучшает вашу технику боя, повышает физический, проникающий, урон от кровотечения и травм. Она также увеличивает ваш болевой порог, ваши шансы попасть по врагу, нанести критический урон.
+
+tagCharAttributeDescription02=Физическая закалка даёт вам силы, чтобы биться в тяжёлых доспехах и ловкость, чтобы избегать атак противника. Телосложение сильно увеличивает ваш болевой порог, скорость заживления ран и снижает шанс получения критического урона.
+
+tagCharAttributeDescription03=Сильный дух увеличивает приток энергии в ваше естество и позволяет выдерживать духовное бремя от использования самых мощных зачарованных предметов. Также дух увеличивает ваш болевой порог и повреждения от магических атак.
+
+tagCharAttributeDescription04=Здоровье - это мера того, сколько боли и урона вы можете выдержать, прежде чем обессилеете и умрёте.
+
+tagCharAttributeDescription05=Энергия - мера духа, способность удерживать магическую энергию. Чем её больше, тем больше запас энергии, которую вы можете немедленно использовать, не ожидая восстановления.
+
+tagCharBonusHealth=Прибавка здоровья:
+tagCharBonusHealthRegen=Прибавка восстановления здоровья:
+tagCharBonusEnergy=Прибавка энергии:
+tagCharBonusEnergyRegen=Прибавка восстановления энергии:
+
+tagCharBonusPhysicalDmg=Повышение физического урона:
+tagCharBonusPierceDmg=Повышение проникающего урона:
+tagCharBonusMagicalDmg=Повышение магического урона:
+tagCharBonusDurDmg=Повышение длительного урона:
+
+tagCharAttributeIncrement01=Каждое очко увеличивает искусность на 10. 
+tagCharAttributeIncrement02=Каждое очко увеличивает телосложение на 10.
+tagCharAttributeIncrement03=Каждое очко увеличивает дух на 10.
+tagCharAttributeIncrement04=Каждое очко увеличивает здоровье на 50.
+tagCharAttributeIncrement05=Каждое очко увеличивает энергию на 50.
+
+tagCharStatsOAAlert=Навык атаки {^b}(?)
+tagCharStatsOA=Навык атаки
+tagCharStatsOALast=Последний атакованный: 
+tagCharStatsOAHit=Шанс попасть:
+tagCharStatsOACrit=Шанс крита:
+tagCharStatsOADescription=Увеличение навыка атаки увеличивает шанс попадания по врагу, шанс нанесения критического урона, а также повреждения от критического урона. Если ваш навык атаки ниже, чем вражеский навык защиты, вы будете промахиваться в бою намного чаще (ваш шанс попасть по цели не может быть ниже 55%). На навык атаки влияют ваши умения, экипировка и искусность.
+
+tagCharStatsDAAlert=Навык защиты {^b}(?) 
+tagCharStatsDA=Навык защиты
+tagCharStatsDALast=Последний атаковавший: 
+tagCharStatsDAHit=Шанс получить удар:
+tagCharStatsDACrit=Шанс попасть под крит:
+tagCharStatsDADescription=Увеличение навыка защиты позволяет вам чаще парировать вражеские удары (минимальный шанс попадания 55%), снижает шанс получения критических ударов, а также уменьшает урон в случае получения критического удара. На навык защиты влияют ваши умения, экипировка и телосложение.
+
+tagOverCapResist={%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% сверх лимита)
+tagOverCapResistInt={%s0} {^b}{%d1}% {^s}(+{%d2}% сверх лимита)
+
+tagRollFormat01={%s0} {^b}{%d1}
+tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
+tagRollFormat03={%s0}     {%+.0f1}%
+tagRollFormat04={%s0}  ({^y}{%t1}{^w})
+tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
+tagRollFormat06={%s0} {^b}{%.0f1}%
+tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
+tagRollFormat08={%s0} {^b}{%.2f1}
+tagRollFormat09={%s0} {^b}+ {%.1f1}%
+tagRollFormat10={%s0} {^b}{%.0f1} - {%.0f2}
+tagRollFormat11={%s0} {^b}{%d1} - {%d2}
+tagRollFormat12={%s0} {^b}{%.0f1}% - {%.0f2}%
+tagRollFormat13={%s0} {^b}{%.1f1}%
+tagRollFormat14={%s0} {^b}{%.0f1}
+tagRollFormat15={%s0} {^b}+ {%.1f1}% + {%.0f2}
+tagRollFormat16={%s0} {^s}{%.2f1} {^b}- {%.2f2}
+tagRollFormat17={%s0} {^b}{%.1f1}% + {%.2f2}
+tagRollFormat18={^b}{%.0f0} - {%.0f1}
+tagRollFormat19={^b}{%.0f0}
+tagRollFormat20={%s0} {^b}{%d1}%
+tagFormatPercent={%.0f}%
+tagFormatPlusPercent=+ {%.0f}%
+tagFormatMinusPercent=- {%.0f}%
+tagFormatPlus=+ {%d0}
+tagFormatDash={%d0} - {%d1} 
+tagFormatDashPercent={%d0}% - {%d1}%
+tagCharPointAvailable={^y}{%d0}{^w} очко
+tagCharPointsAvailable={^y}{%d0}{^w} очков
+tagCharLevel=Уровень {%d0}
+tagCharXP=Опыт: {%t0}
+tagCharLevelAndClass=Ур. {%d0} {%t1}
+
+tagCharRollLeftHand=Левая рука:
+tagCharRollRightHand=Правая рука:
+
+tagInfoPage=Информация:
+
+tagTimePlayedName=Времени в игре
+tagTimePlayedNumber={%d0}:{%d1}:{%d2}
+
+tagCharHeaderResistance=Сопротивления
+tagCharHeaderDefense=Параметры защиты
+tagCharHeaderOffense=Параметры атаки
+tagCharHeaderCombat=Боевые параметры
+tagCharHeaderDPS=Урон за удар
+tagCharHeaderCharacter=Персонаж
+tagCharHeaderPhysical=Физический
+tagCharHeaderMagical=Магический
+tagCharHeaderPets=Бонусы питомцам
+tagCharHeaderDefenseSection=Защита
+tagCharHeaderRetaliation=Ответный урон
+tagCharHeaderStats=Статистика
+tagCharHeaderMisc=Разное
+
+tagCharStatsDPSTitle=Урон в секунду
+tagCharStatsDPS=Урон в секунду {^b}(?)
+tagCharStatsDPSWeapon=Атака оружием
+tagCharStatsDPSDescription=Средний урон в секунду, без учёта защиты противника.
+tagCharStatsDPSRightDescription=Повреждения от умения на правой кнопке мыши против одиночной цели с учётом всех бонусов от экипировки и умений, защита противника не учитывается.
+tagCharStatsDPSLeftDescription=Повреждения от умения на левой кнопке мыши против одиночной цели с учётом всех бонусов от экипировки и умений, защита противника не учитывается.
+
+tagCharStatsArmorTotalAlert=Рейтинг брони {^b}(?)
+tagCharStatsArmorTotal=Броня
+tagCharStatsAbsorption=Поглощение брони
+tagCharStatsArmorTotalDescription=С ростом брони, вы получаете меньше урона от физических атак. Бонусы от умений и предметов добавляются ко всем ячейкам брони.
+tagCharStatsHitArmor=По зонам
+tagCharStatsArmorUnprotected=Без защиты
+tagCharStatsArmorNA=Н/Д
+tagCharStatsArmorBonus=Бонус:
+tagCharStatsArmorHead=Голова:
+tagCharStatsArmorChest=Грудь:
+tagCharStatsArmorArms=Руки:
+tagCharStatsArmorLegs=Ноги:
+tagCharStatsArmorJewelry=Украшение:
+tagCharStatsArmorFeet=Ступни:
+tagCharStatsArmorWaist=Пояс:
+tagCharStatsArmorShoulders=Плечи:
+
+tagFormulaLearned=Чертёж изучен
+tagFormulaLearn01=Вы научились создавать {%t0}
+tagFormulaLearn02={^r}Вам уже известен этот чертеж
+tagFormulaLearn03={^r}[Уже изучено]
+
+tagItemCompareEquipped=Сейчас надето
+tagItemCompareVendor=Вещь на продажу
+tagItemCompareInventory=Вещь в инвентаре
+tagItemCompareGround=Вещь на земле
+tagItemInsufficientStatus={^r}Недостаточно высок статус фракции
+
+
+#Char Stats Tab 2
+
+tagCharStatsMaximumSpeed=Максимальная скорость
+
+#Character
+tagCharStatsAttacksPerSecond=Атак в секунду
+tagCharStatsAttacksPerSecondInfoo=Количество атак вашим оружием в секунду, включая бонусы.
+tagCharStatsRunSpeed=Скорость бега
+tagCharStatsRunSpeedInfo=Скорость бега вашего персонажа относительно базовой (включает общую скорость).
+tagCharStatsCritDmg=Критический урон
+tagCharStatsCritDmgInfo=Процентный бонус критического урона. Вероятность критического удара зависит от отношения вашего навыка атаки к навыку защиты вашей цели.
+tagCharStatsLifeRegen=Восстановл-е здоровья
+tagCharStatsLifeRegenInfo=Скорость восстановления вашего здоровья в бою. Процентный бонус влияет только на добавку от экипированных предметов и умений, а не на базовый уровень регенерации, основанный на Телосложении.
+tagCharStatsEnergyRegen=Восстановл-е энергии
+tagCharStatsEnergyRegenInfo=Скорость восстановления вашей энергии. Процентный бонус влияет только на добавку от экипированных предметов и умений, а не на базовый уровень регенерации, основанный на Духе.
+tagCharStatsEnergyAbsorption=Поглощение энергии
+tagCharStatsEnergyAbsorptionInfo=Процент энергии, затраченной врагом на атаки и заклинания, который будет возвращаться при ударе.
+tagCharStatsConstitution=Прибавка к запасу сил
+tagCharStatsConstitutionInfo=Процентный бонус к максимуму запаса сил.
+tagCharStatsExpGainedBonus=Прибавка к опыту
+tagCharStatsExpGainedBonusInfo=Увеличивает весь получаемый в игре опыт на данный процент.
+tagCharStatsLightRadiusBonus=Радиус освещения
+tagCharStatsLightRadiusBonusInfo=Процент увеличения радиуса круга света вокруг персонажа.
+tagCharStatsAllSkillsBonus=Все умения
+tagCharStatsAllSkillsBonusInfo=Бонус ко всем изученным умениям в выбранных мастерствах.
+tagCharStatsSoldierSkillsBonus=Умения солдата
+tagCharStatsSoldierSkillsBonusInfo=Бонус к изученным умениям солдата
+tagCharStatsDemoSkillsBonus=Умения подрывника
+tagCharStatsDemoSkillsBonusInfo=Бонус к изученным умениям подрывника
+tagCharStatsOccuSkillsBonus=Умения оккультиста
+tagCharStatsOccuSkillsBonusInfo=Бонус к изученным умениям оккультиста
+tagCharStatsNightbladeSkillsBonus=Умения ночного клинка
+tagCharStatsNightbladeSkillsBonusInfo=Бонус к изученным умениям ночного клинка
+tagCharStatsArcanistSkillsBonus=Умения мистика
+tagCharStatsArcanistSkillsBonusInfo=Бонус к изученным умениям мистика
+tagCharStatsShamanSkillsBonus=Умения шамана
+tagCharStatsShamanSkillsBonusInfo=Бонус к изученным умениям шамана
+
+#Physical
+tagCharStatsAttackSpeed=Скорость атаки
+tagCharStatsAttackSpeedDescription=Скорость атаки вашим оружием, по отношению к базовой (включая общую скорость). Медленное оружие получит меньший бонус от % скорости атаки.
+tagCharStatsAvgDmg=Урон
+tagCharStatsAvgDmgDescription=Средний урон за один удар вашим оружием, включая бонусы.
+
+tagCharStatsPhysicalAbsDmg=Физический урон
+tagCharStatsPhysicalAbsDmgInfo=Физический урон за один удар вашим оружием, включая бонусы.
+tagCharStatsPhysicalPercentDmg=+физический урон
+tagCharStatsPhysicalPercentDmgInfo=Процентный бонус к сумме физического урона от атак и заклинаний.  Включая бонус общего % урона.
+
+tagCharStatsPierceAbsDmg=Проникающий урон
+tagCharStatsPierceAbsDmgInfo=Проникающий урон за один удар вашим оружием, включая бонусы.
+tagCharStatsPiercePercentDmg=+проникающий урон
+tagCharStatsPiercePercentDmgInfo=Процентный бонус к сумме проникающего урона от атак и заклинаний. Включая бонус общего % урона.
+
+tagCharStatsBleedAbsDmg=Урон от кровотечения
+tagCharStatsBleedAbsDmgInfo=Ежесекундный урон от трёх секунд кровотечения, вызванного вашим оружием, включая бонусы.
+tagCharStatsBleedPercentDmg=+урон от кровотечения
+tagCharStatsBleedPercentDmgInfo=Урон от кровотечения, вызванного атаками и заклинаниями. Включая бонус общего % урона.
+tagCharStatsBleedDuration=+длительность
+tagCharStatsBleedDurationInfo=Процентный бонус к продолжительности кровотечения, на урон в секунду не влияет.
+
+tagCharStatsInternalTraumaAbsDmg=Урон от травм
+tagCharStatsInternalTraumaAbsDmgInfo=Ежесекундный урон от пяти секунд травм, нанесённых вашим оружием, включая бонусы.
+tagCharStatsInternalTraumaPercentDmg=+урон от травм
+tagCharStatsInternalTraumaPercentDmgInfo=+урон от внутренних травм от атак и заклинаний. Включая бонус общего % урона.
+tagCharStatsInternalTraumaDuration=+длительность
+tagCharStatsInternalTraumaDurationInfo=Процентный бонус к продолжительности внутренних травм, на урон в секунду не влияет.
+
+tagCharStatsDamageToHealth=Кража здоровья
+tagCharStatsDamageToHealthInfo=Процент от урона оружием, добавляющийся к здоровью при нанесении удара.
+
+#Magical
+tagCharStatsCastSpeed=Скорость колдовства
+tagCharStatsCastSpeedInfo=Скорость, с которой ваш персонаж читает заклинания, относительно базовой (включая общую скорость).
+
+tagCharStatsCooldownReduction=Перезарядка умений
+tagCharStatsCooldownReductionInfo=Процент, на который снижается длительность перезарядки умений. Умения, предоставленные предметами не получают бонусов уменьшения перезарядки и их эффектов.
+
+tagCharStatsManaCostReduction=Затраты энергии
+tagCharStatsManaCostReductionInfo=Процент, на который снижаются затраты энергии при использовании умений.
+
+tagCharStatsPercentHealthDamage=Снижение здоровья
+tagCharStatsPercentHealthDamageInfo=Процент снижения здоровья цели за один удар вашим оружием.
+
+tagCharStatsFireAbsDmg=Урон от огня
+tagCharStatsFireAbsDmgInfo=Урон от огня, наносимый при ударе вашим оружием, включая бонусы.
+tagCharStatsFirePercentDmg=+урон от огня
+tagCharStatsFirePercentDmgInfo=Бонус к урону от огня от атак и заклинаний в процентах. Включая бонус общего % урона.
+
+tagCharStatsColdAbsDmg=Урон от холода
+tagCharStatsColdAbsDmgInfo=Урон от холода, наносимый при ударе вашим оружием, включая бонусы.
+tagCharStatsColdPercentDmg=+урон от холода
+tagCharStatsColdPercentDmgInfo=Бонус к урону от холода от атак и заклинаний в процентах. Включая бонус общего % урона.
+
+tagCharStatsLightningAbsDmg=Урон от молнии
+tagCharStatsLightningAbsDmgInfo=Урон от молнии, наносимый при ударе вашим оружием, включая бонусы.
+tagCharStatsLightningPercentDmg=+урон от молнии
+tagCharStatsLightningPercentDmgInfo=Бонус к урону от молнии от атак и заклинаний в процентах. Включая бонус общего % урона.
+
+tagCharStatsAcidAbsDmg=Урон от кислоты
+tagCharStatsAcidAbsDmgInfo=Урон от кислоты, наносимый при ударе вашим оружием, включая бонусы.
+tagCharStatsAcidPercentDmg=+урон от кислоты
+tagCharStatsAcidPercentDmgInfo=Бонус к урону от кислоты от атак и заклинаний в процентах. Включая бонус общего % урона.
+
+tagCharStatsVitalityAbsDmg=Урон здоровью
+tagCharStatsVitalityAbsDmgInfo=Урон здоровью, наносимый при ударе вашим оружием, включая бонусы.
+tagCharStatsVitalityPercentDmg=+урон здоровью
+tagCharStatsVitalityPercentDmgInfo=Бонус к урону здоровью от атак и заклинаний в процентах. Включая бонус общего % урона.
+
+tagCharStatsAetherAbsDmg=Урон от эфира
+tagCharStatsAetherAbsDmgInfo=Урон от эфира, наносимый при ударе вашим оружием, включая бонусы.
+tagCharStatsAetherPercentDmg=+урон от эфира
+tagCharStatsAetherPercentDmgInfo=Бонус к урону от эфира от атак и заклинаний в процентах. Включая бонус общего % урона.
+
+tagCharStatsChaosAbsDmg=Урон от хаоса
+tagCharStatsChaosAbsDmgInfo=Урон от хаоса, наносимый при ударе вашим оружием, включая бонусы.
+tagCharStatsChaosPercentDmg=+урон от хаоса
+tagCharStatsChaosPercentDmgInfo=Бонус к урону от хаоса от атак и заклинаний в процентах. Включая бонус общего % урона.
+
+tagCharStatsBurnAbsDmg=Урон от горения
+tagCharStatsBurnAbsDmgInfo=Ежесекундный урон от трёх секунд горения, наносимый при ударе вашим оружием, включая бонусы.
+tagCharStatsBurnPercentDmg=+урон от горения
+tagCharStatsBurnPercentDmgInfo=Бонус к урону от горения от атак и заклинаний в процентах. Включая бонус общего % урона.
+tagCharStatsBurnDuration=+длительность
+tagCharStatsBurnDurationInfo=Процентный бонус к продолжительности горения. На урон в секунду не влияет.
+
+tagCharStatsColdburnAbsDmg=Урон от обморожения
+tagCharStatsColdburnAbsDmgInfo=Ежесекундный урон от трёх секунд обморожения, наносимый при ударе вашим оружием, включая бонусы.
+tagCharStatsColdburnPercentDmg=+урон от обморожения
+tagCharStatsColdburnPercentDmgInfo=Бонус к урону от обморожения от атак и заклинаний в процентах. Включая бонус общего % урона.
+tagCharStatsColdburnDuration=+длительность
+tagCharStatsColdburnDurationInfo=Процентный бонус к продолжительности обморожения. На урон в секунду не влияет.
+
+tagCharStatsElectrocuteAbsDmg=Урон от электрошока
+tagCharStatsElectrocuteAbsDmgInfo=Ежесекундный урон от трёх секунд воздействия электрошока, наносимый при ударе вашим оружием, включая бонусы.
+tagCharStatsElectrocutePercentDmg=+урон от электрошока
+tagCharStatsElectrocutePercentDmgInfo=Бонус к урону от электрошока от атак и заклинаний в процентах. Включая бонус общего % урона.
+tagCharStatsElectrocuteDuration=+длительность
+tagCharStatsElectrocuteDurationInfo=Процентный бонус к продолжительности воздействия электрошока. На урон в секунду не влияет.
+
+tagCharStatsPoisonAbsDmg=Урон от яда
+tagCharStatsPoisonAbsDmgInfo=Ежесекундный урон от яда, наносимый при ударе вашим оружием, включая бонусы.
+tagCharStatsPoisonPercentDmg=+урон от яда
+tagCharStatsPoisonPercentDmgInfo=Бонус к урону от яда от атак и заклинаний в процентах. Включая бонус общего % урона.
+tagCharStatsPoisonDuration=+длительность
+tagCharStatsPoisonDurationInfo=Процентный бонус к продолжительности урона ядом. На урон в секунду не влияет.
+
+tagCharStatsVitalityDecayAbsDmg=Урон от разложения
+tagCharStatsVitalityDecayAbsDmgInfo=Ежесекундный урон от трёх секунд разложения, наносимый при ударе вашим оружием, включая бонусы.
+tagCharStatsVitalityDecayPercentDmg=+урон от разложения
+tagCharStatsVitalityDecayPercentDmgInfo=Бонус к урону от разложения от атак и заклинаний в процентах. Включая бонус общего % урона.
+tagCharStatsVitalityDecayDuration=+длительность
+tagCharStatsVitalityDecayDurationInfo=Процентный бонус к продолжительности разложения. На урон в секунду не влияет.
+
+tagCharStatsPhysical=физический
+tagCharStatsPierce=проникающий
+tagCharStatsCold=холодом
+tagCharStatsFire=огнём
+tagCharStatsAcid=кислотой
+tagCharStatsLightning=молнией
+tagCharStatsVitality=уроном здоровью
+tagCharStatsChaos=хаосом
+tagCharStatsAether=эфиром
+tagCharStatsLifeLeech=кражей здоровья
+tagCharStatsManaLeech=кражей энергии
+tagCharStatsDurInternalTrauma=внутренними травмами
+tagCharStatsDurFrostburn=обморожением
+tagCharStatsDurBurn=горением
+tagCharStatsDurPoison=ядом
+tagCharStatsDurElectrocute=электрошоком
+tagCharStatsDurVitalityDecay=разложением
+tagCharStatsDurBleeding=кровотечением
+tagCharStatsDurLifeLeech=кражей здоровья
+tagCharStatsDurManaLeech=кражей энергии
+
+#Pets
+tagCharStatsPetHealth=Здоровье
+tagCharStatsPetHealthInfo=Процентный бонус к здоровью ваших питомцев и призванных существ.
+
+tagCharStatsPetDamage=Урон
+tagCharStatsPetDamageInfo=Процентный бонус к урону ваших питомцев и призванных существ. Не влияет на ответный урон питомцев.
+
+tagCharStatsPetAttackSpeed=Скорость атаки
+tagCharStatsPetAttackSpeedInfo=Процентный бонус к скорости атаки ваших питомцев и призванных существ.
+
+tagCharStatsPetCastSpeed=Скорость заклинаний
+tagCharStatsPetCastSpeednfo=Процентный бонус к скорости заклинаний ваших питомцев и призванных существ.
+
+tagCharStatsPetRunSpeed=Скорость бега
+tagCharStatsPetRunSpeednfo=Процентный бонус к скорости бега ваших питомцев и призванных существ.
+
+tagCharStatsPetOA=Навык атаки
+tagCharStatsPetOAInfo=Процентный бонус к навыку атаки ваших питомцев и призванных существ.
+
+tagCharStatsPetDA=Навык защиты
+tagCharStatsPetDAInfo=Процентный бонус к навыку защиты ваших питомцев и призванных существ.
+
+tagCharStatsPetPhysicalResist=Физическое сопр-е
+tagCharStatsPetPhysicalResistInfo=Процентный бонус сопротивления физическому урону ваших питомцев и призванных существ.
+
+tagCharStatsPetFireResist=Сопротивление огню
+tagCharStatsPetFireResistInfo=Процентный бонус сопротивления огню ваших питомцев и призванных существ.
+
+tagCharStatsPetColdResist=Сопротивление холоду
+tagCharStatsPetColdResistInfo=Процентный бонус сопротивления холоду ваших питомцев и призванных существ.
+
+tagCharStatsPetLightningResist=Сопр-е молнии
+tagCharStatsPetLightningResistInfo=Процентный бонус сопротивления молнии ваших питомцев и призванных существ.
+
+tagCharStatsPetPoisonResist=Сопр-е кислоте/яду
+tagCharStatsPetPoisonResistInfo=Процентный бонус сопротивления кислоте и яду ваших питомцев и призванных существ.
+
+tagCharStatsPetPierceResist=Сопр-е проник. урону
+tagCharStatsPetPierceResistInfo=Процентный бонус сопротивления проникающему урону ваших питомцев и призванных существ.
+
+tagCharStatsPetBleedResist=Сопр-е кровотечению
+tagCharStatsPetBleedResistInfo=Процентный бонус сопротивления кровотечению ваших питомцев и призванных существ.
+
+tagCharStatsPetVitalityResist=Сопр-е урону здоровью
+tagCharStatsPetVitalityResistInfo=Процентный бонус сопротивления урону здоровью ваших питомцев и призванных существ.
+
+tagCharStatsPetAetherResist=Сопротивление эфиру
+tagCharStatsPetAetherResistInfo=Процентный бонус сопротивления эфиру ваших питомцев и призванных существ.
+
+tagCharStatsPetChaosResist=Сопротивление хаосу
+tagCharStatsPetChaosResistInfo=Процентный бонус сопротивления хаосу ваших питомцев и призванных существ.
+
+#Char Stats Tab 3
+
+#Defense
+tagCharStatsBlockChance=Шанс блока
+tagCharStatsBlockChanceDescription=Шанс блокировать атаку противника (в процентах).
+
+tagCharStatsBlockAmount=Блокируемый урон
+tagCharStatsBlockAmountDescription=Количество урона, которое гасится успешным блоком.
+
+tagCharStatsBlockRecovery=Подготовка блока
+tagCharStatsBlockRecoveryInfo=Процент, на который снижается длительность подготовки блока.
+
+tagCharStatsDodgeChance=Шанс уклонения
+tagCharStatsDodgeChanceInfo=Процентный шанс уклониться от ближней атаки, полностью проигнорировав урон.
+
+tagCharStatsProjDeflectChance=Шанс рикошета
+tagCharStatsProjDeflectChanceInfo=Процентный шанс уклониться от дальней атаки, полностью проигнорировав урон.
+
+tagCharStatsPhysicalResist=Сопротивл-я: физ. урону
+tagCharStatsPhysicalResistInfo=Сопротивление атакам и заклинаниям, наносящим физический урон и внутренние травмы.
+
+tagCharStatsDisruptionResist=блокировке умений
+tagCharStatsDisruptionResistInfo=Сокращает продолжительность эффектов, лишающих вас возможности применять умения.
+
+tagCharStatsLifeLeechResist=краже здоровья
+tagCharStatsLifeLeechResistInfo=Сопротивление атакам, ворующим здоровье.
+
+tagCharStatsEnergyLeechResist=краже энергии
+tagCharStatsEnergyLeechResistInfo=Сопротивление атакам, ворующим энергию.
+
+tagCharStatsTrapResist=обездвиживанию
+tagCharStatsTrapResistInfo=Сокращает продолжительность эффектов, лишающих вас возможности двигаться.
+
+tagCharStatsPetrifyResist=окаменению
+tagCharStatsPetrifyResistInfo=Сокращает продолжительность заклинаний, окаменяющих плоть и не позволяющих выполнять какие-либо действия.
+
+tagCharStatsFreezeResist=заморозке
+tagCharStatsFreezeResistInfo=Сокращает продолжительность заклинаний, замораживающих вас и не позволяющих выполнять какие-либо действия.
+
+tagCharStatsSleepResist=сну
+tagCharStatsSleepResistInfo=Сокращает продолжительность заклинаний, погружающих вас в глубокий сон и не позволяющих выполнять какие-либо действия, пока вас не ударят.
+
+tagCharStatsSlowResist=замедлению
+tagCharStatsSlowResistInfo=Сопротивление заклинаниям, которые могут снизить вашу скорость атаки, бега или заклинаний.
+
+#Retaliation
+tagCharStatsDamageReflect=Отражение урона
+tagCharStatsDamageReflectInfo=Процент получаемого вами урона, который отражается обратно в атакующего.
+
+tagCharStatsCurrentLifeReflect=Отв. снижение здоровья
+tagCharStatsCurrentLifeReflectInfo=Процент здоровья атакующего, на который снижается значение текущего здоровья врага при атаке по вам, даже если вы не отвечаете на атаку.
+
+tagCharStatsPhysicalRet=Физический
+tagCharStatsPhysicalRetInfo=Физический урон, получаемый врагом при попадании в вас.
+tagCharStatsPhysicalPercentRet=+физический урон
+tagCharStatsPhysicalPercentRetInfo=Процентный бонус к ответному физическому урону. % общего урона не влияет на ответный урон.
+
+tagCharStatsPierceRet=Проникающий
+tagCharStatsPierceRetInfo=Проникающий урон, получаемый врагом при попадании в вас.
+tagCharStatsPiercePercentRet=+проникающий урон
+tagCharStatsPiercePercentRetInfo=Процентный бонус к ответному проникающему урону. % общего урона не влияет на ответный урон.
+
+tagCharStatsBleedRet=Кровотечением
+tagCharStatsBleedRetInfo=Урон в секунду от трёх секунд кровотечения, получаемый врагом при попадании в вас.
+tagCharStatsBleedPercentRet=+урон от кровотечения
+tagCharStatsBleedPercentRetInfo=Процентный бонус к ответному урону кровотечением. % общего урона не влияет на ответный урон.
+
+tagCharStatsInternalTraumaRet=Травмами
+tagCharStatsInternalTraumaRetInfo=Урон в секунду от пяти секунд травмы, получаемой врагом при попадании в вас.
+tagCharStatsInternalTraumaPercentRet=+урон от травм
+tagCharStatsInternalTraumaPercentRetInfo=Процентный бонус к ответному урону от травм. % общего урона не влияет на ответный урон.
+
+tagCharStatsFireRet=Огнём
+tagCharStatsFireRetInfo=Урон от огня, получаемый врагом при попадании в вас.
+tagCharStatsFirePercentRet=+урон от огня
+tagCharStatsFirePercentRetInfo=Процентный бонус к ответному урону огнём. % общего урона не влияет на ответный урон.
+
+tagCharStatsColdRet=Холодом
+tagCharStatsColdRetInfo=Урон от холода, получаемый врагом при попадании в вас.
+tagCharStatsColdPercentRet=+урон от холода
+tagCharStatsColdPercentRetInfo=Процентный бонус к ответному урону холодом. % общего урона не влияет на ответный урон.
+
+tagCharStatsLightningRet=Молнией
+tagCharStatsLightningRetInfo=Урон от молнии, получаемый врагом при попадании в вас.
+tagCharStatsLightningPercentRet=+урон от молнии
+tagCharStatsLightningPercentRetInfo=Процентный бонус к ответному урону молнией. % общего урона не влияет на ответный урон.
+
+tagCharStatsAcidRet=Кислотой
+tagCharStatsAcidRetInfo=Урон от кислоты, получаемый врагом при попадании в вас.
+tagCharStatsAcidPercentRet=+урон от кислоты
+tagCharStatsAcidPercentRetInfo=Процентный бонус к ответному урону кислотой. % общего урона не влияет на ответный урон.
+
+tagCharStatsVitalityRet=Здоровью
+tagCharStatsVitalityRetInfo=Урон здоровью, получаемый врагом при попадании в вас.
+tagCharStatsVitalityPercentRet=+урон здоровью
+tagCharStatsVitalityPercentRetInfo=Процентный бонус к ответному урону здоровью. % общего урона не влияет на ответный урон.
+
+tagCharStatsAetherRet=Эфиром
+tagCharStatsAetherRetInfo=Урон эфиром, получаемый врагом при попадании в вас.
+tagCharStatsAetherPercentRet=+урон от эфира
+tagCharStatsAetherPercentRetInfo=Процентный бонус к ответному урону эфиром. % общего урона не влияет на ответный урон.
+
+tagCharStatsChaosRet=Хаосом
+tagCharStatsChaosRetInfo=Урон хаосом, получаемый врагом при попадании в вас.
+tagCharStatsChaosPercentRet=+урон от хаоса
+tagCharStatsChaosPercentRetInfo=Процентный бонус к ответному урону хаосом. % общего урона не влияет на ответный урон.
+
+tagCharStatsBurnRet=Горением
+tagCharStatsBurnRetInfo=Урон в секунду от трёх секунд горения, получаемый врагом при попадании в вас.
+tagCharStatsBurnPercentRet=+урон от горения
+tagCharStatsBurnPercentRetInfo=Процентный бонус к ответному урону горением. % общего урона не влияет на ответный урон.
+
+tagCharStatsColdburnRet=Обморожением
+tagCharStatsColdburnRetInfo=Урон в секунду от трёх секунд обморожения, получаемый врагом при попадании в вас.
+tagCharStatsColdburnPercentRet=+урон от обморожения
+tagCharStatsColdburnPercentRetInfo=Процентный бонус к ответному урону обморожением. % общего урона не влияет на ответный урон.
+
+tagCharStatsElectrocuteRet=Электрошоком
+tagCharStatsElectrocuteRetInfo=Урон в секунду от трёх секунд воздействия электрошока, получаемый врагом при попадании в вас.
+tagCharStatsElectrocutePercentRet=+урон от электрошока
+tagCharStatsElectrocutePercentRetInfo=Процентный бонус к ответному урону электрошоком. % общего урона не влияет на ответный урон.
+
+tagCharStatsPoisonRet=Ядом
+tagCharStatsPoisonRetInfo=Урон в секунду от пяти секунд урона ядом, получаемый врагом при попадании в вас.
+tagCharStatsPoisonPercentRet=+урон от яда
+tagCharStatsPoisonPercentRetInfo=Процентный бонус к ответному урону ядом. % общего урона не влияет на ответный урон.
+
+tagCharStatsVitalityDecayRet=Разложением
+tagCharStatsVitalityDecayRetInfo=Урон в секунду от трёх секунд разложения, получаемый врагом при попадании в вас.
+tagCharStatsVitalityDecayPercentRet=+урон от разложения
+tagCharStatsVitalityDecayPercentRetInfo=Процентный бонус к ответному урону разложением. % общего урона не влияет на ответный урон.
+
+#Stats
+tagCharStatsItemLevel=Уровень экипировки
+tagCharStatsItemLevelInfo=Средний уровень всех надетых вещей.
+
+tagRecordTime=Время в игре
+tagRecordTimeNumber={%d0}:{%d1}:{%d2}
+tagRecordTimeInfo=Всего наиграно дней, часов, минут.
+
+tagRecordMonsterKills=Убито врагов
+tagRecordMonsterKillsInfo=Число врагов, убитых вашим персонажем.
+
+tagRecordChampionKills=Убито боссов и героев
+tagRecordChampionKillsInfo=Число убитых вашим персонажем вражеских героев и боссов.
+
+tagRecordHighestMonster=Самый сильный враг
+tagRecordHighestMonsterInfo=Сильнейшее существо, убитое вашим персонажем.
+
+tagRecordHighestDamage=Нанесённый урон
+tagRecordHighestDamageInfo=Максимальный нанесённый персонажем единовременно урон.
+
+tagRecordHighestDamageTaken=Полученный урон
+tagRecordHighestDamageTakenInfo=Максимальный полученный персонажем единовременно урон.
+
+tagRecordDeath=Всего смертей
+tagRecordDeathInfo=Сколько раз ваш персонаж умер.
+
+tagCharStatsSecondaryResist=Дополнительные сопротивления:
+
+tagCharacterStats=Статистика персонажа
+tagCharStatsFactionTitle=Фракции
+tagCPercentageValue={%.0f}%
+
+#Vendor
+
+tagVendorTabArtifactA=Артефакты
+tagVendorTabArtifactB=ЗАГЛУШКА
+tagVendorTab01A=Оружие ближнего боя
+tagVendorTab01B=Ассортимент боевого оружия, найденного в заброшенных домах, у давно умерших, и тех, кто скоро таковыми будет.
+tagVendorTab02A=Стрелковое оружие
+tagVendorTab02B=Всё, начиная от собранных из разрозненных частей пистолетов, до старых арбалетов, оборудованных барабанными механизмами для автоматической стрельбы.
+tagVendorTab03A=Броня
+tagVendorTab03B=Коллекция брони, созданной из поношенной одежды и железного хлама. Некоторые экземпляры даже собраны из настоящих кусков брони с полей давних сражений.
+tagVendorTab04A=Аксессуары и расходные материалы
+tagVendorTab04B=Набор старых реликвий и самодельных лекарств.
+tagVendorTab05A=Выкуп
+tagVendorTab05B=Передумали? Вы можете выкупить ваши вещи обратно без дополнительной оплаты, пока находитесь у торговца. Как только вы уйдёте - сделка завершена.
+tagVendorSearchBoxInfo=Введите поисковый запрос, чтобы отфильтровать товары по названию или нужным характеристикам.
+
+tagFactionVendorTab01A=Дружественный
+tagFactionVendorTab01B=Награда фракции станет доступной при достижении ранга Дружественный
+tagFactionVendorTab02A=Уважаемый
+tagFactionVendorTab02B=Награда фракции станет доступной при достижении ранга Уважаемый
+tagFactionVendorTab03A=Заслуженный
+tagFactionVendorTab03B=Награда фракции станет доступной при достижении ранга Заслуженный
+tagFactionVendorTab04A=Почитаемый
+tagFactionVendorTab04B=Награда фракции станет доступной при достижении ранга Почитаемый
+
+tagVendorRolloverName=Скупщик
+tagVendorRolloverDescription=Скупщики делают деньги на бедах человечества, продавая трофейные или краденые вещи тем, кто осмеливается покидать стены укреплений. Лучше не спрашивать, откуда они берут свои товары.
+
+MarketCostAffordable={^g}Купить за {%d0}
+MarketCostTooExpensive={^r}Купить за {%d0} ~ Не хватает железок
+MarketCostReputationTooLow={^r}Купить за  {%d0} ~ Не хватает репутации
+MarketCostPreviousTransaction={^g}Выкупить за {%d0} ~ Исходная стоимость продажи
+MarketCostPreviousTransactionTooExpensive={^r}Выкупить за {%d0} ~ Не хватает железок
+MarketValue={^g}Продать за {%d0}
+MarketValuePreviousTransaction={^g}Вернуть за {%d0} ~ Исходная стоимость покупки
+MarketSalePending=Будет продано
+MarketPurchasePending=Будет куплено
+
+tagMarketError01=У вас недостаточно железок.
+tagMarketError02=Недостаточно свободного места в инвентаре.
+tagMarketError03=Эта вещь была продана.
+tagMarketError04=Эта вещь не продаётся.
+tagMarketError05=Вашей репутации недостаточно.
+CanNotBeSoldHere=Этот продавец не примет эту вещь.
+Sold=Продано
+
+
+#Crafting
+
+tagCrafting=Ковка
+tagInventorNamePlate=Новатор
+tagCraftingComponentCount=Количество материала в инвентаре.
+tagCraftingComponentMissing=Такого материала в вашем инвентаре сейчас нет.
+tagCraftingWindowTitle=Новатор
+tagCraftingPanelA=Изменение экипировки
+tagCraftingPanelB=Разборка экипировки
+tagCraftingCost=Цена:
+tagCraftingBlueprint=Чертеж
+tagCraftingComponent=Компонент
+tagCraftingComponentRequired=Ингредиенты:
+tagCraftingCombine=Ковать
+tagCraftingDisplayBoxHelp=Чтобы начать изготовление экипировки, поместите чертеж на рабочий стол.
+tagCraftingBlueprintInfo=Кузнец может использовать чертежи для создания улучшенных предметов из различных найденных материалов.
+tagCraftingDeviceCost=Цена: {%t0} железок
+tagCraftingCreate=Результат:
+tagCraftingLearn=[ПКМ для изучения]
+tagCraftingRandom={^E}+случайные параметры
+tagCraftingQuantity={%d0}/{%d1}
+tagCraftingLargeQuantity=99+/{%d0}
+tagCraftingLargeStack=99+
+
+tagCraftingItemType00= ~ Устройство
+tagCraftingItemType01= ~ Цельный компонент
+tagCraftingItemType02= ~ Собранные материалы
+tagCraftingItemType03= ~ Свиток
+tagCraftingItemType04= ~ Вещь
+
+tagCraftingButtonInfo=Добавляйте предметы в окно создания. Эта кнопка станет активной, когда все необходимые материалы будут добавлены.
+tagCraftingConfirmation=Вы уверены, что хотите завершить это объединение?
+
+tagCraftingDetatchmentInfo=
+
+tagCraftingProductBoxInfo=Создаваемый предмет появится здесь после того, как будут добавлены все необходимые компоненты.
+tagCraftingProductBoxCompletion=Возьмите ваш новый предмет с рабочего стола.
+
+tagCraftingInsterComponent=Добавьте в ячейки компоненты, указанные в чертеже.
+
+tagCraftingSearchBoxInfo=Введите поисковый запрос, чтобы отфильтровать Чертежи по названию предмета или нужным характеристикам.
+
+#Subheadings
+
+tagCraftingAxes=Топоры
+tagCraftingBlunt=Дробящее
+tagCraftingSwords=Мечи
+tagCraftingImplements=Кинжалы/скипетры
+tagCraftingTwoHandedMelee=Двуручное холодное оружие
+tagCraftingSpears=Копья
+tagCraftingStaves=Посохи
+
+tagCraftingOneHanded=Пистолеты
+tagCraftingTwoHanded=Ружья и арбалеты
+
+tagCraftingBelts=Пояса
+tagCraftingHelms=Шлемы
+tagCraftingTorso=Нагрудная броня
+tagCraftingShoulders=Наплечники
+tagCraftingLegs=Поножи
+tagCraftingHands=Перчатки
+tagCraftingFeet=Обувь
+tagCraftingOffhands=Книги/Тотемы
+tagCraftingShields=Щиты
+
+tagCraftingComponents=Компоненты
+tagCraftingAccessories=Аксессуары
+tagCraftingConsumables=Эликсиры
+tagCraftingMaterials=Материалы
+
+tagCraftingRelicsTier01=Усиленные реликвии
+tagCraftingRelicsTier02=Небывалые реликвии
+tagCraftingRelicsTier03=Мифические реликвии
+
+tagDividerTab01=Извлечь
+tagDividerRoll01=Камеры извлечения используются для отделения от предметов примесей и компонентов. К сожалению, несовершенство технологии всегда приводит к разрушению предмета или компонента, но вы можете выбрать, что сохранить, а чем пожертвовать.{^n}{^n}Если вы выбираете сохранение предмета - примеси с него будут удалены. Если с персонального предмета удаляется персонифицировавшая его примесь, а предмет не был персональным изначально - статус "Персональное" с него будет удалён.
+
+tagDividerTab02=Уничтожить
+tagDividerRoll02=Взрывная камера используется, чтобы разлагать мощные магические предметы на составные части. Новатор ещё не владеет данной техникой.
+tagDividerRoll02B=Взрывная камера используется, чтобы разлагать мощные магические предметы на составные части. Этот процесс требует кучу энергии, хитрый учёный придумал использовать динамит в качестве её источника.
+
+tagDividingButtonKeepItem=Сохр. предм.
+tagDividingBoxInfo=Поместите предмет с вставленным в него компонентом и/или примесью в камеру.
+tagDividingButtonKeepComponent=Сохр. комп.
+tagDividingButtonRemoveAugment=Удалить прим.
+tagDividingKeepItemWarning=Выбрав сохранение предмета, вы уничтожите вставленный в него компонент и удалите все примеси.
+tagDividingKeepComponentWarning=Выбрав сохранение компонента, вы уничтожите предмет и все примеси.
+tagDividingRemoveAugmentWarning=Полностью уничтожает примесь, нанесённую на предмет. Предмет лишается всех бонусов примеси и перестаёт быть персональным.
+tagDividingCost=Цена извлечения:
+
+tagDismantleDynamiteTotal=Всего динамита:
+tagDismantleCost=Стоимость уничтожения:
+tagDismantleButton=В результате уничтожения, предмет будет утерян.
+tagDismantleDestroyItemWarning=В результате уничтожения, предмет будет утерян. Продолжить?
+tagDismantleDestroyItemComponentWarning=В результате уничтожения, предмет будет утерян, а компонент сохранен. Продолжить?
+tagDismantleBoxInfo=Поместите магический предмет в камеру.
+
+#Shrine
+
+tagShrineDesecrated=Осквернённый алтарь
+tagShrineRuined=Разрушенный алтарь
+tagShrineRestored=Восстановленный алтарь
+tagShrineButton01=Пожертвовать
+tagShrineButton02=Начать
+tagShrineButton03=Отмена
+tagShrineButtonInfo=Поместите жертву возле святилища
+tagShrineWarning=Этот алтарь разрушен и нуждается в восстановлении. Вы уверены, что хотите оставить здесь подношение?
+tagShrineConfirmProxy=Этот алтарь осквернён и нуждается в очищении. Призвать то, что томится в ловушке?
+tagShrineActivated=Этот алтарь восстановлен.
+tagShrineHostActivated=Этот алтарь уже восстановлен другим владельцем игры.
+tagShrineHostNotActivated=Вы восстановили этот алтарь во время другой игровой сессии.
+tagShrineBusy=Этот алтарь уже восстановлен другим игроком.
+tagShrineLocked=Алтарь бездействует.
+
+#Smuggler
+
+tagStorageRefund=Возврат с хранения
+tagCaravanTitle=Контрабандист
+tagCaravanCost=Цена: {%d0}
+tagCaravanRefund=Возврат: {%d0}
+tagCaravanExpand=Увеличение сундука
+tagCaravanItemStorage=Сундук
+tagStorageInfo01=Используйте сундук, как расширение инвентаря. Перетащите элементы или нажмите ПКМ, наведя на них, чтобы переместить их из инвентаря в сундук и наоборот. Товары, хранящиеся таким способом, доступны у любого контрабандиста в игре.
+tagTransferCost=Стоимость перемещения: {%d0}
+tagTransferAdd=Вы уверены, что хотите поместить этот предмет в общее хранилище?
+tagTransferInfo01=Используйте контрабандиста для передачи предметов другим персонажам. Просто поместите предмет в общее хранилище, и он будет доступен всем вашим персонажам.
+tagCaravanItemTransfer=Передача
+tagTransferInfo02=Поместите предмет в общее хранилище, чтобы контрабандист обеспечил доступ к нему всем вашим персонажам.
+tagCaravanError01=У вас не хватает железок для передачи этого предмета.
+tagStorageError01=У вас не хватает железок для расширения сундука.
+tagTransferError01=Требуется {%d0} железок для расширения сундука.
+tagTransferPurchase01=Потратить {%d0} железок на расширения сундука?
+tagTransferTab01=Панель 1
+tagTransferTab02=Панель 2
+tagTransferTab03=Панель 3
+tagTransferTab04=Панель 4
+tagCaravanSort=Вы действительно хотите автоматически рассортировать ваши предметы?
+
+#Chat
+
+tagChatSend=Отправить...
+tagChatCommand01=Группе
+tagChatCommand02=Всем
+tagChatCommand03=Ответ
+tagChatCommand04=Сказать
+tagChatCommand05=Выключить звук
+tagChatCommand06=Включить звук
+tagChatBrag=[{%t0}{%t1}{^-}]
+
+#NPC Conversation
+tagNpcConversationBusy=Данный персонаж занят разговором с другим игроком.
+
+#Treasure Trove
+tagTroveBusy=Этот объект в настоящее время занят другим игроком.
+
+#Maps
+
+tagAerialMapCenteredButton=В центр
+tagAerialMapZoomText=Масштаб
+
+tagMapWindowName=Карта местности
+tagRiftWindowName=Карта разломов
+tagWorldMapWindowName=Карта мира
+
+tagMapSymbolAOI=ИМ
+tagMapSymbolAOIDesc=Интересные места.
+tagMapSymbolSmuggler=Сундук
+tagMapSymbolSmugglerDesc=Некая тёмная личность хранит ваше имущество и передаёт его между персонажами.
+tagMapSymbolHero=Игрок
+tagMapSymbolHeroDesc=Ваше текущее местоположение.
+tagMapSymbolInventor=Новатор
+tagMapSymbolInventorDesc=Умелец, способный удалять компоненты.
+tagMapSymbolMission=Задание
+tagMapSymbolMissionDesc=Активное задание.
+tagMapSymbolNPC=НИП
+tagMapSymbolNPCDesc=Неигровой персонаж.
+tagMapSymbolGroup=Отряд
+tagMapSymbolGroupDesc=Местоположение членов вашего отряда.
+tagMapSymbolRespawn=Целитель
+tagMapSymbolRespawnDesc=Целитель обучен восстанавливать здоровье и зашивать страшные раны.
+tagMapSymbolRiftgate=Разлом
+tagMapSymbolRiftgateDesc=Потусторонний разлом, способный перемещать вас в другие места.
+tagMapSymbolVendor=Купец
+tagMapSymbolVendorDesc=Торговец военными товарами.
+tagMapSymbolWitch=Духовник
+tagMapSymbolWitchDesc=Духовное лицо, которое поможет вам забыть изученные умения.
+tagMapSymbolShrine=Алтарь
+tagMapSymbolShrineDesc=Древняя святыня посвящённая звёздам и древним Богам.
+tagMapSymbolSmith=Кузнец
+tagMapSymbolSmithDesc=Умелец, способный создавать новые предметы.
+
+#SystemStatsSkillUI
+
+tagOptionsMenuReturn=В игру
+tagOptionsMenuExit=Выход в меню
+tagOptionsMenuQuit=Выход на рабочий стол
+tagOptionsMenuOptions=Настройки
+tagOptionsMenuGameSaved=Игра сохранена
+tagOptionsMenuExitMenuConfirm=Вы уверены, что хотите выйти в главное меню?
+tagOptionsMenuExitGameConfirm=Вы уверены, что хотите выйти из игры?
+tagInfoTitle=Информация
+tagInfoButtonYes=Да
+tagInfoButtonNo=Нет
+tagInfoButtonOk=ОК
+tagGameOver=Вы погибли!
+
+SimpleStringFormat=${%s0}
+SimpleStringsFormat=${%1a0}{%_s1}
+TripleStringFormat=${%2a1}{%_s2}{%_s0}
+TripleStringFormat2=${%2a1}{%_s2} фракции{%_s0}
+QuadStringFormat=${%_3a1}{%_3a2}{%_s3}{%_s0}
+SkillBaseNamesFormat=${ %s0}
+CostFormat=Цена: {%d0}
+ManaDisplayFormat=Энергия {%d0} / {%d1} ({%d2} используется)
+LifeDisplayFormat=Здоровье {%d0} / {%d1}
+ExperienceDisplayFormat=Текущий опыт : {^y}{%d0}{^w} ~ До следующего уровня : {^y}{%d1}
+
+tagExpDisplayFormat=Текущий опыт : {^y}{%t0}{^w} ~ Осталось до следующего уровня : {^y}{%t1}
+
+tagCharPointsSpent=Затраченные очки:
+
+tagCharAttribute01={%+.0f0} {^F}искусности{^E}
+tagCharAttribute02={%+.0f0} {^F}телосложения{^E}
+tagCharAttribute03={%+.0f0} {^F}духа{^E}
+tagCharAttribute04={%+.0f0} {^F}здоровья{^E}
+tagCharAttribute05={%+.0f0} {^F}энергии{^E}
+tagCharConstitution={%+.0f0} {^E}запаса сил
+tagCharLifeRegen={%+.1f0} {^E}здоровья в сек.
+tagCharManaRegen={%+.1f0} {^E}энергии в сек.
+
+tagCharAttribute01Modifier={%+.0f0}% {^F}искусности{^E}
+tagCharAttribute02Modifier={%+.0f0}% {^F}телосложения{^E}
+tagCharAttribute03Modifier={%+.0f0}% {^F}духа{^E}
+tagCharAttribute04Modifier={%+.0f0}% {^F}здоровья{^E}
+tagCharAttribute05Modifier={%+.0f0}% {^F}энергии{^E}
+tagCharConstitutionModifier={%+.0f0}% {^E}запаса сил
+tagCharLifeRegenModifier={^E}увеличивает восстановление здоровья на {^H}{%.0f0}%
+tagCharManaRegenModifier={^E}увеличивает восстановление энергии на {^H}{%.0f0}%
+
+tagCharManaLimitReserve={%.0f0} {^E}энергии занято
+tagCharManaLimitReserveMod={%+.0f0} {^E}энергии занято
+tagCharManaLimitReserveReduction=-{%.0f0} {^E}занятой энергии
+tagCharManaLimitReserveModifier={+%.0f0}% занятой {^E}энергии
+tagCharManaLimitReserveReductionModifier=-{%.0f0}% занятой {^E}энергии
+
+tagCharRunSpeed={%+.0f0}% {^X}скорости бега{^E}
+tagCharSpellCastSpeed={%+.0f0}% {^X}скорости колдовства{^E}
+tagCharAttackSpeed={%+.0f0}% {^X}скорости атаки{^E}
+tagCharTotalSpeedModifier={%+.0f0}% {^X}общей скорости{^E}
+tagCharRunSpeedModifier={%+.0f0}%{^X} скорости бега{^E}
+tagCharSpellCastSpeedModifier={%+.0f0}% {^X}скорости колдовства{^E}
+tagCharAttackSpeedModifier={%+.0f0}% {^X}скорости атаки{^E}
+
+tagCharAttribute01R={%+.0f0}-{%.0f1} {^F}искусности{^E}
+tagCharAttribute02R={%+.0f0}-{%.0f1} {^F}телосложения{^E}
+tagCharAttribute03R={%+.0f0}-{%.0f1} {^F}духа{^E}
+tagCharAttribute04R={%+.0f0}-{%.0f1} {^F}здоровья{^E}
+tagCharAttribute05R={%+.0f0}-{%.0f1} {^F}энергии{^E}
+tagCharLifeRegenR=Восстанавливает {%+.1f0}-{%.1f1} {^E}здоровья в сек.
+tagCharManaRegenR=Восстанавливает {%+.1f0}-{%.1f1} {^E}энергии в сек.
+tagCharAttribute01ModifierR={%+.0f0}-{%.0f1}% {^F}искусности{^E}
+tagCharAttribute02ModifierR={%+.0f0}-{%.0f1}% {^F}телосложения{^E}
+tagCharAttribute03ModifierR={%+.0f0}-{%.0f1}% {^F}духа{^E}
+tagCharAttribute04ModifierR={%+.0f0}-{%.0f1}% {^F}здоровья{^E}
+tagCharAttribute05ModifierR={%+.0f0}-{%.0f1}% {^F}энергии{^E}
+tagCharLifeRegenModifierR=+{%.0f0}-{%.0f1}% {^E}восстановления здоровья
+tagCharManaRegenModifierR=+{%.0f0}-{%.0f1}% {^E}восстановления энергии
+tagCharManaLimitReserveR={%+.0f0}-{%.0f1} {^E}энергии занято
+tagCharManaLimitReserveReductionR=-({%.0f0}-{%.0f1}) {^E}занятой энергии
+tagCharManaLimitReserveModifierR={+%.0f0}-{%.0f1}% {^E}занятой энергии
+tagCharManaLimitReserveReductionModifierR=-({%.0f0}-{%.0f1}%) {^E}занятой энергии
+tagCharRunSpeedR={%+.0f0}-{%.0f1}% {^X}скорости бега{^E}
+tagCharSpellCastSpeedR={%+.0f0}-{%.0f1}% {^X}скорости колдовства{^E}
+tagCharAttackSpeedR={%+.0f0}-{%.0f1}% {^X}скорости атаки{^E}
+tagCharTotalSpeedModifierR={%+.0f0}-{%.0f1}% {^X}общей скорости{^E}
+tagCharRunSpeedModifierR={%+.0f0}-{%.0f1}% {^X}скорости бега{^E}
+tagCharSpellCastSpeedModifierR={%+.0f0}-{%.0f1}% {^X}скорости колдовства{^E}
+tagCharAttackSpeedModifierR={%+.0f0}-{%.0f1}% {^X}скорости атаки{^E}
+tagCharOffensiveAbilityR={%+.0f0}-{%.0f1} {^X}навыка атаки{^E}
+tagCharDefensiveAbilityR={%+.0f0}-{%.0f1} {^X}навыка защиты{^E}
+tagCharOffensiveAbilityModifierR={%+.0f0}-{%.0f1}% {^X}навыка атаки{^E}
+tagCharDefensiveAbilityModifierR={%+.0f0}-{%.0f1}% {^X}навыка защиты{^E}
+tagCharDefensiveBlockRecoveryReductionR=-({%.0f0}-{%.0f1})% {^E}времени подготовки блока
+tagCharEnergyAbsorptionPercentR={%+.0f0}-{%.0f1}% {^E}энергии поглощается из вражеских заклинаний
+tagCharDodgePercentR={%.0f0}-{%.0f1}% {^E}шанс уклониться от удара
+tagCharDeflectProjectilesR={%.0f0}-{%.0f1}% {^E}шанс уклониться от снаряда
+tagCharIncreasedExperienceR={%+.0f0}-{%.0f1}% {^X}получаемого опыта{^E}
+tagCharLightRadiusR={%+.0f0}-{%.0f1}% {^E}радиус освещения
+tagCharItemGlobalReductionR=-{%.0f0}-{%.0f1}% {^E}требований характеристик
+tagCharLevelReqReductionR=-({%.0f0}-{%.0f1}) {^E}требований к уровню
+tagCharArmorStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}телосложения для брони
+tagCharArmorDexterityReqReductionR=-({%.0f0}--{%.0f1}%) {^E}искусности для брони
+tagCharArmorIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}духа для брони
+tagCharJewelryIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}духа для украшений
+tagCharJewelryStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}телосложения для украшений
+tagCharJewelryDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}искусности для украшений
+tagCharShieldStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}телосложения для щитов
+tagCharShieldIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}духа для щитов
+tagCharShieldDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}искусности для щитов
+tagCharMeleeStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}телосложения для холодного оружия
+tagCharMeleeDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}искусности для холодного оружия
+tagCharMeleeIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}духа для холодного оружия
+tagCharHuntingStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}телосложения для стрелкового оружия
+tagCharHuntingDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}искусности для стрелкового оружия
+tagCharHuntingIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}духа для стрелкового оружия
+tagCharStaffIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}духа для посохов
+tagCharStaffStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}телосложения для посохов
+tagCharStaffDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}искусности для посохов
+tagCharWeapon2HIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}духа для двуручного оружия
+tagCharWeapon2HStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}телосложения для двуручного оружия
+tagCharWeapon2HDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}искусности для двуручного оружия
+tagCharWeaponIntelligenceReqReductionR=-({%.0f0}-{%.0f1}%) {^E}духа для любого оружия
+tagCharWeaponStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}телосложения для любого оружия
+tagCharWeaponDexterityReqReductionR=-({%.0f0}-{%.0f1}%) {^E}искусности для любого оружия
+
+SkillManaCostReductionR=-{%.0f0}% {^E}затрат энергии
+SkillCooldownReductionR=-{%.0f0}% {^E}времени перезарядки умения
+SkillProjectileSpeedModifierR={%+.0f0}% {^E}скорость снарядов
+SkillManaCostReductionModifierR=-{%.0f0}% {^E}затрат энергии
+SkillCooldownReductionModifierR=-{%.0f0}% {^E}времени перезарядки умения
+
+tagDamageConversion={%.0f0}% конверсия: {^E}{%s1} в {%s2}
+tagDamageRemoval=-{%.0f0}% {^E}{%s1}
+tagConversionPhysical={^K}физический урон{^E}
+tagConversionPierce={^R}проникающий урон{^E}
+tagConversionElemental={^Y}стихийный урон{^E}
+tagConversionCold={^C}урон холодом{^E}
+tagConversionFire={^O}урон огнём{^E}
+tagConversionPoison={^L}урон кислотой{^E}
+tagConversionLightning={^Z}урон молнией{^E}
+tagConversionLife={^M}урон здоровью{^E}
+tagConversionChaos={^P}урон хаосом{^E}
+tagConversionAether={^A}урон эфиром{^E}
+tagConversionStun=длительность оглушения
+
+tagAttackSpeedNotSet=Скорость: нет
+tagAttackSpeedVerySlow=Скорость: очень низкая
+tagAttackSpeedSlow=Скорость: низкая
+tagAttackSpeedAverage=Скорость: средняя
+tagAttackSpeedFast=Скорость: высокая
+tagAttackSpeedVeryFast=Скорость: очень высокая
+
+tagAttackSpeed={^W}{%.2f0} {^S}атак в сек.
+tagAttackSpeedR={^W}{%.2f0} - {%.2f1} {^S}атак в сек.
+
+tagCharOffensiveAbility={%+.0f0} {^X}навыка атаки{^E}
+tagCharDefensiveAbility={%+.0f0} {^X}навыка защиты{^E}
+tagCharOffensiveAbilityModifier={%+.0f0}% {^X}навыка атаки{^E}
+tagCharDefensiveAbilityModifier={%+.0f0}% {^X}навыка защиты{^E}
+
+tagCharDefensiveBlockRecoveryReduction={-%.0f0}% {^E}времени подготовки блока
+tagCharEnergyAbsorptionPercent={%+.0f0}% {^E}поглощения энергии вражеских заклинаний
+tagCharDodgePercent={%.0f0}% {^E}шанс уклониться от удара
+tagCharDeflectProjectiles={%.0f0}% {^E}шанс уклониться от снаряда
+
+tagCharIncreasedExperience={%+.0f0}% {^X}опыта{^E}
+tagCharLightRadius={%+.0f0}% {^E}радиус освещения
+
+tagCharItemGlobalReduction=-{%.0f0}% {^E}требований предметов
+tagCharLevelReqReduction=-{%.0f0} {^E}требований к уровню
+tagCharArmorStrengthReqReduction=-{%.0f0}% {^E}телосложения для брони
+tagCharArmorDexterityReqReduction=-{%.0f0}% {^E}искусности для брони
+tagCharArmorIntelligenceReqReduction=-{%.0f0}% {^E}духа для брони
+tagCharJewelryIntelligenceReqReduction=-{%.0f0}% {^E}духа для украшений
+tagCharJewelryStrengthReqReduction=-{%.0f0}% {^E}телосложения для украшений
+tagCharJewelryDexterityReqReduction=-{%.0f0}% {^E}искусности для украшений
+tagCharShieldStrengthReqReduction=-{%.0f0}% {^E}телосложения для щитов
+tagCharShieldIntelligenceReqReduction=-{%.0f0}% {^E}духа для щитов
+tagCharShieldDexterityReqReduction=-{%.0f0}% {^E}искусности для щитов
+tagCharMeleeStrengthReqReduction=-{%.0f0}% {^E}телосложения для холодного оружия
+tagCharMeleeDexterityReqReduction=-{%.0f0}% {^E}искусности для холодного оружия
+tagCharMeleeIntelligenceReqReduction=-{%.0f0}% {^E}духа для холодного оружия
+tagCharHuntingStrengthReqReduction=-{%.0f0}% {^E}телосложения для стрелкового оружия
+tagCharHuntingDexterityReqReduction=-{%.0f0}% {^E}искусности для стрелкового оружия
+tagCharHuntingIntelligenceReqReduction=-{%.0f0}% {^E}духа для стрелкового оружия
+tagCharStaffIntelligenceReqReduction=-{%.0f0}% {^E}духа для посохов
+tagCharStaffStrengthReqReduction=-{%.0f0}% {^E}телосложения для посохов
+tagCharStaffDexterityReqReduction=-{%.0f0}% {^E}искусности для посохов
+tagCharWeapon2HIntelligenceReqReduction=-{%.0f0}% {^E}духа для двуручного оружия
+tagCharWeapon2HStrengthReqReduction=-{%.0f0}% {^E}телосложения для двуручного оружия
+tagCharWeapon2HDexterityReqReduction=-{%.0f0}% {^E}искусности для двуручного оружия
+tagCharWeaponIntelligenceReqReduction=-{%.0f0}% {^E}духа для любого оружия
+tagCharWeaponStrengthReqReduction=-{%.0f0}% {^E}телосложения для любого оружия
+tagCharWeaponDexterityReqReduction=-{%.0f0}% {^E}искусности для любого оружия
+
+tagChanceOf={%.1f0}% {^E}{шанс на {^H}
+tagChanceTo={%.1f0}% {^E}{шанс на {^H}
+
+Strength=Телосложение
+Dexterity=Искусность
+Intelligence=Дух
+Life=Здоровье
+Mana=Энергия
+UnusedPointsText={%d0} неиспользованные очки
+LifeText={%.0f0} здоровье
+ManaText={%.0f0} энергия
+StrengthText={%.0f0} телосложение
+DexterityText={%.0f0} искусность
+IntelligenceText={%.0f0} дух
+FloatFormat={%.0f0}
+Float1Format={%.1f0}
+Float2Format={%.2f0}
+NegativeFloat2Format=- {%.2f0}
+IntFormat={%d0}
+CharacterLevelDescription={%s0} [{%d1} уровня]
+ObjectIdFormat=({%d0})  
+SkillLevelFormat={%d0} / {%d1}
+ShortManaText=Энергия {%.0f0} / {%.0f1} / {%.1f2}
+ShortLifeText=Здоровье {%.0f0} / {%.0f1}
+ShortExperienceText=Опыт {%d0} / {%d1}
+ShortLevel=Уровень {%d0}
+HitFormat={%.0f0}
+CriticalHitFormat={%.0f0}
+CriticalHitFormatMult={%.0f0} (x{%.2f1})
+DurationCriticalHit=критический удар
+DurationCriticalHitMult=критический удар (x{%.2f0})
+tagMiss=Промах
+tagFumble=Замешательство
+tagDodge=Уклонение
+tagBlock=Блок
+tagDeflect=Рикошет
+tagInvulnerable=Неуязвимость
+GiveMoneyFormat=Железки (+{%d0})
+TakeMoneyFormat={%d0} железок
+ExperienceFormat=Опыт +{%d0}
+FactionFormat=Репутация +{%d0} {%s1}
+FactionUnlocked={%s0} доступно
+LevelUpFormat=Новый уровень!
+SkillPointFormat={%d0} очков умений
+AttributePointFormat={%d0} очков характеристик
+MenuName=Имя: 
+MenuLevel=Уровень: {%d0}
+ItemSkillIncrement={+%d0} {^E}к умению {%s1}
+ItemMasteryIncrement={+%d0} {^X}к умениям мастерства {%s1}{^E}
+ItemAllSkillIncrement={+%d0} {^X}ко всем умениям{^E}
+ItemBasicAttributeBanner={^w}
+ItemBonusAttributeBanner={^b}
+tagPerSecond= в сек.
+tagDPS={%.1g0} урона в сек.
+
+LevelRequirement=Уровень игрока
+ShieldBlockAbsorption={%.0f0}% поглощение
+ShieldBlockRecoveryTime={%.2f0} сек. подготовка блока
+MeetsRequirement=Нужно: {%.0f1} {%s0}
+MeetsRequirementWithReduction=Нужно: {%.0f1} {%s0} [{^y- %.0f3}% от {^r%.0f2}]
+FailsRequirementWithReduction={^r}Нужно: {%.0f1} {%s0} [{^y- %.0f3}% от {^r%.0f2}]
+FailsRequirement={^r}Нужно: {%s0: %.0f1}
+SkillIntFormat={%d0 %s1}
+SkillFloatFormat={%.0f0 %s1}
+SkillFloat1Format={%.1f0 %s1}
+SkillFloat2Format={%.2f0 %s1}
+SkillSecondFormat={%.1f0 {^E}сек. %s1}
+SkillSecondFormatMod=+{%.1f0 {^E}сек. %s1}
+SkillDistanceFormat={%.1f0 {^E}м %s1}
+SkillDistanceFormatMod=+{%.1f0 {^E}м %s1}
+SkillCostFormat={%.1f0 %s1}
+SkillCostFormatMod=+{%.1f0 %s1}
+SkillPercentFormat={%.0f0% %s1}
+SkillNumProjectilesFormat={%d0} снаряд(ов)
+SkillWeaponDamageFormat={%.0f0%} {^E}урона оружием
+SkillWeaponDamageValuesFormat={%.0f0%} {^E}урона оружия ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageMainhandFormat={%.0f0%} {^E}урона основным оружием ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageOffhandFormat={%.0f0%} {^E}урона дополнительным оружием ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamagePetFormat={%.0f0%} {^E}базовый урон питомца
+SkillChargeFactor=на уровень заряда
+SkillChargeMax={^E}уровня(ей) заряда 
+SkillChargeLevel={^H}{%d0}%
+SkillChargeLevel2={^E}, {^H}{%d0}%
+SkillChargeLevelMod={%d0}%
+SkillChargeLevelMod2=, {%d0}%
+SkillChargeDuration=длительность заряда
+SkillChargeFactorMod=прирост на уровень заряда
+SkillChargeMaxMod=уровня(ей) заряда 
+SkillChargeDurationMod=прирост длительности заряда
+SkillChanceWeight={%d0}% {^E}шанс применения
+SkillActivationChance={^E}шанс активации
+SkillDamageAbsorption={%.0f0} {^E}урона поглощается
+SkillDamageAbsorptionPercent={%.0f0}% {^E}урона поглощается
+SkillPetBurstSpawn={^E}призванных {^H}{%d0}
+SkillPetBurstSpawnMod=+{%d0} {^E}питомец
+SkillPetBurstSpawnsMod=+{%d0} {^E}питомца
+SkillPetLimit={%d0} {^E}максимум призванных
+SkillPetLimitMod=+{%d0} {^E}максимум призванных
+SkillLifeBonus={%+.1f0} {^E}восполнение здоровья
+SkillManaBonus={%+.1f0} {^E}восполнение энергии
+SkillLifePercent={%.1f0}% {^E}восполнение здоровья
+SkillManaPercent={%.1f0}% {^E}восполнение энергии
+SkillLifeBonusAndPercent={%.0f1}% + {%.0f0} {^E}восполнение здоровья
+SkillManaBonusAndPercent={%.0f1}% + {%.0f0} {^E}восполнение энергии
+SkillPetDescriptionHeading=Характеристики  ^A{%s0}:
+tagSkillPetAbilities=Умения  ^A{%s0}:
+SkillPetDescriptionNextHeading=Следующий {%s0} уровень:
+SkillPetDescriptionHealth={%.0f0} {^E}здоровье
+SkillPetDescriptionMana={%.0f0} {^E}энергия
+SkillPetDescriptionDamageMinOnly={%.0f0}  урона
+SkillPetDescriptionDamageMinMax={%.0f0} - {%.0f1}  урона
+tagSkillPetTimeToLive={^H}{%.1f0} {^E}сек. жизни
+tagSkillPetTimeToLiveMod={^H}{%+.1f0} {^E}сек. жизни
+tagSkillPrevious=...Назад
+tagSkillNext=Далее...
+HoldCtrlToShowBaseValues=Удерживайте Ctrl, чтобы увидеть базовые значения
+PressToAddUnusedSkillPoints=Левый клик - вложение очков умений
+PressToAddUnusedDevotionPoints=Левый клик - вложение очков набожности
+PressToActivateDevotion=Левый клик - активация
+PressToAssignDevotion=Левый клик - привязать к умению
+AssignDevotionForExp=Должно быть привязано к умению для набора опыта
+SkillEnhancement=+{%d0} ко всем умениям
+NoSkillPointsToAdd=Нет свободных очков умений
+NoDevotionPointsToAdd=Нет свободных очков набожности
+LockedDevotion=Недоступно - требуется предыдущая звезда в созвездии
+ActiveDevotion=Активно
+YouMustIncreaseMasteryLevel=Вы должны повысить уровень мастерства, чтобы вкладывать очки
+EnableOneBaseSkill=Нужно изучить хотя бы одно требуемое умение
+MaxSkillLevelReached=Достигнут максимальный уровень умения
+ActiveMasteriesAllowedReached=Больше нельзя изучать новые мастерства
+LifeMonitorPercent={^E}Активируется при падении здоровья ниже {^H}{%.1f0}%
+FailedSkillDependancy=Требуется: {%s0} 
+FailedSkillDependancyAll=Требуются умения:
+FailedSkillDependancyOne=Требуется одно из умений:
+FailedSkillDependancyName={%s0}
+FailedDevotionDependency=Требуемая склонность:
+FailedDevotionDependencyName={%d0} {%s1}
+FailedConstellationDependency=Зависимости созвездий:
+FailedConstellationSelfLocked=Это созвездие зависит от склонности собственного типа. Вам необходимо набрать больше очков склонности от других созвездий, прежде чем вы сможете забыть его.
+ManaCost={^E}затраты энергии
+ManaCostPerSecond={^E}затраты энергии в сек.
+ActiveLifeCost= {^E}затраты здоровья в сек.
+ActiveManaCost= {^E}затраты энергии в сек.
+ActiveDuration=длительность
+Interval=интервал
+TargetRadius=целевая область
+TargetAngle={%.0f0} {^E}градусов угол атаки
+TargetAngleMod=+{%.0f0} {^E}градусов угол атаки
+TargetNumber={%d0} {^E}цель(ей)
+TargetNumberMod=+{%d0} {^E}цель(ей)
+CooldownTime={^E}перезарядка умения
+ExplosionRadius=радиус
+TargetRange=дальность
+ProjectileLaunchRotation={%.1f0} сектор обстрела
+ProjectileLaunchNumber={%d0} {^E}снаряд(ов)
+ProjectileLaunchNumberMod=+{%d0} {^E}снаряд(ов)
+ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} {^E}осколка(ов)
+ProjectileFragmentsLaunchNumber={%d0} {^E}осколка(ов)
+ProjectilePiercingChance={%.1f0}% {^E}шанс пробить навылет
+ProjectilePiercingChanceMod=+{%.1f0}% {^E}шанс пробить навылет
+
+tagTooltipPetsHeader=Питомцы
+tagTooltipSkillsHeader=Дарованные умения
+
+#Skill Wheel
+tagSkillConfig01=Конфигурация 1
+tagSkillConfig02=Конфигурация 2
+
+#Gamepad HUD
+tagGamePadSelect=Выбрать
+tagGamePadBack=Назад
+tagGamePadEquip=Надеть
+tagGamePadDrop=Выбросить
+tagGamePadUseItem=Применить
+tagGamePadSellItem=Продать
+tagGamePadMoveItem=Переместить
+tagGamePadScroll=Прокрутка
+tagGamePadAssignSkills=Назначить умение
+tagGamePadSwapConfig=Изменить
+tagGamePadMove=Двигать
+tagGamePadZoomIn=Ближе
+tagGamePadZoomOut=Дальше
+tagGamePadExit=Выход
+tagGamePadRevert=Вернуться
+tagGamePadSplitStack=Разбить пачку
+tagGamePadNone=Н/А
+
+tagGamePadCharacter=Персонаж
+tagGamePadSkills=Умения
+tagGamePadMap=Карта
+tagGamePadFactions=Фракции
+tagGamePadAchieve=Достижения
+tagGamePadLootFilter=Фильтр добычи
+tagGamePadDevotionSearch=Поиск
+tagGamePadMinimapSize=Мини-карта
+
+tagControllerUIWarning=Текущее разрешение экрана не поддерживает пользовательский интерфейс контроллера.
+
+tagShieldBlockInfo={%.0f0}% шанс блокировать {^W}{%.0f1} урона
+
+
+
+SkillManaCostReduction=-{%.0f0}% {^E}затрат энергии
+SkillCooldownReduction=-{%.0f0}% {^E}времени перезарядки умения
+SkillProjectileSpeedModifier={%+.0f0}% {^E}скорость снарядов
+SkillManaCostReductionModifier=-{%.0f0}% {^E}затрат энергии
+SkillCooldownReductionModifier=-{%.0f0}% {^E}времени перезарядки умения
+
+GlobalChanceOfAllTag={^E}Шанс на: {^H}
+GlobalChanceOfOneTag={^E}Шанс на одно из: {^H}
+GlobalPercentChanceOfAllTag={%.1f0}% {^E}шанс на:{^H}
+GlobalPercentChanceOfOneTag={%.1f0}% {^E}шанс на одно из: {^H}
+tagIndent={     }
+tagDamageAbsorptionTitle={^E}Поглощение:
+formatQualifyingDamage={     {^E}%s0}
+tagQualifyingDamagePhysical=физического урона
+tagQualifyingDamagePierce=проникающего урона
+tagQualifyingDamageLightning=молнии
+tagQualifyingDamageFire=огня
+tagQualifyingDamageCold=холода
+tagQualifyingDamagePoison=яда или кислоты
+tagQualifyingDamageLife=урона здоровью
+tagQualifyingDamageBleeding=кровотечения
+tagQualifyingDamageElemental=стихийного урона
+tagQualifyingDamageAether=урона эфиром
+tagQualifyingDamageChaos=урона хаосом
+
+DamageSingleFormat={%.0f0}
+DamageRangeFormat={%.0f0}-{%.0f1}
+DamageInfluenceSingleFormat={%.1f0}
+DamageInfluenceRangeFormat={%.1f0}-{%.1f1}
+DamageReflexSingleFormat={%.1f0}
+DamageReflexRangeFormat={%.1f0}-{%.1f1}
+DamageSingleFormatSecond= {^E}за {^H}{%.1f0} {^E}сек.
+DamageSingleFormatTime= {^E}за {^H}{%.1f0} {^E}сек.
+DamageRangeFormatTime= {^E}за {^H}{%.1f0}-{%.1f1} {^E}сек.
+DamageFixedSingleFormatSecond= {^E}на {^H}{%.1f0} {^E}сек.
+DamageFixedSingleFormatTime= {^E}на {^H}{%.1f0} {^E}сек.
+DamageFixedRangeFormatTime= {^E}на {^H}{%.1f0} - {%.1f1} {^E}сек.
+RetaliationFixedSingleFormatSecond={^H}{%.1f0} {^E}сек.
+RetaliationFixedSingleFormatTime={^H}{%.1f0} {^E}сек.
+RetaliationFixedRangeFormatTime={^H}{%.1f0} - {%.1f1} {^E}сек.
+tagDurationDamageOverTime={%d0} {^E}урона в сек.
+tagDotReductionAbsolute={%d0} {^E}снижено
+tagDotReductionPercent={%d0}% {^E}снижено
+tagDotTimeRemaining={^H}{%.0f0} {^E}сек. осталось
+tagDotTimeRemainingPrecise={^H}{%.1f0} {^E}сек. осталось
+tagDurationFumble={%d0}% {^E}шанс промахнуться
+tagDotBleeding=кровотечение
+tagDotCold=обморожение
+tagDotFire=горение
+tagDotPoison=урон ядом
+tagDotLightning=электрошок
+tagDotChaos=урон хаосом
+tagDotAether=урон эфиром
+tagDotVitality=разложение
+tagDotLifeLeech=кража здоровья
+tagDotManaLeech=кража энергии
+tagDotPhysical=внутренние травмы
+tagDotAttackSpeed=скорость атаки
+tagDotCastSpeed=скорость колдовства
+tagDotRunSpeed=скорость бега
+tagDotOffensiveAbility=навык атаки
+tagDotDefensiveAbility=навык защиты
+tagDotFumble=неуклюжесть
+tagDotRangedFumble=снижение меткости
+tagDotTotalDamageReduction=общий урон
+tagDotPhysicalDamageReduction=физический урон
+tagDotElementalDamageReduction=стихийный урон
+tagDotTotalResistReduction=общее сопротивление
+tagDotPhysicalResistReduction=физическое сопротивление
+tagDotElementalResistReduction=сопротивление стихиям
+tagDotStun=оглушение
+tagDotSleep=сон
+tagDotTrap=обездвиживание
+tagDotFreeze=заморозка
+tagDotPetrify=окаменение
+
+tagSetItems=({%d0}) Набор
+tagSecond={^E}сек.
+tagSeconds={^E}сек.
+DamagePerSecond={%.0f0} {^S}урона в сек. (если экипировано)
+DamagePerSecondOffHand={%.0f0} {^S}урона в сек. (в левой руке)
+DamagePhysicalChance={%t0} {^K}физического урона{^E}
+DamageBasePhysical={%t0} {^K}физического урона{^S}
+DamageBasePierceRatio={%.0f0}% {^S}пробивание брони
+DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}пробивание брони
+DamageBonusPhysical={%t0} {^K}физического урона{^E}
+tagDamageBaseFire={%t0} {^O}урона огнём{^S}
+tagDamageBaseLightning={%t0} {^Z}урона молнией{^S}
+tagDamageBaseCold={%t0} {^C}урона холодом{^S}
+tagDamageBaseVitality={%t0} {^M}урона здоровью{^S}
+tagDamageBasePoison={%t0} {^L}урона кислотой{^S}
+tagDamageBaseChaos={%t0} {^P}урона хаосом{^S}
+tagDamageBaseAether={%t0} {^A}урона эфиром{^S}
+DamageCold={%t0} {^C}урона холодом{^E}
+DamageFire={%t0} {^O}урона огнём{^E}
+DamageAether={%t0} {^A}урона эфиром{^E}
+DamageChaos={%t0} {^P}урона хаосом{^E}
+DamageLife={%t0} {^M}урона здоровью{^E}
+DamageLifeLeech={%t0}% {^E}урона превращается в здоровье
+DamageLightning={%t0} {^Z}урона молнией{^E}
+DamageElemental={%t0} {^Y}стихийного урона{^E}
+DamageModifierElemental={%+.0f0}% {^Y}стихийного урона{^E}
+DamageModifierElementalR={%+.0f0}-{%.0f1}% {^Y}стихийного урона{^E}
+DamagePhysical=+{%t0} {^K}физического урона{^E}
+DamagePierce={%t0} {^R}проникающего урона{^E}
+DamagePoison={%t0} {^L}урона кислотой{^E}
+DamageKnockdown={^E}опрокидывание{%t0}
+DamageStun={^E}оглушение{%t0}
+DamageFreeze={^E}замораживание{%t0}
+DamagePetrify={^E}окаменение{%t0}
+DamageTrap={^E}обездвиживание{%t0}
+DamageTaunt={^E}провокация врага
+DamageThreat={^E}дополнительная угроза
+DamageConvert={^E}контроль разума{%t0}
+DamageFear={^E}запугивание{%t0}
+DamageConfusion={^E}замешательство{%t0}
+DamageDisruption={^E}блокировка умений{%t0}
+DamagePercentCurrentLife={^E}снижение здоровья на {^H}{%t0}%
+DamageManaDrain={^E}сжигание {^H}{%t0}% {^E}энергии
+DamageManaBurnRatio= {^E}({^H}{%.0f0}% {^E}сожжённой энергии наносит урон)
+DamageModifierManaBurn={^H}{%.0f0}% {^E}сожжённой энергии наносит урон
+
+DamageDurationAttackSpeed=% {^E}замедления вражеских атак
+DamageDurationCold= {^C}обморожения{^E}
+DamageDurationReduced= {^E}снижения защиты
+DamageDurationFire= {^O}горения{^E}
+DamageDurationLife= {^M}разложения{^E}
+DamageDurationLifeLeach= {^E}кражи здоровья
+DamageDurationLightning= {^Z}электрошока{^E}
+DamageDurationManaLeach= {^E}кражи энергии
+DamageDurationOffensiveAbility= {^E}снижения навыка атаки
+DamageDurationOffensiveReduction= {^E}снижения физического урона
+DamageDurationDefensiveAbility= {^E}снижения навыка защиты
+DamageDurationDefensiveReduction= {^E}снижения брони
+DamageDurationPhysical= {^K}внутренних травм{^E}
+DamageDurationPoison= {^L}яда{^E}
+DamageDurationTotalSpeed=% {^E}общего замедления
+DamageDurationRunSpeed=% {^E}замедления бега
+DamageDurationSpellCastSpeed=% {^E}замедления колдовства
+DamageDurationBleeding= {^R}кровотечения{^E}
+DamageDurationElemental= {^Y}стихийного пламени{^E}
+
+DamageTotalDamageReductionPercent=% {^E}снижения урона
+DamageTotalDamageReductionAbsolute= {^E}снижения урона
+DamagePhysicalReductionPercent=% {^E}снижения физического урона
+DamageElementalReductionPercent=% {^E}снижения стихийного урона
+DamageTotalResistanceReductionPercent=% {^E}снижения сопротивлений
+DamageTotalResistanceReductionAbsolute= {^E}снижения сопротивлений
+DamagePhysicalResistanceReductionPercent=% {^E}снижения сопротивления физическому урону
+DamagePhysicalResistanceReductionAbsolute= {^E}снижения сопротивления физическому урону
+DamageElementalResistanceReductionPercent=% {^E}снижения сопротивления стихийному урону
+DamageElementalResistanceReductionAbsolute= {^E}снижения сопротивления стихийному урону
+DamageDurationFumble=% {^E}шанс на неуклюжие атаки
+DamageDurationProjectileFumble=% {^E}шанс снизить меткость
+
+DamageModifierPhysical={%+.0f0}% {^K}физического урона{^E}
+DamageModifierPhysicalR={%+.0f0}-{%.0f1}% {^K}физического урона{^E}
+DamageModifierPierceRatio={^H}{%+.0f0}% {^E}бронебойности
+DamageModifierPierceRatioR={^H}{%+.0f0}-{%.0f1}% {^E}бронебойности
+DamageModifierPierce={%+.0f0}% {^R}проникающего урона{^E}
+DamageModifierPierceR={%+.0f0}-{%.0f1}% {^R}проникающего урона{^E}
+DamageModifierCold={%+.0f0}% {^C}урона холодом{^E}
+DamageModifierColdR={%+.0f0}-{%.0f1}% {^C}урона холодом{^E}
+DamageModifierFire={%+.0f0}% {^O}урона огнём{^E}
+DamageModifierFireR={%+.0f0}-{%.0f1}% {^O}урона огнём{^E}
+DamageModifierPoison={%+.0f0}% {^L}урона кислотой{^E}
+DamageModifierPoisonR={%+.0f0}-{%.0f1}% {^L}урона кислотой{^E}
+DamageModifierLightning={%+.0f0}% {^Z}урона молнией{^E}
+DamageModifierLightningR={%+.0f0}-{%.0f1}% {^Z}урона молнией{^E}
+DamageModifierLife={%+.0f0}% {^M}урона здоровью{^E}
+DamageModifierLifeR={%+.0f0}-{%.0f1}% {^M}урона здоровью{^E}
+DamageModifierStun={%+.0f0}% {^E}длительность оглушения
+DamageModifierStunR={%+.0f0}-{%.0f1}% {^E}длительность оглушения
+DamageModifierChaos={%+.0f0}% {^P}урона хаосом{^E}
+DamageModifierChaosR={%+.0f0}-{%.0f1}% {^P}урона хаосом{^E}
+DamageModifierAether={%+.0f0}% {^A}урона эфиром{^E}
+DamageModifierAetherR={%+.0f0}-{%.0f1}% {^A}урона эфиром{^E}
+DamageModifierKnockdown={%+.0f0}% {^E}длительность опрокидывания
+DamageModifierKnockdownR={%+.0f0}-{%.0f1}% {^E}длительность опрокидывания
+DamageModifierTrap={%+.0f0}% {^E}длительность обездвиживания
+DamageModifierTrapR={%+.0f0}-{%.0f1}% {^E}длительность обездвиживания
+DamageModifierFreeze={%+.0f0}% {^E}длительность заморозки
+DamageModifierFreezeR={%+.0f0}-{%.0f1}% {^E}длительность заморозки
+DamageModifierPetrify={%+.0f0}% {^E}длительность окаменения
+DamageModifierPetrifyR={%+.0f0}-{%.0f1}% {^E}длительность окаменения
+
+DamageDurationModifierPhysical={%+.0f0}% {^K}урона внутренними травмами{^E}
+DamageDurationModifierBleeding={%+.0f0}% {^R}урона кровотечением{^E}
+DamageDurationModifierCold={%+.0f0}% {^C}урона обморожением{^E}
+DamageDurationModifierFire={%+.0f0}% {^O}урона горением{^E}
+DamageDurationModifierPoison={%+.0f0}% {^L}урона ядом{^E}
+DamageDurationModifierLightning={%+.0f0}% {^Z}урона электрошоком{^E}
+DamageDurationModifierLife={%+.0f0}% {^M}урона разложением{^E}
+DamageDurationModifierAttackSpeed={%+.0f0}% {^E}замедления атак
+DamageDurationModifierSpellCastSpeed={%+.0f0}% {^E}замедления заклинаний
+DamageDurationModifierRunSpeed={%+.0f0}% {^E}замедления бега
+DamageDurationModifierLifeLeach={%+.0f0}% {^E}кражи здоровья
+DamageDurationModifierManaLeach={%+.0f0}% {^E}кражи энергии
+DamageDurationModifierOffensiveAbility={%+.0f0}% {^E}снижения навыка атаки
+DamageDurationModifierDefensiveAbility={%+.0f0}% {^E}снижения навыка защиты
+DamageDurationModifierOffensiveReduction={%+.0f0}% {^E}снижения физического урона
+ImprovedTimeFormat= {^E} с {^H}{%+.0f0}% {^E}продолжительности
+ImprovedTimeFormatR={^E} с {^H}{%+.0f0}-{%.0f1}% {^E}продолжительности
+IncreasedDuration={^H}{%+.0f0}% {^E}увеличение продолжительности{%s1}
+
+RetaliationCold={%t0} {^C}ответного урона холодом{^E}
+RetaliationFire={%t0} {^O}ответного урона огнём{^E}
+RetaliationLife={%t0} {^M}ответного урона здоровью{^E}
+RetaliationLightning={%t0} {^Z}ответного урона молнией{^E}
+RetaliationElemental={%t0} {^Y}ответного стихийного урона{^E}
+RetaliationPhysical={%t0} {^K}ответного физического урона{^E}
+RetaliationPierce={%t0} {^R}ответного проникающего урона{^E}
+RetaliationPoison={%t0} {^L}ответного урона кислотой{^E}
+RetaliationAether={%t0} {^A}ответного урона эфиром{^E}
+RetaliationChaos={%t0} {^P}ответного урона хаосом{^E}
+RetaliationStun={%t0} ответного оглушения
+RetaliationFreeze={%t0} ответной заморозки
+RetaliationPetrify={%t0} ответного окаменения
+RetaliationTrap={%t0} ответного обездвиживания
+RetaliationConvert={%t0} ответного контроля разума
+RetaliationFear={%t0} ответного запугивания
+RetaliationConfusion={%t0} ответного замешательства
+RetaliationSleep={%t0} ответного усыпления
+RetaliationPercentCurrentLife={^E}ответного снижения здоровья врага на {^H}{%t0}% 
+RetaliationDurationAttackSpeed=% {^E}ответного снижения скорости атаки
+RetaliationDurationCold= {^C}ответного урона обморожением{^E}
+RetaliationDurationDefensiveAbility= {^E}ответного снижения навыка защиты
+RetaliationDurationFire= {^O}ответного урона горением{^E}
+RetaliationDurationLife= {^M}ответного урона разложением{^E}
+RetaliationDurationLifeLeach= {^E}ответной кражи здоровья
+RetaliationDurationLightning= {^Z}ответного урона электрошоком{^E}
+RetaliationDurationManaLeach= {^E}ответной кражи энергии
+RetaliationDurationOffensiveAbility= {^E}ответного снижения навыка атаки
+RetaliationDurationOffensiveReduction= {^E}ответного снижения урона
+RetaliationDurationPhysical= {^K}ответного урона внутренними травмами{^E}
+RetaliationDurationBleeding= {^R}ответного урона кровотечением{^E}
+RetaliationDurationPoison= {^L}ответного урона ядом{^E}
+RetaliationDurationRunSpeed=% {^E}ответного снижения скорости бега
+RetaliationDurationSpellCastSpeed=% {^E}ответного снижения скорости колдовства
+RetaliationModifierPhysical={%+.0f0}% {^K}ответного физического урона{^E}
+RetaliationModifierPierceRatio={%+.0f0}% {^R}ответного урона пробиванием брони{^E}
+RetaliationModifierPierce={%+.0f0}% {^R}ответного проникающего урона{^E}
+RetaliationModifierCold={%+.0f0}% {^C}ответного урона холодом{^E}
+RetaliationModifierFire={%+.0f0}% {^O}ответного урона огнём{^E}
+RetaliationModifierPoison={%+.0f0}% {^L}ответного урона кислотой{^E}
+RetaliationModifierLightning={%+.0f0}% {^Z}ответного урона молнией{^E}
+RetaliationModifierAether={%+.0f0}% {^A}ответного урона эфиром{^E}
+RetaliationModifierChaos={%+.0f0}% {^P}ответного урона хаосом{^E}
+RetaliationModifierElemental={%+.0f0}% {^Y}ответного стихийного урона{^E}
+RetaliationModifierLife={%+.0f0}% {^M}ответного урона здоровью{^E}
+RetaliationModifierStun={%+.0f0}% {^E}ответного урона оглушением
+RetaliationModifierSleep={%+.0f0}% {^E}ответного урона сном
+RetaliationDurationModifierPhysical={%+.0f0}% {^K}ответного урона внутренними травмами{^E}
+RetaliationDurationModifierBleeding={%+.0f0}% {^R}ответного урона кровотечением{^E}
+RetaliationDurationModifierCold={%+.0f0}% {^C}ответного урона обморожением{^E}
+RetaliationDurationModifierDefensiveAbility={%+.0f0}% {^E}ответного снижения навыка защиты
+RetaliationDurationModifierFire={%+.0f0}% {^O}ответного урона горением{^E}
+RetaliationDurationModifierLife={%+.0f0}% {^M}ответного урона разложением{^E}
+RetaliationDurationModifierLifeLeach={%+.0f0}% {^E}ответной кражи здоровья
+RetaliationDurationModifierLightning={%+.0f0}% {^Z}ответного урона электрошоком{^E}
+RetaliationDurationModifierManaLeach={%+.0f0}% {^E}ответной кражи энергии
+RetaliationDurationModifierOffensiveAbility={%+.0f0}% {^E}ответного снижения навыка атаки
+RetaliationDurationModifierOffensiveReduction={%+.0f0}% {^E}ответного снижения урона
+RetaliationDurationModifierPoison={%+.0f0}% {^L}ответного урона ядом{^E}
+
+DefenseAbsorptionProtection={%.0f0} броня
+DefenseAbsorptionProtectionR={%.0f0}-{%.0f1} брони
+DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}брони
+DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^E}брони
+DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}бонус брони
+DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}бонус брони
+DefensePhysical={%.0f0}% {^K}сопротивления физическому урону{^E}
+DefensePhysicalR={%.0f0}-{%.0f1}% {^K}сопротивления физическому урону{^E}
+DefensePierce={%.0f0}% {^R}сопротивления проникающему урону{^E}
+DefensePierceR={%.0f0}-{%.0f1}% {^R}сопротивления проникающему урону{^E}
+DefenseElementalResistance={%.0f0}% {^Y}сопротивления стихийному урону{^E}
+DefenseElementalResistanceR={%.0f0}-{%.0f1}% {^Y}сопротивления стихийному урону{^E}
+DefenseCold={%.0f0}% {^C}сопротивления холоду{^E}
+DefenseColdR={%.0f0}-{%.0f1}% {^C}сопротивления холоду{^E}
+DefenseFire={%.0f0}% {^O}сопротивления огню{^E}
+DefenseFireR={%.0f0}-{%.0f1}% {^O}сопротивления огню{^E}
+DefenseAether={%.0f0}% {^A}сопротивления эфиру{^E}
+DefenseAetherR={%.0f0}-{%.0f1}% {^A}сопротивления эфиру{^E}
+DefenseChaos={%.0f0}% {^P}сопротивления хаосу{^E}
+DefenseChaosR={%.0f0}-{%.0f1}% {^P}сопротивления хаосу{^E}
+DefensePoison={%.0f0}% {^L}сопротивления яду и кислоте{^E}
+DefensePoisonR={%.0f0}-{%.0f1}% {^L}сопротивления яду и кислоте{^E}
+DefenseLightning={%.0f0}% {^Z}сопротивления молнии{^E}
+DefenseLightningR={%.0f0}-{%.0f1}% {^Z}сопротивления молнии{^E}
+DefenseLife={%.0f0}% {^M}сопротивления урону здоровью{^E}
+DefenseLifeR={%.0f0}-{%.0f1}% {^M}сопротивления урону здоровью{^E}
+DefenseStun={%.0f0}% {^E}снижения длительности оглушения
+DefenseStunNegative={%.0f0}% {^E}сопротивления оглушению
+DefenseStunR={%.0f0}-{%.0f1}% {^E}снижения длительности оглушения
+DefenseLifeLeach={%.0f0}% {^E}сопротивления краже здоровья
+DefenseLifeLeachR={%.0f0}-{%.0f1}% {^E}сопротивления краже здоровья
+DefenseManaLeach={%.0f0}% {^E}сопротивления краже энергии
+DefenseManaLeachR={%.0f0}-{%.0f1}% {^E}сопротивления краже энергии
+DefenseTrap={%.0f0}% {^E}снижения длительности обездвиживания
+DefenseTrapNegative={%.0f0}% {^E}сопротивления обездвиживанию
+DefenseTrapR={%.0f0}-{%.0f1}% {^E}снижения длительности обездвиживания
+DefenseFreeze={%.0f0}% {^E}снижения длительности заморозки
+DefenseFreezeNegative={%.0f0}% {^E}сопротивления заморозке
+DefenseFreezeR={%.0f0}-{%.0f1}% {^E}снижения длительности заморозки
+DefenseKnockdown={%.0f0}% {^E}снижения длительности опрокидывания
+DefenseKnockdownNegative={%.0f0}% {^E}сопротивления опрокидыванию
+DefenseKnockdownR={%.0f0}-{%.0f1}% {^E}снижения длительности опрокидывания
+DefensePetrify={%.0f0}% {^E}снижения длительности окаменения
+DefensePetrifyNegative={%.0f0}% {^E}сопротивления окаменению
+DefensePetrifyR={%.0f0}-{%.0f1}% {^E}снижения длительности окаменения
+DefenseTaunt={%.0f0}% {^E}защиты от провокации
+DefenseConvert={%.0f0}% {^E}снижения длительности контроля разума
+DefenseFear={%.0f0}% {^E}снижения длительности испуга
+DefenseConfusion={%.0f0}% {^E}сопротивления замешательству
+DefenseDisruption={%.0f0}% {^E}сопротивления блокировке умений
+DefensePercentLife={%.0f0}% {^E}сопротивления снижению здоровья
+DefenseBleeding={%.0f0}% {^R}сопротивления кровотечению{^E}
+DefenseBleedingR={%.0f0}-{%.0f1}% {^R}сопротивления кровотечению{^E}
+DefenseBlock={%.0f0} {^E}урона блокируется
+DefenseReflect={%.0f0}% {^E}урона отражается
+DefenseReflectR={^H}{%.0f0}-{%.0f1}% {^E}урона отражается
+DefensePhysicalDuration=-{%.0f0}% {^K}длительности внутренних травм{^E}
+DefenseBleedingDuration=-{%.0f0}% {^R}длительности кровотечения{^E}
+DefenseColdDuration=-{%.0f0}% {^C}длительности обморожения{^E}
+DefenseFireDuration=-{%.0f0}% {^O}длительности горения{^E}
+DefensePoisonDuration=-{%.0f0}% {^L}длительности урона ядом{^E}
+DefenseLightningDuration=-{%.0f0}% {^Z}длительности электрошока{^E}
+DefenseLifeDuration=-{%.0f0}% {^M}длительности разложения{^E}
+DefenseLifeLeachDuration=-{%.0f0}% {^E}длительности кражи жизни
+DefenseManaLeachDuration=-{%.0f0}% {^E}длительности кражи энергии
+DefensePercentCurrentLife={%.0f0}% {^E}сопротивления снижению здоровья
+DefenseManaBurnRatio={%.0f0}% {^E}сопротивление горению маны
+DefenseProtectionModifier={^E}увеличение брони на {^H}{%.0f0}%
+DefenseProtectionModifierR={^E}увеличение брони на {^H}{%.0f0}-{%.0f1}%
+DefenseAbsorptionModifier={^H}+{%.0f0}% {^E}поглощения брони
+DefenseAbsorptionModifierR={^H}+{%.0f0}-{%.0f1}% {^E}поглощения брони
+DefensePhysicalModifier={^H}+{%.0f0}% {^K}увеличения текущего физического сопротивления{^E}
+DefensePierceModifier={^H}+{%.0f0}% {^R}увеличения текущего сопротивления проникающему урону{^E}
+DefenseColdModifier={^H}+{%.0f0}%{^C}увеличения текущего сопротивления холоду{^E}
+DefenseFireModifier={^H}+{%.0f0}% {^O}увеличения текущего сопротивления огню{^E}
+DefensePoisonModifier={^H}+{%.0f0}% {^L}увеличения текущего сопротивления яду и кислоте{^E}
+DefenseLightningModifier={^H}+{%.0f0}% {^Z}увеличения текущего сопротивления молнии{^E}
+DefenseLifeModifier={^H}+{%.0f0}% {^M}увеличения текущего сопротивления урону здоровью{^E}
+DefenseChaosModifier={^H}+{%.0f0}% {^P}увеличения текущего сопротивления хаосу{^E}
+DefenseAetherModifier={^H}+{%.0f0}% {^A}увеличения текущего сопротивления эфиру{^E}
+DefenseStunModifier={^H}+{%.0f0}% {^E}увеличения текущего сопротивления оглушению
+DefenseBlockModifier={%+.0f0}% {^E}шанс блока щитом
+DefenseBlockAmountModifier={%+.0f0}% {^E}блокируемого урона
+DefenseBlockAmountModifierR={%+.0f0}-{%.0f1}% {^E}блокируемого урона
+DefenseReflectModifier={%+.0f0}% {^E}урона отражается
+DefenseLifeLeachModifier=+{%.0f0}% {^E}увеличения текущего сопротивления краже здоровья
+DefenseManaLeachModifier=+{%.0f0}% {^E}увеличения текущего сопротивления краже энергии
+DefensePercentLifeModifier=+{%.0f0}% {^E}увеличения текущего сопротивления урону здоровью
+DefenseBleedingModifier=+{%.0f0}% {^R}увеличения текущего сопротивления кровотечению{^E}
+DefenseElementalModifier={^H}+{%.0f0}% {^Y}увеличения текущего сопротивления стихийному урону{^E}
+DefensePhysicalDurationModifier=-{%.0f0}% {^K}длительности внутренних травм{^E}
+DefenseBleedingDurationModifier=-{%.0f0}% {^E}длительности кровотечения
+DefenseColdDurationModifier=-{%.0f0}% {^C}длительности обморожения{^E}
+DefenseFireDurationModifier=-{%.0f0}% {^O}длительности горения{^E}
+DefensePoisonDurationModifier=-{%.0f0}% {^L}длительности урона ядом{^E}
+DefenseLightningDurationModifier=-{%.0f0}% {^Z}длительности электрошока{^E}
+DefenseLifeDurationModifier=-{%.0f0}% {^M}длительности разложения{^E}
+DefenseLifeLeachDurationModifier=-{%.0f0}% {^E}длительности кражи здоровья
+DefenseManaLeachDurationModifier=-{%.0f0}% {^E}длительности кражи энергии
+DefensePhysicalMaxResist={%+.0f0}% {^K}к максимуму сопротивления физическому урону{^E}
+DefensePhysicalMaxResistR={%+.0f0}-{%.0f1}% {^K}к максимуму сопротивления физическому урону{^E}
+DefensePierceMaxResist={%+.0f0}% {^R}к максимуму сопротивления проникающему урону{^E}
+DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^R}к максимуму сопротивления проникающему урону{^E}
+DefenseColdMaxResist={%+.0f0}% {^C}к максимуму сопротивления холоду{^E}
+DefenseColdMaxResistR={%+.0f0}-{%.0f1}% {^C}к максимуму сопротивления холоду{^E}
+DefenseFireMaxResist={%+.0f0}% {^O}к максимуму сопротивления огню{^E}
+DefenseFireMaxResistR={%+.0f0}-{%.0f1}% {^O}к максимуму сопротивления урону огню{^E}
+DefenseAetherMaxResist={%+.0f0}% {^A}к максимуму сопротивления эфиру{^E}
+DefenseAetherMaxResistR={%+.0f0}-{%.0f1}% {^A}к максимуму сопротивления эфиру{^E}
+DefenseChaosMaxResist={%+.0f0}% {^P}к максимуму сопротивления хаосу{^E}
+DefenseChaosMaxResistR={%+.0f0}-{%.0f1}% {^P}к максимуму сопротивления хаосу{^E}
+DefensePoisonMaxResist={%+.0f0}% {^L}к максимуму сопротивления яду и кислоте{^E}
+DefensePoisonMaxResistR={%+.0f0}-{%.0f1}% {^L}к максимуму сопротивления яду и кислоте{^E}
+DefenseLightningMaxResist={%+.0f0}% {^Z}к максимуму сопротивления молнии{^E}
+DefenseLightningMaxResistR={%+.0f0}-{%.0f1}% {^Z}к максимуму сопротивления молнии{^E}
+DefenseLifeMaxResist={%+.0f0}% {^M}к максимуму сопротивления урону здоровью{^E}
+DefenseLifeMaxResistR={%+.0f0}-{%.0f1}% {^M}к максимуму сопротивления урону здоровью{^E}
+DefenseStunMaxResist={%+.0f0}% {^E}к максимуму снижения длительности оглушения
+DefenseStunMaxResistR={%+.0f0}-{%.0f1}% {^E}к максимуму снижения длительности оглушения
+DefenseLifeLeachMaxResist={%+.0f0}% {^E}к максимуму сопротивления краже здоровья
+DefenseLifeLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}к максимуму сопротивления краже здоровья
+DefenseManaLeachMaxResist={%+.0f0}% {^E}к максимуму сопротивления краже энергии
+DefenseManaLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}к максимуму сопротивления краже энергии
+DefenseTrapMaxResist={%+.0f0}% {^E}к максимуму снижения длительности обездвиживания
+DefenseTrapMaxResistR={%+.0f0}-{%.0f1}% {^E}к максимуму снижения длительности обездвиживания
+DefenseFreezeMaxResist={%+.0f0}% {^E}к максимуму снижения длительности заморозки
+DefenseFreezeMaxResistR={%+.0f0}-{%.0f1}% {^E}к максимуму снижения длительности заморозки
+DefensePetrifyMaxResist={%+.0f0}% {^E}к максимуму снижения длительности окаменения
+DefensePetrifyMaxResistR={%+.0f0}-{%.0f1}% {^E}к максимуму снижения длительности окаменения
+DefenseDisruptionMaxResist={%+.0f0}% {^E}к максимуму сопротивления блокировке умений
+DefenseDisruptionMaxResistR={%+.0f0}-{%.0f1}% {^E}к максимуму сопротивления блокировке умений
+DefenseBleedingMaxResist={%+.0f0}% {^R}к максимуму сопротивления кровотечению{^E}
+DefenseBleedingMaxResistR={%+.0f0}-{%.0f1}% {^R}к максимуму сопротивления кровотечению{^E}
+DefenseSleepMaxResist={%+.0f0}% {^E}к максимуму сопротивления сну
+DefenseSleepMaxResistR={%+.0f0}-{%.0f1}% {^E}к максимуму сопротивления сну
+DefenseAllMaxResist={%+.0f0}% {^E}к максимуму всех сопротивлений
+DefenseAllMaxResistR={%+.0f0}-{%.0f1}% {^E}к максимуму всех сопротивлений
+DefenseReflectResist=-{%.0f0}% {^E}получаемого отражённого урона
+DefenseReflectResistR=-{%.0f0}-{%.0f1}% {^E} получаемого отражённого урона
+
+RacialBonusPercentDamage={%+.0f0}% {^E}урона против {%s1}
+RacialBonusAbsoluteDamage={%+.0f0} {^E}урона против {%s1}
+RacialBonusPercentDefense=-{%.0f0}% {^E}урона от {%s1}
+RacialBonusAbsoluteDefense=-{%.0f0} {^E}урона от {%s1}
+RacialBonusRaceName={%s0}
+
+
+tagDamageSleep={^E}погружение в сон{^H}{%t0}
+tagDamageModifierSleep={%+.0f0}% {^E}урона сном
+tagDefenseSleep={%.0f0}% {^E}сопротивления сну
+tagDefenseSleepModifier={%+.0f0}% {^E}сопротивления сну
+tagDamageModifierTotalDamage={%+.0f0}% {^X}общего урона{^E}
+tagDamageModifierCritDamage={%+.0f0}% {^X}критического урона{^E}
+tagDamageModifierCritDamageR={%+.0f0}-{%.0f1}% {^X}критического урона{^E}
+tagDamageModifierDamageMult={^X}общий урон изменяется на {^H}{%.0f0}%{^E}
+tagRetaliationModifierTotalDamage={%+.0f0}% {^X}общего ответного урона{^E}
+tagRetaliationModifierTotalDamageR={%+.0f0}-{%.0f1}% {^X}общего ответного урона{^E}
+tagRetaliationModifierDamageMult={^X}общий ответный урон изменяется на {^H}{%.0f0}%{^E}
+tagTotalSpeedResistance={%.0f0}% {^E}сопротивления замедлению
+tagTotalSpeedResistanceR={%+.0f0}-{%.0f1}% {^E}сопротивления замедлению
+tagMindcontrolledMonster=Контроль разума
+tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}шанс поразить {^H}{%d1} {^E}цель
+tagSparkMaxNumberChanceSingleMod={^H}+{%.0f0}% {^E}шанс поразить до {^H}{%d1} {^E}целей
+tagSparkMaxNumberChance={^H}{%.0f0}% {^E}шанс поразить до {^H}{%d1} {^E}целей
+tagSparkMaxNumberChanceMod={^H}+{%.0f0}% {^E}шанс поразить до {^H}{%d1} {^E}целей
+tagSparkMaxNumberSingle={^H}{%d0} {^E}цель
+tagSparkMaxNumberSingleMod={^H}+{%d0} {^E}цель
+tagSparkMaxNumber={^H}{%d0} {^E}цель(ей)
+tagSparkMaxNumberMod={^H}+{%d0} {^E}цель(ей)
+
+tagItemGrantSkill=Дополнительное умение
+tagItemSkill= (Добавлено предметом)
+tagItemSkillShort= (Предмет)
+tagEffect=Эффект:
+tagSkillGrantEffect=Небесная сила:
+tagDevotionAttached=Привязано к:
+
+tagItemUseDirections=[Правый клик - использовать]
+
+tagInspectTitle=Оценить
+tagInspectOption=Оценить игрока
+tagInspectWarning=Этот игрок слишком далеко для оценки.
+tagGroup01=PvP включён
+tagGroup02=Авто-отряд включён
+tagAutoItemSkill= (Добавлено предметом - активируется пассивно)
+tagExclusiveSkill=^oЭксклюзивное умение - активным может быть только одно эксклюзивное умение.
+tagItemSkillModified= {^E}к умению {^Z}{%s0}
+
+tagAutoSort=Автосортировка инвентаря
+tagAutoComplete=Объединить компоненты
+tagAttributeUndo=Отмена
+
+tagQuestItem=Предмет задания
+
+
+tagCR_Jewelry=Камни:
+tagRelicError=Вы не можете применять реликвии и заклятья к эпическим и легендарным предметам.
+
+tagExperienceDisplayFormat=Текущий опыт: {^y}{%t0}{^w}  ~  Опыта до следующего уровня: {^y}{%t1}
+tagCXP=Опыт: {%t0}
+tagGrave01=Могила игрока ~ {%t0}
+tagGrave02=Убийца: {%t0}
+tagGrave03=Восстановлено опыта: {%d0}
+tagHeroXPShort={%d0} опыта за героя
+tagBossXPShort={%d0} опыта за босса
+tagBossXPLong01=Босс убит
+tagBossXPLong02=Получено {%d0} опыта
+tagHeroXPLong01=Монстр-герой убит
+tagHeroXPLong02=Получено {%d0} опыта
+
+tagPetBonusNameAllPets=Бонус всем питомцам
+tagPetBonusNameOnePet=Бонус питомцу {%s0}
+tagPetBonusNameTwoPets=Бонус питомцам: {%s0} и {%s1}
+tagPetBonusNameManyPets=Бонус питомцам
+
+TagSpeakerSetup=Настройка динамиков
+TagHeadphoneSpeakers=Наушники
+Tag41Speakers=4 динамика
+Tag51Speakers=Система 5.1
+TagKeybind40=Использовать альтернативную панель
+tagKeybindUnassigned=Не назначено
+
+tagSelectPet1=Выбрать питомца 1
+tagSelectPet2=Выбрать питомца 2
+tagSelectPet3=Выбрать питомца 3
+tagSelectPet4=Выбрать питомца 4
+tagSelectPet5=Выбрать питомца 5
+tagSelectAllPets=Выбрать всех питомцев
+tagPortraitAggressive=Агрессивное поведение
+tagPortraitNormal=Нормальное поведение
+tagPortraitDefensive=Защитное поведение
+tagPortraitHireling=Проверить
+
+tagMove=Бег
+tagForceMove=Движение за курсором
+tagUse=Взаимодействовать
+tagPickup=Подобрать
+tagPushToTalk=Активация микрофона
+tagUC_Button=Разблокировать содержимое
+tagUC_Message=Пожалуйста, введите код разблокирования, чтобы разблокировать новый контент.
+tagUC_OK=ОК
+tagUC_Cancel=Отмена
+tagUC_Error=Вы уже разблокировали это содержимое данным персонажем.
+
+tagHotSlotSwap=Переключение между основной и дополнительной панелями быстрого доступа.
+tagHotSlotTitle=Дополнительная панель быстрого доступа
+tagEmptyHotSlot=Очистить эту ячейку
+
+tagDevotionUnassigned=Умение не назначено
+
+#Stack Window
+
+tagStackOk=Да
+tagStackCancel=Отмена
+
+#Multiplayer
+
+tagMPTrade=Торговля
+tagMPGroup=Группа
+tagMPInGame=В игре
+tagMPCharName=Имя игрока
+tagMPCharLevel=Уровень
+tagMPCharClass=Класс
+tagMPAdd=Добавить
+tagMPRemove=Удалить
+tagMPMessage=Сообщение
+tagMPInvite=Пригласить
+tagMPLeave=Покинуть группу
+tagMPBan=Бан
+tagMPAvailable=Доступные игроки
+tagMPGroup1=Группа 1
+tagMPGroup2=Группа 2
+tagMPGroup3=Группа 3
+tagMPNoClass=Нет
+tagMPInviteMessage={%t0} приглашает вас присоединиться к группе.
+tagMPInviteError={%t0} уже в группе.
+tagMPInviteSend=Игроку {%t0} было отправлено приглашение присоединиться к вашей группе.
+tagMPInviteRemove={%t0} был удалён из группы.
+tagMPMessageJoin={%t0} присоединился к вашей группе.
+tagMPMessageLeave={%t0} оставил вашу группу.
+tagMPMessageDeny={%t0} отклонил приглашение.
+tagMPMessageBan={%t0} забанен(а) в игре.
+tagMPMessageGameJoin={%t0} присоединился к игре. Уровень сложности был скорректирован для численности игроков.
+tagMPMessageGameLeave={%t0} вышел из игры.
+tagMPQuestionBan=Вы уверены, что хотите забанить {%t0}?
+tagMPInviteAccept=Принять
+tagMPInviteDeny=Отказать
+tagMPStats=Статистика игры:
+tagMPMapName=Название карты:
+tagMPServerName=Имя сервера:
+tagMPServerAddress=Адрес сервера:
+tagMPPing=Пинг:
+tagMPTime=Время игры:
+tagMPServer=Имя сервера: {%t0}
+tagMPIPAddress=IP: {%t0}
+tagMPPort=Порт: {%t0}
+tagMPErrorNoTarget=Этот игрок находится слишком далеко от цели.
+tagMPNameLevel={%t0} ({%d1})
+tagMPClass={%s0}
+tagMPLocation={%s0}
+tagMPLifeMana={^r}{%d0}/{%d1} {^g}{%d2}/{%d3}
+tagMPReport=Жалоба
+tagTradeError01={%t0} в настоящее время торгует с другим игроком.
+tagTradeError02={%t0} отверг ваш торговый запрос.
+tagTradeError03={%t0} предлагает поторговать
+tagTradeError04=Вам не хватает места в рюкзаке, чтобы завершить сделку.
+tagTradeButton01=Обменять
+tagTradeButton02=Отмена
+tagTradeDistance=Этот игрок слишком далеко для сделки.
+tagChatGroup=Группа
+tagChatAll=ВСЕ
+tagChatFriends=ДРУЗЬЯ
+tagChatReply=ОТВЕТ
+tagChatSpeak=Говорить с . . .
+tagChatError=Игроков с таким именем не найдено.
+tagChatMuted=У {%t0} выключен звук.
+tagChatUnmuted=У {%t0} звук включён.
+tagChatCommandShort01=p
+tagChatCommandShort02=a
+tagChatCommandShort03=r
+tagChatCommandShort04=t
+tagChatCommandShort05=m
+tagChatCommandShort06=u
+
+
+
+#Grim Internals
+tagGI_GrimInternals=Grim Internals v1.79
+tagGI_CombatAttributeType_PhysicalPierce={^K}Физическое пробитие
+tagGI_CombatAttributeType_Physical={^K}Физический
+tagGI_CombatAttributeType_PierceRatio={^R}Бронебойность
+tagGI_CombatAttributeType_Pierce={^R}Проникающий
+tagGI_CombatAttributeType_Cold={^C}Холод
+tagGI_CombatAttributeType_Fire={^O}Огонь
+tagGI_CombatAttributeType_Poison={^L}Кислота
+tagGI_CombatAttributeType_Lightning={^Z}Молния
+tagGI_CombatAttributeType_Life={^M}Урон здоровью
+tagGI_CombatAttributeType_Chaos={^P}Хаос
+tagGI_CombatAttributeType_Aether={^A}Эфир
+tagGI_CombatAttributeType_ManaBurn={^E}Сжигание энергии
+tagGI_CombatAttributeType_Disruption={^E}Блокировка умений
+tagGI_CombatAttributeType_PercentCurrentLife=Текущее здоровье %
+tagGI_CombatAttributeType_Bleeding={^R}Кровотечение
+tagGI_CombatAttributeType_TotalSpeed=Общая скорость
+tagGI_CombatAttributeType_AttackSpeed=Скорость атаки
+tagGI_CombatAttributeType_SpellCastSpeed=Скорость колдовства
+tagGI_CombatAttributeType_RunSpeed=Скорость бега
+tagGI_CombatAttributeType_LifeLeach={^E}Поглощение жизни
+tagGI_CombatAttributeType_ManaLeach={^E}Поглощение энергии
+tagGI_CombatAttributeType_OffensiveAbility=Навык атаки
+tagGI_CombatAttributeType_DefensiveAbility=Навык защиты
+tagGI_CombatAttributeType_OffensiveReduction=Снижение атаки
+tagGI_CombatAttributeType_DefensiveReduction=Снижение защиты
+tagGI_CombatAttributeType_Fumble=Неуклюжесть
+tagGI_CombatAttributeType_ProjectileFumble=Снижение меткости
+tagGI_CombatAttributeType_TotalDamageReductionPercent=снижение общего урона %
+tagGI_CombatAttributeType_TotalDamageReductionAbsolute=снижение общего урона
+tagGI_CombatAttributeType_PhysicalDamageReductionPercent=Снижение физического урона %
+tagGI_CombatAttributeType_ElementalDamageReductionPercent=Снижение стихийного урона %
+tagGI_CombatAttributeType_TotalResistanceReductionPercent=Снижение всех сопротивлений %
+tagGI_CombatAttributeType_TotalResistanceReductionAbsolute=Снижение всех сопротивлений
+tagGI_CombatAttributeType_PhysicalResistanceReductionPercent=Снижение сопротивления физическому урону %
+tagGI_CombatAttributeType_PhysicalResistanceReductionAbsolute=Снижение сопротивления физическому урону
+tagGI_CombatAttributeType_ElementalResistanceReductionPercent=Снижение сопротивления стихийному урону %
+tagGI_CombatAttributeType_ElementalResistanceReductionAbsolute=Снижение сопротивления стихийному урону
+tagGI_CombatAttributeType_AbsorptionProtection=Поглощение брони
+tagGI_CombatAttributeType_Absorption=Поглощение урона
+tagGI_CombatAttributeType_Protection=Защита
+tagGI_CombatAttributeType_ArmorRating=Рейтинг брони
+tagGI_CombatAttributeType_Stun=Оглушение
+tagGI_CombatAttributeType_Sleep=Сон
+tagGI_CombatAttributeType_Trap=Ловушка
+tagGI_CombatAttributeType_Freeze=Заморозка
+tagGI_CombatAttributeType_Petrify=Окаменение
+tagGI_CombatAttributeType_Immobilize=Обездвиживание
+tagGI_CombatAttributeType_Knockdown=Опрокидывание
+tagGI_CombatAttributeType_TakeHit=TakeHit
+tagGI_CombatAttributeType_Taunt=Провокация
+tagGI_CombatAttributeType_Convert=Конверсия
+tagGI_CombatAttributeType_Fear=Страх
+tagGI_CombatAttributeType_Confusion=Замешательство
+tagGI_CombatAttributeType_BlockModifier=Шанс блока
+tagGI_CombatAttributeType_BlockAmountModifier=Блокируемый урон
+tagGI_CombatAttributeType_Reflect=Отражение
+tagGI_CombatAttributeType_ElementalGroup=Стихийный урон
+tagGI_CombatAttributeType_TotalDamageModifier=Множитель общего урона
+tagGI_CombatAttributeType_CritDamageModifier=Множитель критического урона
+tagGI_CombatAttributeType_ManaBurnRatio=Урон сжиганием энергии
+tagGI_CombatAttributeType_Unknown=Неизвестно
+
+#These tags are new for v1.68
+#Grim Internals InfoBox Tags
+tagGI_InfoBox_Mem=Память
+tagGI_InfoBox_Kills=Убийств
+tagGI_InfoBox_Items=Предметов
+tagGI_InfoBox_IronBits=Железок
+tagGI_InfoBox_Exp=Опыта
+tagGI_InfoBox_ExpMin=Опыт/мин
+tagGI_InfoBox_ExpLevelUp=До уровня
+tagGI_InfoBox_DealtDPS=Урон/сек
+tagGI_InfoBox_Targets=Целей
+tagGI_InfoBox_IncomingDPS=Получаемый урон/сек
+tagGI_InfoBox_PetsDPS=Урон питомцев
+tagGI_InfoBox_HealthPotions=Целебный отвар
+tagGI_InfoBox_EnergyPotions=Эликсир духа
+tagGI_InfoBox_DebuffReductionPercent=% снижение
+tagGI_InfoBox_DebuffReductionAbsolut=Снижение
+tagGI_InfoBox_DebuffChanceToMiss=% шанс промаха
+tagGI_InfoBox_DebuffDPS=урон/сек
+tagGI_InfoBox_Close={^r}* Пожалуйста закройте конфигуратор! *
+tagGI_FloatingText_RareItemLooted=Получен редкий предмет
+
+#Grim Internals Cinematic Text Tags
+tagGI_CinematicDeathMsg1={^r}! Вы погибли !
+tagGI_CinematicDeathMsg2={^y} R. I. P.
+tagGI_CinematicDeathMsg3={^y} R. I. P. (Всего смертей: {%d})
+tagGI_CinematicInfoBoxEnabled={^y} Блок статистики включён!
+tagGI_CinematicInfoBoxDisabled={^y} Блок статистики отключён!
+tagGI_CinematicNemesisAlert={^y}!! НЕМЕЗИС, Тiкай !!
+tagGI_CinematicCantTeleport={^r}!! Телепортироваться нельзя !!
+
+#changes in v1.73
+tagGI_InfoBox_ItemsHidden={^r}* Добыча скрыта! (клавиша: {%c})
+
+#new in v1.73
+tagGI_CrucibleMap_Random=Карта Горнила (случайная)
+tagGI_QuickTeleportLocation=Местоположение телепорта
+tagGI_HeroDebuff=Дебафф героя:
+
+#new in v1.73c
+tagGI_QuickTeleportList=Список телепортов
+
+#new in v1.744
+tagGI_PrefixSearchDisabled=Поиск префиксов отключён!
+tagGI_SuffixSearchDisabled=Поиск суффиксов отключён!
+tagGI_CinematicPrefixFound={^y}Найден префикс!
+tagGI_CinematicSuffixFound={^y}Найден суффикс!
+tagGI_CinematicPrefixSuffixFound={^y}Найден префикс и суффикс!
+
+#new in v1.79
+tagGI_InfoBox_GameSpeed={^y}Скорость:
+
+#new in v1.90
+tagGI_CinematicIllusionAdded={^g}Добавлена новая иллюзия!
+tagHead_Halloween01=[fs]устрашающая шляпа ликвидации
+tagHead_Halloween01Desc={^r}"Не вздумай напялить это в ночь Хеллоуина!"
+tagHead_Halloween02=Специальная шапка 1
+tagByscillaShoulder=Подарочный покров Бисциллы
+tagHead_Mogdrogen01=Рога Могдрогена
+#Style
+tagStyle_Halloween01=[ms]заговорённый[fs]заговорённая
+tagStyle_Halloween02=[ms]проклятый[fs]проклятая
+tagRelicSkillCat=Призвать котейку
+tagRelicSkillCatDesc=Призовите котейку по имени 'GlockenGerda'. ^oМожно призвать только одну котейку одновременно.
+tagRelicCat=Котейка GlockenGerda
+tagRelicSkillBoris=Призвать Бориса "Хрен Попадёшь"
+tagRelicSkillBorisDesc=Призовите Бориса "Хрен Попадёшь" в качестве наёмника. ^oМожно призвавать только одного Бориса одновременно.
+tagRelicBoris=Борис "Хрен Попадёшь"
+
+#new in v1.99
+tagGI_CloudSavingWarning=ВНИМАНИЕ: ВКЛЮЧЕНЫ ОБЛАЧНЫЕ СОХРАНЕНИЯ!{^n}Пожалуйста отключите их в меню НАСТРОЕК{^n}для использования Grim Internals!
+
+#patch v1.2
+tagExclusiveSkillConflict=^rВы уже активировали более мощное эксклюзивное умение: {%s0}.
+tagAutoToggledSkill=^oУсиления активируются автоматически.
+CooldownCharges={^E}Максимум зарядов: {^H}{%d0}
+CooldownChargesMod=+{%d0} {^E}Максимум зарядов
+PotionCooldownCharges={^E}Максимум использований: {^H}{%d0}
+PotionCooldownChargesMod=+{%d0} {^E}максимум использований
+tagCharRunSpeedMaxModifier={%+.0f0}% {^E}Максимальной скорости бега
+tagCharSpellCastSpeedMaxModifier={%+.0f0}% {^E}Максимальной скорости колдовства
+tagCharAttackSpeedMaxModifier={%+.0f0}% {^E}Максимальной скорости атаки
+tagCharAttribute04MultModifier={^E}Здоровье изменяется на {^H}{%.0f0}%
+tagCharPercentHealIncreaseModifier={^E}Процентные эффекты лечения усилены на {^H}{%.0f0}%
+tagCharPercentHealIncreaseModifierR={^E}Процентные эффекты лечения усилены на {^H}{%.0f0}% - {%.0f1}%
+tagEvade=Уклонение
+DamageDurationDamageMult=% {^E}уязвимости
+DamageDurationModifierDamageMult={%+.0f0}% {^E}увеличения уязвимости
+tagDotDamageMutiplier=Уязвимость
+tagDurationDamageMultiplier={^E}Получаемый урон увеличивается на {^H}{%d0}%
+tagCharStatsPetTrapResist=Сопр-е обездвиж-ю
+tagCharStatsPetTrapResistInfo=Процентный бонус сопротивления обездвиживанию ваших питомцев и призванных существ.
+tagCharStatsPetPetrifyResist=Сопр-е окаменению
+tagCharStatsPetPetrifyResistInfo=Процентный бонус сопротивления окаменению ваших питомцев и призванных существ.
+tagCharStatsPetFreezeResist=Сопр-е заморозке
+tagCharStatsPetFreezeResistInfo=Процентный бонус сопротивления заморозке ваших питомцев и призванных существ.
+tagCharStatsPetSleepResist=Сопротивление сну
+tagCharStatsPetSleepResistInfo=Процентный бонус сопротивления сну ваших питомцев и призванных существ.
+tagCharStatsPetSlowResist=Сопр-е замедлению
+tagCharStatsPetSlowResistInfo=Процентный бонус сопротивления замедлению ваших питомцев и призванных существ.
+tagToggleUI=Показать/скрыть интерфейс
+tagCharStatsPetStunResist=Сопр-е оглушению
+tagCharStatsPetStunResistInfo=Процентный бонус сопротивления оглушению ваших питомцев и призванных существ.
+tagCharStatsPetCritDamage=Критический урон
+tagCharStatsPetCritDamageInfo=Процентный бонус к критическому урону ваших питомцев и призванных существ.
+tagCurrentLevelAugment=Текущий уровень : {%d0} + ^B{%d1}
+tagNextLevelAugment=Следующий уровень : {%d0} + ^B{%d1}
+tagCurrentLevelExcessAugment=Текущий уровень : {%d0} + ^R{%d1}
+tagNextLevelExcessAugment=Следующий уровень : {%d0} + ^R{%d1}
+tagCharStatsReflectResist=отражённому урону
+tagCharStatsReflectResistInfo=Сопротивление отражённым эффектам, наносящим урон.

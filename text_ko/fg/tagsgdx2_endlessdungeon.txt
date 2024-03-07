@@ -1,0 +1,235 @@
+#Region Names
+tagGDX2MapEndlessDungeon=조각난 차원
+tagGDX2MapEndlessBoss=조각난 수호자의 영역
+tagGDX2MapEndlessTreasure=조각난 차원의 화려한 유산
+
+#Shattered Bosses
+tagGDX2EndlessDungeon_Boss01=조각난 수호자, 교도소장 크리에프
+tagGDX2EndlessDungeon_Boss02=조각난 영혼, 다리우스 콘놀레이
+tagGDX2EndlessDungeon_Boss03=똑부러진 카리프
+tagGDX2EndlessDungeon_Boss03B=카리프의 영혼
+tagGDX2EndlessDungeon_Boss04=유골의 전위대, 에케트'잘
+tagGDX2EndlessDungeon_Boss05=조각난 조형사, 테오딘 마우린
+tagGDX2EndlessDungeon_Boss06=조각난 청지기
+tagGDX2EndlessDungeon_Boss07=조각난 사령관, 루시안
+tagGDX2EndlessDungeon_Boss08=조각난 집행자, 알카미르
+tagGDX2EndlessDungeon_Boss09=유골의 후예, 샤'잘
+tagGDX2EndlessDungeon_Boss10=조각난 심장, 가르가반
+tagGDX2EndlessDungeon_Boss11=조각난 센티넬
+tagGDX2EndlessDungeon_Boss12=조각난 추방당한 자
+tagGDX2EndlessDungeon_Boss13=조각난 칼날, 살라진
+tagGDX2EndlessDungeon_Boss14=조각난 조각자 히나스
+tagGDX2EndlessDungeon_Boss15=조각난 관문의 문지기
+tagGDX2EndlessDungeon_Boss16=배고픔의 현현
+tagGDX2EndlessDungeon_Boss16_Tentacle=굶주린 촉수
+tagGDX2EndlessDungeon_Boss16_Void=굶주린 공허
+
+tagGDX2EndlessDungeon_Special01=마인 사교 ~ 광신자
+tagGDX2EndlessDungeon_Special02=응시체 프라임
+tagGDX2EndlessDungeon_Special03=저주받은 자를 찾는 자
+tagGDX2EndlessDungeon_Special04=크레이트 오브 엔터테인먼트
+tagGDX2EndlessDungeon_Special05=겸손한 상자(Crate)
+tagGDX2EndlessDungeon_Special06=개발 중인 보스
+tagGDX2EndlessDungeon_Special07=지극히 평범한 특대형 구더기
+tagGDX2EndlessDungeon_Special07B=특대형 구더기
+tagGDX2EndlessDungeon_Special08=상자의 영혼
+tagGDX2EndlessDungeon_Special09=본블리치 낙타
+tagGDX2EndlessDungeon_Special10=본블리치 낙타 ~ 챔피언
+tagGDX2EndlessDungeon_Special11=본블리치 낙타 ~ 감시자
+tagGDX2EndlessDungeon_Special12=굶주린 구더기
+tagGDX2EndlessDungeon_Special13=흥분한 구더기
+tagGDX2EndlessDungeon_Special14=비대한 구더기
+tagGDX2EndlessDungeon_Special15=과식한 구더기
+tagGDX2EndlessDungeon_Special16=불안정한 탐식자
+tagGDX2EndlessDungeon_Special17=비대한 탐식자
+tagGDX2EndlessDungeon_Special18=갓태어난 배고픔
+
+tagGDX2EndlessDungeon_Lever01=빨간색 레버
+tagGDX2EndlessDungeon_Lever02=초록색 레버
+tagGDX2EndlessDungeon_Lever03=파란색 레버
+tagGDX2EndlessDungeon_Lever04=노란색 레버
+tagGDX2EndlessDungeon_Lever05=보라색 레버
+tagGDX2EndlessDungeon_Lever06=하얀색 레버
+tagGDX2EndlessDungeon_Door01=마법이 걸린 창살문
+tagGDX2EndlessDungeon_Door01_Lock= {^R} ~ 근처의 레버를 사용해야만 열 수 있음
+
+
+tagGDX2EndlessDungeon_Boss_Skill01=굶주린 존재
+tagGDX2EndlessDungeon_Boss_Skill01_Desc=굶주린 암흑이 당신을 끌어당겨, 당신의 체력을 감소시킨다.
+
+tagGDX2EndlessDungeon_Boss_Summon01=천상의 구더기
+tagGDX2EndlessDungeon_Boss_Summon02=굶주린 암흑
+tagGDX2EndlessDungeon_Boss_Summon02_Skill=굶주린 암흑
+tagGDX2EndlessDungeon_Boss_Summon02_Skill_Desc=무한한 암흑의 굶주린 냉기가 당신을 천천히...갉아 먹는다...
+
+tagGDX2EndlessDungeon_S201=완전 평범한 방패
+tagGDX2EndlessDungeon_S201_Desc="왼손잡이는 이해할 것이다."
+tagGDX2EndlessDungeon_S202={^L}본블리치 미늘창
+tagGDX2EndlessDungeon_S203={^I}리오바이너스의 반지
+tagGDX2EndlessDungeon_S203_Desc="이상할 정도로 매우 유연한 물질로 만들어져 보존상태가 뛰어난 반지. 장난감 같이 보인다."
+
+
+#NPCs
+tagGDX2EndlessDungeon_NPC_Event01=포탈 관리자, 마잔
+
+tagGDX2EndlessDungeon_NPC_Merchant01=얼래나
+tagGDX2EndlessDungeon_ StoreTitle_Merchant01=조각난 행상인
+tagGDX2EndlessDungeon_ StoreTitle_Merchant02=조각난 대지주
+tagGDX2EndlessDungeon_ StoreTitle_Merchant03=조각난 기사
+tagGDX2EndlessDungeon_ StoreTitle_Merchant04=조각난 메이든
+tagGDX2EndlessDungeon_ StoreTitle_Merchant05=조각난 수호자
+
+
+tagGDX2EndlessDungeon_NPC_Smith01=이카로드
+tagGDX2EndlessDungeon_StoreTitle_Smith01=저주받은 대장장이
+tagGDX2EndlessDungeon_StoreDesc_Smith01_1={}삶 너머의 선물
+tagGDX2EndlessDungeon_StoreDesc_Smith01_2=이카로드는 그의...독특한 존재 덕분에 수 세기에 걸친 대장장이의 경험이라는 선물을 받았습니다.
+tagGDX2EndlessDungeon_StoreDesc_Smith01_3= 
+tagGDX2EndlessDungeon_StoreDesc_Smith01_4=제작되는 무기, 방어구, 장신구들은 다음 중 한 가지의 특성을 부여받게 됩니다:
+
+tagGDX2EndlessDungeon_NPC_Smuggler01=애그나스
+tagGDX2EndlessDungeon_StoreTitle_Smuggler01=불멸의 밀수업자
+
+tagGDX2EndlessDungeon_NPC_Reallocator01=래디아
+tagGDX2EndlessDungeon_StoreTitle_Reallocator01=영혼 길잡이
+
+tagGDX2EndlessDungeon_NPC_Inventor01=레이두나
+tagGDX2EndlessDungeon_StoreTitle_Inventor01=조각난 발명가
+
+tagGDX2EndlessDungeon_NPC_PowerUps01=사막의 후예, 칼라가드라
+
+#Shrines
+tagGDX2EndlessDungeon_Shrine01=아즈라카의 성소
+tagGDX2EndlessDungeon_Shrine01_Desc=아즈라카와 계약을 맺어 이동 속도가 증가하고 공격할 때 적에게 유령의 칼날을 날린다.
+tagGDX2EndlessDungeon_Shrine01Skill=아즈라카와의 거래
+tagGDX2EndlessDungeon_Shrine01Skill_Desc=아즈라카와 거래를 하여 이동 속도가 증가하고 공격할 때 적에게 유령의 칼날을 날리게 되었다.
+tagGDX2EndlessDungeon_Shrine01SkillProc=유령의 칼날
+
+tagGDX2EndlessDungeon_Shrine02=올레론의 성소
+tagGDX2EndlessDungeon_Shrine02_Desc=스스로를 올레론의 피의 욕망으로 가득 채워 이동 속도가 증가하고 % 공격 능력이 크게 증가한다.
+tagGDX2EndlessDungeon_Shrine02Skill=올레론의 피의 욕망
+tagGDX2EndlessDungeon_Shrine02Skill_Desc=스스로를 올레론의 피의 욕망으로 가득 채워 이동 속도가 증가하고 % 공격 능력이 크게 증가했다.
+
+tagGDX2EndlessDungeon_Shrine03=라토쉬의 성소
+tagGDX2EndlessDungeon_Shrine03_Desc=장막의 수호자의 힘을 얻어 이동 속도가 증가하고 공격할 때 적의 생명력을 탈취한다.
+tagGDX2EndlessDungeon_Shrine03Skill=라토쉬의 장막
+tagGDX2EndlessDungeon_Shrine03Skill_Desc=장막의 힘을 얻어 이동 속도가 증가하고 공격할 때 적의 생명력을 탈취할 수 있게 되었다.
+tagGDX2EndlessDungeon_Shrine03SkillProc=생명력 탈취
+
+tagGDX2EndlessDungeon_Shrine04=아마톡의 성소
+tagGDX2EndlessDungeon_Shrine04_Desc=주변 공기에서 열기를 흡수하여 이동 속도가 증가하고 공격을 받을 때 가끔 냉기 폭발을 일으킨다.
+tagGDX2EndlessDungeon_Shrine04Skill=아마톡의 속삭임
+tagGDX2EndlessDungeon_Shrine04Skill_Desc=주변 공기에서 열기를 흡수하여 이동 속도가 증가하고 공격을 받을 때 가끔 냉기 폭발을 일으키게 되었다.
+tagGDX2EndlessDungeon_Shrine04SkillProc=냉기 폭발
+
+tagGDX2EndlessDungeon_Shrine05=죽음의 성소
+tagGDX2EndlessDungeon_Shrine05_Desc=죽음과 거래를 하여 이동 속도가 증가하고 무적 상태가 된다.
+tagGDX2EndlessDungeon_Shrine05Skill=필멸자의 열망
+tagGDX2EndlessDungeon_Shrine05Skill_Desc=죽음과 거래를 하여 이동 속도가 증가하고 무적 상태가 되었다.
+
+
+#Powerups
+tagGDX2EndlessDungeon_Powerup01=조각난 차원의 정수
+tagGDX2EndlessDungeon_Powerup01_Desc=조각난 차원의 영혼을 흡수하여 잠시동안 당신에게 막대한 힘과 단단함이 부여됩니다. ^o이 효과는 5번까지 쌓이고, 더 높은 조각의 차원에서는 더 많이 쌓입니다.
+tagGDX2EndlessDungeon_Powerup02_Desc=조각난 차원의 영혼을 흡수하여 잠시동안 당신에게 막대한 힘과 단단함이 부여됩니다. ^o이 효과는 8번까지 쌓이고, 더 높은 조각의 차원에서는 더 많이 쌓입니다.
+tagGDX2EndlessDungeon_Powerup03_Desc=조각난 차원의 영혼을 흡수하여 잠시동안 당신에게 막대한 힘과 단단함이 부여됩니다. ^o이 효과는 9번까지 쌓이고, 더 높은 조각의 차원에서는 더 많이 쌓입니다.
+tagGDX2EndlessDungeon_Powerup04_Desc=조각난 차원의 영혼을 흡수하여 잠시동안 당신에게 막대한 힘과 단단함이 부여됩니다. ^o이 효과는 10번까지 쌓입니다.
+
+
+#Items
+tagGDX2EndlessDungeon_Essence_01=조각난 영혼
+tagGDX2EndlessDungeon_Essence_02=거대한 조각난 영혼
+tagGDX2EndlessDungeon_Essence_03=천상의 조각난 영혼
+tagGDX2EndlessDungeon_Essence_04=압도적인 조각난 영혼
+
+tagGDX2EndlessDungeon_Key_01=조각난 웨이스톤
+tagGDX2EndlessDungeon_Key_01_Desc=한때 엄청난 가능성을 제공했었다. 이 웨이스톤을 사용하면, 마잔이 조각난 차원의 5부터 15조각까지 갈 수 있는 길을 열어준다.
+tagGDX2EndlessDungeon_Key_01_Blueprint=도안: 조각난 웨이스톤
+
+tagGDX2EndlessDungeon_Key_02=공명하는 웨이스톤
+tagGDX2EndlessDungeon_Key_02_Desc=이전에 가지고 있었던 힘으로 희미하게 빛난다. 이 웨이스톤을 사용하면, 마잔이 조각난 차원의 20부터 30조각까지 갈 수 있는 길을 열어준다.
+tagGDX2EndlessDungeon_Key_02_Blueprint=도안: 공명하는 웨이스톤
+
+tagGDX2EndlessDungeon_Key_03=유령의 웨이스톤
+tagGDX2EndlessDungeon_Key_03_Desc=죽은 자의 영혼이 주입되어 있다. 이 웨이스톤을 사용하면, 마잔이 조각난 차원의 35부터 45조각까지 갈 수 있는 길을 열어준다.
+tagGDX2EndlessDungeon_Key_03_Blueprint=도안: 유령의 웨이스톤
+
+tagGDX2EndlessDungeon_Key_04=신성모독의 웨이스톤
+tagGDX2EndlessDungeon_Key_04_Desc=더러운 피가 발라져 있다. 이 웨이스톤을 사용하면, 마잔이 조각난 차원의 50부터 60조각까지 갈 수 있는 길을 열어준다.
+tagGDX2EndlessDungeon_Key_04_Blueprint=도안: 신성모독의 웨이스톤
+
+tagGDX2EndlessDungeon_Key_05=천상의 웨이스톤
+tagGDX2EndlessDungeon_Key_05_Desc=완전히 복구되어 신성한 힘을 내뿜는다. 이 웨이스톤을 사용하면, 마잔이 조각난 차원의 65부터 75조각까지 갈 수 있는 길을 열어준다.^n^n심약자는 이 웨이스톤 사용을 권하지 않습니다.
+tagGDX2EndlessDungeon_Key_05_Blueprint=도안: 천상의 웨이스톤
+
+tagGDX2EndlessDungeon_Key_06=영원의 웨이스톤
+tagGDX2EndlessDungeon_Key_06_Desc=현실의 끈을 잡아당겨 주변 현실을 왜곡시키는 웨이스톤. 이 웨이스톤을 사용하면 마잔이 조각난 차원의 최소 80번째 조각을 넘어 최대 90번째 조각까지 가는 길을 열어준다.^n^n심약자는 이 웨이스톤의 사용을 금합니다.
+tagGDX2EndlessDungeon_Key_06_Blueprint=도안: 영원의 웨이스톤
+
+tagGDX2EndlessDungeon_Key_07=죽음의 웨이스톤
+tagGDX2EndlessDungeon_Key_07_Desc=죽음의 힘으로 더럽혀진 이 웨이스톤은 이제 보상은 없지만 정복의 영광이 기다리는 상상조차 할 수 없을 정도의 위험으로 나아가는 길을 열어준다. ^n^n이 웨이스톤을 사용하면 마잔이 조각난 차원의 최소 95번째 조각을 넘어 그 이상까지 가는 길을 열어준다. ^n^n심약자는 이 웨이스톤의 사용을 금합니다.
+tagGDX2EndlessDungeon_Key_07_Blueprint=도안: 죽음의 웨이스톤
+
+tagGDX2ItemTest={^F}여성용 응시체 겉옷
+tagGDX2ItemTestDesc="응시체 의류의 최고 작품."
+tagGDX2ItemTest2={^F}약간 재밌는 상자
+tagGDX2ItemTest2Desc="실제 일어난 일에 영감을 받아 만들어 짐."
+
+#Traps
+tagGDX2Trap_A01=서리의 탑
+tagGDX2Trap_A02=지옥의 탑
+tagGDX2Trap_A03=죽음의 탑
+tagGDX2Trap_A04=맹독의 탑
+tagGDX2Trap_A09=엘드리치의 탑
+
+tagGDX2Trap_A09_Skill01=엘드리치의 오라
+tagGDX2Trap_A09_Skill01_Desc=엘드리치의 탑 가까이에서는 순수한 엘드리치 에너지가 적에게 힘을 부여하고, 당신에게 데미지를 입힌다.
+
+
+#Notifications
+tagGDX2Notification_FloorActive=적에게서 조각난 영혼을 수집하십시오
+tagGDX2Notification_FloorFinished=다음 포탈로 진행하십시오
+tagGDX2Notification_BossActive=모든 적을 제거하십시오
+tagGDX2Notification_BossFinished=계속 진행하려면 마잔과 대화하십시오
+tagGDX2Notification_Reward=당신을 위한 보상이 다음 포탈 너머에서 기다리고 있습니다
+tagGDX2Notification_Reset=(옵션) 다시 도전하려면 삼신의 비밀회의장에 있는 마잔과 대화하십시오
+
+tagGDX2Notification_ArkovianPrison_01=근처에 창살문이 열린다!
+tagGDX2Notification_TreasureTrap_01=근처에 영혼이 나타난다!
+tagGDX2Notification_Special=무언가가 잘못된 것 같다...
+tagGDX2Notification_Special02=근처에 돌이 움직이는 소리가 들린다...
+
+
+#Doors
+tagGDX2EndlessDungeonEntrance=조각난 차원으로 향하는 포탈
+tagGDX2EndlessDungeonFloorEntrance=조각난 차원 포탈
+tagGDX2EndlessDungeonNextFloor=계속 진행
+tagGDX2EndlessDungeonTreasureRoom=불후의 재물로 향하는 포탈
+tagGDX2EndlessDungeonExit=조각난 차원에서 탈출
+
+
+#Rewards
+tagGDX2Item_ChestA01=여행자의 상자
+tagGDX2Item_ChestB01=챔피언의 상자
+tagGDX2Item_ChestC01=개선자의 상자
+tagGDX2Item_ChestD01=화려한 상자
+tagGDX2Item_ChestE01=영웅의 상자
+tagGDX2Item_ChestF01=용감한 자의 상자
+tagGDX2Item_ChestG01=성대함의 상자
+tagGDX2Item_ChestH01=최상의 상자
+tagGDX2Item_ChestI01=위대한 상자
+tagGDX2Item_ChestJ01=영광의 상자
+tagGDX2Item_ChestK01=초월의 상자
+tagGDX2Item_ChestL01=네메시스의 수집품
+tagGDX2Item_ChestM01=승천한 자의 수집품
+tagGDX2Item_ChestN01=엘드리치의 수집품
+tagGDX2Item_ChestO01=천상의 수집품
+tagGDX2Item_ChestP01=태고의 수집품
+tagGDX2Item_ChestQ01=불후의 수집품
+tagGDX2Item_ChestR01=저승의 수집함
+tagGDX2Item_ChestS01=반신반인의 수집함
+
+tagGDX2Item_SpecialChestA01=조각난 차원의 신비
+tagGDX2Item_SpecialChestA02=조각난 차원의 선물
+
+

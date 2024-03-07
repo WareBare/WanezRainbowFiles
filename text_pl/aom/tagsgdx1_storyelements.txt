@@ -1,0 +1,620 @@
+﻿#Region Names=
+
+tagGDX1MapDarkWood=Gloomwald
+tagGDX1MapUgdenbog=Ugdenbog
+tagGDX1MapUgdenbogVillage=Barrowholm
+tagGDX1MapUgdenbogCoven=Azyl Sabatu
+tagGDX1MapUgdenbogAltar=Ołtarz Rattosha
+tagGDX1MapUgdenbogAncient=Kryjówka Starożytnych
+
+tagGDX1MapMalmouthEntry=Samotna Straż
+tagGDX1MapMalmouthOutskirts=Mourndale
+tagGDX1MapMalmouthOutskirtsRuins=Peryferie Malmouth
+tagGDX1MapMalmouthOutskirtsMine=Kopalnia Jerrethon
+tagGDX1MapMalmouth=Malmouth
+tagGDX1MapUgdenbogSlums=Dzielnica Świec
+tagGDX1MapMalmouthIndustrial=Dzielnica Stalowej Pokrywy
+tagGDX1MapMalmouthInner=Korona Wzgórz
+tagGDX1MapMalmouthDocks=Port w Malmouth
+
+
+#Riftgate Names
+
+tagGDX1RiftGloomwaldEntrance=Szczelina w Gloomwald
+tagGDX1RiftGloomwaldRiverCrossing=Szczelina na Skrzyżowaniu w Gloomwald
+tagGDX1RiftUgdenbogCoven=Szczelina w Azylu Sabatu
+tagGDX1RiftUgdenbogCenter=Szczelina w Ugdenbog
+tagGDX1RiftUgdenbogVillage=Szczelina w Barrowholm
+tagGDX1RiftMalmouthAetherfire=Szczelina w Samotnej Straży
+tagGDX1RiftMalmouthOutskirts=Szczelina na Peryferiach Malmouth
+tagGDX1RiftMalmouthIndustrial=Szczelina w Dzielnicy Stalowej Pokrywy
+tagGDX1RiftMalmouthInner=Szczelina w Koronie Wzgórz
+tagGDX1RiftMalmouthSewers=Szczelina w Kanałach Malmouth
+
+#World Map Labels
+
+tagGDX1WorldMapGloomwald=Gloomwald
+tagGDX1WorldMapUgdenbog=Ugdenbog
+tagGDX1WorldMapUgdenbogVillage=Barrowholm
+tagGDX1WorldMapUgdenbogCoven=Azyl{^n} Sabatu
+
+tagGDX1WorldMapMalmouthOutskirts=Mourndale
+tagGDX1WorldMapMalmouthOutskirtsRuins=Peryferie{^n} Malmouth
+tagGDX1WorldMapMalmouthMine=Kopalnia{^n}Jerrethon
+tagGDX1WorldMapMalmouthEntry=Samotna Straż
+tagGDX1WorldMapMalmouth=Malmouth
+tagGDX1WorldMapMalmouthSlums=Dzielnica{^n}Świec
+tagGDX1WorldMapMalmouthIndustrial=Dzielnica{^n}Stalowej Pokrywy
+tagGDX1WorldMapMalmouthInner=Korona{^n}Wzgórz
+tagGDX1WorldMapMalmouthDocks=Port{^n}Malmouth
+tagGDX1WorldMapMalmouthFactory=Wytwórnia Ciał
+
+tagGDX1WorldMapBeastRoguelike=Pradawny{^n}Gaj
+
+
+
+#Underground Names
+
+tagGDX1UGUgdenbogMine01=Kopalnie Barrowholm
+tagGDX1UGUgdenbogCave01=Legowisko Janaxii
+tagGDX1UGUgdenbogCave02=Legowisko Larrii
+tagGDX1UGUgdenbogCave03=Runo Leśne
+tagGDX1UGUgdenbogCave04=Grobowiec Ugdalla
+tagGDX1UGUgdenbogCave05=Legowisko Carraxusa
+tagGDX1UGUgdenbogCellar01=Powiększona Piwnica
+tagGDX1UGUgdenbogCellar02=Waląca się Piwnica
+tagGDX1UGUgdenbogWendigo01=Opuszczona Piwnica
+tagGDX1UGUgdenbogWendigo02=Leże Wendigo
+tagGDX1UGUgdenbogVoidRift01=Odludne Pustkowia
+tagGDX1UGUgdenbogVoidRift02=Spopielone Pustkowia
+tagGDX1UGUgdenbogVoidRift03=Krawędź Pustki
+tagGDX1UGUgdenbogVoidRift04=Skraj Normalności
+
+tagGDX1UGMalmouthSewer01=Kanały Malmouth
+tagGDX1UGMalmouthSewer02=Nabrzmiałe Głębiny
+tagGDX1UGMalmouthHideout01=Kryjówka w Kanałach
+tagGDX1UGMalmouthHideout02=Kryjówka Ruchu Oporu Malmouth
+tagGDX1UGMalmouthOutskirtsCellar01=Płonąca Piwnica
+tagGDX1UGMalmouthAetherialFactory01=Infestacja
+tagGDX1UGMalmouthAetherialFactory02=Pracownia Ciał
+tagGDX1UGMalmouthAetherialFactory03=Menażeria Ciał
+tagGDX1UGMalmouthAetherialFactory04=Macica
+tagGDX1UGMalmouthAetherialFactory05=Sanktuarium Ciał
+tagGDX1UGMalmouthCathedral01=Grobowiec Herolda Mathisa
+tagGDX1UGMalmouthCathedral01B=Kryjówka Ivondy
+tagGDX1UGMalmouthLighthouse01=Splądrowana Latarnia Morska
+tagGDX1UGMalmouthFort01=Komnata Wysokiej Rady
+
+tagGDX1UGAncientGrove01=Pradawny Gaj
+tagGDX1UGAncientGrove01A=Feralna Gęstwina
+tagGDX1UGAncientGrove01B=Skażone Drewno
+tagGDX1UGAncientGrove01C=Serce Lasu
+tagGDX1UGAncientGrove01D=Próba Zepsucia
+
+tagGDX1UGSecret01=Sanktuarium Wybranych
+tagGDX1UGSecret02=Tygiel Śmierci
+
+#Signs
+
+tagGDX1Sign_DarkWoodRoad=Cierniowe Wybrzeże
+tagGDX1Sign_UgenbogVillage=Barrowholm
+tagGDX1Sign_UgenbogMine=Kopalnia Barrowholm
+tagGDX1Sign_Malmouth=Malmouth
+tagGDX1Sign_MalmouthSlums=Dzielnica Świec
+tagGDX1Sign_MalmouthIndustrial=Dzielnica Stalowej Pokrywy
+tagGDX1Sign_MalmouthInner=Korona Wzgórz
+tagGDX1Sign_MalmouthDocks=Port w Malmouth
+
+tagGDX1Gravestone_DC01=Tu spoczywa: Sahdina
+tagGDX1Gravestone_DC02=Tu spoczywa: Harmond
+tagGDX1Gravestone_DC03=Tu spoczywa: Rook
+tagGDX1Gravestone_DC04=Tu spoczywa: Kerrick
+
+#Points of Interest
+
+tagGDX1POICarraxusDenA=Wejście do Legowiska Carraxusa
+tagGDX1POICarraxusDenB=Wyjście z Legowiska Carraxusa
+
+tagGDX1POIBarrowholm=Barrowholm
+
+tagGDX1POIAbandonedMineA=Wejście do Kopalni Barrowholm
+tagGDX1POIAbandonedMineB=Wyjście z Kopalni Barrowholm
+
+tagGDX1POIBarrowholmCellarA=Wejście do Piwnic Barrowholm
+tagGDX1POIBarrowholmCellarB=Wejście z Piwnic Barrowholm
+
+tagGDX1POIWendigoCaveA=Wejście do Leża Wendigo
+tagGDX1POIWendigoCaveB=Wyjście z Leża Wendigo
+
+tagGDX1POIJanaxiaDenA=Wejście do legowiska Janaxii
+tagGDX1POIJanaxiaDenB=Wyjście z legowiska Janaxii
+
+tagGDX1POILarriaDenA=Wejście do legowiska Larrii
+tagGDX1POILarriaDenB=Wyjście z legowiska Larrii
+
+tagGDX1POITheUndergrowthA=Wejście w Leśne Runo
+tagGDX1POITheUndergrowthB=Wyjście z Leśnego Runa
+
+
+tagGDX1POI001A=Wejście
+tagGDX1POI001B=Wyjście
+
+tagGDX1POIFloodedPassageA=Wejście do Zatopionego Przejścia
+tagGDX1POIFloodedPassageB=Wyjście z Zatopionego Przejścia
+
+tagGDX1POI_BeastRoguelike01A=Wejście do Pradawnego Gaju
+tagGDX1POI_BeastRoguelike01B=Wyjście z Pradawnego Gaju
+tagGDX1POI_BeastRoguelike02A=Wejście do Feralnej Gęstwiny
+tagGDX1POI_BeastRoguelike02B=Wyjście z Feralnej Gęstwiny
+tagGDX1POI_BeastRoguelike03A=Wejście Skażonego Drewna
+tagGDX1POI_BeastRoguelike03B=Wyjście ze Skażonego Drewna
+tagGDX1POI_BeastRoguelike04A=Wejście do Serca Lasu
+tagGDX1POI_BeastRoguelike04B=Wyjście z Serca Lasu
+tagGDX1POI_VoidExit=Wyjście z Pustki
+
+tagGDX1POI_CandleDistrictEntrance=Dzielnica Świec
+tagGDX1POI_CandleDistrictExit=Kryjówka Ruchu Oporu
+tagGDX1POI_CrownHillRiftgate=Szczelina Korony Wzgórz
+tagGDX1POI_FactoryEntrance=Wejście do Fabryki
+tagGDX1POI_FactoryExit=Wyjście z Fabryki
+tagGDX1POI_FactoryHeartEntrance=Wejście do Sanktuarium Ciał
+tagGDX1POI_FactoryHeartExit=Wyjście z Sanktuarium Ciał
+tagGDX1POI_GatesOfMalmouth=Bramy Malmouth
+tagGDX1POI_MalmouthDocks=Doki Blackiron
+tagGDX1POI_MalmouthDocksEntrance=Wejście do Doków Blackiron
+tagGDX1POI_MalmouthDoor=Drzwi Blackironu
+tagGDX1POI_MQSewersEntrance=Wejście do kanałów Malmouth
+tagGDX1POI_MQSewersExit=Wyjście z kanałów Malmouth
+tagGDX1POI_ResistanceBase=Przyczółek Ruchu Oporu
+tagGDX1POI_ResistanceHideout=Kryjówka Ruchu Oporu
+tagGDX1POI_SteelcapDistrictEntrance=Dzielnica Stalowej Pokrywy
+tagGDX1POI_SteelcapDistrictExit=Przyczółek Ruchu Oporu
+tagGDX1POI_FleshwrappedEnclaveEntrance=Wejście do Komnaty Wysokiej Rady
+tagGDX1POI_FleshwrappedEnclaveExit=Wyjście z Komnaty Wysokiej Rady
+tagGDX1POI_TheWomb=Macica
+tagGDX1POI_BridgeLever=Sterowanie Mostu w Malmouth
+
+
+
+
+#Notifications
+
+tagNotification_AreaE_Barrowholm_Clue01=Słyszysz niepokojące odgłosy z piwnicy...
+tagNotification_AreaE_Barrowholm_Clue02=Barrowholm z pewnością ma kolorową historię...
+tagNotification_AreaE_Barrowholm_Clue03=Coś jest nie tak z tym przepisem...
+tagNotification_AreaE_Barrowholm_CellarOpen=Klucz Scorva zdaje się pasować do drzwi tej piwnicy...
+
+tagNotification_AreaF_OuterBridgeRiftgateEvent=Ta szczelina roi się od Aetherialnych.
+tagNotification_AreaF_OuterBridgeRiftGateEventClear=Szczelina oczyszczona z wrogów.
+tagNotification_AreaF_RebelBaseRiftgateEvent=Baza Ruchu Oporu jest kontrolowana przez Aetherialnych.
+tagNotification_AreaF_RebelBaseRiftgateEventClear=Udało ci się oczyścić bazę wroga.
+tagNotification_AreaF_LiberateRebels01Found=Grupa więźniów wzywa o pomoc.
+tagNotification_AreaF_LiberateRebels02Found=Ktoś nieopodal błaga o pomoc.
+tagNotification_AreaF_EmberCrags=Udało Ci się uciec z Pustki i dostać do peryferii Malmouth!
+tagNotification_AreaF_MadRamblingsDoorOpened=W tle słychać odgłos przesuwających się kamieni...
+tagNotification_AreaF_CantLeaveThem=Niestety jest zbyt późno by uratować tych ludzi...
+tagNotification_AreaF_CantLeaveThemNoQuest=Wszystkie krzywdy wyrządzone tym ludziom... to przykre...
+tagNotification_AreaF_DocksRiftgateEvent=Doki Blackiron są oblężone.
+tagNotification_AreaF_DocksEventFinished=Aetherialni w Dokach Blackiron zostali zgładzeni!
+
+tagNotification_WarningAncientGroveGates=Droga do Pradawnego Gaju stoi otworem. Pospiesz się, gdyż nie pozostanie otwarte na długo...
+tagNotification_WarningAncientGroveGatesLocked=Wejście do Pradawnego Gaju jest zapieczętowane i nie otworzysz go w tej sesji gry.
+tagNotification_WarningAncientGroveChallenge=Zepsucie odpuściło!
+
+tagNotification_WarningAreaFSecret01=Mała pamiątka po Sahdinie, która wytrwała pośród tej rzeźni...
+
+#NPC Names
+
+tagGDX1NPC_AreaE_01=Garradia
+tagGDX1NPC_AreaE_02=Matrona Malostria
+tagGDX1NPC_AreaE_03=Jasnowidz Rugia
+tagGDX1NPC_AreaE_04=Scorv Egdenor
+tagGDX1NPC_AreaE_05=Tyvald Hallows
+tagGDX1NPC_AreaE_06=Niszczyciel
+tagGDX1NPC_AreaE_07=Ugdall
+tagGDX1NPC_AreaE_08=Nimia z Bractwa Krwi
+tagGDX1NPC_AreaE_09=Jordyth Evelline
+tagGDX1NPC_AreaE_10=Aurin Evelline
+tagGDX1NPC_AreaE_11=Bowen Ostarg
+tagGDX1NPC_AreaE_12=Leora Karns
+tagGDX1NPC_AreaE_13=Larria
+tagGDX1NPC_AreaE_14=Amala Torven
+tagGDX1NPC_AreaE_15=Garett Torven
+tagGDX1NPC_AreaE_16=Thomas
+tagGDX1NPC_AreaE_17=Nathan
+tagGDX1NPC_AreaE_18=Maurene
+tagGDX1NPC_AreaE_19=Aeyla
+tagGDX1NPC_AreaE_20=Annaria
+tagGDX1NPC_AreaE_21=Nuralla
+tagGDX1NPC_AreaE_22=Aetherialna Bariera
+tagGDX1NPC_AreaE_23=Ołtarz Rattosha
+tagGDX1NPC_AreaE_24=Rodrig z Bractwa Krwi
+tagGDX1NPC_AreaE_25=Naea z Bractwa Krwi
+tagGDX1NPC_AreaE_26=Nidalia
+tagGDX1NPC_AreaE_27=Sierżant Havos
+tagGDX1NPC_AreaE_28=Opiekun Syndia
+
+tagGDX1WitchWard=Ochronny Totem
+
+tagGDX1NPC_AreaF_01=Korinia
+tagGDX1NPC_AreaF_02=Kapitan Wilfor
+tagGDX1NPC_AreaF_03=Ivonda
+tagGDX1NPC_AreaF_04=Rivia Hol
+tagGDX1NPC_AreaF_05=Allostria
+tagGDX1NPC_AreaF_06=Nadia
+tagGDX1NPC_AreaF_07=Rena
+tagGDX1NPC_AreaF_08=Hyram
+tagGDX1NPC_AreaF_09=Markus
+tagGDX1NPC_AreaF_10=Farron
+tagGDX1NPC_AreaF_11=Kaylon
+tagGDX1NPC_AreaF_12=Dziwne Skupisko Kryształów
+tagGDX1NPC_AreaF_13=Porzucona Broń
+tagGDX1NPC_AreaF_14=Porzucone Magiczne Zasoby
+tagGDX1NPC_AreaF_15=Karna
+tagGDX1NPC_AreaF_16=Nella
+tagGDX1NPC_AreaF_17=Garrund
+tagGDX1NPC_AreaF_18=Henry
+tagGDX1NPC_AreaF_19=Ginny
+tagGDX1NPC_AreaF_20=Eraline
+tagGDX1NPC_AreaF_21=Thad
+tagGDX1NPC_AreaF_22=Zniszczenie Macicy
+tagGDX1NPC_AreaF_23=Nicoh Erin
+tagGDX1NPC_AreaF_24=Nissa
+tagGDX1NPC_AreaF_25=Timor
+tagGDX1NPC_AreaF_26=Rictor Clarke
+tagGDX1NPC_AreaF_27=Vivian Neven
+
+tagNPC_UgdenbogBridge=Miejsce naprawy przeprawy w Ugdenbog
+
+tagGDX1_NPC_S=Lokarr
+tagGDX1_NPC_S_H=(S) {^F}Spojrzenie Lokarra
+tagGDX1_NPC_S_S=(S) {^F}Płaszcz Lokarra
+tagGDX1_NPC_S_T=(S) {^F}Marynarka Lokarra
+tagGDX1_NPC_S_F=(S) {^F}Buty Lokarra
+tagGDX1_NPC_S_Set=Łupy Lokarra
+tagGDX1_NPC_S_SetDesc="Zdobyte w krwawej walce ozdoby półboga."
+
+
+#Flavor NPC Names
+
+tagGDX1NPC_Flavor_AreaE_01=Callia
+tagGDX1NPC_Flavor_AreaE_02=Ralkama
+tagGDX1NPC_Flavor_AreaE_03=Wuulavia
+tagGDX1NPC_Flavor_AreaE_04=Hastria
+tagGDX1NPC_Flavor_AreaE_05=Lagarria
+tagGDX1NPC_Flavor_AreaE_06=Andros
+tagGDX1NPC_Flavor_AreaE_07=Ivok
+tagGDX1NPC_Flavor_AreaE_08=Terise
+tagGDX1NPC_Flavor_AreaE_09=Arina
+tagGDX1NPC_Flavor_AreaE_10=Kalive
+tagGDX1NPC_Flavor_AreaE_11=Markon
+tagGDX1NPC_Flavor_AreaE_12=Sherna Stol
+
+tagGDX1NPC_Flavor_AreaF_01=Markiv
+tagGDX1NPC_Flavor_AreaF_02=Orlon
+tagGDX1NPC_Flavor_AreaF_03=Hagarond
+tagGDX1NPC_Flavor_AreaF_04=
+tagGDX1NPC_Flavor_AreaF_05=
+tagGDX1NPC_Flavor_AreaF_06=
+
+
+#Quest Items
+
+tagQuestItemCovenTribute=Serce Carraxusa
+tagQuestItemCovenTributeDesc="Przedziwnie ukształtowane serce ogromnego skorupiaka. Cuchnie wodorostami."
+
+tagQuestItemCovenRitual=Fetysz Ugdenbog
+tagQuestItemCovenRitualDesc="Ten fetysz wydaje się być uszkodzony, pewnie przez nieumiejętne używanie, ale to właśnie jego poszukiwała Garradia."
+
+tagQuestItemInquisitorsRune=Wisior Creeda
+tagQuestItemInquisitorsRuneDesc="Prosty wisior z centralnie umieszczoną ozdobną runą, no przynajmniej na pierwszy rzut oka. Wciąż jednak emanuje energią."
+
+tagGDX1QuestItemUlgrimHeirloom=Pamiątka po Ulgrimie
+tagGDX1QuestItemUlgrimHeirloom_Desc="Raczej zwyczajny obiekt, biorąc pod uwagę całe zamieszanie. Inkwizytor Creed ma nadzieję odnaleźć za jego pomocą miejsce pobytu Ulgrima."
+tagGDX1QuestItemUlgrimHeirloom02=Pamiątka po Ulgrimie
+tagGDX1QuestItemUlgrimHeirloom02_Desc="Naznaczona magią Sabatu, powinna, miejmy nadzieję, otworzyć drogę do Ulgrima."
+
+tagGDX1QuestItemCellarKey_Name=Klucz do Piwnicy w Barrowholm
+tagGDX1QuestItemCellarKey_Desc="Zwyczajny, kuty klucz. Wygląda jednak na znacznie starszy i bardziej zużyty nić wszystko w Barrowholm."
+
+
+
+tagGDX1QuestItemCovenMaterial_01=Kwaśno-Żrący Jad
+tagGDX1QuestItemCovenMaterial_01_Desc="Śmierdzi gorzej niż wygląda."
+tagGDX1QuestItemCovenMaterial_02=Róg Lifmejna Alfa
+tagGDX1QuestItemCovenMaterial_02_Desc="Nietknięty, poza tymi głębokimi zadrapaniami, z pewnością powstałymi podczas rywalizacji o status samca alfa."
+
+tagGDX1QuestItemWendigoHeart_01=Serce Handarrotha
+tagGDX1QuestItemWendigoHeart_01_Desc="Rozbrzmiewające bicie serca niesie w sobie melodię nawet po śmierci."
+tagGDX1QuestItemWendigoHeart_02=Serce Olliviotha
+tagGDX1QuestItemWendigoHeart_02_Desc="Rozbrzmiewające bicie serca niesie w sobie melodię nawet po śmierci."
+tagGDX1QuestItemWendigoHeart_03=Serce Yuvollotha
+tagGDX1QuestItemWendigoHeart_03_Desc="Rozbrzmiewające bicie serca niesie w sobie melodię nawet po śmierci."
+
+tagGDX1QuestItemDravisClue_01=List Dravisa
+tagGDX1QuestItemDravisClue_01_Desc=Droga Siostro,{^n}ponownie nie mogę znaleźć słów. Dlaczego odrzuciłaś swoją własną krew? Dlaczego porzuciłaś swego brata, który jest tak blisko prawdy?{^n}{^n}Teraz to bez znaczenia, zamierzam wyrwać to z ostatniego tchnienia naszego ojca z tobą, czy bez ciebie. Jeśli to czytasz, to znaczy, że znowu jesteś zbyt późno, a ja udałem się tam gdzie nie ośmiela się śmierć, gdzie krew żywych złączyła się z mistrzem. Czas na dołączenie do mnie minął Dailo. Zawróć, nie możesz podążać do miejsca, do którego się udaję...{^n}Dravis
+
+tagGDX1QuestItemDravisClue_02=Ofiara Dravisa
+tagGDX1QuestItemDravisClue_02_Desc="Do tego kwiatu dołączona jest notka: Kolczasty kwiat, dla kolczastej kobiety. - D"
+
+tagGDX1QuestItemMadRamblings_01=Pamięć Ivondy
+tagGDX1QuestItemMadRamblings_01_Desc="Dziennik jest pełny błędów i przeinaczeń, ale niektóre fragmenty są dość zastanawiające, jeśli tylko można by wychwycić z nich jakikolwiek sens."
+
+tagQuestItemRebelBomb=Bomba Ruchu Oporu
+tagQuestItemRebelBombDesc="Improwizowany materiał wybuchowy. Nie wygląda na dość potężny, by wykonać zadanie."
+tagQuestItemCreedsAdditive=Dodatek Creeda
+tagQuestItemCreedsAdditiveDesc="Ziemista mikstura o mdłym zapachu. Inkwizytor Creed twierdzi, że to znacząco wzmocni materiały wybuchowe ruchu oporu."
+
+
+#Journals
+
+tagGDX1LoreObj_InquisitorCreedA09Name=Dziennik Inkwizytora Creeda - Wpis #9
+tagGDX1LoreObj_InquisitorCreedA09codexTitle=Dziennik Inkwizytora Creeda - Wpis #9
+tagGDX1LoreObj_InquisitorCreedA09Text=Z pomocą Przejętego, zadaliśmy poważny cios Kultowi Ch'thona. Nie chcę umniejszać wagi tego tryumfu, zwłaszcza biorąc pod uwagę ograniczone zasoby, którymi dysponowaliśmy, ale sądzę, że zapłaciliśmy wysoką cenę. Dodatkowo podczas gdy nasze wysiłki były skupione na Loghorreanie, Aetherialni z pewnością nie próżnowali.{^n}{^n}Wielu w Diabelskiej Przełęczy zapłaciło najwyższą cenę, ale tak to już jest na wojnie i może to zabrzmieć bezdusznie, ale wydaje mi się, że to był dobry interes. Stracić tylko garstkę, uniemożliwiając ucieczkę temu monstrum z Pustki, który mógł być zwiastunem końca świata jaki znamy, to i tak zwycięstwo ludzkości.{^n}{^n}Co jednak mnie martwi, to strata Ulgrima w Pustce. Bourbon widocznie nie podziela moich wątpliwości i sądzę, że widzi to jako mój osobisty sentyment. Bourbon widzi Ulgrima jako po prostu człowieka, ale jestem pewny, że jest w nim coś więcej. Wierzę, że został on zstępującym, kimś w rodzaju pół-boga.{^n}{^n}Ulgrim doskonale gra rolę zabawnego i bezpretensjonalnego gościa, ale jego oczy zdradzają coś więcej.  Podaje historyczne fakty z takimi szczegółami, jak ktoś kto osobiście brał w nich udział. Pomimo całej jego figlarności, jest w nim powaga i z pewności widział dużo, ale sądzę, że to trochę zbyt wiele na doświadczenia jednego śmiertelnika.{^n}{^n}Dodatkowo, pomimo tego, że sam w oczywisty sposób próbuje umniejszać swoją rolę, Ulgrim posiada nadzwyczajną siłę fizyczną i energię jak na kogoś w zdawałoby się średnim wieku. Często zachowuje się w sposób zwyczajny i zrelaksowany, poruszając się ociężale, ale w rzadkich chwilach, zdarzało mi się obserwować jego reakcje i poruszanie się z niemożliwą prędkością.{^n}{^n}Mam przeczucie, że mógł zrobić więcej niż zrobił w starciu z wrogami człowieka, ale nie jestem pewny dlaczego się powstrzymywał. Pewnie nigdy się nie dowiemy. Może Bourbon ma rację, być może Ulgrim przepadł w Pustce. Jednocześnie w jakiś sposób wiem, że ponownie go zobaczymy, a jeśli tak będzie, to będziemy musieli przejść długą drogę zanim potwierdzimy moje przypuszczenia.{^n}{^n}A poza tym, dziwne to czasy, w których bezimienny nieszczęśnik, odcięty ze stryczka, wyrósł na prawdopodobnie największego bohatera naszych czasów. {^n}{^n}Jeśli tak dalej pójdzie i jeśli tylko ten Przejęty człowiek przeżyje tę wojnę, to prawdopodobnie też wejdzie na ścieżkę zostania pół-bogiem.
+
+tagGDX1LoreObj_InquisitorCreedA10Name=Dziennik Inkwizytora Creeda - Wpis #10
+tagGDX1LoreObj_InquisitorCreedA10codexTitle=Dziennik Inkwizytora Creeda - Wpis #10
+tagGDX1LoreObj_InquisitorCreedA10Text=Bezimienny wytyczył ścieżkę z Burrwitch przez Gloomwald I ponownie wkroczył do samej Pustki, by spotkać się z nikim innym jak Ulgrimem. Jest mi ciężko znaleźć obecnie argumenty przeciwko idei, że Ulgrim rzeczywiście jest legendą i nieśmiertelnym zstępującym.{^n}{^n}Podczas gdy jestem bardzo szczęśliwy, że mamy takiego potężnego sprzymierzeńca w tej wojnie, jednocześnie nie mogę pozbyć się pewnego podenerwowania, gdy przebywam w jego obecności. Patrząc na Ulgrima i ostatnie plotki o Mogdrogenie, zastanawiam się, czy inne bóstwa mogły również mieszać się do rozgrywek na tym świecie. Podobno bywało tak powszechnie w zamierzchłych czasach.{^n}{^n}To prowadzi moje myśli do przedłużającej się tajemnicy Kymona. Wydaje się oczywiste, że on wraz ze swoimi towarzyszami, czerpie moc z jakiejś boskiej mocy, ale od kogo lub od czego? Wątpię w to co opowiada Kymon, że to Empyrion go prowadzi, jak od twierdził od samego początku. Moc którą wyczułem w wysłanniku Kymona w Gospodarstwach, była jakaś taka... złowroga.{^n}{^n}Kymon był niegdyś bratem inkwizytorem, ale lata przed ponurym świtem zaczął działać na własną rękę. Z pewnością nie jest aetherialnym, ale obawiam się, że zawiązał jakiś mroczny pakt z nieznaną siłą. Na pewno nie z Empyrionem, wysokim bogiem z legend, powracającym do Cairn, bo taka moc byłaby odczuwalna na większą skalę i wyrażała się nie tylko w zwykłym fanatyku przewodzącym grupie włóczęgów.{^n}{^n}Niemniej jednak, jakakolwiek istota stoi za Wybrańcami Kymona, z pewnością posiada znaczącą moc i martwi mnie, że nie znam jej tożsamości ani motywacji.
+
+#AreaE Notes
+#Barrowholm_01
+tagGDX1LoreObj_AreaE_Barrowholm_A01Name=Co skrywa przyszłość?
+tagGDX1LoreObj_AreaE_Barrowholm_A01Text=W tych ciężkich czasach często oddaję się modlitwie. Mój umysł wypełnia się pytaniami, na które nie ma odpowiedzi. A jeśli nawet istnieją, czy naprawdę moglibyśmy je poznać?{^n}{^n}Bogowie działają w tajemniczy sposób. Nasz patron daje i odbiera, ale wierzę, że jest hojny dla tych, którzy mu służą pomimo wątpliwości. Rozumiem teraz potrzebę naszego istnienia i to, że nasze wybory niosą konsekwencję, a my musimy pochylać głowy na znak szacunku dla tego wszystkiego co zostało nam dane.{^n}{^n}Nie możemy nigdy o nim zapomnieć, bo bylibyśmy niczym. Nasze domy zostałyby zalane przez wody tych bagien, a nasi ludzie pożarci przez wendigo, którzy popadli w szaleństwo. Musimy brać z nich przykład. Z nieposłuszeństwa rodzi się śmierć i musimy pozostawać stanowczy w naszym poświęceniu. 
+
+#Barrowholm_02
+tagGDX1LoreObj_AreaE_Barrowholm_A02Name=Przepis kulinarny Auriny
+tagGDX1LoreObj_AreaE_Barrowholm_A02Text=Porządny kawał mięsa, to rzadki widok w tych czasach, więc najważniejsze jest, by traktować każdą okazję do pożywienia się na świeżej ofierze z wielkim szacunkiem. Pomimo, ze kawałki z naszych ostatnich zdobyczy są trochę twarde i chude, to nie są całkowicie bezużyteczne. Smakują jak świeżo ubity jeleń. Początkowo smak przyprawiał mnie o delikatne mdłości, ale z czasem spodobały mi się jego delikatne posmaki i niuanse.{^n}{^n}Jako ulubienica Scorva w naszej grupie, generalnie mam pierwszeństwo w wybieraniu najlepszych fragmentów, więc zawsze z dużym entuzjazmem wybieram siekane porcje z nóg i górnych części ramion. Zalecam pozostawianie kości, bo to w zasadzie zatrzymuje smak i sprawia, że mięso po przygotowaniu jest soczyste. Dodatkowo, z moich ostatnich eksperymentów kulinarnych wynika, że najlepiej skracać czas gotowania, wtedy kąski są najsmaczniejsze.{^n}{^n}Dodanie drobno posiekanej czarnej cebuli i delikatne posypanie ziołami z Withmire tego mięsa, sprawia, że wciąż jeszcze krwiste kawałki są wspaniałym doświadczeniem dla podniebienia i wzbudzają zazdrość wszystkich w Barrowholm. Najistotniejszym trikiem jest przysmażenie kawałków na zewnątrz, tak by zatrzymać zgromadzone we wnętrzu soki.{^n}{^n}Scorv powiedział, że moje specjały mogłyby zaspokoić nawet niszczycielski głód, ale wiem, że mówi tak tylko by podtrzymać nas na duchu. Nie zasługuję na takie pochwały.{^n}-Aurin Evelline
+
+#Barrowholm_03
+tagGDX1LoreObj_AreaE_Barrowholm_A03Name=Poprzez ciało stajemy się jego wybrańcami
+tagGDX1LoreObj_AreaE_Barrowholm_A03Text=Nie zawsze lubiłam ten smak.{^n}{^n}Z początku uważałam, że to nie do zjedzenia. Mięśnie były twarde, a smak sprawiał, że ciężko było to przełknąć, zwłaszcza surowe. Scorv jednak twierdził, że by w pełni pojąć dary Wielkiego, musimy nauczyć się radować jego naturalną postacią, zamiast polegać na przyprawach czy płomieniu.{^n}{^n}Z początku miałam opory, podobnie jak inni, ale z czasem, zaczęłam przychodzić by poczuć smak świeżej krwi spływającej po moich zębach i metaliczny posmak na mym języku. Trochę pomógł głód, to na pewno, ale teraz czuję podniecenie na samą myśl o świeżej ofierze. Sądzę, że właśnie to miał na myśli Scorv, kiedy wspominał, że w ten sposób stajemy się bliżsi naszemu mistrzowi.{^n}{^n}Dreszczyk emocji, tej energii, tej zmiany... czuję tę zmianę, ona rośnie we mnie. Zaczyna się od ciemniejących oczu, jak głęboki karmazyn. Inni, bardziej doświadczeni, doznają bólu kości przeszywających ciało. Scorv zapewnia jednak, że to normalne i minie.{^n}{^n}Pomimo wszystkich zmian jakie to powoduje, teraz oczekuję tego z wielką radością. Pragnę jedynie być bliżej Niszczyciela.{^n}{^n}-Olidia
+
+#Barrowholm_04
+tagGDX1LoreObj_AreaE_Barrowholm_A04Name=Niszczyciel
+tagGDX1LoreObj_AreaE_Barrowholm_A04Text=Niesprawiedliwość. To jest opowieść o Wielkim. Zdrada i niesprawiedliwość.{^n}{^n}Niszczyciel chodził niegdyś pośród nas w formie pięknego stworzenia, uosobienia naturalnej równowagi. Wzrastał wśród współwyznawców i przynosił im wiele darów. Ale nie tylko on został pobłogosławiony taką mocą.{^n}{^n}Bóg bestii zaczął zazdrościć Niszczycielowi wyznawców. Pod osłoną nocy, ten bóg zakradł się do leża Niszczyciela i z pomocą jego oprawców, wygnał Wielkiego z tego świata.{^n}{^n}Bezcielesny i zapomniany, Niszczyciel miotał się w swym duchowym więzieniu. Pragną powrócić do tego świata i odpłacić za krzywdy, jakie go spotkały. Dzięki naszym poświęceniom, dzień zapłaty jest już blisko. Powinniśmy stać się zwiastunami jego woli i dobroczyńcami jego miłosierdzia. A kiedy szczęki Niszczyciela zamykają się wokół gardła zdrajcy, powinniśmy pić jego krew i wznieść się ponad nasze słabości.
+
+#DarkWood_01
+tagGDX1LoreObj_AreaE_NoteA01Name=Zalane krwią bazgroły
+tagGDX1LoreObj_AreaE_NoteA01Text=Opuściliśmy Burrwitch nie dalej jak tydzień temu. Było coś złego w tamtym miejscu i krążyły plotki o dziwnych wydarzeniach wokół rezydencji Kriega. To Frazier wpadł na ten szalony pomysł, że powinniśmy wszystko porzucić i udać się na północ. Mówił, że na końcu tej drogi jest piękne miasto. Mieszkał tam jeszcze rok wcześniej. Twierdził, że przejście jest trudne, ale możemy tego dokonać, jeśli będziemy się trzymać w kupie. Nie mógł się bardziej pomylić.{^n}{^n}Nie uszliśmy nawet dnia od miasta, gdy rzeczy zaczęły iść marnie. Najpierw Beatrix dostała gorączki. Zrobiła się blada i miała podkrążone oczy. Tej nocy, zaczęła się na nas rzucać, trzęsąc się, wymiotując i drąc się o jakimś stworzeniu z lasu, które się na nią gapi. Następnego dnia, to samo stało się z Neinrichem.{^n}{^n}Z dwoma chorymi, byliśmy zmuszeni podróżować wolniej. Frasier i ja, ciągnęliśmy ich za sobą w prowizorycznych saniach. Było za daleko od Burrwitch by zawrócić, ale Frasier twierdził, że jest jakaś karczma zaledwie dzień drogi od nas, więc postanowiliśmy iść dalej. Kiedy dotarliśmy do karczmy, była opuszczona i czuć było w powietrzu ciężki zapach śmierci. Byliśmy zdesperowani i bardzo potrzebowaliśmy schronienia, więc zostaliśmy tam pomimo to.{^n}{^n}W nocy zaczęły się hałasy. Frasier twierdził, że nic nie słyszy. Ja natomiast słyszałem to głośno i  wyraźnie. Brzmiało jak jakieś zwierzę, wyjące i poruszające się zaraz za ścianą zajazdu. Im dalej w noc, tym te odgłosy się nasilały, zacząłem się wtedy zastanawiać, czy czasem nie oszalałem. Frasier upierał się jednak, że to nic takiego, a ja czułem, że są zaraz za ścianą. Kiedy zaczęło świtać, nie chciałem się ruszyć, ale Frasier zmusił mnie do wyjścia z karczmy. Powiedział, że musimy kontynuować, albo nigdy nie dotrzemy w bezpieczne miejsce. Więc zaczęliśmy ciągnąć te sanie na północ, przez dziką, zarośniętą drogę.{^n}{^n}Słyszałem jak za nami podążają, ich kroki były jak echo naszych. Beatrix i Heinrich słabli z minuty na minutę, a my zmęczyliśmy się ciągnięciem sań. Moje ręce były pełne odcisków, a stopy krwawiły od tej dzikiej ścieżki. Frasier zaproponował, żebyśmy ich zostawili, bo sanie są dla nas zbyt ciężkie, ale ja uznałem, że to nie jest w porządku. Kłóciliśmy się o ich los, a wzajemna złość wciąż rosła. To Frasier chwycił swój obozowy toporek i zagroził, że zabije ich tu i teraz. Powiedział, że jeśli ja nie mogę dać im odejść, to on zrobi to za mnie. Nie chciałem tego, co nastąpiło potem, ale byłem przerażony i wyjące odgłosy w mojej głowie paliły jak ogień. Popchnąłem go, a on potkną się o korzeń i wpadł prosto na swój toporek, który wbił mu się w prawą stronę klatki piersiowej. Spojrzał na mnie z przerażeniem, a krew wypełniła mu usta i płuca.{^n}{^n}Właśnie wtedy to zobaczyłem, stało zaraz za Frasierem, na skraju lasu. Masywna, ohydna postać, coś jak człowiek z głową martwego zwierzęcia. Zamarłem na moment, a potem wystrzeliłem w dół drogi. Uciekając słyszałem bulgocące krzyki Frasiera, błagał bym go nie zostawiał.{^n}{^n}Wciąż ich słyszę, całą trójkę zawodzącą w ciemnościach, jak króliki zjadane przez lisa. Minęły już całe godziny, dlaczego oni nie umierają? Czy ta rzecz wciąż tam jest? Czy mnie dręczy? Nie mogę iść dalej, nie mogę już dłużej tego znieść...
+
+#Darkwood_02
+tagGDX1LoreObj_AreaE_NoteA02Name=Zamówienie Cratcha Moore'a
+tagGDX1LoreObj_AreaE_NoteA02Text=Było tu ostatnio wielu dziwnych podróżników. Karczma jest pełna, ludzi jest więcej niż normalnie o tej porze roku. Nie żebym na to narzekał.{^n}{^n}Sporo dodatkowych monet wpadło ostatnio do mojej kieszeni, ale tłum przedzierający się przez te okolice nie jest taki sam, jak widywany tu wcześniej. Widziałem zwykłych ludzi przybywających z miejsc na południe od Diabelskiej Przełęczy i grupki kobiet oraz mężczyzn przemieszczających się w zbrojach i strojach ozdobionych dziwnymi znakami. Mieliśmy nawet gościa kilka tygodni temu, który twierdził, że przebył całą drogę tutaj, aż ze stolicy. Twierdził, że jest szefem kuchni poszukującym pracy. Nie miałem dla niego miejsca, więc zaproponowałem, żeby spróbował swych sił w Burrwitch.{^n}{^n}Ale to nie tylko ludzie są dziwni. Jest jakieś nietypowe uczucie niepewności w lasach, na pewno to zauważyłeś. Nie widziałem, ani nie słyszałem żadnego ptaka przez ponad tydzień. Uznałem, że to przez większą ilość ludzi w tych okolicach, ale nie dalej jak 3 dni temu Critch przyniósł w miarę świeżą zdobycz. To był wielki bagienny kozioł, 10 stóp, jeśli dobrze pamiętam. Przeważnie taka ofiara przyciąga sępy, ale to truchło leżało tyle czasu w lesie i żadnego śladu tych przeklętych stworzeń. Gdyby poleżało jeszcze trochę, na pewno przyciągnęłoby Carraxusa. Przysięgam, że ten stary obrzydliwy drań urósł dwukrotnie i stał się jeszcze obrzydliwszy odkąd go ostatni raz widziałem. Kręcił się w okolicy zajazdu dwa razy w ostatnim roku, kradnąc rzeczy. To prawdopodobnie on zabrał krowę mleczną ze stajni Gretchen. Nawet nie chcę wiedzieć co się stało temu biednemu stworzeniu. Niegdyś odstraszał go ogień, ale chyba staje się odważniejszy wraz ze wzrostem. Gdy ktoś kiedyś odnajdzie kryjówkę tego stwora, będzie miał przyjemność zgarnąć stertę śmieci i więcej krabów, niż mógłby zjeść człowiek przez całe życie. Jeśli oczywiście ktokolwiek chciałby to jeść.{^n}{^n}Tak czy siak, mamy biznes do zrobienia. Zwłaszcza z wszystkimi tymi ludźmi przemierzającymi okolicę. Jeśli masz na stanie, to chciałbym zamówić: 3 beczułki Remire Ale, 2 pojemniki Czarnego Liścia i 20 butelek Kamiennego Wina.{^n}{^n}Zapłata po dostarczeniu, tak jak zwykle.{^n}{^n}Cratch Moore.
+
+#Coven_01
+tagGDX1LoreObj_AreaE_NoteA03Name=Podszepty z oddali
+tagGDX1LoreObj_AreaE_NoteA03Text=Z początku te słowa były delikatne, coś jak swędzenie na końcu głowy. Były zniekształcone i nie sposób było zrozumieć ich znaczenia. Nie chciały jednak przeminąć. Stały się ciągłą przeszkadzajką, wezwaniem, jak niegdyś Malostrii do tego miejsca. Z tym że, w odróżnieniu do czasów gdy Matrona przychodziła do moich snów, te słowa wylewają się bez wytchnienia, bez końca. Czuję jak skupia to moją uwagę, nawet podczas wykonywania podstawowych czynności.{^n}{^n}Czasami, jeden głos podnosi się bardziej niż reszta przerażającego chór i wtedy mogę zrozumieć jego znaczenie. Wyraźniejsze momenty nigdy nie trwają dłużej i szybko przepadają ponownie w chórze. Ten sam głos nigdy ponownie nie zyskuje na mocy nad innymi. Za każdym razem, brzmi to tak jakby kolejny wiercił mi w uchu. Mówią o pająkach, sieciach i miejscach, których nie widziałam i o których nie słyszałam. Czasem budzą mnie w przerażeniu, gdy krzyczą o ogniu i zemście, którego nigdy jeszcze nie widział ten świat.{^n}{^n}Rozmawiałam o tym z Matroną i ona rzuciła szybko wzrokiem na starą Rugię, zanim ponownie spojrzała w moje oczy. Próbowała mnie pocieszyć najlepiej jak potrafiła, ale oboje wiedziałyśmy, jaki los czeka tych, urodzonych z tym przekleństwem. Mam tylko nadzieję, że rozszyfruję jakieś znaczenie z ciemności, zanim szaleństwo pochłonie mą duszę.{^n}{^n}Wygląda jednak na to, że to mi się nie uda...
+
+#Coven_02
+tagGDX1LoreObj_AreaE_NoteA04Name=Dziennik Tristy
+tagGDX1LoreObj_AreaE_NoteA04Text=To wszystko jest dla mnie takie dziwne. Są siostry, które oddały całe swoje życie by studiować i praktykować, ale ja nie wiem nic na temat tego typu rzeczy. Nie znam się ani na ziołach, ani na fiolkach, nie posiadam żadnej wiedzy o niciach czy ich połączeniach. Nie znam opowieści o Trójce, nie jestem dalekowzroczna, nie potrafię przywoływać duchów, a jednak tu jestem. Zostałam złapana jak ryba na tarłowisku i nie mam pojęcia po co. Nie sądzę żeby któraś z sióstr też to wiedziała. Słyszałam jak niektóre ze  starszyzny o mnie rozmawiały. W ich głosach nie było pogardy, ale też nie mają pojęcia w jakim celu przybyłam w to miejsce.{^n}{^n}W krótkim czasie nauczyłam się tutaj wielu rzeczy i pomimo początkowego zagubienia, postanowiłam pochłonąć tyle informacji ile tylko w stanie jest dać mi to miejsce. Ten Sabat bardzo pielęgnuje historię. Słyszałam starsze siostry mówiące o czasach, gdy pierwsze z nich formowały tę grupę, był to czas kiedy członkinie nie czuły strachu i kierował nimi głód wiedzy. Odkryły tajemnice ukryte przed ludzkością i nauczyły się o źródłach potężnej mocy. Wspólnie osiągnęły rzeczy, o których my możemy tylko marzyć, ale zapłaciły wysoką cenę. Pycha przyciągnęła gniew Trójki i nic już nie było jak dawniej.{^n}{^n}Współczesne siostry mówią o tych czasach przyciszonym głosem, ale mówiąc szczerzę, zazdroszczę im. Musiały mieć tak wielkie powołanie, taką pewność celu. Czy to naprawdę takie złe, pragnąć poznania straconej wiedzy? Nie spocznę nim nie odkryje ich sekretu, nim te miejsca mocy ponownie nie staną się w naszym posiadaniu. Niech Bogowie Wiedźm będą przeklęci. Jednak stąpając wśród moich sióstr, zdaję sobie sprawę, że sporo wśród nich takich, które patrzą na Trójkę z szacunkiem. To właśnie przez nie ci bogowie utrzymują w ryzach to miejsce i nasze poczynania. Muszę być ostrożna i dyskretna. Szaty nieświadomego, nowego rekruta dobrze mi pasują... póki co.{^n}{^n}
+
+#UgdenbogRuins_01
+tagGDX1LoreObj_AreaE_NoteA05Name=Zapiski Yeathleanisa
+tagGDX1LoreObj_AreaE_NoteA05Text=Mieliśmy nadzieję, że modlitwy i rytuały nas ochronią, że na naszą korzyść zadziała odległość. Ale nawet w tych odległych świątyniach, pycha naszych Oligarchów i wielki podstęp tego nekromanty odnalazły nas.{^n}{^n}Widzę, jak starszyzna mojego zakonu przepada beznadziejnie w szaleństwo, a młodsi z pośród nas modlą się o śmierć, która nigdy nie nadejdzie. Jednak odnajduję moc w wieczności. Skupiam moją uwagę na starożytnych tekstach, rytuałach, naukach tych, którzy byli przedtem. Wiedzy jest więcej niż pozwoli poznać nawet nieśmiertelność; dlatego też gdy zawiedzie me ciało, modlę się, by umysł pozostał.{^n}{^n}Skoro istnieje rytuał, który skazał nas na tą przeklętą egzystencję, musi gdzieś być wiedza, która odczyni te okrutne kajdany.{^n}{^n}Z czasem po mojej stronie, kiedyś odnajdę odpowiedzi.
+
+#Altar_01
+tagGDX1LoreObj_AreaE_NoteA06Name=Boskie dary
+tagGDX1LoreObj_AreaE_NoteA06Text=Miałyśmy się za roztropnych, mistrzów tej sztuki. Ale arogancja często prowadzi do tragedii...{^n}{^n}Przy pomocy Ołtarza Rattosha, rozwinęłyśmy proste czary naszych przodków. Stałyśmy się młodsze, silniejsze, potężniejsze; ale wszystko to blednie wobec pełnego potencjału tego ołtarza. Sięgnęłyśmy poza krainę śmiertelników, wiążąc duchy do naszej woli i zmuszając ich do ujawnienia starożytnych sekretów. Ale i to nam nie wystarczyło. Pragnęłyśmy więcej i wiedziałyśmy gdzie tego szukać: w Nadprzyrodzonym Świecie.{^n}{^n}Nadprzyrodzony Świat to dziwna rzeczywistość, gdzie nie mają w pełni zastosowania prawa naszego świata, a magia pozostaje nieokiełznana. Stworzenia, które go zamieszkują są jak zwierzęta, ale jednocześnie nimi nie są. Niektóre władają podstawową magią, a inne mówią językiem, którego nie sposób zrozumieć. Ale dla nas, to było źródło wielkiej magii. Zaczerpnąć z tego świata oznaczało posiąść niewyobrażalną moc. Jednak taka arogancja nie pozostała niezauważona.{^n}{^n}Zebrałyśmy się pod pełnym księżycem. Wspólnie byłyśmy w stanie używać ołtarza jako przepustki do Nadprzyrodzonego Świata. To miał być nasz największy tryumf, ale zamiast tego okazał się najbardziej upokarzającym. Na naszą komendę, runy na ołtarzu zaczęły świecić, a potem... nic?! Czar przestał działać, a my zostałyśmy odrzucone przez falę buchającą z jego środka. Coś nadeszło.{^n}{^n}Stanęły przed nami trzy przerażające byty. Sama ich obecność niemal nas oślepiała. Zaś ich gniew był absolutny. Patrzyłam, jak moje siostry przepadają w nadprzyrodzonych płomieniach, albo rozpływają się pod wpływem wzroku tysiąca spychających je w otchłań oczu. Inną z kolei oplotły pająki i pożarły do samych kości.{^n}{^n}Została tylko nasza trójka, zastygła w przerażeniu, podczas gdy bogowie, których zlekceważyłyśmy ukarali nas za naszą arogancję. Potem, tak jak się pojawili, tak zniknęli. Z początku zastanawiałyśmy się czemu nas oszczędzili, ale z czasem zdałyśmy sobie sprawę z prawdy: żyjemy, by nikt więcej nie powtórzył naszych błędów.{^n}{^n}Jeśli to czytasz, przyjmij nasze ostrzeżenie. Zawróć i opuść to przeklęte miejsce. Wymaż je z pamięci, inaczej bogowie powrócą, wraz z ich niewyczerpanym gniewem. 
+
+tagGDX1LoreObj_AreaE_NoteA07Name=Skrytka Nane'a
+tagGDX1LoreObj_AreaE_NoteA07Text=Nie wiem o co mu chodzi, ale w ciągu ostatniego tygodnia widziałem Nane'a prowadzącego wypakowany wóz na północ drogą przez stary młyn. Dwukrotnie wracał z pustym wozem. Musi coś tam ukrywać i muszę się dowiedzieć gdzie. Jeśli to coś dużego, to muszę się do tego dobrać.
+
+#AncientGrove
+tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Name=Refleksje Mogdrogena
+tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Text=Ostatnie wydarzenia zasmuciły me serce.{^n}{^n}Śmiertelnik, jeden z inkwizytorów Erulanu, którego zwą Kymon, natrafił na coś...starożytnego i zapomnianego. I jak każdy nieroztropny śmiertelnik, nie pozostawił w spokoju tego, co powinno zostać zapomniane. Magiczna poświata bije teraz głęboko pośród Płaskowyżu Korvan. Bestie Cairn nie śpią. One też to czują.{^n}{^n}Co gorsze, zwykle kapryśni fałszywi bogowie nagle stali się podejrzanie cisi. Podejrzewam, że oddalili się do swojego miniaturowego świata. To nie może być przypadek. Fałszywi bogowie się boją. Ich uwagę musiało przyciągnąć to samo źródło mocy, które pochłonęło duszę Kymona i jego wybrańców. Oddanie tych gorliwców napędza to coś, dając mu siłę i formę.{^n}{^n}Wśród ludzi krążą plotki o powrocie Empyriona, ale ja wiem, że to są fałszywe nadzieje tych beznadziejnych nieszczęśników. Źródło tej zapomnianej mocy zwodzi mnie, a jednocześnie czuję, że jest takie... znajome.{^n}{^n}To czego jestem jednak pewien, to fakt, że nadeszła jakaś katastrofalna zmiana. Czuję to w ziemi. Pachnie tym wiatr. Siły, których nie wyczuwałem od tysiącleci domagają się zemsty i krwi.{^n}{^n}Muszę zebrać mych Rhowari. Nadchodzi czas kiedy ich przekonania zostaną poddane prawdziwej próbie. 
+
+#Kraken
+tagGDX1LoreObj_AreaE_Kraken_NoteA01Name=Tajemnice Ugdenbog
+tagGDX1LoreObj_AreaE_Kraken_NoteA01Text=Dekretem samego Imperatora Erulanu, ja i moi znakomici koledzy, zostaliśmy wysłani w najbardziej dzikie tereny imperium, by skatalogować florę i faunę tej przepastnej krainy. Początkowo nie zdawałem sobie sprawy, że nie wszystkie zadania są sprawiedliwie przydzielane... piszę to ze złowieszczego, mrocznego i wilgotnego Ugdenbog, zlokalizowanego tuż poza miastem Burrwitch.{^n}{^n}W trzy tygodnie od mojego przybycia, zdążyłem stracić dwóch z moich towarzyszy przez (i piszę tu śmiertelnie poważnie) dzikie rośliny. Zapomniane przez Empyriona kwiaty. Dodam, że moją specjalnością zawsze było badanie wpływu tajemnych mocy na naturalne organizmy, ale nie tak podstępnych i zdolnych do rozerwania człowieka na pół, czy połknięcia w całości innego z mojej ekipy!{^n}{^n}Gdybym nie znajdował się tygodnie od Erulanu, z pewnością poprosiłbym o przeniesienie. Sama podróż nie była jednak pozbawiona sensu, gdyż miałem podczas niej okazję zaobserwować pewne wyjątkowe okazy. Stworzenia, które na pozór naturalne, nie powinny jednak występować w regionie tego typu, jak gdyby zostały tam sztucznie przeniesione w pośpiechu z innego miejsca.{^n}{^n}Najbardziej fascynującym stworzeniem, o którym rozprawiamy od wielu dni, tu w obozie, jest coś co lokalni nazywają Kra'vall -Starożytnym z wody. Jak dotąd udało nam się pozyskać jedynie jedną z jego potężnych macek. Mogę tylko się domyślać pełnych rozmiarów tej bestii, ale jest ogromna i zupełnie różna od wszystkiego co do tej pory spotkaliśmy w wodach Ugdenbog. {^n}{^n}Nasza wyprawa zaprowadziła nas do czegoś, co jak się domyślam jest podwodną kryjówką tego stwora, gdyż towarzysząca mi inkwizytorka zaczęła nagle skarżyć się na bóle głowy, podobne do tych, które przeżywa znajdując się w pobliżu potężnych źródeł starożytnej magii. To w połączeniu z jego nietypowym wyglądem prowadzi mnie do wniosku, że to stworzenie, jak i jemu podobne, są pochodzenia nadprzyrodzonego. Tylko czy są to manifestacje lekkomyślnych zabaw Bogów Wiedźm, czy może chodzi o coś zupełnie innego?{^n}{^n}-Gallad Nico, Badacz Imperium
+
+#AreaF Notes
+#CultOfCthon_01
+tagGDX1LoreObj_AreaF_NoteA01Name=Lojalność przez krew
+tagGDX1LoreObj_AreaF_NoteA01Text=Przez nici nocy dotarły do mnie wieści o tym, że rytuał na zachodzie nie powiódł się, a sam Thalonis poległ.{^n}{^n}W związku z wagą tej tragedii, niektórzy pośród was porzucili swą wiarę, zaprzestali poświęcenia i odeszli od naszej wielkiej sprawy. Nie możemy tego tolerować. Musicie pozostać lojalni, w przeciwnym razie zostaniecie powieszeni i wysączeni wraz z resztą tej niewiernej rasy.{^n}{^n}To z pewnością tylko kolejne zakłócenie na drodze do naszej świetności. Ch'thon rzuca nam wyzwania, testuje naszą wiarę, ale nie możemy go zawieść. Wy, niewzruszone dzieci z krwi, musicie szukać najsłabszych pośród was i karać ich za upadek woli.{^n}{^n}Thalonis przepadł, ale kolejny powstanie i zajmie jego miejsce, a pełni wiary zostaną wynagrodzeni.{^n}{^n}Przez poświęcenie Ch'thonowi i oddanie naszej sprawie, odnajdziecie drogę raz jeszcze.{^n}{^n}- Ulto Treig, Wielki Kapłan
+
+#CultOfCthon_02
+tagGDX1LoreObj_AreaF_NoteA02Name=Odezwa do Krwioprzysięgłych w Mourndale
+tagGDX1LoreObj_AreaF_NoteA02Name_Codex=Odezwa do Mourndale
+tagGDX1LoreObj_AreaF_NoteA02Text=Bracia i siostry w krwi,{^n}{^n}Niepokojące plotki dotarły do mych uszu. Plotki o tym, że niektórzy z was poddają w wątpliwość naszą sprawę i kwestionują tych, którzy słyszą Pustkę. Z pewnością zostaliście oszukani przez fałszywych proroków, ale pozwólcie że was utwierdzę.{^n}{^n}Moi lojalni bracia krwi, przyprowadzili trzy tuziny tych, którzy ośmielili się kwestionować nasze sposoby, w tych trudnych czasach. Przez ich brak wiary, zostaniecie nagrodzeni. Ich krew posłuży za to, czego nie mogła wykonać ich wola. Trzymajcie owoc ich poświęcenia: oto nowe szczeliny do samego serca krainy Martwego Boga. Przez nie powstaną agenci udręki, stworzenia czystego mroku, które przeleją krew, należącą się prawowicie Ch'thonowi. {^n}{^n}Nie lękajcie się bracia i siostry, wasza wiara w Ch'thona została trafnie ulokowana. Nie pozwolimy tym, którzy upadli przeszkodzić naszej wielkiej sprawie. Wezwiemy ciemność i ten mrok przyniesie taką siłę, która zatrzęsie fundamentami Cairn. Nadejdzie nowy dzień porachunków; dzień w którym wierzący podepczą fałszywych bogów i odbudują potęgę Ch'thona.{^n}{^n}- Ulto Treig, Wielki Kapłan
+
+#CultOfCthon_03
+tagGDX1LoreObj_AreaF_NoteA03Name=Wezwanie do cieni
+tagGDX1LoreObj_AreaF_NoteA03Text=Jesteśmy jak zagubione dzieci, samotni, bez celu, patrzymy w mrok, a jedyną naszą nadzieją jest wiara. Chłostamy swe działa i malujemy świat krwią, desperacko pragniemy oświecenia z głębin Pustki, ale odpowiedź nie nadchodzi.{^n}{^n}Wzywamy cię, demonie pustki. Usłysz nasze wołanie i obmyj ten świat w cieniu. Przybywaj Prekursorze Mroków, poprowadź swe dzieci krwi do nowej chwały, gdzie staniemy się jednością w Ch'thonie. Prowadź nas Ekket'Zulu, byśmy oczyścili ten świat z niewiernych.{^n}{^n}Kabalista Gulle
+
+#MalmouthOutskirts_01
+tagGDX1LoreObj_AreaF_NoteA04Name=Dziennik Aimee Brenoch - wpis #1
+tagGDX1LoreObj_AreaF_NoteA04Text=Nie wiem po co nadal to piszę.{^n}{^n}Sądzę, że to dlatego że Eral potrafi być bardzo przekonujący, kiedy tylko tego chce. Mówi, że powinnam zapisywać każdy dzień, by móc potem spojrzeć na nasze życie i  jego najlepsze chwile. "To mogą być nasze najwspanialsze dni moja słodka Aimee, lepiej je zapamiętajmy, póki jeszcze możemy", tak zawsze mi mówi. Sądzę, że ma rację i pewnie dlatego wciąż wracam do tego dziennika.{^n}{^n}W zasadzie ma rację, utwierdzam się w tym każdego dnia odkąd opuściliśmy to miasto. "Miasto jest przepełnione moja kochana, powinniśmy je opuścić i założyć dom na wsi" tak mówił, więc tak zrobiliśmy. Zwyczajnie, spakowaliśmy wszystko co mogliśmy unieść i przeszliśmy przez bramy miasta. Byłam przerażona. Nie wyobrażałam sobie życia tutaj. Malmouth był moim domem, urodziłam się wśród zgiełku i hałasu Stalowej Pokrywy. Ale Eral miał rację, to miasto było za bardzo przeludnione, a ta wieś jest naprawdę piękna.{^n}{^n}Znaleźliśmy sobie to nowe miejsce, dobrą ziemię uprawną i tyle przestrzeni ile można sobie tylko wyobrazić. To doskonałe miejsce na założenie rodziny i właśnie to robimy. Jestem teraz w drugim miesiącu ciąży z naszym pierwszym dzieckiem. To będzie dziewczynka, po prostu to wiem. Czekałam na odpowiedni moment by powiedzieć Eralowi, ale był taki zajęty, zajmując się sprawami w gospodarstwie i podróżując do miasta i z powrotem po zaopatrzenie. Nie będę w stanie dłużej przed nim tego ukrywać. Będzie taki szczęśliwy.{^n}{^n}To rzeczywiście nasze najwspanialsze dni.{^n}{^n}-Aimee
+
+#MalmouthOutskirts_02
+tagGDX1LoreObj_AreaF_NoteA05Name=Dziennik Aimee Brenoch - wpis #2
+tagGDX1LoreObj_AreaF_NoteA05Text=Coś strasznego stało się w tym mieście.{^n}{^n}Tylko tego poranka, nasza farma została zapełniona ludźmi, jest ich masa. Uciekli z Malmouth, niektórzy biegiem, a inni ledwo mogli chodzić. Wyglądają na przerażonych i wygadują coś na temat niedoli, która dotknęła to miasto. Kilku z nich wciąż mówiło o zagubionych członkach swojej rodziny i o tym, że ludzie byli zabierani w nocy ze swoich domów. Nie wiem czy w to wszystko wierzyć, ale brzmi to przerażająco.{^n}{^n}Robiłam co mogłam, aby pomóc jak największej liczbie osób, ale było ich tak wielu, że ogarnęło mnie przerażenie. Eral udał się wczoraj na swoją cotygodniową wyprawę do miasta po zaopatrzenie. Powinien był wrócić tego ranka, ale nie widać po nim śladu. Mam nadzieję, że nie wpadł w to co się tam dzieje.{^n}{^n}Jeśli nie będzie o nim wieści do rana, pójdę do miasta go poszukać. Będzie to trudna przeprawa z naszym małym aniołkiem w drodze, ale nie mogę się pozbyć wrażenia, że Eral może potrzebować mojej pomocy.{^n}{^n}-Aimee
+
+#MalmouthIndustrial_03
+tagGDX1LoreObj_AreaF_NoteA05AName=Wiadomość do Aimee Brenoch
+tagGDX1LoreObj_AreaF_NoteA05AText=Moja kochana Aimee.{^n}{^n}Nie sądzę, że ta wiadomość kiedykolwiek do ciebie dotrze, ale przynajmniej odczuję ulgę kierując ostatnie myśli właśnie do ciebie.{^n}{^n}Wciąż pamiętam twój wyraz twarzy, gdy odkryłaś, że jesteś przy nadziei. Jak mogłaś myśleć, że ukryjesz to przede mną przez te wszystkie długie tygodnie. Nie da się tego ukryć, radość była wyryta na twojej twarzy. Będę pielęgnował to wspomnienie w moich ostatnich chwilach.{^n}{^n}Musisz mi wybaczyć, moja ukochana, ale nie wrócę do ciebie. Coś niesłychanego wydarzyło się w tym mieście. Jest tu tak wielu zabitych, poległych w walkach, które wybuchły nocą. Są też inne, niesamowite rzeczy, terror który zalewa to miasto, poluje na ludzi tam w dole i zabija wszystkich, gdziekolwiek się schowają.{^n}{^n}Powiedziano mi, że nie ma już wyjścia z tego miasta. Bramy są zabarykadowane, a most podniesiony. Jednak wciąż są tu ludzie Aimee, ludzie którym mogę pomóc. Błagam o twoje przebaczenie.{^n}{^n}Gdyby te słowa jednak do ciebie dotarły, błagam cię zapomnij o tym miejscu. Opuść natychmiast farmę i nigdy nie wracaj. Obawiam się, że to co przydarzyło się Malmouth rozleje się wkrótce poza mury miasta. Ruszaj bez zastanowienia i z nikim nie rozmawiaj. Musisz ochronić siebie i nasze dziecko. Znajdź miejsce, dobrze ukryte i wychowaj ją dobrze.{^n}{^n}Gdziekolwiek się udasz Aimee, jeśli tylko uda mi się wydostać z tego miejsca, odnajdę cię, obiecuję.{^n}{^n}Kochający,{^n}{^n}Eral Brenoch
+
+#MalmouthSlums_01
+tagGDX1LoreObj_AreaF_NoteA06Name=List do radnego Cole'a
+tagGDX1LoreObj_AreaF_NoteA06Text=Drogi Panie Cole, czy może Wasza wielmożność, czy jak tam chcecie, by na siebie wołać. {^n}{^n}Nie jestem jakimś dżentelmenem, czy biznesmenem z wyższych klas i domyślam się, że tacy ludzie jak wy, w tej Koronie Wzgórz, nie dbają o takich przyziemnych karaluchów z dzielnicy Świec jak ja. Ale muszę ci powiedzieć, że będziesz miał na sumieniu powstanie, jeśli nie zaczniesz zwracać uwagi na to jakie panują warunki tu na dole, w tej dziurze. Sprawy wymknęły się spod kontroli. Nie ma już czystej wody i jedzenia. Ulice wypełnione są śmieciami i jest tu w cholerę za dużo ludzi. Nie wiem czemu nowe budowy domów w dzielnicy Świec się zatrzymały. Tu po prostu nie ma miejsca dla ludzi do życia. Nie możecie traktować tak ludzi i spodziewać się, że będą to znosić.{^n}{^n}No dobra, nie bierz moich słów za groźbę. Wiem, że jesteś nowy w tej robocie, więc potraktuj ten list jako ostrzeżenie. Ludzie tutaj wybrali mnie jako swojego przedstawiciela i to właśnie robię. Nie wiem co się dzieje u was, tam na górze, ale tutaj w dole ludzie mają dość. Mam nadzieję, dla naszego wspólnego dobra, że znajdziesz czas w swoim napiętym harmonogramie i zmierzysz się z naszymi problemami.{^n}{^n}Z poważaniem,{^n}{^n}Samuel Rackford
+
+#MalmouthCrownHill_03
+tagGDX1LoreObj_AreaF_NoteA06AName=Odpowiedź z biura radnego Cole'a
+tagGDX1LoreObj_AreaF_NoteA06AText=Drogi Panie Rachford.{^n}{^n}Moja nowa, urocza sekretarka Margaret zwróciła mi uwagę na los plebsu w naszej ukochanej dzielnicy świec. Taki skarb jak te zabytkowe ulice nie są czyste i naprawdę żal mi tych, którzy muszą żyć w tak urągających warunkach.{^n}{^n}Zapewniam, że zrobiłem wszystko, co jest w mocy mojej i mojego szacownego urzędu, w celu zapewnienia poprawy tej sytuacji.{^n}{^n}Pierwszą rzeczą, która się stanie, będzie wyznaczenie wozów, które udadzą się do Dzielnicy Świec, by zebrać kobiety i dzieci. Ci, najbardziej narażeni obywatele, zostaną przeniesieni do nowego miejsca zamieszkania, tutaj w Koronie wzgórz, gdzie otrzymają opiekę. {^n}{^n}Następnie, wszyscy zdolni do pracy mężczyźni dostaną szansę pracy przy konstrukcji nowego kompleksu produkcyjnego. Z waszą pomocą, ludzie z Dzielnicy Świeć, staną się fundamentem nowego, wspaniałego Malmouth.{^n}{^n}Nie spodziewam się żadnych uwag ze strony twoich współmieszkańców w tej sprawie, czyż mogę mieć taką nadzieję? Troszczę się tylko o dobro tych wspaniałych ludzi.{^n}{^n}Z poważaniem,{^n}{^n}Członek Rady{^n}{^n}Dreven S. Cole
+
+#MalmouthSlums_02
+tagGDX1LoreObj_AreaF_NoteA07Name=Ostrzeżenie Rennocha "Szczura"
+tagGDX1LoreObj_AreaF_NoteA07Text=Zagłada przyszła w nocy. Nadeszła nagle, bez żadnego ostrzeżenia, poprzedzona krzykami i śmiercią ludzi budzonych na amen. Najpierw uderzyli na koszary straży miejskiej. Wyrżnęli ich, biegali zupełnie jak uśpione kury. Ich przeciwnicy, jak koszmary, nie do wyobrażenia dla człowieka. Obserwowałem ich z mojej budki, sztywny jak kamień, poraniony tym co widziałem. W jednej chwili te stwory pozbawiły nadziei na obronę całą dzielnicę Świec. Wylały się na ulice niczym gnijąca fala śmierci. Krzyki ludzi i starszych wypełniły moje uszy, a powietrze stało się ciężkie od dymu z tych zielonych płomieni, które teraz obejmują całą dzielnicę.{^n}{^n}Przedziwna ciekawość kazała mi patrzeć. Chciałem zobaczyć więcej. Udałem się więc do południowej ściany murów, przemierzając drogę cichutko wzdłuż nich, obserwując jak śmierć przelewa się przez slumsy poniżej. Ludzie biegali jak legiony karaluchów i byli rozgniatani przez napierająco hordę. Z początku mała grupka dotarła do mostu na południu i przekroczyła go, zanim został wzniesiony. Reszta uciekła na północ do bram Korony Wzgórz, tylko po to, by się przekonać że są zamknięte na cztery spusty. Gdy te koszmary zamknęły przed nimi bramy, niektórzy wspinali się desperacji po murach, ale śliskie kamienie nie dają oparcia. Tych kilku, którym udało się dotrzeć na sam szczyt, spotkały ostrza strażników Korony Wzgórz, którzy zdawali się nie dbać o sytuację tych pod nimi.{^n}{^n}Rzeź trwała przez chwilę. Teraz slumsy i rudery są już ciche. Zaczęli przeczesywać miasto, zbierając trupy poległych i chwytając tych nieszczęśników, którzy przeżyli.{^n}{^n}Odpoczywam tu teraz i nie mam woli by trwać, ani chęci na ucieczkę. To nie ma sensu. Świat jest pozbawiony nadziei, przeciwko takim najeźdźcom, więc spędzę te ostatnie chwile w spokoju.{^n}{^n}-Rennoch "Szczur"
+
+#MalmouthSlums_03
+tagGDX1LoreObj_AreaF_NoteA08Name=Urwana notatka - pierwsza połowa
+tagGDX1LoreObj_AreaF_NoteA08Text=Nie wiem do kogo to pisze, ale te słowa dają mi trochę ulgi i sens do da dalszego życia, chociaż przez chwilę.{^n}{^n}Jestem tu zupełnie sama, wycieńczona i umierająca z głodu. Mam najgorsze myśli, patrząc jak ubywa mi zapasów. Próbowałam desperacko znaleźć wyjście z tego zrujnowanego miasta, ale nie ma nadziei. Most jest podniesiony i strzeżony przez gigantyczne stworzenie o piekielnym pochodzeniu. Nie mam szans na przebycie murów, nie bez zdradzenia swojej obecności patrolom albo runięcia w przepaść, tak jak inni.{^n}{^n}Dlatego też trwam na tym starym strychu z małym okienkiem i obserwuję świat poniżej. Słyszę ich na zewnątrz, jęczą i płaczą, jakby odbijały się w nich odgłosy konania stworzeń, którymi kiedyś byli. Przemierzają miasto, zbierając martwych i tych, którzy nie nadają się do kontynuowania walki. Mogę się tylko domyślać, jakie koszmary czekają na tych schwytanych. Jestem pewna, że jest tylko kwestią czasu, zanim podzielę ich los.{^n}{^n}Mam tylko nadzieję, że śmierć przyjdzie szybko.
+
+#MalmouthSlums_04
+tagGDX1LoreObj_AreaF_NoteA08AName=Urwana notatka - druga połowa
+tagGDX1LoreObj_AreaF_NoteA08AText=Wszystko uległo zmianie.{^n}{^n}Być może jest jednak droga do wyjścia z tego miejsca. Tego ranka, gdy gapiłam się tępo przez jedno z moich malutkich okien, studzienka ściekowa na ulicy otworzyła się i wyszedł z niej człowiek. Wyglądał na silnego, a nawet zdrowego i miał na sobie jakiś rodzaj zbroi. Potem jeszcze trzech innych wyskoczyło z tej samej dziury. A więc są tam inni! Może żyją tam na dole. Może szukają innych ocalonych. Muszę znaleźć sposób aby się z nimi skontaktować, albo sposób na przedarcie się do tych kanałów na dole. {^n}{^n}Tego wieczora, o zmierzchu, opuszczę moją kryjówkę i zobaczę, czy zdołam odnaleźć drogę do tych kanałów.{^n}{^n}Jeśli znajdziesz tę wiadomość, powinieneś zrobić to samo. Jest jeszcze dla nas nadzieja i kryje się pod tym miastem.
+
+#MalmouthIndustrial_01
+tagGDX1LoreObj_AreaF_NoteA09Name=Dziennik Straży Miejskiej
+tagGDX1LoreObj_AreaF_NoteA09Text=Ostatniej nocy zaatakowano baraki w dzielnicy Stalowej Pokrywy. Stało się to nagle, w samym środku nocy.  Drzwi zostały wywalone, a przez nie wlał się potok stworów, które napierały na towarzyszy ze straży jak rzeźnik przez stado jagniąt. Krzyczeli jakby ktoś ich zbudził z najgorszego koszmaru, do dzisiaj te dźwięki brzęczą mi w uszach.{^n}{^n}Oniemiałem ze strachu. Gdyby nie szybka akcja Capitana Wilfora, nikt z nas nie wyszedłby z tego żywy. Moja drużyna miała szczęście, bo została wyznaczona do patrolowania sąsiadującego z koszarami terenu, a przeniesiono nas zaledwie dzień wcześniej. Gdy atak się rozpoczął, wparował kapitan i zaczął wykrzykiwać do nas rozkazy. Nasze wyszkolenie wzięło górę i posłuchaliśmy, barykadując główne drzwi i uciekając przez tylne drzwi. To co na nas tam czekało, było nieprawdopodobne. {^n}{^n}Świat stał w płomieniach. Przeraźliwy smród unosił się nad miastem, a zgniłe zielone światło rozpalało niebo nad dzielnicą Świec.  O świcie słychać było serię wybuchów, które wstrząsnęły fundamentami miasta jak jakieś ogromne trzęsienie ziemi. Skala tego ataku jest nie do pomyślenia, zniszczenia są nie do opisania.{^n}{^n}Pod dowództwem Wilfora, ruszyliśmy po cicho przez ruiny miasta, udając się od koszar do koszar w poszukiwaniu innych strażników. Wszędzie oglądaliśmy te same przerażające sceny: wszyscy zabici we śnie, na posterunkach, po prostu wyrżnięci.{^n}{^n}Zaczynam się bać, że jesteśmy ostatnimi, którzy przetrwali. Wilfor rozkazał nam ochraniać jakichś cywilów, gdy on sam udał się sprawdzić, czy nie ma innych ocalałych strażników. Kilka godzin temu znaleźliśmy umierającego człowieka, który twierdził, że został utworzony przyczółek w okolicach dzielnicy Świec, gdzie stacjonuje cały oddział straży. Modlę się, żeby to była prawda.{^n}{^n}Widzieliśmy dzisiaj masę koszmarów, ludzie są poranieni i załamani. Nie jestem pewny, czy znajdziemy siłę, by iść dalej.{^n}{^n}Niech bóg będzie z nami.{^n}{^n}Raiken Baeron
+
+#MalmouthIndustrial_02
+tagGDX1LoreObj_AreaF_NoteA10Name=Rejestr pracy Nearana
+tagGDX1LoreObj_AreaF_NoteA10Text=Zgodnie z twoim poleceniem,  będę dokumentował moją pracę na tym stanowisku. Mam nadzieję, że te zapiski będą przydatne w twoich zamierzeniach.{^n}{^n}Doki Blackiron są oblegane jak nigdy w związku z dostawami wojskowymi, ale jest też przytłaczająca liczba zleceń od szefów innych portów, więc musimy rozładowywać również komercyjne łodzie. Wygląda na to, że ilość dóbr przypływających do miasta podwoiła się w ciągu ostatnich kilku miesięcy. Dawniej były to dwa statki dziennie, a teraz to 4 i więcej.{^n}{^n}Co ciekawe, duża liczba nowych statków przybywa z Portu Valbury. Przybywają we wczesnych godzinach porannych, dwa, a nawet więcej transportów na tydzień. Każdy z nic jest wypakowany po armaty dobrami w skrzyniach kierowanych do Korony Wzgórz, bez sprecyzowanego odbiorcy. Nie wiem czego ludzie twojego pokroju potrzebują w takich ilościach, ale domyślam się, że nie zatrudniłeś mnie tu bym zadawał tego typu pytania.{^n}{^n}Mieliśmy ostatnio jeden przypadek niesubordynacji, gdy złapaliśmy młodego Oritha chodzącego w koło z jakimś dziwnym kryształem, ostrym jak brzytwa i zielonym jak zaśniedziała miedź. Spytałem, gdzie to znalazł, gdy do złapaliśmy, ale oczywiście nie pisnął ani słowa. Do czasu, aż zagroziliśmy, że go wyrzucimy z roboty, wtedy zaczął śpiewać. Powiedział, że ukradł go z jednej z dostaw do Korony Wzgórz i nie wiedział co to jest. Kazałem mu to odnieść tam gdzie to znalazł.{^n}{^n}Przywołałem go do porządku, obcinając mu dniówkę, na co przystał. Nie spodziewam się, żebyśmy mieli ze strony Oritha więcej kłopotów i nie zalecam dalszego karania. Jest dobrym gościem, tylko głupim.{^n}{^n}I to w zasadzie wszystko co się wydarzyło w ostatnim tygodniu. Daj mi znać, czy właśnie o to ci chodziło. Będę podsumowywał w ten sposób każdy kolejny tydzień, tak jak prosiłeś.{^n}{^n}-Nearan Lehner
+
+#MalmouthCrownHill_01
+tagGDX1LoreObj_AreaF_NoteA11Name=List do Ronalda Mariona
+tagGDX1LoreObj_AreaF_NoteA11Text=Nie wiem co sobie wyobraża Marcell rozwiązując radę i mianując na wolne stołki swoich kumpli. Nie mogę sobie przypomnieć mniej godnej i bardziej zdeprawowanej grupy ludzi, którzy kiedykolwiek przewodzili naszemu wspaniałemu miastu. Jakie ma prawo powracać po takiej długiej nieobecności, osiągając własne cele w stolicy, i jeszcze teraz narzucając wolę wielkim rodom.{^n}{^n}Moja rodzina ma pierwszeństwo do służenia w radzie tego miasta od czterech pokoleń. Nie zamierzam stać bezczynnie i pozwolić rodzinie Marcella manipulować strukturą polityczną naszego miasta i mam nadzieję, że masz podobne zdanie.{^n}{^n}Zamierzam wysłać oficjalną skargę do Wysokiej Rady i Lorda Regenta w biurze Erulanu, w związku z tym proszę cię o oparcie mojego domu w obaleniu bezprawnego roszczenia do przejęcia władzy przez Theodina Marcella. Słyszałem też straszliwie niepokojące plotki na temat jego "edukacji" w instytucjach medycznych naszej stolicy. Według nich został on zmuszony do opuszczenia stolicy ze względu na nadużycie władzy. Jeśli to prawda, to może to być dodatkowe uzasadnienie naszych roszczeń.{^n}{^n}W międzyczasie, podejmuję kroki by zebrać opozycję przeciwko bezczelnym politycznym ambicjom domu Marcella i planuję się skontaktować z osobna, z każdym wysokim domem z Korony Wzgórz, w poszukiwaniu wsparcia. Twój jest pierwszym ze względu na fakt, że nasze rodziny są wiernymi sprzymierzeńcami na politycznym morzu tego wspaniałego miasta.{^n}{^n}Jestem gotowy podjąć wszelkie potrzebne środki przeciwko Marcellowi i rodzinom tych bufonów, których wyznaczył on do nowej rady i mam też nadzieję, że zostaniesz przy mnie w nadchodzących dniach.{^n}{^n}Z poważaniem,{^n}{^n}-Fredric Greystone
+
+#MalmouthCrownHill_02
+tagGDX1LoreObj_AreaF_NoteA12Name=List do Theodina Marcella
+tagGDX1LoreObj_AreaF_NoteA12Text=W pełni zrozumiałem twoją propozycję i przystałem na jej wszystkie warunki,  ale nie miałem pojęcia, że zechcesz zrealizować swoje plany tak szybko.{^n}{^n}Rozwiązanie obecnej rady i wyznaczenie w ich miejsce własnych członków to odważny ruch, który zarówno dla mnie, jak i dla rodów które zgodziły się dołączyć do porozumienia, stanowi poważne ryzyko zniesławienia. Tylko tego poranka, otrzymałem pismo od Domu Greystone, w którym Fredric Greystone grozi doniesieniem do Wysokiej Rady Erulanu i prosi o "wsparcie" go w "obaleniu" twojego "bezprawnego roszczenia władzy". Na ten moment, nie mam wyboru jak tylko zgodzić się na jego malutki wspaniały plan, by bronić reputacji Domu Marion.{^n}{^n}Greystone przedstawił też kilka interesujących zarzutów odnośnie twojego pobytu w stolicy. Bardzo chętnie omówię je podczas spotkania twarzą w twarz.{^n}{^n}Dodatkowo, nasze operacje w dzielnicy Świec napotkały na silny opór. Te nędzne karaluch, które zatruwają ulice, sądzą, że mogą się czegoś domagać od Korony wzgórz i grożą powstaniem, jeśli nie przystaniemy na ich żądania.{^n}{^n}Chociaż nie mam wątpliwości, że dotrzymasz warunków naszej małej umowy, modlę się by nasze oba wspaniałe domy znalazły rozwiązanie problemu rosnącej masy biedaków, którzy uważają dzielnicę świec za swój dom.{^n}{^n}Z poważaniem,{^n}{^n}-Ronald Marion
+
+#MalmouthAetherialEnclave_01
+tagGDX1LoreObj_AreaF_NoteA13Name=Sprawozdanie Rady dla  Theodina Marcella
+tagGDX1LoreObj_AreaF_NoteA13codexTitle=Raport Rady
+tagGDX1LoreObj_AreaF_NoteA13Text=Jest mi miło donieść, że pomimo początkowych opóźnień, nasze wysiłki w Porcie Valbury opłaciły się i pełny zakres planu zaczyna przynosić owoce. Raporty od Van Aldritcha wskazują na to, że zbieranie naczyń przebiega obecnie bez żadnych zakłóceń i kolejny transport zostanie migiem załadowany i przygotowany dla twoich osobistych potrzeb. Wygląda na to, że nasza inwestycja w to naczynie, została dobrze pomyślana, tak jak przewidywałeś.{^n}{^n}Głównym wyzwaniem pozostaje przemieszczenie naczyń przez port. Przekierowałem dostawy do doków Blackiron, gdzie dokładniejsza kontrola ładunku jest mniej prawdopodobna, ze względu na częste przemieszanie się wojskowych i fakt, że narzuciliśmy pracownikom doków tak przytłaczający harmonogram, że nie mają czasu zadawać pytań.{^n}{^n}Pomimo wszystko, mamy tam obecnie bardzo mały nadzór. Nadmienię jednak, że Vernath z zarządu portu okazał się bardzo prostym celem. Jest małym i niepewnym człowieczkiem, z cechami, które sprawiają że łatwo nim sterować. Przez niego, nakazaliśmy szefom portu zgłaszać w tygodniowych raportach wszelkie nietypowe wydarzenia i niespodziewane przybycia. To pozwala nam bliżej i w ciszy monitorować aktywność portu, tak by nie było żadnych przypadkowych wycieków naszych planów, aż do rozpoczęcia Wielkiego Świtu. Zdecydowane rozprawianie się z wypadkami zasieje strach i nieufność wśród pracowników doków, co zapewni, że unikniemy kolejnych incydentów.{^n}{^n}Dodatkowo, znacznie przyspieszyła praca nad znakomitymi domami Korony Wzgórz. Dość powszechne są wśród tych bogatych ludzi takie cechy jak nielojalność, dążenie do władzy i zarozumiałość. Walczą nawet między własnymi rodzinami, wystarczy delikatna prowokacja. Rada powinna nadal zachęcać do takich wewnętrznych sporów, aż do czasu, gdy uzyskamy dostateczny wpływ na elity tego miasta i wybierzemy najbardziej odpowiednie naczynia.{^n}{^n}Z wyrazami szacunku,{^n}{^n}Urzędujący radny{^n}{^n}Alberran Rein
+
+#MalmouthAetherialFactory_01
+tagGDX1LoreObj_AreaF_NoteA14Name=Nowy konsensus
+tagGDX1LoreObj_AreaF_NoteA14Text=Nie można lekceważyć naszych ostatnich niepowodzeń w Homstead i poza nim. Jednakże, sądzę, że możemy wykorzystać tę niefortunną sytuację na naszą korzyść.  Nie możemy się bać bezmyślnego wymachiwania szabelką tych bezsilnych stworzeń. Podczas gdy ludzie są ślepo zapatrzeni w  intrygi dziecka Martwego Boga, my musimy wykorzystać tę okazję i doprecyzować nasze priorytety. Z rozkazu Overlorda Van Aldritcha, zarządzam zmianę ostatniego konsensusu.{^n}{^n}Zgodnie z nowymi ustaleniami, Mistrz Trupów zostanie ponownie przeniesiony do Malmouth i niezwłocznie dokończy swoje ostatnie zadanie bez dalszych przerw. Postęp w Fabryce Ciał został zatrzymany podczas jego nieobecności i jest to poważny błąd.{^n}{^n}Marcell zostanie przywrócony na swoje stanowisko w Malmouth, gdzie ponownie skupi się nad rozbudową fabryki, jako serce tej operacji. Ten projekt nie może doznać żadnych dalszych opóźnień. Dlatego niedobór naczyń nie będzie akceptowany.{^n}{^n}Wszystkie okoliczne regiony mają podwoić gromadzenie i kierować wszystkie przesyłki bezzwłocznie do Malmouth.{^n}{^n}-Adiunkt Orin Vostra, Czwarty z Pięciu Kręgów
+
+#MalmouthAetherialFactory_02
+tagGDX1LoreObj_AreaF_NoteA15Name=Powodzenie z urodzeniami
+tagGDX1LoreObj_AreaF_NoteA15Text=Jestem szczęśliwy mogąc zakomunikować, że nasze eksperymenty na żeńskich próbkach okazały się nadzwyczajnym sukcesem.{^n}{^n}Wygląda na to, że te naczynia są bardziej podatne na nasze metody impregnacji niż początkowo sądziliśmy. Dodatkowo, młodsze, zdrowsze okazy, wykazują niewiarygodną szybkość wzrostu i zdrowienia. Ich ciała są bardziej wytrzymałe i wystarczają na dłużej, co pozwala nam zwiększać ilość i częstotliwość impregnacji, ze zdumiewającym skutkiem. Udowodniliśmy, że te okazy są zdolne do przyjmowania dwóch i więcej jajeczek na macicę. Zredukowaliśmy wymagany okres ciąży o połowę, a dzięki większej żywotności naczyń sądzimy, że jesteśmy w stanie jeszcze przyspieszyć cały proces.{^n}{^n}Z całym przekonaniem mogę powiedzieć, że jesteśmy w stanie jeszcze poprawić proces, tak długo jak tylko będziemy otrzymywać świeży dopływ naczyń. Jednakże, w związku z szybko malejącą populacją Malmouth, nadszedł czas, by sięgnąć po rezerwy żywej tkanki do Erulanu i dalej.
+
+#MalmouthAetherialFactory_03
+tagGDX1LoreObj_AreaF_NoteA16Name=Pismo do Mistrza Trupów
+tagGDX1LoreObj_AreaF_NoteA16Text=Na wstępie, muszę przeprosić za ton mojej ostatniej wiadomości. Twoje ostatnie eksperymenty w Malmouth wprawiły Krąg w przeświadczenie, że odbiegasz od ustalonego Konsensusu. Teraz widzimy, że myliliśmy się w naszej ocenie.{^n}{^n}Krąg wyraża najwyższe zainteresowanie eksperymentami nad żywą tkanką. Jeśli odkrycia są rzeczywiście tak obiecujące, jak donosisz, to nowy konsensus powinien być zarządzony bez zbędnej zwłoki; taki, który weźmie pod uwagę nowe parametry dla naszej wielkiej wizji.{^n}{^n}To z kolei prowadzi do kolejnej sprawy, która wywołała potrzebę stworzenia tego pisma. Krąg został ostrzeżony o pewnych zaburzeniach w Aetherze, które mogą być niepokojące. Wielkie oczy kierują teraz uwagę w kierunku tego świata. Jeśli dowiedzą się, do czego tu doszło, wtedy wszystko co stworzyliśmy, co osiągnęliśmy, może zostać narażone na niebezpieczeństwo. Nasza wielka wizja nie może być przerwana przez kosmiczne rozmyślania.{^n}{^n}Zwycięstwo jest w zasięgu ręki i musimy po nie sięgnąć! To roztropne z twojej strony Mistrzu Trupów, iż wypełniasz swoją rolę bez problemu i ufam, że nie będzie dalszych komplikacji. Nie można tolerować dalszych opóźnień. Nie możemy sobie dłużej pozwolić na  cierpliwość.{^n}{^n}-Adiunkt Orin Vostra, Czwarty z Pięciu Kręgów
+
+#MalmouthIndustrial_04 Theodin
+tagGDX1LoreObj_AreaF_NoteA17Name=W celu rozbicia miasta
+tagGDX1LoreObj_AreaF_NoteA17Text=Docieram do miejsca urodzin mojego naczynia, jak tego wymagały ustalenia Konsensusu. Zabieram się teraz do niezbędnych zadań, by zapewnić naszym operacjom w Malmouth postęp zgodny z planem i w wymaganym terminie.{^n}{^n}To naczynie będzie idealne do zapewnienie upadku miasta. Był wykształcony w stolicy zgodnie z wymogiem jego bogatej rodziny, familii z potężnymi koneksjami wśród elity Malmouth. Nie ma żadnych wymagań ani współczucia co do społeczności, pozbawiony wszelkiej empatii dla swych sprzymierzeńców. Wszystko czego pragnął to wiedza, ta wiedza, której inni unikają, bądź której się brzydzą. Wzmocnienie takich okrutnych dążeń było naturalne i teraz jest mój.{^n}{^n}W masce Theodina Marcella, wniknę do elity tego miasta i wykorzystam skorumpowane serce, które w nim bije. Jak jeden może rozbić takie miasto? Jeśli pozwoli zgniliźnie jego kruchej egzystencji rozkwitnąć. Z pomocą mojej dłoni, rozkwitnie z pewnością cudownie. {^n}{^n}-Theodin Marcell, Chirurg
+
+
+tagGDX1LoreObj_AreaF_MadRamblingsName=Zapiski z pamięci Ivondy
+tagGDX1LoreObj_AreaF_MadRamblingsCodexTitle=Pamięć Ivondy
+tagGDX1LoreObj_AreaF_MadRamblingsText=Pod iglicą, pod podłogą, gdzie upadł zwiastun. W dół schodów, ukryta podłoga i klucz, tam gdzie ułożone są płonące węgle...
+
+tagLoreObj_AreaF_KatrineNote_Name=Wiadomość Katriny do Alice
+tagLoreObj_AreaF_KatrineNote_Text=Moja droga Alice, zawiodłam cię.{^n}{^n}Szukałam tak daleko jak tylko poniosło mnie me marne ciało, a teraz umieram.{^n}{^n}Gdy moja ścieżka dobiega końca, serce wypełnione jest strachem. Tak bardzo chciałabym cię objąć ten ostatni raz, by poczuć rytm twojego serca, zobaczyć twój ciepły uśmiech, ale wiem, że tak nie będzie.{^n}{^n}Świat to nie miejsce na marzenia i opuściła mnie już wszelka nadzieja. Jednak modlę się, byś w jakiś sposób, pomimo wszystko, przeżyła koszmary, które zalały tę ziemię.{^n}{^n}Gdziekolwiek pójdę, czymkolwiek się stanę, będę cię szukała, moja piękna, maleńka Alice.
+
+tagGDX1LoreObj_AreaF_Puppetmaster01Name=Rozkazy Allostrii
+tagGDX1LoreObj_AreaF_Puppetmaster01Text=Zgodnie z naszym dekretem, udasz się do Malmouth. W najwyższym pośpiechu, zdobądź potrzebne zasoby do tej długiej podróży. Jak tylko dotrzesz masz za zadanie ustalić postęp poczyniony pod władaniem Mistrza Trupów. Mamy powody sądzić, że jego ostatnie działania różniły się od Konsensusu i teraz zagraża on naszej wielkiej wizji.{^n}{^n}Jeśli nasze podejrzenia są prawdziwe, rozpocznij od razu starania nad powrotem Twórcy do Erulanu I zajmij jego miejsce w sercu operacji w Malmouth. Jeśli zaś nasze podejrzenia są mylne, zaraportuj ten fakt bezzwłocznie i upewnij się, że ustalenia Konsensusu są wykonywane jak nakazano.{^n}{^n}Ich oczy kierują się ku nam, więc musimy być szybsi w naszych poczynaniach. Żaden z elementów tej układanki nie może mieszać zgodnie z własnymi kaprysami. Nie możemy narażać się na ryzyko, kiedy zwycięstwo jest w zasięgu ręki.{^n}{^n}-Adiunkt Orin Vostra, Czwarty z Pięciu Kręgów
+
+tagGDX1LoreObj_AreaF_Special01Name=Zawracaj!
+tagGDX1LoreObj_AreaF_Special01Text=Wyczuwam w tobie cel, podróżniku, nieustające dążenie. Jednak na końcu większość śmiertelników pragnie tylko uniknąć śmierci. Jeśli nie czujesz strach, choć powinieneś, w takim wypadku, podążaj dalej.{^n}{^n}Nie bądź taki napalony. Gdy płomień spotka płomień, droga naprzód zostanie otwarta, a nasze spotkanie będzie o krok bliżej.
+
+tagGDX1LoreObj_AreaF_Special02Name=To twoja ostatnia szansa!
+tagGDX1LoreObj_AreaF_Special02Text=Droga naprzód pokryta jest kośćmi aspirantów takich jak ty. Każdy z nich poległ w rzeczywistości, która jest nie do pojęcia.{^n}{^n}Zawróć teraz, kiedy jeszcze możesz, śmiertelniku, w przeciwnym wypadku mój świat upomni się i o ciebie.
+
+tagGDX1LoreObj_AreaF_Special03Name=Nie jesteś tu mile widziany!
+tagGDX1LoreObj_AreaF_Special03Text=Twój upór mnie bawi, śmiertelniku. Myślisz o sobie jako o gladiatorze na arenie życia, przedzierającym się ponad tłumy przeciętniaków.{^n}{^n}Ale tu, w moim świecie, jesteś tylko kolejnym głupcem, który poszukuje wartościowej według niego nagrody. Ostatecznie, taka chciwość jest przyczyną każdego zła, kwitnącą w żądzy krwi.
+
+
+#Guards
+
+
+#Merchants and Other Services
+
+tagGDX1NPC_MerchantC101=Vinelton
+tagGDX1StoreTitle_MerchantC101=W pełni naturalne warzywa
+
+#Area E
+tagGDX1NPC_ReallocatorA01=Novi
+tagGDX1StoreTitle_ReallocatorA01=Duchowy Przewodnik
+
+tagGDX1NPC_MerchantA01=Igallia
+tagGDX1StoreTitle_MerchantA01=Dobra Sabatu
+
+tagGDX1NPC_MerchantA02=Miss Wealay
+tagGDX1StoreTitle_MerchantA02=Wszelkie Dobra
+
+tagGDX1NPC_SmugglerA01=Ogarra
+tagGDX1StoreTitle_SmugglerA01=Szmugler
+
+#Area F
+tagGDX1NPC_ReallocatorA02=Rena
+tagGDX1StoreTitle_ReallocatorA02=Duchowy Przewodnik
+
+tagGDX1NPC_InventorA01=Nadia
+tagGDX1StoreTitle_InventorA01=Wynalazca
+
+tagGDX1NPC_MerchantA03=Hyram
+tagGDX1StoreTitle_MerchantA03=Rzadkie Dobra
+
+tagGDX1NPC_MerchantA04=Hannah
+tagGDX1StoreTitle_MerchantA04=Dobra zebrane z ulicy
+
+tagGDX1NPC_SmugglerA02=Igor
+tagGDX1StoreTitle_SmugglerA02=Szmugler
+
+tagGDX1NPC_SmithA01=Kaylon
+tagGDX1StoreTitle_SmithA01=Mistrz Kowalstwa
+tagGDX1StoreDesc_SmithA01_1={}Wykute w Malmouth
+tagGDX1StoreDesc_SmithA01_2=Kaylon jest mistrzem w wykorzystywaniu pieców z Malmouth. Jego zbroje i miecze uchodzą za najlepsze w tej okolicy.
+tagGDX1StoreDesc_SmithA01_3= 
+tagGDX1StoreDesc_SmithA01_4=Wytworzone bronie, pancerze czy akcesoria otrzymują dodatkowo jedną z poniższych statystyk:
+
+tagGDX1NPC_SmithA02=Gaius Ember
+tagGDX1StoreTitle_SmithA02=Płonący Kowal
+tagGDX1StoreDesc_SmithA02_1={}Utrapiony Płomień
+tagGDX1StoreDesc_SmithA02_2=Gaius jest skazany na wieczne cierpienie, przekleństwo które przekuwa obecnie w każdą z jego prac.
+tagGDX1StoreDesc_SmithA02_3= 
+tagGDX1StoreDesc_SmithA02_4=Wytworzone bronie, pancerze czy akcesoria otrzymują dodatkowo jedną z poniższych statystyk:
+
+tagGDX1NPC_SmithA03=Bella Fald
+tagGDX1StoreTitle_SmithA03=Nieziemski Kowal
+tagGDX1StoreDesc_SmithA03_1={}Nieziemska Kuźnia
+tagGDX1StoreDesc_SmithA03_2=Bella potrafi podobno wykuwać przedmioty z samych gwiazd, a także przedmioty legendarne aż do poziomu 94.
+tagGDX1StoreDesc_SmithA03_3= 
+tagGDX1StoreDesc_SmithA03_4=Wytworzone bronie, pancerze czy akcesoria otrzymują dodatkowo jedną z poniższych statystyk:
+
+tagGDX1NPC_SmithA04=Arcturus
+tagGDX1StoreTitle_SmithA04=Przeklęty Kowal
+tagGDX1StoreDesc_SmithA04_1={}Mroczna Kuźnia
+tagGDX1StoreDesc_SmithA04_2=Młot Arcturusa został wypaczony przez czarną magię do takiego stopni, że stał się prawie bezużyteczny, a pomimo to wciąż dostosowuje się sprawnie do woli mistrza.
+tagGDX1StoreDesc_SmithA04_3= 
+tagGDX1StoreDesc_SmithA04_4=Wytworzone bronie, pancerze czy akcesoria otrzymują dodatkowo jedną z poniższych statystyk:
+
+tagGDX1NPC_IllusionistA01=Wevala
+tagGDX1NPC_IllusionistS01=Wevala
+tagGDX1NPC_IllusionistA02=Paulia
+tagGDX1NPC_IllusionistA03=Allios
+tagGDX1NPC_IllusionistA04=Grados
+tagGDX1StoreTitle_IllusionistA01=Iluzjonista
+
+
+
+
+
+#Faction Quartermasters
+tagGDX1NPC_FactionQuartermaster_01=Falonestra
+tagGDX1StoreTitle_FactionQuartermaster_01=Towary Sabatu
+
+tagGDX1NPC_FactionQuartermaster_02=Plaudia
+tagGDX1StoreTitle_FactionQuartermaster_02=Kwatermistrz
+
+tagGDX1NPC_FactionQuartermaster_03=Igrid Galstrom
+tagGDX1StoreTitle_FactionQuartermaster_03=Kwatermistrz
+
+tagGDX1NPC_FactionQuartermaster_04=Ronan Karkan
+tagGDX1StoreTitle_FactionQuartermaster_04=Kwatermistrz
+
+
+#Faction Bounty Tables
+tagGDX1NPC_FactionTable_01=Punkt Zleceń Sabatu z Ugdenbog
+tagGDX1NPC_FactionTable_02=Punkt Zleceń w Barrowholm
+tagGDX1NPC_FactionTable_03=Punkt Zleceń w Malmouth
+
+
+#Devotion Shrines
+tagGDX1DevotionShrineE01=Gloomwald
+tagGDX1DevotionShrineE02=Ugdenbog
+
+tagGDX1DevotionShrineF01=Malmouth
+tagGDX1DevotionShrineF02=Korona Wzgórz
+tagGDX1DevotionShrineF03=Starożytny Gaj
+
+tagGDX1DevotionShrineS03=???
+

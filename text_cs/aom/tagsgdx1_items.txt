@@ -1,0 +1,1936 @@
+
+#Weapons
+
+
+tagGDX1WeaponSwordB101=[ms]{^L}Wendigův dráp
+tagGDX1WeaponSwordB101Desc="Dráp páchne hnilobou."
+tagGDX1WeaponSwordB102=[ms]{^L}Wendigův bodák
+tagGDX1WeaponSwordB102Desc="Z drápu odpadává špína."
+
+tagGDX1WeaponSwordC101={^B}Elgothova čistá ocel
+tagGDX1WeaponSwordC101_Desc="Poté, co byl meč poskvrněný zkaženým dotykem členů Chthonského kultu, obnovili jeho zašlou slávu Lumináři."
+tagGDX1WeaponSwordC104={^B}Legionářova chlouba
+
+tagGDX1WeaponSwordD101={^I}Břitva smrti
+tagGDX1WeaponSwordD102={^I}Pagarova zrada
+tagGDX1WeaponSwordD102_Desc="Žádná zrada nikdy nezasáhla nikoho tak hluboko jako v den, kdy se inkvizitor Pagar odhalil při použití moci Prázdnoty během výcviku Luminářů."
+tagGDX1WeaponSwordD105={^I}Nouze
+tagGDX1WeaponSwordD106={^I}Ohnivé srdce
+tagGDX1WeaponSwordD106_Desc="Na paži je krví vyleptáno písmeno D."
+tagGDX1WeaponSwordD107=(S) {^I}Belgothianův kráječ
+
+tagGDX1WeaponSwordF101={^B}Malmouthský kráječ
+tagGDX1WeaponSwordF102={^B}Malmouthská čepel
+tagGDX1WeaponSwordF103={^B}Wendigova čelist
+tagGDX1WeaponSwordF104={^I}Spasitel Malmouthu
+
+
+tagGDX1WeaponBluntB101=[ns]{^L}Bargollovo srdce
+tagGDX1WeaponBluntB101Desc="Bargollovo kamenné srdce vyzařuje chladnou smrt."
+tagGDX1WeaponBluntB102=[fs]{^L}Bargollova duše
+tagGDX1WeaponBluntB102Desc="Jakmile žijící Bargollova duše začne prahnout po esenci života, jeho majitel opět ožije."
+
+tagGDX1WeaponBluntC101={^B}Pokořitel smrti
+
+tagGDX1WeaponBluntD101={^I}Malakorova infúze
+tagGDX1WeaponBluntD101_Desc="Alchymista Malakor, blízký spojenec Luminářů, skul tuto zbraň v živelném plameni, aby mohl bojovat s Tajemnými duchy podle svých vlastních podmínek."
+tagGDX1WeaponBluntD103={^I}Amarastin drtič
+tagGDX1WeaponBluntD104={^I}Drtipěst
+tagGDX1WeaponBluntD105=(S) {^I}Drtipěst kamenného strážce
+
+tagGDX1WeaponBluntF101={^B}Malmouthské válečné kladivo
+tagGDX1WeaponBluntF102={^B}Malmouthský palcát
+tagGDX1WeaponBluntF103={^B}Wendigův palcát
+tagGDX1WeaponBluntF104={^I}Wendigův řev
+
+tagGDX1WeaponAxeB101=[ms]{^L}sluhův plátkovač
+tagGDX1WeaponAxeB102=[ms]{^L}sluhův narušovač
+tagGDX1WeaponAxeB103=[ms]{^Y}sekáček krveprolití
+
+tagGDX1WeaponAxeC101={^B}Halvorův loupač kůže
+
+tagGDX1WeaponAxeD101={^I}Pustošitelův kousanec
+tagGDX1WeaponAxeD101_Desc="Složen z drápů jednotlivých vzezření velkého Pustošitele."
+tagGDX1WeaponAxeD103={^I}Noční pařát
+tagGDX1WeaponAxeD104={^I}Ostří příčetnosti
+tagGDX1WeaponAxeD104_Desc="Není úplně jisté, zda k nepříčetnosti přivádí své oběti... nebo majitele."
+tagGDX1WeaponAxeD105=(S) {^I}Korbin stínač
+tagGDX1WeaponAxeD106=(S) {^I}Korbina posedlost
+
+tagGDX1WeaponAxeF101={^B}Čarodějčin sekáček
+tagGDX1WeaponAxeF102={^B}Čarodějčina sekyrka
+tagGDX1WeaponAxeF103={^B}Wendigův sekáček
+tagGDX1WeaponAxeF104={^I}Měsíc čarodějnic
+
+
+tagGDX1WeaponGun1hB101=[ms]{^L}ugdenský řev
+tagGDX1WeaponGun1hB101Desc="Naplněný duchem Wendiga."
+tagGDX1WeaponGun1hB102=[ms]{^L}ugdenský metač jedu
+tagGDX1WeaponGun1hB102Desc="Každá střela je máčena ve speciální směsi z divokých zvířat žijících v Ugdenbogu."
+tagGDX1WeaponGun1hB103=[fs]{^Y}Hromobijka
+
+tagWeaponGun1hC013B={^B}Vyjednavač
+tagGDX1WeaponGun1hC101={^B}Hlasitý odpor
+tagGDX1WeaponGun1hC101B={^B}Odpor
+tagGDX1WeaponGun1hC102={^B}Aldurův výslech
+tagGDX1WeaponGun1hC102_Desc="Třetí ruka inkvizitora Aldura, proslulého lovce kacířů a zabijáka Galbar'Thuula."
+tagGDX1WeaponGun1hC103={^Z}Gargabolova duše
+tagGDX1WeaponGun1hC103_Desc="Záblesk plamene kdysi mocného strážce stále vyzařuje ze svého nitra."
+tagGDX1WeaponGun1hC108={^B}Ultosův metač bouří
+tagGDX1WeaponGun1hC110=(S) {^B}Luminářská tajná zbraň
+
+tagGDX1WeaponGun1hD101={^I}Morguulova smrtelnost
+tagGDX1WeaponGun1hD101_Desc="Mistr Morguul zdokonalil náboje pro tuto střelnou zbraň sloučením nekrotických sil a smrtících toxinů, aby vytvořil tajnou zbraň, která urychluje hnilobu a rozklad."
+tagGDX1WeaponGun1hD102={^I}Anderosův zesilovač
+tagGDX1WeaponGun1hD102_Desc="Příruční zbraň speciálně navržená inkvizitorem Anderosem, aby zvýšil účinnost již tak hrozivého mistrovství s alchymistickými runami."
+tagGDX1WeaponGun1hD103={^I}Arkánum Elektrolýzum
+tagGDX1WeaponGun1hD103_Desc="Zbraň vyrobená přesně podle zadání mistra Agravixe, Pána Temnot ze Stříbrné věže."
+tagGDX1WeaponGun1hD107={^I}Oharek
+tagGDX1WeaponGun1hD108=(S) {^I}Pevnostní revolver
+tagGDX1WeaponGun1hD109=(S) {^I}Vystřelovač temného plamene
+tagGDX1WeaponGun1hD110=(S) {^I}Dagallonův ničitel
+tagGDX1WeaponGun1hD110_Desc="Hlaveň je pokreslena runami, aby nábojnice získaly nadpřirozenou sílu."
+tagGDX1WeaponGun1hD111=(S) {^I}Dagallonův vybíječ
+tagGDX1WeaponGun1hD112={^I}Hagarradianův vymahač
+tagGDX1WeaponGun1hD112_Desc="Zásobník má vystýlku z originální Hagarradovy runy, a tak nese každá vystřelená nábojnice smrtící chlad."
+tagGDX1WeaponGun1hD114={^F}Gargabolova zkaženost
+tagGDX1WeaponGun1hD114_Desc="Kdysi to býval hrdý strážce přírody. Nyní navždy zmařený život zkažený dotykem Prázdnoty."
+
+tagGDX1WeaponGun1hF101={^B}Čarodějčino ruční dělo
+tagGDX1WeaponGun1hF101_Desc="Lóže čarodějek tuhle zbraň sice napodobila, ale vzhledově se příliš nepovedla."
+tagGDX1WeaponGun1hF102={^B}Čarodějčin jedomet
+tagGDX1WeaponGun1hF102_Desc="Do této zbraně byla vetknuta zvláštní tajemství, i když vzhledově vypadá dost divně."
+tagGDX1WeaponGun1hF103={^B}Wendigova opakovačka
+tagGDX1WeaponGun1hF104={^I}Šestipal
+
+
+tagGDX1WeaponGun2hB101=[fs]{^L}ugdenská jiskra
+tagGDX1WeaponGun2hB101Desc="Kamenné srdce bažinného golema se překvapivě ukázalo jako snadno tvarovatelné, když bylo vystaveno tajemným energiím. To umožnilo vetknout jej do zbrojí, nástrojů či dokonce do zbraní."
+tagGDX1WeaponGun2hB102=[ms]{^L}ugdenský žlučomet
+tagGDX1WeaponGun2hB103=[ms]{^L}ugdenský vrhač šipek
+tagGDX1WeaponGun2hB104=[ms]{^L}ugdenský navíječ tajemna
+tagGDX1WeaponGun2hB105=[fs]{^Y}Puška ohnivého dozorce
+
+tagGDX1WeaponGun2hC101={^B}Vyšetřovatel
+tagGDX1WeaponGun2hC101B={^B}Vyšetřovatel
+tagGDX1WeaponGun2hC102={^B}Přízračné dělo
+tagGDX1WeaponGun2hC102_Desc="Ukováno z energií trýzněných duší."
+tagGDX1WeaponGun2hC103={^B}Spalující čistič
+tagGDX1WeaponGun2hC106={^B}Amarastin vrhač dýk
+tagGDX1WeaponGun2hC106_Desc="netradiční vzhled, který vytvořila Amarasta, mistryně Nočních lovců."
+tagGDX1WeaponGun2hC110={^B}Hvězdný proud
+
+tagWeaponGun2hD001B={^I}Odpůrce
+tagWeaponCrossbow2hD003B={^I}Severský červ
+tagGDX1WeaponGun2hD101={^I}Elgolothův vyvolavač
+tagGDX1WeaponGun2hD102={^I}Strašidelný žahour
+tagGDX1WeaponGun2hD102_Desc="Prudký požár chrlený touto zbraní je stejně nebezpečný jak pro majitele, tak pro jeho nepřátele."
+tagGDX1WeaponGun2hD104={^I}Gildorova drtička
+tagGDX1WeaponGun2hD104_Desc="Zbraň, jež je plná Luminářských tajemství, uvolňuje s každým výstřelem nevyzpytatelnou sílu."
+tagGDX1WeaponGun2hD106={^I}Otrávená harpuna
+tagGDX1WeaponGun2hD107=(S) {^I}Runotepcův metač kouzel
+
+tagGDX1WeaponGun2hF101={^B}Malmouthská karabina
+tagGDX1WeaponGun2hF102={^B}Malmouthská puška
+tagGDX1WeaponGun2hF103={^B}Wendigův metač odštěpků
+tagGDX1WeaponGun2hF104={^I}Beznaděj
+tagGDX1WeaponGun2hF104_Desc="Každý nepřítel je pouze na chvíli ušetřen toho, co bude následovat."
+
+
+tagGDX1WeaponMelee2hB101=[fs]{^L}duše masového rváče
+tagGDX1WeaponMelee2hB102=[ms]{^L}úlomek masového rváče
+tagGDX1WeaponMelee2hB103=[ms]{^Y}Střevodrtič
+
+tagGDX1WeaponMelee2hC101={^B}Půlič duší
+tagGDX1WeaponMelee2hC101_Desc="O ostří této kosy se říká, že kosí víc než jen maso."
+tagGDX1WeaponMelee2hC102={^B}Cesarinův rozsudek
+tagGDX1WeaponMelee2hC107={^B}Ultosova pěst
+
+tagWeaponMelee2hD002B={^I}Gilotina
+tagGDX1WeaponMelee2hD101={^I}Dotek smrti
+tagGDX1WeaponMelee2hD102={^I}Strážce Brány mrtvých
+tagGDX1WeaponMelee2hD102_Desc="Říká se, že zbraň kdysi nosil samotný Uroboruuk, i ten nejmenší dotek ostří zachytí duši nepřítele."
+tagGDX1WeaponMelee2hD103={^I}Arcanor, nůž Luminářů
+tagGDX1WeaponMelee2hD103_Desc="Obřadní nůž řádu Luminářů, který byl po celá staletí předáván z vůdce na vůdce."
+tagGDX1WeaponMelee2hD107={^I}Odšťavňovač
+tagGDX1WeaponMelee2hD107_Desc="Z ostnů donekonečna odkapávají tekutiny z vnitřností dávných obětí."
+tagGDX1WeaponMelee2hD108=(S) {^I}Mstitelův drtič
+
+tagGDX1WeaponMelee2hF101={^B}Čarodějčin drtič hlav
+tagGDX1WeaponMelee2hF102={^B}Malmouthský velký meč
+tagGDX1WeaponMelee2hF103={^B}Wendigův stínač
+tagGDX1WeaponMelee2hF104={^I}Rychlý plamen
+
+
+tagGDX1WeaponCaster1hA101=[ns]{^W}žezlo ochranáře
+tagGDX1WeaponCaster1hA102=[ns]{^W}spasitelovo žezlo
+tagGDX1WeaponCaster1hA103=[fs]{^W}dýka ochranáře
+tagGDX1WeaponCaster1hA104=[fs]{^W}spasitelova dýka
+
+tagGDX1WeaponCaster1hB101=[ms]{^L}ugdenský ohnivý rozbroj
+tagGDX1WeaponCaster1hB102=[ms]{^L}ugdenský mrazivý rozbroj
+tagGDX1WeaponCaster1hB103=[ms]{^L}ugdenský bouřný rozbroj
+tagGDX1WeaponCaster1hB104=[fs]{^L}hůlka nadvlády
+tagGDX1WeaponCaster1hB105=[ms]{^L}prapředek
+tagGDX1WeaponCaster1hB106=[ms]{^Y}hůlka mrazivé hniloby
+tagGDX1WeaponCaster1hB107=[ns]{^Y}žezlo mrtvých dětí
+tagGDX1WeaponCaster1hB108=[ns]{^L}srdce Theodina Marcella
+tagGDX1WeaponCaster1hB108_Desc="Kousek moci stále koluje v srdci svého pána."
+
+tagGDX1WeaponCaster1hC101={^B}Pustošitelův bodec
+tagGDX1WeaponCaster1hC102={^B}Jaravuukův štípanec
+tagGDX1WeaponCaster1hC102_Desc="Rituální čepel mistra Jaravuuka, o které se říká, že se prolíná se samotným životem."
+tagGDX1WeaponCaster1hC103={^B}Ulzaadův průbojník
+tagGDX1WeaponCaster1hC103_Desc="Nebeský dech uvězněný v tomto žezle na věčné časy."
+tagGDX1WeaponCaster1hC104={^B}Vyvolavač magických bouří
+tagGDX1WeaponCaster1hC105={^B}Gar'Dalvurův prst
+tagGDX1WeaponCaster1hC105_Desc="Padlý Gar'Dalvur směl říci svým popravčím pouze jednu jedinou věc."
+tagGDX1WeaponCaster1hC113={^B}Magická čepel zuřivého plamene
+tagGDX1WeaponCaster1hC114={^B}Vyvolavač tornád
+tagGDX1WeaponCaster1hC115=(S) {^B}Kráječ Hrůzného chodce
+tagGDX1WeaponCaster1hC116={^Z}Malmouthské žezlo
+tagGDX1WeaponCaster1hC116_Desc="Tvou mysl zaplavují vidiny padlého Valburského přístavu."
+
+tagGDX1WeaponCaster1hD101={^I}Oheň děsu
+tagGDX1WeaponCaster1hD102={^I}Bodátko
+tagGDX1WeaponCaster1hD102_Desc="Čepele se prolínají s neuvěřitelnou lehkostí skrze realitu, jako když klíč pasuje do zámku."
+tagGDX1WeaponCaster1hD103={^I}Tkadlec hrůzy
+tagGDX1WeaponCaster1hD104={^I}Vyvolavač mrazivého plamene
+tagGDX1WeaponCaster1hD105={^I}Elgolothova runa
+tagGDX1WeaponCaster1hD105_Desc="Zbraň inspirovaná původní Elgolothovou Krabičkou bouří, jehož runy nyní zdobí toto žezlo."
+tagGDX1WeaponCaster1hD106={^I}Chlemtač kouzel
+tagGDX1WeaponCaster1hD106_Desc="Touží to požrat jakékoliv kouzlo, ale jeho účinek se přenese na majitele."
+tagGDX1WeaponCaster1hD113={^I}Pandemie
+tagGDX1WeaponCaster1hD114={^I}Jiskra reality
+tagGDX1WeaponCaster1hD114_Desc="Pohled na tuto zbraň je jako hledět do obrovské propasti - neuvěřitelný a ohromující."
+tagGDX1WeaponCaster1hD115=(S) {^I}Hledač ztracených duší
+tagGDX1WeaponCaster1hD116=(S) {^I}Allagastův poutač bouří
+tagGDX1WeaponCaster1hD117=(S) {^I}Čepel strážce smrti
+tagGDX1WeaponCaster1hD118={^F}Malmouthský dekret
+tagGDX1WeaponCaster1hD118Desc="Tvou mysl zaplavuje vidina padlého Valburského přístavu."
+
+tagGDX1WeaponCaster1hF101={^B}Čarodějčina Aetherická jiskra
+tagGDX1WeaponCaster1hF102={^B}Čarodějčin tahač vnitřností
+tagGDX1WeaponCaster1hF103={^B}Čarodějčin snovač kouzel
+tagGDX1WeaponCaster1hF104={^B}Malmouthský vrhač plamene
+tagGDX1WeaponCaster1hF105={^B}Malmouthský vrhač bouří
+tagGDX1WeaponCaster1hF106={^B}Malmouthský vrhač mrazu
+tagGDX1WeaponCaster1hF107={^B}Wendigův chlemtač krve
+tagGDX1WeaponCaster1hF108={^B}Wendigův spřadač chaosu
+tagGDX1WeaponCaster1hF109={^B}Wendigův spřadač Aetheru
+tagGDX1WeaponCaster1hF110={^I}Čarovný plamen
+tagGDX1WeaponCaster1hF111={^I}Hagarazův spár
+
+
+#Shields
+tagGDX1ShieldB101=[fs]{^L}obrovitá pevnost
+tagGDX1ShieldB101Desc="Rozměry štítu vyžadují stejně obrovitou sílu."
+tagGDX1ShieldB102=[fs]{^L}obrovitá hradba
+tagGDX1ShieldB103=[fs]{^Y}kamenná zeď
+
+tagGDX1ShieldC101={^B}Hrůzný strážce
+tagGDX1ShieldC102={^B}Legionářovo pokárání
+tagGDX1ShieldC102_Desc="Historie tohoto štítu je takřka stejně dlouhá jako samotná Černá legie."
+tagGDX1ShieldC107={^B}Hradba metající bouře
+
+tagShieldD002B={^I}Poslední možnost
+tagShieldD003B={^I}Nedotknutelnost
+tagGDX1ShieldD101={^I}Chřtán zatracenců
+tagGDX1ShieldD101_Desc="Ten, jež přijme Wendigův dar, zůstane navždy prokletý."
+tagGDX1ShieldD102={^I}Erulanův hlídkař
+tagGDX1ShieldD102_Desc="Říká se, že jeho kamenná tvář otevře své oči až bude říši nejhůře."
+tagGDX1ShieldD103={^I}Turrionova odveta
+tagGDX1ShieldD107={^I}Šedý rytíř
+tagGDX1ShieldD107_Desc="Menhirský štít obránce bez tváře, který se sám utkal proti skupině kacířů a vyšel z této potyčky jako vítěz."
+tagGDX1ShieldD108=(S) {^I}Octaviova hradba
+tagGDX1ShieldD109=(S) {^I}Obránce pevnosti
+tagGDX1ShieldD110=(S) {^I}Hradba metače kouzel
+tagGDX1ShieldD110_Desc="Štít vyzařuje svou zničující sílu."
+
+tagGDX1ShieldF101={^B}Chránič čarodějek
+tagGDX1ShieldF102={^B}Malmouthský obránce
+tagGDX1ShieldF103={^B}Wendigův přízračný strážce
+tagGDX1ShieldF104={^I}Strážce trestanců
+
+
+#Focus
+tagGDX1FocusA101=[fs]{^W}svatá kniha
+tagGDX1FocusA102=[fs]{^W}svatá podobizna
+tagGDX1FocusA103=[ms]{^W}ochranný archiv
+tagGDX1FocusA104=[fs]{^W}ochranná sféra
+
+tagGDX1FocusB101=[fs]{^L}Terrnoxova Aetherická bible
+tagGDX1FocusB101Desc="Kniha je plná znalostí Aetheru, z čehož většinu nelze rozluštit."
+tagGDX1FocusB102=[fs]{^L}Terrnoxova bible alchymie
+tagGDX1FocusB102Desc="Kniha je plná znalostí alchymie a tajemna, o kterých věděl pouze Terrnox."
+tagGDX1FocusB103=[ms]{^L}svázaný přízrak
+tagGDX1FocusB104=[ms]{^L}zotročený přízrak
+tagGDX1FocusB105=[fs]{^L}masorvoucí bible
+tagGDX1FocusB105Desc="Bible se ve tvých rukách kroutí."
+tagGDX1FocusB106=[ms]{^L}masorvoucí kodex
+tagGDX1FocusB107=[ms]{^L}masorvoucí archiv
+tagGDX1FocusB108=[fs]{^Y}bible nepovedených kouzel
+tagGDX1FocusB109=[fs]{^Y}čadící bible
+tagGDX1FocusB110=[ms]{^L}listohřívnatcův roh
+tagGDX1FocusB111=[fs]{^L}listohřívnatcova trofej
+
+tagGDX1FocusC101={^B}Padalina vůle
+tagGDX1FocusC102={^B}Prudce jedovatý jícen
+tagGDX1FocusC102_Desc="Hnijící hlava páchne neskutečně odporně, ale toxiny, které produkuje, jsou ještě horší."
+tagGDX1FocusC103={^B}Malligostin kodex
+tagGDX1FocusC103_Desc="Malligosta vynikala v umění propojení duchovních energií do devastujících kouzel. Vyrovnala se tak kterémukoliv nekromantovi i pánu temnot."
+tagGDX1FocusC104={^B}Slova inkvizitora Abalona
+tagGDX1FocusC104_Desc="Inkvizitor Abalon byl jedním z nejtroufalejších inkvizitorů svého času, ochotný využít jakékoliv relikvie, která by i sebemenším odštěpkem dokázala zajistit bezpečnost v říši. Někteří později prohlásili jeho učení za kacířské."
+tagGDX1FocusC105={^B}Bible mrazivých křídel
+tagGDX1FocusC113={^B}Pekelná bible
+tagGDX1FocusC114={^B}Sféra mnoha čepelí
+tagGDX1FocusC114_Desc="Skutečným uměním je udržet kouli, aniž by se člověk zranil."
+tagGDX1FocusC115=(S) {^B}Bible Hrůzného chodce
+
+tagGDX1FocusD101={^I}Srp zatracení
+tagGDX1FocusD101_Desc="Předmět ve tvaru kosy jemně zavibruje pokaždé, kdy se přiblíží dychtiví duchové."
+tagGDX1FocusD102={^I}Nákaza
+tagGDX1FocusD103={^I}Bible ďábelských očí
+tagGDX1FocusD104={^I}Kodex pravdy
+tagGDX1FocusD104_Desc="Empyrionovy posvátné výroky katalogizované Agathiou Haggar, první Archónkou."
+tagGDX1FocusD105={^I}Ixillořin plamen vášně
+tagGDX1FocusD105_Desc="Nestálý a obtížně ovladatelný chemický plamen. Stačí jediná chyba a plamen se může přenést na nového mistra."
+tagGDX1FocusD111={^I}Farathova kostka
+tagGDX1FocusD111_Desc="Farathova logická kostka byla vyřešena pouze jednou, ale řešitel poté, co uvnitř spatřil ohromnou krásu, zcela oslepl."
+tagGDX1FocusD112={^I}Bič pekelný
+tagGDX1FocusD113=(S) {^I}Oko kataklyzmatu
+tagGDX1FocusD114=(S) {^I}Valguurova čočka
+tagGDX1FocusD115=(S) {^I}Uroboruukova figurka
+tagGDX1FocusD116=(S) {^I}Prorokův kodex
+
+tagGDX1FocusF101={^B}Čarodějčina ohavná figurka
+tagGDX1FocusF102={^B}Čarodějčina tajemná figurka
+tagGDX1FocusF103={^B}Čarodějčina otrávená figurka
+tagGDX1FocusF104={^B}Malmouthská bible Prázdnoty
+tagGDX1FocusF105={^B}Malmouthská bible zkaženosti
+tagGDX1FocusF106={^B}Malmouthská ďábelská bible
+tagGDX1FocusF107={^B}Wendigova figurka života
+tagGDX1FocusF108={^B}Wendigova figurka mrazu
+tagGDX1FocusF109={^B}Wendigova žíravá figurka
+tagGDX1FocusF110={^I}Malmouthský vyvolavač bouří
+
+
+#ItemStyles
+tagGDX1ArmorStyle001=[ms]{^S}Ochranný[fs]{^S}Ochranná[ns]{^S}Ochranné[mp]{^S}Ochranné[fp]{^S}Ochranné[np]{^S}Ochranné
+tagGDX1ArmorStyle002=[ms]{^S}Vykupitelův[fs]{^S}Vykupitelova[ns]{^S}Vykupitelovo[mp]{^S}Vykupitelovy[fp]{^S}Vykupitelovy[np]{^S}Vykupitelova
+tagGDX1WeaponQuality001=[ms]{^S}Vznešený[fs]{^S}Vznešená[ns]{^S}Vznešené[mp]{^S}Vznešené[fp]{^S}Vznešené[np]{^S}Vznešené
+tagGDX1WeaponQuality002=[ms]{^S}Ochranný[fs]{^S}Ochranná[ns]{^S}Ochranné[mp]{^S}Ochranné[fp]{^S}Ochranné[np]{^S}Ochranné
+
+#ArmorHead
+tagGDX1HeadB101=[fs]{^L}stoupencova kapuce
+tagGDX1HeadB102=[fs]{^L}stoupencova kápě
+tagGDX1HeadB103=[fs]{^L}Packlina kůže
+tagGDX1HeadB103_Desc="Vůbec nemáš představu, z kolika obětí se tato maska skládá."
+tagGDX1HeadB104=[fs]{^L}Packlin chránič hlavy
+tagGDX1HeadB104_Desc="Zápach z této masky je naprosto nesnesitelný."
+tagGDX1HeadB105=[fs]{^L}kapuce smrtícího šepotu
+tagGDX1HeadB106=[fs]{^L}čelenka narušitelky nebes
+tagGDX1HeadB107={^L}Namadeiny rohy
+tagGDX1HeadB107_Desc="Do této pokrývky je hluboce zažraná chladná smrt."
+
+tagGDX1HeadC101={^B}Věnec z duší
+tagGDX1HeadC101_Desc="Duchové uvězněni v této čelence svému nositeli našeptávají různá tajemství, která ne vždy jsou v jeho nejlepším zájmu."
+tagGDX1HeadC102={^B}Rotmenderův kapalec
+tagGDX1HeadC103={^B}Hledí očisty
+tagGDX1HeadC103_Desc="Svět je plný pohanů a kacířů, a tak by z milosti Luminářů, měl být od nich zcela očištěn."
+tagGDX1HeadC104={^B}Kapalec lovce odměn
+tagGDX1HeadC105={^Z}Ekket'Zulovy rohy
+tagGDX1HeadC105_Desc="V každém rohu stále kolují stopy temnoty."
+tagGDX1HeadC106={^Z}Bezduché hledí
+tagGDX1HeadC107={^Z}Poskvrněné hledí
+tagGDX1HeadC108={^Z}Pustošitelovo hledí
+tagGDX1HeadC108_Desc="Ačkoliv z fyzického světa dávno zmizela, část ducha Pustošitele přesto zůstala v této pokroucené masce."
+tagGDX1HeadC109=(S) {^B}Maska narušitele
+tagGDX1HeadC110=(S) {^B}Maska Stříbrného strážce
+tagGDX1HeadC115={^B}Chránič hlavy zvěstovatele bouří
+tagGDX1HeadC122=(S) {^B}Kápě Hrůzného chodce
+tagGDX1HeadC123=(S) {^B}Luminářský kapalec
+tagGDX1HeadC124={^B}Helmice podráždění
+tagGDX1HeadC124_Desc="Jeden by řekl, že je to až příliš vzrušení najednou."
+
+tagGDX1HeadD101={^I}Hledí Pána oživlých mrtvol
+tagGDX1HeadD102={^I}Travičova záludnost
+tagGDX1HeadD103={^I}Kouzelné hledí
+tagGDX1HeadD104={^I}Maska zkostnatělého červa
+tagGDX1HeadD109={^I}Dreegův hlas
+tagGDX1HeadD109_Desc="Požehnání a zároveň prokletí, jež bylo sneseno na ty, jež šířili záhadné poselství Dreegových slov vyslovených na jeden nádech samotným čarodějného boha."
+tagGDX1HeadD110={^I}Empyrionovo hledí
+tagGDX1HeadD110_Desc="Pod nohy svého majitele svítí z této koruny božské světlo Empyrionovo."
+tagGDX1HeadD111={^F}Pustošitelovo hledí děsu
+tagGDX1HeadD111_Desc="Ačkoliv byl z našeho světa Pustošitel navždy vyhoštěn, nějaká část jeho ducha přežívá v této masce plné krutosti."
+tagGDX1HeadD112=(S) {^F}Kriegova maska
+tagGDX1HeadD113=(S) {^I}Maska ztracených duší
+tagGDX1HeadD114=(S) {^I}Octaviovo hledí
+tagGDX1HeadD115=(S) {^I}Korbina kapuce
+tagGDX1HeadD116=(S) {^I}Šalíř temného plamene
+tagGDX1HeadD117=(S) {^I}Hledí metače kouzel
+tagGDX1HeadD118=(S) {^I}Kapuce zabijáka čarodějů
+tagGDX1HeadD119=(S) {^I}Valguurův klenot
+tagGDX1HeadD120=(S) {^I}Runotepcův kapalec
+tagGDX1HeadD121=(S) {^I}Uroboruukův chránič hlavy
+tagGDX1HeadD122=(S) {^I}Dagallonův chránič obličeje
+tagGDX1HeadD123=(S) {^I}Kapuce strážce smrti
+tagGDX1HeadD124=(S) {^I}Prorokova maska
+tagGDX1HeadD125=(S) {^F}Kapuce Pána temnot
+tagGDX1HeadD126=(S) {^I}Belgothianova maska
+tagGDX1HeadD127=(S) {^I}Radagganova maska
+tagGDX1HeadD128=(S) {^I}Mrazíkova maska
+tagGDX1HeadD129=(S) {^I}Chránič hlavy krvavého rytíře
+
+tagGDX1HeadF101={^G}Čarodějčina kapuce ohýbání myšlenek
+tagGDX1HeadF102={^G}Čarodějčina kapuce zkrocení
+tagGDX1HeadF103={^G}Čarodějčina tajemná kapuce
+tagGDX1HeadF104={^G}Čarodějčina přilbice konfliktů
+tagGDX1HeadF105={^G}Čarodějčina rozžhavená přilbice
+tagGDX1HeadF106={^G}Čarodějčina ochranná přilbice
+tagGDX1HeadF107={^G}Malmouthský šalíř vymahačů
+tagGDX1HeadF108={^G}Malmouthský šalíř ničitelů
+tagGDX1HeadF109={^G}Malmouthský mrazivý šalíř
+tagGDX1HeadF110={^G}Malmouthská žhnoucí přilbice
+tagGDX1HeadF111={^G}Malmouthská děsivá přilbice
+tagGDX1HeadF112={^G}Malmouthská přilbice obránců
+tagGDX1HeadF113={^G}Wendigova děsivá maska
+tagGDX1HeadF114={^G}Wendigova maska hanby
+tagGDX1HeadF115={^G}Wendigova maska spřadače kouzel
+tagGDX1HeadF116={^G}Wendigův řezavý šalíř
+tagGDX1HeadF117={^G}Wendigův odporný šalíř
+tagGDX1HeadF118={^G}Wendigův kalený šalíř
+
+
+#ArmorShoulders
+tagGDX1ShoulderB101=[mp]{^L}předkovy skládané nárameníky
+tagGDX1ShoulderB102=[mp]{^L}prapředkovy chrániče ramen
+tagGDX1ShoulderB103=[mp]{^L}Kra'vallovy chrániče ramen
+tagGDX1ShoulderB103_Desc="Tuhá kůže Ugdenského krakena může být obtížně zpracovatelná, ale kováři si ji velmi cení pro její vlastnosti."
+tagGDX1ShoulderB104=[fp]{^L}Kra'vallovy vycpávky
+
+tagGDX1ShoulderC101={^B}Tkané nárameníky vyvolavače duchů
+tagGDX1ShoulderC102={^B}Skládané nárameníky přízračného rytíře
+tagGDX1ShoulderC103={^B}Bleskem zasažené chrániče ramen
+tagGDX1ShoulderC103_Desc="Dokonce ani zuřivost stovek bouří nedokázala zničit tento kus zbroje."
+tagGDX1ShoulderC104={^B}Chrániče ramen lovce odměn
+tagGDX1ShoulderC105=(S) {^B}Tkané nárameníky narušitele
+tagGDX1ShoulderC106=(S) {^B}Chrániče ramen Stříbrného strážce
+tagGDX1ShoulderC111={^B}Tkané nárameníky opisovače kouzel
+
+tagGDX1ShoulderD101={^I}Tkané nárameníky spalovače života
+tagGDX1ShoulderD102={^I}Chrániče děsivého rytíře
+tagGDX1ShoulderD103={^I}Cortosianské volánky
+tagGDX1ShoulderD103B={^I}Cortosianské volánky
+tagGDX1ShoulderD103_Desc="Volánky vytvořeny jednotlivými kouzly a technikami popsanými starodávnou generací Cortosianských alchymistů."
+tagGDX1ShoulderD104={^I}Žhářovy tkané nárameníky
+tagGDX1ShoulderD109={^I}Tkané nárameníky plivače jedů
+tagGDX1ShoulderD110={^I}Rozžhavený chránič ramen
+tagGDX1ShoulderD110_Desc="Zbroj naplňuje nositele ohnivým vztekem, který nikdy neutichne."
+tagGDX1ShoulderD111=(S) {^F}Kriegovy chrániče ramen
+tagGDX1ShoulderD112=(S) {^I}Mstitelovy skládané nárameníky
+tagGDX1ShoulderD113=(S) {^I}Tkané nárameníky ztracených duší
+tagGDX1ShoulderD114=(S) {^I}Octaviovy skládané nárameníky
+tagGDX1ShoulderD115=(S) {^I}Předvoj metače kouzel
+tagGDX1ShoulderD116=(S) {^I}Chrániče ramen zabijáka čarodějů
+tagGDX1ShoulderD117=(S) {^I}Runotepcovy chrániče ramen
+tagGDX1ShoulderD118=(S) {^I}Uroboruukovy tkané nárameníky
+tagGDX1ShoulderD119=(S) {^I}Allagastovy tkané nárameníky
+tagGDX1ShoulderD120=(S) {^I}Prorokovy tkané nárameníky
+tagGDX1ShoulderD121=(S) {^F}Tkané nárameníky Pána temnot
+tagGDX1ShoulderD122=(S) {^I}Belgothianův chránič ramen
+tagGDX1ShoulderD123=(S) {^I}Tkané nárameníky strážce smrti
+tagGDX1ShoulderD124=(S) {^I}Radagganovy tkané nárameníky
+tagGDX1ShoulderD125=(S) {^I}Mrazíkův chránič ramen
+tagGDX1ShoulderD126=(S) {^I}Závitnice krvavého rytíře
+
+tagGDX1ShoulderF101={^G}Čarodějčiny tkané nárameníky trestu
+tagGDX1ShoulderF102={^G}Čarodějčiny tkané nárameníky vazače krve
+tagGDX1ShoulderF103={^G}Čarodějčiny tajemné tkané nárameníky
+tagGDX1ShoulderF104={^G}Čarodějčiny rytířské nárameníky konfliktů
+tagGDX1ShoulderF105={^G}Čarodějčiny rytířské nárameníky dozoru
+tagGDX1ShoulderF106={^G}Čarodějčiny tajemné rytířské nárameníky
+tagGDX1ShoulderF107={^G}Malmouthské mrazící tkané nárameníky
+tagGDX1ShoulderF108={^G}Malmouthské tkané nárameníky Aetherického plamene
+tagGDX1ShoulderF109={^G}Malmouthské poskvrněné tkané nárameníky
+tagGDX1ShoulderF110={^G}Malmouthské skládané nárameníky předvoje
+tagGDX1ShoulderF111={^G}Malmouthské skládané nárameníky Prázdnoty
+tagGDX1ShoulderF112={^G}Malmouthské obranné skládané nárameníky
+tagGDX1ShoulderF113={^G}Wendigovy ostré skládané nárameníky
+tagGDX1ShoulderF114={^G}Wendigovy odporné rytířské nárameníky
+tagGDX1ShoulderF115={^G}Wendigovy rytířské nárameníky spřadače kouzel
+tagGDX1ShoulderF116={^G}Wendigovy kalené skládané nárameníky
+tagGDX1ShoulderF117={^G}Wendigovy odporné skládané nárameníky
+tagGDX1ShoulderF118={^G}Wendigovy skládané nárameníky strážce
+
+
+#ArmorTorso
+tagGDX1TorsoB101=[ns]{^L}Galakrosovo sežehnuté plátování
+tagGDX1TorsoB102=[ns]{^L}Galakrosovo děsivé plátování
+tagGDX1TorsoB103=[fs]{^L}Valaxteřina tajemná róba
+tagGDX1TorsoB103_Desc="Róba se třpytí jemnými vetkanými tajemnými runami."
+tagGDX1TorsoB104=[fs]{^L}Valaxteřina róba rozervaných nebes
+
+tagGDX1TorsoC101={^B}Hrobníkovo roucho
+tagGDX1TorsoC102={^B}Hrudní chránič temných plamenů
+tagGDX1TorsoC103={^B}Astrální róba
+tagGDX1TorsoC103_Desc="Róba, kterou často nosili kaplani, byla symbolem nadaných věštců, ačkoliv vzhledem k jejich nestálé povaze byli často mylně považovány za obyčejné šarlatány."
+tagGDX1TorsoC104={^B}Kabát nejvyššího advokáta
+tagGDX1TorsoC104_Desc="Evidentně vyroben pro Erulanského šlechtice, látka působí velmi měkce, ale je dostatečně odolná."
+tagGDX1TorsoC105=(S) {^B}Róba narušitele
+tagGDX1TorsoC106=(S) {^B}Zbroj Stříbrného strážce
+tagGDX1TorsoC111={^B}Závoj epidemie
+tagGDX1TorsoC114=(S) {^B}Roucho Hrůzného chodce
+tagGDX1TorsoC115=(S) {^B}Luminářský kabátec
+
+tagGDX1TorsoD101={^I}Travičovo roucho
+tagGDX1TorsoD102={^I}Rubáš Pána oživlých mrtvol
+tagGDX1TorsoD103={^I}Ignaffarova runová zbroj
+tagGDX1TorsoD103_Desc="Ačkoliv původní majitel této zbroje zahynul ve zničujícím požáru vyvolaném zlotřilým alchymistou, jeho zbroj se našla v popelu jako zázrakem zcela nepoškozená."
+tagGDX1TorsoD104={^I}Zbroj přadleny bouří
+tagGDX1TorsoD109={^I}Roucho spřadače osudu
+tagGDX1TorsoD109_Desc="Nestálá a stále se měnící je nitka osudu lidstva, která míří kamsi do neznáma."
+tagGDX1TorsoD110={^I}Gildorův chránič
+tagGDX1TorsoD111=(S) {^F}Kriegův hrudní chránič
+tagGDX1TorsoD112=(S) {^I}Mstitelova zbroj
+tagGDX1TorsoD113=(S) {^I}Octaviova plátová zbroj
+tagGDX1TorsoD114=(S) {^I}Korbina kožešina
+tagGDX1TorsoD115=(S) {^I}Valguurovo roucho
+tagGDX1TorsoD116=(S) {^I}Runotepcova zbroj
+tagGDX1TorsoD117=(S) {^I}Uroboruukova róba
+tagGDX1TorsoD118=(S) {^I}Allagastova róba
+tagGDX1TorsoD119=(S) {^I}Dagallonova zbroj
+tagGDX1TorsoD120=(S) {^I}Rubáš strážce smrti
+tagGDX1TorsoD121=(S) {^I}Prorokovo roucho
+tagGDX1TorsoD122=(S) {^F}Roucho Pána temnot
+tagGDX1TorsoD123=(S) {^I}Belgothianova zbroj
+tagGDX1TorsoD124=(S) {^I}Radagganův rubáš
+tagGDX1TorsoD125=(S) {^I}Mrazíkův hrudní chránič
+tagGDX1TorsoD126=(S) {^I}Zbroj krvavého rytíře
+
+tagGDX1TorsoF101={^G}Čarodějčin háv hněvu
+tagGDX1TorsoF102={^G}Čarodějčin háv vazače života
+tagGDX1TorsoF103={^G}Čarodějčin tajemný háv
+tagGDX1TorsoF104={^G}Čarodějčin hrudní chránič konfliktů
+tagGDX1TorsoF105={^G}Čarodějčin hrudní chránič dozorce
+tagGDX1TorsoF106={^G}Čarodějčin tajemný hrudní chránič
+tagGDX1TorsoF107={^G}Malmouthský mrazící háv
+tagGDX1TorsoF108={^G}Malmouthský háv Aetherického plamene
+tagGDX1TorsoF109={^G}Malmouthský poskvrněný háv
+tagGDX1TorsoF110={^G}Malmouthský kyrys předvoje
+tagGDX1TorsoF111={^G}Malmouthský kyrys Prázdnoty
+tagGDX1TorsoF112={^G}Malmouthský obranný kyrys
+tagGDX1TorsoF113={^G}Wendigův ostrý hrudní chránič
+tagGDX1TorsoF114={^G}Wendigův odporný hrudní chránič
+tagGDX1TorsoF115={^G}Wendigův hrudní chránič spřadače kouzel
+tagGDX1TorsoF116={^G}Wendigův kalený kyrys
+tagGDX1TorsoF117={^G}Wendigův odporný kyrys
+tagGDX1TorsoF118={^G}Wendigův ochranný kyrys
+
+
+#ArmorHands
+tagGDX1HandsC101={^B}Haruudovy mrazivé pěstnice
+tagGDX1HandsC101_Desc="O Haruudových rukavicích se říkalo, že samy o sobě dotykem způsobují smrtící umrznutí."
+tagGDX1HandsC102={^B}Dotek velitele
+tagGDX1HandsC103={^B}Runami pokryté chrániče rukou
+tagGDX1HandsC104={^B}Dotyk očistce
+tagGDX1HandsC104_Desc="Stačí letmý dotyk a zlo strachem ustoupí."
+tagGDX1HandsC111={^B}Rytířské rukavice krvavých obřadů
+
+tagGDX1HandsD101={^I}Chňapky rvoucí prostor
+tagGDX1HandsD101_Desc="Jakmile dosáhnou Prázdnoty, navždy s ní splynou."
+tagGDX1HandsD102={^I}Železné pěstnice lenního pána
+tagGDX1HandsD103={^I}Ignaffarovy rytířské rukavice
+tagGDX1HandsD104={^I}Hagarradovy mrazivé pěstnice
+tagGDX1HandsD109={^I}Karmínové drápy
+tagGDX1HandsD109_Desc="Kapání krve a žíznivost po další - tyhle drápy dychtivě touží po další čerstvé oběti."
+tagGDX1HandsD110={^I}Dotek popela
+tagGDX1HandsD111=(S) {^I}Chránič rukou zabijáka čarodějů
+tagGDX1HandsD112=(S) {^I}Valguurův dotyk
+tagGDX1HandsD113=(S) {^F}Kriegovy pěstnice
+tagGDX1HandsD114=(S) {^F}Chňapky Pána temnot
+
+
+#ArmorLegs
+tagGDX1LegsB101=[mp]{^L}Aleksanderovy náholeníky
+tagGDX1LegsB102=[fp]{^L}Aleksanderovy nohavice
+tagGDX1LegsB103=[fp]{^L}Grava'Thulovy kamaše
+tagGDX1LegsB104=[mp]{^L}Grava'Thulovy náholeníky
+tagGDX1LegsB105=[mp]{^L}Kubacabrovy náholeníky
+tagGDX1LegsB106=[fp]{^L}Kubacabrovy nohavice
+tagGDX1LegsB107=[fp]{^L}žencovy kamaše
+tagGDX1LegsB108=[mp]{^L}žencovy náholeníky
+
+tagGDX1LegsC101={^B}Sežehnuté runové hnátnice
+tagGDX1LegsC102={^B}Děsivé runové náholeníky
+tagGDX1LegsC103={^B}Kamaše neviditelného stínu
+tagGDX1LegsC103_Desc="Některé stíny byly do vetkány do látky tohoto kusu zbroje."
+tagGDX1LegsC104={^B}Náholeníky s ochrannou runou
+tagGDX1LegsC111={^B}Hnátnice opisovače kouzel
+
+tagLegsD013B={^I}Opravdu velké kalhoty
+tagLegsD013BDesc="Vždycky dobře padnou."
+
+tagGDX1LegsD101={^I}Wendigovy zateplené kamaše
+tagGDX1LegsD101_Desc="Kožešina smrdí starou krví; těžko říci, zda patřila samotnému Wendigovi nebo některé z jeho obětí."
+tagGDX1LegsD102={^I}Nožní pláty děsivého rytíře
+tagGDX1LegsD103={^I}Ignaffarovy runové pláty
+tagGDX1LegsD104={^I}Náholeníky ochránce čarodějů
+tagGDX1LegsD109={^I}Jedem polité hnátnice
+tagGDX1LegsD110={^I}Nožní pláty z nezkrotné hřívy
+tagGDX1LegsD110_Desc="Nestvůra, ze které je tato kůže, pravděpodobně nepatřila do oblasti Erulanu."
+
+
+#ArmorFeet
+tagGDX1FeetB101=[ms]{^Y}válečné boty neohroženosti
+tagGDX1FeetB102=[ms]{^Y}kameninové pohorky
+
+tagGDX1FeetC101={^B}Boty ponurého pasáka
+tagGDX1FeetC102={^B}Krpce mrtvého chodce
+tagGDX1FeetC102_Desc="Není jisté, zda kosti trčící z boty patřily zvířeti... a nebo člověku."
+tagGDX1FeetC103={^B}Sellecorovo tažení
+tagGDX1FeetC104={^B}Jantarové válenky
+tagGDX1FeetC111={^B}Hromové chrániče nohou
+
+tagGDX1FeetD101={^I}Pohorky z ďáblova masa
+tagGDX1FeetD102={^I}Ill Omenovy pohorky
+tagGDX1FeetD103={^I}Časoprostorová chodítka
+tagGDX1FeetD103_Desc="Podle legendy lze s těmito botami chodit v čase a prostoru. Žel bohu, zatím nikdo nepřišel na to, jak tuto vlastnost použít."
+tagGDX1FeetD104={^I}Pohorky runového strážce
+tagGDX1FeetD109={^I}Válenky prudkého větru
+tagGDX1FeetD110={^I}Hromobijky
+tagGDX1FeetD110_Desc="S každým krokem srší z bot jiskry bouřky a přesto se nevybíjejí chozením po zemi."
+tagGDX1FeetD111=(S) {^F}Kriegovy boty
+
+
+#ArmorWaist
+tagGDX1WaistA101=[ms]{^W}zachovalý opasek
+tagGDX1WaistA102=[ms]{^W}spasitelův ochranný pás
+
+tagGDX1WaistB101=[ms]{^L}ugdenský pás
+tagGDX1WaistB102=[ms]{^L}ugdenský ochranný pás
+tagGDX1WaistB103=[ms]{^L}Lunal'Valgothin pás
+tagGDX1WaistB104=[ms]{^L}Lunal'Valgothin ochranný pás
+tagGDX1WaistB105=[ms]{^Y}ochranný pás ze srdce zlobra
+tagGDX1WaistB106=[fp]{^Y}loutkařovy nitky
+tagGDX1WaistB107=[ms]{^Y}kameninový ochranný pás
+
+tagGDX1WaistC101={^B}Pás nevraživého přízraku
+tagGDX1WaistC102={^B}Pás tkaný z duší
+tagGDX1WaistC102_Desc="Jednotlivá vlákna tohoto opasku jsou vlastně uvězněné duše."
+tagGDX1WaistC103={^B}Šňůra stínového ďábla
+tagGDX1WaistC104={^B}Šňůra Proroka Hvězdy
+tagGDX1WaistC105={^B}Řetězy nenasytné Prázdnoty
+tagGDX1WaistC106={^B}Tajemnem spletená šňůra
+tagGDX1WaistC115={^B}Zuhelnatělá pelerína
+tagGDX1WaistC116={^B}Sanguinus
+tagGDX1WaistC116_Desc="Každý plátek tohoto opasku je zmáčený krví obětí nedávné bitvy."
+tagGDX1WaistC117=(S) {^B}Pás proroka ohně
+
+tagGDX1WaistD101={^I}Šňůra násilného úpadku
+tagGDX1WaistD102={^I}Gladiátorova zvláštnost
+tagGDX1WaistD103={^I}Šňůra vyvolavače duchů
+tagGDX1WaistD103_Desc="Každý zbloudilý duch skončí jako vlákno tohoto opasku."
+tagGDX1WaistD104={^I}Sada zrádných prostředků
+tagGDX1WaistD104_Desc="Sbírka jemných prachů a toxinů ideálních pro chemické reakce, díky nimž se střelné zbraně staly výzvou pro různé alchymisty."
+tagGDX1WaistD105={^I}Šňůra obelhání
+tagGDX1WaistD106={^I}Beronathovy šupiny
+tagGDX1WaistD106_Desc="Šupiny z velkého netvora Beronatha ani po mnoha staletích neshnily a evidentně se tak ani dlouze nestane."
+tagGDX1WaistD113={^I}Zuhelnatělý pás
+tagGDX1WaistD114={^I}Potrhaný pás
+tagGDX1WaistD115=(S) {^I}Mstitelův pás
+tagGDX1WaistD116=(S) {^I}Kataklyzmatická dohoda
+tagGDX1WaistD117=(S) {^I}Pás kamenného strážce
+tagGDX1WaistD118=(S) {^I}Pevnostní ochranný pás
+tagGDX1WaistD119=(S) {^I}Opasek s náboji temného plamene
+
+tagGDX1WaistF101A={^G}Čarodějčin hanebný ochranný pás
+tagGDX1WaistF101B={^G}Čarodějčin hanebný pás
+tagGDX1WaistF102A={^G}Čarodějčin smrtící ochranný pás
+tagGDX1WaistF102B={^G}Čarodějčin smrtící pás
+tagGDX1WaistF103A={^G}Malmouthský bodavý ochranný pás
+tagGDX1WaistF103B={^G}Malmouthský bodavý pás
+tagGDX1WaistF104A={^G}Malmouthský tajemný ochranný pás
+tagGDX1WaistF104B={^G}Malmouthský tajemný pás
+tagGDX1WaistF105A={^G}Wendigův poskvrněný ochranný pás
+tagGDX1WaistF105B={^G}Wendigův poskvrněný pás
+tagGDX1WaistF106A={^G}Wendigův dozorčí ochranný pás
+tagGDX1WaistF106B={^G}Wendigův dozorčí pás
+
+
+#Rings
+tagGDX1RingA101=[ms]{^W}vznešený prsten
+tagGDX1RingA102=[ms]{^W}vznešený kroužek
+tagGDX1RingA103=[ms]{^W}zachovalý prsten
+tagGDX1RingA104=[ms]{^W}zachovalý kroužek
+
+tagGDX1RingB101=[ms]{^L}živoucí prsten
+tagGDX1RingB101_Desc="Ostny kolem prstenu vysávají krev, ale zdá se, že má hojivé účinky."
+tagGDX1RingB102=[ms]{^L}vinný prsten
+tagGDX1RingB103=[ms]{^L}Gargabolův prsten
+tagGDX1RingB103_Desc="Spalující kroužek je na dotyk bolestivý, ale přesto nevede k nějakému fyzickému poranění."
+
+tagGDX1RingC101={^B}Proklínač
+tagGDX1RingC101_Desc="O tomto zkrouceném prstenu se povídá, že svému pánovi přinesl děsivou kletbu, jejíž účinky přetrvávají do dnešních dnů."
+tagGDX1RingC102={^B}Kroužek přízračného chodce
+tagGDX1RingC103={^B}Rotmenderův prsten
+tagGDX1RingC104={^B}Pečeť Praotce Runy
+tagGDX1RingC104_Desc="Znak Praotce run, tvůrce původního runového slangu, který v dnešních dnech užívají Lumináři."
+tagGDX1RingC105={^B}Pečeť hvězdného přemítání
+tagGDX1RingC105_Desc="Prsten šeptá tajemství hvězd, ale pro netrpělivé uši jsou to jen nesrozumitelná slova."
+tagGDX1RingC106={^B}Vdovino žihadlo
+tagGDX1RingC115={^B}Opovržení noci
+tagGDX1RingC116={^B}Hysterie
+tagGDX1RingC117=(S) {^B}Pečeť proroka ohně
+tagGDX1RingC118=(S) {^B}Pečeť velikého čaroděje
+tagGDX1RingC119=(S) {^B}Kroužek velikého čaroděje
+
+tagGDX1RingD101={^I}Kroužek Pána smrti
+tagGDX1RingD102={^I}Piktogram vymítače duchů
+tagGDX1RingD102_Desc="Piktogram na tomto prstenu je údajně nejsilnějším symbolem vazby, jež užívá Řád Strážců smrti."
+tagGDX1RingD103={^I}Kroužek šeptavé Prázdnoty
+tagGDX1RingD103_Desc="Z prstenu vycházejí šepoty, které ohrožují tvé duševní zdraví."
+tagGDX1RingD104={^I}Hořící kroužek
+tagGDX1RingD105={^I}Jaxxonova kulka štěstěny
+tagGDX1RingD106={^I}Vláda Ohně a Ledu
+tagGDX1RingD113={^I}Pečeť vířivého ostří
+tagGDX1RingD114={^I}Srdce z kamene
+tagGDX1RingD115=(S) {^I}Allagastův drahokam bouře
+tagGDX1RingD116={^I}Pečetní kroužek mrtvého strážce
+
+tagGDX1RingF101={^B}Čarodějčin pečetní prsten bouří
+tagGDX1RingF102={^B}Čarodějčin pečetní prsten nebes
+tagGDX1RingF103={^B}Čarodějčin pečetní prsten obrany
+tagGDX1RingF104={^B}Malmouthský tajemný pečetní prsten
+tagGDX1RingF105={^B}Malmouthský pečetní prsten ostří
+tagGDX1RingF106={^B}Malmouthský pečetní prsten Aetherického plamene
+tagGDX1RingF107={^B}Wendigův zkroucený pečetní prsten
+tagGDX1RingF108={^B}Wendigův kouzelnický pečetní prsten
+
+
+
+#Necklaces
+tagGDX1NecklaceA101=[ms]{^W}vznešený amulet
+tagGDX1NecklaceA102=[ms]{^W}vznešený přívěsek
+tagGDX1NecklaceA103=[ms]{^W}zachovalý amulet
+tagGDX1NecklaceA104=[ms]{^W}zachovalý přívěsek
+
+tagGDX1NecklaceB100=[fs]{^G}Sahdinina vzpomínka
+tagGDX1NecklaceB100_Desc="Jednoduchý přívěsek, který má chránit před zlem. Je do něj vyrytý nápis: S každým dobrým úmyslem je někde v koutku ukryto Zlo, které lze zneužít. - Jay Peggins"
+tagGDX1NecklaceB101=[ns]{^L}Gulgazorovo srdce
+tagGDX1NecklaceB102=[ns]{^L}Vilgazorovo srdce
+
+tagGDX1NecklaceC101={^B}Šeptání smrti
+tagGDX1NecklaceC102={^B}Puklý kámen
+tagGDX1NecklaceC103={^B}Chřadnoucí srdce
+tagGDX1NecklaceC103_Desc="Ve vzácných okamžicích začne srdce bít."
+tagGDX1NecklaceC104={^B}Kámen vyrovnanosti
+tagGDX1NecklaceC104_Desc="Navzdory nepokojům a utrpení po celém Cairnu tě tento kámen naplní neobvyklou vyrovnaností."
+tagGDX1NecklaceC105={^B}Rubín pláče
+tagGDX1NecklaceC106={^B}Gilladův runový topas
+tagGDX1NecklaceC106_Desc="Ochranný amulet inkvizitora Gillada, který se ztratil poté, kdy bylo jeho tělo zohaveno po neúspěšné výpravě do malé vesnice na hranicích říše, a kde se schovávali okultisté."
+tagGDX1NecklaceC115={^B}Nováčkova ochrana
+tagGDX1NecklaceC116={^B}Drahokam Praotce run
+
+tagNecklaceD005B={^I}Beronathovo jedinečné oko
+tagGDX1NecklaceD101={^I}Lapač duší
+tagGDX1NecklaceD101_Desc="Duše každého zabitého hrdiny je rychle chycena do tohoto přívěsku."
+tagGDX1NecklaceD102={^I}Plameny hněvu
+tagGDX1NecklaceD103={^I}Vigařin hlad
+tagGDX1NecklaceD103_Desc="Ampulka je naplněna krví samotného Pustošitele."
+tagGDX1NecklaceD104={^I}Gar'dalův ocejchovaný rubín
+tagGDX1NecklaceD105={^I}Rozsudek popravčího
+tagGDX1NecklaceD106={^I}Safír proroka bouří
+tagGDX1NecklaceD113A={^I}Usměrňovač válečných šepotů
+tagGDX1NecklaceD113B={^I}Usměrňovač ničivých šepotů
+tagGDX1NecklaceD113C={^I}Usměrňovač tajuplných šepotů
+tagGDX1NecklaceD113D={^I}Usměrňovač nočních šepotů
+tagGDX1NecklaceD113E={^I}Usměrňovač tajemných šepotů
+tagGDX1NecklaceD113F={^I}Usměrňovač zdivočelých šepotů
+tagGDX1NecklaceD113G={^I}Usměrňovač runových šepotů
+tagGDX1NecklaceD113H={^I}Usměrňovač nehynoucích šepotů
+tagGDX1NecklaceD113_Desc="Zíráním do tohoto oka odkrývá obrazu obrovské a podivné země, kde se hemží tvorové a příšery hodně odlišné od přírody v Cairnu."
+tagGDX1NecklaceD114={^I}Střep nekonečného plamene
+tagGDX1NecklaceD114_Desc="Plamen uvězněný v tomto krystalu nikdy nevyhasne."
+tagGDX1NecklaceD115=(S) {^I}Střep ztracených duší
+tagGDX1NecklaceD116=(S) {^I}Kataklyzmatický katalyzátor
+tagGDX1NecklaceD117=(S) {^I}Ochrana kamenného strážce
+tagGDX1NecklaceD118=(S) {^I}Zdroj temného plamene
+tagGDX1NecklaceD119=(S) {^I}Odražeč metače kouzel
+tagGDX1NecklaceD120=(S) {^I}Ochránce zabijáka čarodějů
+tagGDX1NecklaceD121=(S) {^I}Runotepcův drahokam
+tagGDX1NecklaceD122=(S) {^I}Uroboruukovo oko
+tagGDX1NecklaceD123=(S) {^I}Radagganův drahokam
+tagGDX1NecklaceD124=(S) {^I}Mrazíkův přívěsek
+tagGDX1NecklaceD125=(S) {^I}Přívěsek krvavého rytíře
+
+tagGDX1NecklaceF101={^B}Čarodějčin zatemňující přívěsek
+tagGDX1NecklaceF102={^B}Čarodějčin manipulační přívěsek
+tagGDX1NecklaceF103={^B}Čarodějčin přívěsek ostří
+tagGDX1NecklaceF104={^B}Malmouthský přívěsek lapače bouří
+tagGDX1NecklaceF105={^B}Malmouthský zkroucený přívěsek
+tagGDX1NecklaceF106={^B}Malmouthský ochranný přívěsek
+tagGDX1NecklaceF107={^B}Wendigův odporný přívěsek
+tagGDX1NecklaceF108={^B}Wendigův nebeský přívěsek
+tagGDX1NecklaceF109={^I}Přívěsek zmrzlého Aetheru
+tagGDX1NecklaceF110={^I}Srdce Malmouthu
+tagGDX1NecklaceF111={^I}Plenitelův hlad
+
+
+#Medals
+tagGDX1MedalA101=[fs]{^W}vznešená hvězda
+tagGDX1MedalA102=[ms]{^W}zachovalý erb
+
+tagGDX1MedalB101=[ms]{^L}erb baziliška
+tagGDX1MedalB101_Desc="Z tesáků stále odkapává rychle tuhnoucí jed."
+tagGDX1MedalB102=[ms]{^L}znak baziliška
+tagGDX1MedalB102_Desc="Z tesáků stále odkapává otrávená krev."
+tagGDX1MedalB103=[ms]{^L}Rylokův erb
+tagGDX1MedalB103_Desc="Na erbu je vyražena Chthonská stupnice lačnosti po krvi."
+tagGDX1MedalB104=[ms]{^L}Rylokův znak
+tagGDX1MedalB104_Desc="Ve znaku je pohyblivá stupnice temnoty a Prázdnoty."
+tagGDX1MedalB105=[ns]{^L}Wendigovo oko
+tagGDX1MedalB105_Desc="S krví všude kolem se krvavé oko začíná pohybovat."
+tagGDX1MedalB106=[fs]{^L}Wendigova duhovka
+tagGDX1MedalB106_Desc="Zakrvácené oko rozzuří každé malé stvoření, které se na něj dívá."
+tagGDX1MedalB107=[ms]{^Y}erb mrštnosti
+tagGDX1MedalB108=[ms]{^Y}erb pozorovatele
+tagGDX1MedalB109=[ms]{^L}Slathsarrův erb
+tagGDX1MedalB109_Desc="Z tesáků odkapává aetherický jed."
+tagGDX1MedalB110=[ms]{^L}Plagiův znak
+tagGDX1MedalB111={^L}Namadeino oko
+tagGDX1MedalB111_Desc="Stále se škubající oko je plné neživota."
+
+tagGDX1MedalC101={^B}Obřadný znak
+tagGDX1MedalC102={^B}Znak poskvrny
+tagGDX1MedalC103={^B}Znak zapomenutých duchů
+tagGDX1MedalC103_Desc="Připomínka těch ztracených a zapomenutých."
+tagGDX1MedalC104={^B}Znak zlomené kletby
+tagGDX1MedalC104_Desc="Tato medaile patřívala inkvizitorovi, jehož jméno bylo vyškrtnuto ze záznamů a jeho pověst pošramocena za nechutnou zradu na všem, co Lumináři představovali."
+tagGDX1MedalC105={^B}Znak správce pokladny
+tagGDX1MedalC105_Desc="Znak správce pokladny, posvátného strážce luminářské Pokladnice."
+tagGDX1MedalC106={^B}Erb svatého
+tagGDX1MedalC115={^B}Znak pekelného utrpení
+tagGDX1MedalC116={^B}Znak kamenné vůle
+tagGDX1MedalC117=(S) {^B}Erb proroka ohně
+tagGDX1MedalC118=(S) {^B}Uznání Luminářů
+
+tagGDX1MedalD101={^I}Znak smrtelného ostří
+tagGDX1MedalD102={^I}Znak neskutečného mrazu
+tagGDX1MedalD103={^I}Erb polykače hnisu
+tagGDX1MedalD104={^I}Uznání z Gildam Arcanum
+tagGDX1MedalD104_Desc="Takovéto uznání se udělovala jen členům organizace Gildam Arcanum, kteří sledovali vzrůstající napětí mezi Lumináři a Pány temnot a udělali si tak jasnější představu - je třeba zajistit přežití lidstva."
+tagGDX1MedalD105={^I}Serenirovo uznání
+tagGDX1MedalD105_Desc="Uznání, které bylo uděleno Nejvyššímu inkvizitorovi Serenirovi za to, že statečně udržel Gandarrův roh a zlikvidoval díky němu jednou pro vždy okultistický sabat."
+tagGDX1MedalD106={^I}Kalastorův znak
+tagGDX1MedalD113={^I}Ulzuinův znak
+tagGDX1MedalD113_Desc="Znak používaný následníky víry v Ulzuina, aby jejich tělo bylo spáleno a věnováno rozhněvanému bohu."
+tagGDX1MedalD114={^I}Znak záhuby
+
+tagGDX1MedalF101={^B}Čarodějčin znak ostří
+tagGDX1MedalF102={^B}Čarodějčin tajemný znak
+tagGDX1MedalF103={^B}Malmouthský odznak zneuctění
+tagGDX1MedalF104={^B}Malmouthský odznak živlů
+tagGDX1MedalF105={^B}Wendigův cejchovací znak
+tagGDX1MedalF106={^B}Wendigův ochranný znak
+tagGDX1MedalF107={^I}Znak vražedných úmyslů
+tagGDX1MedalF108={^I}Nejvyšší dozorce
+tagGDX1MedalF109={^I}Znak Veležrouta
+
+
+#Blueprints
+tagGDX1Blueprint_RelicB101=Plánek: Relikvie - Žravost
+tagGDX1Blueprint_RelicB102=Plánek: Relikvie - Zjevení
+tagGDX1Blueprint_RelicB103=Plánek: Relikvie - Vroucnost
+tagGDX1Blueprint_RelicB104=Plánek: Relikvie - Statečnost
+tagGDX1Blueprint_RelicB105=Plánek: Relikvie - Hysterie
+
+tagGDX1Blueprint_RelicC101=Plánek: Relikvie - Smrtelnost
+tagGDX1Blueprint_RelicC102=Plánek: Relikvie - Pomsta
+
+tagGDX1Blueprint_RelicD101=Plánek: Relikvie - Špína
+tagGDX1Blueprint_RelicD102=Plánek: Relikvie - Msta
+tagGDX1Blueprint_RelicD103=Plánek: Relikvie - Žalozpěv Arkovie
+tagGDX1Blueprint_RelicD104=Plánek: Relikvie - Zhouba
+tagGDX1Blueprint_RelicD105=Plánek: Relikvie - Záhuba
+tagGDX1Blueprint_RelicD106=Plánek: Relikvie - Korvaakův podvod
+tagGDX1Blueprint_RelicD107=Plánek: Relikvie - Tajemná dohoda
+tagGDX1Blueprint_RelicD108=Plánek: Relikvie - Nidallin záchvat
+tagGDX1Blueprint_RelicD109=Plánek: Relikvie - Věčnost
+tagGDX1Blueprint_RelicD110=Plánek: Relikvie - Masakr
+tagGDX1Blueprint_RelicD111=Plánek: Relikvie - Uroboruukova sklizeň
+tagGDX1Blueprint_RelicD112=Plánek: Relikvie - Ignaffarský spalovač
+tagGDX1Blueprint_RelicD113=Plánek: Relikvie - Mogdrogenovo zanícení
+tagGDX1Blueprint_RelicD114=Plánek: Relikvie - Smrtihlav
+
+
+tagGDX1Blueprint_ComponentA101=Plánek: Pečeť moci
+tagGDX1Blueprint_ComponentA102=Plánek: Pečeť ostří
+tagGDX1Blueprint_ComponentA103=Plánek: Pečeť nebes
+tagGDX1Blueprint_ComponentA104=Plánek: Pečeť pohromy
+tagGDX1Blueprint_ComponentA105=Plánek: Pečeť zkaženosti
+tagGDX1Blueprint_ComponentA106=Plánek: Pečeť Prázdnoty
+tagGDX1Blueprint_ComponentA107=Plánek: Pečeť noci
+tagGDX1Blueprint_ComponentA108=Plánek: Pečeť zkázy
+tagGDX1Blueprint_ComponentA109=Plánek: Pečeť stínů
+tagGDX1Blueprint_ComponentA110=Plánek: Pečeť ozvěny
+tagGDX1Blueprint_ComponentA111=Plánek: Zkažené srdce
+tagGDX1Blueprint_ComponentA112=Plánek: Planoucí rubín
+tagGDX1Blueprint_ComponentA113=Plánek: Runami svázaný topas
+tagGDX1Blueprint_ComponentA114=Plánek: Krvavý krystal
+tagGDX1Blueprint_ComponentA115=Plánek: Očarovaná hlína
+tagGDX1Blueprint_ComponentA116=Plánek: Kouzlem sežehlé plátování
+tagGDX1Blueprint_ComponentA117=Plánek: Ostnaté plátování
+tagGDX1Blueprint_ComponentA118=Plánek: Ugdenská useň
+
+tagGDX1Blueprint_ComponentC101=Plánek: Posvátné plátování
+tagGDX1Blueprint_ComponentC102=Plánek: Živoucí zbroj
+tagGDX1Blueprint_ComponentC103=Plánek: Titánovo plátování
+tagGDX1Blueprint_ComponentC104=Plánek: Zrcadlo tajemství
+tagGDX1Blueprint_ComponentC105=Plánek: Pečeť vyhlazení
+tagGDX1Blueprint_ComponentC106=Plánek: Pečeť původu
+
+
+tagGDX1Blueprint_WaistF101A=Plánek: Čarodějčin hanebný ochranný pás
+tagGDX1Blueprint_WaistF101B=Plánek: Čarodějčin hanebný pás
+tagGDX1Blueprint_WaistF102A=Plánek: Čarodějčin smrtící ochranný pás
+tagGDX1Blueprint_WaistF102B=Plánek: Čarodějčin smrtící pás
+tagGDX1Blueprint_WaistF103A=Plánek: Malmouthský bodavý ochranný pás
+tagGDX1Blueprint_WaistF103B=Plánek: Malmouthský bodavý pás
+tagGDX1Blueprint_WaistF104A=Plánek: Malmouthský tajemný ochranný pás
+tagGDX1Blueprint_WaistF104B=Plánek: Malmouthský tajemný pás
+tagGDX1Blueprint_WaistF105A=Plánek: Wendigův poskvrněný ochranný pás
+tagGDX1Blueprint_WaistF105B=Plánek: Wendigův poskvrněný pás
+tagGDX1Blueprint_WaistF106A=Plánek: Wendigův dozorčí ochranný pás
+tagGDX1Blueprint_WaistF106B=Plánek: Wendigův dozorčí pás
+
+
+tagGDX1Blueprint_WeaponB101=Plánek: Hromobijka
+tagGDX1Blueprint_WeaponB102=Plánek: Puška ohnivého dozorce
+tagGDX1Blueprint_WeaponB103=Plánek: Sekáček krveprolití
+tagGDX1Blueprint_WeaponB104=Plánek: Střevodrtič
+tagGDX1Blueprint_WeaponB105=Plánek: Kamenná zeď
+tagGDX1Blueprint_WeaponB106=Plánek: Bible nepovedených kouzel
+tagGDX1Blueprint_WeaponB107=Plánek: Čadící bible
+tagGDX1Blueprint_WeaponB108=Plánek: Hůlka mrazivé hniloby
+tagGDX1Blueprint_WeaponB109=Plánek: Žezlo mrtvých dětí
+
+tagGDX1Blueprint_WeaponC101=Plánek: Hlasitý odpor
+tagGDX1Blueprint_WeaponC102=Plánek: Vynikající Aldurův výslech
+tagGDX1Blueprint_WeaponC103=Plánek: Hvězdný proud
+tagGDX1Blueprint_WeaponC104=Plánek: Magická čepel zuřivého plamene
+tagGDX1Blueprint_WeaponC105=Plánek: Vynikající burrwitchský mírotvůrce
+tagGDX1Blueprint_WeaponC106=Plánek: Vynikající brokovnice ze chřtánu pekla
+tagGDX1Blueprint_WeaponC107=Plánek: Vynikající osudová pila žravosti
+tagGDX1Blueprint_WeaponC108=Plánek: Vynikající požehnaná pochodeň
+tagGDX1Blueprint_WeaponC109=Plánek: Vynikající duelantova šavle
+tagGDX1Blueprint_WeaponC110=Plánek: Vynikající zlostný smutek
+tagGDX1Blueprint_WeaponC111=Plánek: Vynikající kráječ s pekelnými runami
+tagGDX1Blueprint_WeaponC112=Plánek: Vynikající Nera'Valiniho poskvrněná dýka
+tagGDX1Blueprint_WeaponC113=Plánek: Vynikající lichova stráž
+tagGDX1Blueprint_WeaponC114=Plánek: Vynikající smrtelné trápení
+
+tagGDX1Blueprint_WeaponD101=Plánek: Oharek
+tagGDX1Blueprint_WeaponD102=Plánek: Otrávená harpuna
+tagGDX1Blueprint_WeaponD103=Plánek: Vynikající břitva smrti
+tagGDX1Blueprint_WeaponD104=Plánek: Vynikající Vyvolavač mrazivého plamene
+tagGDX1Blueprint_WeaponD105=Plánek: Vynikající pistole obchodníka se smrtí
+tagGDX1Blueprint_WeaponD106=Plánek: Vynikající Severský červ
+tagGDX1Blueprint_WeaponD107=Plánek: Vynikající Vír duší
+tagGDX1Blueprint_WeaponD108=Plánek: Vynikající Půlměsíc
+tagGDX1Blueprint_WeaponD109=Plánek: Vynikající Dreegův moronosič
+tagGDX1Blueprint_WeaponD110=Plánek: Vynikající Beronath, znovu skutý
+tagGDX1Blueprint_WeaponD111=Plánek: Vynikající Zloděj bouří
+tagGDX1Blueprint_WeaponD112=Plánek: Vynikající světská zaoblená čepel
+tagGDX1Blueprint_WeaponD113=Plánek: Vynikající Střep Asterkarnu
+tagGDX1Blueprint_WeaponD114=Plánek: Vynikající tesák Ch'thona
+tagGDX1Blueprint_WeaponD115=Plánek: Vynikající Zolhanova pomsta
+tagGDX1Blueprint_WeaponD116=Plánek: Vynikající Ch'thonova krvavá koule
+tagGDX1Blueprint_WeaponD117=Plánek: Vynikající žalostná bible Nar'Adina
+
+tagGDX1Blueprint_WeaponF101=Plánek: Šestipal
+tagGDX1Blueprint_WeaponF102=Plánek: Beznaděj
+tagGDX1Blueprint_WeaponF103=Plánek: Měsíc čarodějnic
+tagGDX1Blueprint_WeaponF104=Plánek: Wendigův řev
+tagGDX1Blueprint_WeaponF105=Plánek: Spasitel Malmouthu
+tagGDX1Blueprint_WeaponF106=Plánek: Rychlý plamen
+tagGDX1Blueprint_WeaponF107=Plánek: Čarovný plamen
+tagGDX1Blueprint_WeaponF108=Plánek: Hagarazův spár
+tagGDX1Blueprint_WeaponF109=Plánek: Strážce trestanců
+tagGDX1Blueprint_WeaponF110=Plánek: Malmouthský vyvolavač bouří
+
+
+
+tagGDX1Blueprint_ArmorB101=Plánek: Válečné boty neohroženosti
+tagGDX1Blueprint_ArmorB102=Plánek: Kameninové pohorky
+
+tagGDX1Blueprint_ArmorC101=Plánek: Chránič hlavy zvěstovatele bouří
+tagGDX1Blueprint_ArmorC102=Plánek: Vynikající chrániče ramen lovce odměn
+tagGDX1Blueprint_ArmorC103=Plánek: Kápě Hrůzného chodce
+tagGDX1Blueprint_ArmorC104=Plánek: Luminářský kapalec
+tagGDX1Blueprint_ArmorC105=Plánek: Vynikající pohorky mocného čaroděje
+tagGDX1Blueprint_ArmorC106=Plánek: Vynikající Štvoucí kožené boty
+tagGDX1Blueprint_ArmorC107=Plánek: Vynikající Dotek duše
+tagGDX1Blueprint_ArmorC108=Plánek: Vynikající pohotové rukavice
+tagGDX1Blueprint_ArmorC109=Plánek: Vynikající kouzlem kované hnátnice
+tagGDX1Blueprint_ArmorC110=Plánek: Vynikající Amarastiny skládané nárameníky
+tagGDX1Blueprint_ArmorC111=Plánek: Vynikající hrudní chránič nočního lovce
+tagGDX1Blueprint_ArmorC112=Plánek: Vynikající osudem kovaný prsní plát
+tagGDX1Blueprint_ArmorC113=Plánek: Vynikající kápě slepého zabijáka
+tagGDX1Blueprint_ArmorC114=Plánek: Vynikající ostrostřelcovo skleněné oko
+tagGDX1Blueprint_ArmorC115=Plánek: Vynikající bezbožné hledí závazku
+tagGDX1Blueprint_ArmorC116=Plánek: Vynikající helma budoucího strážce
+tagGDX1Blueprint_ArmorC117=Plánek: Vynikající kabátec strážce ohně
+tagGDX1Blueprint_ArmorC118=Plánek: Vynikající Callidorův háv
+tagGDX1Blueprint_ArmorC119=Plánek: Vynikající Myrmidonovo hledí
+tagGDX1Blueprint_ArmorC120=Plánek: Vynikající Mogdrogenova kápě
+tagGDX1Blueprint_ArmorC121=Plánek: Vynikající kápě ideálů
+
+tagGDX1Blueprint_ArmorD101=Plánek: Hledí Pána oživlých mrtvol
+tagGDX1Blueprint_ArmorD102=Plánek: Travičova záludnost
+tagGDX1Blueprint_ArmorD103=Plánek: Kouzelné hledí
+tagGDX1Blueprint_ArmorD104=Plánek: Maska zkostnatělého červa
+tagGDX1Blueprint_ArmorD105=Plánek: Vynikající hledí Pána oživlých mrtvol
+tagGDX1Blueprint_ArmorD106=Plánek: Vynikající travičova záludnost
+tagGDX1Blueprint_ArmorD107=Plánek: Vynikající kouzelné hledí
+tagGDX1Blueprint_ArmorD108=Plánek: Vynikající maska zkostnatělého červa
+tagGDX1Blueprint_ArmorD109=Plánek: Dreegův hlas
+tagGDX1Blueprint_ArmorD110=Plánek: Empyrionovo hledí
+tagGDX1Blueprint_ArmorD113=Plánek: Maska ztracených duší
+tagGDX1Blueprint_ArmorD114=Plánek: Octaviovo hledí
+tagGDX1Blueprint_ArmorD115=Plánek: Korbina kapuce
+tagGDX1Blueprint_ArmorD116=Plánek: Šalíř temného plamene
+tagGDX1Blueprint_ArmorD117=Plánek: Hledí metače kouzel
+tagGDX1Blueprint_ArmorD118=Plánek: Kapuce zabijáka čarodějů
+tagGDX1Blueprint_ArmorD119=Plánek: Valguurův klenot
+tagGDX1Blueprint_ArmorD120=Plánek: Runotepcův kapalec
+tagGDX1Blueprint_ArmorD121=Plánek: Uroboruukův chránič hlavy
+tagGDX1Blueprint_ArmorD122=Plánek: Dagallonův chránič obličeje
+tagGDX1Blueprint_ArmorD123=Plánek: Kapuce strážce smrti
+tagGDX1Blueprint_ArmorD124=Plánek: Prorokova maska
+
+tagGDX1Blueprint_ArmorD125=Plánek: Vynikající Chřtán beznaděje
+tagGDX1Blueprint_ArmorD126=Plánek: Vynikající Gurgothova hrůzná maska
+tagGDX1Blueprint_ArmorD127=Plánek: Vynikající Šeptač tajemství
+tagGDX1Blueprint_ArmorD128=Plánek: Vynikající hlubinná maska
+tagGDX1Blueprint_ArmorD129=Plánek: Vynikající čelenka obřího hada
+tagGDX1Blueprint_ArmorD130=Plánek: Vynikající maska pekelné pravdy
+tagGDX1Blueprint_ArmorD131=Plánek: Vynikající chránič obličeje spravedlnosti
+tagGDX1Blueprint_ArmorD132=Plánek: Vynikající kutna vyvolavače zvířat
+tagGDX1Blueprint_ArmorD133=Plánek: Vynikající zvěstovatelova maska
+tagGDX1Blueprint_ArmorD134=Plánek: Vynikající kapalec zabijáka démonů
+tagGDX1Blueprint_ArmorD135=Plánek: Vynikající jasnovidcův kapalec
+tagGDX1Blueprint_ArmorD136=Plánek: Vynikající Markovianovo hledí
+tagGDX1Blueprint_ArmorD137=Plánek: Vynikající Ulzuinův šalíř
+tagGDX1Blueprint_ArmorD138=Plánek: Vynikající Dreegova kapuce
+tagGDX1Blueprint_ArmorD139=Plánek: Vynikající střelmistrova kapuce
+tagGDX1Blueprint_ArmorD140=Plánek: Vynikající Iskandřina kapuce
+tagGDX1Blueprint_ArmorD141=Plánek: Vynikající Ultosova kapuce
+tagGDX1Blueprint_ArmorD142=Plánek: Vynikající koruna Zimního krále
+tagGDX1Blueprint_ArmorD143=Plánek: Vynikající Trozanův kapalec
+tagGDX1Blueprint_ArmorD144=Plánek: Vynikající Valdunův kapalec
+tagGDX1Blueprint_ArmorD145=Plánek: Hledí opředené tajemstvím
+tagGDX1Blueprint_ArmorD146=Plánek: Dohoda Tří
+tagGDX1Blueprint_ArmorD147=Plánek: Vynikající kápě napuštěná jedem
+tagGDX1Blueprint_ArmorD148=Plánek: Vynikající chránič hlavy z černého plamene
+tagGDX1Blueprint_ArmorD149=Plánek: Vynikající helma obránce Světla
+tagGDX1Blueprint_ArmorD150=Plánek: Vynikající chránič obličeje pekelného rytíře
+tagGDX1Blueprint_ArmorD151=Plánek: Vynikající hledí ze starých válek
+tagGDX1Blueprint_ArmorD152=Plánek: Vynikající kápě vzteklého krvesaje
+
+tagGDX1Blueprint_ArmorD153=Plánek: Vynikající žhářovy tkané nárameníky
+tagGDX1Blueprint_ArmorD154=Plánek: Vynikající zbroj přadleny bouří
+tagGDX1Blueprint_ArmorD155=Plánek: Mstitelova zbroj
+tagGDX1Blueprint_ArmorD156=Plánek: Allagastova róba
+tagGDX1Blueprint_ArmorD157=Plánek: Vynikající profukující pohorky
+tagGDX1Blueprint_ArmorD158=Plánek: Vynikající krpce Šedého kouzelníka
+tagGDX1Blueprint_ArmorD159=Plánek: Vynikající chrániče rukou zkostnatělého červa
+tagGDX1Blueprint_ArmorD160=Plánek: Vynikající pařáty ledoštíra
+tagGDX1Blueprint_ArmorD161=Plánek: Vynikající kamaše tajemné harmonie
+tagGDX1Blueprint_ArmorD162=Plánek: Opravdu velké kalhoty
+tagGDX1Blueprint_ArmorD163=Plánek: Vynikající Titánovy skládané nárameníky
+tagGDX1Blueprint_ArmorD164=Plánek: Vynikající tkané nárameníky ze smrduté krve
+tagGDX1Blueprint_ArmorD165=Plánek: Vynikající Azragorova děsivá zbroj
+tagGDX1Blueprint_ArmorD166=Plánek: Vynikající drátěná košile z božské oceli
+
+tagGDX1Blueprint_ArmorD167=Plánek: Belgothianova maska
+
+tagGDX1Blueprint_ArmorD168=Plánek: Radagganova maska
+tagGDX1Blueprint_ArmorD169=Plánek: Mrazíkova maska
+tagGDX1Blueprint_ArmorD170=Plánek: Chránič hlavy krvavého rytíře
+
+tagGDX1Blueprint_AccessoryB101=Plánek: Erb mrštnosti
+tagGDX1Blueprint_AccessoryB102=Plánek: Erb pozorovatele
+tagGDX1Blueprint_AccessoryB103=Plánek: Ochranný pás ze srdce zlobra
+tagGDX1Blueprint_AccessoryB104=Plánek: Loutkařovy nitky
+tagGDX1Blueprint_AccessoryB105=Plánek: Kameninový ochranný pás
+
+tagGDX1Blueprint_AccessoryC101=Plánek: Vynikající kámen vyrovnanosti
+tagGDX1Blueprint_AccessoryC102=Plánek: Drahokam Praotce run
+tagGDX1Blueprint_AccessoryC103=Plánek: Sanguinus
+tagGDX1Blueprint_AccessoryC104=Plánek: Vynikající erb svatého
+tagGDX1Blueprint_AccessoryC105=Plánek: Vynikající vdovino žihadlo
+tagGDX1Blueprint_AccessoryC106=Plánek: Vynikající střep znalosti
+tagGDX1Blueprint_AccessoryC107=Plánek: Vynikající amulet spálené země
+tagGDX1Blueprint_AccessoryC108=Plánek: Vynikající řetěz trýzně
+tagGDX1Blueprint_AccessoryC109=Plánek: Vynikající alchymistův opasek
+tagGDX1Blueprint_AccessoryC110=Plánek: Vynikající Volcanum
+tagGDX1Blueprint_AccessoryC111=Plánek: Vynikající znak bojového léčitele
+tagGDX1Blueprint_AccessoryC112=Plánek: Vynikající Amarastin pečetní kroužek
+tagGDX1Blueprint_AccessoryC113=Plánek: Vynikající Goliášova pečeť
+tagGDX1Blueprint_AccessoryC114=Plánek: Vynikající rubín živelné rovnováhy
+tagGDX1Blueprint_AccessoryC115=Plánek: Vynikající safír živelné rovnováhy
+
+tagGDX1Blueprint_AccessoryD101=Plánek: Vynikající safír proroka bouří
+tagGDX1Blueprint_AccessoryD102=Plánek: Vynikající sada zrádných prostředků
+tagGDX1Blueprint_AccessoryD103=Plánek: Zuhelnatělý pás
+tagGDX1Blueprint_AccessoryD104=Plánek: Vynikající Kalastorův znak
+tagGDX1Blueprint_AccessoryD105=Plánek: Znak záhuby
+tagGDX1Blueprint_AccessoryD106=Plánek: Vynikající vláda Ohně a Ledu
+tagGDX1Blueprint_AccessoryD107=Plánek: Pás kamenného strážce
+tagGDX1Blueprint_AccessoryD108=Plánek: Pevnostní ochranný pás
+tagGDX1Blueprint_AccessoryD109=Plánek: Vynikající ztělesnění soucitu
+tagGDX1Blueprint_AccessoryD110=Plánek: Vynikající Dreegova nákaza
+tagGDX1Blueprint_AccessoryD111=Plánek: Vynikající mstitel z Cairnu
+tagGDX1Blueprint_AccessoryD112=Plánek: Vynikající dráteníkův důvtip
+tagGDX1Blueprint_AccessoryD113=Plánek: Vynikající pobouchaný pás
+tagGDX1Blueprint_AccessoryD114=Plánek: Vynikající pelerína nesmrtelného mudrce
+tagGDX1Blueprint_AccessoryD115=Plánek: Vynikající znak temných snů
+tagGDX1Blueprint_AccessoryD116=Plánek: Vynikající znak klatby
+tagGDX1Blueprint_AccessoryD117=Plánek: Vynikající Kelphat'Zothův piktogram
+tagGDX1Blueprint_AccessoryD118=Plánek: Vynikající kroužek toku času
+tagGDX1Blueprint_AccessoryD119=Plánek: Vynikající kroužek věčného strašení
+tagGDX1Blueprint_AccessoryD120=Plánek: Kataklyzmatická dohoda
+tagGDX1Blueprint_AccessoryD121A=Plánek: Usměrňovač válečných šepotů
+tagGDX1Blueprint_AccessoryD121B=Plánek: Usměrňovač ničivých šepotů
+tagGDX1Blueprint_AccessoryD121C=Plánek: Usměrňovač tajuplných šepotů
+tagGDX1Blueprint_AccessoryD121D=Plánek: Usměrňovač nočních šepotů
+tagGDX1Blueprint_AccessoryD121E=Plánek: Usměrňovač tajemných šepotů
+tagGDX1Blueprint_AccessoryD121F=Plánek: Usměrňovač zdivočelých šepotů
+tagGDX1Blueprint_AccessoryD121G=Plánek: Usměrňovač runových šepotů
+tagGDX1Blueprint_AccessoryD121H=Plánek: Usměrňovač nehynoucích šepotů
+
+tagGDX1Blueprint_AccessoryF101=Plánek: Přívěsek zmrzlého Aetheru
+tagGDX1Blueprint_AccessoryF102=Plánek: Srdce Malmouthu
+tagGDX1Blueprint_AccessoryF103=Plánek: Plenitelův hlad
+tagGDX1Blueprint_AccessoryF104=Plánek: Znak vražedných úmyslů
+tagGDX1Blueprint_AccessoryF105=Plánek: Nejvyšší dozorce
+tagGDX1Blueprint_AccessoryF106=Plánek: Znak Veležrouta
+
+#Relics
+tagGDX1RelicB101=Žravost
+tagGDX1RelicB101Desc="Nekonečný hlad."
+tagGDX1RelicB102=Zjevení
+tagGDX1RelicB102Desc="V tomto kusu kamene se pohybuje trýzněná duše."
+tagGDX1RelicB103=Vroucnost
+tagGDX1RelicB103Desc="Vztek na všechno a na všechny."
+tagGDX1RelicB104=Statečnost
+tagGDX1RelicB104Desc="Udatnost v boji."
+tagGDX1RelicB105=Hysterie
+tagGDX1RelicB105Desc="Šílenství za každou cenu."
+
+tagGDX1RelicC101=Smrtelnost
+tagGDX1RelicC101Desc="Neochvějný pocit, že všechno musí jednou skončit."
+tagGDX1RelicC102=Pomsta
+tagGDX1RelicC102Desc="Nelítostné pronásledování starého nepřítele."
+
+tagGDX1RelicD101=Špína
+tagGDX1RelicD101Desc="Surové alchymistické energie poskvrněné oplzlou touhou."
+tagGDX1RelicD102=Msta
+tagGDX1RelicD102Desc="Odplatu je nejlepší podávat za studena."
+tagGDX1RelicD103=Žalozpěv Arkovie
+tagGDX1RelicD103Desc="Z tohoto kusu kamene vychází děsivá píseň."
+tagGDX1RelicD104=Zhouba
+tagGDX1RelicD104Desc="Likvidace nepřátel."
+tagGDX1RelicD105=Záhuba
+tagGDX1RelicD105Desc="Staň se rukou osudu a ztělesněním zhouby svých nepřátel."
+tagGDX1RelicD106=Korvaakův podvod
+tagGDX1RelicD106Desc="Služba pro mě je služba Cairnu.  -Empyrion"
+tagGDX1RelicD107=Tajemná dohoda
+tagGDX1RelicD107Desc="Vazbu se Třemi nelze vrátit zpět."
+tagGDX1RelicD108=Nidallin záchvat
+tagGDX1RelicD108Desc="Zrádný jed nebo obchodní položka?"
+tagGDX1RelicD109=Věčnost
+tagGDX1RelicD109Desc="Celá jedna existence v mžiku oka."
+tagGDX1RelicD110=Masakr
+tagGDX1RelicD110Desc="Oddej se krveprolití."
+tagGDX1RelicD111=Uroboruukova sklizeň
+tagGDX1RelicD111Desc="Zabití ve jménu samotného pána nemrtvých."
+tagGDX1RelicD112=Ignaffarský spalovač
+tagGDX1RelicD112Desc="Kámen z Ignaffaru nebyl jediným artefaktem, který Lumináři získali ze starodávného hrobu a později vybroušen."
+tagGDX1RelicD113=Mogdrogenovo zanícení
+tagGDX1RelicD113Desc="Jen když zemře samotářský vlk, tak smečka přežije."
+tagGDX1RelicD114=Smrtihlav
+tagGDX1RelicD114Desc="Zlomyslný duch toužící se osvobodit."
+
+
+#Crafting
+tagGDX1CraftRandomLegendaryDesc2=Kovář kombinuje surové alchymistické energie do předmětů s legendárním potenciálem až do 94. úrovně. Postavy s úrovní nižší než 58 místo toho mohou získat předmět epické kvality.
+tagGDX1CraftRandomLegendaryAccessoryDesc2=Kovář kombinuje surové alchymistické energie do předmětů s legendárním potenciálem až do 94. úrovně. Postavy s úrovní nižší než 58 místo toho získají předmět epické kvality.
+tagGDX1CraftRandomLegendaryItemDesc2=Kovář vyrábí legendární prodchnuté předměty odpovídající tvé úrovni, nejvýše však do 94. úrovně.
+
+tagGDX1CraftMaterial_AetherialVanguard=Aetherianský dopis
+tagGDX1CraftMaterial_AetherialVanguard_Desc="Tajné texty plné Aetherických energií. Pravděpodobně se používají pro přenos citlivých informací příliš důležitých na to, aby je mohl spatřit smrtelník."
+
+tagGDX1CraftMaterial_AetherialVanguard02=Aetherianský mutagen
+tagGDX1CraftMaterial_AetherialVanguard02_Desc="Aetherem ředěná viskózní kapalina, která se v blízkosti živé tkáně prudce rozpohybuje."
+
+tagGDX1CraftMaterial_Wendigo=Wendigův duch
+tagGDX1CraftMaterial_Wendigo_Desc="Odporný duch plný temného potenciálu. Neustále ti našeptává a slibuje ukrutnou moc."
+
+tagGDX1CraftMaterial_Ugdenbloom=Ugdenský kvítek
+tagGDX1CraftMaterial_Ugdenbloom_Desc="Na to, jak živými barvami září, tak smrdí opravdu dost hnilobným zápachem."
+
+tagGDX1CraftMaterial_HeartOfDarkness=Srdce Temnoty
+tagGDX1CraftMaterial_HeartOfDarkness_Desc="Vře to v něm zuřivou energií jak touží se dostat na oltář z popela."
+
+#Consumables
+
+tagGDX1ConsumableBlueprintA01=Recept: Mast polykače ohně
+
+tagGDX1ConsumableA101=Hargatův krystal
+tagGDX1ConsumableA101Desc="Zvláštní energie vydávají podivný šum, jako by se z krystalu snažilo něco dostat ven..."
+
+tagGDX1ConsumableA102=Kasparův krystal
+tagGDX1ConsumableA102Desc="Zvláštní energie vydávají podivný šum, jako by se z krystalu snažilo něco dostat ven..."
+
+tagGDX1ConsumableBlueprintB101=Recept: Ugdenský dryák
+tagGDX1ConsumableBlueprintB102=Recept: Ugdenská mastička
+tagGDX1ConsumableBlueprintB103=Recept: Mast na ošklivé jizvy
+tagGDX1ConsumableBlueprintB104=Recept: Dranghoulův elixír
+tagGDX1ConsumableBlueprintB105=Recept: Mogdrogenův elixír
+
+tagGDX1ConsumableB101=Ugdenský dryák
+tagGDX1ConsumableB101Desc="Sladce vonící odvar vyrobený z Ugdenského kvítku."
+tagGDX1ConsumableB102=Ugdenská mastička
+tagGDX1ConsumableB102Desc="Utišující odvar vyrobený z koncentrovaného Ugdenského kvítku."
+tagGDX1ConsumableB103=Mast na ošklivé jizvy
+tagGDX1ConsumableB103Desc="Lepkavý odvar, který urychluje srážlivost krve."
+tagGDX1ConsumableB104=Dranghoulův elixír
+tagGDX1ConsumableB104Desc="Silný elixír vylouhovaný ze stonku Ugdenského kvítku."
+tagGDX1ConsumableB105=Mogdrogenův elixír
+tagGDX1ConsumableB105Desc="Silný elixír namíchaný samotným Mogdrogenem."
+
+tagGDX1ConsumableF101=Zaklínací olej
+tagGDX1ConsumableF101Desc="Olej prodchnutý zrádnými kletbami čarodějek."
+tagGDX1ConsumableF102=Prokletý výtažek
+tagGDX1ConsumableF102Desc="Po rozbití ampule se na nedaleké nepřátele snese krvavé prokletí."
+tagGDX1ConsumableF103=Olej aetherické ochrany
+tagGDX1ConsumableF103Desc="Olej, který ochrání tvou zbraň proti Aetheru."
+tagGDX1ConsumableF104=Mast ohnivé bouře
+tagGDX1ConsumableF104Desc="Po rozbití ampule nastane výbuch elektrizujících a spalujících plamenů."
+tagGDX1ConsumableF105=Sžíravý olej
+tagGDX1ConsumableF105Desc="Olej, který do tvé zbraně vetkne lačnost wendigů."
+tagGDX1ConsumableF106=Smrdutý výtažek
+tagGDX1ConsumableF106Desc="Po rozbití ampule se zjeví ničemný přízrak, aby děsil tvé nepřátele."
+tagGDX1ConsumableF107=Čirý lektvar
+tagGDX1ConsumableF107Desc="Lepkavá tekutina s neuvěřitelným potenciálem."^oMůžeš jej umístit do bedny a použít s jinou postavou."
+
+tagGDX1Consumable_AttributeReset=Tonikum znetvoření
+tagGDX1Consumable_AttributeReset_Desc="Naplní tě nepříjemným teplem a pomalu se ti zdá, že tvé tělo se začíná znetvořovat."
+
+
+
+#ItemEnchantment
+
+tagGDX1EnchantA101A=Hvězdný prach
+tagGDX1EnchantA101Desc="Prach z prolétající komety, pečlivě sesbíraný tak, aby nevyprchaly jeho tajemné vlastnosti."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantA102A=Silný hvězdný prach
+tagGDX1EnchantA102Desc="Prach z prolétající komety, pečlivě sesbíraný tak, aby nevyprchaly jeho tajemné vlastnosti."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantA103A=Prach z vinné révy
+tagGDX1EnchantA103Desc="Vinnou révu je obtížné sklízet, jelikož často rostlina uschne, ale její využití v lékařství a magii za to riziko stojí."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantA104A=Silný prach z vinné révy
+tagGDX1EnchantA104Desc="Vinnou révu je obtížné sklízet, jelikož často rostlina uschne, ale její využití v lékařství a magii za to riziko stojí."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantA105A=Polibek čaroděje
+tagGDX1EnchantA105Desc="Silný prášek používaný především Lóží čarodějek k hubení obzvláště nežádoucích škůdců."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantA106A=Silný polibek čaroděje
+tagGDX1EnchantA106Desc="Silný prášek používaný především Lóží čarodějek k hubení obzvláště nežádoucích škůdců."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantA107A=Hnis ze zkázonosné nestvůry
+tagGDX1EnchantA107Desc="Ačkoliv je nekromancie v Lóži čarodějek využívána jen zřídka, má své využití. Hnis ze zkázonosných nestvůr má zajímavé vlastnosti, pokud víš, jak jej vyextrahovat."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantA108A=Silný hnis ze zkázonosné nestvůry
+tagGDX1EnchantA108Desc="Ačkoliv je nekromancie v Lóži čarodějek využívána jen zřídka, má své využití. Hnis ze zkázonosných nestvůr má zajímavé vlastnosti, pokud víš, jak jej vyextrahovat."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantA109A=Prach ze shnilého masa
+tagGDX1EnchantA109Desc="Stvořitel trval na tom, aby se použilo rozpadlé tělo z nafouklé lidské mrtvoly povalující se v Ugdenbogu. Nikdo po pravém původu raději nikdy nepátral."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantA110A=Jazyk Prázdnoty
+tagGDX1EnchantA110Desc="Zuhelnatělý jazyk z chthonské nestvůry."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantA111A=Prach ze zpeřenky
+tagGDX1EnchantA111Desc="Zpeřenky rostou ve vlhkém prostředí Ugdenbogu a poskytují tak pro Lóži čarodějek vhodnou obživu i materiál pro jejich nástroje."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantA112A=Čarodějův kvítek
+tagGDX1EnchantA112Desc="Zdá se, že tato rostlina se v Cairnu objevila zcela nově, pravděpodobně se sem dostala skrze oslabenou bariéru mezi světy, kterými sem proudí i další nestvůry a zvířata. V Lóži čarodějek si však rychle vydobyly oblibu pro své zvláštní vlastnosti."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantA113A=Trn z krvavé růže
+tagGDX1EnchantA113Desc="Rostlina pojmenovaná po sytě červené barvě s mohutnými trny. Drobné píchnutí o tento trn způsobuje silné krvácení a otravu koncentrovaným jedem."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantA114A=Čarodějova rozkoš
+tagGDX1EnchantA114Desc="Prach derivovaný ze vzácných hub rostoucích v Ugdenbogu. Obyčejní lidé ji sbírají jako pochoutku, kdežto v Lóži čarodějek se používá pro zcela jiné účely."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantA115A=Strojníkův prach
+tagGDX1EnchantA115Desc="Speciální prach vyhlášený po celém Malmouthu a využívaný především v průmyslu, jelikož zpevňuje kovy, aby odolávaly mnohem větší zátěži."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantA116A=Silný strojníkův prach
+tagGDX1EnchantA116Desc="Speciální prach vyhlášený po celém Malmouthu a využívaný především v průmyslu, jelikož zpevňuje kovy, aby odolávaly mnohem větší zátěži."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantA117A=Kolomaz Prázdnoty
+tagGDX1EnchantA117Desc="Těžko zpracovatelný a velmi nestabilní materiál. Malmouthští alchymisté dokázali využít tento hutný materiál pro kouzelnické účely."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantA118A=Silný kolomaz Prázdnoty
+tagGDX1EnchantA118Desc="Těžko zpracovatelný a velmi nestabilní materiál. Malmouthští alchymisté dokázali využít tento hutný materiál pro kouzelnické účely."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantA119A=Prach z rarachova oka
+tagGDX1EnchantA119Desc="Prach extrahovaný z nafouklých očí Aetherianských rarachů."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantA120A=Silný prach z rarachova oka
+tagGDX1EnchantA120Desc="Prach extrahovaný z nafouklých očí Aetherianských rarachů."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantA121A=Prach z jiskřícího květu
+tagGDX1EnchantA121Desc="Prášek z rozechvělé květiny, která roste na předměstí Malmouthu. Rostlina je známa pro své ohnivě zbarvené okvětní lístky."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantA122A=Silný prach z jiskřícího květu
+tagGDX1EnchantA122Desc="Prášek z rozechvělé květiny, která roste na předměstí Malmouthu. Rostlina je známa pro své ohnivě zbarvené okvětní lístky."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantA123A=Popel z ohniska požáru
+tagGDX1EnchantA123Desc="Prach vyextrahovaný z hořícího srdce ohnivého zvířete."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantA124A=Masorvoucí prášek
+tagGDX1EnchantA124Desc="Tento čarodějný prášek musí být opatrně používán tak, aby se nikdy nedotkl lidské kůže. Ovšem jeho získání ze zkažených částí Aetherianského těla je mnohem obtížnější."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantA125A=Popel Prázdnoty
+tagGDX1EnchantA125Desc="Popel z Chthonského světa, který se občas nalézá na tělech zemřelých Chthonianů. Pravděpodobně nenajdeš žádného pitomce, který by se kdy dobrovolně vydal skrze Chthonskou bránu."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantA126A=Leštidlo na ocel noci
+tagGDX1EnchantA126Desc="Malmouthská specialitka, velmi často využívaná Erulanskými Nočními čepelemi."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantA127A=Menderův prášek
+tagGDX1EnchantA127Desc="Prášek namíchaný přeživšími v Malmouthu, aby se jim rychle zacelily rány z bitev."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantA128A=Osten z kolosa
+tagGDX1EnchantA128Desc="Aetherianští kolosové nejsou nic, z čeho bychom si sedli na zadek, ale i zabití jednoho z nich představuje dostatek materiálu na vytvoření si zásob na několik měsíců."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantA129A=Prach z wendigovy srsti
+tagGDX1EnchantA129Desc="Prach je vyextrahovaný z chlupů wendigovy srsti jako dar od Pustošitele."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantA130A=Silný prach z wendigovy srsti
+tagGDX1EnchantA130Desc="Prach je vyextrahovaný z chlupů wendigovy srsti jako dar od Pustošitele."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantA131A=Prach z krvošupinatce
+tagGDX1EnchantA131Desc="Prach vyextrahovaný ze šupin krvošupinatců, jež se občas ukážou na území Ugdenbogu."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantA132A=Silný prach z krvošupinatce
+tagGDX1EnchantA132Desc="Prach vyextrahovaný ze šupin krvošupinatců, jež se občas ukážou na území Ugdenbogu."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantA133A=Prach z ostnaté lastury
+tagGDX1EnchantA133Desc="Prach je vyextrahovaný z tvrdého krunýře ugdenských korýšů. Abychom získali takto jemný prášek, tak rozbití krunýře zabere mnoho hodin a chce to obrovskou sílu."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantA134A=Silný prach z ostnaté lastury
+tagGDX1EnchantA134Desc="Prach je vyextrahovaný z tvrdého krunýře ugdenských korýšů. Abychom získali takto jemný prášek, tak rozbití krunýře zabere mnoho hodin a chce to obrovskou sílu."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantA135A=Strašidelný prach
+tagGDX1EnchantA135Desc="Prášek trousí strašidelná zjevení, která jsou sem tam spatřena v okolí Ugdenbogu."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantA136A=Silný strašidelný prach
+tagGDX1EnchantA136Desc="Prášek trousí strašidelná zjevení, která jsou sem tam spatřena v okolí Ugdenbogu."^w^n(použitelné na všechny obouruční zbraně)
+
+
+tagGDX1EnchantB101A=Důvtip čarodějky
+tagGDX1EnchantB101Desc="Speciální kouzelnický prach vyrobený Lóží čarodějek, aby umocnil jejich temné umění."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantB102A=Silný důvtip čarodějky
+tagGDX1EnchantB102Desc="Speciální kouzelnický prach vyrobený Lóží čarodějek, aby umocnil jejich temné umění."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantB103A=Záludnost čarodějek
+tagGDX1EnchantB103Desc="Speciální kouzelnický prášek vyrobený Lóží čarodějek, aby zbystřil jejich smysly."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantB104A=Silná záludnost čarodějek
+tagGDX1EnchantB104Desc="Speciální kouzelnický prášek vyrobený Lóží čarodějek, aby zbystřil jejich smysly."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantB105A=Zděšení čarodějky
+tagGDX1EnchantB105Desc="Specifický jed, kterým čarodějové z Lóže ovlivňují mysl svých nepřátel pomocí děsivých vidin."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantB106A=Silné zděšení čarodějky
+tagGDX1EnchantB106Desc="Specifický jed, kterým čarodějové z Lóže ovlivňují mysl svých nepřátel pomocí děsivých vidin."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantB107A=Zhouba čarodějek
+tagGDX1EnchantB107Desc="Odporný toxin vytažený z různých ugdenských rostlin a smíchaný pomocí magie čarodějek, aby byly umocněny jeho účinky."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantB108A=Silná zhouba čarodějek
+tagGDX1EnchantB108Desc="Odporný toxin vytažený z různých ugdenských rostlin a smíchaný pomocí magie čarodějek, aby byly umocněny jeho účinky."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantB109A=Černý plamen čarodějnice
+tagGDX1EnchantB109Desc="Lóže čarodějek často používala tento odporný prach při rituálech, který byl obvykle spojovaný s kulty tří Čarodějných bohů."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantB110A=Vřískot přízraku
+tagGDX1EnchantB110Desc="Prostřednictvím děsivého vazebního rituálu byly čarodějové z Lóže schopni chytit a rozložit ugdenské přízraky."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantB111A=Prach z části nebes
+tagGDX1EnchantB111Desc="Původně jej vyrobil alchymistický mistr Trozan, ale Lóže čarodějek se jej naučila využívat pro jeho skrytý potenciál nebeských vlastností."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantB112A=Kousnutí baziliška
+tagGDX1EnchantB112Desc="Silný toxin extrahovaný z jedových žláz ugdenských bazilišků."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantB113A=Pohled baziliška
+tagGDX1EnchantB113Desc="Silný toxin extrahovaný ze zkameňujících očí ugdenských bazilišků."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantB114A=Sylvarriina esence
+tagGDX1EnchantB114Desc="Legendy se zmiňují o mýtické entitě, která bují v Ugdenbogu a její kořeny jsou na dně každé bažiny. A tak ač je pojmenováno po nestvůře, má vlastnosti mnoha rostlin nacházejících se v této oblasti."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantB115A=Srdce Ugdenbogu
+tagGDX1EnchantB115Desc="Silné očarování vyrobené z kamenného srdce nejsilnějšího Ugdenského golema."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantB116A=Malmouthské vykoupení
+tagGDX1EnchantB116Desc="Silné očarování vyrobené přeživšími v Malmouthu ke své obraně proti Aetherianům."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantB117A=Silné Malmouthské vykoupení
+tagGDX1EnchantB117Desc="Silné očarování vyrobené přeživšími v Malmouthu ke své obraně proti Aetherianům."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantB118A=Malmouthská vůle
+tagGDX1EnchantB118Desc="Silné očarování vytvořené Malmouthskými kováři k posílení jejich švihu ruky, ale stejně dobře poslouží i v bitvě."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantB119A=Silná malmouthská vůle
+tagGDX1EnchantB119Desc="Silné očarování vytvořené Malmouthskými kováři k posílení jejich švihu ruky, ale stejně dobře poslouží i v bitvě."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantB120A=Malmouthská duše
+tagGDX1EnchantB120Desc="Posilující prach, který lidem vštěpuje železnou vůli."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantB121A=Silná malmouthská duše
+tagGDX1EnchantB121Desc="Posilující prach, který lidem vštěpuje železnou vůli."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantB122A=Malmouthské srdce
+tagGDX1EnchantB122Desc="Překvapivě silný prášek vyrobený ze zoufalství během prvního útoku na Malmouth. Ačkoliv využívá Aether, může se stát zkázou lidstva, ale prozatím mu dobře slouží."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantB123A=Silné malmouthské srdce
+tagGDX1EnchantB123Desc="Překvapivě silný prášek vyrobený ze zoufalství během prvního útoku na Malmouth. Ačkoliv využívá Aether, může se stát zkázou lidstva, ale prozatím mu dobře slouží."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantB124A=Prach z tajemného srdce
+tagGDX1EnchantB124Desc="Nestabilní čarodějný prach, který hoří za tak vysokých teplot, že může roztavit zbroj. I přes tato rizika jej mnoho alchymistů rádo používá."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantB125A=Prach z kovadlinky
+tagGDX1EnchantB125Desc="Prach posbíraný z oharků po tajemném kusu kované zbroje."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantB126A=Prach z ocelokvětu
+tagGDX1EnchantB126Desc="Čarovný prach vyextrahovaný ze vzácného Ocelokvětu, rostliny, u které bylo zjištěno velké množství železných částic ve stojku, které čerpá z půdy pomocí bohatého systému kořenů."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantB127A=Prach z tajfunu
+tagGDX1EnchantB127Desc="Síla zničujícího tajfunu je chycena do hrstky kouzelnického prášku."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantB128A=Kovářský oheň
+tagGDX1EnchantB128Desc="Oblíbený Malmouthský kovář tento prach často používal k rychlejšími rozdmýchání plamenů, ale také dobře slouží jako vylepšení."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantB129A=Střevní jed
+tagGDX1EnchantB129Desc="Smrtící jed vyrobený Nočními čepelemi. Mnoho potřebných materiálů je možné sehnat pouze v Malmouthu."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantB130A=Prach nesoucí tajemství
+tagGDX1EnchantB130Desc="Speciálně extrahovaný pro  Gildam Arcanum. Slouží k posílení skrytých vlastností uživatele."^w^n(použitelné na prsten nebo amulet)
+
+tagGDX1EnchantB131A=Sklizeň Pustošitele
+tagGDX1EnchantB131Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Vštípí ti neukojitelný hlad."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantB132A=Bohatá sklizeň Pustošitele
+tagGDX1EnchantB132Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Vštípí ti neukojitelný hlad."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantB133A=Oko Pustošitele
+tagGDX1EnchantB133Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Vdechne ti nepřekonatelnou věrnost."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantB134A=Vševidoucí oko Pustošitele
+tagGDX1EnchantB134Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Vdechne ti nepřekonatelnou věrnost."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantB135A=Vztek Pustošitele
+tagGDX1EnchantB135Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Vyvolává nekontrolovatelný vztek."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantB136A=Silný vztek Pustošitele
+tagGDX1EnchantB136Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Vyvolává nekontrolovatelný vztek."^w^n(použitelné na všechny obouruční zbraně)
+
+tagGDX1EnchantB137A=Dech Pustošitele
+tagGDX1EnchantB137Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Pouhý dotyk způsobuje bolestivé rány a puchýře po celém těle."^w^n(použitelné na všechny jednoruční zbraně, štít nebo kouzelnický příruční předmět)
+
+tagGDX1EnchantB138A=Silný dech Pustošitele
+tagGDX1EnchantB138Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Pouhý dotyk způsobuje bolestivé rány a puchýře po celém těle."^w^n(použitelné na všechny obouruční zbraně)
+
+
+tagGDX1EnchantC101A=Čarodějčin ochranný prach
+tagGDX1EnchantC101Desc="Kouzelnický prach byl vytvořený Lóží čarodějek, aby je chránil při rituálech."^w^n(použitelné na všechny druhy zbroje)
+tagGDX1EnchantC102A=Čarodějčin černý popel
+tagGDX1EnchantC102Desc="Popel, který Lóže čarodějek smísila s krví Chthonianů."^w^n(použitelné na všechny druhy zbroje)
+tagGDX1EnchantC103A=Čarodějčin popel s příměsí krve
+tagGDX1EnchantC103Desc="Lóže čarodějek nechala smíchat popel s krví Wendigů."^w^n(použitelné na všechny druhy zbroje)
+tagGDX1EnchantC104A=Malmouthský prach střežící duši
+tagGDX1EnchantC104Desc=Malmouthský prach vyrobený v Malmouthu, abych chránil přeživší před Aetherickým posednutím. Bohužel nikdo nebyl natolik odvážný, aby vyzkoušel jeho efektivitu."^w^n(použitelné na všechny druhy zbroje)
+tagGDX1EnchantC105A=Malmouthský prach z vypálené jizvy
+tagGDX1EnchantC105Desc="Kouzelnický prach často užívaný jako první pomoc k ošetření ran. Jedná se o bolestivý proces, ale pořád lepší než vykrvácet."^w^n(použitelné na všechny druhy zbroje)
+tagGDX1EnchantC106A=Malmouthský posilující prach
+tagGDX1EnchantC106Desc="Kouzelnický prach používaný k obnovení sil po hodinách vyčerpávajícího souboje."^w^n(použitelné na všechny druhy zbroje)
+tagGDX1EnchantC107A=Wendigův prach s nádechem krve
+tagGDX1EnchantC107Desc="Pustošitelův dar, který zastavuje krvácení a stěžuje tak vystopování oběti."^w^n(použitelné na všechny druhy zbroje)
+tagGDX1EnchantC108A=Wendigův prach s příchutí duše
+tagGDX1EnchantC108Desc="Pustošitelův dar, aby chránil duše živých před přízraky."^w^n(použitelné na všechny druhy zbroje)
+tagGDX1EnchantC109A=Wendigův prach s esencí života
+tagGDX1EnchantC109Desc="Pustošitelův dar pro posílení duše smrtelníka."^w^n(použitelné na všechny druhy zbroje)
+
+
+
+
+#ItemComponents
+
+tagGDX1CompA101Name=Pečeť moci
+tagGDX1CompA101Desc="Pečeť vyzdobená Ulgardem Mocným, který přetvořil tajemnou moc Stvořitele do fyzické síly."^w^n(může vylepšit všechny druhy zbraní, štít nebo kouzelnický příruční předmět)
+
+tagGDX1CompA102Name=Pečeť ostří
+tagGDX1CompA102Desc="Pečeť navržená legendárním členem Nočních čepelí, Belgothianem, aby zesílil smrtící výpady a podnítila krvácení oběti."^w^n(může vylepšit všechny druhy zbraní, štít nebo kouzelnický příruční předmět)
+
+tagGDX1CompA103Name=Pečeť nebes
+tagGDX1CompA103Desc="Pečeť, která byla vyzdobena mistrem Trozanem, vyvolává síly samotných nebes."^w^n(může vylepšit všechny druhy zbraní, štít nebo kouzelnický příruční předmět)
+
+tagGDX1CompA104Name=Pečeť pohromy
+tagGDX1CompA104Desc="Pečeť naplněná mocí Trojice vyvolává každou nemoc, kterou oběť v minulosti prodělala."^w^n(může vylepšit všechny druhy zbraní, štít nebo kouzelnický příruční předmět)
+
+tagGDX1CompA105Name=Pečeť zkaženosti
+tagGDX1CompA105Desc="Ačkoliv historie již dávno zapomněla na jméno tvůrce této pečeti, jeho schopnosti pracovat s Aetherem nelze přehlédnout."^w^n(může vylepšit všechny druhy zbraní, štít nebo kouzelnický příruční předmět)
+
+tagGDX1CompA106Name=Pečeť Prázdnoty
+tagGDX1CompA106Desc="Vytvoření této pečeti vyžadovalo obrovskou dávku sebezapření. Ti, kteří bádali nad jejím využitím, jsou považování za obzvláště mocné a zkažené."^w^n(může vylepšit všechny druhy zbraní, štít nebo kouzelnický příruční předmět)
+
+tagGDX1CompA107Name=Pečeť noci
+tagGDX1CompA107Desc="Pečeť navrhla noční lovkyně Amarasta jako průpravu na obzvláště nepolapitelné cíle."^w^n(může vylepšit všechny druhy zbraní, štít nebo kouzelnický příruční předmět)
+
+tagGDX1CompA108Name=Pečeť zkázy
+tagGDX1CompA108Desc="Pečeť byla vytvořena na počest Ulzuina, který sliboval velmi žhavý konec těm, jež nevěří na nebeské bytosti."^w^n(může vylepšit všechny druhy zbraní, štít nebo kouzelnický příruční předmět)
+
+tagGDX1CompA109Name=Pečeť stínů
+tagGDX1CompA109Desc="Nidalla, oblíbenkyně Nočních čepelí, napustila pečeť velmi nebezpečnou kyselinou."^w^n(může vylepšit všechny druhy zbraní, štít nebo kouzelnický příruční předmět)
+
+tagGDX1CompA110Name=Pečeť ozvěny
+tagGDX1CompA110Desc="Pečeť je vyrobena podle přesných specifikací Luminářů, aby umocňovala magické vlastnosti zbraně i když je ovládána těmi, kteří nejsou zběhlí v alchymii."^w^n(může vylepšit všechny druhy zbraní, štít nebo kouzelnický příruční předmět)
+
+tagGDX1CompA111Name=Zkažené srdce
+tagGDX1CompA111Desc="Aetherem zkažené srdce tepe nekonečně dlouho."^w^n(může vylepšit amulet nebo medaili)
+
+tagGDX1CompA112Name=Planoucí rubín
+tagGDX1CompA112Desc="Na vyleštěných ploškách drahokamu tančí oslnivý plamen."^w^n(může vylepšit amulet nebo medaili)
+
+tagGDX1CompA113Name=Runami svázaný topas
+tagGDX1CompA113Desc="Runa zdobící strany tohoto drahokamu umocňuje tak jeho ochranné vlastnosti."^w^n(může vylepšit prsten, amulet nebo medaili)
+
+tagGDX1CompA114Name=Krvavý krystal
+tagGDX1CompA114Desc="Kdysi perleťově bílý krystal pohltil nevyslovitelné krveprolití."^w^n(může vylepšit prsten, amulet nebo medaili)
+
+tagGDX1CompA115Name=Očarovaná hlína
+tagGDX1CompA115Desc="Půda byla obohacena esencí života ke stimulaci růstu a nerostného bohatství."^w^n(může vylepšit všechny druhy zbroje)
+
+tagGDX1CompA116Name=Kouzlem sežehlé plátování
+tagGDX1CompA116Desc="Zbytky zbroje která přečkala  tajemný smrtící útok magických energií, které se zakously do kusů kovu."^w^n(může vylepšit všechny druhy zbroje)
+
+tagGDX1CompA117Name=Ostnaté plátování
+tagGDX1CompA117Desc="Zbroj pokrytá řadami smrtících ostnů. Oblíbené zejména mezi zbojníky a bezohlednými tyrany."^w^n(může vylepšit všechny druhy zbroje)
+
+tagGDX1CompA118Name=Ugdenská useň
+tagGDX1CompA118Desc="Kůže z příšer žijících v oblasti známé jako Ugdenbog. Smrtící vlastnosti močálů zplodily jedny z nejnebezpečnějších stvoření, které kdy v Cairnu žily."^w^n(může vylepšit všechny druhy zbroje)
+
+
+tagGDX1CompB101Name=^kPosvátné plátování
+tagGDX1CompB101Desc="Plátování z kdysi velmi mocné sady zbrojí, které podle pověstí posvětil sám Empyrion."^w^n(může vylepšit nárameníky, hrudní zbroj nebo ochranu hlavy)
+
+tagGDX1CompB102Name=^kŽivoucí zbroj
+tagGDX1CompB102Desc="Tento plát zbroje je víc maso než kov a tím jak jej třímáš v ruce, nejspíš nějak ovlivňuje Aetheriany."^w^n(může vylepšit nárameníky, hrudní zbroj nebo ochranu hlavy)
+
+tagGDX1CompB103Name=^kTitánovo plátování
+tagGDX1CompB103Desc="Neuvěřitelně silné pláty zbroje. Celá sestava musí vážit tolik, že nemůže existovat žádný normální člověk, který by ji mohl nosit, natož se v ní pohybovat."^w^n(může vylepšit hrudní zbroj nebo ochranu hlavy)
+
+tagGDX1CompB104Name=^kZrcadlo tajemství
+tagGDX1CompB104Desc="Povrch zrcadla září širokým spektrem barev a pohled do něj způsobuje nepříjemnou bolest hlavy, jakoby se tvé oči dívaly do úplně jiného, ale reálného světa."^w^n(může vylepšit hrudní zbroj nebo ochranu hlavy)
+
+tagGDX1CompB105Name=^kPečeť vyhlazení
+tagGDX1CompB105Desc="Tajemná pečeť v tobě s každým dotykem vyvolává pocity násilí a krveprolití. Budeš toužit po smrti."^w^n(může vylepšit amulet)
+
+tagGDX1CompB106Name=^kPečeť původu
+tagGDX1CompB106Desc="Tajemná pečeť v tobě vyvolává vzpomínky na tvé předky, dokonce i na ty, kteří žili v úplně jiných dobách."^w^n(může vylepšit amulet)
+
+
+
+#ItemFactionBoosters
+tagGDX1BoosterCU_A01=Výnos obyvatel Ugdenbogu
+tagGDX1BoosterCU_B01=Mandát obyvatel Ugdenbogu
+tagGDX1BoosterCW_A01=Výnos obyvatel Barrowholmu
+tagGDX1BoosterCW_B01=Mandát obyvatel Barrowholmu
+tagGDX1BoosterPM_A01=Výnos obyvatel Malmouthu
+tagGDX1BoosterPM_B01=Mandát obyvatel Malmouthu
+
+tagGDX1BoosterAetherialVanguard_C01=Rozkaz Aetherianského předvoje
+tagGDX1BoosterWendigo_C01=Oprávnění z Barrowholmu
+tagGDX1BoosterBeast_C01=Oprávnění na "odstřel zvěře"
+tagGDX1BoosterBeastDesc=Na první pohled je jasné, že to "psal" nějaký grobl, ale asi vypadal hodně naštvaně a uvědomuješ si, že ta podobizna je ti velmi podobná.
+
+#Misc
+
+
+# Bonuses
+
+#Devotion
+
+#Attributes
+tagAttributeReset={^E}Použitím vynuluješ své atributy
+tagAttributeNoPointsUsed={^r}[žádný atribut k vynulování]
+tagAttributeResetConfirmation=Vynulovat všechny atributy?
+
+#ItemSets
+tagGDX1ItemSetC018CName=Alkamosova nouze
+
+tagGDX1ItemSetC101Name=Narušitel duchů
+tagGDX1ItemSetC101BName=Narušitel duší
+tagGDX1ItemSetC101Desc="Duchové se podvolí tvé vůli."
+
+tagGDX1ItemSetC102Name=Stříbrný strážce
+tagGDX1ItemSetC102BName=Stříbrná hlídka
+tagGDX1ItemSetC102Desc="Stříbrní strážci, sami chráněni vůči magii, neustále dohlíželi na císařský trůn a měli se na pozoru před okultními hrozbami."
+
+tagGDX1ItemSetC103Name=Požárník
+tagGDX1ItemSetC103Desc="Tvé srdce je jak žhavý popel, neuhasitelné a stále lačnící po ničení."
+
+tagGDX1ItemSetC104Name=Velký kouzelník
+tagGDX1ItemSetC104Desc="Klenoty nošené Holgusem Evellionem, váženým členem císařského dvora a alchymistou."
+
+tagGDX1ItemSetC105Name=Hrůzný chodec
+tagGDX1ItemSetC105Desc="Samotná přítomnost Hrůzného chodce způsobuje, že živé znenadání začnou sužovat zdánlivě neškodné nemoci."
+
+tagGDX1ItemSetC106Name=Luminářské klenoty
+tagGDX1ItemSetC106Desc="Klenoty vyrobené ke zvláštní příležitosti Luminářů a darované jejich nejvyšším členům za splněné nejnebezpečnější úkoly."
+
+tagItemSetC009BName=Pohled neviditelného
+tagItemSetC010BName=Ostrostřelcova služba
+tagItemSetC011BName=Závazek znesvětitele
+tagItemSetC016BName=Panettiho ideál
+tagItemSetC017BName=Štít úsvitu
+tagItemSetC021BName=Kletba Východu
+tagItemSetC024BName=Strážce požárů
+tagItemSetC025BName=Callidorova obrana
+tagItemSetC026BName=Myrmidonská bašta
+tagItemSetC027BName=Mogdrogenův mír
+tagItemSetC028BName=Chemická bouře
+tagItemSetC029BName=Harmonie živlů
+
+
+tagGDX1ItemSetD101Name=Kriegova výzbroj
+tagGDX1ItemSetD101Desc="Zbroj starého Wardena z vesnice Burrwitch je trvale znesvěcena Aetherianskou zkázonosnou esencí."
+
+tagGDX1ItemSetD102Name=Pomsta přírody
+tagGDX1ItemSetD102Desc="Zbroj požehnaná samotným Mogdrogenem, aby ji nosili šampióni k obraně ve jménu přírodních zákonů."
+
+tagGDX1ItemSetD103Name=Pastýř ztracených duší
+tagGDX1ItemSetD103Desc="Ta největší moc se skrývá za rouškou temnoty. Nauč se ji využívat a samotná smrt bude jen mírným rozptýlením. - Uroboruuk"
+
+tagGDX1ItemSetD104Name=Octaviovo zanícení
+tagGDX1ItemSetD104Desc="Octavius Gallador byl jeden z nejvíce vyznamenávaných Luminářských lovců a dokonce sloužil jako ředitel Citadely až do posledního výdechu."
+
+tagGDX1ItemSetD105Name=Zkáza
+tagGDX1ItemSetD105Desc="Pro bezpečnost každého jedince byly tyto artefakty rozptýleny a ukryty Lumináři po celém světě, aby je už nikdy nikdo nezískal a neuvolnil z nich zkázonosnou moc."
+
+tagGDX1ItemSetD106Name=Kamenná stráž
+tagGDX1ItemSetD106Desc="Výstroj kamenné stráže, spolehlivých obránců víry v Menhiru."
+
+tagGDX1ItemSetD107Name=Legionářská pevnost
+tagGDX1ItemSetD107Desc="Výstroj Palliona Dara, štítonoše Černé legie."
+
+tagGDX1ItemSetD108Name=Korbina zuřivost
+tagGDX1ItemSetD108Desc="Zbroj Korby, nezkrotné dcery Hrothnara, jež si vydobyla přezdívku Velká bílá vlčice."
+
+tagGDX1ItemSetD109Name=Oděv spálený na uhel
+tagGDX1ItemSetD109Desc="Výstroj čarodějného boha Solaela, jež mu byly udělena za jeho služby v dobách trpkých válek mezi Trojicí."
+
+tagGDX1ItemSetD110Name=Magická bouře
+tagGDX1ItemSetD110Desc="Nepravděpodobný svazek mezi bitevním hrdinstvím a alchymistickou statečností vyobrazenou na této části válečné zbroje."
+
+tagGDX1ItemSetD111Name=Zabiják čarodějů
+tagGDX1ItemSetD111Desc="Zbroj zabijáků čarodějů, malé skupinky spadající pod Luminářské Noční čepele, kteří měli vyvraždit veškeré kouzelníky v říši."
+
+tagGDX1ItemSetD112Name=Valguurova nenasytnost
+tagGDX1ItemSetD112Desc="Valguur byl proklet neukojitelnou touhou sežrat něco živého, ale než se tak skutečně stalo, byla z něj kletba sejmuta Pustošitelem, duchem Wendiga."
+
+tagGDX1ItemSetD113Name=Runotepec
+tagGDX1ItemSetD113Desc="Ochranná zbroj runotepce Talliose, prvního správce Luminářské pokladnice."
+
+tagGDX1ItemSetD114Name=Uroboruukova pravá tvář
+tagGDX1ItemSetD114Desc="Roucho nesmrtelného nekromanta Uroboruuka z doby, kdy pobýval v Arkovii; je to sice hodně stará historie, ale stále plné skrytého potenciálu."
+
+tagGDX1ItemSetD115Name=Allagastův mistrovský kousek
+tagGDX1ItemSetD115Desc="Mistr Allagast byl velmi blízký spojenec Luminářů, který přispěl velkým zájmem o studium a odhalení tajemství jejich artefaktů."
+
+tagGDX1ItemSetD116Name=Dagallonova záhuba
+tagGDX1ItemSetD116Desc="Dagallon byl neortodoxní inkvizitor, jehož metody byly často zamítány, ale jen několika Luminářům opravdu záleželo na tom, aby tito kacíři byli skutečně předvedeni k soudu."
+
+tagGDX1ItemSetD117Name=Strážce smrti
+tagGDX1ItemSetD117Desc="Strážce údolí, hlídač poslední brány."
+
+tagGDX1ItemSetD118Name=Prorokova vize
+tagGDX1ItemSetD118Desc="Hvězdy ukrývají mnohá tajemství, ale vyzrazují je jen těm, kdo mají odvahu naslouchat."
+
+tagGDX1ItemSetD119Name=Dar Pána temnot
+tagGDX1ItemSetD119Desc="Dar od Ch'thona smrtelníkům, jež obdivují jeho návrat."
+
+tagGDX1ItemSetD120Name=Belgothianovo krveprolití
+tagGDX1ItemSetD120Desc="Zbroj, kterou kdysi dávno nosíval mistr Nočních čepelí Belgothian, jež bezohledně masakroval každého jen aby viděl krev, což znepokojovalo i jeho podřízené."
+
+tagGDX1ItemSetD121Name=Radagganova pošetilost
+tagGDX1ItemSetD121Desc="Zbroj Astora Radaggana, kacíře a zrádce Luminářů, jež se stal věrným služebníkem Velkého strážce."
+
+tagGDX1ItemSetD122Name=Mrazík
+tagGDX1ItemSetD122Desc="Mrazíkova zbroj, nedostižitelného člena císařského dvora, mistra v infiltraci a politické sabotáže."
+
+tagGDX1ItemSetD123Name=Krvavý rytíř
+tagGDX1ItemSetD123Desc="Krvavá zbroj lorda Nazarana, Krále v karmínu, více známého jako Krvavý rytíř."
+
+
+tagItemSetD001BName=Ochránce spravedlivých
+tagItemSetD002BName=Posvátná harmonie
+tagItemSetD003BName=Natuřiny vyzývavé klenoty
+tagItemSetD004BName=Světlo hledače úsvitu
+tagItemSetD005BName=Poslova zpráva
+tagItemSetD006BName=Soudcovy pečeti
+tagItemSetD007BName=Výstroj zabijáka démonů
+tagItemSetD008BName=Likvidátoři ostříleného soudkaře
+tagItemSetD009BName=Divoké srdce předvoje
+tagItemSetD010BName=Jasnovidcova vidina
+tagItemSetD011BName=Vyvolávačova vůle
+tagItemSetD012BName=Markovianská bašta
+tagItemSetD013BName=Ulzuinovo pekelné ztělesnění
+tagItemSetD014BName=Dreegův podvod
+tagItemSetD015BName=Střelmistrův stín
+tagItemSetD016BName=Iskandřino sjednocení
+tagItemSetD017BName=Ultosova vřava
+tagItemSetD018BName=Trozanův nebeský dech
+tagItemSetD019BName=Valdunova zrada
+tagItemSetD020BName=Smlouva s ďáblem
+tagItemSetD021BName=Závazek na celý život
+tagItemSetD022BName=Strážce Světla
+tagItemSetD023BName=Pekelný rytíř
+tagItemSetD024BName=Agrivixův vztek
+tagItemSetD025BName=Bašta ze starých válek
+tagItemSetD026BName=Nekonečná posedlost vzteklého krvesaje
+tagItemSetD027BName=Alkamosovy hrůzné pečeti
+
+
+#Prefixes
+tagGDX1PrefixAA101=[ms]osvícený[fs]osvícená[ns]osvícené[mp]osvícené[fp]osvícené[np]osvícené
+
+tagGDX1PrefixAA022=$[ms]{^Y}Inkvizitorův[fs]{^Y}Inkvizitorova[ns]{^Y}Inkvizitorovo[mp]{^Y}Inkvizitorovy[fp]{^Y}Inkvizitorovy[np]{^Y}Inkvizitorovy
+tagGDX1PrefixAA023=$[ms]{^Y}Nekromantův[fs]{^Y}Nekromantova[ns]{^Y}Nekromantovo[mp]{^Y}Nekromantovy[fp]{^Y}Nekromantovy[np]{^Y}Nekromantovy
+
+tagGDX1PrefixAD101=[ms]dokonalý[fs]dokonalá[ns]dokonalé[mp]dokonalé[fp]dokonalé[np]dokonalé
+
+tagGDX1PrefixAO101=lepší
+
+tagGDX1PrefixB101_WpnMelee1h_A=|9{^G}polykače duší
+tagGDX1PrefixB102_WpnMelee1h_A=|9{^G}kamenné tváře
+tagGDX1PrefixB103_WpnMelee1h_A=|9{^G}runotepce
+tagGDX1PrefixB104_WpnMelee1h_A=|9{^G}věčného hněvu
+tagGDX1PrefixB105_WpnMelee1h_A=|9{^G}bouřného čaroděje
+
+tagGDX1PrefixB101_Ar_A=|9{^G}kamenné tváře
+tagGDX1PrefixB102_Ar_A=|9{^G}runotepce
+tagGDX1PrefixB103_Ar_A=|9{^G}věčného hněvu
+tagGDX1PrefixB104_Ar_A=|9{^G}bouřného čaroděje
+
+tagPrefixB022_Class_A=$[ms]{^G}Taktikův[fs]{^G}Taktikova[ns]{^G}Taktikovo[mp]{^G}Taktikovy[fp]{^G}Taktikovy[np]{^G}Taktikovy
+tagPrefixB023_Class_A=$[ms]{^G}čističův[fs]{^G}čističova[ns]{^G}čističovo[mp]{^G}čističovy[fp]{^G}čističovy[np]{^G}čističovy
+tagPrefixB024_Class_A=$[ms]{^G}Podvodníkův[fs]{^G}Podvodníkova[ns]{^G}Podvodníkovo[mp]{^G}Podvodníkovy[fp]{^G}Podvodníkovy[np]{^G}Podvodníkovy
+tagPrefixB025_Class_A=$[ms]{^G}Infiltrátorův[fs]{^G}Infiltrátorova[ns]{^G}Infiltrátorovo[mp]{^G}Infiltrátorovy[fp]{^G}Infiltrátorovy[np]{^G}Infiltrátorovy
+tagPrefixB026_Class_A=|9{^G}lovce čarodějů
+tagPrefixB027_Class_A=$[ms]{^G}Obhájcův[fs]{^G}Obhájcova[ns]{^G}Obhájcovo[mp]{^G}Obhájcovy[fp]{^G}Obhájcovy[np]{^G}Obhájcovy
+tagPrefixB028_Class_A=$[ms]{^G}Odpadlíkův[fs]{^G}Odpadlíkova[ns]{^G}Odpadlíkovo[mp]{^G}Odpadlíkovy[fp]{^G}Odpadlíkovy[np]{^G}Odpadlíkovy
+tagPrefixB029_Class_A=|9{^G}rytíře smrti
+tagPrefixB030_Class_A=$[ms]{^G}Poskvrnitelův[fs]{^G}Poskvrnitelova[ns]{^G}Poskvrnitelovo[mp]{^G}Poskvrnitelovy[fp]{^G}Poskvrnitelovy[np]{^G}Poskvrnitelovy
+tagPrefixB031_Class_A=$[ms]{^G}Kabalistův[fs]{^G}Kabalistova[ns]{^G}Kabalistovo[mp]{^G}Kabalistovy[fp]{^G}Kabalistovy[np]{^G}Kabalistovy
+tagPrefixB032_Class_A=$[ms]{^G}Rozparovačův[fs]{^G}Rozparovačova[ns]{^G}Rozparovačovo[mp]{^G}Rozparovačovy[fp]{^G}Rozparovačovy[np]{^G}Rozparovačovy
+tagPrefixB033_Class_A=|9{^G}vazače kouzel
+tagPrefixB034_Class_A=$[ms]{^G}Ritualistův[fs]{^G}Ritualistova[ns]{^G}Ritualistovo[mp]{^G}Ritualistovy[fp]{^G}Ritualistovy[np]{^G}Ritualistovy
+tagPrefixB035_Class_A=$[ms]{^G}Vyšetřovatelův[fs]{^G}Vyšetřovatelova[ns]{^G}Vyšetřovatelovo[mp]{^G}Vyšetřovatelovy[fp]{^G}Vyšetřovatelovy[np]{^G}Vyšetřovatelovy
+tagPrefixB036_Class_A=$[ms]{^G}Teurgův[fs]{^G}Teurgova[ns]{^G}Teurgovo[mp]{^G}Teurgovy[fp]{^G}Teurgovy[np]{^G}Teurgovy
+
+tagGDX1PrefixB101_Sh_A=|9{^G}polykače duší
+tagGDX1PrefixB102_Sh_A=|9{^G}zloděje orgánů
+tagGDX1PrefixB103_Sh_A=|9{^G}runotepce
+tagGDX1PrefixB104_Sh_A=|9{^G}bouřného čaroděje
+tagGDX1PrefixB105_Sh_A=|9{^G}věčného hněvu
+tagGDX1PrefixB106_Sh_A=|9{^G}věčného trestu
+tagGDX1PrefixB107_Sh_A=|9{^G}kamenné tváře
+
+
+#Suffixes
+tagGDX1SuffixA101=of
+
+tagGDX1SuffixB101_Wpn_A=[ms]{^G}mučených duší[fs]{^G}mučených duší[ns]{^G}mučených duší[mp]{^G}mučených duší[fp]{^G}mučených duší[np]{^G}mučených duší
+tagGDX1SuffixB102_Wpn_A=[ms]{^G}lidské podstaty[fs]{^G}lidské podstaty[ns]{^G}lidské podstaty[mp]{^G}lidské podstaty[fp]{^G}lidské podstaty[np]{^G}lidské podstaty
+tagGDX1SuffixB103_Wpn_A=[ms]{^G}spálených run[fs]{^G}spálených run[ns]{^G}spálených run[mp]{^G}spálených run[fp]{^G}spálených run[np]{^G}spálených run
+tagGDX1SuffixB104_Wpn_A=[ms]{^G}uvězněné duše[fs]{^G}uvězněné duše[ns]{^G}uvězněné duše[mp]{^G}uvězněné duše[fp]{^G}uvězněné duše[np]{^G}uvězněné duše
+tagGDX1SuffixB105_Wpn_A=[ms]{^G}nebeského trestu[fs]{^G}nebeského trestu[ns]{^G}nebeského trestu[mp]{^G}nebeského trestu[fp]{^G}nebeského trestu[np]{^G}nebeského trestu
+
+tagGDX1SuffixB101_Ar_A=[ms]{^G}trýzněných duší[fs]{^G}trýzněných duší[ns]{^G}trýzněných duší[mp]{^G}trýzněných duší[fp]{^G}trýzněných duší[np]{^G}trýzněných duší
+tagGDX1SuffixB102_Ar_A=[ms]{^G}mučených duší[fs]{^G}mučených duší[ns]{^G}mučených duší[mp]{^G}mučených duší[fp]{^G}mučených duší[np]{^G}mučených duší
+tagGDX1SuffixB103_Ar_A=[ms]{^G}lidské podstaty[fs]{^G}lidské podstaty[ns]{^G}lidské podstaty[mp]{^G}lidské podstaty[fp]{^G}lidské podstaty[np]{^G}lidské podstaty
+tagGDX1SuffixB104_Ar_A=[ms]{^G}spálených run[fs]{^G}spálených run[ns]{^G}spálených run[mp]{^G}spálených run[fp]{^G}spálených run[np]{^G}spálených run
+tagGDX1SuffixB105_Ar_A=[ms]{^G}trpících duší[fs]{^G}trpících duší[ns]{^G}trpících duší[mp]{^G}trpících duší[fp]{^G}trpících duší[np]{^G}trpících duší
+tagGDX1SuffixB106_Ar_A=[ms]{^G}uvězněné duše[fs]{^G}uvězněné duše[ns]{^G}uvězněné duše[mp]{^G}uvězněné duše[fp]{^G}uvězněné duše[np]{^G}uvězněné duše
+
+tagGDX1SuffixB101_Sh_A=[ms]{^G}mučených duší[fs]{^G}mučených duší[ns]{^G}mučených duší[mp]{^G}mučených duší[fp]{^G}mučených duší[np]{^G}mučených duší
+tagGDX1SuffixB102_Sh_A=[ms]{^G}spálených run[fs]{^G}spálených run[ns]{^G}spálených run[mp]{^G}spálených run[fp]{^G}spálených run[np]{^G}spálených run
+tagGDX1SuffixB103_Sh_A=[ms]{^G}uvězněné duše[fs]{^G}uvězněné duše[ns]{^G}uvězněné duše[mp]{^G}uvězněné duše[fp]{^G}uvězněné duše[np]{^G}uvězněné duše
+tagGDX1SuffixB104_Sh_A=[ms]{^G}nebeského trestu[fs]{^G}nebeského trestu[ns]{^G}nebeského trestu[mp]{^G}nebeského trestu[fp]{^G}nebeského trestu[np]{^G}nebeského trestu
+tagGDX1SuffixB105_Sh_A=[ms]{^G}tajemné bariéry[fs]{^G}tajemné bariéry[ns]{^G}tajemné bariéry[mp]{^G}tajemné bariéry[fp]{^G}tajemné bariéry[np]{^G}tajemné bariéry
+tagGDX1SuffixB106_Sh_A=[ms]{^G}impozantního vzezření[fs]{^G}impozantního vzezření[ns]{^G}impozantního vzezření[mp]{^G}impozantního vzezření[fp]{^G}impozantního vzezření[np]{^G}impozantního vzezření
+
+
+#ItemSkills
+
+
+#LootChests
+
+tagGDX1ChestWoodA01=Větrem ošlehaná truhla
+tagGDX1ChestAltarD01=Wendigův oltář
+tagGDX1ChestMalmouthC01=Železná truhlička
+tagGDX1ChestMalmouthD01=Zdobná truhla
+tagGDX1ChestFleshC01=Masem obalená truhla
+tagGDX1ChestFleshD01=Masová truhla
+
+tagGDX1ChestSpecial01=Elegantní truhla
+tagGDX1ChestBucket01=Mrtvola nešťastníka
+
+tagGDX1ChestFleshshaper=Mistrův poklad
+tagGDX1ChestNemesis03=Gladiátorův poklad
+
+tagGDX1ChestSecret01=Ukrytá bedýnka s masem
+
+tagGDX1BreakableA01=Shnilý pařez
+tagGDX1BreakableA02=Skrýš Lóže čarodějek
+tagGDX1Breakable_UgdenbogA01=Ugdenská houba
+tagGDX1Breakable_WendigoDoor=Wendigova klec
+
+tagGDX1ChestBoss_Kraken=Podmáčená truhlice
+tagGDX1Chest_Barrowholm=Scorvovy osobní věci
+tagGDX1Chest_DravisClue=Starý řečnický pult
+
+tagGDX1ChestBossOneShot_Fleshshaper=Mistrova sbírka
+tagGDX1ChestOneShot_Flesh=Masová skrýš
+tagGDX1ChestOneShot_GloomwaldHidden=Nanova skrýš
+tagGDX1ChestOneShot_MalmouthHidden=Rictorova skrýš
+
+tagGDX1Chest_MadRamblingsReward=Ivondin dar
+tagGDX1Chest_MadRamblingsLoot=Ivondina skrýš
+tagGDX1Chest_MadRamblingsNote=Ivondina truhlice
+
+tagGDX1Chest_KatrineCorpse=Katrininy ostatky
+tagGDX1Chest_RenochCorpse=Renochovy ostatky
+tagGDX1Chest_UnknownCorpse=Hnijící mrtvola
+
+tagGDX1ChestGauntletChestD01=Ztracený relikviář
+
+
+#Interactive Objects
+
+tagGDX1DoorWendigoLocked= {^R} ~ uzamčeno Scorvem Egdenorem
+tagGDX1DoorPuppetmasterLocked= {^R} ~ uzamčeno Aetheriany
+tagGDX1DoorSlumsLocked= {^R} ~ uzamčeno Obránci
+tagGDX1DoorDocksLocked= {^R} ~ uzamčeno Aetheriany
+tagGDX1DoorEnclaveLocked= {^R} ~ uzamčeno Aetheriany
+
+tagGDX1LeverFleshFactory=Aetherický krystal
+tagGDX1AetherialRift=Aetherianská Brána
+
+
+#Quest Items
+
+
+#Breakables
+tagGDX1Quest_CorpseWagon_01=Povoz s Aetherickými mrtvolami
+tagGDX1Quest_FactoryVent=Masem zarostlý průduch
+tagGDX1Quest_ObsidianCrystal=Runový obsidián
+
+#Dungeon Doors
+tagGDX1UGDoorFactoryEntrance=Vstup do továrny
+tagGDX1UGDoorSlums=Svíčková čtvrť
+tagGDX1UGDoorIndust=Železný bodec
+tagGDX1UGDoorHideout=Útočiště Obránců
+tagGDX1UGDoorFactoryGeneric=Masorvoucí dveře
+tagGDX1UGDoorFactoryHeart=Srdce
+tagGDX1UGDoorSewerGeneric=Kanalizační roura
+tagGDX1RiftVoidExit=Východ z Prázdnoty
+tagGDX1WendioDoor=Vstup do sklepa
+tagGDX1WitchDoor=Vstup do doupěte čarodějnic
+tagGDX1FleshFactoryDoor=Masité dveře
+tagGDX1DoorMapleStump01=Vstup do dutiny
+tagGDX1DoorOvergrownCave=Vstup do jeskyně v Podrostu
+tagGDX1DoorLighthouse=Vstup do majáku
+tagGDX1CarraxusDoor=Carraxovo doupě
+
+tagGDX1DoorOneWayAncientGrove=Útěk z Háje
+tagGDX1EpicDoor_AncientGrove=Starodávná brána do Háje
+tagGDX1EpicDoor_AncientGroveLocked= {^R} ~ střeženo Mogdrogenem (potřebuješ univerzální klíč)
+
+#Doors
+tagGDX1Door_Vine=Úponky
+tagGDX1Door_Flesh=Živé dveře z masa
+tagGDX1Door_Puppetmaster=Dveře ze zbytků těl
+
+
+#DLC
+tagGDX1DLCIllusionA01=Iluze: Zbroj Černého rytíře
+tagGDX1DLCA01=Zbroj Černého rytíře
+tagGDX1DLCA01Desc="Zbroj zlověstného Černého rytíře."
+
+tagGDX1DLCIllusionA02=Iluze: Zbroj Stříbrného rytíře
+tagGDX1DLCA02=Zbroj Stříbrného rytíře
+tagGDX1DLCA02Desc="Zbroj čestného Stříbrného rytíře."
+
+tagGDX1DLCIllusionA03=Iluze: Sbírka Dračího generála
+tagGDX1DLCA03=Sbírka Dračího generála
+tagGDX1DLCA03Desc="Generálova úctyhodná sbírka."
+
+tagGDX1DLCIllusionA04=Iluze: Bílý čaroděj
+tagGDX1DLCA04=Oděv Bílého čaroděje
+tagGDX1DLCA04Desc="Záhadný oděv Bílého čaroděje."
+
+tagGDX1DLCIllusionA05=Iluze: Černokněžník
+tagGDX1DLCA05=Oděv Černokněžníka
+tagGDX1DLCA05Desc="Odporný oděv Černokněžníka."
+
+tagGDX1DLCIllusionA06=Iluze: Velký vlk
+tagGDX1DLCA06=Zbroj Velkého vlka
+tagGDX1DLCA06Desc="Zbroj divošského Velkého vlka."
+
+tagGDX1DLCIllusionB01=Iluze: Mogdrogenova božská zbroj
+tagGDX1DLCB01=Mogdrogenova božská zbroj
+tagGDX1DLCB01Desc="Zbroj zvířecího boha, Mogdrogena."
+
+tagGDX1DLCIllusionB02=Iluze: Rattoshovo božské roucho
+tagGDX1DLCB02=Rattoshovo božské roucho
+tagGDX1DLCB02Desc="Háv strážce závoje, Rattoshe."
+
+tagGDX1DLCIllusionB03=Iluze: Empyrionova božská zbroj
+tagGDX1DLCB03=Empyrionova božská zbroj
+tagGDX1DLCB03Desc="Zbroj největšího z bohů, Empyriona."
+
+tagGDX1DLCIllusionB04=Iluze: Ch'thonovy božské nástroje
+tagGDX1DLCB04=Ch'thonovy božské nástroje
+tagGDX1DLCB04Desc="Přetrhané řetězy mrtvého boha, Ch'thona."
+
+tagGDX1DLCIllusionB05=Iluze: Háv Kruhu pěti
+tagGDX1DLCB05=Háv Kruhu pěti
+tagGDX1DLCB05Desc="Háv aetherianských vládců, Kruhu pěti."
+
+tagGDX1DLCIllusionHelmInvisible=Helma neviditelnosti
+tagGDX1DLCIllusionHelmInvisibleDesc="100% ochrana s 0% přírůstkem hmotnosti. Nyní také bez laktózy."
+
+tagGDX1DLCIllusionShouldersInvisible=Nárameníky neviditelnosti
+tagGDX1DLCIllusionShouldersInvisibleDesc="100% ochrana s 0% přírůstkem hmotnosti. Nyní také bez laktózy."
+
+tagGDX1DLCIllusionMedalInvisible=Neviditelná medaile
+tagGDX1DLCIllusionMedalInvisibleDesc="100% poznání bez vedlejších účinků. Nyní také bez laktózy."
+
+

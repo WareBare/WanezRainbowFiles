@@ -1,0 +1,4499 @@
+#prefix/quality/style/name/suffix concatenation
+
+tagItemNameOrder={%_s0}{%_s4}{%_s1}{%_s2}{%_s3}
+tagItemNameAndStack={%s0} ({%d1})
+
+#Weapons
+
+tagWeaponSwordA000={^W}단검
+tagWeaponSwordA001={^W}글라디우스
+tagWeaponSwordA002={^W}면도칼
+tagWeaponSwordA003={^W}숏소드
+tagWeaponSwordA004={^W}고기칼
+tagWeaponSwordA005={^W}롱소드
+tagWeaponSwordA006={^W}브로드소드
+tagWeaponSwordA007={^W}백정칼
+tagWeaponSwordA008={^W}커틀러스
+tagWeaponSwordA009={^W}맹글러
+tagWeaponSwordA010={^W}기형검
+tagWeaponSwordA011={^W}톱날칼
+tagWeaponSwordA012={^W}정벌검
+tagWeaponSwordA013={^W}세이버
+
+tagWeaponSwordB001={^L}살라자르의 권위의 검
+tagWeaponSwordB001Desc="크'톤의 칼날이라는 칭호와 함께 내려진 끊나지 않을 봉사의 대가."
+tagWeaponSwordB002={^W}유령깃든 브로드소드
+tagWeaponSwordB003={^L}유령깃든 롱소드
+tagWeaponSwordB004={^G}예리한 롱소드
+tagWeaponSwordB005={^G}예리한 브로드소드
+tagWeaponSwordB006={^G}예리한 정벌검
+tagWeaponSwordB007={^L}말카다르의 드레드블레이드
+tagWeaponSwordB008={^L}만티코어 롱소드
+tagWeaponSwordB009={^W}뼈칼
+tagWeaponSwordB010={^L}해골검
+tagWeaponSwordB011={^W}집게벌레 발톱
+tagWeaponSwordB012={^L}집게벌레 칼날발톱
+tagWeaponSwordB013={^L}피의 지배자의 검
+tagWeaponSwordB013Desc="크'톤의 피로부터 힘이 깃든, 탈로니스의 검."
+
+tagWeaponSwordC001={^B}피뢰침
+tagWeaponSwordC002={^B}사냥개의 이빨
+tagWeaponSwordC002Desc="칼날에서 썩어서 더러워진 악취가 풍겨나온다."
+tagWeaponSwordC003={^B}징조
+tagWeaponSwordC004={^B}광기
+tagWeaponSwordC004Desc="광기가 깃든 비틀어진 칼날에 닿은 모든 것은 미쳐간다."
+tagWeaponSwordC005={^B}피내는 고기칼
+tagWeaponSwordC006=(S) {^B}피수확자의 발톱
+tagWeaponSwordC007={^B}결투자용 세이버
+tagWeaponSwordC007Desc="여러 세대의 숙련된 검사들을 통해 세밀하게 균형이 맞춰졌다."
+tagWeaponSwordC008={^B}심판관의 검열
+tagWeaponSwordC008Desc="정적들에게 금품을 건네는 것으로는 충분치 않다고 여겨질 때, 말무스의 심판관들이 사용하던 또다른 협상 방법."
+tagWeaponSwordC009={^B}플레임브랜드
+tagWeaponSwordC010={^B}영혼탈취자
+tagWeaponSwordC011={^B}차가운불길
+tagWeaponSwordC012={^B}척추베는칼
+tagWeaponSwordC013={^B}암살자의 의무
+tagWeaponSwordC013Desc="칼날 안에 장착된 작은 독병이, 온몸이 뻣뻣해지는 마비를 일으켜 결국 죽음에 이르게 만든다."
+tagWeaponSwordC014=(S) {^B}눈먼 암살자의 면도칼
+tagWeaponSwordC015={^B}폭풍추구자의 세이버
+tagWeaponSwordC016={^B}윌리의 면도칼
+tagWeaponSwordC016Desc="이 칼의 날은 절대 무뎌지지 않는다."
+tagWeaponSwordC017={^B}블러드본 세이버
+
+tagWeaponSwordD001={^I}크림슨 스파이크
+tagWeaponSwordD001Desc="잦아들지 않는 피를 향한 갈망이 검을 쥔 자를 채운다."
+tagWeaponSwordD002={^I}크리스탈룸
+tagWeaponSwordD002Desc="솔라드린 수정으로 만들어진 검에 한계 없는 힘이 충만하다."
+tagWeaponSwordD003={^I}잔혹한 최후
+tagWeaponSwordD004={^I}마인드워프
+tagWeaponSwordD005={^I}다시 벼려진 베로나스
+tagWeaponSwordD005Desc="파괴되었던 베로나스의 참살의 도구가, 마침내 강력한 검으로 다시 벼려졌다."
+tagWeaponSwordD006={^I}피의 노래
+tagWeaponSwordD007=(S) {^I}넥스
+tagWeaponSwordD007Desc="이 검을 보는 순간 자신의 필멸성을 느끼게 된다."
+tagWeaponSwordD008=(S) {^I}오르투스
+tagWeaponSwordD008Desc="이 검이 살짝 보이는 것만으로도 희망이 차오른다."
+tagWeaponSwordD009=(S) {^I}데스마크 클로
+tagWeaponSwordD010={^I}스톰하트
+tagWeaponSwordD010Desc="칼자루에 글자가 새겨져 있다: D.T."
+tagWeaponSwordD011={^I}강탈자의 클로
+tagWeaponSwordD012={^F}미친 여왕의 발톱
+tagWeaponSwordD012Desc="동족들로부터 격리되어 요새 성벽 아래에 갇힌 뒤로, 집게벌레 여왕은 서서히 미쳐갔다."
+tagWeaponSwordD013=(S) {^I}베놈블레이드의 면도칼
+
+tagWeaponSwordF001={^G}군단 제식검
+tagWeaponSwordF002={^G}선민의 검
+tagWeaponSwordF003={^G}악마의 흥정
+tagWeaponSwordF004={^G}군단 참격검
+
+tagWeaponBluntA000={^W}곤봉
+tagWeaponBluntA001={^W}메이스
+tagWeaponBluntA002={^W}메이스
+tagWeaponBluntA003={^W}철편 메이스
+tagWeaponBluntA004={^W}전투망치
+tagWeaponBluntA005={^W}모닝스타
+tagWeaponBluntA006={^W}전투곤봉
+tagWeaponBluntA007={^W}칼날 메이스
+tagWeaponBluntA008={^W}낭아봉
+tagWeaponBluntA009={^W}워해머
+tagWeaponBluntA010={^W}워메이스
+
+tagWeaponBluntB000=횃불
+tagWeaponBluntB001={^W}교도소장의 결정
+tagWeaponBluntB001Desc="이 무기에 얼마나 많은 무고한 사람들이 목숨을 잃었는지조차 알수가 없다."
+tagWeaponBluntB002={^L}교도소장의 판단
+tagWeaponBluntB003={^W}트롤 해골파괴기
+tagWeaponBluntB004={^L}트롤 해골분쇄기
+tagWeaponBluntB005={^W}유령깃든 모닝스타
+tagWeaponBluntB006={^L}유령깃든 낭아봉
+tagWeaponBluntB007={^L}킬리안의 두개골파쇄기
+tagWeaponBluntB008={^G}스키너의 횃불
+tagWeaponBluntB008Desc="절망한 남자의 최후의 희망..."
+tagWeaponBluntB009={^G}숙련자용 칼날 메이스
+tagWeaponBluntB010={^G}숙련자용 모닝스타
+tagWeaponBluntB011={^G}숙련자용 철편 메이스
+tagWeaponBluntB012={^W}변이체의 팔
+tagWeaponBluntB013={^L}변이체 둔기
+tagWeaponBluntB014={^L}그런들플리스의 꼬리
+tagWeaponBluntB015={^L}푸스퀼의 꼬리
+tagWeaponBluntB016={^L}바로그의 피투성이 팔
+
+tagWeaponBluntC001={^B}에테르비탄
+tagWeaponBluntC002={^B}무질서
+tagWeaponBluntC002Desc="한때는 성스러운 것이었던 이 셉터는 크'톤의 생혈이 부어진 이후 지금과 같은 비틀어진 형태가 되었다."
+tagWeaponBluntC003={^B}악의서린 손길
+tagWeaponBluntC003Desc="수많은 사람의 생명을 빼앗은 비열한 무기."
+tagWeaponBluntC004=(S) {^B}근위병의 망치
+tagWeaponBluntC005={^B}블랙우드 완드
+tagWeaponBluntC006={^B}무한한 분노의 신성한 망치
+tagWeaponBluntC007={^B}축복받은 횃불
+tagWeaponBluntC007Desc="멘허의 수호자에서 사용했던 타오르는 망치."
+tagWeaponBluntC008={^B}정신분쇄기
+tagWeaponBluntC009={^B}반항
+tagWeaponBluntC009Desc="인간의 적응력의 구현."
+tagWeaponBluntC010={^B}에테르강철 심판자
+tagWeaponBluntC011=(S) {^B}눈먼 암살자의 주먹
+tagWeaponBluntC012={^B}뼈부수는 망치
+tagWeaponBluntC013={^B}사나르'신의 검은 손
+tagWeaponBluntC014={^B}프로제니터
+tagWeaponBluntC015={^B}전쟁의 힐난
+tagWeaponBluntC016={^B}바르솔렘의 망치
+tagWeaponBluntC016Desc="존중 받아서는 안될 자들에게 신의 판결을 내릴 때 쓰이던, 집정관 바르솔렘 전용이었던 망치."
+tagWeaponBluntC017={^B}냉기강철 탈환자
+
+tagWeaponBluntD001={^I}죽음의 징조
+tagWeaponBluntD001Desc="죽음의 전령."
+tagWeaponBluntD002={^I}겨울의 장막의 신호
+tagWeaponBluntD003={^I}격통
+tagWeaponBluntD004={^I}불타는 종말의 전령
+tagWeaponBluntD005={^I}드리그의 질병유발자
+tagWeaponBluntD006=(S) {^I}새벽인도자의 철퇴
+tagWeaponBluntD007=(S) {^I}베놈블레이드 주먹
+tagWeaponBluntD008=(S) {^I}워본 철퇴
+
+tagWeaponBluntF001={^G}악마의 철퇴
+tagWeaponBluntF002={^G}군단 전쟁망치
+tagWeaponBluntF003={^G}죽음의 위력
+tagWeaponBluntF004={^G}로와리 철퇴
+tagWeaponBluntF005={^G}악마의 곤봉
+
+tagWeaponAxeA000={^W}벌목도끼
+tagWeaponAxeA001={^W}톱날도끼
+tagWeaponAxeA002={^W}한손도끼
+tagWeaponAxeA003={^W}양날도끼
+tagWeaponAxeA004={^W}절단도끼
+tagWeaponAxeA005={^W}칼날도끼
+tagWeaponAxeA006={^W}전쟁도끼
+tagWeaponAxeA007={^W}월아도끼
+tagWeaponAxeA008={^W}중형도끼
+tagWeaponAxeA009={^W}미늘도끼
+
+tagWeaponAxeB001={^W}유령깃든 절단도끼
+tagWeaponAxeB002={^L}유령깃든 전쟁도끼
+tagWeaponAxeB003={^L}검투장 마스터의 도끼
+tagWeaponAxeB004={^W}해골도끼
+tagWeaponAxeB005={^L}해골낫
+tagWeaponAxeB006={^G}올만의 도끼
+tagWeaponAxeB007={^L}에테르변형 절단도끼
+tagWeaponAxeB008={^L}에테르에 그을린 절단도끼
+
+tagWeaponAxeC001={^B}잔혹한 도끼날
+tagWeaponAxeC002={^B}수확자의 손길
+tagWeaponAxeC002Desc="오래 전에 죽은 이들이 만든, 희생 제의에 쓰이던 고대의 도구."
+tagWeaponAxeC003={^B}선혈포식자
+tagWeaponAxeC004=(S) {^B}피수확자의 절단도끼
+tagWeaponAxeC005={^B}폭풍의 서슬
+tagWeaponAxeC006={^B}크리그의 절단도끼
+tagWeaponAxeC006Desc="잔혹한 자가 지니던 잔혹한 무기."
+tagWeaponAxeC007={^B}말레피쿠스
+tagWeaponAxeC008={^B}식탐의 파멸톱날
+tagWeaponAxeC009={^B}목마른 주둥이
+tagWeaponAxeC010={^B}형체없는 날
+tagWeaponAxeC010Desc="이 무기의 날은 에테르 그 자체로 이뤄져있다."
+tagWeaponAxeC011={^B}천 개의 죽음들을 새긴 뼈
+tagWeaponAxeC011Desc="새김 하나하나가 이 무기에 죽은 생명이다."
+tagWeaponAxeC012={^B}시체 훼손자
+tagWeaponAxeC013={^B}초나그'리
+tagWeaponAxeC013Desc="사람의 것인지 동물의 것인지 구별되지 않는 다양한 뼈들로 구성된 주술적인 도끼."
+tagWeaponAxeC014={^B}아스테르칸 절단도끼
+tagWeaponAxeC015={^B}지옥발톱 절단기
+
+tagWeaponAxeD001={^I}버위치의 학살자
+tagWeaponAxeD001Desc="잔인한 새벽(Grim Dawn)이 시작되면서 케언의 인간들을 압도했던 광기와 타락의 구현."
+tagWeaponAxeD002={^I}초승달
+tagWeaponAxeD002Desc="신성한 정화의 기간 중에 파괴된 것으로 여겨졌던, 달을 숭배하는 자들의 축복받은 무기."
+tagWeaponAxeD003={^I}브루탈락스
+tagWeaponAxeD004={^I}대지파열기
+tagWeaponAxeD004Desc="전설들에서는 어느 필멸자가, 신들의 요청을 받아서 멘허 산을 갈라 멘허의 쌍둥이 산으로 만들었다는 이야기가 전해져온다."
+tagWeaponAxeD005={^I}징벌
+tagWeaponAxeD006=(S) {^I}데스마크 참수도끼
+
+tagWeaponAxeF001={^G}로와리 심판
+tagWeaponAxeF002={^G}태양의 서슬
+tagWeaponAxeF003={^G}죽음의 초승달
+
+tagWeaponGun1hA001={^W}나팔권총
+tagWeaponGun1hA002={^W}하우다 피스톨
+tagWeaponGun1hA003={^W}페퍼박스 건
+tagWeaponGun1hA004={^W}핸드캐논
+tagWeaponGun1hA005={^W}리볼버
+tagWeaponGun1hA006={^W}식스건
+tagWeaponGun1hA007={^W}데린저
+tagWeaponGun1hA008={^W}연발권총
+tagWeaponGun1hA009={^W}조준경 리볼버
+tagWeaponGun1hA010={^W}다연발 권총
+
+tagWeaponGun1hB001={^G}더블 배럴 피스톨
+tagWeaponGun1hB002={^G}휴대용 박격포
+tagWeaponGun1hB003={^G}산탄파편 피스톨
+tagWeaponGun1hB004={^W}혈교도 피스톨
+tagWeaponGun1hB005={^L}혈교도 연발권총
+tagWeaponGun1hB006={^G}프란시스의 총
+
+tagWeaponGun1hC001={^B}린더 그린의 핸드캐논
+tagWeaponGun1hC001Desc="화염병을 애용하던 죽은 강도의 차가운 손에서 빼냈다."
+tagWeaponGun1hC002={^B}마녀추적자
+tagWeaponGun1hC002Desc="비전 마력을 멋대로 악한 목적으로 남용하는 자들과 싸우기 위해 어둠의 마법이 부여되어있다."
+tagWeaponGun1hC003={^B}오웰의 리볼버
+tagWeaponGun1hC003Desc="이 연로한 사제는 차분한 대화로 유명했던게 아니었다."
+tagWeaponGun1hC004=(S) {^B}습격자의 격분
+tagWeaponGun1hC005=(S) {^B}습격자의 심판
+tagWeaponGun1hC006={^B}슬러거
+tagWeaponGun1hC006B={^B}슬러거
+tagWeaponGun1hC007={^B}제 3중대의 리볼버
+tagWeaponGun1hC007Desc="총신에 한 단어가 새겨져 있다: 충성."
+tagWeaponGun1hC008={^B}폭동
+tagWeaponGun1hC009={^B}무법자의 보복
+tagWeaponGun1hC009Desc="뒤틀린 감정에 의한 심판."
+tagWeaponGun1hC010={^B}점액 발사기
+tagWeaponGun1hC011={^B}영혼피탈기
+tagWeaponGun1hC012={^B}질병유발기 리볼버
+tagWeaponGun1hC013={^B}중재자
+tagWeaponGun1hC014={^B}가혹한 북부의 서늘한 총신
+tagWeaponGun1hC015={^B}버위치 치안감시기
+tagWeaponGun1hC015Desc="보안관 하몬 그리피스가 신뢰하던 휴대용 무기."
+tagWeaponGun1hC016=(S) {^B}약제사의 주사기
+tagWeaponGun1hC017=(S) {^B}서약위반자
+tagWeaponGun1hC018={^B}시체피탈기
+tagWeaponGun1hC019={^B}대지소각자
+tagWeaponGun1hC020={^B}냉기천공기
+
+tagWeaponGun1hD001={^I}악마의혀
+tagWeaponGun1hD002={^I}하복
+tagWeaponGun1hD003={^I}면죄부
+tagWeaponGun1hD003Desc="인퀴지터 조시안 파랄이 이단적인 신을 숭배하는 자들을 몰아낼 때 사용했던 권총."
+tagWeaponGun1hD004={^I}익스터미누스
+tagWeaponGun1hD004Desc="파괴하고, 조각내어, 전멸시킨다."
+tagWeaponGun1hD005={^I}아케이넘 시길리스
+tagWeaponGun1hD005Desc="은빛 탑의 위대한 아케니스트였던 마스터 아그리빅스의 정확한 설계에 따라 만들어졌다."
+tagWeaponGun1hD006={^I}데스딜러 권총
+tagWeaponGun1hD007=(S) {^I}악마사냥꾼의 생명단절기
+tagWeaponGun1hD008=(S) {^I}총포제작자의 일제사격
+tagWeaponGun1hD009=(S) {^I}총포제작자의 십자포화
+
+tagWeaponGun1hF001={^G}악마의 보복
+tagWeaponGun1hF002={^G}태양의 리볼버
+tagWeaponGun1hF003={^G}죽음의 리볼버
+tagWeaponGun1hF004={^G}군단 핸드캐논
+tagWeaponGun1hF005={^G}죽음의 식스건
+
+tagWeaponGun2hA001={^W}머스킷
+tagWeaponGun2hA002={^W}플린트락 라이플
+tagWeaponGun2hA003={^W}볼트액션 라이플
+tagWeaponGun2hA004={^W}나팔소총
+tagWeaponGun2hA005={^W}회전탄창 라이플
+tagWeaponGun2hA006={^W}연발탄창 라이플
+tagWeaponGun2hA007={^W}카빈
+tagWeaponGun2hA008={^W}중절장전식 라이플
+tagWeaponGun2hA009={^W}회전탄창 캐논
+tagWeaponGun2hA010={^W}산탄총
+tagWeaponGun2hA011=군용 산탄총
+
+tagWeaponGun2hB001={^G}회전총열 라이플
+tagWeaponGun2hB002={^G}전장식 라이플
+tagWeaponGun2hB003={^G}파편탄 소총
+tagWeaponGun2hB004={^W}에테르변형 라이플
+tagWeaponGun2hB005={^L}에테르변형 카빈
+tagWeaponGun2hB006={^W}에테르변형 발화기
+tagWeaponGun2hB007={^L}에테르변형 소각기
+tagWeaponGun2hB008={^L}라그'나다르의 입
+
+tagWeaponGun2hC001={^B}사냥꾼
+tagWeaponGun2hC001B={^B}사냥꾼
+tagWeaponGun2hC002={^B}시선
+tagWeaponGun2hC002B={^B}시선
+tagWeaponGun2hC002Desc="원 샷, 원 킬"
+tagWeaponGun2hC003={^B}지옥구렁텅이 산탄총
+tagWeaponGun2hC004={^B}악마의 표식
+tagWeaponGun2hC005={^B}숙명의 의지
+tagWeaponGun2hC005Desc="모든 탄환은 그 길을 누가 막고있던 간에 결국 진짜 목표를 맞추도록 결정되어 있다."
+tagWeaponGun2hC006={^B}진홍색 저격수
+tagWeaponGun2hC006B={^B}진홍색 저격수
+tagWeaponGun2hC007={^B}소금탄환 발사기
+tagWeaponGun2hC007Desc="에테리얼들을 파괴하기 위해 파편들을 모아 만든 무기."
+tagWeaponGun2hC008={^B}격노인도자
+tagWeaponGun2hC009={^B}천둥파열음
+tagWeaponGun2hC010=(S) {^B}샤프슈터 볼트액션 라이플
+tagWeaponGun2hC011=(S) {^B}유황불 연발총
+tagWeaponGun2hC012={^B}분노서린강철 연발총
+tagWeaponGun2hC013=(S) {^B}화염보관자의 연발총
+
+tagWeaponGun2hD001={^I}적수
+tagWeaponGun2hD002={^I}주술의 시간
+tagWeaponGun2hD002Desc="이단추적의 분노로부터 성지들을 지키는주술의 신들의 추종자들에게 주어진, 주술의 신들의 축복이 내려진 무기."
+tagWeaponGun2hD003={^I}헬본
+tagWeaponGun2hD003Desc="총신에서 일곱 지옥의 분노가 쏟아진다."
+tagWeaponGun2hD004={^I}영혼 소용돌이
+tagWeaponGun2hD004Desc="발사되는 모든 탄환들은 에테르에 파동을 일으킨다."
+tagWeaponGun2hD005={^I}거트리퍼
+tagWeaponGun2hD006=(S) {^I}얼즈인의 화염방사기
+tagWeaponGun2hD007=(S) {^I}발던 라이플
+
+tagWeaponGun2hF001={^G}악마의 머스킷
+tagWeaponGun2hF002={^G}추수자의 엽총
+
+tagWeaponCrossbow2hA001={^W}크로스보우
+tagWeaponCrossbow2hA002={^W}알바레스트
+tagWeaponCrossbow2hA003={^W}헤비 크로스보우
+tagWeaponCrossbow2hA004={^W}스콜피온
+
+tagWeaponCrossbow2hB001={^W}유령깃든 크로스보우
+tagWeaponCrossbow2hB002={^L}유령깃든 알바레스트
+tagWeaponCrossbow2hB003={^G}가브린의 크로스보우
+
+tagWeaponCrossbow2hC001={^B}볼트스피터
+tagWeaponCrossbow2hC001Desc="시제품 상태. 안타깝게도, 이 무기의 개발자는 이 무기의 양산에 돌입하기 전에 살해당했다."
+tagWeaponCrossbow2hC002={^B}병폐
+tagWeaponCrossbow2hC003={^B}버위치의 저주
+tagWeaponCrossbow2hC003Desc="말로 하기 힘들 만큼 너무도 많이 주인이 바뀐 팔자 사나운 무기."
+tagWeaponCrossbow2hC004={^B}블랙우드 알바레스트
+tagWeaponCrossbow2hC004Desc="블랙우드 영지 외곽의 숲에서 나온 나무로 제작됨."
+tagWeaponCrossbow2hC005={^B}혹한의 퀼브레스
+tagWeaponCrossbow2hC006={^B}말뚝 발사기
+tagWeaponCrossbow2hC007={^B}거미들의 포위
+tagWeaponCrossbow2hC007B={^B}거미들의 포위
+tagWeaponCrossbow2hC008={^B}비스미엘의 불쾌한 까마귀
+tagWeaponCrossbow2hC008Desc="비스미엘의 독실한 추종자들을 상징하는 무기."
+tagWeaponCrossbow2hC009={^B}울다'작스
+tagWeaponCrossbow2hC009Desc="투박하지만, 놀랄만큼 효과적인, 산속 야만인들의 무기."
+tagWeaponCrossbow2hC010={^B}전격화살 알바레스트
+tagWeaponCrossbow2hC011={^B}나르의 마법적 파괴기
+tagWeaponCrossbow2hC011Desc="아케니스트가 된 암살자, 알토스 나르가 선호하던 무기."
+tagWeaponCrossbow2hC012={^B}뒤틀린숨결 알바레스트
+
+tagWeaponCrossbow2hD001={^I}실버볼트
+tagWeaponCrossbow2hD001Desc="크'톤 사교도였다가 악마사냥꾼이 되었던, 피투성이 데몬헌터 에디스가 선택했던 무기."
+tagWeaponCrossbow2hD002={^I}드리그의 깃대발사기
+tagWeaponCrossbow2hD002Desc="주술의 신 드리그의 정수 자체가 들어있다."
+tagWeaponCrossbow2hD003={^I}북부 고룡
+tagWeaponCrossbow2hD003Desc="거대한 고룡은 그에 닿는 모든 것들을 집어삼키기도 전에 얼려버린다."
+tagWeaponCrossbow2hD004={^I}라카'작스
+tagWeaponCrossbow2hD005=(S) {^I}무한한 고통의 하빈저
+
+tagWeaponCrossbow2hF001={^G}로와리 스콜피온
+tagWeaponCrossbow2hF002={^G}선민의 발사기
+tagWeaponCrossbow2hF003={^G}로와리 알바레스트
+
+tagWeaponMelee2hA001={^W}양손검
+tagWeaponMelee2hA002={^W}워소드
+tagWeaponMelee2hA003={^W}클레이모어
+tagWeaponMelee2hA004=프람베르그
+tagWeaponMelee2hA005={^W}양손도끼
+tagWeaponMelee2hA006={^W}전쟁도끼
+tagWeaponMelee2hA007={^W}양손낫
+tagWeaponMelee2hA008={^W}할버드
+tagWeaponMelee2hA009={^W}양손철퇴
+tagWeaponMelee2hA010={^W}슬레지해머
+tagWeaponMelee2hA011={^W}전쟁철퇴
+
+tagWeaponMelee2hB001=트롤 두개골격파기
+tagWeaponMelee2hB002=트롤 두개골분쇄기
+tagWeaponMelee2hB003={^G}잔혹한 양손도끼
+tagWeaponMelee2hB004={^G}잔혹한 절삭도끼
+tagWeaponMelee2hB005={^G}잔혹한 참수도끼
+tagWeaponMelee2hB006={^L}알카모스의 양손낫
+tagWeaponMelee2hB007={^W}유령깃든 전쟁도끼
+tagWeaponMelee2hB008={^L}알카모스의 워소드
+tagWeaponMelee2hB009={^L}유령깃든 전쟁철퇴
+tagWeaponMelee2hB010={^L}바르솔렘의 전쟁철퇴
+tagWeaponMelee2hB011={^W}흑요석 절두도끼
+tagWeaponMelee2hB012={^L}흑요석 참격도끼
+tagWeaponMelee2hB013={^G}헤빌의 양손검
+tagWeaponMelee2hB014={^L}볼드락의 분쇄기
+tagWeaponMelee2hB015={^L}발레고르의 분쇄기
+tagWeaponMelee2hB016={^L}루시우스의 암블레이드
+tagWeaponMelee2hB016_Desc="에테르에 의해 설명하기 힘들 정도로 변형되었다."
+
+tagWeaponMelee2hC001={^B}거세용 적출기
+tagWeaponMelee2hC002={^B}살육
+tagWeaponMelee2hC003={^B}슬리스의 파멸
+tagWeaponMelee2hC003Desc="그 혐오스러운 괴물들의 머리를 셀 수 없을 만큼 쪼개왔던 것이기에 붙은 이름."
+tagWeaponMelee2hC004={^B}매의 발톱
+tagWeaponMelee2hC005={^B}진동
+tagWeaponMelee2hC006={^B}컨두잇
+tagWeaponMelee2hC006B={^B}컨두잇
+tagWeaponMelee2hC006Desc="비전 마법을 적용한 무기 제작 실험 중에서 드물게 성공한 경우."
+tagWeaponMelee2hC007={^B}뼈조각 파열기
+tagWeaponMelee2hC008={^B}골렘주먹 철퇴
+tagWeaponMelee2hC009={^B}격노비탄
+tagWeaponMelee2hC010={^B}농장 해방자
+tagWeaponMelee2hC010B={^B}농장 해방자
+tagWeaponMelee2hC010Desc="농장들에서 폭동이 있을 때면, 비록 제국 군대에게 가혹하게 진압되지만, 사용되던 유서깊은 무기."
+tagWeaponMelee2hC011={^B}알바릭의 비난
+tagWeaponMelee2hC012={^B}무지개빛 절개기
+tagWeaponMelee2hC013={^B}면도날잎 글레이브
+tagWeaponMelee2hC013Desc="시간이 지나 지금은 잊혀진 고대의 기술로 만들어진 무기."
+tagWeaponMelee2hC014={^B}테네브리스의 양손낫
+tagWeaponMelee2hC014Desc="피를 마시는 자, 테네브리스가 생명력을 탈취하던 도구."
+tagWeaponMelee2hC015={^B}장엄한 심판의 워해머
+tagWeaponMelee2hC015Desc="기사단의 일원이던 교우 버나드 멜링턴이 사용하던 거대한 망치."
+tagWeaponMelee2hC016=(S) {^B}빛의 투사
+tagWeaponMelee2hC017=(S) {^B}야성호출자의 참수도끼
+tagWeaponMelee2hC018={^Z}샤'줄의 화로
+tagWeaponMelee2hC018B={^Z}샤'줄의 소각로
+tagWeaponMelee2hC018Desc="샤'줄의 전쟁망치 안에서는 화염이 끝없이 요동친다."
+tagWeaponMelee2hC019={^B}분노한탄
+tagWeaponMelee2hC020={^B}트롤복부 절개기
+tagWeaponMelee2hC021=(S) {^B}모그드로젠의 축복어린 참수도끼
+
+tagWeaponMelee2hD001={^I}스톤피스트 리뷰크
+tagWeaponMelee2hD002={^I}길로틴
+tagWeaponMelee2hD003={^I}밤그림자의 범위
+tagWeaponMelee2hD003Desc="암살자들의 수장 벨라노르의 비정규 무장. 그만큼 대형 검을 능숙히 사용한 나이트블레이드는 지금까지도 거의 없다."
+tagWeaponMelee2hD004={^I}흑요석 저거너트
+tagWeaponMelee2hD004Desc="활화산 속의 모든 것이 녹는 공간에서 만들어진 무기."
+tagWeaponMelee2hD005={^I}지옥의 유황불
+tagWeaponMelee2hD005Desc="팔라딘 알리스터 포지베어러의 축복담긴 창이 거대한 악마의 심장에 닿았을 때 만들어졌다."
+tagWeaponMelee2hD006={^I}스톰리버
+tagWeaponMelee2hD006Desc="수없이 많은 번개 폭풍이 담긴, 자연의 분노를 폭발시키기 위해 준비된 무기."
+tagWeaponMelee2hD007={^I}겨울의 왕의 파멸
+tagWeaponMelee2hD007Desc="북방 영토의 지배자이자 위대한 하얀 늑대의 아들이었던, 흐로스나르 왕의 전용 무기."
+tagWeaponMelee2hD008={^I}시간의 전극방전검
+tagWeaponMelee2hD009=(S) {^I}야만족의 분쇄기
+tagWeaponMelee2hD010=(S) {^I}울토스 스톰시커
+tagWeaponMelee2hD011={^I}레비아탄
+tagWeaponMelee2hD012={^F}소울렌드
+tagWeaponMelee2hD012_Desc="알카모스의 오른손 격이며, 영혼을 잠식하며 범죄자에게 고통을 가하던 무기."
+tagWeaponMelee2hD013={^F}샤'줄의 월드이터
+tagWeaponMelee2hD013_Desc="크'톤에게 바치기 위해 엄청난 피를 흐르게 했음에도, 여전히 더 많은 피를 원하는 무기."
+
+tagWeaponMelee2hF001={^G}군단 워블레이드
+tagWeaponMelee2hF002={^G}태양의 슬레지해머
+tagWeaponMelee2hF003={^G}죽음의 양손낫
+tagWeaponMelee2hF004={^G}선민의 전쟁철퇴
+tagWeaponMelee2hF005={^G}달의 슬레지해머
+tagWeaponMelee2hF006={^G}선민의 분쇄기
+
+tagWeaponCaster1hA001={^W}완드
+tagWeaponCaster1hA002={^W}셉터
+tagWeaponCaster1hA003={^W}비전마법 완드
+tagWeaponCaster1hA004=비전마법 셉터
+tagWeaponCaster1hA005={^W}제례용 완드
+tagWeaponCaster1hA006={^W}제례용 셉터
+tagWeaponCaster1hA007={^W}최고급 셉터
+tagWeaponCaster1hA008={^W}희생의식용 칼
+tagWeaponCaster1hA009=룬새김 대거
+tagWeaponCaster1hA010={^W}비전마법 대거
+tagWeaponCaster1hA011={^W}스펠블레이드
+tagWeaponCaster1hA012=Arcane Blade
+tagWeaponCaster1hA013=Ritual Dagger
+tagWeaponCaster1hA014={^W}제례용 칼
+tagWeaponCaster1hA015={^W}최고급 대거
+
+tagWeaponCaster1hB001={^G}숙련자용 대거
+tagWeaponCaster1hB002={^G}숙련자용 스펠블레이드
+tagWeaponCaster1hB003={^G}마스터 스펠블레이드
+tagWeaponCaster1hB004={^G}숙련자용 완드
+tagWeaponCaster1hB005={^G}숙련자용 셉터
+tagWeaponCaster1hB006={^G}마스터 셉터
+tagWeaponCaster1hB007={^G}마녀의 스펠블레이드
+tagWeaponCaster1hB008={^W}해골단검
+tagWeaponCaster1hB009={^L}해골스파이크
+tagWeaponCaster1hB010={^W}파열채찍벌레 발톱
+tagWeaponCaster1hB011={^L}파열채찍벌레 칼날발톱
+tagWeaponCaster1hB012={^W}혈교도 완드
+tagWeaponCaster1hB013={^L}혈교도 셉터
+tagWeaponCaster1hB014={^L}록스미어의 서리검
+tagWeaponCaster1hB015={^G}슬리스혀
+tagWeaponCaster1hB016={^L}불길의 전령
+tagWeaponCaster1hB017={^L}폭풍의 전령
+tagWeaponCaster1hB018={^L}어둠의 전령
+
+tagWeaponCaster1hC001={^B}타오르는 증오
+tagWeaponCaster1hC002={^B}주문불꽃 완드
+tagWeaponCaster1hC003={^B}싸늘한심장 셉터
+tagWeaponCaster1hC004={^B}폭풍소환사 스펠블레이드
+tagWeaponCaster1hC004_Desc="에너지의 불꽃이 튀어오르는, 언제나 더 많은 힘을 원하는 칼."
+tagWeaponCaster1hC005={^B}공허칼날
+tagWeaponCaster1hC006={^B}흑사병혈액 단검
+tagWeaponCaster1hC007={^B}영혼상흔검
+tagWeaponCaster1hC007_Desc="이 검은 살 뿐만 아니라 더 깊은 곳도 벤다고 한다."
+tagWeaponCaster1hC008={^B}코토시안 인보커
+tagWeaponCaster1hC008_Desc="코토시아의 고위 마법사들이 비전 마법을 사용할 때 선호하던 도구."
+tagWeaponCaster1hC009={^B}콜드스냅
+tagWeaponCaster1hC010={^B}생명속박자
+tagWeaponCaster1hC011={^B}방전원석 셉터
+tagWeaponCaster1hC012={^B}화염폭풍 셉터
+tagWeaponCaster1hC013={^B}하늘파편 스펠블레이드
+tagWeaponCaster1hC013_Desc="추락한 별의 심장부로 벼려진 검."
+tagWeaponCaster1hC014={^B}네라'발의 오염된 칼
+tagWeaponCaster1hC014_Desc="네라'발은 자기 소유의 진료소에서 치명적인 소모성 질병을 치료하는데 집착했다. 그의 광기어린 연구 속에 수십 명의 무고한 생명이 감염되어 사망했고, 그는 그 죄로 교수형에 처해졌다."
+tagWeaponCaster1hC015={^B}악마체액 스펠블레이드
+tagWeaponCaster1hC016={^B}주문직조기
+tagWeaponCaster1hC016_Desc="바늘에 실을 꿰어 천을 만들듯이 현실에 에테르를 꿰어 짜맞춘다."
+tagWeaponCaster1hC017={^B}질병원석 인보커
+tagWeaponCaster1hC018={^B}코스믹 인보커
+tagWeaponCaster1hC019={^B}폭풍올가미
+tagWeaponCaster1hC020={^B}지옥의 룬 단검
+tagWeaponCaster1hC021={^B}빙하검신 스펠블레이드
+tagWeaponCaster1hC022=(S) {^B}계약의 증표인 피투성이 단검
+tagWeaponCaster1hC023={^Z}알드리치의 셉터
+tagWeaponCaster1hC023_Desc="이해되지 않는 언어의 수상한 속삭임이 셉터에서 흘러나온다."
+
+tagWeaponCaster1hD001={^I}청정의 손길
+tagWeaponCaster1hD001Desc="고대로부터의 전승에는 세계를 여행하며 질병을 몰아내고 상처들을 치유해주던, 하지만 보수나 다른 어떤 감사의 표시를 절대 요구하지 않았던 망토를 두른 사람에 대한 이야기가 있다."
+tagWeaponCaster1hD002={^I}암흑의 징벌
+tagWeaponCaster1hD003={^I}승천한 자의 복수
+tagWeaponCaster1hD004={^I}영혼운반자
+tagWeaponCaster1hD004Desc="이 불쾌한 셉터는 방황하는 영혼들을 붙잡아둔다."
+tagWeaponCaster1hD005={^I}올렉스라의 냉기
+tagWeaponCaster1hD006={^I}파네티의 자가복제 완드
+tagWeaponCaster1hD006Desc="한때 주문 복제의 권위자이며 자가복제 미사일의 창시자인 마스터 파네티의 소유였던 도구."
+tagWeaponCaster1hD007={^I}울토스의 불꽃
+tagWeaponCaster1hD008={^I}아스테르칸 파편
+tagWeaponCaster1hD008Desc="칼날이 공기 중의 열기를 빼앗는다. 산 위의 차가운 바람이 그러하듯."
+tagWeaponCaster1hD009={^I}베놈래쉬
+tagWeaponCaster1hD010={^I}워프파이어
+tagWeaponCaster1hD011={^I}시간 소용돌이
+tagWeaponCaster1hD011Desc="이 단검의 날 주위에서는 시간 자체가 뒤틀린다."
+tagWeaponCaster1hD012={^I}드라카리스
+tagWeaponCaster1hD013={^I}크'톤의 송곳니
+tagWeaponCaster1hD014={^I}바실리스크 발톱
+tagWeaponCaster1hD015=(S) {^I}투시자의 완드
+tagWeaponCaster1hD016=(S) {^I}드리그의 룬새김 대거
+tagWeaponCaster1hD017=(S) {^I}트로잔의 별보관자
+tagWeaponCaster1hD018=(S) {^I}검은 화염의 칼날
+tagWeaponCaster1hD019={^F}알드리치의 포고
+tagWeaponCaster1hD019Desc="반 알드리치는 자신의 마지막 포고를 통해, 도시 전체에 잔인한 새벽(Grim Dawn)을 선고했다."
+
+tagWeaponCaster1hF001={^G}군단 발화단검
+tagWeaponCaster1hF002={^G}군단 에테르방전검
+tagWeaponCaster1hF003={^G}군단 공허단검
+tagWeaponCaster1hF004={^G}로와리 독성셉터
+tagWeaponCaster1hF005={^G}로와리 냉기셉터
+tagWeaponCaster1hF006={^G}로와리 죽음기운
+tagWeaponCaster1hF007={^G}선민의 천공파열기
+tagWeaponCaster1hF008={^G}선민의 화염유도기
+tagWeaponCaster1hF009={^G}선민의 마법방전기
+
+
+tagWeaponArcaneA001={^W}Crude Staff
+tagWeaponArcaneA002=Gnargled Staff
+tagWeaponArcaneA003={^W}Pine Staff
+tagWeaponArcaneA004=Ash Staff
+tagWeaponArcaneA005={^W}Cedar Staff
+tagWeaponArcaneA006=Oak Staff
+tagWeaponArcaneA007={^W}Blackwood Staff
+
+tagWeaponCrossbow1hA001=Pistol Crossbow
+tagWeaponCrossbow1hA002=Compound Crossbow
+tagWeaponCrossbow1hA003=Windlass Crossbow
+tagWeaponCrossbow1hA004=Repeating Crossbow
+
+
+#Shields
+
+tagShieldA000={^W}널판지 방패
+tagShieldA001={^W}버클러
+tagShieldA002={^W}라운드 실드
+tagShieldA003={^W}히터 실드
+tagShieldA004={^W}타워 실드
+tagShieldA005=Riot Shield
+tagShieldA006={^W}군용 방패
+tagShieldA007={^W}타즈
+tagShieldA008=타즈
+tagShieldA009={^W}론다쉬
+tagShieldA010={^W}카이트 실드
+tagShieldA011={^W}실드
+
+tagShieldB001={^W}교도소장의 보루방패
+tagShieldB001Desc="담금질된 강철과 인정사정없는 증오로 만들어졌다."
+tagShieldB002={^L}교도소장의 요새방패
+tagShieldB003={^W}유령깃든 방패
+tagShieldB004={^L}유령깃든 군용 방패
+tagShieldB005={^G}배틀 실드
+tagShieldB006={^G}포위용 방패
+tagShieldB007={^G}소버린 실드
+tagShieldB008={^W}트로그 해골방패
+tagShieldB009={^L}피마시는 해골방패
+tagShieldB010={^W}흑요석 방패
+tagShieldB011={^L}흑요석 보루방패
+tagShieldB012={^W}뒤틀린 자의 방패
+tagShieldB013={^L}뒤틀린 자의 보루방패
+tagShieldB014={^G}버나드의 약간 뜯어진 버클러
+tagShieldB015={^L}라들리스의 보루방패
+tagShieldB016={^L}베인'가르고스의 조각
+tagShieldB017={^L}칼리스 카의 수확물
+
+tagShieldC001={^B}데블스 크로싱 디펜더
+tagShieldC002={^B}영혼포식자 보루방패
+tagShieldC002Desc="사악한 영혼들을 막게 하기 위해 사령술 의식을 거쳐 만들어졌다."
+tagShieldC003=(S) {^B}근위병의 호위방패
+tagShieldC004={^B}화염차단기
+tagShieldC005={^B}악마의 쓴웃음
+tagShieldC006={^B}야수의 목구멍
+tagShieldC007={^B}검은군단 문장방패 
+tagShieldC007Desc="죽음의 기수들이라고도 불리는 제국군 산하 검은군단의 제식방패."
+tagShieldC008={^B}리치가드
+tagShieldC009={^B}새벽조각 보루방패
+tagShieldC009Desc="솔라드린 수정의 가장 순도 높은 조각으로 만들어졌다."
+tagShieldC010={^B}신념의 방패
+tagShieldC011=(S) {^B}징벌의 방패
+tagShieldC012=(S) {^B}서약위반자의 방패
+tagShieldC013={^B}엘레멘티움
+tagShieldC013Desc="원소들의 힘을 있는 그대로 흐르게 하기 위해 비전 마법을 익힌 대장장이들에 의해 제작되었다."
+tagShieldC014={^Z}라브나의 방어
+tagShieldC014Desc="죽은 여왕집게벌레의 외골격을 덧대어 만든 방패."
+tagShieldC015={^B}검투사
+tagShieldC016={^B}불꽃차단 조정기
+tagShieldC017={^B}군단의 선봉
+tagShieldC018=(S) {^B}미르미돈의 보호
+
+tagShieldD001={^I}고기 방패
+tagShieldD001Desc="한 불운한 농부의 흉강 조직을 틀로 삼아 사령술을 걸어 만든 방패."
+tagShieldD002={^I}종착역
+tagShieldD002Desc="규모를 키워가는 크토니안 군대와의 절망적인 전투를 치르던 동안 선로노동자들에 의해 만들어졌다."
+tagShieldD003={^I}언터처블
+tagShieldD004={^I}살아 있는 자의 의지
+tagShieldD004Desc="과거에는 황제의 문장이 부착되어 있었던 이 방패는, 에테르불길을 뚫고 나와 사람들에게 본보기가 되었다."
+tagShieldD005={^I}하늘틈새 보루방패
+tagShieldD006={^I}포위분쇄기
+tagShieldD007={^I}졸한의 앙갚음
+tagShieldD008=(S) {^I}새벽인도자의 책임
+tagShieldD009=(S) {^I}마코비안의 보루방패
+
+tagShieldF001={^G}악마의 방어구
+tagShieldF002={^G}추수자의 경비
+tagShieldF003={^G}선민의 화염방어
+tagShieldF004={^G}추수자의 방어구
+tagShieldF005={^G}선민의 핏빛방어
+
+tagQualityShieldA01={^S}고철
+tagQualityShieldA02=Rusty
+tagQualityShieldA03={^S}조잡한
+tagQualityShieldA04={^S}녹슨
+tagQualityShieldA05={^S}습격용
+tagQualityShieldA06={^S}견고한
+tagQualityShieldA07={^S}마모된
+tagQualityShieldA08={^S}보강된
+tagQualityShieldA09={^S}돌격용
+tagQualityShieldA10={^S}제국식
+tagQualityShieldA11=최고급
+
+
+#Focus
+
+tagFocusA001={^W}오래된 서책
+tagFocusA002={^W}누더기 서책
+tagFocusA003={^W}룬표지 기록집
+tagFocusA004={^W}가죽제본 주문책
+tagFocusA005={^W}엘드리치 고서
+tagFocusA006={^W}마법서 필사본
+tagFocusA013={^W}고급마법서 필사본
+
+tagFocusA007={^W}룬새겨진 뼈
+tagFocusA008={^W}악마모양 인형
+tagFocusA009={^W}무늬새겨진 뿔
+tagFocusA010={^W}기호새겨진 두개골
+tagFocusA011={^W}야수모양 인형
+tagFocusA012={^W}엘드리치 인형
+tagFocusA014={^W}고급 엘드리치 인형
+
+tagFocusB001={^L}자르투젤란의 필사본
+tagFocusB001Desc="믿음 없는 자들에게 성화를 입게 하기 위한 불길을 불러내는 주문들로 가득하다."
+tagFocusB002={^L}롤데라디스의 서책
+tagFocusB002Desc="이 서책의 글자들에 담긴 미칠듯한 증오심은 읽는 자의 심장을 얼어붙게 만든다."
+tagFocusB003A={^G}상형문자표지 기록집
+tagFocusB003B={^G}비술용 뿔
+tagFocusB004A={^G}상형문자표지 주문책
+tagFocusB004B={^G}비술용 두개골
+tagFocusB005A={^G}상형문자표시 서책
+tagFocusB005B={^G}비술용 인형
+tagFocusB006={^G}마녀의 인형
+tagFocusB007={^L}진동하는 파편
+tagFocusB008={^W}혈교도 서책
+tagFocusB009={^L}혈교도 필사본
+tagFocusB010={^W}그로블 독성 우상
+tagFocusB011={^L}그로블 독성 인형
+tagFocusB011_Desc="고대 그로블 속담: 쪼그라든 머리 두 개가 하나보다 낫다."
+tagFocusB012={^W}부러진 예티의 뿔
+tagFocusB013={^L}예티의 뿔
+tagFocusB014={^W}그로블 하늘 우상
+tagFocusB015={^L}그로블 하늘 인형
+tagFocusB016={^W}그로블 바위 우상
+tagFocusB017={^L}그로블 바위 인형
+tagFocusB018={^W}그로블 장작 우상
+tagFocusB019={^L}그로블 장작 인형
+tagFocusB020={^W}그로블 죽음 우상
+tagFocusB021={^L}그로블 죽음 인형
+tagFocusB022={^W}응시체의 눈
+tagFocusB023={^L}감시체의 눈
+tagFocusB023_Desc="손 안에서 눈이 여전히 꿈틀거린다."
+tagFocusB024={^G}칼보르의 소환용 뼈
+tagFocusB025={^L}카이조그의 두개골
+tagFocusB026={^L}라그라사르의 뿔
+
+tagFocusC001={^B}디멘시아
+tagFocusC002={^B}파괴의 의지
+tagFocusC003=(S) {^B}메이븐의 서책
+tagFocusC004={^B}이단자의 서책
+tagFocusC005={^B}흉물스러운 인형
+tagFocusC006={^B}밴시의 비참함
+tagFocusC006Desc="페이지를 넘길 때마다 서책에서 비참한 울부짖음이 흘러나온다."
+tagFocusC007={^B}고룡발톱
+tagFocusC008={^B}오그'나페쉬의 암흑 마법서
+tagFocusC008Desc="사형 선고를 받았던 네크로맨서, 오그'나페쉬가 쓴 사악한 마법서."
+tagFocusC009={^B}에드릭의 등긁개
+tagFocusC010={^B}멘허의 신성한 경전
+tagFocusC010Desc="한때 멘허를 충실히 섬기는 기사들이 지니던 경전."
+tagFocusC011={^B}밤의 여인
+tagFocusC012=(S) {^B}계약의 증표인 채널링 오브
+tagFocusC013=(S) {^B}질병의 서책
+tagFocusC014={^B}폭풍소환사의 인형
+tagFocusC015={^B}폭풍의 나뭇가지
+tagFocusC016={^B}태우는 자의 기록
+tagFocusC017={^B}죽음관장자의 서책
+tagFocusC018=(S) {^B}칼리도르의 필사본
+
+tagFocusD001={^I}악마의 결단
+tagFocusD002={^I}알다나르의 자만심
+tagFocusD003={^I}거짓들의 필사본
+tagFocusD003Desc="카발리스트 헤스터 모그한이 기록한, 주술의 신 솔라엘에 대한 금지된 문서들."
+tagFocusD004={^I}이름들의 서책
+tagFocusD004Desc="이 책은 지금까지 존재해왔던 그리고 앞으로 존재할 모든 필멸자의 이름들을 담고있다."
+tagFocusD005={^I}크'톤의 피의 구체
+tagFocusD005Desc="광신적인 카발리스트들은 이 오브 안에 그들이 섬기는 태초의 신의 피 한 방울이 담겨있다고 단언한다."
+tagFocusD006={^I}망자를 위한 연설
+tagFocusD006Desc="장례 의식들을 위해 쓰여진 시와 종교적 문서들의 모음."
+tagFocusD007={^I}지배의 눈동자
+tagFocusD008={^I}마법적 파괴의 서책
+tagFocusD009={^I}굴'아마쉬의 두개골
+tagFocusD009Desc="강력한 오컬티스트였으나 그 지식이 범죄로 간주되어 화형당했던 굴'아마쉬의 두개골. 성난 군중의 강요때문에 그들의 눈 앞에서 재판이 시작되고 처형이 끝나기까지는 한 시간도 걸리지 않았다고 한다."
+tagFocusD010={^I}나르'아딘의 불쾌한 서책
+tagFocusD011={^I}끝없는 폭풍의 필사본
+tagFocusD012={^I}아그리빅스의 소모
+tagFocusD012Desc="위대한 아케니스트 아그리빅스는 터무니없을 정도의 분량의 에너지를 주문연구에 쏟아넣기로 유명했는데, 이러한 힘에 대한 갈망으로 그는 스스로를 세계의 정당한 지배자라고 믿으며 파멸의 길로 빠져들었다. 아그리빅스는 결국 인퀴지터들의 손에 최후를 맞았지만, 이미 여러 인퀴지터들이 그에 의해 쓰러진 뒤였다."
+tagFocusD013=(S) {^I}인보커의 불꽃
+tagFocusD014=(S) {^I}이스칸드라의 문서집
+tagFocusD015=(S) {^I}검은 화염의 구체
+tagFocusD016=(S) {^I}아그리빅스의 필사본
+
+tagFocusF001={^G}추수자의 서책
+tagFocusF002={^G}추수자의 장부
+tagFocusF003={^G}태양의 필사본
+tagFocusF004={^G}로와리 겨울 필사본
+tagFocusF005={^G}로와리 공허 필사본
+tagFocusF006={^G}로와리 하늘 필사본
+tagFocusF007={^G}죽음의 폐허
+tagFocusF008={^G}죽음의 포용
+tagFocusF009={^G}죽음의 전진
+tagFocusF010={^G}로와리 주문연구자 필사본
+tagFocusF011={^G}죽음의 응시
+
+#WEAPON_QUALITY
+
+TagQualityBrokenWeapon01=깨진
+TagQualityBrokenWeapon02=조각난
+TagQualityBrokenWeapon03=구부러진
+TagQualityBrokenArmor01=폐기된
+TagQualityBrokenAll01=파괴된
+TagQualityOld={^S}구식의
+
+tagQualityWeaponMetal01={^S}고철
+tagQualityWeaponMetal02={^S}녹슨
+tagQualityWeaponMetal03={^S}철제
+tagQualityWeaponMetal04={^S}강철
+tagQualityWeaponMetal05=마법부여된
+tagQualityWeaponMetal06={^S}습격용
+tagQualityWeaponMetal07={^S}돌격용
+tagQualityWeaponMetal08={^S}제국식
+tagQualityWeaponMetal09={^S}최고급
+
+tagQualityWeaponWood01={^S}나무조각
+tagQualityWeaponWood02={^S}조잡한
+tagQualityWeaponWood03={^S}투박한
+tagQualityWeaponWood04={^S}마모된
+tagQualityWeaponWood05={^S}단단한
+tagQualityWeaponWood06={^S}광이나는
+tagQualityWeaponWood07={^S}마법부여된
+tagQualityWeaponWood08={^S}습격용
+tagQualityWeaponWood09={^S}돌격용
+tagQualityWeaponWood10={^S}제국식
+tagQualityWeaponWood11={^S}최고급
+
+
+#ARMOR_STYLES
+
+tagStyle001={^S}닳은
+tagStyle002={^S}천
+tagStyle003={^S}기워진
+tagStyle004={^S}꿰매진
+tagStyle005={^S}미늘식
+tagStyle006={^S}수놓아진
+tagStyle007={^S}화려한
+tagStyle008={^S}금박입힌
+
+tagStyle009={^S}천조각
+tagStyle010={^S}가죽
+tagStyle011={^S}통가죽
+tagStyle012={^S}모피달린
+tagStyle013={^S}스파이크
+tagStyle014={^S}변경용
+tagStyle015={^S}격오지
+tagStyle016={^S}습격용
+
+tagStyle017={^S}고쳐진
+tagStyle018={^S}회수품
+tagStyle019={^S}조각장식
+tagStyle020={^S}격투용
+tagStyle021={^S}보병용
+tagStyle022={^S}제국식
+
+tagStyle023={^S}고철
+tagStyle024={^S}나무덧댄
+tagStyle025={^S}사슬
+tagStyle026={^S}사슬갑옷
+tagStyle027={^S}미늘갑옷
+tagStyle028={^S}청동
+tagStyle029={^S}강철
+tagStyle030={^S}철판덧댄
+tagStyle031={^S}판금
+tagStyle032={^S}야전용
+tagStyle033={^S}중갑용
+tagStyle034={^S}돌격용
+
+tagStyle035={^S}징박힌
+tagStyle036={^S}엮어만든
+tagStyle037={^S}보강된
+tagStyle038={^S}투박한
+tagStyle039={^S}초심자용
+tagStyle040={^S}실습자용
+
+tagStyle041={^S}최고급
+tagStyle042={^S}호화로운
+
+#ArmorClass
+tagArmorClass01=시전자용 
+tagArmorClass02=
+tagArmorClass03=중갑용
+
+#WeaponClass
+tagOffHand=시전자용 보조장비
+tagShield=방패
+
+tagOneHandedSword=한손 도검
+tagOneHandedMace=한손 둔기
+tagOneHandedAxe=한손 도끼
+tagOneHandedDagger=한손 단검
+tagOneHandedScepter=한손 셉터
+tagOneHandedPistol=한손 총기
+
+tagTwoHandedSword=양손 도검
+tagTwoHandedMace=양손 둔기
+tagTwoHandedAxe=양손 도끼
+tagTwoHandedRifle=양손 총기
+
+tagSpear=Spear
+tagStaff=Staff
+
+tagWeaponUnknown=알 수 없음
+
+#ArmorSlots
+tagRing=반지
+tagAmulet=목걸이
+tagMedal=메달
+tagBelt=허리띠
+tagShoulders=어깨 방어구
+tagHead=머리 방어구
+tagLegs=하체 방어구
+tagChest=상체 방어구
+tagFeet=신발
+tagGloves=장갑
+
+#QualityClass
+tagMagic=매직 
+tagRare=레어 
+tagDoubleRare=더블 레어
+tagEpic=에픽 
+tagLegend=전설 
+
+tagStyleUniqueTier2={^A}강화된
+tagStyleUniqueTier3={^P}신화적인
+tagStyleFactionTier2=고급
+
+tagSoulbound=귀속
+tagDestroySoulbound=귀속 아이템을 파괴하겠습니까?
+
+tagUntradeable=거래불가
+tagDestroyUntradeable=거래불가 아이템을 파괴하겠습니까?
+
+tagTransmuted=환영: 
+tagTransmuteCapture=[우클릭으로 추출]
+tagTransmuteApply=[우클릭으로 적용]
+tagTransmuteApplyRemove=[우클릭으로 환영 제거]
+tagTransmuteUnusable=[조건에 부족하여 사용불가]
+tagTransmuteConfirmation=이 환영을 적용하겠습니까?
+tagTransmuteOverwrite=기존 환영을 대체하겠습니까?
+tagTransmuteSoulboundConfirmation=이 환영을 적용하겠습니까? 적용할 경우 아이템에 귀속 효과가 부여됩니다.
+tagTransmuteSoulboundOverwrite=기존 환영을 대체하겠습니까? 대체할 경우 아이템에 귀속 효과가 부여됩니다.
+tagTransmuteDestroy=환영을 추출하겠습니까? 추출할 경우 아이템은 파괴됩니다.
+tagTransmuteRemove=환영을 제거하겠습니까?
+
+#ArmorHead
+
+tagHeadA001={^W}투구
+tagHeadA002={^W}사냥모자
+tagHeadA003={^W}투구
+tagHeadA004={^W}마스크
+tagHeadA005={^W}후드
+tagHeadA006={^W}베시넷
+tagHeadA007={^W}캐스크
+tagHeadA008={^W}모자
+tagHeadA009={^W}면갑
+tagHeadA010={^W}두건
+tagHeadA011={^W}후드
+tagHeadA012={^W}서클렛
+tagHeadA013={^W}머리장식
+tagHeadA014={^W}코로넷
+
+tagHeadB001={^W}방화용 헬멧
+tagHeadB002={^L}방화용 캐스크
+tagHeadB003={^W}승격자 헬멧
+tagHeadB004={^L}승격자 캐스크
+tagHeadB005={^W}살인자의 두건
+tagHeadB006={^L}살인자의 후드
+tagHeadB007={^G}숙련자용 후드
+tagHeadB008={^G}레인저 투구
+tagHeadB009={^G}숙련자용 서클렛
+tagHeadB010={^G}레인저용 캐스크
+tagHeadB011={^W}승격자 서클렛
+tagHeadB012={^L}승격자 머리장식
+tagHeadB013={^W}뒤틀린 자의 투구
+tagHeadB014={^L}뒤틀린 자의 캐스크
+tagHeadB015={^L}유령깃든 왕관
+tagHeadB015Desc="강력한 사령술 에너지가 이 왕관을 물질 세계에 구현되게 만들었다."
+tagHeadB016={^L}밀턴의 철모
+tagHeadB016Desc="그가 꼭두각시를 죽일 때마다 홈을 파서 표시한 투구."
+
+tagHeadC001={^B}폭풍소환사의 서클렛
+tagHeadC002={^B}버서커의 후드
+tagHeadC003={^B}지옥의 왕관
+tagHeadC003Desc="케언에서 처음이자 마지막으로 아케니스트로서 왕위에 올랐으나 사무엘 드레이크 왕이, 성직자들에 의해 이단자로 몰려 폐위당하고 처형되기 전까지 착용했던 왕관."
+tagHeadC004={^B}명령의 왕관
+tagHeadC005={^B}은둔자의 투구
+tagheadC005Desc="멘허의 수호자 기사단 입문자용 투구."
+tagHeadC006=(S) {^B}근위병의 투구
+tagHeadC007=(S) {^B}탐험가용 머리덮개
+tagHeadC008=(S) {^B}메이븐의 후드
+tagHeadC009=(S) {^B}피수확자의 후드
+tagHeadC010={^B}주시자의 눈
+tagHeadC010Desc="외모와 아름다움에 집착했던 미친 마녀가 착용한 응시체의 눈이 달린 모자."
+tagHeadC011={^B}착란의 마스크
+tagHeadC012={^B}공허의 폭풍우
+tagHeadC013={^B}은기사의 영광
+tagHeadC014={^B}숲의 두려움
+tagHeadC014Desc="오래된 가시달린 괴물의 가죽에서 잘라낸 것."
+tagHeadC015={^B}영혼엮는 자의 서클렛
+tagHeadC016={^B}그림자불꽃 후드
+tagHeadC017=(S) {^B}전령관의 마스크
+tagHeadC018=(S) {^B}징벌의 면갑
+tagHeadC019=(S) {^B}눈먼 암살자의 후드
+tagHeadC020=(S) {^B}샤프슈터 글래스-아이
+tagHeadC021=(S) {^B}계약의 증표인 부정한 면갑
+tagHeadC022=(S) {^B}권위자의 면갑
+tagHeadC023=(S) {^B}새벽수호자 투구
+tagHeadC024=(S) {^B}독기어린 후드
+tagHeadC025=(S) {^B}화염의 눈동자
+tagHeadC026=(S) {^B}야성호출자의 후드
+tagHeadC027=(S) {^B}황제친위대 면갑
+tagHeadC028={^B}서리조각 왕관
+tagHeadC029={^B}타오르는 분노의 서클렛
+tagHeadC030={^B}수확자의 눈동자
+tagHeadC031=(S) {^B}미르미돈 면갑
+tagHeadC032=(S) {^B}모그드로젠의 투구
+tagHeadC033={^Z}엘드리치 차원파수인의 캐스크
+tagHeadC033Desc="이 투구는 착용자의 시선을 흐려지게 만들어, 마치 다른 차원에 있는 듯하게 만든다."
+tagHeadC034={^Z}삼각협정의 증표
+tagHeadC034B={^B}삼각협정의 증표
+tagHeadC034Desc="삼신으로부터의 축복이 담겨있다."
+
+tagHeadD001={^I}절망의 입
+tagHeadD001Desc="너의 시간이 끝이 왔으니, 나를 보면서 절망에 빠지리라."
+tagHeadD002={^I}굴고스의 공포가면
+tagHeadD003={^I}비밀 밀고자
+tagheadD003Desc="적의 숨통을 끊기 전에 그들의 귀에 어둠의 비밀들을 속삭인다."
+tagHeadD004={^I}심연의 가면
+tagheadD004Desc="속박되지 않은 죽음에 의해 죽음에 속박되다."
+tagHeadD005={^I}거대 서펜트 형상의 서클렛
+tagHeadD006={^I}지옥같은 진실의 가면
+tagHeadD007=(S) {^I}정의의 면갑
+tagHeadD008=(S) {^I}야수소환사의 후드
+tagHeadD009=(S) {^I}하빈저의 가면
+tagHeadD010=(S) {^I}악마사냥꾼의 모자
+tagHeadD011=(S) {^I}투시자의 모자
+tagHeadD012=(S) {^I}마코비안의 투구
+tagHeadD013=(S) {^I}얼즈인의 머리보호구
+tagHeadD014=(S) {^I}드리그의 후드
+tagHeadD015=(S) {^I}데스마크 후드
+tagHeadD016=(S) {^I}이스칸드라의 후드
+tagHeadD017=(S) {^I}울토스의 후드
+tagHeadD018={^I}겨울의 왕의 왕관
+tagheadD018Desc="먼 북쪽 땅의 지배자였으며 위대한 하얀 늑대의 아들이었던, 흐로스나르 왕의 왕관."
+tagHeadD019=(S) {^I}트로잔의 모자
+tagHeadD020=(S) {^I}발던의 모자
+tagHeadD021={^F}추방당한 자의 비밀
+tagHeadD022={^I}엘드리치의 주목
+tagHeadD022Desc="투구에서 알아들을 수 없는 목소리의 속삭임이 들린다."
+tagHeadD023={^I}삼신의 증표
+tagHeadD023Desc="서로를 파괴하는 것을 막기 위한 계약이 삼신과 그 추종자들을 속박한다는 증표로서 세 주술의 신의 정수로 만들어진 것."
+tagHeadD024=(S) {^I}베놈블레이드 후드
+tagHeadD025=(S) {^I}검은 화염의 면갑
+tagHeadD026=(S) {^I}빛의 수호자 투구
+tagHeadD027=(S) {^I}지옥의 기사 면갑
+tagHeadD028=(S) {^I}워본 면갑
+tagHeadD029=(S) {^I}피의 광란자 투구
+
+
+tagHeadF001={^Z}추방당한 자의 후드
+tagHeadF001Desc="후드의 얼굴 부분이 당신을 노려보는 듯한 느낌이 사라지지 않는다."
+tagHeadF002={^G}악마의 모자
+tagHeadF003={^G}악마의 투구
+tagHeadF004={^G}군단 주문저장기
+tagHeadF005={^G}군단 캐스크
+tagHeadF006={^G}군단 제식투구
+tagHeadF007={^G}추수자의 투구
+tagHeadF008={^G}태양의 방어자
+tagHeadF009={^G}죽음의 면갑
+tagHeadF010={^G}죽음의 투구
+tagHeadF011={^G}선민의 후드
+tagHeadF012={^G}선민의 투구
+
+
+#ArmorShoulders
+
+tagShoulderA001={^W}견갑
+tagShoulderA002={^W}망토
+tagShoulderA003={^W}어깨보호대
+tagShoulderA004={^W}장식견갑
+tagShoulderA005={^W}어깨보호대
+tagShoulderA006={^W}견갑
+
+tagShoulderB001={^W}방화용 어깨보호대
+tagShoulderB002={^L}방화용 견갑
+tagShoulderB003={^W}승격자 어깨보호대
+tagShoulderB004={^L}승격자 견갑
+tagShoulderB005={^W}살인자의 견갑
+tagShoulderB006={^L}살인자의 장식견갑
+tagShoulderB007={^G}아이작의 견갑
+tagShoulderB008={^W}빙의된 자의 망토
+tagShoulderB009={^L}빙의된 자의 어깨덮개
+tagShoulderB010={^W}승격자의 망토
+tagShoulderB011={^L}승격자의 장식견갑
+tagShoulderB012={^W}뒤틀린 자의 견갑
+tagShoulderB013={^L}뒤틀린 자의 중견갑
+tagShoulderB014={^L}발다란의 망토
+tagShoulderB015={^L}발다란의 어깨보호대
+tagShoulderB016={^L}벤'자르의 어깨보호대
+tagShoulderB017={^L}벤'자르의 견갑
+tagShoulderB018={^L}무실로크의 어깨보호대
+tagShoulderB019={^L}무실로크의 견갑
+tagShoulderB020={^L}아이언 메이든의 망토
+tagShoulderB021={^L}아이언 메이든의 어깨보호대
+tagShoulderB022={^L}잔타린의 망토
+tagShoulderB023={^L}잔타린의 어깨보호대
+tagShoulderB024={^L}파비우스의 어깨보호대
+tagShoulderB025={^L}파비우스의 견갑
+tagShoulderB026={^L}로그호렌의 오염
+tagShoulderB026_Desc="공허에 오염되어 여전히 꿈틀거린다."
+
+tagShoulderC001={^B}면도날등 해골쥐 가시망토
+tagShoulderC001Desc="면도날등 해골쥐의 사체들을 이어붙인 망토."
+tagShoulderC002={^B}천체장식 망토
+tagShoulderC003={^B}전쟁광의 견갑
+tagShoulderC004=(S) {^B}근위병의 견갑
+tagShoulderC005={^B}척탄병용 어깨보호대
+tagShoulderC005Desc="아무리 그을리고 파편에 패이더라도, 이 어깨보호대는 방어 성능의 대부분을 유지한다."
+tagShoulderC006={^B}눈물 흘리는 눈의 망토
+tagShoulderC006Desc="아케니스트이자 왕이었던 사무엘 드레이크의 통치 중에 멸절된 한 비밀 결사의 상징이었던 복장."
+tagShoulderC007={^B}셸쇼크 장식갑옷
+tagShoulderC008={^B}훈장달린 견갑
+tagShoulderC009={^B}보호자의 망토
+tagShoulderC009Desc="주술 신 비스미엘이 그녀를 추종하는 필멸자들에게 하사했던, 거대한 까마귀의 깃털들로 만들어진 망토."
+tagShoulderC010=(S) {^B}징벌의 어깨보호대
+tagShoulderC011=샤프슈터의 어깨덮개
+tagShoulderC012=(S) {^B}계약의 증표인 부정한 망토
+tagShoulderC013=(S) {^B}권위자의 어깨보호대
+tagShoulderC014=(S) {^B}새벽수호자 장식갑옷
+tagShoulderC015=(S) {^B}유황불 어깨보호대
+tagShoulderC016=(S) {^B}황제친위대 견갑
+tagShoulderC017={^B}연금술사의 망토
+tagShoulderC018={^B}차가운갈기 망토
+tagShoulderC019={^B}아마라스타의 어깨갑옷
+tagShoulderC020=(S) {^B}화염보관자의 견갑
+tagShoulderC021=(S) {^B}칼리도르의 망토
+tagShoulderC030={^Z}모그드로젠의 견갑
+
+tagShoulderD001={^I}운명엮는 자의 망토
+tagShoulderD001Desc="운명의 실들은, 마치 끝없이 천을 짜는 것처럼, 사람의 나이가 들어가면서 얽히기도 하고 풀리기도 한다."
+tagShoulderD002={^I}디바인스틸 어깨보호대
+tagShoulderD002Desc="필멸자로서의 의무들을 초월하여 본보기가 되었던 기사단의 마스터들에게 하사됐던 견갑."
+tagShoulderD003={^I}피의 분노 견갑
+tagShoulderD004={^I}그림자화염 망토
+tagShoulderD005={^I}타이탄 견갑
+tagShoulderD005Desc="이 견갑에 문양들은 마치 다른 시대의 것 같다."
+tagShoulderD006={^I}오싹한 공포의 망토
+tagShoulderD007={^I}부정한 피의 망토
+tagShoulderD008={^I}악마피부 망토
+tagShoulderD009=(S) {^I}정의의 견갑
+tagShoulderD010=(S) {^I}야수소환사의 어깨보호대
+tagShoulderD011=(S) {^I}새벽인도자의 어깨보호대
+tagShoulderD012=(S) {^I}야만족의 망토
+tagShoulderD013=(S) {^I}투시자의 망토
+tagShoulderD014=(S) {^I}마코비안의 뱅가드
+tagShoulderD015=(S) {^I}얼즈인의 어깨보호대
+tagShoulderD016=(S) {^I}드리그의 망토
+tagShoulderD017=(S) {^I}데스마크 어깨보호대
+tagShoulderD018=(S) {^I}이스칸드라의 견갑
+tagShoulderD019=(S) {^I}울토스의 견갑
+tagShoulderD020={^F}모그드로젠의 망토
+tagShoulderD020Desc="모그드로젠의 아바타가 직접 착용했던 망토."
+tagShoulderD021=(S) {^I}트로잔의 망토
+tagShoulderD022=(S) {^I}검은 화염의 망토
+tagShoulderD023=(S) {^I}빛의 수호자 장식갑옷
+tagShoulderD024=(S) {^I}지옥의 기사 견갑
+tagShoulderD025=(S) {^I}아그리빅스의 망토
+tagShoulderD026=(S) {^I}워본 견갑
+tagShoulderD027=(S) {^I}피의 광란자 어깨보호대
+
+tagShoulderF001={^G}추방당한 자의 타오르는 망토
+tagShoulderF002={^G}추방당한 자의 얼어붙은 망토
+tagShoulderF003={^G}추방당한 자의 하늘담긴 망토
+tagShoulderF004={^G}추방당한 자의 분노서린 망토
+tagShoulderF005={^G}추방당한 자의 공허서린 망토
+tagShoulderF006={^G}추방당한 자의 타오르는 견갑
+tagShoulderF007={^G}추방당한 자의 얼어붙은 견갑
+tagShoulderF008={^G}추방당한 자의 하늘담긴 견갑
+tagShoulderF009={^G}추방당한 자의 분노서린 견갑
+tagShoulderF010={^G}추방당한 자의 공허서린 견갑
+tagShoulderF011={^G}악마의 견갑
+tagShoulderF012={^G}악마의 어깨보호대
+tagShoulderF013={^G}로와리 망토
+tagShoulderF014={^G}로와리 어깨보호대
+tagShoulderF015={^G}군단 망토
+tagShoulderF016={^G}군단 견갑
+tagShoulderF017={^G}군단 중견갑
+tagShoulderF018={^G}죽음의 망토
+tagShoulderF019={^G}죽음의 견갑
+tagShoulderF020={^G}선민의 망토
+tagShoulderF021={^G}선민의 견갑
+
+
+#ArmorTorso
+
+tagTorsoA000={^W}천옷
+tagTorsoA001L={^W}코트
+tagTorsoA002L={^W}더블렛
+tagTorsoA003L={^W}퀴라스
+tagTorsoA004L={^W}호버크
+tagTorsoA005H={^W}갑옷
+tagTorsoA006H={^W}트렌치코트
+tagTorsoA007H={^W}전투코트
+tagTorsoA008H={^W}사슬갑옷
+tagTorsoA009H={^W}판금갑옷
+tagTorsoA010M={^W}자켓
+tagTorsoA011M={^W}판금흉갑
+tagTorsoA012M={^W}흉갑
+tagTorsoA013M={^W}하네스
+tagTorsoA014C={^W}튜닉
+tagTorsoA015C={^W}전례복
+tagTorsoA016C={^W}예복
+tagTorsoA017C={^W}로브
+
+tagTorsoB001={^W}살인자의 갑옷
+tagTorsoB002={^L}살인자의 판금흉갑
+tagTorsoB003={^G}견고한 더블렛
+tagTorsoB004=
+tagTorsoB005=
+tagTorsoB006={^W}빙의된 자의 로브
+tagTorsoB007={^L}빙의된 자의 전례복
+tagTorsoB008={^W}승격자의 로브
+tagTorsoB009={^L}승격자의 전례복
+tagTorsoB010={^W}뒤틀린 자의 퀴라스
+tagTorsoB011={^L}뒤틀린 자의 판금갑옷
+tagTorsoB012={^W}혈교도의 로브
+tagTorsoB013={^L}혈교도의 전례복
+
+tagTorsoC001=
+tagTorsoC002={^B}나이트헌터의 흉갑
+tagTorsoC003={^B}건슬링어 자켓
+tagTorsoC004={^B}말두인의 옷
+tagTorsoC005={^B}죽음의 장식 판금갑옷
+tagTorsoC006=(S) {^B}근위병의 흉갑
+tagTorsoC007=(S) {^B}탐험가용 튜닉
+tagTorsoC008=(S) {^B}피수확자의 코트
+tagTorsoC009={^B}광신자의 외투
+tagTorsoC010={^B}녹여붙인 등껍질 갑옷
+tagTorsoC011={^B}인피로 만든 예복
+tagTorsoC011Desc="이 불쾌한 로브를 꿰메어 만드는 데에 얼마나 많은 희생자들이 필요했을 지는 알려진 바가 없다."
+tagTorsoC012={^B}흑요석 판금 퀴라스
+tagTorsoC013={^B}마그니손의 트렌치코트
+tagTorsoC014={^B}애도의 전례복
+tagTorsoC014Desc="눈물 흘리는 눈이라는 비밀 결사의 구성원들이 입었던 사제용 로브."
+tagTorsoC015={^B}거미줄비단 호버크
+tagTorsoC016={^B}말로 다할 수 없는 기도의 옷
+tagTorsoC016Desc="피를 갈망하는 사교단의 고위 구성원들만이 착용할 수 있는 크'톤을 믿는 자들의 로브."
+tagTorsoC017=(S) {^B}전령관의 자켓
+tagTorsoC018=(S) {^B}징벌의 가슴 보호구
+tagTorsoC019=(S) {^B}눈먼 암살자의 은신용 자켓
+tagTorsoC020=(S) {^B}샤프슈터 코트
+tagTorsoC021=(S) {^B}새벽수호자 판금갑옷
+tagTorsoC022={^B}졸한의 전투용 판금갑옷
+tagTorsoC022Desc="명성을 떨치던 전투 전문가, 졸한의 의뢰로 만든 갑옷."
+tagTorsoC023=(S) {^B}독기어린 로브
+tagTorsoC024=(S) {^B}동방의 로브
+tagTorsoC025=(S) {^B}야성호출자의 피부
+tagTorsoC026={^B}야수를 부르는 자의 코트
+tagTorsoC027=(S) {^B}황제친위대 흉갑
+tagTorsoC028={^B}공허벼림 전투 판금갑옷
+tagTorsoC029=(S) {^B}화염보관자 자켓
+tagTorsoC030=(S) {^B}칼리도르의 전례복
+tagTorsoC031=(S) {^B}미르미돈 흉갑
+tagTorsoC032=(S) {^B}모그드로젠의 전투코트
+
+tagTorsoD001={^I}악마미늘 자켓
+tagTorsoD002={^I}악마의 감옥 호버크
+tagTorsoD003={^I}환영의 장막
+tagTorsoD003Desc="빛으로 반짝이다가도 희미해지는 이 기묘한 옷은, 착용자의 주변에 현혹적인 환영을 만들어낸다."
+tagTorsoD004={^I}위대한 수호자의 전례복
+tagTorsoD004Desc="이 세계에서 주술 신을 믿는 자들을 지키는 임무을 받았던 자, 드리그의 최고 사제의 로브."
+tagTorsoD005={^I}아즈라고르의 공포의 갑옷
+tagTorsoD005Desc="아즈라고르는 그의 음흉하지만 의심의 여지는 없는 전술로 동료 기사들도 두려움을 사던 잔혹한 사람이었다."
+tagTorsoD006={^I}코르보란의 흉갑
+tagTorsoD006Desc="코르보란은 엄청나게 정확하게 칼을 투척할 수 있었으며, 심지어 벨트에 남은 칼이 없는 것처럼 보이더라도 칼을 손에 넣어 던질 수 있었던 전설적인 나이트블레이드였다."
+tagTorsoD007={^I}악마지배자 예복
+tagTorsoD008={^I}디바인스틸 사슬갑옷
+tagTorsoD008Desc="필멸자로서의 의무들을 초월하여 본보기가 되었던 기사단의 마스터들에게 하사됐던 갑옷."
+tagTorsoD009=(S) {^I}정의의 흉갑
+tagTorsoD010=(S) {^I}야수소환사의 겉옷
+tagTorsoD011=(S) {^I}악마사냥꾼의 자켓
+tagTorsoD012=(S) {^I}투시자의 로브
+tagTorsoD013=(S) {^I}마코비안의 판금갑옷
+tagTorsoD014=(S) {^I}얼즈인의 흉갑
+tagTorsoD015=(S) {^I}드리그의 전례복
+tagTorsoD016=(S) {^I}데스마크 자켓
+tagTorsoD017=(S) {^I}이스칸드라의 전례복
+tagTorsoD018=(S) {^I}울토스의 퀴라스
+tagTorsoD019={^I}공포의 서리 퀴라스
+tagTorsoD020=(S) {^I}트로잔의 전례복
+tagTorsoD021=(S) {^I}발던의 자켓
+tagTorsoD022=(S) {^I}베놈블레이드 은신용 자켓
+tagTorsoD023=(S) {^I}빛의 수호자 판금갑옷
+tagTorsoD024=(S) {^I}지옥의 기사 자켓
+tagTorsoD025=(S) {^I}아그리빅스의 전례복
+tagTorsoD026=(S) {^I}워본 흉갑
+tagTorsoD027=(S) {^I}피의 광란자 코트
+
+tagTorsoF001={^G}추방당한 자의 타오르는 전례복
+tagTorsoF002={^G}추방당한 자의 얼어붙은 전례복
+tagTorsoF003={^G}추방당한 자의 하늘담긴 전례복
+tagTorsoF004={^G}추방당한 자의 분노서린 전례복
+tagTorsoF005={^G}추방당한 자의 공허서린 전례복
+tagTorsoF006={^G}추방당한 자의 타오르는 퀴라스
+tagTorsoF007={^G}추방당한 자의 얼어붙은 퀴라스
+tagTorsoF008={^G}추방당한 자의 하늘담긴 퀴라스
+tagTorsoF009={^G}추방당한 자의 분노서린 퀴라스
+tagTorsoF010={^G}추방당한 자의 공허서린 퀴라스
+tagTorsoF011={^G}악마의 퀴라스
+tagTorsoF012={^G}악마의 흉갑
+tagTorsoF013={^G}군단 전례복
+tagTorsoF014={^G}군단 퀴라스
+tagTorsoF015={^G}군단 흉갑
+tagTorsoF016={^G}죽음의 전례복
+tagTorsoF017={^G}죽음의 퀴라스
+tagTorsoF018={^G}선민의 전례복
+tagTorsoF019={^G}선민의 흉갑
+tagTorsoF020={^G}로와리 전례복
+tagTorsoF021={^G}로와리 퀴라스
+
+tagTorsoM001={^W}Ragged Tunic
+tagTorsoM002={^W}Bloodstained Tunic
+tagTorsoM003={^W}Bloodstained Robes
+
+
+#ArmorWaist
+
+tagWaistA001={^W}천 허리띠
+tagWaistA002={^W}꿰메진 끈
+tagWaistA003={^W}통가죽 허리띠
+tagWaistA004={^W}가죽 벨트
+tagWaistA005={^W}사슬 벨트
+tagWaistA006={^W}보병용 허리보호대
+tagWaistA007={^W}판금갑옷 허리띠
+tagWaistA008={^W}돌격용 허리보호대
+tagWaistA009={^W}제국식 벨트
+tagWaistA010={^W}최고급 벨트
+
+tagWaistB001={^G}현상금 사냥꾼의 허리띠
+tagWaistB002={^G}전기담긴 허리띠
+tagWaistB003={^G}전투광의 벨트
+tagWaistB004={^G}화염노끈 허리띠
+tagWaistB005={^G}서리보호 허리띠
+tagWaistB006={^G}망령해골 허리띠
+tagWaistB007={^L}이그라드의 사슬
+tagWaistB008={^L}오르다스의 사슬
+tagWaistB009={^L}브란디스의 사슬
+
+tagWaistC001={^B}올데나르의 안정기
+tagWaistC002={^B}프리직의 다목적 주머니
+tagWaistC002Desc="좀비 퇴치제가 바닥나기 전까지 프리직에게 엄청난 도움을 주었다."
+tagWaistC003={^B}연금술사의 벨트
+tagWaistC004=(S) {^B}습격자의 탄약 벨트
+tagWaistC005={^B}전쟁군주의 영광
+tagWaistC006={^B}헤드헌터의 트로피
+tagWaistC007={^B}수행자의 허리끈
+tagWaistC008={^B}크토니안 실 허리띠
+tagWaistC009={^B}피에 젖은 사슬
+tagWaistC009Desc="신선한 피가 끝없이 방울져 떨어진다."
+tagWaistC010={^B}선조의 허리끈
+tagWaistC011={^B}고통의 사슬 허리띠
+tagWaistC011Desc="이 사슬은 말로 다할 수 없는 힘을 부여하지만, 그만한 값어치의 피를 요구한다."
+tagWaistC012={^B}전쟁의 길 허리띠
+tagWaistC013=(S) {^B}사프슈터 파우치
+tagWaistC014={^B}하늘도달 허리띠
+tagWaistC015={^B}그림자추적자의 벨트
+tagWaistC016={^B}화염징벌 허리띠
+tagWaistC017={^B}군단병의 공적
+tagWaistC018={^B}폭풍장착된 사슬 허리띠
+tagWaistC019={^B}스톤스킨 허리띠
+tagWaistC020={^B}영혼속박자의 사슬 허리띠
+tagWaistC021={^B}불길의 실 허리띠
+tagWaistC022={^B}두려움서린 허리띠
+tagWaistC023={^B}평형의 허리띠
+tagWaistC024=(S) {^B}화염보관자의 허리띠
+
+tagWaistD001={^I}안개낀 습지의 가시허리띠
+tagWaistD002={^I}칼날막이 허리띠
+tagWaistD003={^I}뼈로엮은 허리띠
+tagWaistD004={^I}공허술사의 허리끈
+tagWaistD005={^I}거트훅 벨트
+tagWaistD005Desc="스스로가 죽인 자들의 내장을 지니고 다니면 거꾸로 자신을 보호해준다고 확신했던 어느 괴상한 학살자가 착용했었던 벨트."
+tagWaistD006={^I}땜장이의 독창성
+tagWaistD006Desc="인간에게 알려진 모든 도구들이, 어떻게 해서인지 이 벨트 하나에 모두 집약되었다."
+tagWaistD007={^I}피의 지배자의 허리끈
+tagWaistD008={^I}해머폴 거들
+tagWaistD009={^I}다시 벼려진 올레론의 사슬
+tagWaistD010={^I}얼즈인의 고통
+tagWaistD011={^I}불멸의 현자의 허리끈
+tagWaistD012={^I}도난당한 꿈들의 허리띠
+tagWaistD013={^I}스펠브레이커 허리보호대
+tagWaistD013Desc="멘허의 기사단 안에서 선발된 집단이었던, 스펠브레이커 부대원들이 착용하던 허리보호대."
+tagWaistD014={^I}유령의 실 허리띠
+tagWaistD014Desc="형언하기 어려운 사령술 주문들로 파멸한 영혼들로부터 실을 뽑아 만든 허리띠."
+tagWaistD015=(S) {^I}야만족의 허리띠
+tagWaistD016=(S) {^I}지옥의 기사 허리띠
+
+tagWaistF001={^G}악마의 허리끈
+tagWaistF002={^G}악마의 허리보호대
+tagWaistF003={^G}악마의 거들
+tagWaistF004={^G}로와리 허리끈
+tagWaistF005={^G}로와리 허리보호대
+tagWaistF006={^G}로와리 거들
+tagWaistF007={^G}태양의 벨트
+tagWaistF008={^G}태양의 허리보호대
+tagWaistF009={^G}태양의 허리띠
+tagWaistF010={^G}군단 벨트
+tagWaistF011={^G}군단 허리보호대
+tagWaistF012={^G}군단 허리띠
+tagWaistF013={^G}죽음의 허리끈
+tagWaistF014={^G}죽음의 허리보호대
+tagWaistF015={^G}죽음의 거들
+tagWaistF016={^G}선민의 허리끈
+tagWaistF017={^G}선민의 허리보호대
+tagWaistF018={^G}선민의 거들
+
+#ArmorHands
+
+tagHandsA001={^W}장갑
+tagHandsA002={^W}뱀브레이스
+tagHandsA003={^W}건틀렛
+tagHandsA004={^W}그립
+tagHandsA005={^W}손목보호대
+
+tagHandsB001={^G}숙련자용 장갑
+tagHandsB002={^G}견습기사용 건틀렛
+tagHandsB003={^G}숙련자용 그립
+tagHandsB004={^G}견습기사용 손목보호대
+
+tagHandsC001={^B}그림자의 손아귀
+tagHandsC002={^B}열광자의 건틀렛
+tagHandsC003={^B}블레이드댄서의 손목보호대
+tagHandsC004={^B}주문창작자의 장갑
+tagHandsC005=(S) {^B}습격자의 장갑
+tagHandsC006={^B}영혼의 손길
+tagHandsC007={^B}문양들어간 팔보호대
+tagHandsC008={^B}싸움꾼의 장갑
+tagHandsC009={^B}룬새겨진 팔보호대
+tagHandsC009Desc="불멸성을 나타내는 강력한 기호들이 강철 보호대에 새겨져 있다."
+tagHandsC010={^B}검은 강철 건틀렛
+tagHandsC011={^B}비단손길 손가리개
+tagHandsC011Desc="어둠 속에서는 무적이니, 그림자 속에 있는 것을 즐겨라."
+tagHandsC012=전령관의 장갑
+tagHandsC013=(S) {^B}약제사의 손길
+tagHandsC014=(S) {^B}징벌의 팔 보호구
+tagHandsC015=(S) {^B}새벽수호자 건틀렛
+tagHandsC016={^B}엠버그림 손목보호대
+tagHandsC017={^B}신속연사 장갑
+tagHandsC018=(S) {^B}동방의 장갑
+tagHandsC019={^B}벼락손길 팔보호대
+tagHandsC020={^B}흑요석 손아귀
+tagHandsC021={^B}파멸의 손길
+tagHandsC022={^B}두려운 냉기의 손아귀
+
+tagHandsD001={^I}해방된 힘의 손아귀
+tagHandsD001Desc="올레론 스스로의 맹렬함이 깃들인 장갑."
+tagHandsD002={^I}영원히 자라는 숲의 손길
+tagHandsD003={^I}공허강철 건틀렛
+tagHandsD003Desc="크토니안 전위대의 연기나는 사체로 만들어졌다."
+tagHandsD004={^I}본스캐빈저의 죽음장갑
+tagHandsD004Desc="마법사의 섬뜩한 힘의 일부가 아직 남아있는 네크로맨서의 집중용 장갑."
+tagHandsD005={^I}고룡의 뼈 손목보호대
+tagHandsD006={^I}아이스스콘 맹금발톱
+tagHandsD007={^I}바이퍼팽 장갑
+tagHandsD008={^I}에테르의 범위
+tagHandsD009={^I}거인의 장갑
+tagHandsD010=(S) {^I}정의의 장갑
+tagHandsD011=(S) {^I}하빈저의 장갑
+tagHandsD012=(S) {^I}빛의 수호자 건틀렛
+
+tagHandsF001={^G}로와리 장갑
+tagHandsF002={^G}로와리 손목보호대
+tagHandsF003={^G}추수자의 장갑
+tagHandsF004={^G}추수자의 손목보호대
+
+
+#ArmorLegs
+
+tagLegsA001={^W}바지
+tagLegsA002={^W}레깅스
+tagLegsA003={^W}바지
+tagLegsA004={^W}브리치
+tagLegsA005={^W}다리갑옷
+tagLegsA006={^W}다리보호대
+
+tagLegsB001={^L}드리그 교파 다리보호대
+tagLegsB002={^L}솔라엘 교파 다리보호대
+tagLegsB003={^L}비스미엘 교파 다리보호대
+tagLegsB004={^L}아나스테리아의 다리보호대
+tagLegsB005={^L}아나스테리아의 레깅스
+
+tagLegsC001={^B}미스트워커 레깅스
+tagLegsC002={^B}은둔자의 다리보호대
+tagLegsC003={^B}늪지대거주자의 다리보호대
+tagLegsC004=(S) {^B}탐험가용 바지
+tagLegsC005={^B}얼룩진 바지
+tagLegsC005Desc="이전 주인이 이 바지의 앉는 부분에 다소 놀라운 것을 남겨둔 것 같다."
+tagLegsC006={^B}슬리스비늘 바지
+tagLegsC007={^B}은둔자의 하체 갑옷
+tagLegsC008={^B}용맹의 하체 판금갑옷
+tagLegsC009={^B}살을 먹는 자의 바지
+tagLegsC009Desc="어떤 물품들의 기원에 대해서는 역사의 기록으로만 방치되는게 최선일 수도 있다."
+tagLegsC010={^B}망령가죽 레깅스
+tagLegsC011={^B}너무 거대한 다리보호대
+tagLegsC012=(S) {^B}동방의 다리보호대
+tagLegsC013={^B}칼날보호 레깅스
+tagLegsC014={^B}균열사냥개의 바지
+tagLegsC015={^B}주문엮는 자의 바지
+
+tagLegsD001={^I}악마의 뼈 하체 판금갑옷
+tagLegsD001Desc="이 갑옷의 제작에서 가장 까다로웠던 점은 필요한 부분들을 획득하는 과정이었다."
+tagLegsD002={^I}뼈로엮은 레깅스
+tagLegsD003={^I}죽음의 속삭임 레깅스
+tagLegsD004={^I}지옥불로 만든 하체 판금갑옷
+tagLegsD004Desc="헬하운드의 불타는 숨결로 벼려냈다."
+tagLegsD005={^I}운명엮는 자의 바지
+tagLegsD005Desc="수십 가지의 주문들과 권능담긴 말들이 지금 이 바지를 이루는 실들에 스며들어 있다."
+tagLegsD006={^I}망령깃든 바지
+tagLegsD007={^I}비전 마법의 균형 레깅스
+tagLegsD008={^I}가시달린 통가죽 다리보호대
+tagLegsD009={^I}니달라의 바지
+tagLegsD010={^I}차분한 정신의 바지
+tagLegsD011={^I}바르바로스의 다리갑옷
+tagLegsD011Desc="바르바로스는 검은군단의 장교급 사이에서도 전설로 내려오는 전사로서, 사람과 말이 뒤섞인 수십 개의 베어진 시체들에 둘러싸인 채 전장에서 최후를 맞았다."
+tagLegsD012={^I}스톰케이지 다리보호대
+tagLegsD013={^I}꽤나 멋진 바지
+tagLegsD013Desc="사실, 이 정도면 괜찮지."
+tagLegsD014={^I}황야의 뿔피리 다리보호대
+
+
+#ArmorFeet
+
+tagFeetA001={^W}덮개신발
+tagFeetA002={^W}부츠
+tagFeetA003={^W}그리브
+tagFeetA004={^W}사바톤
+tagFeetA005={^W}전투화
+
+tagFeetB001={^G}숙련자용 부츠
+tagFeetB002={^G}견습기사용 부츠
+tagFeetB003={^G}숙련자용 그리브
+tagFeetB004={^G}견습기사용 그리브
+
+tagFeetC001={^B}녹아내리는 발걸음
+tagFeetC002={^B}바람담긴 그리브
+tagFeetC003={^B}눈에 보이지 않는 재빠름의 부츠
+tagFeetC003Desc="이 부츠는 이 세계의 어떤 것과도 다른 재료와 방법으로 만들어진 것 같다."
+tagFeetC004={^B}돌로 만든 지면파괴기
+tagFeetC005=(S) {^B}탐험가용 덮개신발
+tagFeetC006={^B}피의 사냥개 그리브
+tagFeetC007={^B}마지막 행군
+tagFeetC007B={^B}마지막 행군
+tagFeetC007Desc="발걸음마다 크토니안 괴물들에게 쓰러졌던 수천 명의 무게가 느껴진다."
+tagFeetC008={^B}균열사냥개의 가죽 부츠
+tagFeetC008Desc="아무데도 쓸모 없는 야수들이라도, 그 가죽으로는 좋은 부츠를 만들 수 있다."
+tagFeetC009={^B}드레드노트 신발덮개
+tagFeetC010={^B}헬리온 그리브
+tagFeetC011={^B}뱀의 휘감기
+tagFeetC012={^B}모독자의 전투화
+tagFeetC012Desc="승산을 짐작할 수 없는 상황들의 연속에서도, 모독의 흔적 외에 아무 것도 남기지 않는다."
+tagFeetC013={^B}스펠세이지 부츠
+tagFeetC014={^B}궁정마법사의 그리브
+
+tagFeetD001={^I}골렘본 그리브
+tagFeetD002={^I}고룡비늘 신발보호대
+tagFeetD002Desc="고룡의 비늘을 얻는 것은 매우 위험하여 단 한 조각이라도 얻는 사람조차 드문데, 이것으로 완성된 하나의 방어구라면 상상의 한계를 넘어선다. 이 부츠는 아마도 부유한 귀족의 지위를 상징할만 했을 것이다."
+tagFeetD003={^I}맹독가시 그리브
+tagFeetD003Desc="가시들로부터 여러 종류의 거미와 뱀들에게서 추출한 맹독이 방울져 떨어진다."
+tagFeetD004={^I}공허를 걷는 자의 덮개신발
+tagFeetD005={^I}해골파괴 전투화
+tagFeetD005Desc="밑창이 무겁게 만들어져서 뼈들을 밟아부수는 기분나쁜 소리가 극대화된다."
+tagFeetD006={^I}망령과 걷는 자
+tagFeetD007={^I}바람가르는 자의 그리브
+tagFeetD008={^I}스톰타이탄 전투화
+tagFeetD009={^I}잿빛 마술사의 덮개신발
+tagFeetD010={^I}대지파괴 전투화
+tagFeetD010Desc="이 부츠 아래의 대지 자체가 끓어오르며 갈라진다."
+
+tagFeetF001={^G}로와리 덮개신발
+tagFeetF002={^G}로와리 그리브
+tagFeetF003={^G}군단 그리브
+tagFeetF004={^G}추수자의 덮개신발
+tagFeetF005={^G}추수자의 그리브
+
+
+#Rings
+
+tagRingA001={^W}구리 반지
+tagRingA002={^W}은 반지
+tagRingA003={^W}금 반지
+tagRingA004={^W}백금 반지
+tagRingA005={^W}자수정 반지
+tagRingA006={^W}문스톤 반지
+tagRingA007={^W}오팔 인장
+tagRingA008={^W}에메랄드 반지
+tagRingA009={^W}사파이어 반지
+tagRingA010={^W}토파즈 인장
+tagRingA011={^W}루비 반지
+tagRingA012={^W}새김장식 반지
+tagRingA013={^W}다이아몬드 인장
+tagRingA014={^W}제국식 반지
+tagRingA015={^W}흑요석 반지
+tagRingA016={^W}제국식 인장
+
+tagRingB001={^G}레단의 유품 반지
+tagRingB001Desc="반지의 안쪽에 새겨진 글자가 약간 닳아있다: 내 사랑을 담아 - 아멜리아"
+tagRingB002={^L}크론리의 인장
+tagRingB002Desc="그에게 희생된 자들의 피로 얼룩졌던, 지금은 그 자신의 피도 묻은 반지."
+tagRingB003={^G}스키너 가문 문장
+tagRingB003Desc="가문에서 소유했던 것 중 가장 값비싼 물건일지도 모른다."
+tagRingB004={^L}골루스의 반지
+tagRingB004Desc="그는 이 반지를 정말로 좋아했다."
+tagRingB005={^L}혈교도의 인장
+tagRingB005Desc="인장에 박힌 보석은 소환 의식 중에는 희미한 빛을 낸다."
+tagRingB006={^L}빌로스의 반지
+tagRingB006Desc="투박한 모양의 장신구. 슬리스가 이런 것을 쓴다는 점이 이상하긴 하다."
+
+tagRingC001={^B}골수 반지
+tagRingC002={^B}흑요석 문장
+tagRingC003={^B}지식보관자의 반지
+tagRingC004={^B}황혼의 인장
+tagRingC005={^B}블랙워치 문장
+tagRingC006={^B}별의 불
+tagRingC006Desc="추락한 별의 타오르는 잔해를 이용해 만들어졌다."
+tagRingC007={^B}피의 인장
+tagRingC008={^B}에테르 영주의 인장
+tagRingC008Desc="에테리얼에게 지배당하던 귀족들이 공통적으로 지니던 반지."
+tagRingC009={^B}영원의 반지
+tagRingC010={^B}오블리토릭스
+tagRingC011={^B}떠도는 영혼들의 반지
+tagRingC012=(S) {^B}약제사의 지혜
+tagRingC013=(S) {^B}왕가의 문장
+tagRingC014=(S) {^B}왕가의 보석
+tagRingC015=(S) {^B}용기의 반지
+tagRingC016=(S) {^B}용기의 인장
+tagRingC017=(S) {^B}살육의 오른손
+tagRingC018=(S) {^B}살육의 왼손
+tagRingC019A=(S) {^Z}알카모스의 두려움
+tagRingC019B=(S) {^Z}알카모스의 고뇌
+tagRingC019Desc="죽음이여..."
+tagRingC020A=(S) {^Z}알카모스의 괴로움
+tagRingC020B=(S) {^Z}알카모스의 고통
+tagRingC020Desc="괴로움이라..."
+tagRingC021={^B}검은 얼음의 반지
+tagRingC022={^B}비열한 목적의 반지
+tagRingC023={^B}추위의 파도 반지
+tagRingC023Desc="반지의 사파이어가 살짝 닿기만 해도 열기가 흡수된다."
+tagRingC024={^B}끝없는 부패의 반지
+tagRingC025={^B}불타는 지옥의 문장
+tagRingC026={^B}은둔자의 문장
+tagRingC027={^B}가속의 보석
+tagRingC028={^B}덤불가시괴물 반지
+tagRingC029={^B}생명력개화 반지
+tagRingC030={^B}골리앗 인장
+tagRingC031={^B}사악한 자의 인장
+tagRingC032={^B}저주받은 자의 인장
+tagRingC033={^B}변이유발 반지
+tagRingC033Desc="인장의 보석이 당신의 눈 앞에서 계속 움직이고 모양을 바꾼다."
+tagRingC034={^B}아마라스타의 인장
+tagRingC035={^B}황야의 계약 에메랄드
+tagRingC036=(S) {^B}에테르폭풍 인장
+tagRingC037=(S) {^B}에테르폭풍 문장
+tagRingC038=(S) {^B}근원적 평형의 루비
+tagRingC039=(S) {^B}근원적 평형의 사파이어
+
+tagRingD001={^I}타락한 자의 인장
+tagRingD002={^I}켈팟'조스 형상의 반지
+tagRingD002Desc="크'톤의 위대한 전령인 켈팟'조스에 의해 그의 가장 충성스러운 추종자들에게 하사된 인장."
+tagRingD003={^I}생명부여자 인장
+tagRingD004={^I}유동적인 시간의 반지
+tagRingD005={^I}에테르의 웃음소리
+tagRingD005Desc="고통을 가하는 지배 과정에 대한 비웃음."
+tagRingD006={^I}엔트로픽 코일
+tagRingD007={^I}검은 여왕거미의 반지
+tagRingD007Desc="거미의 독을 이용하여 적들을 마비시키고 처치했던 무자비한 암살자, 검은 여왕거미의 인장반지."
+tagRingD008={^I}끝없이 출몰하는 유령의 반지
+tagRingD009={^I}벨고시안의 인장
+tagRingD010={^I}알브레히트의 이원성
+tagRingD010Desc="에테르 광선 마법을 창시한 마스터 알브레히트는 비전 마법에 대한 능숙함 뿐만 아니라 엘드리치 신들과도 연결되어 있는 것으로 잘 알려져 있었다. 이 사실은 그가 많은 법적인 문제들을 겪게했고, 길덤 아케이넘의 개입이 아니었다면 그는 처형당했을 수도 있었다."
+tagRingD011=(S) {^I}자비의 손
+tagRingD012=(S) {^I}복수의 주먹
+tagRingD013=(S) {^I}인보커의 타오르는 손
+tagRingD014=(S) {^I}인보커의 충격의 손길
+tagRingD015=(S) {^F}알카모스의 두려움의 손길
+tagRingD016=(S) {^F}알카모스의 고통어린 손길
+
+
+tagRingF001={^B}악마의 전쟁 문장
+tagRingF002={^B}악마의 분노 문장
+tagRingF003={^B}로와리 분노 문장
+tagRingF004={^B}로와리 공허 문장
+tagRingF005={^B}군단 전쟁 문장
+tagRingF006={^B}군단 소환 문장
+tagRingF007={^B}추수자의 맹독 문장
+tagRingF008={^B}추수자의 칼날 문장
+tagRingF009={^B}죽음의 서리 문장
+tagRingF010={^B}죽음의 생기 문장
+tagRingF011={^B}선민의 화염 문장
+tagRingF012={^B}선민의 폭풍 문장
+
+
+#Necklaces
+
+tagNecklaceA00={^W}소금 주머니
+tagNecklaceA00Desc="소금이 가득한 주머니인데, 악한 영혼들을 막아주는 것처럼 보인다."
+
+tagNecklaceA001={^W}발톱 부적
+tagNecklaceA002={^W}은 아뮬렛
+tagNecklaceA003={^W}두개골 부적
+tagNecklaceA004={^W}백금 아뮬렛
+tagNecklaceA005={^W}해골 부적
+tagNecklaceA006={^W}문스톤 아뮬렛
+tagNecklaceA007={^W}오팔 펜던트
+tagNecklaceA008={^W}에메랄드 목걸이
+tagNecklaceA009={^W}사파이어 아뮬렛
+tagNecklaceA010={^W}토파즈 펜던트
+tagNecklaceA011={^W}루비 목걸이
+tagNecklaceA012={^W}새김장식 아뮬렛
+tagNecklaceA013={^W}다이아몬드 펜던트
+tagNecklaceA014={^W}제국식 목걸이
+tagNecklaceA015={^W}흑요석 아뮬렛
+tagNecklaceA016={^W}제국식 펜던트
+
+tagNecklaceB001={^L}냄새 나는 목걸이
+tagNecklaceB001Desc="악취나는 점액이 뒤덮인 두개골."
+tagNecklaceB002={^L}죽음의 감시자 펜던트
+tagNecklaceB003={^L}엘레나의 목걸이
+tagNecklaceB003Desc="최초의 슬리스, 엘레나가 지니던 기념품."
+tagNecklaceB004={^L}자리아의 펜던트
+tagNecklaceB005={^L}섐블러의 심장
+tagNecklaceB006={^L}모가라의 송곳니
+tagNecklaceB007={^L}운골리악스의 응시
+tagNecklaceB008={^L}핏빛덤불의 가시
+tagNecklaceB009={^L}울라프락스의 독침
+tagNecklaceB010={^L}로나프락스의 독침
+
+tagNecklaceC001={^B}눈동자 아뮬렛
+tagNecklaceC001Desc="초점없는 눈동자가 보석 안에서 이리저리 시선을 던진다."
+tagNecklaceC002={^B}알라즈라의 루비
+tagNecklaceC003={^B}피의 달
+tagNecklaceC004={^B}악마의 부적
+tagNecklaceC004Desc="거짓들과 속임수를 엮어내는 두 갈래의 혀."
+tagNecklaceC005=(S) {^B}메이븐의 렌즈
+tagNecklaceC006={^B}뒤틀림의 조각
+tagNecklaceC006Desc="이 조각이 현실 자체를 뒤트는 듯하다."
+tagNecklaceC007={^B}전투전문가의 긍지
+tagNecklaceC008={^B}정령석 부적
+tagNecklaceC009={^B}소용돌이 돌
+tagNecklaceC010={^B}죽음 결계
+tagNecklaceC010Desc="사악한 영혼들을 차단하기 위해 착용되었던 부적."
+tagNecklaceC011={^B}베로나스의 정수
+tagNecklaceC011Desc="거대한 야수 베로나스의 잔류 정수를 붙잡아두었다."
+tagNecklaceC012={^B}누람'신의 파멸
+tagNecklaceC013={^B}라피스 루푸스
+tagNecklaceC014={^B}안드로네우스의 탐욕
+tagNecklaceC014Desc="최고 징세관 안드로네우스 필리안이 등에 칼을 맞기 직전에 공개적으로 자랑했던 완벽한 에메랄드."
+tagNecklaceC015=(S) {^B}전령관의 가호
+tagNecklaceC016=(S) {^B}눈먼 암살자의 초점없는 눈동자
+tagNecklaceC017=(S) {^B}왕가의 펜던트
+tagNecklaceC018=(S) {^B}용기의 펜던트
+tagNecklaceC019={^B}지독한 필요성
+tagNecklaceC019Desc="이 보석이 잠시 눈에 띄는 것만으로도 자신의 것으로 만들고 싶어지는 마음이 진하게 생겨난다."
+tagNecklaceC020={^B}폭풍소환사의 보석
+tagNecklaceC021={^B}병충해파편 아뮬렛
+tagNecklaceC022={^B}방패의 여인의 방어
+tagNecklaceC023={^B}얼어붙은 핵
+tagNecklaceC024={^B}그을린 대지의 아뮬렛
+tagNecklaceC025={^B}질병주술사의 아뮬렛
+tagNecklaceC026={^B}감청색 파편
+tagNecklaceC027={^B}칼을 막는 자의 용기
+tagNecklaceC028={^B}멘허의 파편
+tagNecklaceC029={^B}가시나무 아뮬렛
+tagNecklaceC030={^B}메뚜기 보석
+tagNecklaceC031={^B}선조들의 가호
+tagNecklaceC032={^B}지휘의 조각
+tagNecklaceC033={^B}영혼 펜던트
+tagNecklaceC034={^B}맹독칼날 아뮬렛
+tagNecklaceC035={^B}마법적 일식
+tagNecklaceC036={^B}정의로운 화염
+tagNecklaceC037={^B}얼음의 덫
+tagNecklaceC038=(S) {^B}칼리도르의 파편
+tagNecklaceC039=(S) {^B}모그드로젠의 속박의 에메랄드
+tagNecklaceC040=(S) {^B}에테르폭풍 아뮬렛
+tagNecklaceC041={^B}라피스 만티코라
+
+tagNecklaceD001={^I}비스미엘의 의지
+tagNecklaceD002={^I}필멸성의 실
+tagNecklaceD003={^I}자비의 화신
+tagNecklaceD003Desc="인류의 일곱 가지 미덕의 그 첫번째."
+tagNecklaceD004={^I}지배하는 권위자의 루비
+tagNecklaceD005={^I}베로나스의 초점없는 눈동자
+tagNecklaceD005Desc="거대한 야수, 베로나스의 보존된 눈동자."
+tagNecklaceD006={^I}별의 분노 에메랄드
+tagNecklaceD007={^I}잔인한 새벽의 정수
+tagNecklaceD007Desc="잔인한 새벽(Grim Dawn)의 시작을 목격한 이들의 고통과 죽음의 물리적 실체화."
+tagNecklaceD008={^I}죽음이 속박된 자수정
+tagNecklaceD009={^I}할라코르의 천상의 돌
+tagNecklaceD009Desc="광휘단에 가입하고자 그녀의 명령과 가르침을 따랐던 아케니스트, 제네브 할라코르의 집중용 보석."
+tagNecklaceD010={^I}파멸인도자
+tagNecklaceD011={^I}대재앙의 전령
+tagNecklaceD011Desc="잔인한 새벽(Grim Dawn)이 시작될 때 첫번째 균열을 열었다는 소문이 있다."
+tagNecklaceD012={^I}드리그의 전염병
+tagNecklaceD012Desc="주술의 신 드리그의 일곱 가지 질병이 담겨있다."
+tagNecklaceD013={^I}밤의 포위
+tagNecklaceD014={^I}케언의 복수자
+tagNecklaceD015=(S) {^I}새벽인도자의 횃불
+tagNecklaceD016=(S) {^I}악마사냥꾼의 방어
+tagNecklaceD017=(S) {^I}인보커의 파편
+tagNecklaceD018=(S) {^I}드리그의 검은 보석
+tagNecklaceD019=(S) {^I}이스칸드라의 집중용 프리즘
+tagNecklaceD020=(S) {^I}울토스의 보석
+tagNecklaceD021=(S) {^I}마코비안의 명예
+tagNecklaceD022=(S) {^I}얼즈인의 심장
+tagNecklaceD023={^I}산맥의 심장
+tagNecklaceD024=(S) {^I}발던의 현상금
+tagNecklaceD025=(S) {^I}아그리빅스의 마력 파편
+tagNecklaceD026=(S) {^I}피의 광란자의 보석
+
+tagNecklaceF001={^B}로와리 수호석
+tagNecklaceF002={^B}로와리 증오
+tagNecklaceF003={^B}로와리 생명소환자
+tagNecklaceF004={^B}태양의 집중의 돌
+tagNecklaceF005={^B}추수자의 돌
+tagNecklaceF006={^B}천둥소리 보석
+tagNecklaceF007={^B}수확자의 손아귀
+tagNecklaceF008={^B}어디에나 있는 분노의 펜던트
+tagNecklaceF009={^B}공허소환자 펜던트
+
+
+#Medals
+
+tagMedalA001={^W}리본
+tagMedalA002={^W}뱃지
+tagMedalA003={^W}휘장
+tagMedalA004={^W}제국 문장
+tagMedalA005={^W}제국 훈장
+tagMedalA006={^W}황실 문장
+tagMedalA007={^W}황실 훈장
+
+tagMedalB001={^G}유격대 리본
+tagMedalB002={^G}유격대 뱃지
+tagMedalB003={^L}이크릭스 비늘
+tagMedalB004={^L}카이몬의 휘장
+tagMedalB005={^L}혈교도의 인장
+tagMedalB006={^L}일고르의 영원한 감시
+tagMedalB006_Desc="고통의 단계에 있는 교도소장들은 무정한 감시 활동을 영겁이 흐른 것 같이 오랜 시간 수행했다."
+tagMedalB007={^L}일고르의 영원한 저주
+tagMedalB008={^L}라고스'아크의 공허의 구속
+tagMedalB008_Desc="공허와 그 주인이 가진 광대한 힘의 작은 흔적."
+tagMedalB009={^L}라고스'아크의 피의 구속
+tagMedalB010={^L}발타자르의 문장
+tagMedalB011={^L}마틴의 문장
+tagMedalB012={^L}할리온의 문장
+tagMedalB013={^L}블러드피스트의 휘장
+tagMedalB014={^L}거트웜의 휘장
+tagMedalB015={^L}나크라산의 휘장
+tagMedalB016={^L}하보울의 휘장
+
+tagMedalC001={^B}야수살해자의 휘장
+tagMedalC002={^B}강인함의 뱃지
+tagMedalC003={^B}정의의 휘장
+tagMedalC004=(S) {^B}피수확자의 표식
+tagMedalC005={^B}크림슨 하트
+tagMedalC006={^B}전선 의무병의 표식
+tagMedalC006Desc="전장에서 단련된 의무병들의 위험한 전투 속에서의 용감한 봉사를 치하하는 증표."
+tagMedalC007={^B}서약의 휘장
+tagMedalC008={^B}아케이넘 인장
+tagMedalC009={^B}선발대의 별 휘장
+tagMedalC010={^B}크림슨 부대의 휘장
+tagMedalC010Desc="잔인할 정도로 유능한 용병 집단, 크림슨 부대의 상징."
+tagMedalC011=(S) {^B}약제사의 신호
+tagMedalC012=(S) {^B}계약의 증표인 부정한 인장
+tagMedalC013=(S) {^B}용기의 리본
+tagMedalC014={^B}마법사의 휘장
+tagMedalC015={^B}이단자의 인장
+tagMedalC016={^B}폭풍우 인장
+tagMedalC017={^B}거짓된 신들의 휘장
+tagMedalC018={^B}거트웜의 피투성이 문장
+tagMedalC018Desc="그에게 희생된 자들의 피로 흠뻑 젖어있다."
+tagMedalC019={^B}모그드로젠 인장
+tagMedalC020={^B}환영술사의 휘장
+tagMedalC021={^B}기만의 검은 별 휘장
+tagMedalC022={^B}님프의 표식
+tagMedalC023={^B}얼어붙은 하늘의 별 휘장
+tagMedalC024={^B}볼케이넘
+tagMedalC025={^B}격렬한 의지의 휘장
+tagMedalC026=(S) {^B}미르미돈 명예 훈장
+
+tagMedalD001={^I}금지된 자들의 휘장
+tagMedalD001Desc="한때 이단자들에게 강제로 붙여졌으며, 나중에는 주술의 신들을 숭배하는 자들이 자랑삼이 착용하던 상징."
+tagMedalD002={^I}거장의 상징
+tagMedalD003={^I}활화산 휘장
+tagMedalD004={^I}큰곰 왕의 인장
+tagMedalD004Desc="큰곰 왕이라고도 불리던 왕, 우르살 베네딕트 14세의 인장."
+tagMedalD005={^I}크'톤의 피의 인장
+tagMedalD006={^I}무서운 늑대의 문장
+tagMedalD006Desc="북서쪽 황무지의 수호 동물, 거대한 하얀 늑대의 문장."
+tagMedalD007={^I}불멸의 맹세
+tagMedalD008={^I}마코비안의 전략
+tagMedalD008Desc="명성을 떨쳤던 전술가 마코비안을 기리는 이름의 이 휘장은, 가장 탁월한 공적을 세운 장군들에게만 수여되었다."
+tagMedalD009={^I}어두운 꿈들의 표식
+tagMedalD010={^I}아나테마의 휘장
+tagMedalD011={^I}신성의 휘장
+tagMedalD012=(S) {^I}야수소환사의 부적
+
+tagMedalF001={^B}악마의 화염 휘장
+tagMedalF002={^B}악마의 서리 휘장
+tagMedalF003={^B}악마의 맹독 휘장
+tagMedalF004={^B}군단 주문사용자 휘장
+tagMedalF005={^B}군단 공허술사 휘장
+tagMedalF006={^B}군단 칼날 휘장
+tagMedalF007={^B}선민의 전쟁 훈장
+tagMedalF008={^B}선민의 천둥 훈장
+tagMedalF009={^B}더럽혀진 선민의 훈장
+tagMedalF009Desc="적들의 힘으로 더러워졌음에도 불구하고, 이 훈장은 정의로운 목표를 잃지 않았다."
+
+
+#Blueprints
+tagTestBlueprint=Blueprint: Item Name of the Awesomesauce
+tagTestBlueprintDescription="Flavor text of the Awesomesauce item that is awesome at things."
+
+tagBlueprint_RelicB001=도안: 렐릭 - 재앙
+tagBlueprint_RelicB002=도안: 렐릭 - 몰락
+tagBlueprint_RelicB003=도안: 렐릭 - 균형
+tagBlueprint_RelicB004=도안: 렐릭 - 빙하
+tagBlueprint_RelicB005=도안: 렐릭 - 돌풍
+tagBlueprint_RelicB006=도안: 렐릭 - 지옥불
+tagBlueprint_RelicB007=도안: 렐릭 - 오염
+tagBlueprint_RelicB008=도안: 렐릭 - 안식처
+tagBlueprint_RelicB009=도안: 렐릭 - 교활
+tagBlueprint_RelicB010=도안: 렐릭 - 광란
+tagBlueprint_RelicB011=도안: 렐릭 - 미스트본 부적
+tagBlueprint_RelicB012=도안: 렐릭 - 칼날서약 부적
+tagBlueprint_RelicB013=도안: 렐릭 - 건슬링어 부적
+tagBlueprint_RelicC001=도안: 렐릭 - 조정자
+tagBlueprint_RelicC002=도안: 렐릭 - 성채
+tagBlueprint_RelicC003=도안: 렐릭 - 학살자
+tagBlueprint_RelicC004=도안: 렐릭 - 불가항력
+tagBlueprint_RelicC005=도안: 렐릭 - 공포
+tagBlueprint_RelicC006=도안: 렐릭 - 고통
+tagBlueprint_RelicC007=도안: 렐릭 - 유령
+tagBlueprint_RelicC008=도안: 렐릭 - 화재
+tagBlueprint_RelicC009=도안: 렐릭 - 야성
+tagBlueprint_RelicC010=도안: 렐릭 - 죽음의 한기
+tagBlueprint_RelicC011=도안: 렐릭 - 희생
+tagBlueprint_RelicC012=도안: 렐릭 - 열중
+tagBlueprint_RelicC013=도안: 렐릭 - 폐허
+tagBlueprint_RelicC014=도안: 렐릭 - 역병
+tagBlueprint_RelicC015=도안: 렐릭 - 선조
+tagBlueprint_RelicC016=도안: 렐릭 - 칼날연무의 부적
+tagBlueprint_RelicC017=도안: 렐릭 - 습격자의 부적
+tagBlueprint_RelicD001=도안: 렐릭 - 구원
+tagBlueprint_RelicD002=도안: 렐릭 - 저주
+tagBlueprint_RelicD003=도안: 렐릭 - 네메시스
+tagBlueprint_RelicD004=도안: 렐릭 - 시타델
+tagBlueprint_RelicD005=도안: 렐릭 - 폭풍의 눈동자
+tagBlueprint_RelicD006=도안: 렐릭 - 앙갚음
+tagBlueprint_RelicD007=도안: 렐릭 - 징벌
+tagBlueprint_RelicD008=도안: 렐릭 - 얼즈인의 활화산
+tagBlueprint_RelicD009=도안: 렐릭 - 네크로시스
+tagBlueprint_RelicD010=도안: 렐릭 - 아그리빅스의 적의
+tagBlueprint_RelicD011=도안: 렐릭 - 망각
+tagBlueprint_RelicD012=도안: 렐릭 - 벨고시안의 학살
+tagBlueprint_RelicD013=도안: 렐릭 - 섬멸
+tagBlueprint_RelicD014=도안: 렐릭 - 복수자
+tagBlueprint_RelicD015=도안: 렐릭 - 원시적 본능
+tagBlueprint_RelicD016=도안: 렐릭 - 솔라엘의 학살
+tagBlueprint_RelicD017=도안: 렐릭 - 드리그의 고난
+tagBlueprint_RelicD018=도안: 렐릭 - 비스미엘의 지배
+tagBlueprint_RelicD019=도안: 렐릭 - 올레론의 격노
+tagBlueprint_RelicD020=도안: 렐릭 - 멘허의 수호
+tagBlueprint_RelicD021=도안: 렐릭 - 이스칸드라의 균형
+tagBlueprint_RelicD022=도안: 렐릭 - 칼날정복자의 부적
+tagBlueprint_RelicD023=도안: 렐릭 - 약탈자의 부적
+
+tagBlueprint_ComponentA01=도안: 에테르의 영혼
+tagBlueprint_ComponentA02=도안: 탄환용 판금
+tagBlueprint_ComponentA03=도안: 축복받은 강철
+tagBlueprint_ComponentA04=도안: 집중용 프리즘
+tagBlueprint_ComponentA05=도안: 질긴 통가죽
+tagBlueprint_ComponentA06=도안: 잠들지 못하는 유해
+tagBlueprint_ComponentA07=도안: 부패한 심장
+tagBlueprint_ComponentA08=도안: 룬스톤
+tagBlueprint_ComponentA09=도안: 정화된 해골
+tagBlueprint_ComponentA10=도안: 가시달린 등껍질
+tagBlueprint_ComponentA11=도안: 집요한 망령
+tagBlueprint_ComponentA12=도안: 결계석
+tagBlueprint_ComponentA13=도안: 견직물 견본
+tagBlueprint_ComponentA14=도안: 비늘달린 통가죽
+tagBlueprint_ComponentA15=도안: 정제된 소금
+tagBlueprint_ComponentA16=도안: 속을 비운 송곳니
+tagBlueprint_ComponentA17=도안: 마법걸린 은
+tagBlueprint_ComponentA18=도안: 축복받은 연마재
+tagBlueprint_ComponentA19=도안: 검은색 수지
+tagBlueprint_ComponentC01=도안: 올레론의 피
+tagBlueprint_ComponentC02=도안: 베로나스의 파편
+tagBlueprint_ComponentC03=도안: 아케인 스파크
+tagBlueprint_ComponentC04=도안: 무지개빛 다이아몬드
+tagBlueprint_ComponentC05=도안: 유령깃든 강철
+tagBlueprint_ComponentC06=도안: 모그드로젠의 표식
+tagBlueprint_ComponentC07=도안: 은제 탄환
+tagBlueprint_ComponentC08=도안: 피의 연마재
+
+
+tagBlueprint_WaistB001=도안: 현상금 사냥꾼의 허리띠
+tagBlueprint_WaistB002=도안: 전기담긴 허리띠
+tagBlueprint_WaistB003=도안: 전투광의 허리띠
+tagBlueprint_WaistB004=도안: 화염노끈 허리띠
+tagBlueprint_WaistB005=도안: 서리보호 허리띠
+tagBlueprint_WaistB006=도안: 망령해골 허리띠
+
+tagBlueprint_WeaponB001=도안: 배틀 실드
+tagBlueprint_WeaponB002=도안: 포위용 방패
+tagBlueprint_WeaponB003=도안: 소버린 실드
+tagBlueprint_WeaponB004=도안: 회전총열 라이플
+tagBlueprint_WeaponB005=도안: 전장식 라이플
+tagBlueprint_WeaponB006=도안: 파편탄 소총
+tagBlueprint_WeaponB007=도안: 예리한 롱소드
+tagBlueprint_WeaponB008=도안: 예리한 브로드소드
+tagBlueprint_WeaponB009=도안: 예리한 정벌검
+tagBlueprint_WeaponB010=도안: 잔혹한 양손도끼
+tagBlueprint_WeaponB011=도안: 잔혹한 절삭도끼
+tagBlueprint_WeaponB012=도안: 잔혹한 참수도끼
+tagBlueprint_WeaponB013=도안: 상형문자표지 기록집
+tagBlueprint_WeaponB014=도안: 상형문자표지 주문책
+tagBlueprint_WeaponB015=도안: 상형문자표지 서채
+tagBlueprint_WeaponB016=도안: 비술용 뿔
+tagBlueprint_WeaponB017=도안: 비술용 두개골
+tagBlueprint_WeaponB018=도안: 비술용 인형
+tagBlueprint_WeaponB019=도안: 더블 배럴 피스톨
+tagBlueprint_WeaponB020=도안: 휴대용 박격포
+tagBlueprint_WeaponB021=도안: 산탄파편 피스톨
+tagBlueprint_WeaponB022=도안: 숙련자용 칼날 메이스
+tagBlueprint_WeaponB023=도안: 숙련자용 모닝스타
+tagBlueprint_WeaponB024=도안: 숙련자용 철편 메이스
+tagBlueprint_WeaponB025=도안: 숙련자용 대거
+tagBlueprint_WeaponB026=도안: 숙련자용 스펠블레이드
+tagBlueprint_WeaponB027=도안: 마스터 스펠블레이드
+tagBlueprint_WeaponB028=도안: 숙련자용 완드
+tagBlueprint_WeaponB029=도안: 숙련자용 셉터
+tagBlueprint_WeaponB030=도안: 마스터 셉터
+
+tagBlueprint_WeaponC001=도안: 마녀추적자
+tagBlueprint_WeaponC002=도안: 시선
+tagBlueprint_WeaponC003=도안: 폭풍의 서슬
+tagBlueprint_WeaponC004=도안: 징조
+tagBlueprint_WeaponC005=도안: 진동
+tagBlueprint_WeaponC006=도안: 주문불꽃 완드
+tagBlueprint_WeaponC007=도안: 화염폭풍 셉터
+tagBlueprint_WeaponC008=도안: 울다'작스
+tagBlueprint_WeaponC009=도안: 강화된 주문불꽃 완드
+tagBlueprint_WeaponC010=도안: 강화된 하늘파편 스펠블레이드
+tagBlueprint_WeaponC011=도안: 강화된 흉물스러운 인형
+tagBlueprint_WeaponC012=도안: 강화된 오그'나페쉬의 암흑 마법서
+
+tagBlueprint_WeaponD001=도안: 아케이넘 시길리스
+tagBlueprint_WeaponD002=도안: 라카'작스
+tagBlueprint_WeaponD003=도안: 징벌
+tagBlueprint_WeaponD004=도안: 불타는 종말의 전령
+tagBlueprint_WeaponD005=도안: 다시 벼려진 베로나스
+tagBlueprint_WeaponD006=도안: 레비아탄
+tagBlueprint_WeaponD007=도안: 올렉스라의 냉기
+tagBlueprint_WeaponD008=도안: 바실리스크 발톱
+tagBlueprint_WeaponD009=도안: 포위분쇄기
+tagBlueprint_WeaponD010=도안: 지배의 눈동자
+tagBlueprint_WeaponD011=도안: 끝없는 폭풍의 필사본
+
+tagBlueprint_WeaponF001=도안: 악마의 곤봉
+tagBlueprint_WeaponF002=도안: 강화된 데블스 크로싱 디펜더
+tagBlueprint_WeaponF003=도안: 로와리 주문연구자 필사본
+tagBlueprint_WeaponF004=도안: 로와리 알바레스트
+tagBlueprint_WeaponF005=도안: 강화된 징조
+tagBlueprint_WeaponF006=도안: 달의 슬레지해머
+tagBlueprint_WeaponF007=도안: 추수자의 방어구
+tagBlueprint_WeaponF008=도안: 강화된 볼트스피터
+tagBlueprint_WeaponF009=도안: 군단 참격검
+tagBlueprint_WeaponF010=도안: 강화된 검은군단 문장방패
+tagBlueprint_WeaponF011=도안: 죽음의 식스건
+tagBlueprint_WeaponF012=도안: 죽음의 응시
+tagBlueprint_WeaponF013=도안: 강화된 수확자의 손길
+tagBlueprint_WeaponF014=도안: 선민의 핏빛방어
+tagBlueprint_WeaponF015=도안: 선민의 분쇄기
+tagBlueprint_WeaponF016=도안: 강화된 오웰의 리볼버
+
+
+tagBlueprint_ArmorB001=도안: 숙련자용 부츠
+tagBlueprint_ArmorB002=도안: 숙련자용 그리브
+tagBlueprint_ArmorB003=도안: 견습기사용 부츠
+tagBlueprint_ArmorB004=도안: 견습기사용 그리브
+tagBlueprint_ArmorB005=도안: 숙련자용 장갑
+tagBlueprint_ArmorB006=도안: 숙련자용 그립
+tagBlueprint_ArmorB007=도안: 견습기사용 건틀렛
+tagBlueprint_ArmorB008=도안: 견습기사용 손목보호대
+tagBlueprint_ArmorB009=도안: 숙련자용 후드
+tagBlueprint_ArmorB010=도안: 숙련자용 서클렛
+tagBlueprint_ArmorB011=도안: 레인저 투구
+tagBlueprint_ArmorB012=도안: 레인저용 캐스크
+
+tagBlueprint_ArmorF001=도안: 악마의 허리끈
+tagBlueprint_ArmorF002=도안: 악마의 허리보호대
+tagBlueprint_ArmorF003=도안: 악마의 거들
+tagBlueprint_ArmorF004=도안: 로와리 허리끈
+tagBlueprint_ArmorF005=도안: 로와리 허리보호대
+tagBlueprint_ArmorF006=도안: 로와리 거들
+tagBlueprint_ArmorF007=도안: 태양의 벨트
+tagBlueprint_ArmorF008=도안: 태양의 허리보호대
+tagBlueprint_ArmorF009=도안: 태양의 거들
+tagBlueprint_ArmorF010=도안: 군단 벨트
+tagBlueprint_ArmorF011=도안: 군단 허리보호대
+tagBlueprint_ArmorF012=도안: 군단 거들
+tagBlueprint_ArmorF013=도안: 죽음의 허리끈
+tagBlueprint_ArmorF014=도안: 죽음의 허리보호대
+tagBlueprint_ArmorF015=도안: 죽음의 거들
+tagBlueprint_ArmorF016=도안: 선민의 허리끈
+tagBlueprint_ArmorF017=도안: 선민의 허리보호대
+tagBlueprint_ArmorF018=도안: 선민의 거들
+
+tagBlueprint_ArmorC001=도안: 근위병의 호위방패
+tagBlueprint_ArmorC002=도안: 근위병의 흉갑
+tagBlueprint_ArmorC003=도안: 탐험가용 튜닉
+tagBlueprint_ArmorC004=도안: 탐험가용 바지
+tagBlueprint_ArmorC005=도안: 훈장달린 견갑
+tagBlueprint_ArmorC006=도안: 눈먼 암살자의 후드
+tagBlueprint_ArmorC007=도안: 계약의 증표인 부정한 면갑
+tagBlueprint_ArmorC008=도안: 화염보관자 자켓
+tagBlueprint_ArmorC009=도안: 칼리도르의 전례복
+tagBlueprint_ArmorC010=도안: 미르미돈 면갑
+tagBlueprint_ArmorC011=도안: 모그드로젠의 투구
+
+tagBlueprint_ArmorD001=도안: 절망의 입
+tagBlueprint_ArmorD002=도안: 굴고스의 공포가면
+tagBlueprint_ArmorD003=도안: 비밀 밀고자
+tagBlueprint_ArmorD004=도안: 심연의 가면
+tagBlueprint_ArmorD005=도안: 거대 서펜트 형상의 서클렛
+tagBlueprint_ArmorD006=도안: 지옥같은 진실의 가면
+tagBlueprint_ArmorD007=도안: 정의의 면갑
+tagBlueprint_ArmorD008=도안: 야수소환사의 후드
+tagBlueprint_ArmorD009=도안: 하빈저의 가면
+tagBlueprint_ArmorD010=도안: 악마사냥꾼의 모자
+tagBlueprint_ArmorD011=도안: 투시자의 모자
+tagBlueprint_ArmorD012=도안: 마코비안의 투구
+tagBlueprint_ArmorD013=도안: 얼즈인의 머리보호구
+tagBlueprint_ArmorD014=도안: 드리그의 후드
+tagBlueprint_ArmorD015=도안: 데스마크 후드
+tagBlueprint_ArmorD016=도안: 이스칸드라의 후드
+tagBlueprint_ArmorD017=도안: 울토스의 후드
+tagBlueprint_ArmorD018=도안: 겨울의 왕의 왕관
+tagBlueprint_ArmorD019=도안: 트로잔의 모자
+tagBlueprint_ArmorD020=도안: 발던의 모자
+tagBlueprint_ArmorD021=도안: 엘드리치의 주목
+tagBlueprint_ArmorD022=도안: 삼신의 증표
+tagBlueprint_ArmorD023=도안: 베놈블레이드 후드
+tagBlueprint_ArmorD024=도안: 검은 화염의 면갑
+tagBlueprint_ArmorD025=도안: 빛의 수호자 투구
+tagBlueprint_ArmorD026=도안: 지옥의 기사 면갑
+tagBlueprint_ArmorD027=도안: 워본 면갑
+tagBlueprint_ArmorD028=도안: 피의 광란자 투구
+
+
+tagBlueprint_AccessoryC001=도안: 메이븐의 렌즈
+tagBlueprint_AccessoryC002=도안: 소용돌이 돌
+tagBlueprint_AccessoryC003=도안: 라피스 만티코라
+tagBlueprint_AccessoryC004=도안: 격렬한 의지의 휘장
+tagBlueprint_AccessoryC005=도안: 근원적 평형의 루비
+tagBlueprint_AccessoryC006=도안: 근원적 평형의 사파이어
+tagBlueprint_AccessoryC007=도안: 강화된 질병주술사의 아뮬렛
+tagBlueprint_AccessoryC008=도안: 강화된 베로나스의 정수
+tagBlueprint_AccessoryC009=도안: 강화된 폭풍우 인장
+tagBlueprint_AccessoryC010=도안: 불길의 실 허리띠
+tagBlueprint_AccessoryC011=도안: 평형의 허리띠
+tagBlueprint_AccessoryC012=도안: 강화된 크토니안 실 허리띠
+
+tagBlueprint_AccessoryD001=도안: 별의 분노 에메랄드
+tagBlueprint_AccessoryD002=도안: 잔인한 새벽의 정수
+tagBlueprint_AccessoryD003=도안: 대재앙의 전령
+tagBlueprint_AccessoryD004=도안: 드리그의 전염병
+tagBlueprint_AccessoryD005=도안: 공허술사의 허리끈
+tagBlueprint_AccessoryD006=도안: 땜장이의 독창성
+tagBlueprint_AccessoryD007=도안: 다시 벼려진 올레론의 사슬
+tagBlueprint_AccessoryD008=도안: 얼즈인의 고통
+tagBlueprint_AccessoryD009=도안: 스펠브레이커 허리보호대
+tagBlueprint_AccessoryD010=도안: 거장의 상징
+tagBlueprint_AccessoryD011=도안: 신성의 휘장
+
+tagBlueprint_MiscA01=도안: 해골 열쇠
+tagBlueprint_MiscA01Desc=선택된 소수에게만 알려졌던 고대의 제작 기술.
+
+tagBlueprint_MaterialA01=도안: 에테르 클러스터
+
+#Relics
+
+tagDeviceBonus=완성 보너스
+tagDeviceTier01=강력한 렐릭
+tagDeviceTier02=초월적 렐릭
+tagDeviceTier03=신화적 렐릭
+
+tagRelicB001=재앙
+tagRelicB001Desc="억제되지 않은 파괴."
+tagRelicB002=몰락
+tagRelicB002Desc="무자비한 초토화."
+tagRelicB003=균형
+tagRelicB003Desc="원소의 볼안한 바다 속에서의 균형."
+tagRelicB004=빙하
+tagRelicB004Desc="얼음의 중심이자 돌의 심장부."
+tagRelicB005=돌풍
+tagRelicB005Desc="아코비아의 하늘 신, 울토스의 격동하는 정신."
+tagRelicB006=지옥불
+tagRelicB006Desc="얼즈인의 냉정한 보복."
+tagRelicB007=오염
+tagRelicB007Desc="케언의 고통의 분명한 실체화."
+tagRelicB008=안식처
+tagRelicB008Desc="고난의 시기 속의 안전한 피신처."
+tagRelicB009=교활
+tagRelicB009Desc="야만적인 힘과 근육 이상의 교묘함과 재치."
+tagRelicB010=광란
+tagRelicB010Desc="올레론의 이름으로 전쟁을 치르는 비길 데 없는 격노."
+tagRelicB011=미스트본 부적
+tagRelicB011Desc="트롤들이 지니고 다니던 모든 적이 죽을 때까지 전투를 향한 분노에 무의식적으로 빠져들게 만드는 부적."
+tagRelicB012=칼날서약 부적
+tagRelicB012Desc="근접 무기 두 개를 동시에 사용하는 기술의 전문가임을 상징한다."
+tagRelicB013=건슬링어 부적
+tagRelicB013Desc="권총 두 자루를 엄청난 정확도로 동시에 쏘는 기술의 전문가임을 상징한다."
+tagRelicB014=해골 부적
+tagRelicB014Desc="이 해골 조각은 로버들에게 정신적 의미를 지닌 문장들과 상징들로 꼼꼼하게 채워져 있다."
+tagRelicB015=상아빛 부적
+tagRelicB016=신성한 부적
+
+tagRelicC001=조정자
+tagRelicC001Desc="정의, 치우치지 않고 공정한..."
+tagRelicC002=성채
+tagRelicC002Desc="물러서게 할 수 없는 방어자이자 약자들의 요새."
+tagRelicC003=학살자
+tagRelicC003Desc="모든 나이트블레이드의 임무들이 흔적 없는 살해로 끝나지는 않는다."
+tagRelicC004=불가항력
+tagRelicC004Desc="부정하지 못할 파괴의 힘."
+tagRelicC005=공포
+tagRelicC005Desc="세계의 어두운 장소들의 끔찍하고 무서운 광경들."
+tagRelicC006=고통
+tagRelicC006Desc="아코비아의 고통의 단계에서 희생된 셀 수 없이 많은 이들의 괴로움이 채워진 유물."
+tagRelicC007=유령
+tagRelicC007Desc="산 자들의 세계를 향한 탈출을 열망하는 사라지지 않는 영혼들."
+tagRelicC008=화재
+tagRelicC008Desc="얼즈인의 숨결."
+tagRelicC009=야성
+tagRelicC009Desc="황야의 부름을 받아들여라."
+tagRelicC010=죽음의 한기
+tagRelicC010Desc="죽음의 차가운 손길은 모든 존재에게서 떠나지 않는다..."
+tagRelicC011=희생
+tagRelicC011Desc="스스로의 피를 흘릴 수 없는 사람들이 그래야 할 필요가 생기지 않도록 피를 흩뿌린다."
+tagRelicC012=열중
+tagRelicC012Desc="거리낌 없이 모든 생각을 버리고 싸운다."
+tagRelicC013=폐허
+tagRelicC013Desc="발걸음 뒤로 폐허 외에는 남지 않는다."
+tagRelicC014=역병
+tagRelicC014Desc="드리그의 아홉 가지 질병들을 다루는 기술."
+tagRelicC015=선조
+tagRelicC015Desc="선조들의 계통에 진정한 잠재력의 단서가 있다."
+tagRelicC016=칼날연무의 부적
+tagRelicC016Desc="근접 무기 두 개를 동시에 사용하는 기술의 권위자임을 상징한다."
+tagRelicC017=습격자의 부적
+tagRelicC017Desc="권총 두 자루를 엄청난 정확도로 동시에 쏘는 기술의 권위자임을 상징한다."
+
+tagRelicD001=구원
+tagRelicD001Desc="이슈타크의 인도의 빛이 고통을 걷어내고 새로운 결의로 가득하게 해준다."
+tagRelicD002=저주
+tagRelicD002Desc="저주와 질병은 장애자도 전사도 똑같이 쓰러지게 만든다는 점에서 무엇과도 비교할 수 없는 위력을 지닌다."
+tagRelicD003=네메시스
+tagRelicD003Desc="달은 나의 길잡이이며, 그림자는 나의 맹우이다. 나는 사냥꾼이다..."
+tagRelicD004=시타델
+tagRelicD004Desc="돌파할 수 없는 요새와 같은 존재가 되어 적들이 그대의 넘을 수 없는 벽들 앞에서 파멸을 맞는 것을 지켜보라."
+tagRelicD005=폭풍의 눈동자
+tagRelicD005Desc="신의 힘을 구하는 자라면 번개 폭풍이 치는 동안 하늘을 올려다 보기만 하면 된다."
+tagRelicD006=앙갚음
+tagRelicD006Desc="공격받을 때마다, 천 배로 앙갚음한다."
+tagRelicD007=징벌
+tagRelicD007Desc="나 자신이 죽음의 구현이니, 나는 사신을 두려워하지 않는다."
+tagRelicD008=얼즈인의 활화산
+tagRelicD008Desc="모든 것을 태우는 불로 세계를 뒤덮어라..."
+tagRelicD009=네크로시스
+tagRelicD009Desc="모든 것의 끝에서, 우리 모두는 동일한 숙명에 닿는다."
+tagRelicD010=아그리빅스의 적의
+tagRelicD010Desc="에테르의 비밀들은 우리들의 것이 되어야 한다. 장막 너머에 무엇이 있든 나는 전혀 두럽지 않다."
+tagRelicD011=망각
+tagRelicD011Desc="나는 텅 빈 공허가 있을 것이라 예상했던 그 너머에서 거대한 암흑을 보았다. 나는 그 암흑이 나를 돌아볼 거라고는 절대 예상하지 못했다."
+tagRelicD012=벨고시안의 학살
+tagRelicD012Desc="나의 나이트블레이드 형제들에게는 그들의 방식이 있고, 내게는 내 방식이 있다. 완전히 결백한 자는 존재하지 않는다."
+tagRelicD013=섬멸
+tagRelicD013Desc="하늘이 곳곳에서 갈라지고, 핏빛이 된 하늘에서 불이 비처럼 떨어질 것이다..."
+tagRelicD014=복수자
+tagRelicD014Desc="그래 맞아, 너의 공격은 강력했어. 하지만 마지막 공격은 나의 것이다."
+tagRelicD015=원시적 본능
+tagRelicD015Desc="나타나라, 나의 수하들이여. 즐길 시간이다..."
+tagRelicD016=솔라엘의 학살
+tagRelicD016Desc="사람들은 인간이 그런 강력한 힘을 지닐 수 없다고 말하였기에, 나는 인간으로 존재하기를 그만두었다"
+tagRelicD017=드리그의 고난
+tagRelicD017Desc="그대가 모르는 가장 중요한 비밀은 인간이 얼마나 망가지기 쉬운 필멸자인가에 대한 그릇된 믿음에 있다."
+tagRelicD018=비스미엘의 지배
+tagRelicD018Desc="나의 보이지 않는 실을 따라 움직이는 저들, 작은 인형들을 보라."
+tagRelicD019=올레론의 격노
+tagRelicD019Desc="피...고뇌...죽음. 그대는 전장의 북소리를 거부할 것인가?"
+tagRelicD020=멘허의 수호
+tagRelicD020Desc="불쾌한 영혼들도 이단자들의 타락한 피로도 대지는 고통스러워하지 않는다. 대지를 지키기 위해 일어서면 케언도 그대와 함께 일어서리라."
+tagRelicD021=이스칸드라의 균형
+tagRelicD021Desc="모든 수련생이 처음으로 배워야하는 것은 마법이 다루는 힘의 원천들의 균형 상태가 우리 모두를 둘러싸고 있다는 점이다."
+tagRelicD022=칼날정복자의 부적
+tagRelicD022Desc="근접 무기 두 개를 동시에 사용하는 기술을 정복한 자를 상징한다."
+tagRelicD023=약탈자의 부적
+tagRelicD023Desc="권총 두 자루를 엄청난 정확도로 동시에 쏘는 기술을 정복한 자를 상징한다."
+
+#Crafting
+tagCraftTabArtifactA=렐릭
+tagCraftTabArtifactB=강력한 힘이 담긴 부적, 유물이나 가공품.
+tagCraftTabMeleeA=근접 무기
+tagCraftTabMeleeB=베거나, 찍거나, 부수는 등의 다양한 방식으로 사용할 수 있는 전쟁용 무기들.
+tagCraftTabRangedA=원거리 무기
+tagCraftTabRangedB=거리를 두고 싸우는 것을 선호하는 이들을 위한 권총, 소총 그리고 크로스보우 등.
+tagCraftTabArmorA=방어구
+tagCraftTabArmorB=다양한 형태와 재료로 이루어진 여러가지 방패, 보조장비 그리고 신체 방어구들.
+tagCraftTabMiscA=장신구 및 소모품
+tagCraftTabMiscB=때로는 대장간의 것이 아닌 기술도 사용되는 여러 물품들.
+
+tagCraftMaterial_RoyalJelly=로얄 젤리
+tagCraftMaterial_RoyalJelly_Desc="옛 아코비아의 커다란 벌들로부터 얻은 분비물의 농축액. 회복의 특성을 지녔다고 널리 알려져 있다."
+tagCraftMaterial_AetherShard=에테르 파편
+tagCraftMaterial_AetherShard_Desc="에테르 크리스탈 군집의 커다란 파편으로, 여전히 사용되지 않은 힘으로 가득하다."
+tagCraftMaterial_AetherCluster=에테르 클러스터
+tagCraftMaterial_AetherCluster_Desc="에테르 파편들을 압축한 덩어리로, 불안정한 에너지로 터질 듯하다."
+tagCraftMaterial_TaintedBrain=오염된 뇌 물질
+tagCraftMaterial_TaintedBrain_Desc="강력한 에테리얼의 조작으로 상처나고 뒤틀린 뇌 조직."
+tagCraftMaterial_BloodChthon=크'톤의 피
+tagCraftMaterial_BloodChthon_Desc="공허의 신의 융합된 정수."
+tagCraftMaterial_AncientHeart=고대의 심장
+tagCraftMaterial_AncientHeart_Desc="섬뜩할 정도의 꾸준한 간격으로 계속해서 고동치고 있다."
+tagCraftMaterial_Manticore=만티코어 눈동자
+tagCraftMaterial_Mancitore_Desc="비길 데 없는 포식자의 날카로운 눈동자."
+tagCraftMaterial_SkeletonKey=해골 열쇠
+tagCraftMaterial_SkeletonKey_Desc="전해지는 이야기들이 맞다면, 이 열쇠라면 거의 모든 고대의 문들을 열 수 있을 것이다."
+tagCraftMaterial_CultistSeal=크'톤의 속박의 문장
+tagCraftMaterial_CultistSeal_Desc="크'톤 사교에서 강력한 괴물들을 물질 세계에 속박하는데 사용하는 일종의 부적."
+
+tagCraftRandomItemDesc=대장장이가 당신의 레벨에 어울리는 매직 혹은 레어 등급의 마법적 물품을 제작할 수 있으며, 매우 희귀한 아이템이 만들어질 가능성도 있습니다.
+tagCraftRandomLegendaryItemDesc=대장장이가 당신의 레벨에 어울리는 전설 등급의 물품을 제작할 수 있으며, 최대 75레벨까지의 물품이 제작 가능합니다.
+tagCraftComponentDesc=숙련자의 제작 기술은 질적으로 우월한 결과물을 얻어낼 수 있습니다.
+tagCraftComponentRareDesc=오랫동안 잊혀진 것으로 생각되었던 특별한 제작 기술.
+tagCraftShardBeronathDesc=강철을 베로나스의 파편 하나로 변형시킨다.
+tagCraftRelicDesc=잔인한 새벽(Grim Dawn)의 시대가 되어 잊혀졌다고 여겨지던 고대의 제작 기술.
+tagCraftTransmuteDesc=용광로의 열과 약간의 연금술을 이용하면, 희귀한 재료를 바탕으로 비슷한 수준의 다른 희귀한 결과물을 만들어낼 수 있습니다.
+tagCraftRandomLegendaryDesc=대장장이가 대상 물품들의 원초적인 마법적 힘을 혼합하여, 최대 75레벨 수준의 전설 등급 아이템 하나를 만들어낼 수 있습니다. 다만 58레벨 이하의 캐릭터들의 경우 에픽 아이템이 대신 만들어집니다.
+tagCraftRandomLegendaryAccessoryDesc=대장장이가 대상 물품들의 원초적인 마법적 힘을 혼합하여, 최대 75레벨 수준의 전설 등급 아이템 하나를 만들어낼 수 있습니다. 다만 58레벨 이하의 캐릭터들의 경우 에픽 아이템이 대신 만들어집니다.
+
+tagCraftRandomAxe=마법부여된 한손 도끼
+tagCraftRandomBlunt=마법부여된 한손 둔기
+tagCraftRandomCrossbow2h=마법부여된 크로스보우
+tagCraftRandomFocus=마법부여된 시전자용 보조장비
+tagCraftRandomGun2h=마법부여된 양손 총기
+tagCraftRandomShield=마법부여된 방패
+tagCraftRandomSword=마법부여된 한손 도검
+tagCraftRandomGun1h=마법부여된 한손 총기
+tagCraftRandomAxe2h=마법부여된 양손 도끼
+tagCraftRandomBlunt2h=마법부여된 양손 둔기
+tagCraftRandomSword2h=마법부여된 양손 도검
+tagCraftRandomCasterWeapon_01=마법부여된 냉기 장비
+tagCraftRandomCasterWeapon_02=마법부여된 화염 장비
+tagCraftRandomCasterWeapon_03=마법부여된 산성 장비
+tagCraftRandomCasterWeapon_04=마법부여된 번개 장비
+tagCraftRandomCasterWeapon_05=마법부여된 생기 장비
+tagCraftRandomCasterWeapon_06=마법부여된 혼돈 장비
+tagCraftRandomCasterWeapon_07=마법부여된 에테르 장비
+
+tagCraftRandomRing=마법부여된 반지
+tagCraftRandomNecklace=마법부여된 목걸이
+tagCraftRandomMedal=마법부여된 메달
+tagCraftRandomBelt=마법부여된 허리띠
+
+tagCraftRandomFeet_Heavy=마법부여된 중갑용 신발
+tagCraftRandomFeet_Light=마법부여된 신발
+tagCraftRandomHands_Heavy=마법부여된 중갑용 장갑
+tagCraftRandomHands_Light=마법부여된 장갑
+tagCraftRandomHead_Caster=마법부여된 시전자용 머리 방어구
+tagCraftRandomHead_Heavy=마법부여된 중갑용 머리 방어구
+tagCraftRandomHead_Light=마법부여된 머리 방어구
+tagCraftRandomLegs_Heavy=마법부여된 중갑용 다리 방어구
+tagCraftRandomLegs_Light=마법부여된 다리 방어구
+tagCraftRandomShoulder_Heavy=마법부여된 중갑용 어깨 방어구
+tagCraftRandomShoulder_Light=마법부여된 어깨 방어구
+tagCraftRandomTorso_Caster=마법부여된 시전자용 상체 방어구
+tagCraftRandomTorso_Heavy=마법부여된 중갑용 상체 방여구
+tagCraftRandomTorso_Light=마법부여된 상체 방어구
+
+tagCraftRandomLegendary_Armor=전설 방어구
+tagCraftRandomLegendary_Accessory=전설 장신구
+tagCraftRandomLegendary_MeleeWeapon=전설 근접 무기
+tagCraftRandomLegendary_RangedWeapon=전설 원거리 무기
+tagCraftRandomLegendary_CasterWeapon=전설 시전자용 장비
+
+
+tagSuppliesIncomplete=Crafting Supply Parts
+tagSuppliesComplete=Crafting Supplies
+tagSuppliesNumber={%s0 - %d1 / %d2}
+tagSuppliesBonus=
+tagSuppliesHelp=[Crafting Supplies are used with Blueprints]
+tagSuppliesError=
+
+
+#Consumables
+
+tagScrollDirections=[마우스 우클릭(게임패드: 아이템 사용)으로 소모]
+tagUseDirections=[마우스 우클릭(게임패드: 아이템 사용)으로 사용]
+
+tagConsumableRoyalJellyBalmBlueprint=제조법: 로얄 젤리 향유
+tagConsumableRoyalJellyBalmBlueprintDesc="로버들만이 알고 있는 약품 제조법."
+tagConsumableBlueprintA01=제조법: 화염흡수의 연고
+tagConsumableBlueprintA02=제조법: 서리장막의 연고
+tagConsumableBlueprintA03=제조법: 폭풍장막의 연고
+tagConsumableBlueprintA04=제조법: 맹독차단 연고
+tagConsumableBlueprintA05=제조법: 피의 결속의 연고
+tagConsumableBlueprintA06=제조법: 영혼파멸의 연고
+tagConsumableBlueprintA07=제조법: 죽음의 속삭임 연고
+tagConsumableBlueprintA08=제조법: 하얀 서리 연고
+tagConsumableBlueprintA09=제조법: 생명력 탈취의 오일
+tagConsumableBlueprintA10=제조법: 독이빨 오일
+tagConsumableBlueprintA11=제조법: 피묻은 송곳니의 오일
+tagConsumableBlueprintA12=제조법: 비전 마법 오일
+tagConsumableBlueprintA13=제조법: 고대의 엘릭서
+tagConsumableBlueprintA13Desc="금지됐던 마법이 약간 사용되는 잊혀진 기술."
+tagConsumableBlueprintA14=제조법: 에테르의 엘릭서
+tagConsumableBlueprintA14Desc="집중을 방해하는 모든 것을 제거하기 위해 길덤 아케이넘에서 완성한 화합물."
+tagConsumableBlueprintA15=제조법: 공허의 엘릭서
+tagConsumableBlueprintA15Desc="크'톤 사교에서 자신들의 신에게 더 가까워지려는 목적으로 자주 사용하던 화합물."
+tagConsumableBlueprintA16=제조법: 추적의 엘릭서
+tagConsumableBlueprintA16Desc="사냥꾼들이 표적을 더 잘 추적하기 위해 사용하던 혼합물."
+tagConsumableBlueprintA17=제조법: 로얄 젤리 추출물
+tagConsumableBlueprintA18=제조법: 로얄 젤리 에센스
+tagConsumableBlueprintA19=제조법: 로얄 젤리 연고
+tagConsumableBlueprintA19Desc="로버들만이 알고 있는 약품 제조법."
+tagConsumableBlueprintA20=제조법: 로얄 젤리 고급연고
+tagConsumableBlueprintA20Desc="로버들만이 알고 있는 약품 제조법."
+
+tagConsumable_RoyalJellyBalm=로얄 젤리 향유
+tagConsumable_RoyalJellyBalmDesc="로얄 젤리를 농축시켜 만든 고통을 가라앉히는 화합물."
+tagConsumableA01=화염흡수의 연고
+tagConsumableA01Desc="불 붙는 것을 막아주지만 냄새가 불쾌한 화합물."
+tagConsumableA02=서리장막의 연고
+tagConsumableA02Desc="만져보면 이상하게 따뜻한 진한 화합물."
+tagConsumableA03=폭풍장막의 연고
+tagConsumableA03Desc="전기 에너지를 산란시키는 점액성 화합물."
+tagConsumableA04=맹독차단 연고
+tagConsumableA04Desc="대부분의 독소들을 중화시켜주는 달콤한 냄새의 화합물."
+tagConsumableA05=피의 결속의 연고
+tagConsumableA05Desc="진한 피의 붉은 색과 검은색이 끊임없이 번갈아 나타나는 뻑뻑한 화합물."
+tagConsumableA06=영혼파멸의 연고
+tagConsumableA06Desc="기묘한 온기를 뿜어내며 희미한 빛을 내는 화합물."
+tagConsumableA07=죽음의 속삭임 연고
+tagConsumableA07Desc="사용한 뒤에도 거품을 내며 움직이는 기분나쁜 화합물."
+tagConsumableA08=하얀 서리 연고
+tagConsumableA08Desc="만지면 데일 것 같이 뜨거운 유성 화합물."
+tagConsumableA09=생명력 탈취의 오일
+tagConsumableA09Desc="노리는 표적에게서 생명력을 끌어오기 위해 사용되는 거부감 느껴지는 독소."
+tagConsumableA10=독이빨 오일
+tagConsumableA10Desc="독을 가진 다양한 생물들로부터 얻은 혼합물에 슬리스의 맹독을 첨가한 지독한 혼합물."
+tagConsumableA11=피묻은 송곳니 오일
+tagConsumableA11Desc="표적에게 심각한 출혈을 일으키는 오염된 독소."
+tagConsumableA12=비전 마법 오일
+tagConsumableA12Desc="무기들의 집중도를 향상시키기 위해 길덤 아케이넘이 채택한 혼합물."
+tagConsumableA13=고대인의 엘릭서
+tagConsumableA13Desc="케언의 고대의 야수들에게서 얻은 강력한 엘릭서."
+tagConsumableA14=에테르의 엘릭서
+tagConsumableA14Desc="에테르의 정수에서 얻은 강력한 엘릭서."
+tagConsumableA15=공허의 엘릭서
+tagConsumableA15Desc="사악한 피의 마법으로 얻은 강력한 엘릭서."
+tagConsumableA16=추적의 엘릭서
+tagConsumableA16Desc="사냥꾼이나 암살자들이 표적을 더 잘 추적하기 위해 채택하던 강력한 엘릭서."
+tagConsumableA17=로얄 젤리 추출물
+tagConsumableA17Desc="정신을 날카로운 상태로 유지시켜주는 농축된 로얄 젤리."
+tagConsumableA18=로얄 젤리 에센스
+tagConsumableA18Desc="로얄 젤리로 만든 생기를 회복시키는 강장제."
+tagConsumableA19=로얄 젤리 연고
+tagConsumableA19Desc="로얄 젤리를 농축시켜 만든 고통을 가라앉히는 화합물."
+tagConsumableA20=로얄 젤리 고급연고
+tagConsumableA20Desc="로얄 젤리를 농축시켜 만든 고통을 가라앉히는 화합물."
+tagConsumableA21=
+tagConsumableA21Desc=
+tagConsumableA22=에테르 클러스터
+tagConsumableA22Desc="기묘한 에너지로 진동하는 에테르 크리스탈의 커다란 다발."
+
+tagConsumableF01=바위심장의 오일
+tagConsumableF01Desc="방패의 방어력을 강화하고 사용의 부담을 줄여주는 오일."
+tagConsumableF02=슬리스혈액 물약
+tagConsumableF02Desc="병을 산산조각내 주위에 사악한 독 구름을 방출한다."
+tagConsumableF03=로와리 오일
+tagConsumableF03Desc="옛 아코비아를 돌아다니는 사악한 언데드로부터 얻은 독소."
+tagConsumableF04=야수의 분노 물약
+tagConsumableF04Desc="약병을 깨트리면, 사용자의 수하들이 광란 상태에 돌입한다."
+tagConsumableF05=집게벌레 오일
+tagConsumableF05Desc="집게벌레의 독 분비관으로부터 추출한 독소."
+tagConsumableF06=용기의 물약
+tagConsumableF06Desc="약병을 깨트리면, 주변의 모든 동료들에게 용기를 불어넣어준다."
+tagConsumableF07=심장추적자 오일
+tagConsumableF07Desc="검은군단 암살자들이 고안한 독소."
+tagConsumableF08=칼날 방벽 물약
+tagConsumableF08Desc="약병을 깨트리면, 사용자의 주위에 칼날들이 소환되어 소용돌이를 이룬다."
+tagConsumableF09=아이스블러드 오일
+tagConsumableF09Desc="사용자의 적들의 피를 얼어붙게 만드는 마법적 독소."
+tagConsumableF10=서리의 보호 물약
+tagConsumableF10Desc="약병을 깨트리면, 사용자의 주위에 뼈도 차가워지게 할 정도의 바람이 방출된다."
+tagConsumableF11=카이몬의 성스러운 오일
+tagConsumableF11Desc="적들을 불태우기 위해 카이몬이 직접 축복한 성스러운 오일."
+tagConsumableF12=카이몬의 분노 물약
+tagConsumableF12Desc="약병을 깨트리면, 카이몬의 신성한 분노가 사용자의 주위에 방출된다."
+
+tagConsumable_DevotionReset=정화의 물약
+tagConsumable_DevotionReset_Desc="정신을 맑게하여 새로운 영혼의 여정을 위해 준비되도록 만들어준다."
+
+#DLC
+tagDLCIllusionRemoval=환영제거 분말
+tagDLCIllusionRemovalDesc="100% 정품인, 환영제거 분말로 가득차 있다."
+tagDLCIllusionA01=환영: 흰색 가발
+tagDLCA01=흰색 가발
+tagDLCA01Desc="세련된 스타일의 종결템" 
+tagDLCIllusionA02=환영: 스워시버클러의 코트
+tagDLCA02=스워시버클러의 코트
+tagDLCA02Desc="모험가라면 누구라도 좋아할 멋진 물건."
+tagDLCIllusionA03=환영: 후원자의 영예
+tagDLCA03=후원자의 영예
+tagDLCA03Desc="후원자의 지극한 헌신에 대한 표창."
+tagDLCIllusionA04=환영: 킥스타터 종군훈장
+tagDLCA04=킥스타터 종군 훈장
+tagDLCA04Desc="2012년 위대한 킥스타터전쟁 종군훈장."
+tagDLCIllusionA05=환영: 킥스타터 고참훈장
+tagDLCA05=킥스타터 고참 훈장
+tagDLCA05Desc="2012년 위대한 킥스타터전쟁 고참훈장."
+tagDLCIllusionA06=환영: 킥스타터 장교훈장
+tagDLCA06=킥스타터 장교훈장
+tagDLCA06Desc="2012년 위대한 킥스타터전쟁 장교훈장."
+tagDLCIllusionA07=환영: 제독 모자
+tagDLCA07=제독 모자
+tagDLCA07Desc="육지와 해상에서 진군지휘시 썼던 모자."
+tagDLCIllusionA08=환영: 남부 장군 투구
+tagDLCA08=남부 장군 투구
+tagDLCA08Desc="흔들리지 않는 충성심을 고취시키는 투구."
+tagDLCIllusionA09=환영: 약탈자의 공포 투구
+tagDLCA09=약탈자의 공포 투구
+tagDLCA09Desc="이 투구는 수많은 혈투를 겪었다."
+tagDLCIllusionA10=환영: 위엄있는 전사 투구
+tagDLCA10=위엄있는 전사 투구
+tagDLCA10Desc="모든 점에서 존경받는 투구."
+tagDLCConsumableA01=병조림 윌'오'위습
+tagDLCConsumableA01Desc="병에 갇힌 무해한 정령."
+tagDLCConsumableA01PetSkill01=위습 오라
+tagDLCConsumableA01PetSkill01Desc=위습은 어둠을 관통하는 따뜻한 빛으로 당신의 주위를 맴돈다.
+tagDLCConsumableA02=버위치 맥주
+tagDLCConsumableA02Desc="심약자는 복용을 삼가 주십시오. 부작용 : 구역질, 구토, 어젯밤 있었던 장소의 망각."
+
+tagDLCConsumableA03=신성한 크레이트
+tagDLCConsumableA03Desc="물리 차원에 묶인, 신성한 창조물."
+tagDLCConsumableA03PetSkill01=크레이트 현신
+
+tagDLCIllusionA11=환영: 흑기사의 부츠
+tagDLCA11=흑기사의 부츠
+tagDLCA11Desc="사악한 흑기사의 방어구 중 일부."
+tagDLCIllusionA12=환영: 흑기사의 건틀렛
+tagDLCA12=흑기사의 건틀렛
+tagDLCIllusionA13=환영: 흑기사의 투구
+tagDLCA13=흑기사의 투구
+tagDLCIllusionA14=환영: 흑기사의 다리보호대
+tagDLCA14=흑기사의 다리보호대
+tagDLCIllusionA15=환영: 흑기사의 방패
+tagDLCA15=흑기사의 방패
+tagDLCIllusionA16=환영: 흑기사의 어깨보호대
+tagDLCA16=흑기사의 어깨보호대
+tagDLCIllusionA17=환영: 흑기사의 검
+tagDLCA17=흑기사의 검
+tagDLCIllusionA18=환영: 흑기사의 가슴보호대
+tagDLCA18=흑기사의 가슴보호대
+
+tagDLCIllusionA19=환영: 은기사의 부츠
+tagDLCA19=은기사의 부츠
+tagDLCA19Desc="신성한 은기사 방어구 중 일부."
+tagDLCIllusionA20=환영: 은기사의 건틀렛
+tagDLCA20=은기사의 건틀렛
+tagDLCIllusionA21=환영: 은기사의 투구
+tagDLCA21=은기사의 투구
+tagDLCIllusionA22=환영: 은기사의 다리보호대
+tagDLCA22=은기사의 다리보호대
+tagDLCIllusionA23=환영: 은기사의 방패
+tagDLCA23=은기사의 방패
+tagDLCIllusionA24=환영: 은기사의 어깨보호대
+tagDLCA24=은기사의 어깨보호대
+tagDLCIllusionA25=환영: 은기사의 검
+tagDLCA25=은기사의 검
+tagDLCIllusionA26=환영: 은기사의 가슴보호대
+tagDLCA26=은기사의 가슴보호대
+
+tagDLCIllusionA27=환영: 용장군의 창
+tagDLCA27=용장군의 창
+tagDLCA27Desc="존엄한 용장군의 소장품 중 일부."
+tagDLCIllusionA28=환영: 용장군의 투구
+tagDLCA28=용장군의 투구
+tagDLCIllusionA29=환영: 용장군의 갑옷
+tagDLCA29=용장군의 갑옷
+
+tagDLCIllusionA30=환영: 백마법사의 지팡이
+tagDLCA30=백마법사의 지팡이
+tagDLCA30Desc="정체 모를 백마법사의 복장 중 일부."
+tagDLCIllusionA31=환영: 백마법사의 모자
+tagDLCA31=백마법사의 모자
+tagDLCIllusionA32=환영: 백마법사의 로브
+tagDLCA32=백마법사의 로브
+
+tagDLCIllusionA33=환영: 흑마법사의 지팡이
+tagDLCA33=흑마법사의 지팡이
+tagDLCA33Desc="사악한 흑마법사의 복장 중 일부."
+tagDLCIllusionA34=환영: 흑마법사의 모자
+tagDLCA34=흑마법사의 모자
+tagDLCIllusionA35=환영: 흑마법사의 로브
+tagDLCA35=흑마법사의 로브
+
+tagDLCIllusionA36=환영: 거대 늑대 부츠
+tagDLCA36=거대 늑대 부츠
+tagDLCA36Desc="흉포한 거대 늑대 갑옷의 일부."
+tagDLCIllusionA37=환영: 거대 늑대 건틀렛
+tagDLCA37=거대 늑대 건틀렛
+tagDLCIllusionA38=환영: 거대 늑대 투구
+tagDLCA38=거대 늑대 투구
+tagDLCIllusionA39=환영: 거대 늑대 다리보호대
+tagDLCA39=거대 늑대 다리보호대
+tagDLCIllusionA40=환영: 거대 늑대 방패
+tagDLCA40=거대 늑대 방패
+tagDLCIllusionA41=환영: 거대 늑대 어깨보호대
+tagDLCA41=거대 늑대 어깨보호대
+tagDLCIllusionA42=환영: 거대 늑대 이빨
+tagDLCA42=거대 늑대 이빨
+tagDLCIllusionA43=환영: 거대 늑대 가슴보호대
+tagDLCA43=거대 늑대 가슴보호대
+
+tagDLCIllusionB01=환영: 모그드로젠의 신성한 도끼
+tagDLCB01=모그드로젠의 신성한 도끼
+tagDLCB01Desc="신성한 모그드로젠 방어구의 일부."
+tagDLCIllusionB02=환영: 모그드로젠의 신성한 투구
+tagDLCB02=모그드로젠의 신성한 투구
+tagDLCIllusionB03=환영: 모그드로젠의 신성한 갑옷
+tagDLCB03=모그드로젠의 신성한 갑옷
+tagDLCIllusionB04=환영: 모그드로젠의 신성한 어깨보호대
+tagDLCB04=모그드로젠의 신성한 어깨보호대
+tagDLCIllusionB05=환영: 모그드로젠의 신성한 손목보호대
+tagDLCB05=모그드로젠의 신성한 손목보호대
+tagDLCIllusionB06=환영: 모그드로젠의 신성한 부츠
+tagDLCB06=모그드로젠의 신성한 부츠
+
+tagDLCIllusionB07=환영: 라토쉬의 신성한 지팡이
+tagDLCB07=라토쉬의 신성한 지팡이
+tagDLCB07Desc="신성한 라토쉬 복장의 일부."
+tagDLCIllusionB08=환영: 라토쉬의 신성한 가면
+tagDLCB08=라토쉬의 신성한 가면
+tagDLCIllusionB09=환영: 라토쉬의 신성한 로브
+tagDLCB09=라토쉬의 신성한 로브
+tagDLCIllusionB10=환영: 라토쉬의 신성한 망토
+tagDLCB10=라토쉬의 신성한 망토
+
+tagDLCIllusionB11=환영: 엠피리온의 신성한 창
+tagDLCB11=엠피리온의 신성한 창
+tagDLCB11Desc="신성한 엠피리온 방어구의 일부."
+tagDLCIllusionB12=환영: 엠피리온의 신성한 투구
+tagDLCB12=엠피리온의 신성한 투구
+tagDLCIllusionB13=환영: 엠피리온의 신성한 갑옷
+tagDLCB13=엠피리온의 신성한 갑옷
+tagDLCIllusionB14=환영: 엠피리온의 신성한 어깨보호대
+tagDLCB14=엠피리온의 신성한 어깨보호대
+tagDLCIllusionB15=환영: 엠피리온의 신성한 건틀렛
+tagDLCB15=엠피리온의 신성한 건틀렛
+tagDLCIllusionB16=환영: 엠피리온의 신성한 다리보호대
+tagDLCB16=엠피리온의 신성한 다리보호대
+tagDLCIllusionB17=환영: 엠피리온의 신성한 부츠
+tagDLCB17=엠피리온의 신성한 부츠
+
+tagDLCIllusionB18=환영: 크'톤의 신성한 면갑
+tagDLCB18=크'톤의 신성한 면갑
+tagDLCB18Desc="신성한 크'톤 도구의 일부."
+tagDLCIllusionB19=환영: 크'톤의 신성한 사슬
+tagDLCB19=크'톤의 신성한 사슬
+tagDLCIllusionB20=환영: 크'톤의 신성한 망토
+tagDLCB20=크'톤의 신성한 망토
+tagDLCIllusionB21=환영: 크'톤의 신성한 장갑
+tagDLCB21=크'톤의 신성한 장갑
+
+tagDLCIllusionB23=환영: 5인의 의회의 시선
+tagDLCB23=5인의 의회의 시선
+tagDLCB23Desc="5인의 의회 전례복의 일부."
+tagDLCIllusionB24=환영: 5인의 의회의 망토
+tagDLCB24=5인의 의회의 망토
+tagDLCIllusionB25=환영: 5인의 의회의 로브
+tagDLCB25=5인의 의회의 로브
+
+
+#ItemNote
+
+tagNoteHelp=[마우스 우클릭(게임패드: 아이템 사용)으로 읽기]
+tagNoteKnown=[이미 읽은 것입니다]
+tagNoteExcerpt="{%t}.."
+
+#ItemEnchantment
+
+tagEnchanted=증강된 
+tagEnchantmentName=증강제
+tagEnchantmentUsable=[마우스 우클릭(게임패드: 아이템 사용)으로 증강제 사용]
+tagEnchantmentUnusable=[사용불가 - 조건이 충족되지 않았습니다]
+tagEnchantmentConfirmation=이 증강제를 사용하시겠습니까?
+tagEnchantmentOverwrite=기존 증강제를 대체하시겠습니까?
+tagEnchantmentSoulboundConfirmation=이 증강제를 사용하시겠습니까? 증강제의 사용은 대상 아이템에 귀속 효과를 부여합니다.
+tagEnchantmentSoulboundOverwrite=기존 증강제를 대체하시겠습니까? 증강제의 사용은 대상 아이템에 귀속 효과를 부여합니다.
+tagEnchantmentSoulboundRemoval=기존 증강제를 대체하시겠습니가? 이 증강제는 기존 증강제가 부여한 귀속 효과를 제거합니다.
+
+tagEnchantTest=TEST NAME
+tagEnchantTestDesc="A test description."^w^n(Used in rings)
+
+tagEnchantA001A=만티코어 맹독
+tagEnchantA001B=만티코어 맹독 II
+tagEnchantA001C=만티코어 맹독 III
+tagEnchantA001Desc="만티코어로부터 추출된 피부에 닿으면 화상을 입힐 만큼 강력한 독소."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantA002A=강력한 만티코어 맹독
+tagEnchantA002B=강력한 만티코어 맹독 II
+tagEnchantA002C=강력한 만티코어 맹독 III
+tagEnchantA002Desc="만티코어로부터 추출된 피부에 닿으면 화상을 입힐 만큼 강력한 독소."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantA003A=공허의 괴물 가루
+tagEnchantA003B=공허의 괴물 가루 II
+tagEnchantA003C=공허의 괴물 가루 III
+tagEnchantA003Desc="크토닉 괴물들의 말라붙은 잔해에서 얻은 고운 가루."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantA004A=강력한 공허의 괴물 가루
+tagEnchantA004B=강력한 공허의 괴물 가루 II
+tagEnchantA004C=강력한 공허의 괴물 가루 III
+tagEnchantA004Desc="크토닉 괴물들의 말라붙은 잔해에서 얻은 고운 가루."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantA005A=검은강철 가루
+tagEnchantA005B=검은강철 가루 II
+tagEnchantA005C=검은강철 가루 III
+tagEnchantA005Desc="검은군단에서 제조법을 비밀에 부치고 있는, 철과 다른 다양한 광물의 혼합물."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantA006A=강력한 검은강철 가루
+tagEnchantA006B=강력한 검은강철 가루 II
+tagEnchantA006C=강력한 검은강철 가루 III
+tagEnchantA006Desc="검은군단에서 제조법을 비밀에 부치고 있는, 철과 다른 다양한 광물의 혼합물."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantA007A=에테르 먼지
+tagEnchantA007B=에테르 먼지 II
+tagEnchantA007C=에테르 먼지 III
+tagEnchantA007Desc="일정량 이상의 농축된 소금에 노출된 에테리얼의 잔해에서 얻은 가루."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantA008A=강력한 에테르 먼지
+tagEnchantA008B=강력한 에테르 먼지 II
+tagEnchantA008C=강력한 에테르 먼지 III
+tagEnchantA008Desc="일정량 이상의 농축된 소금에 노출된 에테리얼의 잔해에서 얻은 가루."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantA009A=아코비아 장미 가루
+tagEnchantA009B=아코비아 장미 가루 II
+tagEnchantA009C=아코비아 장미 가루 III
+tagEnchantA009Desc="옛 아코비아의 산봉우리들의 높은 곳에서만 자란다고 알려진 강렬한 붉은 색의 꽃에서 얻은 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA010A=부패의 꽃 가루
+tagEnchantA010B=부패의 꽃 가루 II
+tagEnchantA010C=부패의 꽃 가루 III
+tagEnchantA010Desc="살육과 부패의 한복판에서 자라는 것이 발견된 회갈색의 꽃에서 얻은 가루.."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA011A=슬리스잡초 가루
+tagEnchantA011B=슬리스잡초 가루 II
+tagEnchantA011C=슬리스잡초 가루 III
+tagEnchantA011Desc="늪지대나 쓰레기장 주변에서 흔하게 발견되는 잡초에서 얻은 불쾌한 냄새를 내는 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA012A=폭풍꼬리 독사의 맹독
+tagEnchantA012B=폭풍꼬리 독사의 맹독 II
+tagEnchantA012C=폭풍꼬리 독사의 맹독 III
+tagEnchantA012Desc="폭풍꼬리 독사의 독에서 조심스럽게 추출해낸, 에너지로 불꽃이 튀는 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA013A=아코비아 해골부스러기
+tagEnchantA013B=아코비아 해골부스러기 II
+tagEnchantA013C=아코비아 해골부스러기 III
+tagEnchantA013Desc="로버 장로들에 의해 안전하게 다뤄진, 저주받은 아코비아인들의 부서진 해골들."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantA014A=강력한 아코비아 해골부스러기
+tagEnchantA014B=강력한 아코비아 해골부스러기 II
+tagEnchantA014C=강력한 아코비아 해골부스러기 III
+tagEnchantA014Desc="로버 장로들에 의해 안전하게 다뤄진, 저주받은 아코비아인들의 부서진 해골들."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantA015A=트롤 사마귀 가루
+tagEnchantA015B=트롤 사마귀 가루 II
+tagEnchantA015C=트롤 사마귀 가루 III
+tagEnchantA015Desc="아주 오래 산 트롤들의 사마귀 상처에서 얻은 가루. 장갑을 착용하고 다뤄야만 한다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantA016A=강력한 트롤 사마귀 가루
+tagEnchantA016B=강력한 트롤 사마귀 가루 II
+tagEnchantA016C=강력한 트롤 사마귀 가루 III
+tagEnchantA016Desc="아주 오래 산 트롤들의 사마귀 상처에서 얻은 가루. 장갑을 착용하고 다뤄야만 한다."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantA017A=가시등해골쥐의 가시
+tagEnchantA017B=가시등해골쥐의 가시 II
+tagEnchantA017C=가시등해골쥐의 가시 III
+tagEnchantA017Desc="가시등해골쥐의 가시들에서 얻은 거친 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA018A=슬리스의 맹독
+tagEnchantA018B=슬리스의 맹독 II
+tagEnchantA018C=슬리스의 맹독 III
+tagEnchantA018Desc="슬리스 여족장의 맹독성 타액으로부터 추출한 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA019A=응시체의 눈동자
+tagEnchantA019B=응시체의 눈동자 II
+tagEnchantA019C=응시체의 눈동자 III
+tagEnchantA019Desc="에테리얼 응시체들의 부서진 눈동자들에서 얻은 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA020A=시체악마의 촉수
+tagEnchantA020B=시체악마의 촉수 II
+tagEnchantA020C=시체악마의 촉수 III
+tagEnchantA020Desc="주머니 안에 담긴 가루가, 마치 아직 살아있기라도 한 것처럼 계속 모양이 변한다.."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA021A=공허의 덩굴 가루
+tagEnchantA021B=공허의 덩굴 가루 II
+tagEnchantA021C=공허의 덩굴 가루 III
+tagEnchantA021Desc="크'톤의 공허 곳곳에서 적극적으로 확산되는 것이 발견된 덩굴에서 얻은 가루."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantA022A=강력한 공허의 덩굴 가루
+tagEnchantA022B=강력한 공허의 덩굴 가루 II
+tagEnchantA022C=강력한 공허의 덩굴 가루 III
+tagEnchantA022Desc="크'톤의 공허 곳곳에서 적극적으로 확산되는 것이 발견된 덩굴에서 얻은 가루."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantA023A=돌엄니멧돼지 발굽
+tagEnchantA023B=돌엄니멧돼지 발굽 II
+tagEnchantA023C=돌엄니멧돼지 발굽 III
+tagEnchantA023Desc="돌엄니멧돼지의 부서진 발굽에서 얻은 가루. 얻는 과정에서 무거운 망치로 여러 차례 내리쳐야 한다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantA024A=강력한 돌엄니멧돼지 발굽
+tagEnchantA024B=강력한 돌엄니멧돼지 발굽 II
+tagEnchantA024C=강력한 돌엄니멧돼지 발굽 III
+tagEnchantA024Desc="돌엄니멧돼지의 부서진 발굽에서 얻은 가루. 얻는 과정에서 무거운 망치로 여러 차례 내리쳐야 한다."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantA025A=집게벌레 키틴
+tagEnchantA025B=집게벌레 키틴 II
+tagEnchantA025C=집게벌레 키틴 III
+tagEnchantA025Desc="집게벌레 외골격판들에 다양한 산성 물질 처리를 한 뒤에 얻어낸 가루."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantA026A=강력한 집게벌레 키틴
+tagEnchantA026B=강력한 집게벌레 키틴 II
+tagEnchantA026C=강력한 집게벌레 키틴 III
+tagEnchantA026Desc="집게벌레 외골격판들에 다양한 산성 물질 처리를 한 뒤에 얻어낸 가루."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantA027A=비를 부르는 가루
+tagEnchantA027B=비를 부르는 가루 II
+tagEnchantA027C=비를 부르는 가루 III
+tagEnchantA027Desc="전설들에서 언급되는 어떤 주술적인 가루는, 마을의 주술사가 야외에 피운 불길에 던져넣으면 보름 안에 비를 불러왔다고 한다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantA028A=강력한 비를 부르는 가루
+tagEnchantA028B=강력한 비를 부르는 가루 II
+tagEnchantA028C=강력한 비를 부르는 가루 III
+tagEnchantA028Desc="전설들에서 언급되는 어떤 주술적인 가루는, 마을의 주술사가 야외에 피운 불길에 던져넣으면 보름 안에 비를 불러왔다고 한다."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantA029A=신성한 불꽃
+tagEnchantA029B=신성한 불꽃 II
+tagEnchantA029C=신성한 불꽃 III
+tagEnchantA029Desc="카이몬의 선민 교단에서 의식 중에 사용하는 가루. 화로에 던져지면, 불꽃튀는 장작들 속에서 폭발한다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA030A=축복내려진 유골
+tagEnchantA030B=Blessed Ashes II
+tagEnchantA030C=Blessed Ashes III
+tagEnchantA030Desc="카이몬의 선민의 사망한 교단원을 화장한 유골."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA031A=축성받은 은
+tagEnchantA031B=축성받은 은 II
+tagEnchantA031C=축성받은 은 III
+tagEnchantA031Desc="끔찍한 크토니안들과의 전투를 위해 신성한 불꽃에 의해 축성받은 은."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA032A=의식용 소금
+tagEnchantA032B=의식용 소금 II
+tagEnchantA032C=의식용 소금 III
+tagEnchantA032Desc="사령술 의식들에 쓰이는 소금으로, 의식을 위한 원의 윤곽을 그려서 배회하는 영혼들을 차단하는 데에 자주 사용된다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA033A=괴사한 피부
+tagEnchantA033B=괴사한 피부 II
+tagEnchantA033C=괴사한 피부 III
+tagEnchantA033Desc="사망한지 오래된 자의 피부에서 얻은 가루로, 사령술 의식들의 동력으로 사용된다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA034A=필멸의 고리
+tagEnchantA034B=필멸의 고리 II
+tagEnchantA034C=필멸의 고리 III
+tagEnchantA034Desc="금지된 의식들에 의해 물리적 형태로 응축된, 배회하는 영혼들의 정수."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA035A=겨울꽃 가루
+tagEnchantA035B=겨울꽃 가루 II
+tagEnchantA035C=겨울꽃 가루 III
+tagEnchantA035Desc="이상하게도 가혹하게 추운 겨울의 몇 달 동안에만 피는 것으로 확인된 엷은 푸른 색의 꽃에서얻은 가루."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantA036A=강력한 겨울꽃 가루
+tagEnchantA036B=강력한 겨울꽃 가루 II
+tagEnchantA036C=강력한 겨울꽃 가루 III
+tagEnchantA036Desc="이상하게도 가혹하게 추운 겨울의 몇 달 동안에만 피는 것으로 확인된 엷은 푸른 색의 꽃에서얻은 가루."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantA037A=마녀의 가루
+tagEnchantA037B=마녀의 가루 II
+tagEnchantA037C=마녀의 가루 III
+tagEnchantA037Desc="비록 불법적인 기술에 의한 것이지만, 이 가루는 군단의 소환사들 사이에서 쓰임새를 증명해왔다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantA038A=강력한 마녀의 가루
+tagEnchantA038B=강력한 마녀의 가루 II
+tagEnchantA038C=강력한 마녀의 가루 III
+tagEnchantA038Desc="비록 불법적인 기술에 의한 것이지만, 이 가루는 군단의 소환사들 사이에서 쓰임새를 증명해왔다."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantA039A=소환사의 가루
+tagEnchantA039B=소환사의 가루 II
+tagEnchantA039C=소환사의 가루 III
+tagEnchantA039Desc="로버들이 다양한 의식들과 명상 기간들 중에 사용하던 가루. 소환의 의식들에서도 놀라울 정도로 효과적이다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA040A=균열사냥개 소금
+tagEnchantA040B=균열사냥개 소금 II
+tagEnchantA040C=균열사냥개 소금 III
+tagEnchantA040Desc="균열사냥개 무리어미의 빛을 내듯 반짝이는 피부에서 추출한 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA041A=야수 조련사의 가루
+tagEnchantA041B=야수 조련사의 가루 II
+tagEnchantA041C=야수 조련사의 가루 III
+tagEnchantA041Desc="홈스테드의 농부들이 야생동물들을 달래어 따르게 만들기 위해 사용하던 진정제."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantA042A=강력한 야수 조련사의 가루
+tagEnchantA042B=강력한 야수 조련사의 가루 II
+tagEnchantA042C=강력한 야수 조련사의 가루 III
+tagEnchantA042Desc="홈스테드의 농부들이 야생동물들을 달래어 따르게 만들기 위해 사용하던 진정제."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantA043A=불의 꽃 가루
+tagEnchantA043B=불의 꽃 가루 II
+tagEnchantA043C=불의 꽃 가루 III
+tagEnchantA043Desc="화산 아래 지역에서 자주 발견되는, 만져보면 뜨거운 꽃에서 얻은 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA044A=폭풍의 가루
+tagEnchantA044B=폭풍의 가루 II
+tagEnchantA044C=폭풍의 가루 III
+tagEnchantA044Desc="내리꽃히는 번개로부터 나오는 힘으로 불꽃을 내는 푸른색의 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA045A=속박의 가루
+tagEnchantA045B=속박의 가루 II
+tagEnchantA045C=속박의 가루 III
+tagEnchantA045Desc="언데드 개체들을 그들의 의지에 묶어두기 위해 죽음의 감시자 교단에서 사용하는 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantA046A=싸늘한 마음의 가루
+tagEnchantA046B=싸늘한 마음의 가루 II
+tagEnchantA046C=싸늘한 마음의 가루 III
+tagEnchantA046Desc="죽은 자로부터 얻은 가루. 주위의 공기로부터 쉽게 열기를 빨아들이는 듯 하다."^w^n(반지오 목걸이에 적용 가능)
+
+tagEnchantB001A=얼그림의 술책
+tagEnchantB001B=얼그림의 술책 II
+tagEnchantB001BC=얼그림의 술책 III
+tagEnchantB001Desc="제국제일검이었던 그가 무엇을 조합해서 이 마술적인 가루를 만들었는지 확실히 아는 사람은 아무도 없지만, 결과물에 대해 의문을 갖는 사람도 아무도 없다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB002A=강력한 얼그림의 술책
+tagEnchantB002B=강력한 얼그림의 술책 II
+tagEnchantB002BC=강력한 얼그림의 술책 III
+tagEnchantB002Desc="제국제일검이었던 그가 무엇을 조합해서 이 마술적인 가루를 만들었는지 확실히 아는 사람은 아무도 없지만, 결과물에 대해 의문을 갖는 사람도 아무도 없다."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB003A=크리드의 솜씨
+tagEnchantB003B=크리드의 솜씨 II
+tagEnchantB003BC=크리드의 솜씨 III
+tagEnchantB003Desc="인퀴지터가 크리드가 자신이 가장 신뢰하는 동료들에게만 제공했던 가루로, 불꽃이 튈 정도의 비전 마법 에너지가 들어있다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB004A=강력한 크리드의 솜씨
+tagEnchantB004B=강력한 크리드의 솜씨 II
+tagEnchantB004BC=강력한 크리드의 솜씨 III
+tagEnchantB004Desc="인퀴지터가 크리드가 자신이 가장 신뢰하는 동료들에게만 제공했던 가루로, 불꽃이 튈 정도의 비전 마법 에너지가 들어있다."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB005A=올레론의 열정
+tagEnchantB005B=올레론의 열정 II
+tagEnchantB005BC=올레론의 열정 III
+tagEnchantB005Desc="일부 검은군단 부대들은 전장으로 돌격할 때에 전쟁의 신의 이름을 외치곤 한다. 지휘관급에게만 지급되는 이 강화제는 이 군단의 수호신을 섬기는 의미에서 이름 붙여졌다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB006A=강력한 올레론의 열정
+tagEnchantB006B=강력한 올레론의 열정 II
+tagEnchantB006BC=강력한 올레론의 열정 III
+tagEnchantB006Desc="일부 검은군단 부대들은 전장으로 돌격할 때에 전쟁의 신의 이름을 외치곤 한다. 지휘관급에게만 지급되는 이 강화제는 이 군단의 수호신을 섬기는 의미에서 이름붙여졌다."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB007A=에테르폭풍의 가루
+tagEnchantB007B=에테르폭풍의 가루 II
+tagEnchantB007BC=에테르폭풍의 가루 III
+tagEnchantB007Desc="검은군단 마법사들은 적들을 자신들의 화력을 직접 투사하는 것이 적을 상대하는 최고의 방법이라고 생각했다. 하지만 군단의 허가 아래 이뤄진 관련된 실험들이 성과를 낸 경우는 드물었는데, 이 가루는 그 중의 하나이다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB008A=강력한 에테르폭풍의 가루
+tagEnchantB008B=강력한 에테르폭풍의 가루 II
+tagEnchantB008BC=강력한 에테르폭풍의 가루 III
+tagEnchantB008Desc="검은군단 마법사들은 적들을 자신들의 화력을 직접 투사하는 것이 적을 상대하는 최고의 방법이라고 생각했다. 하지만 군단의 허가 아래 이뤄진 관련된 실험들이 성과를 낸 경우는 드물었는데, 이 가루는 그 중의 하나이다."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB009A=크'톤의 정수
+tagEnchantB009B=크'톤의 정수 II
+tagEnchantB009BC=크'톤의 정수 III
+tagEnchantB009Desc="크토니안 괴물들의 내장을 바른 무기들은 종종 형태가 뒤틀려서 알아보기 힘들어지기도 하지만, 그런 과정을 거치면서 공허 자체의 정수를 획득하게 된다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB010A=강력한 크'톤의 정수
+tagEnchantB010B=강력한 크'톤의 정수 II
+tagEnchantB010BC=강력한 크'톤의 정수 III
+tagEnchantB010Desc="크토니안 괴물들의 내장을 바른 무기들은 종종 형태가 뒤틀려서 알아보기 힘들어지기도 하지만, 그런 과정을 거치면서 공허 자체의 정수를 획득하게 된다."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB011A=로완의 지혜
+tagEnchantB011B=로완의 지혜 II
+tagEnchantB011BC=로완의 지혜 III
+tagEnchantB011Desc="아코비아의 마지막 왕이자 로와리의 창시자였던 로완은 로버들 사이에서는 지혜를 상징하는 존재로 여겨진다. 이 증강제의 이름은 그를 기리는 의미에서 붙여졌다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB012A=모그드로젠의 의무
+tagEnchantB012B=모그드로젠의 의무 II
+tagEnchantB012BC=모그드로젠의 의무 III
+tagEnchantB012Desc="전설에서는 짐승들의 신 모그드로젠이 로완과 그의 백성들이 칼을 뽑아들지 않는 한은 어떤 짐승도 절대 그들을 해치지 않으리라는 계약을 맺는 순간이 언급된다. 불행하게도 에테르에 의해 고통받는 짐승들은 이 순간의 기억을 공유하지 않는 듯 하다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB013A=여행자의 필수품
+tagEnchantB013B=여행자의 필수품 II
+tagEnchantB013BC=여행자의 필수품 III
+tagEnchantB013Desc="로버들이 아주 긴 여행을 준비해야할 때면 집단의 장로들은 긴 여정에서 자신들을 보호하기 위해 이것을 꼭 준비한다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB014A=생명의 숨결
+tagEnchantB014B=생명의 숨결 II
+tagEnchantB014BC=생명의 숨결 III
+tagEnchantB014Desc="봄의 정령, 재탄생, 그리고 새 생명의 호흡."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB015A=겨울의 한기
+tagEnchantB015B=겨울의 한기 II
+tagEnchantB015BC=겨울의 한기 III
+tagEnchantB015Desc="겨울의 한기의 정수, 세상을 바꾸고 정화하는 매서운 힘이자 새로운 시작의 신호."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB016A=로완의 결의
+tagEnchantB016B=로완의 결의 II
+tagEnchantB016BC=로완의 결의 III
+tagEnchantB016Desc="아코비아의 마지막 왕이자 로와리의 창시자, 로완은 그의 왕위를 포기하고 길을 떠났다고 이야기된다. 힘겨운 시간을 견디던 그의 확신과 결의는 지금도 모든 로버들이 고난을 넘어 닿고자하는 모든 것을 상징한다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB017A=생존자의 독창성
+tagEnchantB017B=생존자의 독창성 II
+tagEnchantB017BC=생존자의 독창성 III
+tagEnchantB017Desc="물자가 제한된 상황에서, 데블스 크로싱의 사람들은 위협이 될 가능성이 있는 것들을 처리할 기발한 수단들을 고안했고, 마법적 강화제도 이에 포함된다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB018A=생존자의 반탄력
+tagEnchantB018B=생존자의 반탄력 II
+tagEnchantB018BC=생존자의 반탄력 III
+tagEnchantB018Desc="그 어느 때보다도 잔혹한 시기인 만큼, 인간 역시 살아남기 위해 가능한 모든 노력을 할 것이다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB019A=생존자의 인내력
+tagEnchantB019B=생존자의 인내력 II
+tagEnchantB019BC=생존자의 인내력 III
+tagEnchantB019Desc="그들의 가까이에서 카오스와 에테르의 힘이 휘둘러지고 있었고, 생존자들은 이 새로운 위협들에 적응해 나갔다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB020A=케언의 희망
+tagEnchantB020B=케언의 희망 II
+tagEnchantB020BC=케언의 희망 III
+tagEnchantB020Desc="방어 준비를 하고 있으면서도, 생존자들은 이 세계가 침입자들로부터 자유로워지는 순간을 기대하는 대화를 나눈다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB021A=원소들의 노랫소리
+tagEnchantB021B=원소들의 노랫소리 II
+tagEnchantB021BC=원소들의 노랫소리 III
+tagEnchantB021Desc="영혼 길잡이 사디나는 화염과 얼음의 서로 충돌하는 힘들을 보존하기 위해 이 마법적 강화제를 고안했다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB022A=빌로스의 이빨
+tagEnchantB022B=빌로스의 이빨 II
+tagEnchantB022BC=빌로스의 이빨 III
+tagEnchantB022Desc="전설적인 슬리스 여족장, 빌로스는 엄청나게 강한 독성을 지닌 담즙을 만들어낸다. 바나바스는 이 액체를 가루로 변화시키는 방법을 발견했고, 데블스 크로싱을 위해 싸우고자 하는 이들에게 이 가루를 공급하고 있다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB023A=감시체의 응시
+tagEnchantB023B=감시체의 응시 II
+tagEnchantB023BC=감시체의 응시 III
+tagEnchantB023Desc="실험에 몰두하여 주의하는 것을 망각하는 카스파로프는, 에테리얼 감시체 하나를 폭발물로 바꾸려는 시도를 하다가 이 개체의 눈알을 이용할 방법을 의도치 않게 발견하게 됐다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB024A=자연의 수확
+tagEnchantB024B=자연의 수확 II
+tagEnchantB024BC=자연의 수확 III
+tagEnchantB024Desc="어떤 농부들은 풍성한 수확을 위해 기도한다. 그리고 마법에 대해 보다 더 이해하고 있는 사람들은 수확을 늘리는 방법을 안다. 그 방법을 무기들에 적용한다면, 인간의 육체에는 재앙과 같은 상황이 될 것이다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB025A=강력한 자연의 수확
+tagEnchantB025B=강력한 자연의 수확 II
+tagEnchantB025BC=강력한 자연의 수확 III
+tagEnchantB025Desc="어떤 농부들은 풍성한 수확을 위해 기도한다. 그리고 마법에 대해 보다 더 이해하고 있는 사람들은 수확을 늘리는 방법을 안다. 그 방법을 무기들에 적용한다면, 인간의 육체에는 재앙과 같은 상황이 될 것이다."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB026A=태양이 뿜는 열기
+tagEnchantB026B=태양이 뿜는 열기 II
+tagEnchantB026BC=태양이 뿜는 열기 III
+tagEnchantB026Desc="태양의 힘이, 마법적인 가루에 담겨졌다."^w^n(모든 한손 무기,방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB027A=강력한 태양이 뿜는 열기
+tagEnchantB027B=강력한 태양이 뿜는 열기 II
+tagEnchantB027BC=강력한 태양이 뿜는 열기 III
+tagEnchantB027Desc="태양의 힘이, 마법적인 가루에 담겨졌다."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB028A=멘허의 축복
+tagEnchantB028B=멘허의 축복 II
+tagEnchantB028BC=멘허의 축복 III
+tagEnchantB028Desc="대지의 신 멘허로부터 축복을 받은 땅에서는 가장 풍성한 수확이 가능하다고 한다. 정확하게 사용하기만 한다면, 이 축복은 도구, 집 그리고 심지어는 무기들에까지도 확장될 수 있다."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB029A=강력한 멘허의 축복
+tagEnchantB029B=강력한 멘허의 축복 II
+tagEnchantB029BC=강력한 멘허의 축복 III
+tagEnchantB029Desc="대지의 신 멘허로부터 축복을 받은 땅에서는 가장 풍성한 수확이 가능하다고 한다. 정확하게 사용하기만 한다면, 이 축복은 도구, 집 그리고 심지어는 무기들에까지도 확장될 수 있다."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB030A=카이몬의 의지
+tagEnchantB030B=카이몬의 의지 II
+tagEnchantB030BC=카이몬의 의지 III
+tagEnchantB030Desc="신들에게 선택받은 존재, 카이몬께서 그의 신성한 권능의 일부를 자격과 의지를 갖춘 자에게 내려주신다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB031A=카이몬의 분노
+tagEnchantB031B=카이몬의 분노 II
+tagEnchantB031BC=카이몬의 분노 III
+tagEnchantB031Desc="전장에서의 카이몬의 모습을 보았던 이들은 그가 신들의 복수심 어린 분노 그 자체를 휘두르며 싸우신다고 증언한다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB032A=카이몬의 비전
+tagEnchantB032B=카이몬의 비전 II
+tagEnchantB032BC=카이몬의 비전 III
+tagEnchantB032Desc="카이몬께서 전해주시는 케언의 미래에 대한 비전은 그의 선민들이 케언의 적들에 맞서야할 때 격분의 상태에 들어서게 하는 힘이다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB033A=우로보룩의 단어
+tagEnchantB033B=우로보룩의 단어 II
+tagEnchantB033BC=우로보룩의 단어 III
+tagEnchantB033Desc="창시자 우로보룩께서는 여러 번의 강의를 하시기보다는 시체 위로 손을 뻗고 그저 한 단어만을 말하시곤 했다: 일어나라."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB034A=우로보룩의 고난
+tagEnchantB034B=우로보룩의 고난 II
+tagEnchantB034BC=우로보룩의 고난 III
+tagEnchantB034Desc="창시자 우로보룩께서는 아코비아인들에게 붙잡힌 채 형언할 수 없는 고난을 견디셔야만 했다. 여기에 걸린 마법은 그 분의 고통을 복제하는 것이 목적이었다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB035A=우로보룩의 길
+tagEnchantB035B=우로보룩의 길 II
+tagEnchantB035BC=우로보룩의 길 III
+tagEnchantB035Desc="우로보룩께서 가셨던 길을 따른다는 것은, 그 어떤 것으로 이어진다 하더라도 지식의 길을 찾아가는 것과 같다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB036A=추방당한 자의 힘
+tagEnchantB036B=추방당한 자의 힘 II
+tagEnchantB036BC=추방당한 자의 힘 III
+tagEnchantB036Desc="사용하는 자에게 열 사람에 필적하는 힘을 부여하는, 추방당한 자가 만든 고성능 증강제"^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB037A=강력한 추방당한 자의 힘
+tagEnchantB037B=강력한 추방당한 자의 힘 II
+tagEnchantB037BC=강력한 추방당한 자의 힘 III
+tagEnchantB037Desc="사용하는 자에게 열 사람에 필적하는 힘을 부여하는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB038A=추방당한 자의 동상
+tagEnchantB038B=추방당한 자의 동상 II
+tagEnchantB038BC=추방당한 자의 동상 III
+tagEnchantB038Desc="사용하는 자가 얼음을 능숙하게 다룰 수 있게 해주는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB039A=강력한 추방당한 자의 동상
+tagEnchantB039B=강력한 추방당한 자의 동상 II
+tagEnchantB039BC=강력한 추방당한 자의 동상 III
+tagEnchantB039Desc="사용하는 자가 얼음을 능숙하게 다룰 수 있게 해주는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB040A=추방당한 자의 지옥불
+tagEnchantB040B=추방당한 자의 지옥불 II
+tagEnchantB040BC=추방당한 자의 지옥불 III
+tagEnchantB040Desc="사용하는 자가 강한 불을 다룰 수 있게 해주는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB041A=강력한 추방당한 자의 지옥불
+tagEnchantB041B=강력한 추방당한 자의 지옥불 II
+tagEnchantB041BC=강력한 추방당한 자의 지옥불 III
+tagEnchantB041Desc="사용하는 자가 강한 불을 다룰 수 있게 해주는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB042A=추방당한자의 낙뢰
+tagEnchantB042B=추방당한자의 낙뢰 II
+tagEnchantB042BC=추방당한자의 낙뢰 III
+tagEnchantB042Desc="사용하는 자가 하늘을 다룰 수 있게 해주는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB043A=강력한 추방당한자의 낙뢰
+tagEnchantB043B=강력한 추방당한자의 낙뢰 II
+tagEnchantB043BC=강력한 추방당한자의 낙뢰 III
+tagEnchantB043Desc="사용하는 자가 하늘을 다룰 수 있게 해주는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB044A=추방당한 자의 맹독
+tagEnchantB044B=추방당한 자의 맹독 II
+tagEnchantB044BC=추방당한 자의 맹독 III
+tagEnchantB044Desc="사용하는 자가 독을 능숙하게 다룰 수 있게 해주는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB045A=강력한 추방당한 자의 맹독
+tagEnchantB045B=강력한 추방당한 자의 맹독 II
+tagEnchantB045BC=강력한 추방당한 자의 맹독 III
+tagEnchantB045Desc="사용하는 자가 독을 능숙하게 다룰 수 있게 해주는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB046A=추방당한 자의 죽음의 손길
+tagEnchantB046B=추방당한 자의 죽음의 손길 II
+tagEnchantB046BC=추방당한 자의 죽음의 손길 III
+tagEnchantB046Desc="사용하는 자가 생명의 정수를 다룰 수 있게 해주는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB047A=강력한 추방당한 자의 죽음의 손길
+tagEnchantB047B=강력한 추방당한 자의 죽음의 손길 II
+tagEnchantB047BC=강력한 추방당한 자의 죽음의 손길 III
+tagEnchantB047Desc="사용하는 자가 생명의 정수를 다룰 수 있게 해주는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB048A=추방당한 자의 격노
+tagEnchantB048B=추방당한 자의 격노 II
+tagEnchantB048BC=추방당한 자의 격노 III
+tagEnchantB048Desc="사용하는 자가 에테르를 다룰 수 있게 해주는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB049A=강력한 추방당한 자의 격노
+tagEnchantB049B=강력한 추방당한 자의 격노 II
+tagEnchantB049BC=강력한 추방당한 자의 격노 III
+tagEnchantB049Desc="사용하는 자가 에테르를 다룰 수 있게 해주는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB050A=추방당한 자의 균열폭풍
+tagEnchantB050B=추방당한 자의 균열폭풍 II
+tagEnchantB050BC=추방당한 자의 균열폭풍 III
+tagEnchantB050Desc="사용하는 자가 혼돈의 공허를 다룰 수 있게 해주는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB051A=강력한 추방당한 자의 균열폭풍
+tagEnchantB051B=강력한 추방당한 자의 균열폭풍 II
+tagEnchantB051BC=강력한 추방당한 자의 균열폭풍 III
+tagEnchantB051Desc="사용하는 자가 혼돈의 공허를 다룰 수 있게 해주는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB052A=추방당한 자의 보루
+tagEnchantB052B=추방당한 자의 보루 II
+tagEnchantB052BC=추방당한 자의 보루 III
+tagEnchantB052Desc="사용하는 자의 피부를 마치 강철과 같게 만들어주는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB053A=강력한 추방당한 자의 보루
+tagEnchantB053B=강력한 추방당한 자의 보루 II
+tagEnchantB053BC=강력한 추방당한 자의 보루 III
+tagEnchantB053Desc="사용하는 자의 피부를 마치 강철과 같게 만들어주는, 추방당한 자가 만든 고성능 증강제."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB054A=자연의 격노
+tagEnchantB054B=자연의 격노 II
+tagEnchantB054C=자연의 격노 III
+tagEnchantB054Desc="로버들만이 알고 있는 여러 독성 물질들이 섞여 강력해진 혼합물로 매우 위급한 상황에서만 사용됐다고 한다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB055A=복수의 영혼
+tagEnchantB055B=복수의 영혼 II
+tagEnchantB055C=복수의 영혼 III
+tagEnchantB055Desc="아코비아의 폐허에서 적의와 복수심이 가득한 영혼을 붙잡아둔 형태. 보관용기의 안에는 보호 목적의 룬들이 새겨져 있다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB056A=생존자의 동맹
+tagEnchantB056B=생존자의 동맹 II
+tagEnchantB056C=생존자의 동맹 III
+tagEnchantB056Desc="동맹이라 할 대상이 거의 남지 않았을 때도, 곁에 있는 동물만은 유일하며 진정한 벗이 되어줄 수 있다."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB057A=짐승의 왕의 부름
+tagEnchantB057B=짐승의 왕의 부름 II
+tagEnchantB057BC=짐승의 왕의 부름 III
+tagEnchantB057Desc="홈스테드의 사람들이 그들의 가축들을 축복하는 의미에서 사용하던 화합물."^w^n(모든 한손 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagEnchantB058A=강력한 짐승의 왕의 부름
+tagEnchantB058B=강력한 짐승의 왕의 부름 II
+tagEnchantB058BC=강력한 짐승의 왕의 부름 III
+tagEnchantB058Desc="홈스테드의 사람들이 그들의 가축들을 축복하는 의미에서 사용하던 화합물."^w^n(모든 양손 무기에 적용 가능)
+
+tagEnchantB059A=모그드로젠의 축복
+tagEnchantB059B=모그드로젠의 축복 II
+tagEnchantB059C=모그드로젠의 축복 III
+tagEnchantB059Desc="짐승들의 신이 인간과 짐승 사이의 결속을 강화할 수 있도록 직접 축복을 내렸다고 전해지는 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB060A=엠피리온의 손길
+tagEnchantB060B=엠피리온의 손길 II
+tagEnchantB060C=엠피리온의 손길 III
+tagEnchantB060Desc="빛을 뿌리는 신의 손길이 직접 닿았다고 여겨지는 불꽃이 튀는 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB061A=지옥의 먼지
+tagEnchantB061B=지옥의 먼지 II
+tagEnchantB061C=지옥의 먼지 III
+tagEnchantB061Desc="엠피리온의 격노에 의해 타오르는 마법적인 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB062A=말카다르의 파멸의 한기
+tagEnchantB062B=말카다르의 파멸의 한기 II
+tagEnchantB062C=말카다르의 파멸의 한기 III
+tagEnchantB062Desc="교단 이너 서클의 일인자, 말카다르가 만들어낸 마법적인 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantB063A=경전의 수호자의 속박의 먼지
+tagEnchantB063B=경전의 수호자의 속박의 먼지 II
+tagEnchantB063C=경전의 수호자의 속박의 먼지 III
+tagEnchantB063Desc="경전의 수호자가 가장 강력한 언데드 수하들을 결속시키기 위해 직접 만든 속박의 가루."^w^n(반지와 목걸이에 적용 가능)
+
+tagEnchantC001A=인류의 경계
+tagEnchantC001Desc="케언을 침략해온 세력들인 에테리얼과 크토니안으로부터 군단의 병력을 보호하기 위해 군단 소속 아케니스트들이 제작한 마법적인 가루."^w^n(모든 방어구에 적용 가능)
+tagEnchantC002A=왕실경비 가루
+tagEnchantC002Desc="왕실의 의상보관소에서 사용되던 것에 맞춰 이름붙여진 마법적 가루이지만, 전투에서도 동일한 중요성을 가진다는 것이 밝혀졌다."^w^n(모든 방어구에 적용 가능)
+
+tagEnchantC003A=맹독방호 가루
+tagEnchantC003Desc="야수와 식물들로부터 얻은 몇 가지 치명적인 독소들로 만든 로버식 가루."^w^n(모든 방어구에 적용 가능)
+tagEnchantC004A=나이트셰이드 가루
+tagEnchantC004Desc="달의 빛을 받을 때에만 봉오리가 열리는, 아스테르칸 나이트셰이드의 푸른 꽃잎들에서 얻은 가루."^w^n(모든 방어구에 적용 가능)
+
+tagEnchantC005A=칼날막이 가루
+tagEnchantC005Desc="물리적 충돌로부터 데블스 크로싱들의 경비대 인원들을 보호하기 위해 사디나가 만든 마법적 가루."^w^n(모든 방어구에 적용 가능)
+tagEnchantC006A=모그드로젠의 손길
+tagEnchantC006Desc="자연의 잔혹함으로부터 추종자들을 지켜주기 위한 짐승의 신의 축복."^w^n(모든 방어구에 적용 가능)
+
+tagEnchantC007A=화염회피 가루
+tagEnchantC007Desc="방어구가 화염에 대해 더 잘 견디게 하는데 자주 사용되는, 만티코어의 뼈들을 햇빛에 탈색시켜서 얻은 마법적 가루."^w^n(모든 방어구에 적용 가능)
+tagEnchantC008A=태양폭풍 가루
+tagEnchantC008Desc="이 가루는 일식이 이루어지는 동안에만 조합이 가능한 특별한 것으로, 그 과정 없이는 마법적 특성을 잃고 재와 다름 없는 가루가 되어버린다."^w^n(모든 방어구에 적용 가능)
+
+tagEnchantC009A=카이몬의 축복
+tagEnchantC009Desc="교부 카이몬이 엠피리온의 모든 것을 그을리는 화염으로부터 그의 추종자들을 보호하기 위해 축복을 건 마법적 가루."^w^n(모든 방어구에 적용 가능)
+tagEnchantC010A=카이몬의 전도체
+tagEnchantC010Desc="사용자의 심장에 번개가 닿지 않고 흘러가게 하는 교부 카이몬이 만든 마법적 가루."^w^n(모든 방어구에 적용 가능)
+tagEnchantC011A=악마파멸 가루
+tagEnchantC011Desc="선민 교단의 사제들이 동료들을 크'톤의 공허의 사악한 존재들로부터 보호하기 위해 만든 마법적 가루."^w^n(모든 방어구에 적용 가능)
+
+tagEnchantC012A=망령손길 가루
+tagEnchantC012Desc="붙잡힌 망령의 정수가 주입된 마법적 가루."^w^n(모든 방어구에 적용 가능)
+tagEnchantC013A=영혼보호 가루
+tagEnchantC013Desc="쓰러진 네크로맨서를 화장한 재로부터 만든 마법적 가루."^w^n(모든 방어구에 적용 가능)
+tagEnchantC014A=주문결계 가루
+tagEnchantC014Desc="감시자 교단에 소속된 경험많은 아케니스트들이 비전 마법적 의식들을 치를 때 동료들을 보호하기 위해 만든 가루."^w^n(모든 방어구에 적용 가능)
+
+tagEnchantC015A=추방당한 자의 보호의 가루
+tagEnchantC015Desc="추방당한 자는 자신의 비전 마력을 다루는 독보적인 능숙함을 바탕으로 매우 둔한 사람이라도 에테르의 파괴적인 힘에서 보호받을 수 있게 해주는 가루를 만들어냈다."^w^n(모든 방어구에 적용 가능)
+tagEnchantC016A=추방당한 자의 원소의 비늘
+tagEnchantC016Desc="추방당한 자의 비법으로 만든, 서로의 대척점인 힘들은 불과 얼음으로부터 사용자를 지켜주는 가루."^w^n(모든 방어구에 적용 가능)
+tagEnchantC017A=추방당한 자의 하늘차단 가루
+tagEnchantC017Desc="추방당한 자의 비법으로 만든 사용자를 하늘의 힘을 사용한 마법들로부터 지켜주는 가루."^w^n(모든 방어구에 적용 가능)
+
+
+
+#ItemComponents
+
+tagComponentIncomplete=미완성 컴포넌트
+tagComponentComplete=컴포넌트
+tagComponentNumber={%s0 - %d1 / %d2}
+tagComponentNumberRare={%s0}{%s1 - %d2 / %d3}
+tagComponentBonus=완성 보너스
+tagComponentQualities=컴포넌트 품질:
+tagComponentHelp=[마우스 우클릭(게임패드: 아이템 사용)으로 적용]
+tagComponentError=[사용불가 - 조건 미충족]
+tagComponentCombine=[마우스 우클릭(게임패드: 아이템 사용)으로 결합]
+tagComponentConfirmation=결합 작업을 진행하시겠습니까?
+
+tagCompA001Name=가시달린 등껍질
+tagCompA001Desc="뾰족한 가시들이 줄지어 박혀있는 두꺼운 등껍질."^w^n(모든 방어구에 적용 가능)
+
+tagCompA002Name=탄환용 판금
+tagCompA002Desc="화살, 크로스보우 볼트, 총탄 등을 견디도록 만들어졌던 구형 갑옷의 조각들."^w^n(상체 방어구에 적용 가능)
+
+tagCompA003Name=정화된 해골
+tagCompA003Desc="정의를 위한 전투에서 사망한 팔라딘의 정화된 해골들."^w^n(머리 및 상체 방어구에 적용 가능)
+
+tagCompA004Name=질긴 통가죽
+tagCompA004Desc="표면이 거칠며 두꺼워서 갑작스러운 충격을 흡수하는 데에 최고인 통가죽."^w^n(머리 방어구에 적용 가능)
+
+tagCompA005Name=룬스톤
+tagCompA005Desc="신비스러운 룬이 장식된 돌."^w^n(머리 방어구에 적용 가능)
+
+tagCompA006Name=변이 유발 액체
+tagCompA006Desc="다른 차원의 에너지들에 감염된 케언의 존재들로부터 유출된 물질."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA007Name=부패한 심장
+tagCompA007Desc="사령술의 힘으로 무력해져 오랜 시간 고동치지 않은 심장."^w^n(상체 방어구에 적용 가능)
+
+tagCompA008Name=변이된 비늘
+tagCompA008Desc="에테르 에너지에 노출되어 정상이 비해 두껍고 강하게 돌연변이가 일어난 비늘."^w^n(어깨 방어구, 상체 방어구, 하체 방어구, 장갑에 적용 가능)
+
+tagCompA009Name=시체 먼지
+tagCompA009Desc="사망자의 잔해들에서 얻은 가루로, 주술 시전이나 마법적 강화에 자주 사용된다."^w^n(반지, 목걸이, 메달에 적용 가능)
+
+tagCompA010Name=영혼 파편
+tagCompA010Desc="위치헌터들이 사용하는, 저주받은 자들의 영혼을 붙잡아둔 것이라는 소문이 있는 마법걸린 보석."^w^n(반지, 목걸이, 메달에 적용 가능)
+
+tagCompA011Name=엑토플라즘
+tagCompA011Desc="물리적 형태를 가지지 않은 존재들이 종종 남기는 젤리같은 잔류물."^w^n(머리 방어구, 반지, 목걸이, 메달에 적용 가능)
+
+tagCompA012Name=축복받은 강철
+tagCompA012Desc="확산되는 어둠을 몰아내는데 쓰고자 멘허의 사제들이 축복을 내린 강철."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA013Name=맹독 송곳니
+tagCompA013Desc="지독한 독소가 방울져 떨어지는 날카로운 송곳니."^w^n(근접 무기에 적용 가능)
+
+tagCompA014Name=정제된 소금
+tagCompA014Desc="엑소시즘 시전에 사용하거나 다른 차원의 악마들을 저지하기 위해 암염지대에서 추출해낸 소금."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA015Name=속을 비운 송곳니
+tagCompA015Desc="생기담긴 액체들을 흡수하기 위해 사용된 구부러진 송곳니."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA016Name=잘라낸 발톱
+tagCompA016Desc="강한 야수의 발에서 뜯어낸 날카로운 발톱."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA017Name=마법걸린 은
+tagCompA017Desc="강력한 마법으로 강화된 은 가루."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA018Name=날카로운 가시
+tagCompA018Desc="기괴한 야생동물들로부터 얻은 가시들."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA019Name=빛을 내는 보석
+tagCompA019Desc="원소들이 들어있어 그 자체가 부드러운 빛을 내는 보석."^w^n(방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA020Name=지옥의 파멸 탄환
+tagCompA020Desc="불순한 의도를 가진 존재들에게 엄청난 고통을 가하기 위한 의도로 축성받은 탄환."^w^n(총기, 크로스보우, 시전자용 보조장비에 적용 가능)
+
+tagCompA021Name=죽음의 한기 화살
+tagCompA021Desc="죽음의 차가운 한기를 적들에게 전달한다."^w^n(총기, 크로스보우, 시전자용 보조장비에 적용 가능)
+
+tagCompA022Name=에테르의 영혼
+tagCompA022Desc="물질 차원에서 파괴된 에테리얼 개체들이 종종 남기는, 에너지로 진동하는 돌."^w^n(목걸이, 메달에 적용 가능)
+
+tagCompA023Name=단단한 껍질
+tagCompA023Desc="충격이 거의 투과되지 않을 것 같은 단단한 껍질."^w^n(모든 방어구에 적용 가능)
+
+tagCompA024Name=열기 담긴 가죽
+tagCompA024Desc="불타는 듯한 괴물에게서 얻은 가죽의 두꺼운 부분."^w^n(모든 방어구에 적용 가능)
+
+tagCompA025Name=마법의 부싯돌
+tagCompA025Desc="이 마법이 담긴 부싯돌은 무기에 스치게 하면 화염의 기운을 불어넣는다."^w^n(근접 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA026Name=콜드스톤
+tagCompA026Desc="전해오는 이야기에 따르면, 냉기를 뿜어내는 이 신비스러운 돌들은 추방된 망령의 심장들이라고 한다."^w^n(근접 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA027Name=호박석
+tagCompA027Desc="번개가 떨어진 나무의 수액이 크리스탈화하여 만들어진 보석에는 폭풍의 정령이 깃들기도 한다고 전해진다.."^w^n(근접 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA028Name=황산 결정
+tagCompA028Desc="흉악한 야수들의 담즙이 돌처럼 굳어 만들어진 황산 덩어리."^w^n(근접 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA029Name=축복받은 연마재
+tagCompA029Desc="극도로 날카로운 칼날들도 더 날카로워지게 하여, 적의 방어구를 파고들어 더 큰 피해를 입히게 한다."^w^n(도끼, 도검, 총, 석궁에 적용 가능)
+
+tagCompA030Name=견직물 견본
+tagCompA030Desc="서부의 유목민들은 오래 전부터 견직물을 겹쳐놓으면 관통성 탄환이 파고드는 것을 감싸서 속도를 늦춰준다는 점을 알고 있었다."^w^n(어깨 방어구, 상체 방어구, 하체 방어구에 적용 가능)
+
+tagCompA031Name=비늘달린 통가죽
+tagCompA031Desc="이 치밀하지만 가벼운 비늘들을 방어구와 겹쳐놓으면 보호능력의 증가를 기대할 수 있다."^w^n(어깨 방어구, 상체 방어구, 하체 방어구에 적용 가능)
+
+tagCompA032Name=발화성 탄환
+tagCompA032Desc="이 탄환들은 마법을 이용해 만들어져 어느 표면에라도 화염을 일으킬 수 있다."^w^n(총기, 크로스보우, 시전자용 보조장비에 적용 가능)
+
+tagCompA033Name=독성첨단 탄환
+tagCompA033Desc="독을 지닌 동물의 턱에서 추출한 독소가 탄환의 끝 부분에 입혀져 있다."^w^n(총기, 크로스보우, 시전자용 보조장비에 적용 가능)
+
+tagCompA034Name=여행자의 표식
+tagCompA034Desc="여행자들은 변방의 야생 지역을 지나야할 때, 짐승들의 신 모그드로젠에게 사냥꾼으로 오해받는 일을 피하기 위해 이 표식을 사용해왔다."^w^n(신발에 적용 가능)
+
+tagCompA035Name=봉헌된 천
+tagCompA035Desc="크'톤 사교도들이 쓰던 피에 적셔진 천."^w^n(장갑에 적용 가능)
+
+tagCompA036Name=잠들지 못하는 유해
+tagCompA036Desc="당연한 안식을 얻지 못하고 고통받는 존재의 유해."^w^n(장갑에 적용 가능)
+
+tagCompA037Name=촘촘한 털가죽
+tagCompA037Desc="지독한 겨울같은 상황에 최적인 털이 촘촘하게 달린 가죽 조각."^w^n(모든 방어구에 적용 가능)
+
+tagCompA038Name=톱니모양의 뿔
+tagCompA038Desc="어느 야수로부터 얻은 단단하지는 않지만 극도로 날카로운 뿔."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA039Name=타오르는 잔불
+tagCompA039Desc="불타서 무너진 집에서 나온 영원히 타는 잔불."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA040Name=차가워진 강철
+tagCompA040Desc="이 강철에는 혹한의 겨울 바람이 주입되었다."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA041Name=갈라진 자철석
+tagCompA041Desc="천연 자석의 갈라진 부분에서 에너지의 불꽃이 이리저리 튄다."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA042Name=조각난 발톱
+tagCompA042Desc="마침내 제대로된 적수를 맞이했던 무자비한 포식자에게서 얻은 발톱."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA043Name=회수된 판금
+tagCompA043Desc="좋았던 시절에 만들어졌을 방어구에서 떼어낸 판금."^w^n(모든 방어구에 적용 가능)
+
+tagCompA044Name=뻣뻣한 털가죽
+tagCompA044Desc="사나운 야수에게서 얻은 두꺼운 털가죽 조각."^w^n(모든 방어구에 적용 가능)
+
+tagCompA045Name=복원력 있는 판금
+tagCompA045Desc="수많은 전투들을 거치고도 파괴되지 않은 갑옷용 판금이며 앞으로 더 많은 전투들을 치르더라도 파괴되지 않을 듯하다."^w^n(방패, 시전자용 보조장비, 상체 방어구, 어깨 방어구에 적용 가능)
+
+tagCompA046Name=연마된 에메랄드
+tagCompA046Desc="완벽하게 연마된 멋진 보석."^w^n(방패, 시전자용 보조장비, 반지, 머리 방어구, 상체 방어구에 적용 가능)
+
+tagCompA047Name=얼어붙은 심장
+tagCompA047Desc="검은 얼음이 영원히 감싸고 있다."^w^n(반지에 적용 가능)
+
+tagCompA048Name=끓어오르는 피
+tagCompA048Desc="한때 이 피를 흐르게하던 분노로 끓어오르고 있다."^w^n(반지, 목걸이, 메달에 적용 가능)
+
+tagCompA049Name=결계석
+tagCompA049Desc="고대의 보호의 상징들이 새겨진 돌."^w^n(목걸이, 메달에 적용 가능)
+
+tagCompA050Name=집중용 프리즘
+tagCompA050Desc="아케니스트들이 특별히 전력을 다해야 하는 의식들을 치를 때 마력을 흘려보내기 위해 사용한다."^w^n(목걸이에 적용 가능)
+
+tagCompA051Name=검은색 수지
+tagCompA051Desc="크'톤 사교의 의식 도중에 태워졌던 초에서 나온 동물기름."^w^n(목걸이, 메달에 적용 가능)
+
+tagCompA052Name=집요한 망령
+tagCompA052Desc="복수심이 가득한 영혼."^w^n(반지, 목걸이, 메달에 적용 가능)
+
+tagCompA053Name=환영들의 상징
+tagCompA053Desc="힘의 상징으로서 수많은 곳에 새겨졌다.."^w^n(반지, 목걸이에 적용 가능)
+
+tagCompA054Name=잔인한 턱뼈
+tagCompA054Desc="뼈들을 마치 나뭇가지처럼 씹어부술 수 있던 야수의 턱뼈."^w^n(목걸이, 메달에 적용 가능)
+
+tagCompA055Name=격노의 돌
+tagCompA055Desc="살아있는 피부에 잠시 스치기만 해도 진동한다."^w^n(근접 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA056Name=리프트스톤
+tagCompA056Desc="공허의 원초적인 힘으로 가득하다."^w^n(근접 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompA057Name=에테르강철 탄환
+tagCompA057Desc="에테리얼 거대괴물들의 정수를 통해 강화되었다."^w^n(총기, 크로스보우, 시전자용 보조장비에 적용 가능)
+
+tagCompA058Name=공허장착 탄환
+tagCompA058Desc="크토니안 개체의 오래되지 않은 피에 적신 탄환."^w^n(총기, 크로스보우, 시전자용 보조장비에 적용 가능)
+
+tagCompA059Name=보강된 껍질
+tagCompA059Desc="셀 수 없는 공격들을 흡수해온 거의 뚫기가 불가능한 껍질."^w^n(방패에 적용 가능)
+
+tagCompA060Name=난타당한 껍질
+tagCompA060Desc="버틸 수 없어 보였던 공격들로부터도 부서지지 않은 껍질."^w^n(방패에 적용 가능)
+
+tagCompA061Name=해독제 연고
+tagCompA061Desc="매우 강한 독을 가진 괴물들에게서 얻은 담즙을 중화시킨 것."^w^n(모든 방어구에 적용 가능)
+
+tagCompA062Name=톱니모양 껍질
+tagCompA062Desc="면도날처럼 날카로운 가시들을 붙여 만들어서 기존보다 훨씬 강력해진 단단한 껍질."^w^n(방패에 적용 가능)
+
+
+tagCompB001Name=^k비스미엘의 속박
+tagCompB001Desc="비스미엘의 마녀단이 소환된 존재들에 대한 지배력을 강화하기 위해 사용했던 주문이 걸린 속박 도구."^w^n(상체 방어구에 적용 가능)
+
+tagCompB002Name=^k올레론의 사슬
+tagCompB002Desc="올레론 신의 격분을 억제하는데 사용됐었던 사슬의 잔해."^w^n(상체 방어구에 적용 가능)
+
+tagCompB003Name=^k신성한 대지
+tagCompB003Desc="멘허를 섬기는 고인돌의 받침대에서 얻은 가루."^w^n(상체 방어구에 적용 가능)
+
+tagCompB004Name=^k무지개빛 다이아몬드
+tagCompB004Desc="막대한 힘으로 힘으로 중심부가 아른하게 빛난다."^w^n(머리 방어구에 적용 가능)
+
+tagCompB005Name=^k주문걸린 천조각
+tagCompB005Desc="강력했던 마술사를 감쌌던 수의에서 잘라낸 긴 천조각들."^w^n(장갑에 적용 가능)
+
+tagCompB006Name=^k부정한 비문
+tagCompB006Desc="필멸의 인간으로서는 발음할 수 없는, 고대의 언어로 적힌 권능이 담긴 단어들."^w^n(장갑에 적용 가능)
+
+tagCompB007Name=^k고대 갑옷의 판금
+tagCompB007Desc="한때 강력한 성능의 갑옷 세트에서 얻은 판금."^w^n(상체 방어구, 하체 방어구에 적용 가능)
+
+tagCompB008Name=^k아케인 렌즈
+tagCompB008Desc="우주의 마력의 흐름들의 궤적."^w^n(목걸이에 적용 가능)
+
+tagCompB009Name=^k악마의 힘 탄환
+tagCompB009Desc="모독적인 화염이 주입되어 있다."^w^n(총기, 크로스보우, 시전자용 보조장비에 적용 가능)
+
+tagCompB010Name=^k은제 탄환
+tagCompB010Desc="아주 미세하게 긁히기만 해도 악한 존재를 제거한다."^w^n(총기, 크로스보우, 시전자용 보조장비에 적용 가능)
+
+tagCompB011Name=^k솔라엘의 기호
+tagCompB011Desc="솔라엘의 추종자들이 서로를 식별하기 위해 사용하던 비밀스러운 기호."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompB012Name=^k드리그의 표식
+tagCompB012Desc="황산성 피의 눈물을 흘리는 눈꺼풀 없는 눈이 새겨져 있다."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompB013Name=^k유령깃든 강철
+tagCompB013Desc="강철에 붙잡혀 있는 영혼들의 사나운 속삭임들이 지니고 있는 자의 정신을 가득 채운다."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompB014Name=^k베로나스의 파편
+tagCompB014Desc="베로나스를 쓰러트렸던 전설의 창의 한 조각일 뿐이지만, 그럼에도 여전히 대단한 힘을 담아두고 있다.."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompB015Name=^k피의 연마재
+tagCompB015Desc="쓰러진 자의 피에 젖은, 이 저주받은 연마재는 칼날들에 피를 향한 갈망을 부여한다."^w^n(도끼, 도검, 총, 석궁에 적용 가능)
+
+tagCompB016Name=^k민감한 자철석
+tagCompB016Desc="드물게 발견되며 강한 자성을 지닌 이 돌들은 이것들을 만든 폭풍의 천둥에 반응하듯 공명한다."^w^n(목걸이, 메달에 적용 가능)
+
+tagCompB017Name=^k모그드로젠의 표식
+tagCompB017Desc="짐승들의 신, 모그드로젠을 숭배하는 드루이드들이 착용하던 비밀스러운 표식."^w^n(신발에 적용 가능)
+
+tagCompB018Name=^k공포의 두개골
+tagCompB018Desc="극도로 위험한 의뢰를 수락한 암살자에게 제공되었던 상징."^w^n(목걸이, 메달에 적용 가능)
+
+tagCompB019Name=^k아케인 스파크
+tagCompB019Desc="가장 순수한 비전 마력 에너지의 불꽃."^w^n(목걸이, 메달에 적용 가능)
+
+tagCompB020Name=^k미르미돈의 표식
+tagCompB020Desc="가장 용감한 전쟁 영웅들에게 주어졌던 강력함의 상징."^w^n(방패에 적용 가능)
+
+tagCompB021Name=^k올레론의 피
+tagCompB021Desc="전쟁의 신의 신성한 피."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
+
+tagCompB022Name=^k킬리안의 조각난 영혼
+tagCompB022Desc="아코비아 지하도시의 공포의 대상, 킬리안의 더럽혀진 영혼."^w^n(상체 방어구에 적용 가능)
+
+
+tagCompAetherCrystal=에테르 크리스탈
+tagCompAetherCrystalDesc="에테리얼의 힘이 여전히 남아있는 결정화된 조각. 마법적인 물품의 제작에 폭넓게 사용된다."
+
+tagCompAmmoBox=Ammunition Box
+tagCompAmmoBoxDesc="The resistance can always use more ammunition to hold off the dark forces plaguing Cairn."
+
+tagCompAScrap=고철
+tagCompAScrapDesc="물건들이나 구조물들을 고정시키거나 서로 연결시키는 데 사용할 수 있는 나사, 질낮은 금속, 가죽끈 등의 재료들."
+
+#ItemDifficultyUnlock
+tagDifficultyUnlock={^E}{%s0} 난이도 개방
+tagDifficultyAlreadyUnlocked=이 난이도는 이미 개방되었습니다
+tagDifficultyUnlockDLC=해당 아이템과 관련된 DLC가 존재하지 않습니다
+tagDifficultyIncorrectMode=해당 아이템을 사용하려면 올바른 게임 모드를 실행 중이어야 합니다.
+
+#ItemFactionBoosters
+
+tagFactionBooster={^E}{%s1}에 대한 명성 상승률이 {^H}{%d0}% {^E}증가됩니다
+tagFactionAlreadyBoosted={^r}[해당 세력이 발행한 신임장은 이미 적용되어 있습니다]
+
+tagFactionNegativeBooster={^E}{%s1}에 대한 악평 누적률이 {^H}{%d0}% {^E}증가됩니다
+tagFactionAlreadyNegativeBoosted={^r}[해당 세력이 배포한 수배서는 이미 적용되어 있습니다]
+
+tagFactionMandateConfirmation=이 세력의 신임장을 적용하겠습니까? 기존의 세력 인정서의 효과를 대체하게 됩니다.
+tagFactionWarrantConfirmation=이 세력의 인정서를 적용하겠습니까? 기존의 세력 신임장의 효과를 대체하게 됩니다.
+
+tagBoosterADesc=문서를 지닌 자를 그들의 모범으로 여긴다는 특정 세력의 공식 문서. ^o신임장과는 효과가 중첩되지 않습니다. 신임장은 이 문서의 효과를 대체합니다.
+tagBoosterBDesc=문서를 지닌 자를 그들을 대표할 수 있는 자로 인정한다는 특정 세력의 공식 문서. ^o다른 캐릭터에서 사용할 수 있도록 전송용 창고에 넣을 수 있습니다. 인정서와는 효과가 중첩되지 않습니다.
+tagBoosterCDesc=이 문서에서 가리키는 자를 공동의 적으로 선언하는 수배 포스터.
+tagBoosterBL_A01=검은군단 인정서
+tagBoosterBL_A02=Greater Writ of the Black Legion
+tagBoosterBL_B01=검은군단 신임장
+tagBoosterBL_B02=Greater Mandate of the Black Legion
+tagBoosterBL_B03=Mythical Mandate of the Black Legion
+tagBoosterDC_A01=데블스 크로싱 인정서
+tagBoosterDC_A02=Greater Writ of Devil's Crossing
+tagBoosterDC_B01=데블스 크로싱 신임장
+tagBoosterDC_B02=Greater Mandate of Devil's Crossing
+tagBoosterDC_B03=Mythical Mandate of Devil's Crossing
+tagBoosterEXILE_A01=추방당한 자의 인정서
+tagBoosterEXILE_A02=Greater Writ of the Outcast
+tagBoosterEXILE_B01=추방당한 자의 신임장
+tagBoosterEXILE_B02=Greater Mandate of the Outcast
+tagBoosterEXILE_B03=Mythical Mandate of the Outcast
+tagBoosterHS_A01=홈스테드 인정서
+tagBoosterHS_A02=Greater Writ of Homestead
+tagBoosterHS_B01=홈스테드 신임장
+tagBoosterHS_B02=Greater Mandate of Homestead
+tagBoosterHS_B03=Mythical Mandate of Homestead
+tagBoosterKC_A01=카이몬의 선민 인정서
+tagBoosterKC_A02=Greater Writ of the Kymon's Chosen
+tagBoosterKC_B01=카이몬의 선민 신임장
+tagBoosterKC_B02=Greater Mandate of the Kymon's Chosen
+tagBoosterKC_B03=Mythical Mandate of the Kymon's Chosen
+tagBoosterODV_A01=죽음의 감시자 교단 인정서
+tagBoosterODV_A02=Greater Writ of the Order of Death's Vigil
+tagBoosterODV_B01=죽음의 감시자 교단 신임장
+tagBoosterODV_B02=Greater Mandate of the Order of Death's Vigil
+tagBoosterODV_B03=Mythical Mandate of the Order of Death's Vigil
+tagBoosterRO_A01=로버 인정서
+tagBoosterRO_A02=Greater Writ of the Rovers
+tagBoosterRO_B01=로버 신임장
+tagBoosterRO_B02=Greater Mandate of the Rovers
+tagBoosterRO_B03=Mythical Mandate of the Rovers
+
+tagBoosterAetherial_C01=에테리얼 수배서
+tagBoosterAetherial_C02=Greater Aetherial Warrant
+tagBoosterAetherial_C03=Mythical Aetherial Warrant
+tagBoosterChthonian_C01=크토니안 수배서
+tagBoosterChthonian_C02=Greater Chthonian Warrant
+tagBoosterChthonian_C03=Mythical Chthonian Warrant
+tagBoosterOutlaw_C01=크론리의 수배서
+tagBoosterOutlaw_C02=Greater Cronley's Warrant
+tagBoosterOutlaw_C03=Mythical Cronley's Warrant
+tagBoosterUndead_C01=아코비아 수배서
+tagBoosterUndead_C02=Greater Arkovian Warrant
+tagBoosterUndead_C03=Mythical Arkovian Warrant
+tagBoosterKC_C01=카이몬의 선민 수배서
+tagBoosterKC_C02=Greater Kymon's Warrant
+tagBoosterKC_C03=Mythical Kymon's Warrant
+tagBoosterODV_C01=죽음의 감시자 교단의 수배서
+tagBoosterODV_C02=Greater Order Warrant
+tagBoosterODV_C03=Mythical Order Warrant
+tagBoosterEXILE_C01=추방당한 자의 수배서
+tagBoosterEXILE_C02=Greater Outcast's Warrant
+tagBoosterEXILE_C03=Mythical Outcast's Warrant
+
+
+#Misc
+
+tagMoney01=아이언
+tagMoneyFormat={^s}{%d0}  {%s1}
+
+tagPotionHealthA01=치유의 물약
+tagPotionHealthA01Desc="상처를 봉합하고 손상된 뼈들을 치유한다."
+tagPotionHealthA02=Tonic of Healing
+tagPotionHealthA02Desc="Seals wounds and mends broken bones."
+tagPotionHealthA03=Tonic of Revival
+tagPotionHealthA03Desc="Seals wounds and mends broken bones."
+
+tagPotionEnergyA01=정신력 엘릭서
+tagPotionEnergyA01Desc="정신과 영혼이 활기를 띠게 한다."
+
+tagPotionConstitutionA01=휴대 식량
+tagPotionConstitutionA01Desc="딱딱한 흙과 같은 맛이 나지만 영구적으로 보존되며, 잃어버린 건강 수치를 회복시켜준다."
+
+tagPotionConstitutionB01=생기의 정수
+tagPotionConstitutionB01Desc=잃어버린 건강 수치를 회복시켜주는 흩어지지 않은 생기 에너지.
+
+tagPotionDirections=[마우스 우클릭(게임패드: 아이템 사용)으로 소모]
+tagCombineStacks=[Ctrl+클릭(게임패드: 수량 분리)으로 원하는 수량 선택]
+tagHideTooltip=[Ctrl 키(게임패드: 컴포넌트 숨기기/보이기)를 눌러서 툴팁 숨기기]
+
+# Bonuses
+tagBonusLifePercentAbsPercent={^H}{%.0f0}%+{%.0f1}{^E}의 체력 즉시 회복 및 {^H}{%.0f2}%{^E}의 체력 지속 회복
+tagBonusLifePercentPercent={^H}{%.0f0}%{^E}의 체력 즉시 회복 및 {^H}{%.0f1}%{^E}의 체력 지속 회복
+tagBonusLifePercentSlow={^E}일정 시간 동안 {^H}{%.0f0}% {^E}의 체력 회복
+tagBonusLifePercentAbs={^H}{%.0f0}% + {%.0f1}{^E}의 체력 회복
+tagBonusLifePercent={^H}{%.0f0}%{^E}의 체력 회복
+tagBonusLifeAbs={^H}{%.0f0}{^E}의 체력 회복
+tagBonusManaPercentAbs={^H}{%.0f0}% + {%.0f1}{^E}의 에너지 회복
+tagBonusManaPercent={^H}{%.0f0}%{^E}의 에너지 회복
+tagBonusManaAbs={^H}{%.0f0}{^E}의 에너지 회복
+tagBonusExperience={%+d0} 경험치
+tagBonusMoney={%+d0} 아이언
+tagBonusSkillPoint={%+d0} 스킬 포인트
+tagBonusAttribPoint={%+d0} 능력치 포인트
+
+
+#Devotion
+tagDevotionReset={^E}디보션 포인트의 초기화하려면 사용하십시오
+tagDevotionNoPointsUsed={^r}[초기화할 디보션 포인트가 없습니다]
+tagDevotionResetConfirmation=디보션 포인트 전체를 초기화하겠습니까?
+
+
+
+#ItemSets
+
+
+tagItemSetC001Name=근위병의 정복
+tagItemSetC001NameB=치안유지군의 정복
+tagItemSetC001Desc="과거 치안유지군을 겸한 황실 근위병의 정규 근무복이었으나, 잔인한 새벽(Grim Dawn)의 시대가 되면서 극히 일부만 남게 되었다."
+
+tagItemSetC002Name=탐험가용 의복
+tagItemSetC002Desc="가벼우면서 튼튼한 열정적인 탐험가를 위한 방호복."
+
+tagItemSetC003Name=메이븐의 안식처
+tagItemSetC003NameB=메이븐의 성역
+tagItemSetC003Desc="전설적인 아케니스트 메이븐을 기리는 의복."
+
+tagItemSetC004Name=피수확자의 영광
+tagItemSetC004NameB=피수확자의 학살
+tagItemSetC004Desc="케언에서 가장 잔인한 암살자들만이 사용하는 무기와 방어구."
+
+tagItemSetC005Name=습격자의 심판
+tagItemSetC005NameB=습격자의 판결
+tagItemSetC005Desc="판사, 배심원, 그리고 처형집행인."
+
+tagItemSetC006Name=전령관의 예복
+tagItemSetC006NameB=전령관의 상징들
+tagItemSetC006Desc="황제의 외교적 지시를 맡던 전령관의 갑옷."
+
+tagItemSetC007Name=약제사
+tagItemSetC007NameB=치료사
+tagItemSetC007Desc="치유사로서 외교적으로 중립이라는 의미도 갖는, 위급한 이들을 돕는데 헌신하는 의무병이나 치료사들이 입던 의복."
+
+tagItemSetC008Name=징벌
+tagItemSetC008NameB=단죄
+tagItemSetC008Desc="적들에게 강한 산을 뿌리는 것으로 악명이 있었던 인퀴지터 그레이웨더의 방어구로, 그는 사악한 자들은 그저 죽이는 것만으로는 부족하며 적절한 과정을 거쳐 처형해야만 한다고 믿었다."
+
+tagItemSetC009Name=초점없는 눈동자
+tagItemSetC009Desc="맹목적인 암살자, 타데우스 브라나간은 기사단의 지도부 중 한 사람을 밝은 대낮에 암살하여 유명해졌다."
+
+tagItemSetC010Name=샤프슈터의 상징
+tagItemSetC010Desc="500 야드 거리에서 날아가는 새 한 마리를 적중시킬 수 있는 최고 사격수들의 무장들."
+
+tagItemSetC011Name=부정한 계약의 증표
+tagItemSetC011Desc="입에 담기도 끔찍한 의식들을 치를 때 비밀 결사에서 착용하던 의복."
+
+tagItemSetC012Name=왕가의 부
+tagItemSetC012Desc="잔인한 새벽(Grim Dawn)의 참화 속에서 소실됐다고 여겨졌던 황실에서 보유했던 보석들."
+
+tagItemSetC013Name=서약위반자
+tagItemSetC013NameB=서약위반자의 화염
+tagItemSetC013Desc="서약위반자, 적에게 도시의 성문을 열어 그의 주군을 배반했던 어느 기사가 사용했었던 장비."
+
+tagItemSetC014Name=용기의 장식
+tagItemSetC014Desc="전쟁 기간에 영웅적인 행동을 보여준 군인들에게 수여되었던 훈장들."
+
+tagItemSetC015Name=학살
+tagItemSetC015Desc="이 반지들은 착용하는 자 누구에게든 학살의 충동을 느끼게 한다."
+
+tagItemSetC016Name=비전의 권위자
+tagItemSetC016Desc="비전 마법의 지평에서 매우 탁월한 진보를 이뤄낸 아케니스트들에게 헌정되었던 의복."
+
+tagItemSetC017Name=새벽수호자
+tagItemSetC017Desc="멘허에 대한 신앙으로 뭉친 가장 열정적인 수호자들만이 입을 수 있었던 갑옷."
+
+tagItemSetC018Name=알카모스의 격노
+tagItemSetC018NameB=알카모스의 맹위
+tagItemSetC018Desc="아코비아의 최고집행자, 알카모스의 인장들."
+
+tagItemSetC019Name=독기
+tagItemSetC019NameB=죽음의 독기
+tagItemSetC019Desc="드리그에게 선택받은 자들이 입던 전례복."
+
+tagItemSetC020Name=유황
+tagItemSetC020NameB=꺼지지 않는 유황불
+tagItemSetC020Desc="얼즈인에 대한 신앙이 두터운 자들이 지니던 무기와 방어구."
+
+tagItemSetC021Name=동방의 징표
+tagItemSetC021Desc="대양 너머의 외국 땅에서 온 경이로운 사제들이 입던 의복."
+
+tagItemSetC022Name=야성호출자
+tagItemSetC022NameB=야성호출자의 부름
+tagItemSetC022Desc="야성호출자, 자연의 목소리와 조화를 이루는 샤먼들의 치장."
+
+tagItemSetC023Name=황제친위대
+tagItemSetC023Desc="전투가 벌어지면 용감하게 몰입한다고 알려진, 전쟁에서 단련된 베테랑들이 입던 갑옷."
+
+tagItemSetC024Name=화염보관자
+tagItemSetC024Desc="화염의 정령의 힘이 깃든, 불타오르는 듯한 심장."
+
+tagItemSetC025Name=칼리도르의 정복
+tagItemSetC025Desc="존경받는 아케니스트였으며 비전 마법 폭풍이라는 기술의 창시자인 마스터 칼리도르의 물품들."
+
+tagItemSetC026Name=미르미돈 갑옷
+tagItemSetC026Desc="정예 돌격병들에게 지급되던 검은군단 제식갑옷."
+
+tagItemSetC027Name=모그드로젠의 차분함
+tagItemSetC027Desc="짐승신의 믿음을 얻는 자는 드물고, 그 차분한 시선을 통해 축복받는 자는 더욱 드물다."
+
+tagItemSetC028Name=비전 마법 폭풍
+tagItemSetC028Desc="대담한 자, 혹은 멍청한 자만이 손댄다는 에테르 안에서는 에너지가 무질서하게 요동친다."
+
+tagItemSetC029Name=근원적 균형
+tagItemSetC029Desc="손끝에 걸리는, 불의 맹렬함과 얼음의 힘."
+
+tagItemSetD001Name=심판자의 갑옷
+tagItemSetD001Desc="멘허의 수호자 기사단의 최고 심판관, 침묵의 호르발드의 갑옷."
+
+tagItemSetD002Name=성스러운 균형
+tagItemSetD002Desc="생명과 죽음의 정수 그 자체가 이 칼들에 담겨져 있다."
+
+tagItemSetD003Name=야수소환사의 정복
+tagItemSetD003Desc="곰의 완력, 부엉이의 영리함, 늑대의 맹렬함."
+
+tagItemSetD004Name=새벽인도자의 빛
+tagItemSetD004Desc="침식해오는 어둠에 대항하는 태양의 격노."
+
+tagItemSetD005Name=하빈저
+tagItemSetD005Desc="에룰란의 변경에서 명성을 떨친 현상금 사냥꾼, 하빈저의 도구들."
+
+tagItemSetD006Name=법관의 인장
+tagItemSetD006Desc="한 사람의 결정의 무게에 많은 사람들의 운명이 걸려있다."
+
+tagItemSetD007Name=악마사냥꾼의 복장
+tagItemSetD007Desc="멘허의 독실한 신자이며 악마 퇴치자였던, 올리버 반스테드의 치장."
+
+tagItemSetD008Name=총포제작자의 쌍둥이
+tagItemSetD008Desc="함께 만들어졌고, 하나가 되어 싸운다."
+
+tagItemSetD009Name=야만족 선봉대
+tagItemSetD009Desc="문명이 고도화되기 이전 시대의 물품들."
+
+tagItemSetD010Name=투시자
+tagItemSetD010Desc="길덤 아케이넘의 으뜸가는 요새, 은빛 탑의 대마법사가 착용했던 의복들."
+
+tagItemSetD011Name=인보커의 본령
+tagItemSetD011Desc="화산의 격렬한 힘과 균형을 이루는 북방의 바람의 한기."
+
+tagItemSetD012Name=마코비안의 요새
+tagItemSetD012Desc="모든 전투에서 최전선에서 부하들을 이끌며 용맹하게 싸웠던 유명한 전술가, 마코비안 장군 갑옷."
+
+tagItemSetD013Name=얼즈인의 아바타
+tagItemSetD013Desc="배신당한 신의 강렬한 증오가 착용자를 꺼지지 않는 화염으로 채운다."
+
+tagItemSetD014Name=드리그의 수의
+tagItemSetD014Desc="위대한 수호자를 섬기는 비밀 결사의 최고 사제의 의장."
+
+tagItemSetD015Name=데스마크
+tagItemSetD015Desc="죽음의 부담은 자신의 진짜 이름을 버리고 자비를 잊은 얼굴없는 암살자, 데스마크의 유산에 몸을 맡긴 모든 이들에게 무겁게 다가온다."
+
+tagItemSetD016Name=이스칸드라의 일관성
+tagItemSetD016Desc="주의깊게 보존되어온 마스터 이스칸드라의 의복으로, 그녀의 이름이 붙게된 그 주문을 창조했던 날에 입었던 것이라고 한다."
+
+tagItemSetD017Name=울토스의 폭풍
+tagItemSetD017Desc="하늘의 신이며 격변의 폭풍들을 만드는 존재, 울토스의 아바타들이 입던 갑옷."
+
+tagItemSetD018Name=트로잔의 승천
+tagItemSetD018Desc="은거하던 동안 트로잔은 별들에 대해 연구했고, 그 정제되지 않은 에너지들을 통제하려 시도하면서 발생할 모든 위험들을 감수하며 별들에 담긴 믿을 수 없는 힘을 활용하는 방법을 익혔다."
+
+tagItemSetD019Name=발던의 배반
+tagItemSetD019Desc="발던은 케언 전역에서 가장 뛰어난 저격수의 한 사람이었지만, 그가 진정으로 이름을 떨친 것은 그의 시선을 에룰란의 귀족들에게로 돌리고난 뒤부터였다."
+
+tagItemSetD020Name=맹독칼날의 계약
+tagItemSetD020Desc="자신들의 무기에 산을 입혀 사용하던 어느 나이트블레이드 집단에서 착용하던 갑옷."
+
+tagItemSetD021Name=검은 화염의 계약 증표
+tagItemSetD021Desc="솔라엘의 검은 화염을 다루는 거장이었던, 창백한 자의 의복."
+
+tagItemSetD022Name=빛의 수호자
+tagItemSetD022Desc="신앙의 수호하는, 엠피리온의 빛의 수호자."
+
+tagItemSetD023Name=지옥의 기사
+tagItemSetD023Desc="검은 군단의 지옥의 기사로 더 잘 알려진, 갈로스 발의 갑옷."
+
+tagItemSetD024Name=아그리빅스의 격노
+tagItemSetD024Desc="아그리빅스는 비전 마법의 거장으로서 명성이 있었지만, 그의 힘에 대한 갈망은 결국 그의 몰락하는 원인이 되었다."
+
+tagItemSetD025Name=워본 갑옷
+tagItemSetD025Desc="전쟁으로부터 만들어진 이 갑옷은, 오늘날까지 살아남은 그 어느 다른 유물보다도 많은 분쟁들을 목격해왔다."
+
+tagItemSetD026Name=피의 광란자의 흥분
+tagItemSetD026Desc="북방의 얼어붙은 황무지의 흉포한 부족, 피의 광란자들의 갑옷."
+
+tagItemSetD027Name=최고집행자의 인장
+tagItemSetD027Desc="아코비아의 최고집행자 알카모스는 그의 존재만으로도 공포심을 일으켰는데, 고통의 시간이 얼마 남지 않았다는 뜻이었기 때문이다."
+
+#Prefixes
+
+tagPrefixAA002={^Y}일깨워주는
+tagPrefixAA003={^Y}광휘의
+tagPrefixAA004={^Y}기민한
+tagPrefixAA005={^Y}힘있는
+tagPrefixAA006={^Y}신비한
+tagPrefixAA007={^Y}생명력의
+tagPrefixAA008={^Y}에너지의
+tagPrefixAA009={^Y}공격적인
+tagPrefixAA010={^Y}굳센
+
+tagPrefixAA011={^Y}솔저의
+tagPrefixAA012={^Y}데몰리셔니스트의
+tagPrefixAA013={^Y}오컬티스트의
+tagPrefixAA014={^Y}나이트블레이드의
+tagPrefixAA015={^Y}아케니스트의
+
+tagPrefixAA016={^Y}회복력담긴
+tagPrefixAA017={^Y}제압자의
+tagPrefixAA018={^Y}방랑자의
+
+tagPrefixAA019={^Y}강인함의
+tagPrefixAA020={^Y}Invigorating
+tagPrefixAA021={^Y}샤먼의
+
+tagPrefixAD001={^Y}관통차단의
+tagPrefixAD002={^Y}열차단의
+tagPrefixAD003={^Y}피난처의
+tagPrefixAD004={^Y}무시하는
+tagPrefixAD005={^Y}정화의
+tagPrefixAD006={^Y}침투차단의
+tagPrefixAD007={^Y}침투차단의
+tagPrefixAD008={^Y}침투차단의
+tagPrefixAD009={^Y}침투차단의
+tagPrefixAD010={^Y}저항력의
+tagPrefixAD011={^Y}저항력의
+tagPrefixAD012={^Y}저항력의
+tagPrefixAD013={^Y}저항력의
+tagPrefixAD014={^Y}저항력의
+tagPrefixAD015={^Y}저항력의
+tagPrefixAD016={^Y}생기보존의
+tagPrefixAD017={^Y}정연한
+tagPrefixAD018={^Y}결계의
+tagPrefixAD019={^Y}확고한
+tagPrefixAD020={^Y}방해무효화의
+tagPrefixAD021={^Y}무지개빛의
+tagPrefixAD022={^Y}울퉁불퉁한
+tagPrefixAD023={^Y}출혈방지의
+tagPrefixAD024={^Y}빙결방지의
+tagPrefixAD025={^Y}내구성의
+tagPrefixAD026={^Y}인내력의
+tagPrefixAD027={^Y}통과불능의
+tagPrefixAD028={^Y}단단한
+tagPrefixAD029={^Y}영속적인
+tagPrefixAD030={^Y}파괴불능의
+tagPrefixAD031={^Y}견고한
+tagPrefixAD032={^Y}충실한
+
+
+tagPrefixAO001={^Y}우수한
+tagPrefixAO002={^Y}부수는
+tagPrefixAO003={^Y}구멍내는
+tagPrefixAO004={^Y}냉각된
+tagPrefixAO005={^Y}소각하는
+tagPrefixAO006={^Y}독발라진
+tagPrefixAO007={^Y}충전된
+tagPrefixAO008={^Y}흡혈의
+tagPrefixAO009={^Y}흡수의
+tagPrefixAO010={^Y}쥐어짜는
+tagPrefixAO011={^Y}침식성의
+tagPrefixAO012={^Y}뒤틀린
+tagPrefixAO013={^Y}공허담긴
+tagPrefixAO014={^Y}부식시키는
+
+tagPrefixB001_WpnMelee1h_A={^G}폭압적인
+tagPrefixB002_WpnMelee1h_A={^G}가차없는
+tagPrefixB003_WpnMelee1h_A={^G}룬사용자의
+tagPrefixB004_WpnMelee1h_A={^G}전염병품은
+tagPrefixB005_WpnMelee1h_A={^G}야만적인
+tagPrefixB006_WpnMelee1h_A={^G}피마시는
+tagPrefixB007_WpnMelee1h_A={^G}지휘관의
+tagPrefixB008_WpnMelee1h_A={^G}악마적인
+tagPrefixB009_WpnMelee1h_A={^G}황천의
+tagPrefixB010_WpnMelee1h_A={^G}원소술사의
+tagPrefixB011_WpnMelee1h_A={^G}엘드리치의
+tagPrefixB012_WpnMelee1h_A={^G}하늘추락의
+tagPrefixB013_WpnMelee1h_A={^G}서리품은
+tagPrefixB014_WpnMelee1h_A={^G}대지결합의
+tagPrefixB015_WpnMelee1h_A={^G}폭풍채워진
+tagPrefixB016_WpnMelee1h_A={^G}지옥불의
+tagPrefixB017_WpnMelee1h_A={^G}주문영창의
+tagPrefixB018_WpnMelee1h_A={^G}맹독이빨의
+tagPrefixB019_WpnMelee1h_A={^G}에테르불길의
+tagPrefixB020_WpnMelee1h_A={^G}적의담긴
+tagPrefixB021_WpnMelee1h_A={^G}심장꿰뚫는
+tagPrefixB022_WpnMelee1h_A={^G}광분한
+tagPrefixB023_WpnMelee1h_A={^G}빙하같은
+tagPrefixB024_WpnMelee1h_A={^G}벼락맞은
+tagPrefixB025_WpnMelee1h_A={^G}하얀서리의
+
+tagPrefixB001_Ar_A={^G}천상의
+tagPrefixB002_Ar_A={^G}광폭한
+tagPrefixB003_Ar_A={^G}배교적인
+tagPrefixB004_Ar_A={^G}리치의
+tagPrefixB005_Ar_A={^G}조화갖춰진
+tagPrefixB006_Ar_A={^G}드레드로드의
+tagPrefixB007_Ar_A={^G}초토화하는
+tagPrefixB008_Ar_A={^G}고대의
+tagPrefixB009_Ar_A={^G}폭풍우의
+tagPrefixB010_Ar_A={^G}생존우선의
+tagPrefixB011_Ar_A={^G}광적인
+tagPrefixB012_Ar_A={^G}감시체의
+tagPrefixB013_Ar_A={^G}성직자의
+tagPrefixB014_Ar_A={^G}세라핌의
+tagPrefixB015_Ar_A={^G}축성받은
+tagPrefixB016_Ar_A={^G}하얀서리의
+tagPrefixB017_Ar_A={^G}고사시키는
+tagPrefixB018_Ar_A={^G}불멸의
+tagPrefixB019_Ar_A={^G}광휘인도자의
+tagPrefixB020_Ar_A={^G}포기하지않는
+tagPrefixB021_Ar_A={^G}공명하는
+tagPrefixB022_Ar_A={^G}위협적인
+tagPrefixB023_Ar_A={^G}가공할
+tagPrefixB024_Ar_A={^G}인상적인
+tagPrefixB025_Ar_A={^G}무자비한
+tagPrefixB026_Ar_A={^G}잔인성의
+tagPrefixB027_Ar_A={^G}방혈유도자의
+tagPrefixB028_Ar_A={^G}스톤하이드
+tagPrefixB029_Ar_A={^G}전략가의
+tagPrefixB030_Ar_A={^G}빙하같은
+tagPrefixB031_Ar_A={^G}벼락맞은
+tagPrefixB032_Ar_A={^G}악마적인
+tagPrefixB033_Ar_A={^G}에테르불길의
+tagPrefixB034_Ar_A={^G}지시감독자의
+tagPrefixB035_Ar_A={^G}지배하는자의
+
+tagPrefixB001_Class_A={^G}코만도의
+tagPrefixB002_Class_A={^G}위치블레이드의
+tagPrefixB003_Class_A={^G}블레이드마스터의
+tagPrefixB004_Class_A={^G}배틀메이지의
+tagPrefixB005_Class_A={^G}파이로맨서의
+tagPrefixB006_Class_A={^G}사보추어의
+tagPrefixB007_Class_A={^G}소서러의
+tagPrefixB008_Class_A={^G}위치헌터의
+tagPrefixB009_Class_A={^G}워록의
+tagPrefixB010_Class_A={^G}스펠브레이커의
+tagPrefixB011_Class_A={^G}워리어의
+tagPrefixB012_Class_A={^G}방화자의
+tagPrefixB013_Class_A={^G}이단자의
+tagPrefixB014_Class_A={^G}암살자의
+tagPrefixB015_Class_A={^G}마술사의
+tagPrefixB016_Class_A={^G}와더의
+tagPrefixB017_Class_A={^G}엘레멘탈리스트의
+tagPrefixB018_Class_A={^G}컨져러의
+tagPrefixB019_Class_A={^G}트릭스터의
+tagPrefixB020_Class_A={^G}드루이드의
+tagPrefixB021_Class_A={^G}예지자의
+
+tagPrefixB001_Sh_A={^G}굳건한
+tagPrefixB002_Sh_A={^G}보관자의
+tagPrefixB003_Sh_A={^G}과충전된
+tagPrefixB004_Sh_A={^G}시간주술사의
+tagPrefixB005_Sh_A={^G}대영주의
+tagPrefixB006_Sh_A={^G}사냥개조련사의
+tagPrefixB007_Sh_A={^G}모래폭풍의
+tagPrefixB008_Sh_A={^G}빙하같은
+tagPrefixB009_Sh_A={^G}벼락맞은
+tagPrefixB010_Sh_A={^G}부식성의
+tagPrefixB011_Sh_A={^G}파괴자의
+tagPrefixB012_Sh_A={^G}화염장벽의
+tagPrefixB013_Sh_A={^G}빙하같은
+tagPrefixB014_Sh_A={^G}벼락맞은
+tagPrefixB015_Sh_A={^G}부식성의
+tagPrefixB016_Sh_A={^G}스톤하이드
+tagPrefixB017_Sh_A={^G}엘드리치의
+tagPrefixB018_Sh_A={^G}지옥의
+tagPrefixB019_Sh_A={^G}폭풍채워진
+tagPrefixB020_Sh_A={^G}회백색서리의
+tagPrefixB021_Sh_A={^G}악마적인
+tagPrefixB022_Sh_A={^G}에테르불길의
+
+#Suffixes
+
+tagSuffixA001={^Y}기량의
+tagSuffixA002={^Y}인내의
+tagSuffixA003={^Y}정신의
+tagSuffixA004={^Y}늑대의
+tagSuffixA005={^Y}여우의
+tagSuffixA006={^Y}멧돼지의
+tagSuffixA007={^Y}독수리의
+
+tagSuffixA008={^Y}생명력의
+tagSuffixA009={^Y}현명함의
+tagSuffixA010={^Y}잠재력의
+tagSuffixA011={^Y}명상의
+
+tagSuffixA014={^Y}활발함의
+tagSuffixA015={^Y}가속의
+tagSuffixA016={^Y}신속의
+tagSuffixA017={^Y}열중의
+tagSuffixA017B={^Y}일격의
+
+tagSuffixA018={^Y}공격의
+tagSuffixA019={^Y}방어의
+tagSuffixA020={^Y}완비의
+
+tagSuffixA022={^Y}of Detoxification
+tagSuffixA023={^Y}of Coagulation
+
+tagSuffixA024={^Y}사냥의
+tagSuffixA025={^Y}살인의
+tagSuffixA026={^Y}추방의
+tagSuffixA027={^Y}퇴치의
+
+tagSuffixA028={^Y}파멸의
+tagSuffixA029={^Y}동상의
+tagSuffixA030={^Y}작열의
+tagSuffixA031={^Y}낙뢰의
+tagSuffixA032={^Y}침식의
+tagSuffixA033={^Y}부식의
+tagSuffixA034={^Y}맹독의
+tagSuffixA035={^Y}출혈의
+tagSuffixA036={^Y}방비의
+tagSuffixA037={^Y}가시의
+tagSuffixA038={^Y}에테르의
+tagSuffixA039={^Y}공허의
+tagSuffixA040={^Y}가시뼈의
+
+tagSuffixA041={^Y}치유의
+tagSuffixA042={^Y}재생의
+tagSuffixA043={^Y}거북이의
+tagSuffixA044={^Y}오소리의
+tagSuffixA045={^Y}족제비의
+tagSuffixA046={^Y}서펜트의
+tagSuffixA047={^Y}대양의
+tagSuffixA048={^Y}산맥의
+
+tagSuffixA049={^Y}박쥐의
+tagSuffixA050={^Y}독사의
+tagSuffixA051={^Y}황소의
+tagSuffixA052={^Y}올빼미의
+tagSuffixA053={^Y}균열사냥개의
+tagSuffixA054={^Y}사막의
+tagSuffixA055={^Y}극지의
+tagSuffixA056={^Y}황무지의
+tagSuffixA057={^Y}늪지의
+tagSuffixA058={^Y}바람의
+tagSuffixA059={^Y}망령의
+tagSuffixA060={^Y}주문결합의
+tagSuffixA061={^Y}불길의
+tagSuffixA062={^Y}냉기의
+tagSuffixA063={^Y}감전의
+tagSuffixA064={^Y}충격의
+
+tagSuffixA065={^Y}장벽의
+
+tagSuffixB001_Wpn_A={^G}화재의
+tagSuffixB002_Wpn_A={^G}광기의
+tagSuffixB003_Wpn_A={^G}축성의
+tagSuffixB004_Wpn_A={^G}심연의
+tagSuffixB005_Wpn_A={^G}현자의
+tagSuffixB006_Wpn_A={^G}살해자의
+tagSuffixB007_Wpn_A={^G}탐욕의
+tagSuffixB008_Wpn_A=포식자의
+tagSuffixB009_Wpn_A={^G}열성의
+tagSuffixB010_Wpn_A={^G}잔혹함의
+tagSuffixB011_Wpn_A={^G}무자비함의
+tagSuffixB012_Wpn_A={^G}야수성의
+tagSuffixB013_Wpn_A={^G}분노의
+tagSuffixB014_Wpn_A={^G}흉포함의
+tagSuffixB015_Wpn_A={^G}학살자의
+tagSuffixB016_Wpn_A={^G}맹공격의
+tagSuffixB017_Wpn_A={^G}들불의
+tagSuffixB018_Wpn_A={^G}급류의
+tagSuffixB019_Wpn_A={^G}분쇄의
+tagSuffixB020_Wpn_A={^G}황폐의
+tagSuffixB021_Wpn_A={^G}독발톱의
+tagSuffixB022_Wpn_A={^G}혐오체의
+tagSuffixB023_Wpn_A={^G}소멸의
+tagSuffixB024_Wpn_A={^G}원소들의
+tagSuffixB025_Wpn_A={^G}속박의
+tagSuffixB026_Wpn_A=of Affliction
+tagSuffixB027_Wpn_A={^G}암흑관통의
+tagSuffixB028_Wpn_A=겨울폭풍의
+tagSuffixB029_Wpn_A=돌풍의
+tagSuffixB030_Wpn_A=허리케인의
+tagSuffixB031_Wpn_A={^G}마법적 균형의
+tagSuffixB032_Wpn_A={^G}화염술사의
+tagSuffixB033_Wpn_A={^G}마법적 불길의
+tagSuffixB034_Wpn_A={^G}공허불길의
+tagSuffixB035_Wpn_A={^G}추락한 하늘의
+tagSuffixB036_Wpn_A={^G}솔라엘의 적의의
+tagSuffixB037_Wpn_A={^G}조각난 현실의
+tagSuffixB038_Wpn_A={^G}비밀결사의
+
+tagSuffixB001_Ar_A={^G}비전 전승의
+tagSuffixB002_Ar_A={^G}멘허의 벽의
+tagSuffixB003_Ar_A={^G}얼즈인의 불길의
+tagSuffixB004_Ar_A={^G}드리그의 시선의
+tagSuffixB005_Ar_A={^G}솔라엘의 적의의
+tagSuffixB006_Ar_A={^G}올레론의 분노의
+tagSuffixB007_Ar_A={^G}자연의 은총의
+tagSuffixB008_Ar_A={^G}알브레히트적 집중의
+tagSuffixB009_Ar_A={^G}길덤 아케이넘의
+tagSuffixB010_Ar_A={^G}갈망의 균열의
+tagSuffixB011_Ar_A={^G}나무숲의
+tagSuffixB012_Ar_A={^G}칼날의
+tagSuffixB013_Ar_A={^G}영웅적 용맹의
+tagSuffixB014_Ar_A={^G}드란구울의
+tagSuffixB015_Ar_A={^G}황야의
+tagSuffixB016_Ar_A={^G}야생동물의
+tagSuffixB017_Ar_A={^G}소각의
+tagSuffixB018_Ar_A={^G}빙하의
+tagSuffixB019_Ar_A={^G}허리케인의
+tagSuffixB020_Ar_A={^G}바실리스크의
+tagSuffixB021_Ar_A={^G}슬리스의
+tagSuffixB022_Ar_A={^G}변칙의
+tagSuffixB023_Ar_A={^G}예언자의
+tagSuffixB024_Ar_A={^G}헐크의
+tagSuffixB025_Ar_A={^G}공허 전령의
+tagSuffixB026_Ar_A={^G}균형잡힌 강철의
+tagSuffixB027_Ar_A={^G}패권의
+tagSuffixB028_Ar_A={^G}그림자의
+tagSuffixB029_Ar_A={^G}악랄한 갈고리의
+tagSuffixB030_Ar_A={^G}살육의
+tagSuffixB031_Ar_A={^G}주문시전의
+tagSuffixB032_Ar_A={^G}통찰의
+tagSuffixB033_Ar_A={^G}타버린 최후의
+tagSuffixB034_Ar_A={^G}생존의
+tagSuffixB035_Ar_A={^G}왕의
+tagSuffixB036_Ar_A={^G}파괴의
+tagSuffixB037_Ar_A={^G}아마라스타의 질풍의
+tagSuffixB038_Ar_A={^G}메이븐의 재치의
+tagSuffixB039_Ar_A={^G}겨울폭풍의
+tagSuffixB040_Ar_A={^G}돌풍의
+tagSuffixB041_Ar_A={^G}마법적 균형의
+tagSuffixB042_Ar_A={^G}마법적 불길의
+tagSuffixB043_Ar_A={^G}공허불길의
+tagSuffixB044_Ar_A={^G}추락한 하늘의
+tagSuffixB045_Ar_A={^G}조각난 현실의
+tagSuffixB046_Ar_A={^G}비밀결사의
+tagSuffixB047_Ar_A={^G}황폐의
+tagSuffixB049_Ar_A={^G}드리그의 시선의
+tagSuffixB050_Ar_A={^G}솔라엘의 적의의
+tagSuffixB051_Ar_A={^G}올레론의 분노의
+tagSuffixB052_Ar_A={^G}자연의 은총의
+tagSuffixB053_Ar_A={^G}파괴의
+tagSuffixB054_Ar_A={^G}아마라스타의 질풍의
+tagSuffixB055_Ar_A={^G}추락한 하늘의
+tagSuffixB056_Ar_A={^G}마법적 바람의
+tagSuffixB057_Ar_A={^G}깃털발걸음의
+tagSuffixB058_Ar_A={^G}바위발자국의
+tagSuffixB059_Ar_A={^G}춤추는 그림자의
+tagSuffixB060_Ar_A={^G}파충류적 회복력의
+tagSuffixB061_Ar_A={^G}마법적 바람의
+tagSuffixB062_Ar_A={^G}신속한 반응의
+tagSuffixB063_Ar_A={^G}아마라스타의 날렵함의
+tagSuffixB064_Ar_A={^G}의장대의
+tagSuffixB065_Ar_A={^G}신비한 정신의
+tagSuffixB066_Ar_A={^G}에테르폭풍의
+tagSuffixB067_Ar_A={^G}음울한 의도의
+tagSuffixB068_Ar_A={^G}전장의 분노의
+tagSuffixB069_Ar_A={^G}신비한 위력의
+tagSuffixB070_Ar_A={^G}바위주먹의
+tagSuffixB071_Ar_A={^G}황야의
+tagSuffixB072_Ar_A={^G}야생동물의
+
+tagSuffixB001_Sh_A={^G}요새화의
+tagSuffixB002_Sh_A={^G}대담함의
+tagSuffixB003_Sh_A={^G}방어자의
+tagSuffixB004_Sh_A={^G}신탁의
+tagSuffixB005_Sh_A={^G}유령의
+tagSuffixB006_Sh_A={^G}침착함의
+tagSuffixB007_Sh_A={^G}들불의
+tagSuffixB008_Sh_A={^G}분쇄의
+tagSuffixB009_Sh_A={^G}급류의
+tagSuffixB010_Sh_A={^G}황폐의
+tagSuffixB011_Sh_A=of the Defiler
+tagSuffixB012_Sh_A={^G}혐오체의
+tagSuffixB013_Sh_A={^G}솔라엘의 적의의
+tagSuffixB014_Sh_A={^G}보복의
+tagSuffixB015_Sh_A={^G}현자의
+tagSuffixB016_Sh_A={^G}수호자의
+tagSuffixB017_Sh_A={^G}들불의
+tagSuffixB018_Sh_A={^G}분쇄의
+tagSuffixB019_Sh_A={^G}급류의
+tagSuffixB020_Sh_A={^G}황폐의
+tagSuffixB021_Sh_A={^G}멘허의 벽의
+tagSuffixB022_Sh_A={^G}소멸의
+tagSuffixB023_Sh_A={^G}의식의
+tagSuffixB024_Sh_A={^G}속박의
+tagSuffixB025_Sh_A=of Affliction
+tagSuffixB026_Sh_A={^G}모래의
+tagSuffixB027_Sh_A={^G}죽음의 한기의
+tagSuffixB028_Sh_A=of Storms
+tagSuffixB029_Sh_A=화재의
+tagSuffixB030_Sh_A=겨울폭풍의
+tagSuffixB031_Sh_A=돌풍의
+tagSuffixB032_Sh_A={^G}불멸성의
+tagSuffixB033_Sh_A={^G}마법적 균형의
+tagSuffixB034_Sh_A={^G}화염술사의
+tagSuffixB035_Sh_A={^G}마법적 불길의
+tagSuffixB036_Sh_A={^G}공허불길의
+tagSuffixB037_Sh_A={^G}추락한 하늘의
+tagSuffixB038_Sh_A={^G}조각난 현실의
+tagSuffixB039_Sh_A={^G}비밀 결사의
+tagSuffixB040_Sh_A={^G}오염의
+tagSuffixB041_Sh_A={^G}소멸의
+tagSuffixB042_Sh_A={^G}화재의
+tagSuffixB043_Sh_A={^G}허리케인의
+tagSuffixB044_Sh_A={^G}빙하의
+
+#ItemSkills
+
+tagAutoSkillCondition01= (체력이 {%.0f1}%일 때 {%d0}% 확률로 발동)
+tagAutoSkillCondition02= (에너지가 {%.0f1}%일 때 {%d0}% 확률로 발동)
+tagAutoSkillCondition03= (피격 시 {%d0}% 확률로 발동)
+tagAutoSkillCondition04= (근접 공격에 피격 시 {%d0}% 확률로 발동)
+tagAutoSkillCondition05= (원거리 공격에 피격 시 {%d0}% 확률로 발동)
+tagAutoSkillCondition06= (버프 시전 시 {%d0}% 확률로 발동)
+tagAutoSkillCondition07= (공격 시 {%d0}% 확률로 발동)
+tagAutoSkillCondition08= (착용 중일 경우 활성화)
+tagAutoSkillCondition09= (치명타 피격 시 {%d0}% 확률로 발동)
+tagAutoSkillCondition10= (치명타 적중 시 {%d0}% 확률로 발동)
+tagAutoSkillCondition11= (차단 시 {%d0}% 확률로 발동)
+tagAutoSkillCondition12= (적 처치 시 {%d0}% 확률로 발동)
+
+#LootChests
+
+tagChestWoodA01=마모된 상자
+tagChestRationA01=여행자의 배낭
+tagChestMetalA01=철제 보관함
+tagChestNaturalA01=표시있는 돌
+tagChestNaturalA02=뿌리드러난 그루터기
+tagChestCorpseA01=부패 중인 시체
+tagChestRockCairnA01=돌무더기
+tagChestCocoonA01=고치가된 유해
+tagChestWoodB01=세련된 상자
+tagChestMetalB01=화려한 보관함
+tagChestStoneAltarC01=돌 제단
+tagChestSlithAltarC01=슬리스의 제단
+tagChestStoneMonolithC01=석제 상자
+tagChestStoneSarcophagusC01=고대의 석관
+tagChestBoneChestD01=해골 유물함
+tagChestBoneChestD02=해골 궤짝
+tagChestTreasureTrove01=보물 수집함
+tagChestCorruptedChestD01=오염된 유물함
+tagChestCorruptedChestD02=오염된 궤짝
+
+tagChestRackArmorA01=갑옷 거치대
+tagChestRackArmorB01=갑옷 보관대
+tagChestRackWeaponsA01=무기 거치대
+tagChestRackWeaponsB01=무기 보관대
+
+tagChestCorpse_Mornay=모르네이의 유해
+tagChestCorpse_RoverElder=장로 마티아스의 유해
+tagChestCorpse_Jacob=제이콥의 유해
+tagChestCorpse_Refugee=달리아 테버린의 유해
+tagChestCorpse_BlackLegion=검은군단 전사자
+tagChestCorpse_Malkadarr=말카다르의 유해
+tagChestCorpse_BurrwitchScout=살나의 유해
+
+tagLectern_WardensLabA01=연구 일지
+tagLectern_OldArkoviaRuinsA01=오래된 독서대
+tagChestBozemanFolly=보즈맨의 손가방
+
+tagChestHeroD01=훌륭한 상자
+tagChestHeroD01_Dropped=훌륭한 전리품
+tagChestHeroD02=대단한 상자
+tagChestHeroD02_Dropped=대단한 전리품
+tagChestHeroD03=최고의 상자
+tagChestHeroD03_Dropped=최고의 전리품
+tagChestHeroD04=위대한 상자
+tagChestHeroD04_Dropped=위대한 전리품
+tagChestHeroD05=영광의 상자
+tagChestHeroD06=초월적 상자
+tagChestHeroD07=횩요석 클러스터
+tagChestHeroD08=흑요석 수집함
+tagChestHeroD09=횩요석 보화
+tagChestHeroD10=로그호렌의 수집함
+tagChestHeroD11=에드문드의 상자
+tagChestNemesis01=네메시스 수집함
+tagChestNemesis02=클론의 수집함
+
+tagChestSecret01=숨겨진 전리품
+tagChestSecret02=숨겨진 시체
+tagChestSecret03=숨겨진 수집함
+
+tagBreakableA01=나무통
+tagBreakableA02=상자
+tagBreakableJugA01=단지
+tagBreakableBonePileHumanA01=시체 더미
+tagBreakableBonePileHumanA02=시체 더미
+tagBreakableJunkPileA01=쓰레기 더미
+tagBreakableGrobleTotemA01=그로블 토템
+tagBreakableSlithPileA01=슬리스의 쓰레기
+tagBreakableScrapPileA01=고철 더미
+tagBreakableWaspClusterA01=말벌 둥지
+tagBreakableUrnA01=파손된 항아리
+tagBreakableUrnB01=오래된 항아리
+tagBreakableUrnClusterA01=항아리들
+tagBreakableDermapteranA01=집게벌레 알무더기
+tagBreakableBonePileA01=해골무더기
+tagBreakableObsidianA01=파괴된 잔해
+tagBreakableObsidianB01=흑요석 파편
+tagBreakableAetherCrystal=에테르 크리스탈 군집
+
+tagChestLocked= {^R} ~ 잠겨있음
+tagChestLockedBoss= {^R} ~ 강력한 존재의 힘으로 잠겨있음
+tagChestLockedQuest= {^R} ~ 퀘스트에 관련되어 잠겨있음
+
+tagChestBossOneShot_Warden=교도소장의 상자
+tagChestBossOneShot_Darius=다리우스의 상자
+tagChestBossOneShot_Loghorrean=로그호렌의 오염
+tagChestOneShot_Sacrifice=아이작의 상자
+tagChestOneShot_Generic01=최고급 상자
+tagChestOneShot_Generic02=최고급 상자
+tagChestOneShot_BurrwitchCave01=괴물의 저장물
+tagChestOneShot_LowerCrossingCave01=괴물의 저장물
+tagChestOneShot_CultistSummoner=카로즈의 상자
+tagChestOneShot_ChthonicAbomination=크토닉 보관함
+tagChestOneShot_HiddenWealth=숨겨진 보화
+
+#Interactive Objects
+tagShrineConstitutionA01=손대지 않은 식사
+tagShrineBossLocked= {^R} ~ 강력한 존재의 힘으로 봉인됨
+tagShrineMogdrogenLocked= {^R} ~ 크토닉 에너지로 봉인됨
+
+#Breakables
+
+tagWoodenDoor=나무 문
+tagBarnDoor=헛간 문
+tagCageDoor=짐승우리 문
+tagTrollDoor=트롤의문
+
+tagBreakableStoneWall=부스러진 벽
+tagBreakableNaturalWall=헐거운 땅
+tagBreakableObsidianWall=무너져가는 흑요석 벽
+
+#Dungeon Doors
+
+tagUGDoorCave01=동굴 출입구
+tagUGDoorTrapdoor01=뚜껑문
+tagUGDoorTrapDoorLocked01=잠긴 뚜껑문
+tagUGDoorLadder01=낡은 사다리
+tagUGDoorCellarDoor01=지하층 출입구
+tagUGDoorMine01=광산 출입구
+tagUGDoorRuin01=폐허 출입구
+tagUGDoorIronDoorSecret01=철제 문
+tagUGDoorIronGate=철제 문
+tagUGDoorPortcullisFloor01=창살문
+tagUGDoorBoat=노 젓는 배
+tagUGDoorObsidian=흑요석 돌기
+tagUGDoorFort=요새 출입구
+tagUGDoorCrypt=무덤 출입구
+tagUGDoorWitchGods=표식있는 돌
+tagUGDoorAetherFire=에테르 장벽
+tagDoorLocked= {^R} ~ 잠겨있음
+tagUGCellarOneWay=지하 출입구
+
+tagDoorOneWay01=지상으로 탈출
+tagDoorOneWayPortValbury=도시에서탈출
+tagDoorLever01=창살문 조종
+tagTorchLever01=헐거운 횃불
+tagStoneLever01=헐거운 돌
+
+#Doors
+
+tagCellDoor=수감실 문
+tagPrisonEntranceDoor=버위치 감옥 문
+tagMineDoor=광산 문
+tagEpicDoor_StepsOfTorment=고뇌의 층의 문
+tagEpicDoor_BastionOfChais=성채의 관문
+tagEpicDoor_PortValbury=항구도시 발버리 정문
+tagEpicDoor_StepsOfTormentLocked= {^R} ~ 고대의 힘으로 봉인됨 (해골 열쇠 필요)
+tagLocked= {^R} ~ 잠겨있음
+tagBlocked= {^R} ~ 낙반으로 막혀있음
+tagLocked_BlackLegion= {^R} ~ 검은군단에 의해 봉인됨
+tagLocked_Cult= {^R} ~ 크'톤 사교에 의해 봉인됨
+tagUGDoorDermapteranQueen=여왕벌레의 둥지 출입구
+tagUGDoorDermapteranQueenLocked= {^R} ~ 그랜드 비지어들에 의해 봉인됨
+tagUGDoorDermapteranQueenShortcut=군락 입구로의 지름길
+tagDoorRampart=장애물로 막힌 문
+tagDoorWarden=철제 문
+tagDoorFarmland=목재 문
+tagDoorLab=보강된 문
+tagDoorStone=석재 문
+tagLocked_Kymon= {^R} ~ 교부 카이몬에 의해 봉인됨
+tagLocked_Necro= {^R} ~ 죽음의 감시자 교단에 의해 봉인됨
+tagLocked_Outcast= {^R} ~ 아나스테리아에 의해 봉인됨
+tagLocked_BoCGauntlet= {^R} ~ 수호자들에 의해 봉인됨
+tagLocked_WitchGods= {^R} ~ 엘드리치 차원의 힘에 의해 봉인됨
+
+#Quest Rewards
+
+tagQuestItemBrothersAmulet={^G}활력을 주는 여동생의 목걸이
+tagQuestItemBrothersAmuletDesc="사랑하는 오빠에게: 이 목걸이가 전장에서 오빠에게 언제나 힘이 되기를. - 시빌"
+
+tagQuestItemSlithRing={^G}슬리스의 원시적인 반지
+tagQuestItemSlithRingDesc="씻어도 지워지지 않는 악취가 반지에서 느껴진다."
+
+tagItemTest={^F}응시체 겉옷
+tagItemTestDesc="응시체 의류의 최고 작품."
+
+#Equipment Locations
+
+tagSlotLeftHand= (왼손)
+tagSlotRightHand= (오른손)
+tagSlotHead= (머리 방어구)
+tagSlotNeck= (목걸이)
+tagSlotRing1= (반지 1)
+tagSlotRing2= (반지 2)
+tagSlotChest= (상체 방어구)
+tagSlotLegs= (다리 방어구)
+tagSlotShoulders= (어깨 방어구)
+tagSlotHands= (장갑)
+tagSlotFeet= (신발)
+tagSlotWaist= (허리띠)
+tagSlotRelic= (렐릭)
+tagSlotMedal= (메달)
+tagSlotUnknown= (미착용)
+

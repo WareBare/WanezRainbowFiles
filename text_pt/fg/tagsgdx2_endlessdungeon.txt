@@ -1,0 +1,235 @@
+#Region Names
+tagGDX2MapEndlessDungeon=O Reino Despedaçado
+tagGDX2MapEndlessBoss=Domínios do Guardião Despedaçado
+tagGDX2MapEndlessTreasure=Esplendores do Reino Despedaçado
+
+#Shattered Bosses
+tagGDX2EndlessDungeon_Boss01=Carcereiro Kriev, Guardião Despedaçado
+tagGDX2EndlessDungeon_Boss02=Darius Connolay, Alma Despedaçada
+tagGDX2EndlessDungeon_Boss03=Karriv, o Quebrantado
+tagGDX2EndlessDungeon_Boss03B=Alma de Karriv
+tagGDX2EndlessDungeon_Boss04=Ekket'Zal, Arauto de Yugol
+tagGDX2EndlessDungeon_Boss05=Theodin Maurin, Modelador dos Despedaçados
+tagGDX2EndlessDungeon_Boss06=Ordenança Despedaçado
+tagGDX2EndlessDungeon_Boss07=Lucian, Comandante dos Despedaçados
+tagGDX2EndlessDungeon_Boss08=Alkamir, Executor Despedaçado
+tagGDX2EndlessDungeon_Boss09=Shar'Zal, Rebento de Yugol
+tagGDX2EndlessDungeon_Boss10=Gargaban, Coração Despedaçado
+tagGDX2EndlessDungeon_Boss11=Sentinela Despedaçada
+tagGDX2EndlessDungeon_Boss12=Proscrita Despedaçada
+tagGDX2EndlessDungeon_Boss13=Salazin, a Lâmina Despedaçada
+tagGDX2EndlessDungeon_Boss14=Molda-pedaços Hinass
+tagGDX2EndlessDungeon_Boss15=Zelador dos Portões Despedaçados
+tagGDX2EndlessDungeon_Boss16=Manifestação da Fome
+tagGDX2EndlessDungeon_Boss16_Tentacle=Tentáculo Faminto
+tagGDX2EndlessDungeon_Boss16_Void=Vazio Faminto
+
+tagGDX2EndlessDungeon_Special01=Fanático(a) ~ Culto da Mina
+tagGDX2EndlessDungeon_Special02=Contemplador(a) de Primeira
+tagGDX2EndlessDungeon_Special03=Buscador(a) dos Condenados
+tagGDX2EndlessDungeon_Special04=Caixa de Entretenimento
+tagGDX2EndlessDungeon_Special05=Caixa Despretensiosa
+tagGDX2EndlessDungeon_Special06=NOMEIE-ME
+tagGDX2EndlessDungeon_Special07=Larva Descomunal Perfeitamente Usual
+tagGDX2EndlessDungeon_Special07B=Larva Descomunal
+tagGDX2EndlessDungeon_Special08=Espírito da Caixa
+tagGDX2EndlessDungeon_Special09=Dromedário de Clareiosso
+tagGDX2EndlessDungeon_Special10=Dromedário de Clareiosso ~ Campeão
+tagGDX2EndlessDungeon_Special11=Dromedário de Clareiosso ~ Vigilante
+tagGDX2EndlessDungeon_Special12=Larva Esfomeadíssima
+tagGDX2EndlessDungeon_Special13=Larva Acesa
+tagGDX2EndlessDungeon_Special14=Larva Inchada
+tagGDX2EndlessDungeon_Special15=Larva Superalimentada
+tagGDX2EndlessDungeon_Special16=Devorador Instável
+tagGDX2EndlessDungeon_Special17=Devorador Inchado
+tagGDX2EndlessDungeon_Special18=Faminto
+
+tagGDX2EndlessDungeon_Lever01=Alavanca Vermelha
+tagGDX2EndlessDungeon_Lever02=Alavanca Verde
+tagGDX2EndlessDungeon_Lever03=Alavanca Azul
+tagGDX2EndlessDungeon_Lever04=Alavanca Amarela
+tagGDX2EndlessDungeon_Lever05=Alavanca Roxa
+tagGDX2EndlessDungeon_Lever06=Alavanca Branca
+tagGDX2EndlessDungeon_Door01=Rastrilho Encantado
+tagGDX2EndlessDungeon_Door01_Lock= {^R} ~ Trancado(a) por Alavancas Próximas
+
+
+tagGDX2EndlessDungeon_Boss_Skill01=Presença Faminta
+tagGDX2EndlessDungeon_Boss_Skill01_Desc=A escuridão faminta atrai você, reduzindo sua Saúde.
+
+tagGDX2EndlessDungeon_Boss_Summon01=Larva Celestial
+tagGDX2EndlessDungeon_Boss_Summon02=Escuridão Faminta
+tagGDX2EndlessDungeon_Boss_Summon02_Skill=Escuridão Faminta
+tagGDX2EndlessDungeon_Boss_Summon02_Skill_Desc=O frio faminto da escuridão infinita consome você... lentamente...
+
+tagGDX2EndlessDungeon_S201=Escudo Totalmente Normal
+tagGDX2EndlessDungeon_S201_Desc="Os canhotos entenderão."
+tagGDX2EndlessDungeon_S202=[fs]{^L}Alabarda de Clareiosso
+tagGDX2EndlessDungeon_S203=[ms]{^I}Anel de Leovinus
+tagGDX2EndlessDungeon_S203_Desc="Um anel espetacularmente preservado feito de um material estranho e muito maleável. Parece um tanto disparatado."
+
+
+#NPCs
+tagGDX2EndlessDungeon_NPC_Event01=Mazaan, Guardião dos Portais
+
+tagGDX2EndlessDungeon_NPC_Merchant01=Ullana
+tagGDX2EndlessDungeon_ StoreTitle_Merchant01=Mascate Despedaçado
+tagGDX2EndlessDungeon_ StoreTitle_Merchant02=Escudeiro(a) Despedaçado(a)
+tagGDX2EndlessDungeon_ StoreTitle_Merchant03=Cavaleiro(a) Despedaçado(a)
+tagGDX2EndlessDungeon_ StoreTitle_Merchant04=Donzela Despedaçada
+tagGDX2EndlessDungeon_ StoreTitle_Merchant05=Guardião(ã) Despedaçado(a)
+
+
+tagGDX2EndlessDungeon_NPC_Smith01=Ikarrod
+tagGDX2EndlessDungeon_StoreTitle_Smith01=Ferreiro Maldito
+tagGDX2EndlessDungeon_StoreDesc_Smith01_1={}Dom da Não Vida
+tagGDX2EndlessDungeon_StoreDesc_Smith01_2=Ikarrod é dotado de séculos de conhecimentos em metalurgia, reforçados por seu singularíssimo... estado de existência.
+tagGDX2EndlessDungeon_StoreDesc_Smith01_3= 
+tagGDX2EndlessDungeon_StoreDesc_Smith01_4=As Armas, Armaduras e Acessórios criados são imbuídos de uma das seguintes propriedades:
+
+tagGDX2EndlessDungeon_NPC_Smuggler01=Agnath
+tagGDX2EndlessDungeon_StoreTitle_Smuggler01=Contrabandista Imortal
+
+tagGDX2EndlessDungeon_NPC_Reallocator01=Rathia
+tagGDX2EndlessDungeon_StoreTitle_Reallocator01=Guia Espiritual
+
+tagGDX2EndlessDungeon_NPC_Inventor01=Laduna
+tagGDX2EndlessDungeon_StoreTitle_Inventor01=Inventor(a) Despedaçado(a)
+
+tagGDX2EndlessDungeon_NPC_PowerUps01=Callagadra, Rebento das Areias
+
+#Shrines
+tagGDX2EndlessDungeon_Shrine01=Santuário de Azrakaa
+tagGDX2EndlessDungeon_Shrine01_Desc=Faça um pacto com Azrakaa, concedendo a você mais Velocidade de Movimento e fazendo com que seus ataques lancem lâminas espectrais contra seus inimigos.
+tagGDX2EndlessDungeon_Shrine01Skill=Barganha de Azrakaa
+tagGDX2EndlessDungeon_Shrine01Skill_Desc=Você fez uma barganha com Azrakaa, concedendo a você mais Velocidade de Movimento e fazendo com que seus ataques lancem lâminas espectrais contra seus inimigos.
+tagGDX2EndlessDungeon_Shrine01SkillProc=Lâmina Espectral
+
+tagGDX2EndlessDungeon_Shrine02=Santuário de Oleron
+tagGDX2EndlessDungeon_Shrine02_Desc=Preencha-se com a Sede de Sangue de Oleron, concedendo a você mais Velocidade de Movimento e muito mais % Capacidade Ofensiva.
+tagGDX2EndlessDungeon_Shrine02Skill=Sede de Sangue de Oleron
+tagGDX2EndlessDungeon_Shrine02Skill_Desc=Você é preenchido com a Sede de Sangue de Oleron, concedendo a você mais Velocidade de Movimento e muito mais % Capacidade Ofensiva.
+
+tagGDX2EndlessDungeon_Shrine03=Santuário de Rattosh
+tagGDX2EndlessDungeon_Shrine03_Desc=Ganhe o poder do guardião do véu, concedendo mais Velocidade de Movimento e fazendo com que seus ataques exaurem a vida de seus inimigos.
+tagGDX2EndlessDungeon_Shrine03Skill=Véu de Rattosh
+tagGDX2EndlessDungeon_Shrine03Skill_Desc=Você tem o poder do céu, concedendo mais Velocidade de Movimento e fazendo com que seus ataques exaurem a vida de seus inimigos.
+tagGDX2EndlessDungeon_Shrine03SkillProc=Toque de Vida
+
+tagGDX2EndlessDungeon_Shrine04=Santuário de Amatok
+tagGDX2EndlessDungeon_Shrine04_Desc=Puxe o calor do ar, concedendo mais Velocidade de Movimento e fazendo com que seus ataques às vezes ativem uma explosão gélida.
+tagGDX2EndlessDungeon_Shrine04Skill=Sussurro de Amatok
+tagGDX2EndlessDungeon_Shrine04Skill_Desc=Você puxou o calor do ar, concedendo mais Velocidade de Movimento e fazendo com que seus ataques às vezes ativem uma explosão gélida.
+tagGDX2EndlessDungeon_Shrine04SkillProc=Explosão Gélida
+
+tagGDX2EndlessDungeon_Shrine05=Santuário da Morte
+tagGDX2EndlessDungeon_Shrine05_Desc=Faça uma barganha com a morte, concedendo a você mais Velocidade de Movimento e te deixando invencível.
+tagGDX2EndlessDungeon_Shrine05Skill=Desejos Mortais
+tagGDX2EndlessDungeon_Shrine05Skill_Desc=Você fez uma barganha com a morte, concedendo a você mais Velocidade de Movimento e te deixando invencível.
+
+
+#Powerups
+tagGDX2EndlessDungeon_Powerup01=Essência do Reino Despedaçado
+tagGDX2EndlessDungeon_Powerup01_Desc=Você absorveu uma alma do Reino Despedaçado, concedendo a você vasto poder e robustez por um breve período. ^oEste efeito se acumula até 5 vezes, com mais acúmulos possíveis em Fragmentos mais altos.
+tagGDX2EndlessDungeon_Powerup02_Desc=Você absorveu uma alma do Reino Despedaçado, concedendo a você vasto poder e robustez por um breve período. ^oEste efeito se acumula até 8 vezes, com mais acúmulos possíveis em Fragmentos mais altos.
+tagGDX2EndlessDungeon_Powerup03_Desc=Você absorveu uma alma do Reino Despedaçado, concedendo a você vasto poder e robustez por um breve período. ^oEste efeito se acumula até 9 vezes, com mais acúmulos possíveis em Fragmentos mais altos.
+tagGDX2EndlessDungeon_Powerup04_Desc=Você absorveu uma alma do Reino Despedaçado, concedendo a você vasto poder e robustez por um breve período. ^oEste efeito se acumula até 10 vezes.
+
+
+#Items
+tagGDX2EndlessDungeon_Essence_01=Alma Despedaçada
+tagGDX2EndlessDungeon_Essence_02=Alma Despedaçada Poderosa
+tagGDX2EndlessDungeon_Essence_03=Alma Despedaçada Celestial
+tagGDX2EndlessDungeon_Essence_04=Alma Despedaçada Sobrepujante
+
+tagGDX2EndlessDungeon_Key_01=Pedra de Pórtico Despedaçada
+tagGDX2EndlessDungeon_Key_01_Desc=A Pedra de Pórtico Despedaçada outrora oferecia um potencial incrível. Ela permite que Mazaan abra o caminho para pelo menos o Quinto Fragmento, até o Décimo Quinto Fragmento, do Reino Despedaçado.
+tagGDX2EndlessDungeon_Key_01_Blueprint=Diagrama: Pedra de Pórtico Despedaçada
+
+tagGDX2EndlessDungeon_Key_02=Pedra de Pórtico Ressonante
+tagGDX2EndlessDungeon_Key_02_Desc=A Pedra de Pórtico Ressonante brilha com um fragmento de seu antigo poder. Ela permite que Mazaan abra o caminho para pelo menos o Vigésimo Fragmento, até o Trigésimo Fragmento, do Reino Despedaçado.
+tagGDX2EndlessDungeon_Key_02_Blueprint=Diagrama: Pedra de Pórtico Ressonante
+
+tagGDX2EndlessDungeon_Key_03=Pedra de Pórtico Assombrada
+tagGDX2EndlessDungeon_Key_03_Desc=A Pedra de Pórtico Assombrada foi infundida com os espíritos dos mortos. Ela permite que Mazaan abra o caminho para pelo menos o Trigésimo Quinto Fragmento, até o Quadragésimo Quinto Fragmento, do Reino Despedaçado.
+tagGDX2EndlessDungeon_Key_03_Blueprint=Diagrama: Pedra de Pórtico Assombrada
+
+tagGDX2EndlessDungeon_Key_04=Pedra de Pórtico Profanada
+tagGDX2EndlessDungeon_Key_04_Desc=A Pedra de Pórtico Profanada foi ungida em sangue contaminado. Ela permite que Mazaan abra o caminho para pelo menos o Quinquagésimo Fragmento, até o Sexagésimo Fragmento, do Reino Despedaçado.
+tagGDX2EndlessDungeon_Key_04_Blueprint=Diagrama: Pedra de Pórtico Profanada
+
+tagGDX2EndlessDungeon_Key_05=Pedra de Pórtico Celestial
+tagGDX2EndlessDungeon_Key_05_Desc=A Pedra de Pórtico Celestial teve seu potencial divino totalmente restaurado. Ela permite que Mazaan abra o caminho para pelo menos o Sexagésimo Quinto Fragmento, até o Septuagésimo Quinto Fragmento, do Reino Despedaçado. ^n^nEsta Pedra de Pórtico não deve ser usada pelos fracos de coração.
+tagGDX2EndlessDungeon_Key_05_Blueprint=Diagrama: Pedra de Pórtico Celestial
+
+tagGDX2EndlessDungeon_Key_06=Pedra de Pórtico Eterna
+tagGDX2EndlessDungeon_Key_06_Desc=Uma Pedra de Pórtico que puxa os fios da realidade, dobrando-os em torno dela. Ela permite que Mazaan abra o caminho para pelo menos o 80º Fragmento, até o 90º Fragmento, do Reino Despedaçado. ^n^nEsta Pedra de Pórtico não deve ser usada pelos fracos.
+tagGDX2EndlessDungeon_Key_06_Blueprint=Diagrama: Pedra de Pórtico Eterna
+
+tagGDX2EndlessDungeon_Key_07=Pedra de Pórtico da Morte
+tagGDX2EndlessDungeon_Key_07_Desc=Contaminada pelo poder da morte, a Pedra de Pórtico agora abre o caminho adiante para perigos incompreensíveis, onde nenhuma recompensa aguarda, a não ser a glória da conquista. Ela permite que Mazaan abra o caminho para pelo menos o 95º Fragmento do Reino Despedaçado, e além. ^n^nEsta Pedra de Pórtico não deve ser usada pelos fracos.
+tagGDX2EndlessDungeon_Key_07_Blueprint=Diagrama: Pedra de Pórtico da Morte
+
+tagGDX2ItemTest={^F}Senhorita Contemplador
+tagGDX2ItemTestDesc="A maior conquista em vestuário Contemplador."
+tagGDX2ItemTest2={^F}Caixa Levemente Divertida
+tagGDX2ItemTest2Desc="Baseada em fatos reais."
+
+#Traps
+tagGDX2Trap_A01=Pilar da Geada
+tagGDX2Trap_A02=Pilar Infernal
+tagGDX2Trap_A03=Pilar da Morte
+tagGDX2Trap_A04=Pilar Tóxico
+tagGDX2Trap_A09=Pilar Feérico
+
+tagGDX2Trap_A09_Skill01=Aura Feérica
+tagGDX2Trap_A09_Skill01_Desc=Energias feéricas brutas rodeiam este cristal, empoderando seus inimigos e causando danos a você.
+
+
+#Notifications
+tagGDX2Notification_FloorActive=Recolha Almas Despedaçadas de seus Inimigos
+tagGDX2Notification_FloorFinished=Prossiga para o próximo Portal
+tagGDX2Notification_BossActive=Elimine todos os Inimigos
+tagGDX2Notification_BossFinished=Fale com Mazaan para Prosseguir
+tagGDX2Notification_Reward=Sua Recompensa espera por você mais além do próximo Portal
+tagGDX2Notification_Reset=(Opcional) Fale com Mazaan no Conclave dos Três para outra tentativa
+
+tagGDX2Notification_ArkovianPrison_01=Um Rastrilho próximo se abre!
+tagGDX2Notification_TreasureTrap_01=Uma alma se manifesta nas proximidades!
+tagGDX2Notification_Special=Algo parece ter dado errado...
+tagGDX2Notification_Special02=Você ouve o som de pedra se deslocando nas proximidades...
+
+
+#Doors
+tagGDX2EndlessDungeonEntrance=Portal para o Reino Despedaçado
+tagGDX2EndlessDungeonFloorEntrance=Portal do Reino Despedaçado
+tagGDX2EndlessDungeonNextFloor=Prosseguir
+tagGDX2EndlessDungeonTreasureRoom=Portal para a Riqueza Eterna
+tagGDX2EndlessDungeonExit=Escapar para Cairn
+
+
+#Rewards
+tagGDX2Item_ChestA01=Baú do Profissional
+tagGDX2Item_ChestB01=Baú do Campeão
+tagGDX2Item_ChestC01=Baú Triunfante
+tagGDX2Item_ChestD01=Baú Ornamentado
+tagGDX2Item_ChestE01=Baú Heroico
+tagGDX2Item_ChestF01=Baú Valoroso
+tagGDX2Item_ChestG01=Baú Grandioso
+tagGDX2Item_ChestH01=Baú Supremo
+tagGDX2Item_ChestI01=Baú Magnífico
+tagGDX2Item_ChestJ01=Baú Glorioso
+tagGDX2Item_ChestK01=Baú Transcendente
+tagGDX2Item_ChestL01=Tesouro da Nêmesis
+tagGDX2Item_ChestM01=Tesouro Ascendido
+tagGDX2Item_ChestN01=Tesouro Feérico
+tagGDX2Item_ChestO01=Tesouro Celestial
+tagGDX2Item_ChestP01=Tesouro Primordial
+tagGDX2Item_ChestQ01=Tesouro Eterno
+tagGDX2Item_ChestR01=Tesouro de Outro Mundo
+tagGDX2Item_ChestS01=Tesouro de Semideus
+
+tagGDX2Item_SpecialChestA01=Segredos dos Reinos Despedaçados
+tagGDX2Item_SpecialChestA02=Presentes dos Reinos Despedaçados
+
+

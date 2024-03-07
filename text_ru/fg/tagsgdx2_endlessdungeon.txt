@@ -1,0 +1,235 @@
+#Region Names
+tagGDX2MapEndlessDungeon=Расколотый мир
+tagGDX2MapEndlessBoss=Владения Расколотого стража
+tagGDX2MapEndlessTreasure=Великолепие Расколотого мира
+
+#Shattered Bosses
+tagGDX2EndlessDungeon_Boss01=Комендант Крив, Расколотый страж
+tagGDX2EndlessDungeon_Boss02=Дариус Конноли, Расколотая душа
+tagGDX2EndlessDungeon_Boss03=Каррив Сломленный
+tagGDX2EndlessDungeon_Boss03B=Душа Каррива
+tagGDX2EndlessDungeon_Boss04=Эккет'Зал, Вестник Йугола
+tagGDX2EndlessDungeon_Boss05=Теодин Марин, Ваятель Расколотого мира
+tagGDX2EndlessDungeon_Boss06=Расколотый сенешаль
+tagGDX2EndlessDungeon_Boss07=Люциан, Командующий Расколотого мира
+tagGDX2EndlessDungeon_Boss08=Алкамир, Расколотый палач
+tagGDX2EndlessDungeon_Boss09=Шар'Зал, Потомок Йугола
+tagGDX2EndlessDungeon_Boss10=Гаргабан, Расколотое сердце
+tagGDX2EndlessDungeon_Boss11=Расколотый блюститель
+tagGDX2EndlessDungeon_Boss12=Расколотая изгнанница
+tagGDX2EndlessDungeon_Boss13=Салазин, Расколотый клинок
+tagGDX2EndlessDungeon_Boss14=Расколотый ваятель Хинасс
+tagGDX2EndlessDungeon_Boss15=Страж Расколотых врат
+tagGDX2EndlessDungeon_Boss16=Воплощение голода
+tagGDX2EndlessDungeon_Boss16_Tentacle=Голодное щупальце
+tagGDX2EndlessDungeon_Boss16_Void=Голодная пустота
+
+tagGDX2EndlessDungeon_Special01=Фанатик ~ Культ мин
+tagGDX2EndlessDungeon_Special02=Высший Наблюдатель
+tagGDX2EndlessDungeon_Special03=Искатель проклятых
+tagGDX2EndlessDungeon_Special04=Crate of Entertainment
+tagGDX2EndlessDungeon_Special05=Невзрачный Ящик
+tagGDX2EndlessDungeon_Special06=НАЗОВИ МЕНЯ
+tagGDX2EndlessDungeon_Special07=Совершенно обычная личинка-переросток
+tagGDX2EndlessDungeon_Special07B=Личинка-переросток
+tagGDX2EndlessDungeon_Special08=Дух Ящика
+tagGDX2EndlessDungeon_Special09=Белокостный дромадер
+tagGDX2EndlessDungeon_Special10=Белокостный дромадер ~ Чемпион
+tagGDX2EndlessDungeon_Special11=Белокостный дромадер ~ Смотритель
+tagGDX2EndlessDungeon_Special12=Голодная личинка
+tagGDX2EndlessDungeon_Special13=Распалённая личинка
+tagGDX2EndlessDungeon_Special14=Раздутая личинка
+tagGDX2EndlessDungeon_Special15=Обожравшаяся личинка
+tagGDX2EndlessDungeon_Special16=Беспокойный пожиратель
+tagGDX2EndlessDungeon_Special17=Раздутый пожиратель
+tagGDX2EndlessDungeon_Special18=Истощатель
+
+tagGDX2EndlessDungeon_Lever01=Красный рычаг
+tagGDX2EndlessDungeon_Lever02=Зелёный рычаг
+tagGDX2EndlessDungeon_Lever03=Синий рычаг
+tagGDX2EndlessDungeon_Lever04=Жёлтый рычаг
+tagGDX2EndlessDungeon_Lever05=Фиолетовый рычаг
+tagGDX2EndlessDungeon_Lever06=Белый рычаг
+tagGDX2EndlessDungeon_Door01=Зачарованная решётка
+tagGDX2EndlessDungeon_Door01_Lock= {^R} ~ Заблокировано ближайшими рычагами
+
+
+tagGDX2EndlessDungeon_Boss_Skill01=Голодное присутствие
+tagGDX2EndlessDungeon_Boss_Skill01_Desc=Голодная тьма притягивает вас, снижая здоровье.
+
+tagGDX2EndlessDungeon_Boss_Summon01=Небесная личинка
+tagGDX2EndlessDungeon_Boss_Summon02=Голодная тьма
+tagGDX2EndlessDungeon_Boss_Summon02_Skill=Голодная тьма
+tagGDX2EndlessDungeon_Boss_Summon02_Skill_Desc=Голодный холод бесконечной тьмы медленно поглощает вас...
+
+tagGDX2EndlessDungeon_S201=Абсолютно нормальный щит
+tagGDX2EndlessDungeon_S201_Desc="Левша поймёт"
+tagGDX2EndlessDungeon_S202=[fs]{^L}белокостная алебарда
+tagGDX2EndlessDungeon_S203=[ns]{^I}кольцо Леовинуса
+tagGDX2EndlessDungeon_S203_Desc="Потрясающе сохранившееся кольцо из странного, очень пластичного материала. Выглядит довольно глупо"
+
+
+#NPCs
+tagGDX2EndlessDungeon_NPC_Event01=Мазаан, Хранитель порталов
+
+tagGDX2EndlessDungeon_NPC_Merchant01=Уллана
+tagGDX2EndlessDungeon_ StoreTitle_Merchant01=Расколотый торговец
+tagGDX2EndlessDungeon_ StoreTitle_Merchant02=Расколотый эсквайр
+tagGDX2EndlessDungeon_ StoreTitle_Merchant03=Расколотый рыцарь
+tagGDX2EndlessDungeon_ StoreTitle_Merchant04=Расколотая дева
+tagGDX2EndlessDungeon_ StoreTitle_Merchant05=Расколотый страж
+
+
+tagGDX2EndlessDungeon_NPC_Smith01=Икаррод
+tagGDX2EndlessDungeon_StoreTitle_Smith01=Проклятый кузнец
+tagGDX2EndlessDungeon_StoreDesc_Smith01_1={}Дар мёртвых
+tagGDX2EndlessDungeon_StoreDesc_Smith01_2=Икаррод одарен вековыми кузнечными знаниями, благодаря его довольно уникальному... способу существования.
+tagGDX2EndlessDungeon_StoreDesc_Smith01_3= 
+tagGDX2EndlessDungeon_StoreDesc_Smith01_4=Созданные им оружие, броня и аксессуары имеют одно из следующих свойств:
+
+tagGDX2EndlessDungeon_NPC_Smuggler01=Агнат
+tagGDX2EndlessDungeon_StoreTitle_Smuggler01=Бессмертный контрабандист
+
+tagGDX2EndlessDungeon_NPC_Reallocator01=Ратиа
+tagGDX2EndlessDungeon_StoreTitle_Reallocator01=Духовный наставник
+
+tagGDX2EndlessDungeon_NPC_Inventor01=Ладуна
+tagGDX2EndlessDungeon_StoreTitle_Inventor01=Расколотый новатор
+
+tagGDX2EndlessDungeon_NPC_PowerUps01=Каллагадра, Наследница песков
+
+#Shrines
+tagGDX2EndlessDungeon_Shrine01=Алтарь Азракаа
+tagGDX2EndlessDungeon_Shrine01_Desc=Заключите договор с Азракаа, что повысит вашу скорость передвижения и усилит ваши атаки призрачными клинками, которые устремляются во врагов.
+tagGDX2EndlessDungeon_Shrine01Skill=Сделка с Азракаа
+tagGDX2EndlessDungeon_Shrine01Skill_Desc=Вы заключили договор с Азракаа. Ваша скорость передвижения повышена, и ваши атаки усилены призрачными клинками, которые устремляются во врагов.
+tagGDX2EndlessDungeon_Shrine01SkillProc=Призрачный клинок
+
+tagGDX2EndlessDungeon_Shrine02=Алтарь Олерона
+tagGDX2EndlessDungeon_Shrine02_Desc=Преисполнитесь кровожадностью Олерона, которая повысит вашу скорость передвижения и значительно улучшит навык атаки.
+tagGDX2EndlessDungeon_Shrine02Skill=Кровожадность Олерона
+tagGDX2EndlessDungeon_Shrine02Skill_Desc=Вас переполняет кровожадность Олерона. Ваша скорость передвижения повышена, и навык атаки значительно улучшен.
+
+tagGDX2EndlessDungeon_Shrine03=Алтарь Раттоша
+tagGDX2EndlessDungeon_Shrine03_Desc=Обретите силу хранителя завесы, которая повысит вашу скорость передвижения и позволит высасывать жизнь из врагов своими атаками.
+tagGDX2EndlessDungeon_Shrine03Skill=Завеса Раттоша
+tagGDX2EndlessDungeon_Shrine03Skill_Desc=Вы обрели силу завесы. Ваша скорость передвижения повышена, и ваши атаки высасывают жизнь из врагов.
+tagGDX2EndlessDungeon_Shrine03SkillProc=Гибельное касание
+
+tagGDX2EndlessDungeon_Shrine04=Алтарь Аматока
+tagGDX2EndlessDungeon_Shrine04_Desc=Заберите тепло из воздуха, чтобы повысить свою скорость передвижения и получить способность с некоторой вероятностью вызывать ледяной взрыв в ответ на атаки врагов.
+tagGDX2EndlessDungeon_Shrine04Skill=Шёпот Аматока
+tagGDX2EndlessDungeon_Shrine04Skill_Desc=Вы забрали тепло из воздуха. Ваша скорость передвижения повышена, и вы с некоторой вероятностью вызываете ледяной взрыв в ответ на атаки врагов.
+tagGDX2EndlessDungeon_Shrine04SkillProc=Ледяной взрыв
+
+tagGDX2EndlessDungeon_Shrine05=Алтарь смерти
+tagGDX2EndlessDungeon_Shrine05_Desc=Заключите сделку со смертью, чтобы повысить свою скорость передвижения и обрести неуязвимость.
+tagGDX2EndlessDungeon_Shrine05Skill=Мечты смертных
+tagGDX2EndlessDungeon_Shrine05Skill_Desc=Вы заключили сделку со смертью. Ваша скорость передвижения повышена, и вы стали неуязвимы.
+
+
+#Powerups
+tagGDX2EndlessDungeon_Powerup01=Сущность расколотого мира
+tagGDX2EndlessDungeon_Powerup01_Desc=Вы впитали душу расколотого мира и получили огромную силу и стойкость на короткий промежуток времени. ^oЭтот эффект накапливает до 5 зарядов. На более глубоких осколках количество зарядов растёт.
+tagGDX2EndlessDungeon_Powerup02_Desc=Вы впитали душу расколотого мира и получили огромную силу и стойкость на короткий промежуток времени. ^oЭтот эффект накапливает до 8 зарядов. На более глубоких осколках количество зарядов растёт.
+tagGDX2EndlessDungeon_Powerup03_Desc=Вы впитали душу расколотого мира и получили огромную силу и стойкость на короткий промежуток времени. ^oЭтот эффект накапливает до 9 зарядов. На более глубоких осколках количество зарядов растёт.
+tagGDX2EndlessDungeon_Powerup04_Desc=Вы впитали душу расколотого мира и получили огромную силу и стойкость на короткий промежуток времени. ^oЭтот эффект накапливает до 10 зарядов.
+
+
+#Items
+tagGDX2EndlessDungeon_Essence_01=Расколотая душа
+tagGDX2EndlessDungeon_Essence_02=Могучая расколотая душа
+tagGDX2EndlessDungeon_Essence_03=Небесная расколотая душа
+tagGDX2EndlessDungeon_Essence_04=Подавленная расколотая душа
+
+tagGDX2EndlessDungeon_Key_01=Расколотый путевой камень
+tagGDX2EndlessDungeon_Key_01_Desc=Расколотый путевой камень когда-то обладал невероятными возможностями. С его помощью Мазаан может открыть путь в осколки расколотого мира с 5 по 15.
+tagGDX2EndlessDungeon_Key_01_Blueprint=Чертёж: Расколотый путевой камень
+
+tagGDX2EndlessDungeon_Key_02=Резонирующий путевой камень
+tagGDX2EndlessDungeon_Key_02_Desc=Резонирующий путевой камень мерцает толикой былой силы. С его помощью Мазаан может открыть путь в осколки расколотого мира с 20 по 30.
+tagGDX2EndlessDungeon_Key_02_Blueprint=Чертёж: Резонирующий путевой камень
+
+tagGDX2EndlessDungeon_Key_03=Призрачный путевой камень
+tagGDX2EndlessDungeon_Key_03_Desc=Внутри призрачного путевого камня томятся души усопших. С его помощью Мазаан может открыть путь в осколки расколотого мира с 35 по 45.
+tagGDX2EndlessDungeon_Key_03_Blueprint=Чертёж: Призрачный путевой камень
+
+tagGDX2EndlessDungeon_Key_04=Осквернённый путевой камень
+tagGDX2EndlessDungeon_Key_04_Desc=Осквернённый путевой камень помазан порченной кровью. С его помощью Мазаан может открыть путь в осколки расколотого мира с 50 по 60.
+tagGDX2EndlessDungeon_Key_04_Blueprint=Чертёж: Осквернённый путевой камень
+
+tagGDX2EndlessDungeon_Key_05=Небесный путевой камень
+tagGDX2EndlessDungeon_Key_05_Desc=Небесный путевой камень вновь обрёл свои божественные возможности. С его помощью Мазаан может открыть путь в осколки расколотого мира с 65 по 75. ^n^nСлабонервным не стоит использовать этот путевой камень.
+tagGDX2EndlessDungeon_Key_05_Blueprint=Чертёж: Небесный путевой камень
+
+tagGDX2EndlessDungeon_Key_06=Вечный путевой камень
+tagGDX2EndlessDungeon_Key_06_Desc=Путевой камень, вокруг которого стягиваются нити бытия. С его помощью Мазаан может открыть путь в осколки расколотого мира с 80 по 90. ^n^nСлабонервным не стоит использовать этот путевой камень.
+tagGDX2EndlessDungeon_Key_06_Blueprint=Чертёж: Вечный путевой камень
+
+tagGDX2EndlessDungeon_Key_07=Смертельный путевой камень
+tagGDX2EndlessDungeon_Key_07_Desc=Путевой камень, в котором чувствуется сила смерти. Он ведёт к непостижимым опасностям, главная награда за преодоление которых - слава. ^n^nС его помощью Мазаан может открыть путь в осколки расколотого мира с 95 и дальше. ^n^nСлабонервным не стоит использовать этот путевой камень.
+tagGDX2EndlessDungeon_Key_07_Blueprint=Чертёж: Смертельный путевой камень
+
+tagGDX2ItemTest={^F}Мисс Наблюдатель
+tagGDX2ItemTestDesc="Венец творения в костюме Наблюдателя".
+tagGDX2ItemTest2={^F}Не так чтобы очень забавная коробка
+tagGDX2ItemTest2Desc="Основано на реальных событиях".
+
+#Traps
+tagGDX2Trap_A01=Ледяной столб
+tagGDX2Trap_A02=Адский столб
+tagGDX2Trap_A03=Смертельный столб
+tagGDX2Trap_A04=Токсичный столб
+tagGDX2Trap_A09=Жуткий столб
+
+tagGDX2Trap_A09_Skill01=Жуткая аура
+tagGDX2Trap_A09_Skill01_Desc=Чистая жуткая энергия, окружающая этот кристалл, усиливает ваших врагов и причиняет вред вам.
+
+
+#Notifications
+tagGDX2Notification_FloorActive=Соберите расколотые души ваших врагов
+tagGDX2Notification_FloorFinished=Продолжайте путь до следующего портала
+tagGDX2Notification_BossActive=Уничтожьте всех врагов
+tagGDX2Notification_BossFinished=Чтобы продолжить путь, поговорите с Мазааном
+tagGDX2Notification_Reward=Ваша награда ждёт вас в следующем портале
+tagGDX2Notification_Reset=(Дополнительно) Чтобы попытаться снова, поговорите с Мазааном в Конклаве Троих
+
+tagGDX2Notification_ArkovianPrison_01=Открылась ближайшая решётка!
+tagGDX2Notification_TreasureTrap_01=Рядом появилась душа!
+tagGDX2Notification_Special=Что-то пошло не так...
+tagGDX2Notification_Special02=Вы слышите звук сдвинувшегося камня...
+
+
+#Doors
+tagGDX2EndlessDungeonEntrance=Портал в расколотый мир
+tagGDX2EndlessDungeonFloorEntrance=Портал расколотого мира
+tagGDX2EndlessDungeonNextFloor=Продолжить путь
+tagGDX2EndlessDungeonTreasureRoom=Портал вечного изобилия
+tagGDX2EndlessDungeonExit=Выход в Каирн
+
+
+#Rewards
+tagGDX2Item_ChestA01=Сундук путника
+tagGDX2Item_ChestB01=Сундук чемпиона
+tagGDX2Item_ChestC01=Сундук триумфатора
+tagGDX2Item_ChestD01=Украшенный сундук
+tagGDX2Item_ChestE01=Геройский сундук
+tagGDX2Item_ChestF01=Доблестный сундук
+tagGDX2Item_ChestG01=Большой сундук
+tagGDX2Item_ChestH01=Огромный сундук
+tagGDX2Item_ChestI01=Великолепный сундук
+tagGDX2Item_ChestJ01=Славный сундук
+tagGDX2Item_ChestK01=Превосходный сундук
+tagGDX2Item_ChestL01=Сокровищница немезиды
+tagGDX2Item_ChestM01=Сокровищница вознесённых
+tagGDX2Item_ChestN01=Жуткая сокровищница
+tagGDX2Item_ChestO01=Небесная сокровищница
+tagGDX2Item_ChestP01=Сокровищница предтеч
+tagGDX2Item_ChestQ01=Вечная сокровищница
+tagGDX2Item_ChestR01=Непостижимая сокровищница
+tagGDX2Item_ChestS01=Сокровищница полубога
+
+tagGDX2Item_SpecialChestA01=Тайны расколотых миров
+tagGDX2Item_SpecialChestA02=Дары расколотых миров
+
+

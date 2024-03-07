@@ -1,0 +1,1349 @@
+
+#Weapons
+tagGDX2WeaponSwordB201=[fs]{^L}Lâmina Ardente de Korvaak
+tagGDX2WeaponSwordB201_Desc="Concedida por Korvaak a seus leais escolhidos para comandarem asseclas inferiores."
+tagGDX2WeaponSwordB202=[fs]{^L}Lâmina Tempestuosa de Korvaak
+tagGDX2WeaponSwordB202_Desc="Concedida por Korvaak a seus leais escolhidos para destruírem as linhas inimigas."
+tagGDX2WeaponSwordB203=[fs]{^L}Lâmina Santificada de Kymon
+tagGDX2WeaponSwordB203_Desc="Santificada no sangue de Korvaak e concedida a seu campeão."
+tagGDX2WeaponSwordB204=[fs]{^L}Vingança do Senhor do Sangue
+tagGDX2WeaponSwordB205=[fs]{^L}Garra de Ravna
+tagGDX2WeaponSwordB206=[fs]{^L}Lâmina de Naren Kur
+tagGDX2WeaponSwordB206_Desc="Descobriu-se que havia limites dos quais nem mesmo os Oligarcas Arkovianos estavam dispostos a passar."
+
+tagGDX2WeaponSwordC201=[fs]{^B}Virtude da Chama
+
+tagGDX2WeaponSwordD201=[ms]{^I}Rebento das Feridas Nocivas
+tagGDX2WeaponSwordD201_Desc="O veneno infundido nesta lâmina fede a podridão e bile."
+tagGDX2WeaponSwordD202=[fs]{^I}Laminalma
+tagGDX2WeaponSwordD205=[ms]{^I}Coração Gélido
+tagGDX2WeaponSwordD205_Desc="As palavras "preso em outra realidade, por favor, envie ajuda" foram gravadas apressadamente no punho."
+tagGDX2WeaponSwordD206=[fs](S) {^I}Lâmina do Demônio das Dunas
+tagGDX2WeaponSwordD207=[fs](S) {^I}Fatiadora do Demônio das Dunas
+tagGDX2WeaponSwordD208=[fs]{^I}Noctirn
+
+tagGDX2WeaponSwordF201=[fs]{^B}Lâmina de Bysmiel
+tagGDX2WeaponSwordF202=[fs]{^B}Fatiadora de Solael
+tagGDX2WeaponSwordF203=[fs]{^I}Rasgassangue
+
+
+tagGDX2WeaponBluntB201=[ms]{^L}Esmurrador Escorpiônico
+tagGDX2WeaponBluntB202=[ms]{^L}Porrete Escorpiônico
+tagGDX2WeaponBluntB203=[ms]{^L}Ferrão de Gannar'vakkar
+tagGDX2WeaponBluntB204=[fs]{^L}Raiz de Bargoll
+tagGDX2WeaponBluntB204Desc="As raízes de Bargoll procuram avidamente fontes de magia."
+
+tagGDX2WeaponBluntC201=[ms]{^B}Malhete Kalastoriano
+
+tagGDX2WeaponBluntD201=[ms]{^I}Malhete das Almas Vorazes
+tagGDX2WeaponBluntD202=[ms]{^I}Arauto de Amatok
+tagGDX2WeaponBluntD203=[ms](S) {^I}Maço de Targo
+tagGDX2WeaponBluntD204=[ms]{^I}Broquel Totalmente Normal
+tagGDX2WeaponBluntD205=[ms]{^I}Fragmento da Manhã Totalmente Normal
+tagGDX2WeaponBluntD206=[ms]{^I}Baluarte Totalmente Normal
+tagGDX2WeaponBluntD207=[fs]{^I}Espreitadora da Cripta
+tagGDX2WeaponBluntD208=[ms]{^F}Árbitro Totalmente Normal
+tagGDX2WeaponBluntD208_Desc="Este não é o escudo que você está procurando."
+tagGDX2WeaponBluntD209=[ms]{^F}Guardião Totalmente Normal
+tagGDX2WeaponBluntD209_Desc="Os canhotos piram."
+
+tagGDX2WeaponBluntF201=[ms]{^B}Martelo de Guerra de Bysmiel
+tagGDX2WeaponBluntF202=[ms]{^B}Martelo de Guerra de Solael
+tagGDX2WeaponBluntF203=[ms]{^I}Aperto de Bysmiel
+
+
+tagGDX2WeaponAxeB201=[ms]{^L}Fatiador Garrareia
+tagGDX2WeaponAxeB202=[ms]{^L}Fatiador Garrardente
+tagGDX2WeaponAxeB203=[ms]{^L}Fatiador Garrabissal
+tagGDX2WeaponAxeB204=[ms]{^L}Fatiador-de-osso
+tagGDX2WeaponAxeB205=[ms]{^L}Cutelo do Servidor
+tagGDX2WeaponAxeB206=[ms]{^L}Gume Pesteado de Blugrug
+
+tagGDX2WeaponAxeC201=[ms]{^B}Gume do Véu
+
+tagGDX2WeaponAxeD201=[ms]{^I}Desprezo Abrasador
+tagGDX2WeaponAxeD202=[ms]{^I}Rebento dos Rastros Carmesins
+tagGDX2WeaponAxeD202_Desc="O próprio ar ondula ao redor do calor intenso do gume desta arma."
+tagGDX2WeaponAxeD203=[ms]{^I}Dilacerador de Tempestades
+tagGDX2WeaponAxeD203_Desc="O gume rasga o ar com a força primeva de uma tempestade."
+
+tagGDX2WeaponAxeF201=[ms]{^B}Cutelo de Bysmiel
+tagGDX2WeaponAxeF202=[ms]{^B}Cutelo de Dreeg
+tagGDX2WeaponAxeF203=[ms]{^I}Corruptian
+
+
+tagGDX2WeaponGun1hB201=[fs]{^L}Cospe-areia Viperina
+tagGDX2WeaponGun1hB202=[fs]{^L}Hemorragiadora Viperina
+tagGDX2WeaponGun1hB203=[fs]{^L}Repetidora de Ugdenbog
+tagGDX2WeaponGun1hB103Desc="Infundida com o espírito do Wendigo."
+tagGDX2WeaponGun1hB204=[ms]{^L}Detonador de Rutnick
+tagGDX2WeaponGun1hB204Desc="O desespero exige soluções cruéis."
+
+tagGDX2WeaponGun1hC201=[ms]{^B}Ferrão do Deserto
+tagGDX2WeaponGun1hC202=[fs]{^B}Impositora Espinhossombra
+
+tagGDX2WeaponGun1hD201=[ms]{^I}Rebento da Vingança Ardente
+tagGDX2WeaponGun1hD202=[ms]{^I}Portador dos Juramentos
+tagGDX2WeaponGun1hD202_Desc="Marcado por juramentos não quebrados, libertos pela morte."
+tagGDX2WeaponGun1hD203=[fs]{^I}Arcanum Frigus
+tagGDX2WeaponGun1hD204=[ms](S) {^I}Revólver de Ludrigan
+tagGDX2WeaponGun1hD205=[fs]{^I}Rompe-fase
+tagGDX2WeaponGun1hD205_Desc="Os tiros disparados por esta arma atravessam a realidade como se fosse ar."
+
+tagGDX2WeaponGun1hF201=[ms]Canhão de Mão de Bysmiel
+tagGDX2WeaponGun1hF202=[ms]Canhão de Mão de Dreeg
+tagGDX2WeaponGun1hF203=[ms]{^I}Furassangue
+
+tagGDX2WeaponGun2hB201=[fs]{^L}Repetidora do Mensageiro
+tagGDX2WeaponGun2hB201_Desc="Cada disparo é a vingança destrutiva do arauto de Korvaak."
+tagGDX2WeaponGun2hB202=[ms]{^L}Canhão da Labareda do Mensageiro
+tagGDX2WeaponGun2hB202_Desc="Cada disparo é a vingança ardente do arauto de Korvaak."
+tagGDX2WeaponGun2hB203=[ms]{^L}Lança-chamas de Ugdenbog
+
+tagGDX2WeaponGun2hC201=[fs]{^B}Sangvinar
+
+tagGDX2WeaponGun2hD201=[fs]{^I}Serpe de Korvan
+tagGDX2WeaponGun2hD201_Desc="A grande serpe transforma tudo o que ela toca em cinzas."
+tagGDX2WeaponGun2hD202=[fs]{^I}Lança da Alma
+tagGDX2WeaponGun2hD202_Desc="Cada tiro é infundido com o tormento eterno de uma alma de Korvan."
+
+tagGDX2WeaponGun2hF201=[fs]{^B}Arcobalista de Dreeg
+tagGDX2WeaponGun2hF202=[fs]{^B}Arcobalista de Solael
+tagGDX2WeaponGun2hF203=[fs]{^I}Devoradora de Solael
+
+
+tagGDX2WeaponMelee2hB201=[fs]{^L}Alabarda Ardente de Korvan
+tagGDX2WeaponMelee2hB202=[fs]{^L}Alabarda Tempestuosa de Korvan
+tagGDX2WeaponMelee2hB203=[fs]{^L}Alabarda do Ordenança
+tagGDX2WeaponMelee2hB203_Desc="Repleta do poder impossível das próprias estrelas."
+tagGDX2WeaponMelee2hB204=[ms]{^L}Malhete de Barthollem
+tagGDX2WeaponMelee2hB205=[fs]{^L}Alabarda Feérica de Korvan
+tagGDX2WeaponMelee2hB206=[fs]{^L}Alabarda Ceifadora de Korvan
+tagGDX2WeaponMelee2hB207=[fs]{^L}Alabarda Celestial de Korvan
+tagGDX2WeaponMelee2hB207_Desc="O gume da lâmina tem fome de algo para consumir."
+tagGDX2WeaponMelee2hB209=[ms]{^L}Espadão do Arauto do Sol
+
+tagGDX2WeaponMelee2hC201=[ms]{^B}Gume do Retornado
+tagGDX2WeaponMelee2hC202=[fs]{^B}Furilâmina
+tagGDX2WeaponMelee2hC203=[fs]{^Z}Ira de Morgoneth
+tagGDX2WeaponMelee2hC203_Desc="Poderoso martelo empunhado por Morgoneth antes de sua queda à escuridão."
+
+tagGDX2WeaponMelee2hD201=[fs]{^I}Dreegal'anore
+tagGDX2WeaponMelee2hD201_Desc="A prezada arma de 'Athul, o Pesteado', segundo campeão do Grande Guardião."
+tagGDX2WeaponMelee2hD202=[ms]{^I}Alcance de Nadaan
+tagGDX2WeaponMelee2hD202_Desc="Lâmina lendária forjada em honra ao padroeiro dos ladrões e assassinos, empunhada por incontáveis lâminas noturnas ao longo de séculos antes de se perder no tempo."
+tagGDX2WeaponMelee2hD203=[fs]{^I}Ira de Tenebris
+tagGDX2WeaponMelee2hD203_Desc="A Ladra de Vidas de Tenebris, o Bebedor de Sangue, santificada no coração do vazio."
+tagGDX2WeaponMelee2hD204=[fs]{^F}Portadora da Noite
+tagGDX2WeaponMelee2hD204_Desc="A grande arma de Morgoneth, forjada dentro de uma estrela moribunda."
+tagGDX2WeaponMelee2hD205=[ms]{^I}Rebento da Força Arcana
+tagGDX2WeaponMelee2hD206=[ms]{^I}Rebento do Véu Gritante
+
+tagGDX2WeaponMelee2hF201=[ms]{^B}Montante de Dreeg
+tagGDX2WeaponMelee2hF202=[ms]{^B}Decapitador de Solael
+tagGDX2WeaponMelee2hF203=[ms]{^I}Rancor
+tagGDX2WeaponMelee2hF203_Desc="A lâmina supostamente empunhada por Dreeg em sua vida mortal."
+tagGDX2WeaponMelee2hF204=[fs]{^I}Malevolência
+tagGDX2WeaponMelee2hF204_Desc="Presa do Culto de Dreeg."
+
+tagGDX2WeaponCaster1hB201=[fs]{^L}Lâmina Contaminada de Segarius
+tagGDX2WeaponCaster1hB201_Desc="Uma lâmina outrora sagrada, contaminada pelo toque do vazio."
+tagGDX2WeaponCaster1hB202=[fs]{^L}Lâmina Sagrada de Segarius
+tagGDX2WeaponCaster1hB202_Desc="Uma lâmina sagrada passada adiante pelo próprio Pai Kymon."
+tagGDX2WeaponCaster1hB203=[ms]{^L}Cetro Vil de Crimson
+tagGDX2WeaponCaster1hB204=[ms]{^L}Cetro Arcano de Crimson
+tagGDX2WeaponCaster1hB205=[fs]{^L}Autoridade Ascendente
+
+tagGDX2WeaponCaster1hC201=[ms]{^B}Véu do Crepúsculo
+tagGDX2WeaponCaster1hC202=[ms]{^B}Invocador de Alakrian
+tagGDX2WeaponCaster1hC202_Desc="A prática heterodoxa de Alakrian de transformar essência vital em força arcana bruta não foi recebida com muito entusiasmo no Gildam Arcanum."
+
+tagGDX2WeaponCaster1hD201=[fs]{^I}Lâmina Enfeitiçada de Alladrah
+tagGDX2WeaponCaster1hD201_Desc="Uma única pena de fênix forma o núcleo desta lâmina."
+tagGDX2WeaponCaster1hD202=[ms]{^I}Decreto do Círculo dos Cinco
+tagGDX2WeaponCaster1hD202_Desc="A vontade deles, a voz deles, o comando deles..."
+tagGDX2WeaponCaster1hD203=[ms]{^I}Rebento dos Ventos Penetrantes
+tagGDX2WeaponCaster1hD203_Desc="O cetro ecoa com os ventos penetrantes de um desfiladeiro."
+tagGDX2WeaponCaster1hD204=[fs]{^I}Misericórdia de Empyrion
+tagGDX2WeaponCaster1hD205=[fs](S) {^I}Lâmina do Sussurro Frio
+tagGDX2WeaponCaster1hD206=[ms](S) {^I}Julgamento dos Três
+tagGDX2WeaponCaster1hD207=[fs](S) {^I}Talhadora do Senhor Infeccioso
+tagGDX2WeaponCaster1hD208=[ms]{^I}Pináculo do Vazio
+
+tagGDX2WeaponCaster1hF201=[fs]{^B}Rompe-tormentas de Bysmiel
+tagGDX2WeaponCaster1hF202=[fs]{^B}Rompe-almas de Bysmiel
+tagGDX2WeaponCaster1hF203=[fs]{^B}Tece-véu de Dreeg
+tagGDX2WeaponCaster1hF204=[ms]{^B}Tece-veneno de Dreeg
+tagGDX2WeaponCaster1hF205=[ms]{^B}Guarda-chama de Solael
+tagGDX2WeaponCaster1hF206=[ms]{^B}Tece-sangue de Solael
+tagGDX2WeaponCaster1hF207=[fs]{^I}Tece-mentes de Bysmiel
+tagGDX2WeaponCaster1hF208=[ms]{^I}Vampirris
+
+
+
+#Shields
+tagGDX2ShieldB201=[ms]{^L}Casco de Escaravelho
+tagGDX2ShieldB202=[fs]{^L}Carapaça de Escaravelho
+tagGDX2ShieldB203=[ms]{^L}Defensor Colossal
+tagGDX2ShieldB204=[ms]{^L}Defensor Carnedisforme
+tagGDX2ShieldB205=[ms]{^L}Defensor Obsidiano
+tagGDX2ShieldB206=[fs]{^L}Carcaça de Sanguegélido
+
+tagShieldC015B=[ms]{^B}O Gladiador
+
+tagGDX2ShieldC201=[fs]{^B}Guarda da Tempestade
+tagGDX2ShieldC201_Desc="Repleto de poder capturado de uma poderosa trovoada."
+tagGDX2ShieldC202=[ms]{^B}Vigilante do Norte Congelado
+tagGDX2ShieldC203=[ms](S) {^B}Baluarte do Petrarca
+
+tagGDX2ShieldD201=[ms]{^I}Cipó-cardo
+tagGDX2ShieldD202=[ms]{^I}Sepultoque
+tagGDX2ShieldD203=[ms](S) {^I}Defensor da Virtude
+tagGDX2ShieldD204=[ms](S) {^I}Defensor dos Três
+tagGDX2ShieldD205=[ms](S) {^I}Baluarte da Alma do Vazio
+tagGDX2ShieldD206=[ms]{^I}Baluarte de Hyrian
+tagGDX2ShieldD207=[ms]{^I}Fragmento da Noite
+
+tagGDX2ShieldF201=[ms]{^B}Defensor de Bysmiel
+tagGDX2ShieldF202=[ms]{^B}Protetor de Dreeg
+tagGDX2ShieldF203=[ms]{^I}Occulant
+
+
+
+#Focus
+tagGDX2FocusB201=[fs]{^L}Efígie Arenosa Groble
+tagGDX2FocusB202=[fs]{^L}Efígie Vil Groble
+tagGDX2FocusB203=[ms]{^L}Espectro Compelido
+tagGDX2FocusB204=[ms]{^L}Espectro Coagido
+tagGDX2FocusB205=[ms]{^L}Arquivo de Zarthuzellan
+tagGDX2FocusB206=[mp]{^L}Sermões de Abaddoth
+tagGDX2FocusB206_Desc="Não ficou imediatamente claro quando os ensinamentos de Abaddoth mudaram das palavras misericordiosas de Menhir para as trevas vis do vazio ou quantos ele converteu ao culto."
+
+tagGDX2FocusC201=[ms]{^B}Códice do Juízo
+tagGDX2FocusC202=[ms]{^B}Manifestarius
+tagGDX2FocusC203=[ms](S) {^B}Tomo da Labareda Purulenta
+tagGDX2FocusC204=[mp]{^B}Excrementos da Besta Ladradora
+tagGDX2FocusC204_Desc="Isto certamente é muito... entusiasmo."
+
+tagGDX2FocusD201=[ms]{^I}Julgamento de Empyrion
+tagGDX2FocusD201_Desc="Uma fonte de poder outrora contida dentro do Pináculo de Empyrion, cuja localização se perdeu no tempo."
+tagGDX2FocusD202=[ms]{^I}Aperto dos Mortos
+tagGDX2FocusD203=[ms]{^I}Códice dos Portais Violentos
+tagGDX2FocusD204=[ms]{^I}Tomo da Expiação
+tagGDX2FocusD204_Desc="Expiação por meio da ação."
+tagGDX2FocusD205=[fs]{^F}Cabeça de Inashkor
+tagGDX2FocusD205_Desc="O poderoso guardião do povo de Korvan pode ter sucumbido, mas seu poder permanece sinistramente intacto."
+tagGDX2FocusD206=[fs](S) {^I}Efígie do Ciclone
+tagGDX2FocusD207=[fs]{^F}Cabeça Corrompida de Inashkor
+tagGDX2FocusD207_Desc="O poderoso guardião do povo de Korvan sucumbiu a um invasor Ctônico, e seu outrora glorioso poder foi contaminado para sempre pelo vazio."
+tagGDX2FocusD208=[fs](S) {^I}Efígie de Pyran
+tagGDX2FocusD209=[fs]{^F}Cabeça de Jarinthor
+tagGDX2FocusD209_Desc="É melhor que se deixe a cabeça do guardião da história de Korvan esquecida."
+tagGDX2FocusD210=[fs]{^F}Cabeça de Hallanx
+tagGDX2FocusD210_Desc="Embora feita de pedra, a cabeça do guardião fede a decomposição."
+tagGDX2FocusD211=[ms]{^I}Rebento dos Presságios Celestes
+tagGDX2FocusD212=[ms]{^I}Portão para Muitos Mundos
+tagGDX2FocusD212_Desc="A própria trama da realidade se distorce e ameaça desmanchar-se."
+
+tagGDX2FocusF201=[fs]{^B}Efígie Fogo-véu de Bysmiel
+tagGDX2FocusF202=[fs]{^B}Efígie Contaminada de Bysmiel
+tagGDX2FocusF203=[ms]{^B}Tomo Porta-almas de Dreeg
+tagGDX2FocusF204=[ms]{^B}Tomo Tece-véu de Dreeg
+tagGDX2FocusF205=[ms]{^B}Tomo Tece-céu de Solael
+tagGDX2FocusF206=[ms]{^B}Tomo do Vazio de Solael
+tagGDX2FocusF207=[fs]{^I}Palavra de Solael
+tagGDX2FocusF207_Desc="As palavras cruéis de Solael, como transmitidas aos seus sacerdotes."
+
+
+
+#ArmorHead
+tagGDX2HeadB201=[ms]{^L}Semblante dos Escolhidos
+tagGDX2HeadB202=[fs]{^L}Máscara dos Escolhidos
+tagGDX2HeadB203=[fs]{^L}Borguinhota de Korvan
+tagGDX2HeadB204=[ms]{^L}Elmo de Korvan
+tagGDX2HeadB205=[ms]{^L}Olhar dos Escolhidos
+tagGDX2HeadB206=[ms]{^L}Olhar de Korvan
+tagGDX2HeadB207=[ms]{^L}Semblante da Gárgula
+tagGDX2HeadB208=[ms]{^L}Olhar da Gárgula
+tagGDX2HeadB209=[ms]{^L}Semblante do Mago
+
+tagGDX2HeadC201=[ms]{^B}Chapéu Rasga-céu
+tagGDX2HeadC202=[fs]{^B}Coroa de Gemas Infernais
+tagGDX2HeadC203=[ms]{^B}Capuz do Vinculador de Demônios
+tagGDX2HeadC204=[fs]{^B}Máscara de Fettan
+tagGDX2HeadC204_Desc="O dono deste notável elmo parece ter sido lentamente consumido ao longo de milhares de anos."
+tagGDX2HeadC205=[fs](S) {^B}Máscara de Baldir
+tagGDX2HeadC206=[fs](S) {^B}Máscara da Serpente da Tempestade
+tagGDX2HeadC207=[fs](S) {^B}Máscara da Labareda Purulenta
+tagGDX2HeadC208=[ms](S) {^B}Capuz de Daega
+tagGDX2HeadC209=[ms](S) {^B}Elmo do Petrarca
+tagGDX2HeadC210=[ms]{^Z}Olhar de Callagadra
+tagGDX2HeadC210_Desc="Manifestação do terror do povo de Korvan enquanto fugiam da devastação."
+
+tagGDX2HeadD201=[ms]{^I}Olhar do Fragmento da Manhã
+tagGDX2HeadD201_Desc="Forjado a partir do fragmento mais puro de cristal soladrin."
+tagGDX2HeadD202=[fs]{^I}Coroa do Rei Retornado
+tagGDX2HeadD202_Desc="A morte curva-se diante de seu rei."
+tagGDX2HeadD203=[ms]{^I}Elmo de Soulare
+tagGDX2HeadD203_Desc="O sol é tão grosseiramente incandescente."
+tagGDX2HeadD204=[mp]{^F}Chifres de Korvaak
+tagGDX2HeadD204_Desc="Os chifres do Senhor Celestial do Reino Feérico."
+tagGDX2HeadD205=[ms]{^F}Semblante de Okaloth
+tagGDX2HeadD206=[fs](S) {^I}Máscara do Reino Despedaçado
+tagGDX2HeadD207=[ms](S) {^I}Elmo do Subjugador
+tagGDX2HeadD208=[fs](S) {^I}Coroa do Sussurro Frio
+tagGDX2HeadD209=[ms](S) {^I}Chapéu de Ludrigan
+tagGDX2HeadD210=[ms](S) {^I}Capuz do Negociante de Ossos
+tagGDX2HeadD211=[ms](S) {^I}Olhar da Virtude
+tagGDX2HeadD212=[ms](S) {^I}Capuz de Harra
+tagGDX2HeadD213=[fs](S) {^I}Máscara do Ciclone
+tagGDX2HeadD214=[ms](S) {^I}Capuz do Senhor Infeccioso
+tagGDX2HeadD215=[ms]{^F}Semblante de Callagadra
+tagGDX2HeadD215_Desc="Manifestação do terror do povo de Korvan enquanto fugiam da devastação."
+tagGDX2HeadD216=[fs](S) {^I}Máscara do Demônio das Dunas
+tagGDX2HeadD217=[ms](S) {^I}Semblante de Pyran
+tagGDX2HeadD218=[ms](S) {^I}Elmo de Targo
+tagGDX2HeadD219=[ms](S) {^I}Semblante da Alma do Vazio
+tagGDX2HeadD220=[fs](S) {^I}Máscara de Putregheist
+tagGDX2HeadD221=[ms](S) {^F}Semblante de Morgoneth
+tagGDX2HeadD222=[fs]{^I}Máscara Cerimonial do Reino Despedaçado
+tagGDX2HeadD223=[fs](S) {^I}Máscara do Guardião do Véu
+tagGDX2HeadD224=[fs](S) {^I}Máscara do Bebedor de Sangueira
+tagGDX2HeadD225=[fs](S) {^I}Máscara do Chamado da Brasa
+
+tagGDX2HeadF201=[fs]{^G}Borguinhota do Sudário da Noite de Bysmiel
+tagGDX2HeadF202=[ms]{^G}Capuz Pavoroso de Bysmiel
+tagGDX2HeadF203=[fs]{^G}Cimeira do Sudário da Tempestade de Bysmiel
+tagGDX2HeadF204=[fs]{^G}Cimeira do Sudário da Chama de Bysmiel
+tagGDX2HeadF205=[fs]{^G}Borguinhota Pavorosa de Dreeg
+tagGDX2HeadF206=[fs]{^G}Borguinhota Combatente de Dreeg
+tagGDX2HeadF207=[ms]{^G}Capuz do Sudário do Veneno de Dreeg
+tagGDX2HeadF208=[fs]{^G}Cimeira Defensora de Dreeg
+tagGDX2HeadF209=[fs]{^G}Borguinhota Combatente de Solael
+tagGDX2HeadF210=[ms]{^G}Capuz do Vazio de Solael
+tagGDX2HeadF211=[ms]{^G}Capuz da Chama Negra de Solael
+tagGDX2HeadF212=[fs]{^G}Cimeira Vil de Solael
+
+
+
+#ArmorShoulders
+tagGDX2ShoulderB201=[mp]{^L}Espaldares dos Escolhidos
+tagGDX2ShoulderB202=[fp]{^L}Dragonas dos Escolhidos
+tagGDX2ShoulderB203=[fp]{^L}Brafoneiras de Korvan
+tagGDX2ShoulderB204=[mp]{^L}Espaldares de Korvan
+tagGDX2ShoulderB205=[mp]{^L}Espinhos da Gárgula
+tagGDX2ShoulderB206=[ms]{^L}Manto do Mago
+
+tagGDX2ShoulderC201=[ms]{^B}Manto Brasaveia
+tagGDX2ShoulderC202=[mp]{^B}Guarda-ombros do Briguento Empoeirado
+tagGDX2ShoulderC203=[ms](S) {^B}Manto de Baldir
+tagGDX2ShoulderC204=[ms](S) {^B}Manto da Labareda Purulenta
+tagGDX2ShoulderC205=[ms](S) {^B}Manto de Daega
+
+tagGDX2ShoulderD201=[fp]{^I}Brafoneiras do Fragmento da Manhã
+tagGDX2ShoulderD201_Desc="Forjadas a partir do fragmento mais puro de cristal soladrin."
+tagGDX2ShoulderD202=[fp]{^I}Brafoneiras Espectrósseas
+tagGDX2ShoulderD203=[ms]{^I}Manto Forjagelada
+tagGDX2ShoulderD204=[ms](S) {^I}Manto do Reino Despedaçado
+tagGDX2ShoulderD205=[ms](S) {^I}Manto do Subjugador
+tagGDX2ShoulderD206=[ms](S) {^I}Manto do Sussurro Frio
+tagGDX2ShoulderD207=[mp](S) {^I}Guarda-ombros do Negociante de Ossos
+tagGDX2ShoulderD208=[fs](S) {^I}Guarda da Virtude
+tagGDX2ShoulderD209=[mp](S) {^I}Guarda-ombros dos Três
+tagGDX2ShoulderD210=[mp](S) {^I}Guarda-ombros de Harra
+tagGDX2ShoulderD211=[ms](S) {^I}Manto do Ciclone
+tagGDX2ShoulderD212=[mp](S) {^I}Guarda-ombros de Rah'Zin
+tagGDX2ShoulderD213=[ms](S) {^I}Manto do Senhor Infeccioso
+tagGDX2ShoulderD214=[ms](S) {^I}Manto de Ghol
+tagGDX2ShoulderD215=[ms](S) {^I}Manto de Pyran
+tagGDX2ShoulderD216=[mp](S) {^I}Guarda-ombros de Targo
+tagGDX2ShoulderD217=[ms](S) {^I}Manto da Alma do Vazio
+tagGDX2ShoulderD218=[mp](S) {^I}Guarda-ombros de Putregheist
+tagGDX2ShoulderD219=[ms](S) {^I}Manto Trevoso de Morgoneth
+tagGDX2ShoulderD220=[ms]{^I}Manto Cerimonial do Reino Despedaçado
+tagGDX2ShoulderD221=[ms](S) {^I}Manto do Guardião do Véu
+tagGDX2ShoulderD222=[ms](S) {^I}Manto do Bebedor de Sangueira
+tagGDX2ShoulderD223=[ms](S) {^I}Manto do Chamado da Brasa
+
+tagGDX2ShoulderF201=[mp]{^G}Espaldares Arcanos de Bysmiel
+tagGDX2ShoulderF202=[ms]{^G}Manto do Sudário da Tempestade de Bysmiel
+tagGDX2ShoulderF203=[fp]{^G}Brafoneiras Defensoras de Bysmiel
+tagGDX2ShoulderF204=[fp]{^G}Brafoneiras do Sudário da Chama de Bysmiel
+tagGDX2ShoulderF205=[mp]{^G}Espaldares Pavorosos de Dreeg
+tagGDX2ShoulderF206=[mp]{^G}Espaldares Combatentes de Dreeg
+tagGDX2ShoulderF207=[ms]{^G}Manto Vil de Dreeg
+tagGDX2ShoulderF208=[fp]{^G}Brafoneiras do Sudário do Veneno de Dreeg
+tagGDX2ShoulderF209=[mp]{^G}Espaldares Combatentes de Solael
+tagGDX2ShoulderF210=[ms]{^G}Manto do Sudário do Sangue de Solael
+tagGDX2ShoulderF211=[ms]{^G}Manto da Chama Negra de Solael
+tagGDX2ShoulderF212=[fp]{^G}Brafoneiras Vis de Solael
+
+
+
+#ArmorTorso
+tagGDX2TorsoB201=[ms]{^L}Traje dos Escolhidos
+tagGDX2TorsoB201_Desc="O traje é entretecido com poderes roubados dos muitos inimigos de Korvaak."
+tagGDX2TorsoB202=[fs]{^L}Indumentária dos Escolhidos
+tagGDX2TorsoB203=[ms]{^L}Revestimento de Korvan
+tagGDX2TorsoB204=[fs]{^L}Armadura de Korvan
+tagGDX2TorsoB205=[fs]{^L}Armadura do Mago
+
+tagGDX2TorsoC201=[ms]{^B}Corselete Cortosiano
+tagGDX2TorsoC202=[ms]{^B}Corselete Forjarrúnica
+tagGDX2TorsoC203=[fs](S) {^B}Armadura de Baldir
+tagGDX2TorsoC204=[fs](S) {^B}Armadura da Serpente da Tempestade
+tagGDX2TorsoC205=[fs](S) {^B}Vestimenta da Labareda Purulenta
+tagGDX2TorsoC206=[fs](S) {^B}Indumentária de Daega
+tagGDX2TorsoC207=[fs](S) {^B}Armadura do Petrarca
+
+tagGDX2TorsoD201=[ms]{^I}Lorigão do Fragmento da Manhã
+tagGDX2TorsoD201_Desc="Forjado a partir do fragmento mais puro de cristal soladrin."
+tagGDX2TorsoD202=[fs]{^I}Vestimenta da Fé Dissolvida
+tagGDX2TorsoD202_Desc="Desiludida pelas promessas quebradas do Sacerdócio Menhiriano, Thalia encontrou uma voz diferente que respondia às suas preces."
+tagGDX2TorsoD203=[ms]{^I}Coração de Yugol
+tagGDX2TorsoD203_Desc="Escuridão manifestada, o coração vil bate em sintonia com a tapeçaria celestial."
+tagGDX2TorsoD204=[fs](S) {^I}Armadura do Reino Despedaçado
+tagGDX2TorsoD205=[fs](S) {^I}Armadura do Subjugador
+tagGDX2TorsoD206=[fs](S) {^I}Vestimenta do Sussurro Frio
+tagGDX2TorsoD207=[fs](S) {^I}Jaqueta de Ludrigan
+tagGDX2TorsoD208=[ms](S) {^I}Corselete do Negociante de Ossos
+tagGDX2TorsoD209=[fs](S) {^I}Armadura da Virtude
+tagGDX2TorsoD210=[fs](S) {^I}Armadura dos Três
+tagGDX2TorsoD211=[ms](S) {^I}Corselete de Harra
+tagGDX2TorsoD212=[fs](S) {^I}Armadura de Rah'Zin
+tagGDX2TorsoD213=[fs](S) {^I}Indumentária de Ghol
+tagGDX2TorsoD214=[fs](S) {^I}Jaqueta do Demônio das Dunas
+tagGDX2TorsoD215=[fs](S) {^I}Vestimenta de Pyran
+tagGDX2TorsoD216=[ms](S) {^I}Corselete de Targo
+tagGDX2TorsoD217=[fs](S) {^I}Armadura da Alma do Vazio
+tagGDX2TorsoD218=[ms](S) {^I}Corselete de Putregheist
+tagGDX2TorsoD219=[ms](S) {^I}Coração Negro de Morgoneth
+tagGDX2TorsoD220=[fs]{^I}Armadura Cerimonial do Reino Despedaçado
+tagGDX2TorsoD221=[fs](S) {^I}Armadura do Guardião do Véu
+tagGDX2TorsoD222=[fs](S) {^I}Armadura do Bebedor de Sangueira
+tagGDX2TorsoD223=[fs](S) {^I}Armadura do Chamado da Brasa
+
+tagGDX2TorsoF201=[ms]{^G}Corselete do Sudário da Noite de Bysmiel
+tagGDX2TorsoF202=[fs]{^G}Vestimenta Vil de Bysmiel
+tagGDX2TorsoF203=[fs]{^G}Couraça do Sudário da Tempestade de Bysmiel
+tagGDX2TorsoF204=[fs]{^G}Couraça do Sudário da Chama de Bysmiel
+tagGDX2TorsoF205=[ms]{^G}Corselete Pavoroso de Dreeg
+tagGDX2TorsoF206=[ms]{^G}Corselete Combatente de Dreeg
+tagGDX2TorsoF207=[fs]{^G}Vestimenta Arcana de Dreeg
+tagGDX2TorsoF208=[fs]{^G}Couraça Defensora de Dreeg
+tagGDX2TorsoF209=[ms]{^G}Corselete Combatente de Solael
+tagGDX2TorsoF210=[fs]{^G}Vestimenta do Vazio de Solael
+tagGDX2TorsoF211=[fs]{^G}Vestimenta da Chama Negra de Solael
+tagGDX2TorsoF212=[fs]{^G}Couraça Vil de Solael
+
+
+
+#ArmorHands
+tagGDX2HandsB201=[mp]{^Y}Punhos da Guarda da Peste
+tagGDX2HandsB202=[fp]{^Y}Manoplas da Guarda da Brasa
+
+tagGDX2HandsC201=[mp]{^B}Punhos de Turin
+tagGDX2HandsC201_Desc="Manoplas de Turin, Quebra-escudos de Ikon, que pereceu a serviço de Empyrion."
+tagGDX2HandsC202=[mp]{^B}Protetores de Mão do Ritual Mortífero
+tagGDX2HandsC203=[mp]{^B}Punhos com Excrementos
+tagGDX2HandsC203_Desc="Estes são certamente... eficazes em conter entusiasmo."
+tagGDX2HandsC204=[mp]{^B}Braceletes do Desprezo Vil
+
+tagGDX2HandsD201=[fp]{^I}Garras Dilacerantes do Vazio
+tagGDX2HandsD201_Desc="Mergulhadas no coração sangrento de um rylok."
+tagGDX2HandsD202=[ms]{^I}Punho do Fragmento da Manhã
+tagGDX2HandsD202_Desc="Forjado a partir do fragmento mais puro de cristal soladrin."
+tagGDX2HandsD203=[mp]{^I}Braceletes do Rapinante das Areias
+tagGDX2HandsD203_Desc="O portador destas luvas derramou sangue sobre as areias sem fim mais vezes do que se poderia contar."
+tagGDX2HandsD204=[ms](S) {^I}Alcance de Ghol
+tagGDX2HandsD205=[ms](S) {^F}Punho de Morgoneth
+
+
+
+#ArmorLegs
+tagGDX2LegsB201=[fp]{^Y}Perneiras da Guarda da Tempestade
+tagGDX2LegsB202=[mp]{^Y}Calções da Guarda da Geada
+
+tagGDX2LegsC201=[mp]{^B}Coxotes do Desprezo Vil
+tagGDX2LegsC202=[ms]{^B}Envoltório de Pernas Astral
+
+tagGDX2LegsD201=[mp]{^I}Guarda-pernas da Pedra da Geada
+tagGDX2LegsD202=[ms]{^I}Envoltório de Pernas Runamarca
+tagGDX2LegsD203=[fp]{^I}Perneiras das Correntes Arcanas
+tagGDX2LegsD204=[mp]{^F}Coxotes de Morgoneth
+
+
+
+#ArmorFeet
+tagGDX2FeetC201=[ms]{^B}Passo de Turin
+tagGDX2FeetC201_Desc="Turin, Quebra-escudos de Ikon, deu seus últimos passos ensanguentados portando estas botas a serviço de Empyrion."
+tagGDX2FeetC202=[fp]{^B}Grevas Estraçalhadas por Portal
+tagGDX2FeetC203=[fp]{^B}Grevas do Desprezo Vil
+
+tagGDX2FeetD201=[fp]{^I}Botas da Raiva Primordial
+tagGDX2FeetD202=[fp]{^I}Botinas de Pedra
+tagGDX2FeetD203=[ms]{^I}Passo de Amatok
+tagGDX2FeetD203_Desc="Abençoado em um pico congelado quando a estrela de Amatok estava visível no céu noturno."
+tagGDX2FeetD204=[fs]{^I}Graça do Andarilho da Morte
+tagGDX2FeetD205=[ms]{^F}Passo de Morgoneth
+
+
+
+#ArmorWaist
+tagGDX2WaistB201=[ms]{^L}Cinturão da Gárgula
+tagGDX2WaistB202=[fs]{^L}Cinta da Gárgula
+
+tagGDX2WaistC201=[ms]{^B}Cinturão do Coração de Aço
+tagGDX2WaistC202=[ms]{^B}Cinturão de Couro de Demônio
+tagGDX2WaistC203=[fs](S) {^B}Cinta da Serpente da Tempestade
+
+tagGDX2WaistD201=[ms]{^I}Pastor da Tempestade
+tagGDX2WaistD202=[ms]{^I}Lótus Carmesim
+tagGDX2WaistD202_Desc="Marca do Lótus Carmesim, os quais gostariam de ver o mundo consumido em chamas."
+tagGDX2WaistD203=[fp]{^I}Correntes do Fogo Noturno
+tagGDX2WaistD204=[ms]{^I}Lótus Branco
+tagGDX2WaistD204_Desc="Marca do Lótus Branco, zeladores da flor celestial que floresce nas terras de Korvan."
+tagGDX2WaistD205=[ms]{^I}Nosferattis
+tagGDX2WaistD206=[fs](S) {^I}Cinta de Rah'Zin
+tagGDX2WaistD207=[ms]{^I}Beijo de Murmúria
+tagGDX2WaistD208=[ms]{^I}Pacote de Meios Mortíferos
+tagGDX2WaistD208_Desc="Supostamente outrora pertencente à lâmina noturna Nidalla, cada frasco está cheio de uma toxina única. Algumas podem até ser combinadas para criar resultados completamente diferentes."
+tagGDX2WaistD209=[ms]{^F}Cordão de Larvas
+tagGDX2WaistD209_Desc="Um orgulhante troféu de conquistas."
+
+tagGDX2WaistF201A=[fs]{^G}Cinta Letal de Bysmiel
+tagGDX2WaistF201B=[ms]{^G}Cinturão Letal de Bysmiel
+tagGDX2WaistF202A=[fs]{^G}Cinta dos Espinhos Venenosos de Dreeg
+tagGDX2WaistF202B=[ms]{^G}Cinturão dos Espinhos Venenosos de Dreeg
+tagGDX2WaistF203A=[fs]{^G}Cinta Vil de Solael
+tagGDX2WaistF203B=[ms]{^G}Cinturão Vil de Solael
+
+
+
+#Rings
+tagGDX2RingB201=[ms]{^L}Anel Trepador
+
+tagGDX2RingC201=[fs]{^B}Aliança do Espinheiro Carmesim
+tagGDX2RingC202=[fs]{^B}Aliança do Guarda do Véu
+tagGDX2RingC203=[ms]{^Z}Selo de Sethris
+tagGDX2RingC203_Desc="Um dos sete selos dos Magos de Korvan. Uma quinquilharia para marcar o status deles entre o povo de Korvan."
+tagGDX2RingC204=[ms]{^Z}Selo de Orissia
+tagGDX2RingC205=[ms]{^Z}Selo de Anubar
+tagGDX2RingC206=[ms]{^Z}Selo de Tawrot
+tagGDX2RingC207=[ms]{^Z}Selo de Basti
+tagGDX2RingC208=[ms]{^Z}Selo de Shuroth
+tagGDX2RingC209=[ms]{^Z}Selo de Khonsar
+
+tagGDX2RingD201=[ms]{^I}Menhiriano
+tagGDX2RingD201_Desc="Sigilo do Templo de Menhir, concedido aos seus seguidores mais zelosos."
+tagGDX2RingD202=[ms]{^I}Juramento da Luz
+tagGDX2RingD203=[ms]{^I}Ícore de Yugol
+tagGDX2RingD203_Desc="Pingando escuridão que ameaça consumir sua carne."
+tagGDX2RingD204=[fs]{^I}Aliança da Pira Eterna
+tagGDX2RingD205=[ms]{^I}Glifo do Bruxo da Tempestade
+tagGDX2RingD206=[fs](S) {^I}Autoridade de Bysmiel
+tagGDX2RingD207=[fs](S) {^I}Influência de Bysmiel
+tagGDX2RingD208=[ms]{^F}Anel de Sethris
+tagGDX2RingD208_Desc="Um dos sete anéis dos Magos de Korvan. Pelo seu poder, os magos foram vinculados à escuridão."
+tagGDX2RingD209=[ms]{^F}Anel de Orissia
+tagGDX2RingD210=[ms]{^F}Anel de Anubar
+tagGDX2RingD211=[ms]{^F}Anel de Tawrot
+tagGDX2RingD212=[ms]{^F}Anel de Basti
+tagGDX2RingD213=[ms]{^F}Anel de Shuroth
+tagGDX2RingD214=[ms]{^F}Anel de Khonsar
+tagGDX2RingD215=[ms]{^F}Anel Principal de Morgoneth
+tagGDX2RingD215_Desc="O Anel do Grande Mago Morgoneth sussurra para você em uma língua amaldiçoada. Dizia-se que, por meio deste anel, o comando de Morgoneth sobre os outros magos era absoluto."
+
+tagGDX2RingF201=[ms]{^B}Selo Vil de Bysmiel
+tagGDX2RingF202=[ms]{^B}Selo Gelante de Bysmiel
+tagGDX2RingF203=[ms]{^B}Selo do Veneno de Dreeg
+tagGDX2RingF204=[ms]{^B}Selo das Lâminas de Dreeg
+tagGDX2RingF205=[ms]{^B}Selo Tempesfogo de Solael
+tagGDX2RingF206=[ms]{^B}Selo Disforme de Solael
+
+
+
+#Necklaces
+tagGDX2NecklaceB200=[fs]{^F}Gema de Guerra Maravilhosa de Wilhelm
+tagGDX2NecklaceB200_Desc="Ahhhhhhhhhh."
+tagGDX2NecklaceB201=[ms]{^L}Olho Ardente de Kaisan
+tagGDX2NecklaceB201_Desc="O olho imortal de Kaisan olha para você de dentro do pingente."
+tagGDX2NecklaceB202=[ms]{^L}Olho Feérico de Kaisan
+tagGDX2NecklaceB202_Desc="O olho imortal de Kaisan olha para você de dentro do pingente."
+tagGDX2NecklaceB203=[ms]{^L}Pingente de Bolvar
+
+tagGDX2NecklaceD113I=[ms]{^I}Conduto dos Sussurros Divinos
+
+tagGDX2NecklaceC201=[fp]{^B}Gemas do Frio Arcano
+tagGDX2NecklaceC202=[ms]{^B}Olhar do Caos
+
+tagGDX2NecklaceD201=[ms]{^I}Avatar da Ordem
+tagGDX2NecklaceD201_Desc="A segunda das sete virtudes sagradas da humanidade."
+tagGDX2NecklaceD202=[fp]{^I}Areias de Azrakaa
+tagGDX2NecklaceD203=[ms]{^I}Avatar do Caos
+tagGDX2NecklaceD203_Desc="A terceira das sete virtudes sagradas da humanidade, pervertida incomensuravelmente pelo vazio."
+tagGDX2NecklaceD204=[fs]{^I}Vontade da Lâmina
+tagGDX2NecklaceD205=[ms]{^F}Coração do Rei das Areias
+tagGDX2NecklaceD205_Desc="Coração de Gannar'vakkar, rei das Areias de Korvan."
+tagGDX2NecklaceD206=[fs](S) {^I}Proteção do Reino Despedaçado
+tagGDX2NecklaceD207=[fs](S) {^I}Gema do Subjugador
+tagGDX2NecklaceD208=[fs](S) {^I}Gema do Negociante de Ossos
+tagGDX2NecklaceD209=[fs](S) {^I}Proteção da Virtude
+tagGDX2NecklaceD210=[fs](S) {^I}Proteção de Harra
+tagGDX2NecklaceD211=[fs](S) {^I}Gema de Rah'Zin
+tagGDX2NecklaceD212=[ms](S) {^I}Vetor do Senhor Infeccioso
+tagGDX2NecklaceD213=[fs](S) {^I}Íris de Bysmiel
+tagGDX2NecklaceD214=[ms](S) {^I}Emblema de Putregheist
+tagGDX2NecklaceD215=[fs](S) {^I}Proteção do Bebedor de Sangueira
+
+tagGDX2NecklaceF201=[ms]{^B}Pingente Campeão de Bysmiel
+tagGDX2NecklaceF202=[ms]{^B}Pingente Velado de Bysmiel
+tagGDX2NecklaceF203=[ms]{^B}Pingente Arcano de Dreeg
+tagGDX2NecklaceF204=[ms]{^B}Pingente dos Espinhos Venenosos de Dreeg
+tagGDX2NecklaceF205=[ms]{^B}Pingente Tempesfogo de Solael
+tagGDX2NecklaceF206=[ms]{^B}Pingente do Vazio de Solael
+tagGDX2NecklaceF207=[ms]{^I}Pingente Espreitanoite
+tagGDX2NecklaceF208=[ms]{^I}Venofogo
+tagGDX2NecklaceF209=[ms]{^I}Jorrassangue
+
+
+
+#Medals
+tagGDX2MedalA200=[ms]Distintivo da Perseverança
+
+tagGDX2MedalB201=[fs]{^L}Presa do Basilisco
+tagGDX2MedalB201_Desc="As presas ainda pingam veneno tóxico."
+tagGDX2MedalB202=[ms]{^L}Encaro do Wendigo
+tagGDX2MedalB202_Desc="O olho inchado de sangue encara avidamente a sua presa."
+tagGDX2MedalB203=[fs]{^L}Marca de Ventocorte
+tagGDX2MedalB203_Desc="O rodopio de lâminas cortando o ar é tudo o que o Dranghoul conheceu, ou precisou."
+tagGDX2MedalB204=[fs]{^G}Distinção do Briguento
+tagGDX2MedalB204_Desc="O duelo é uma competição extenuante em que duas almas cansadas batalham na terra pela supremacia. Apenas uma sairá vitoriosa."
+
+tagGDX2MedalC201=[fs]{^B}Marca das Mentiras Angustiadas
+tagGDX2MedalC202=[fs]{^B}Marca da Lamúria da Morte
+tagGDX2MedalC203=[fs](S) {^B}Marca do Petrarca
+
+tagGDX2MedalD201=[ms]{^I}Timbre da Fortitude Invernal
+tagGDX2MedalD202=[fs]{^I}Marca de Korvaak
+tagGDX2MedalD202_Desc="Extremamente escaldante para marcar súditos leais."
+tagGDX2MedalD203=[fs]{^I}Marca dos Fins Sangrentos
+tagGDX2MedalD204=[fs]{^I}Marca dos Desejos Calamitosos
+tagGDX2MedalD204_Desc="Por um comando soberano."
+tagGDX2MedalD205=[fs]{^I}Marca da Não Vida
+tagGDX2MedalD206=[fs](S) {^I}Marca de Ludrigan
+tagGDX2MedalD207=[fs](S) {^I}Marca do Ciclone
+tagGDX2MedalD208=[fs](S) {^I}Marca de Ghol
+tagGDX2MedalD209=[fs](S) {^I}Marca de Bysmiel
+tagGDX2MedalD210=[ms](S) {^I}Timbre do Guardião do Véu
+tagGDX2MedalD211=[ms](S) {^I}Timbre do Chamado da Brasa
+
+tagGDX2MedalF201=[fs]{^B}Marca da Manipulação de Bysmiel
+tagGDX2MedalF202=[fs]{^B}Marca das Tempestades de Bysmiel
+tagGDX2MedalF203=[fs]{^B}Marca dos Calafrios de Dreeg
+tagGDX2MedalF204=[fs]{^B}Marca da Chama Negra de Dreeg
+tagGDX2MedalF205=[fs]{^B}Marca da Matança de Solael
+tagGDX2MedalF206=[fs]{^B}Marca do Sangue de Solael
+tagGDX2MedalF207=[fs]{^I}Marca da Rainha das Sombras
+tagGDX2MedalF208=[fs]{^I}Marca do Antevidente
+tagGDX2MedalF209=[fs]{^I}Marca das Sombras Ardentes
+
+
+
+#Blueprints
+tagGDX2Blueprint_RelicC201=Diagrama: Relíquia - Resistência
+
+tagGDX2Blueprint_RelicD201=Diagrama: Relíquia - Meditação
+tagGDX2Blueprint_RelicD202=Diagrama: Relíquia - Honra
+tagGDX2Blueprint_RelicD203=Diagrama: Relíquia - Época de Azrakaa
+tagGDX2Blueprint_RelicD204=Diagrama: Relíquia - Fome de Yugol
+tagGDX2Blueprint_RelicD205=Diagrama: Relíquia - Serenidade
+tagGDX2Blueprint_RelicD206=Diagrama: Relíquia - Absolvição
+
+tagGDX2Blueprint_WaistF201A=Diagrama: Cinta Letal de Bysmiel
+tagGDX2Blueprint_WaistF201B=Diagrama: Cinturão Letal de Bysmiel
+tagGDX2Blueprint_WaistF202A=Diagrama: Cinta dos Espinhos Venenosos de Dreeg
+tagGDX2Blueprint_WaistF202B=Diagrama: Cinturão dos Espinhos Venenosos de Dreeg
+tagGDX2Blueprint_WaistF203A=Diagrama: Cinta Vil de Solael
+tagGDX2Blueprint_WaistF203B=Diagrama: Cinturão Vil de Solael
+
+tagGDX2Blueprint_WeaponD201=Diagrama: Rebento dos Ventos Penetrantes Mítico
+tagGDX2Blueprint_WeaponD202=Diagrama: Julgamento dos Três
+
+tagGDX2Blueprint_WeaponF201=Diagrama: Furassangue
+tagGDX2Blueprint_WeaponF202=Diagrama: Aperto de Bysmiel
+tagGDX2Blueprint_WeaponF203=Diagrama: Tece-mentes de Bysmiel
+tagGDX2Blueprint_WeaponF204=Diagrama: Corruptian
+tagGDX2Blueprint_WeaponF205=Diagrama: Rancor
+tagGDX2Blueprint_WeaponF206=Diagrama: Occulant
+tagGDX2Blueprint_WeaponF207=Diagrama: Rasgassangue
+tagGDX2Blueprint_WeaponF208=Diagrama: Devoradora de Solael
+tagGDX2Blueprint_WeaponF209=Diagrama: Palavra de Solael
+tagGDX2Blueprint_WeaponF210=Diagrama: Vampirris
+tagGDX2Blueprint_WeaponF211=Diagrama: Malevolência
+
+tagGDX2Blueprint_ArmorB201=Diagrama: Punhos da Guarda da Peste
+tagGDX2Blueprint_ArmorB202=Diagrama: Manoplas da Guarda da Brasa
+tagGDX2Blueprint_ArmorB203=Diagrama: Perneiras da Guarda da Tempestade
+tagGDX2Blueprint_ArmorB204=Diagrama: Calções da Guarda da Geada
+
+tagGDX2Blueprint_ArmorC201=Diagrama: Guarda-rosto da Perdição Mítico
+tagGDX2Blueprint_ArmorC202=Diagrama: Elmo do Petrarca
+
+tagGDX2Blueprint_ArmorD201=Diagrama: Olhar do Fragmento da Manhã
+tagGDX2Blueprint_ArmorD202=Diagrama: Coroa do Rei Retornado
+tagGDX2Blueprint_ArmorD203=Diagrama: Elmo de Soulare
+tagGDX2Blueprint_ArmorD204=Diagrama: Olhar do Fragmento da Manhã Mítico
+tagGDX2Blueprint_ArmorD205=Diagrama: Coroa do Rei Retornado Mítica
+tagGDX2Blueprint_ArmorD206=Diagrama: Elmo de Soulare Mítico
+tagGDX2Blueprint_ArmorD207=Diagrama: Coroa do Sussurro Frio
+tagGDX2Blueprint_ArmorD208=Diagrama: Chapéu de Ludrigan
+tagGDX2Blueprint_ArmorD209=Diagrama: Capuz do Negociante de Ossos
+tagGDX2Blueprint_ArmorD210=Diagrama: Olhar da Virtude
+tagGDX2Blueprint_ArmorD211=Diagrama: Capuz de Harra
+tagGDX2Blueprint_ArmorD212=Diagrama: Máscara do Ciclone
+tagGDX2Blueprint_ArmorD213=Diagrama: Armadura de Rah'Zin
+tagGDX2Blueprint_ArmorD214=Diagrama: Capuz do Senhor Infeccioso
+tagGDX2Blueprint_ArmorD215=Diagrama: Indumentária de Ghol
+tagGDX2Blueprint_ArmorD216=Diagrama: Máscara do Demônio das Dunas
+tagGDX2Blueprint_ArmorD217=Diagrama: Semblante de Pyran
+tagGDX2Blueprint_ArmorD218=Diagrama: Elmo de Targo
+tagGDX2Blueprint_ArmorD219=Diagrama: Semblante da Alma do Vazio
+tagGDX2Blueprint_ArmorD220=Diagrama: Máscara de Putregheist
+
+tagGDX1Blueprint_AccessoryD121I=Diagrama: Conduto dos Sussurros Divinos
+
+tagGDX2Blueprint_AccessoryD201=Diagrama: Lótus Branco
+tagGDX2Blueprint_AccessoryD202=Diagrama: Lótus Carmesim Mítico
+tagGDX2Blueprint_AccessoryD203=Diagrama: Marca dos Desejos Calamitosos Mítica
+tagGDX2Blueprint_AccessoryD204=Diagrama: Ícore de Yugol Mítico
+
+tagGDX2Blueprint_AccessoryF201=Diagrama: Pingente Espreitanoite
+tagGDX2Blueprint_AccessoryF202=Diagrama: Venofogo
+tagGDX2Blueprint_AccessoryF203=Diagrama: Jorrassangue
+tagGDX2Blueprint_AccessoryF204=Diagrama: Marca da Rainha das Sombras
+tagGDX2Blueprint_AccessoryF205=Diagrama: Marca do Antevidente
+tagGDX2Blueprint_AccessoryF206=Diagrama: Marca das Sombras Ardentes
+
+
+tagGDX2Blueprint_RuneC201=Diagrama: Emblema da Rapidez de Korvan
+tagGDX2Blueprint_RuneC202=Diagrama: Glifo da Rapidez de Korvan
+tagGDX2Blueprint_RuneC203=Diagrama: Runa da Rapidez de Korvan
+tagGDX2Blueprint_RuneC204=Diagrama: Emblema do Vetor de Dreeg
+tagGDX2Blueprint_RuneC205=Diagrama: Glifo do Vetor de Dreeg
+tagGDX2Blueprint_RuneC206=Diagrama: Runa do Vetor de Dreeg
+tagGDX2Blueprint_RuneC207=Diagrama: Emblema do Poder de Rahn
+tagGDX2Blueprint_RuneC208=Diagrama: Glifo do Poder de Rahn
+tagGDX2Blueprint_RuneC209=Diagrama: Runa do Poder de Rahn
+
+tagGDX2Blueprint_RuneC210=Diagrama: Glifo do Wendigo Voraz
+tagGDX2Blueprint_RuneC211=Diagrama: Glifo do Carneiro do Norte
+tagGDX2Blueprint_RuneC212=Diagrama: Glifo dos Ventos Incorpóreos
+tagGDX2Blueprint_RuneC213=Diagrama: Glifo da Força Sísmica
+tagGDX2Blueprint_RuneC214=Diagrama: Glifo de Tempestrondo
+tagGDX2Blueprint_RuneC215=Diagrama: Glifo do Bote da Mantícora
+tagGDX2Blueprint_RuneC216=Diagrama: Glifo das Perspicácias Arcanas
+tagGDX2Blueprint_RuneC217=Diagrama: Glifo dos Portais Ardentes
+tagGDX2Blueprint_RuneC218=Diagrama: Glifo das Lâminas Espontâneas
+tagGDX2Blueprint_RuneC219=Diagrama: Glifo da Desordem
+tagGDX2Blueprint_RuneC220=Diagrama: Glifo da Raposa do Inverno
+tagGDX2Blueprint_RuneC221=Diagrama: Glifo da Fênix Ascendente
+tagGDX2Blueprint_RuneC222=Diagrama: Glifo dos Recuos Assombrosos
+tagGDX2Blueprint_RuneC223=Diagrama: Glifo do Assassino Elusivo
+tagGDX2Blueprint_RuneC224=Diagrama: Glifo do Ermo Cinzento
+tagGDX2Blueprint_RuneC225=Diagrama: Glifo dos Golpes Súbitos
+tagGDX2Blueprint_RuneC226=Diagrama: Glifo da Cauda do Escorpião
+tagGDX2Blueprint_RuneC227=Diagrama: Glifo das Almas Indisciplinadas
+
+tagGDX2Blueprint_RuneD201=Diagrama: Runa do Sopro de Amatok
+tagGDX2Blueprint_RuneD202=Diagrama: Runa dos Reis Vencidos
+tagGDX2Blueprint_RuneD203=Diagrama: Runa dos Deleites Violentos
+tagGDX2Blueprint_RuneD204=Diagrama: Runa da Queda de Ulzuin
+tagGDX2Blueprint_RuneD205=Diagrama: Runa da Instabilidade Feérica
+tagGDX2Blueprint_RuneD206=Diagrama: Runa do Progenitor Sombrio
+tagGDX2Blueprint_RuneD207=Diagrama: Runa do Destemido
+tagGDX2Blueprint_RuneD208=Diagrama: Runa das Feridas de Dreeg
+tagGDX2Blueprint_RuneD209=Diagrama: Runa do Golpe de Nadaan
+tagGDX2Blueprint_RuneD210=Diagrama: Runa da Chegada de Ultos
+tagGDX2Blueprint_RuneD211=Diagrama: Runa dos Portais Astrais
+tagGDX2Blueprint_RuneD212=Diagrama: Runa do Deslocamento
+tagGDX2Blueprint_RuneD213=Diagrama: Runa do Tufão
+tagGDX2Blueprint_RuneD214=Diagrama: Runa da Loucura de Ulzaad
+tagGDX2Blueprint_RuneD215=Diagrama: Runa dos Desejos Miseráveis
+tagGDX2Blueprint_RuneD216=Diagrama: Runa do Beijo de Murmúria
+tagGDX2Blueprint_RuneD217=Diagrama: Runa da Misericórdia de Ishtak
+tagGDX2Blueprint_RuneD218=Diagrama: Runa das Sombras Vampíricas
+tagGDX2Blueprint_RuneD219=Diagrama: Runa dos Desejos Sombrios
+tagGDX2Blueprint_RuneD220=Diagrama: Runa do Tempestitã
+tagGDX2Blueprint_RuneD221=Diagrama: Runa dos Fins Chamejantes
+
+
+#Relics
+tagGDX2RelicC201=Resistência
+tagGDX2RelicC201Desc="A vontade de continuar diante de toda adversidade."
+
+tagGDX2RelicD201=Meditação
+tagGDX2RelicD201Desc="A presença de espírito para ver o panorama maior."
+
+tagGDX2RelicD202=Honra
+tagGDX2RelicD202Desc="A incessante busca da retidão em um mundo desprovido dela."
+
+tagGDX2RelicD203=Época de Azrakaa
+tagGDX2RelicD203Desc="Uma imperfeição nas circunvoluções do tempo."
+
+tagGDX2RelicD204=Fome de Yugol
+tagGDX2RelicD204Desc="Uma voracidade inigualável em toda a criação."
+
+tagGDX2RelicD205=Serenidade
+tagGDX2RelicD205Desc="Paz dentro de si."
+
+tagGDX2RelicD206=Absolvição
+tagGDX2RelicD206Desc="A força de vontade para levar a cabo a verdadeira justiça."
+
+
+
+#Crafting
+tagCraftTabArtifactA=Relíquias e Runas
+tagCraftTabArtifactB=Talismãs, relíquias e artefatos de grande poder. Runas que concedem novas habilidades a você.
+
+tagGDX1CraftRandomLegendaryDesc2B=O ferreiro combina o poder arcano bruto dentro destes objetos para criar um objeto de potencial Lendário, até o nível 94, não incluindo objetos forjados pelos Deuses Esquecidos. Personagens abaixo do nível 58 poderão criar, em vez disso, um item Épico.
+tagGDX1CraftRandomLegendaryAccessoryDesc2B=O ferreiro combina o poder arcano bruto dentro destes objetos para criar um objeto de potencial Lendário, até o nível 94, não incluindo objetos forjados pelos Deuses Esquecidos. Personagens abaixo do nível 58 criarão, em vez disso, um item Épico.
+tagGDX1CraftRandomLegendaryItemDesc2B=O ferreiro cria um item encantado apropriado ao seu nível, de qualidade Lendária, até o nível 94, não incluindo objetos forjados pelos Deuses Esquecidos.
+
+tagGDX2CraftRandomCraftingMaterial=Material de Criação
+tagGDX2CraftRandomCraftingMaterialDesc=Da essência da própria criação, o ferreiro forja um potente material útil para criar poderosos equipamentos e relíquias.
+
+tagGDX2CraftRandomLegendaryDesc3=O ferreiro combina o poder arcano bruto dentro destes objetos para criar um objeto de potencial Lendário, até o nível 94, incluindo até mesmo objetos forjados pelos próprios Deuses Esquecidos. Personagens abaixo do nível 58 poderão criar, em vez disso, um item Épico.
+tagGDX2CraftRandomLegendaryAccessoryDesc3=O ferreiro combina o poder arcano bruto dentro destes objetos para criar um objeto de potencial Lendário, até o nível 94, incluindo até mesmo objetos forjados pelos próprios Deuses Esquecidos. Personagens abaixo do nível 58 criarão, em vez disso, um item Épico.
+tagGDX2CraftRandomLegendaryItemDesc3=O ferreiro cria um item encantado apropriado ao seu nível, de qualidade Lendária, até o nível 94, incluindo até mesmo objetos forjados pelos próprios Deuses Esquecidos.
+
+tagGDX2CraftMaterial_Eldritch=Essência Feérica
+tagGDX2CraftMaterial_Eldritch_Desc="Viscosa e pingando poder mágico bruto do Reino Feérico."
+
+tagGDX2CraftMaterial_Lotus=Lótus Celestial
+tagGDX2CraftMaterial_Lotus_Desc="Uma flor encontrada apenas no Planalto de Korvan e suas misteriosas ruínas. Aquelas que se acredita terem sido tocadas pelos deuses brilham com a luz celestial das estrelas e são consideradas um presságio de boa sorte."
+
+tagGDX2CraftMaterial_Sacrifice=Essência Celestial
+tagGDX2CraftMaterial_Sacrifice_Desc="A essência da realidade, da própria existência. Pode ser usada em rituais poderosos se um local adequado for encontrado para tais ações questionáveis."
+
+tagGDX2CraftMaterial_IronExchange_01=Barra de Ferro
+tagGDX2CraftMaterial_IronExchange_01_Desc=Um recurso valioso em um mundo assolado pela morte.^w^n^nGarrus, o Guardião do Ferro, no Conclave dos Três, trocará de bom grado 50000 Pedaços de Ferro por isto.
+
+tagGDX2CraftMaterial_IronExchange_02=Pilha de Barras de Ferro Premium
+tagGDX2CraftMaterial_IronExchange_02_Desc=Um recurso valioso em um mundo assolado pela morte.^w^n^nGarrus, o Guardião do Ferro, no Conclave dos Três, trocará de bom grado 500000 Pedaços de Ferro por isto.
+
+#Consumables
+tagGDX2Consumable_01=Orbe Misterioso
+tagGDX2Consumable_01_Desc="O propósito do orbe, ou até mesmo as origens, são um mistério. Será que seria sensato usar uma coisa dessas..."
+
+tagGDX2Consumable_02=Orbe Celestial
+tagGDX2Consumable_02_Desc="Um remanescente do Reino Despedaçado. Mas qual é o propósito dele..."
+
+tagGDX2Consumable_03=Orbe do Vazio
+tagGDX2Consumable_03_Desc="Este orbe cintila com energias do vazio. Provavelmente não é seguro manuseá-lo..."
+
+tagGDX2Consumable_04=Ícore de Yugol
+tagGDX2Consumable_04_Desc="O líquido negro de seu interior não possui cheiro, ainda assim seus sentidos são horrorizados por ele. Sua simples presença parece anular a magia."
+
+
+#ItemEnchantment
+tagGDX2EnchantA201A=Pó Solar de Korvan
+tagGDX2EnchantA201Desc="Cristais infundidos com o sol escaldante do Planalto de Korvan."^w^n(Aplicado em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantA202A=Pó Solar de Korvan Potente
+tagGDX2EnchantA202Desc="Cristais infundidos com o sol escaldante do Planalto de Korvan."^w^n(Aplicado em todas as armas de duas mãos)
+
+tagGDX2EnchantA203A=Veneno de Víbora
+tagGDX2EnchantA203Desc="Veneno da víbora de Korvan, cuidadosamente extraído e armazenado em uma bolsa encantada para não dissolver o recipiente."^w^n(Aplicado em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantA204A=Veneno de Víbora Potente
+tagGDX2EnchantA204Desc="Veneno da víbora de Korvan, cuidadosamente extraído e armazenado em uma bolsa encantada para não dissolver o recipiente."^w^n(Aplicado em todas as armas de duas mãos)
+
+tagGDX2EnchantA205A=Presa de Garrareia
+tagGDX2EnchantA205Desc="Uma presa finamente moída em pó de encantamento, recolhida das garrareias que vagam pelas dunas de Korvan."^w^n(Aplicada em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantA206A=Presa de Garrareia Potente
+tagGDX2EnchantA206Desc="Uma presa finamente moída em pó de encantamento, recolhida das garrareias que vagam pelas dunas de Korvan."^w^n(Aplicada em todas as armas de duas mãos)
+
+tagGDX2EnchantA207A=Escama de Garrareia
+tagGDX2EnchantA207Desc="Quando as matriarcas garrareias fazem ecdise, algumas das suas escamas absorvem mais das energias feéricas ambientes na região do que outras. Essas produzem os encantamentos mais potentes."^w^n(Aplicada em anéis e amuletos)
+
+tagGDX2EnchantA208A=Escama de Víbora
+tagGDX2EnchantA208Desc="Escamas coletadas das víboras de Korvan, quase tão difíceis de recolher quanto suas presas venenosas."^w^n(Aplicada em anéis e amuletos)
+
+tagGDX2EnchantA209A=Pó de Brasacasca
+tagGDX2EnchantA209Desc="Borralho das árvores incineradas pela ira de um deus esquecido."^w^n(Aplicado em anéis e amuletos)
+
+tagGDX2EnchantA210A=Pó de Videira Podre
+tagGDX2EnchantA210Desc="O fedor que vem do pó é meramente uma amostra dos aromas grotescos emitidos pela planta propriamente dita."^w^n(Aplicado em anéis e amuletos)
+
+tagGDX2EnchantA211A=Pó de Cacto de Korvan
+tagGDX2EnchantA211Desc="Os cactos de Korvan retêm avidamente a água preciosa no Planalto de Korvan e absorvem as energias feéricas que abundam no interior."^w^n(Aplicado em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantA212A=Pó de Cacto de Korvan Potente
+tagGDX2EnchantA212Desc="Os cactos de Korvan retêm avidamente a água preciosa no Planalto de Korvan e absorvem as energias feéricas que abundam no interior."^w^n(Aplicado em todas as armas de duas mãos)
+
+tagGDX2EnchantA213A=Pó de Broto Feérico
+tagGDX2EnchantA213Desc="Um pó derivado de uma planta rara encontrada apenas no Planalto de Korvan. Sua biologia parece ser diferente da de qualquer outra fauna na região."^w^n(Aplicado em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantA214A=Pó de Broto Feérico Potente
+tagGDX2EnchantA214Desc="Um pó derivado de uma planta rara encontrada apenas no Planalto de Korvan. Sua biologia parece ser diferente da de qualquer outra fauna na região."^w^n(Aplicado em todas as armas de duas mãos)
+
+tagGDX2EnchantA215A=Pó de Casco de Escaravelho
+tagGDX2EnchantA215Desc="Os cascos dos escaravelhos de Korvan produzem um pó de encantamento fino, se você realmente conseguir triturá-los."^w^n(Aplicado em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantA216A=Pó de Casco de Escaravelho Potente
+tagGDX2EnchantA216Desc="Os cascos dos escaravelhos de Korvan produzem um pó de encantamento fino, se você realmente conseguir triturá-los."^w^n(Aplicado em todas as armas de duas mãos)
+
+tagGDX2EnchantA217A=Presa de Gárgula
+tagGDX2EnchantA217Desc="Presa de uma criatura feérica mítica raramente vista fora do Reino Feérico."^w^n(Aplicada em anéis e amuletos)
+
+tagGDX2EnchantA218A=Pó de Espinhossálvia
+tagGDX2EnchantA218Desc="A espinhossálvia é considerada inestimável entre os estudiosos por sua tinta vermelho-escura, mas aqueles que a colhem precisam tomar cuidado com o exterior espinhoso para não sofrerem lesões que nunca saram verdadeiramente."^w^n(Aplicado em anéis e amuletos)
+
+tagGDX2EnchantA219A=Pó de Verme do Véu
+tagGDX2EnchantA219Desc="Um pó derivado de manifestações perturbadoras do vazio que aparentemente se alimentam da barreira entre as realidades."^w^n(Aplicado em anéis e amuletos)
+
+tagGDX2EnchantA220A=Sal do Vazio
+tagGDX2EnchantA220Desc="Um pó de encantamento derivado das cinzas dentro do próprio Vazio. Você sente um quê de almas humanas na mistura, mas não consegue ter certeza se isso é um acréscimo ou outro aspecto desagradável do vazio."^w^n(Aplicado em anéis e amuletos)
+
+tagGDX2EnchantA221A=Escama de Gárgula
+tagGDX2EnchantA221Desc="Repleta de energias feéricas e quase impossível de transformar em pó sem ferramentas arcanas."^w^n(Aplicada em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantA222A=Escama de Gárgula Potente
+tagGDX2EnchantA222Desc="Repleta de energias feéricas e quase impossível de transformar em pó sem ferramentas arcanas."^w^n(Aplicada em todas as armas de duas mãos)
+
+tagGDX2EnchantA223A=Crepusculídea
+tagGDX2EnchantA223Desc="As pétalas em pó de uma planta potente que cresce perto de poças de água agora raramente vistas no Planalto de Korvan."^w^n(Aplicada em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantA224A=Crepusculídea Potente
+tagGDX2EnchantA224Desc="As pétalas em pó de uma planta potente que cresce perto de poças de água agora raramente vistas no Planalto de Korvan."^w^n(Aplicada em todas as armas de duas mãos)
+
+tagGDX2EnchantA225A=Garra de Grifo
+tagGDX2EnchantA225Desc="Um pó derivado das garras dos grifos que habitam o Planalto de Korvan."^w^n(Aplicada em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantA226A=Garra de Grifo Potente
+tagGDX2EnchantA226Desc="Um pó derivado das garras dos grifos que habitam o Planalto de Korvan."^w^n(Aplicada em todas as armas de duas mãos)
+
+tagGDX2EnchantA227A=Língua do Deserto
+tagGDX2EnchantA227Desc="Um pó derivado de uma vibrante planta vermelha que cresce no Planalto de Korvan."^w^n(Aplicada em anéis e amuletos)
+
+tagGDX2EnchantA228A=Veneno de Escorpião
+tagGDX2EnchantA228Desc="Veneno das glândulas da cauda das criaturas mortíferas que vagam pelas areias do deserto."^w^n(Aplicado em anéis e amuletos)
+
+tagGDX2EnchantA229A=Essência do Guardião
+tagGDX2EnchantA229Desc="Essência arcana dos vários guardiões que vagam pelos templos do Planalto de Korvan."^w^n(Aplicada em anéis e amuletos)
+
+tagGDX2EnchantA230A=Pó de Deformalma
+tagGDX2EnchantA230Desc="A essência de um espírito espectral combinada com farinha de ossos para fins de encantamento."^w^n(Aplicado em anéis e amuletos)
+
+
+tagGDX2EnchantB201A=Controle de Bysmiel
+tagGDX2EnchantB201Desc="Uma dádiva da deusa bruxa Bysmiel, perfeitamente sintonizada com as mentes dos asseclas."^w^n(Aplicado em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantB202A=Controle de Bysmiel Potente
+tagGDX2EnchantB202Desc="Uma dádiva da deusa bruxa Bysmiel, perfeitamente sintonizada com as mentes dos asseclas."^w^n(Aplicado em todas as armas de duas mãos)
+
+tagGDX2EnchantB203A=Astúcia de Bysmiel
+tagGDX2EnchantB203Desc="Uma dádiva da deusa bruxa Bysmiel para dar a seus servos uma vantagem no combate físico, quando retroceder para as sombras não for uma opção."^w^n(Aplicada em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantB204A=Astúcia de Bysmiel Potente
+tagGDX2EnchantB204Desc="Uma dádiva da deusa bruxa Bysmiel para dar a seus servos uma vantagem no combate físico, quando retroceder para as sombras não for uma opção."^w^n(Aplicada em todas as armas de duas mãos)
+
+tagGDX2EnchantB205A=Sudário de Bysmiel
+tagGDX2EnchantB205Desc="Uma dádiva da deusa bruxa Bysmiel, sintonizada com o véu que separa os vivos dos mortos."^w^n(Aplicado em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantB206A=Sudário de Bysmiel Potente
+tagGDX2EnchantB206Desc="Uma dádiva da deusa bruxa Bysmiel, sintonizada com o véu que separa os vivos dos mortos."^w^n(Aplicado em todas as armas de duas mãos)
+
+tagGDX2EnchantB207A=Vontade de Ateph
+tagGDX2EnchantB207Desc="Um pó de encantamento potente derivado das relíquias encontradas dentro do Templo de Ateph, destinado a reforçar o vínculo entre amo e assecla."^w^n(Aplicada em anéis e amuletos)
+
+tagGDX2EnchantB208A=Resplendor de Ateph
+tagGDX2EnchantB208Desc="Um pó de encantamento potente derivado das relíquias encontradas dentro do Templo de Ateph que infunde o equipamento com um toque gelante."^w^n(Aplicado em anéis e amuletos)
+
+tagGDX2EnchantB209A=Comando de Ateph
+tagGDX2EnchantB209Desc="Um pó de encantamento potente derivado das relíquias encontradas dentro do Templo de Ateph que concede ao portador um apetite por sangue."^w^n(Aplicado em anéis e amuletos)
+
+tagGDX2EnchantB210A=Promessa de Ateph
+tagGDX2EnchantB210Desc="Um pó de encantamento potente derivado das relíquias encontradas dentro do Templo de Ateph que protege o portador de danos."^w^n(Aplicada em anéis e amuletos)
+
+tagGDX2EnchantB211A=Antevidência de Dreeg
+tagGDX2EnchantB211Desc="Uma dádiva do deus bruxo Dreeg que concede ao portador uma mera amostra da visão do Grande Guardião para Cairn."^w^n(Aplicada em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantB212A=Antevidência de Dreeg Potente
+tagGDX2EnchantB212Desc="Uma dádiva do deus bruxo Dreeg que concede ao portador uma mera amostra da visão do Grande Guardião para Cairn."^w^n(Aplicada em todas as armas de duas mãos)
+
+tagGDX2EnchantB213A=Poeira de Espinho de Dreeg
+tagGDX2EnchantB213Desc="Uma dádiva do deus bruxo Dreeg derivada de um dos espinhos do Grande Guardião, sempre pingando ácido."^w^n(Aplicada em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantB214A=Poeira de Espinho de Dreeg Potente
+tagGDX2EnchantB214Desc="Uma dádiva do deus bruxo Dreeg derivada de um dos espinhos do Grande Guardião, sempre pingando ácido."^w^n(Aplicada em todas as armas de duas mãos)
+
+tagGDX2EnchantB215A=Terror de Dreeg
+tagGDX2EnchantB215Desc="Uma dádiva, ou talvez uma maldição, do deus bruxo Dreeg que concede ao portador um fragmento de um possível futuro em que o vazio reina absoluto sobre toda a criação."^w^n(Aplicado em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantB216A=Terror de Dreeg Potente
+tagGDX2EnchantB216Desc="Uma dádiva, ou talvez uma maldição, do deus bruxo Dreeg que concede ao portador um fragmento de um possível futuro em que o vazio reina absoluto sobre toda a criação."^w^n(Aplicado em todas as armas de duas mãos)
+
+tagGDX2EnchantB217A=Temperamento de Osyr
+tagGDX2EnchantB217Desc="Um pó de encantamento denso derivado dos restos dessecados do sacerdócio de Osyr, contaminado por uma escuridão sem nome."^w^n(Aplicado em anéis e amuletos)
+
+tagGDX2EnchantB218A=Fortitude de Osyr
+tagGDX2EnchantB218Desc="Um pó de encantamento denso derivado dos restos dessecados do sacerdócio de Osyr, ainda abençoado pela palavra do deus perdido."^w^n(Aplicada em anéis e amuletos)
+
+tagGDX2EnchantB219A=Orientação de Osyr
+tagGDX2EnchantB219Desc="Um pó de encantamento denso derivado dos restos dessecados do sacerdócio de Osyr, sintonizado com a maestria das criaturas conjuradas."^w^n(Aplicada em anéis e amuletos)
+
+tagGDX2EnchantB220A=Sabedoria de Osyr
+tagGDX2EnchantB220Desc="Um pó de encantamento denso derivado dos restos dessecados do sacerdócio de Osyr, ainda repleto de energias arcanas brutas."^w^n(Aplicada em anéis e amuletos)
+
+tagGDX2EnchantB221A=Visão de Solael
+tagGDX2EnchantB221Desc="Uma dádiva do deus bruxo Solael, prometendo uma destruição incalculável sobre os inimigos dele."^w^n(Aplicada em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantB222A=Visão de Solael Potente
+tagGDX2EnchantB222Desc="Uma dádiva do deus bruxo Solael, prometendo uma destruição incalculável sobre os inimigos dele."^w^n(Aplicada em todas as armas de duas mãos)
+
+tagGDX2EnchantB223A=Voracidade de Solael
+tagGDX2EnchantB223Desc="Uma dádiva do deus bruxo Solael, concedendo ao portador uma amostra da fome sem fim da Chama Feérica."^w^n(Aplicada em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantB224A=Voracidade de Solael Potente
+tagGDX2EnchantB224Desc="Uma dádiva do deus bruxo Solael, concedendo ao portador uma amostra da fome sem fim da Chama Feérica."^w^n(Aplicada em todas as armas de duas mãos)
+
+tagGDX2EnchantB225A=Resplendor de Solael
+tagGDX2EnchantB225Desc="Uma dádiva do deus bruxo Solael, infundida com a essência da vontade da Chama Feérica."^w^n(Aplicado em todas as armas de uma mão, escudos e focos)
+
+tagGDX2EnchantB226A=Resplendor de Solael Potente
+tagGDX2EnchantB226Desc="Uma dádiva do deus bruxo Solael, infundida com a essência da vontade da Chama Feérica."^w^n(Aplicado em todas as armas de duas mãos)
+
+tagGDX2EnchantB227A=Fogo da Alma de Irrah
+tagGDX2EnchantB227Desc="Um pó de encantamento fino derivado das cinzas das piras no interior do templo de Irrah, ainda infundido com fragmentos de alma de vítimas sacrificiais."^w^n(Aplicado em anéis e amuletos)
+
+tagGDX2EnchantB228A=Paciência de Irrah
+tagGDX2EnchantB228Desc="Um pó de encantamento fino derivado das cinzas das piras no interior do templo de Irrah que preenche o portador com uma calma antinatural."^w^n(Aplicada em anéis e amuletos)
+
+tagGDX2EnchantB229A=Língua Venenosa de Irrah
+tagGDX2EnchantB229Desc="Um pó de encantamento fino derivado das cinzas das piras no interior do templo de Irrah, infundido com várias toxinas encontradas entre a flora e a fauna do Planalto de Korvan."^w^n(Aplicada em anéis e amuletos)
+
+tagGDX2EnchantB230A=Sangue de Irrah
+tagGDX2EnchantB230Desc="Um pó de encantamento fino derivado das cinzas das piras no interior do templo de Irrah, alegadamente infundido com sangue celestial."^w^n(Aplicado em anéis e amuletos)
+
+tagGDX2EnchantC201A=Areia Prateada de Bysmiel
+tagGDX2EnchantC201Desc="Uma dádiva da deusa bruxa Bysmiel, um pó prateado incrivelmente fino usado frequentemente em ilusões, mas também útil para proteções."^w^n(Aplicada em todas as armaduras)
+
+tagGDX2EnchantC202A=Farpa do Deserto de Bysmiel
+tagGDX2EnchantC202Desc="Uma dádiva da deusa bruxa Bysmiel, o beijo mortal da Intriguista foi infundido no pó de encantamento."^w^n(Aplicada em todas as armaduras)
+
+tagGDX2EnchantC203A=Toque do Véu de Bysmiel
+tagGDX2EnchantC203Desc="Uma dádiva da deusa bruxa Bysmiel, um pó ligado magicamente ao próprio véu que separa os vivos dos mortos."^w^n(Aplicado em todas as armaduras)
+
+tagGDX2EnchantC204A=Presságio de Dreeg
+tagGDX2EnchantC204Desc="Uma dádiva do deus bruxo Dreeg que oferece ao portador breves lampejos do futuro."^w^n(Aplicado em todas as armaduras)
+
+tagGDX2EnchantC205A=Antivéu de Dreeg
+tagGDX2EnchantC205Desc="Uma dádiva do deus bruxo Dreeg destinada a proteger a mente das visões que alteram o estado mental transmitidas pelo Grande Guardião aos seus seguidores."^w^n(Aplicado em todas as armaduras)
+
+tagGDX2EnchantC206A=Sangue de Demônio de Dreeg
+tagGDX2EnchantC206Desc="Uma dádiva do deus bruxo Dreeg, derivada dos demônios ctônicos que o Grande Guardião esmagou nos portões do Reino Feérico."^w^n(Aplicado em todas as armaduras)
+
+tagGDX2EnchantC207A=Vinculação de Sangue de Solael
+tagGDX2EnchantC207Desc="Uma dádiva do deus bruxo Solael, um pó repulsivo utilizado em rituais que vinculam os receptores ao pacto de Solael."^w^n(Aplicada em todas as armaduras)
+
+tagGDX2EnchantC208A=Antivazio de Solael
+tagGDX2EnchantC208Desc="Uma dádiva do deus bruxo Solael destinada a proteger a mente das assolações do vazio para que a Chama Feérica possa estudar seus segredos sem entraves."^w^n(Aplicado em todas as armaduras)
+
+tagGDX2EnchantC209A=Vinculação de Alma de Solael
+tagGDX2EnchantC209Desc="Uma dádiva do deus bruxo Solael, um pó vil utilizado em rituais de vinculação espiritual para a Chama Feérica devorar."^w^n(Aplicada em todas as armaduras)
+
+#Mobility Runes
+tagGDX2RuneBDesc="Um símbolo comum de poder, usado pelos cultos dos Deuses Bruxos."^w^n(Aplicado(a) em medalhas)
+tagGDX2RuneCDesc="Um símbolo formidável de poder, encontrado nos confins de Cairn."^w^n(Aplicado(a) em medalhas)
+tagGDX2RuneDDesc="Um símbolo antigo de poder, tido como perdido em uma realidade despedaçada."^w^n(Aplicado(a) em medalhas)
+
+tagGDX2RuneB201=Emblema do Assassino Sombrio
+tagGDX2RuneB202=Emblema do Louva-a-deus Saltador
+tagGDX2RuneB203=Emblema da Raiva Concentrada
+tagGDX2RuneB204=Emblema do Espreitador do Abismo
+tagGDX2RuneB205=Emblema do Touro Arremetedor
+tagGDX2RuneB206=Emblema da Caçadora Ágil
+
+tagGDX2RuneC201=Emblema da Rapidez de Korvan
+tagGDX2RuneC202=Glifo da Rapidez de Korvan
+tagGDX2RuneC203=Runa da Rapidez de Korvan
+tagGDX2RuneC204=Emblema do Vetor de Dreeg
+tagGDX2RuneC205=Glifo do Vetor de Dreeg
+tagGDX2RuneC206=Runa do Vetor de Dreeg
+tagGDX2RuneC207=Emblema do Poder de Rahn
+tagGDX2RuneC208=Glifo do Poder de Rahn
+tagGDX2RuneC209=Runa do Poder de Rahn
+tagGDX2RuneC210=Glifo do Wendigo Voraz
+tagGDX2RuneC211=Glifo do Carneiro do Norte
+tagGDX2RuneC212=Glifo dos Ventos Incorpóreos
+tagGDX2RuneC213=Glifo da Força Sísmica
+tagGDX2RuneC214=Glifo de Tempestrondo
+tagGDX2RuneC215=Glifo do Bote da Mantícora
+tagGDX2RuneC216=Glifo das Perspicácias Arcanas
+tagGDX2RuneC217=Glifo dos Portais Ardentes
+tagGDX2RuneC218=Glifo das Lâminas Espontâneas
+tagGDX2RuneC219=Glifo da Desordem
+tagGDX2RuneC220=Glifo da Raposa do Inverno
+tagGDX2RuneC221=Glifo da Fênix Ascendente
+tagGDX2RuneC222=Glifo dos Recuos Assombrosos
+tagGDX2RuneC223=Glifo do Assassino Elusivo
+tagGDX2RuneC224=Glifo do Ermo Cinzento
+tagGDX2RuneC225=Glifo dos Golpes Súbitos
+tagGDX2RuneC226=Glifo da Cauda do Escorpião
+tagGDX2RuneC227=Glifo das Almas Indisciplinadas
+
+tagGDX2RuneD201=Runa do Sopro de Amatok
+tagGDX2RuneD202=Runa dos Reis Vencidos
+tagGDX2RuneD203=Runa dos Deleites Violentos
+tagGDX2RuneD204=Runa da Queda de Ulzuin
+tagGDX2RuneD205=Runa da Instabilidade Feérica
+tagGDX2RuneD206=Runa do Progenitor Sombrio
+tagGDX2RuneD207=Runa do Destemido
+tagGDX2RuneD208=Runa das Feridas de Dreeg
+tagGDX2RuneD209=Runa do Golpe de Nadaan
+tagGDX2RuneD210=Runa da Chegada de Ultos
+tagGDX2RuneD211=Runa dos Portais Astrais
+tagGDX2RuneD212=Runa do Deslocamento
+tagGDX2RuneD213=Runa do Tufão
+tagGDX2RuneD214=Runa da Loucura de Ulzaad
+tagGDX2RuneD215=Runa dos Desejos Miseráveis
+tagGDX2RuneD216=Runa do Beijo de Murmúria
+tagGDX2RuneD217=Runa da Misericórdia de Ishtak
+tagGDX2RuneD218=Runa das Sombras Vampíricas
+tagGDX2RuneD219=Runa dos Desejos Sombrios
+tagGDX2RuneD220=Runa do Tempestitã
+tagGDX2RuneD221=Runa dos Fins Chamejantes
+
+
+#ItemComponents
+
+
+#ItemFactionBoosters
+tagGDX2BoosterWGB_A01=Édito de Bysmiel
+tagGDX2BoosterWGB_B01=Mandato de Bysmiel
+tagGDX2BoosterWGD_A01=Édito de Dreeg
+tagGDX2BoosterWGD_B01=Mandato de Dreeg
+tagGDX2BoosterWGS_A01=Édito de Solael
+tagGDX2BoosterWGS_B01=Mandato de Solael
+
+tagGDX2BoosterEldritch_C01=Decreto de Korvaak
+
+
+#Misc
+
+
+
+#ItemSets
+tagItemSetC008CName=Anistia
+tagItemSetC007CName=O Áugure
+tagItemSetC013CName=Insensatez do Perjuro
+tagItemSetC015BName=Carnificina Deliberada
+
+tagGDX2ItemSetC201Name=Placas de Baldir
+tagGDX2ItemSetC201BName=Paramentos de Baldir
+tagGDX2ItemSetC201Desc="Baldir manteve-se como um modelo de virtude e de fé de Erulan. Ele fez um juramento nos degraus do palácio do imperador de defender os desamparados e os mansos dos males do mundo. Esse juramento nunca foi quebrado."
+
+tagGDX2ItemSetC202Name=A Serpente da Tempestade
+tagGDX2ItemSetC202Desc="A adoração pagã a uma serpente celestial há muito foi extirpada pelos Luminari, mas relíquias dessa religião esquecida remanescem."
+
+tagGDX2ItemSetC203Name=Labareda Purulenta
+tagGDX2ItemSetC203Desc="Desejos cruéis ardiam no coração de Idria, então ela deixou o mundo inteiro queimar como ela o fez."
+
+tagGDX2ItemSetC204Name=Juramento de Daega
+tagGDX2ItemSetC204Desc="Daega fazia perguntas que os sacerdotes de Empyrion não conseguiam responder, mas, em seu desespero, ela descobriu uma verdade mais profunda por meio de Dreeg."
+
+tagGDX2ItemSetC205Name=Petrarca
+tagGDX2ItemSetC205Desc="Armadura do Petrarca, protetor resoluto e imóvel da fé de Menhir."
+
+tagGDX2ItemSetD201Name=Guardião Despedaçado
+tagGDX2ItemSetD201Desc="Guardião de um reino consumido pela escuridão, desprovido de seu padroeiro e protetor."
+
+tagGDX2ItemSetD202Name=O Subjugador
+tagGDX2ItemSetD202Desc="Conquistador do proibido, triunfante sobre todos os inimigos."
+
+tagGDX2ItemSetD203Name=Sussurro Frio
+tagGDX2ItemSetD203Desc="Os sussurros arrepiantes dos retornados da morte ecoam dentro desta armadura. Vesti-la é tornar-se o campeão da morte."
+
+tagGDX2ItemSetD204Name=Orgulho de Ludrigan
+tagGDX2ItemSetD204Desc="Orgulho da lenda Luminari, Ludrigan, que empregava relíquias xamanísticas para subjugar os inimigos do Império Erulano."
+
+tagGDX2ItemSetD205Name=Negociante de Ossos
+tagGDX2ItemSetD205Desc="Armadura do Negociante de Ossos, traidor da fé e colecionador de troféus macabros."
+
+tagGDX2ItemSetD206Name=Luz da Virtude
+tagGDX2ItemSetD206Desc="Alegadamente abençoada por Empyrion, o maior entre os deuses, a Luz da Virtude é um foco de esperança e justiça em um mundo desesperado por ambas."
+
+tagGDX2ItemSetD207Name=Sentinela dos Três
+tagGDX2ItemSetD207Desc="Armadura da Sentinela, guardião juramentado dos Três e seus interesses mortais."
+
+tagGDX2ItemSetD208Name=Artifício de Harra
+tagGDX2ItemSetD208Desc="Harra adorava a combinação de lâmina e magia, tendo sido treinada pelos discretos Lâminas Noturnas e pelo Gildam Arcanum."
+
+tagGDX2ItemSetD209Name=O Ciclone
+tagGDX2ItemSetD209Desc="Galaron pregava um fim cataclísmico para Cairn em que o próprio ar se transformava em chamas e o céu ondulava com tempestades eternas. Com suas últimas palavras, ele proclamou o retorno do esquecido."
+
+tagGDX2ItemSetD210Name=Tormento de Rah'Zin
+tagGDX2ItemSetD210Desc="Os pesadelos de Rah'Zin foram consumidos pelo vazio, pervertendo seus pensamentos e desejos até que ele se tornou um agente da própria coisa que ele temia."
+
+tagGDX2ItemSetD211Name=O Senhor Infeccioso
+tagGDX2ItemSetD211Desc="Ninguém sabia a verdadeira identidade do Senhor Infeccioso, apenas os crimes que ele cometera. Quando finalmente foi pego, seu rosto estava tão deformado pela doença e putrefação que ninguém podia reconhecê-lo."
+
+tagGDX2ItemSetD212Name=Malícia de Ghol
+tagGDX2ItemSetD212Desc="Ghol era selvagem, mas brilhante; precisamente as características que atraíram a atenção da Senhora dos Sussurros e ganharam sua bênção."
+
+tagGDX2ItemSetD213Name=Quinquilharias de Bysmiel
+tagGDX2ItemSetD213Desc="Em seus dias de mortal, a Senhora dos Sussurros era conhecida por juntar objetos poderosos que aumentavam seu controle sobre criaturas inferiores. Depois de ascender ao seu trono, ela não precisou mais dessas quinquilharias insignificantes."
+
+tagGDX2ItemSetD214Name=O Demônio das Dunas de Korvan
+tagGDX2ItemSetD214Desc="O Demônio das Dunas de Korvan almejava ser como as víboras das Areias de Korvan, elusivas... velozes... e mortíferas."
+
+tagGDX2ItemSetD215Name=Ruminações de Pyran
+tagGDX2ItemSetD215Desc="Desprezado por seus professores, Pyran prometeu deixar sua marca na história do arcano, mesmo enquanto seus experimentos distorciam e pervertiam sua própria carne."
+
+tagGDX2ItemSetD216Name=Ofício de Targo
+tagGDX2ItemSetD216Desc="Alegadamente forjada pelo próprio mestre forjador das próprias estrelas, a armadura personifica a força do corpo e a de vontade."
+
+tagGDX2ItemSetD217Name=A Alma do Vazio
+tagGDX2ItemSetD217Desc="Esta outrora abençoada armadura está agora repleta de energias sinistras, tendo seu coração sido corrompido pelo vazio por toda a eternidade."
+
+tagGDX2ItemSetD218Name=Putregheist
+tagGDX2ItemSetD218Desc="Putregheist se deleitava com a matança de homens e de criaturas igualmente, e até mesmo usava a carne de sua presa muito tempo depois de ela ter começado a apodrecer."
+
+tagGDX2ItemSetD219Name=Armadura da Noite Eterna
+tagGDX2ItemSetD219Desc="Morgoneth perscrutou a escuridão, até que a escuridão olhou de volta."
+
+tagGDX2ItemSetD220Name=Guardião do Véu
+tagGDX2ItemSetD220Desc="Paramentos outrora usados pelos resolutos Guardiões de Ralyoth, que, uma eternidade atrás, eram os zeladores de um deus esquecido."
+
+tagGDX2ItemSetD221Name=Bebedor de Sangueira
+tagGDX2ItemSetD221Desc="Paramentos outrora usados pelos resolutos Guardiões de Ralyoth, que, uma eternidade atrás, eram os zeladores de um deus esquecido."
+
+tagGDX2ItemSetD222Name=Chamado da Brasa
+tagGDX2ItemSetD222Desc="Paramentos outrora usados pelos resolutos Guardiões de Ralyoth, que, uma eternidade atrás, eram os zeladores de um deus esquecido."
+
+
+
+#LootChests
+
+
+tagGDX2KorvanChestB01=Baú Gasto
+tagGDX2KorvanChestC01=Baú Glamoroso
+tagGDX2KorvanChestD01=Baú Opulento
+
+tagGDX2EldritchChestB01=Estoque Feérico
+tagGDX2EldritchChestC01=Provisão Feérica
+tagGDX2EldritchChestD01=Tesouro Feérico
+tagGDX2EldritchChestD02=Segredos de Korvan
+tagGDX2EldritchChestD03=Coleções da Caixa
+
+tagGDX2KorvanSarcophagusB01=Sarcófago de Nobre
+tagGDX2KorvanSarcophagusC01=Sarcófago Real
+tagGDX2KorvanSarcophagusD01=Sarcófago Celestial
+
+tagGDX2BloodSwornCorpse=Cadáver de Jurassangue
+
+tagGDX2Breakable_Beetle=Ninho de Escaravelhos
+tagGDX2Breakable_Eggs=Ovos de Réptil
+
+tagGDX2ChestKorvaak=Tesouro de Korvaak
+tagGDX2ChestTombOfHeretic=Coleção de Morgoneth
+
+tagGDX2ChestOneShot_=Estoque de Korvan
+tagGDX2ChestBossOneShot_Korvaak=Essência de Korvaak
+
+tagGDX2InventorsApprenticeCorpse=Cadáver de Canen
+
+tagGDX2UroboruukRemains=Posses de Uroboruuk
+
+tagGDX2ChestGauntletChestD01=Relicário Esquecido
+
+tagGDX2ChestMawOfEnaht_01=Restos de Carmac
+
+
+#Interactive Objects
+
+tagGDX2DoorLocked_Korvaak= {^R} ~ Trancado(a) por um Guardião Poderoso
+tagGDX2DoorLocked_Roguelike= {^R} ~ Selado(a) por uma Runa Poderosa
+
+
+
+#Breakables
+tagGDX2Quest_BindingConduit_01=Conduto Aprisionador
+tagGDX2Crate=Caixa Despretensiosa
+
+#Dungeon Doors
+tagGDX2UGDoorEntrance= (Entrada)
+
+tagGDX2UGDoorBeetle=Entrada do Ninho de Besouros
+tagGDX2UGDoorSolaelFaction=Sala de Mapas de Rahn
+tagGDX2UGDoorBlocked= {^R} ~ Bloqueado(a)
+tagGDX2UGDoorTombEntrance=Entrada da Tumba
+tagGDX2UGDoorTombDoor=Porta da Tumba
+tagGDX2UGDoorKorvaakTomb=Entrada da Tumba do Sol Feérico
+tagGDX2UGDoorMessenger=Cova da Expiação
+tagGDX2UGDoorKymonExit=Acesso ao Portão Feérico
+tagGDX2UGDoorKorvaakFinal=Descer aos Tronos Feéricos
+
+tagGDX2UGDoorFort=Entrada do Forte
+tagGDX2UGDoorMaw=Entrada da Bocarra
+
+
+tagGDX2POI_AREAG_MeatTunnelA=Entrada da Bocarra de Enaht
+tagGDX2POI_AREAG_MeatTunnelB=Saída da Bocarra de Enaht
+tagGDX2POI_AREAG_MeatTunnelC=Passagem da Bocarra
+tagGDX2UGDoorLostOasisPassage=Passagem do Oásis Perdido
+tagGDX2UGDoorLostOasisGardenEntrance=Entrada da Corte dos Magos
+tagGDX2UGDoorLostOasisGardenExit=Saída da Corte dos Magos
+tagGDX2UGDoorLostOasisPathEntrance=Entrada do Caminho dos Condenados
+tagGDX2UGDoorLostOasisPathExit=Saída do Caminho dos Condenados
+tagGDX2UGDoorSandFort_Entrance=Entrada do Bastião Abandonado
+tagGDX2UGDoorSandFort_Exit=Saída do Bastião Abandonado
+tagGDX2UGDoorSandFort_StairsUp=Escada para Cima do Forte
+tagGDX2UGDoorSandFort_StairsDown=Escada para Baixo do Forte
+tagGDX2UGDoor_HowlingDepthsA=Entrada das Profundezas Uivantes
+tagGDX2UGDoor_HowlingDepthsB=Saída das Profundezas Uivantes
+tagGDX2UGDoor_HowlingDepthsC=Passagem das Profundezas Uivantes
+
+
+
+#Doors
+tagGDX2Door_PortcullisGold=Rastrilho Dourado
+tagGDX2Door_Lava=Barreira de Magma
+tagGDX2EldritchRift=Portal Feérico
+tagGDX2TombOfHereticDoor=Escuridão Manifestada
+tagGDX2TombOfHereticSeal=Selo do Herege
+
+tagGDX2DoorOneWayTombOfHeretic=Escapar da Noite
+tagGDX2EpicDoor_TombOfHeretic=Selo para a Insensatez de Morgoneth
+tagGDX2EpicDoor_TombOfHereticLocked= {^R} ~ Selado(a) pela Escuridão (Requer uma Chave Esquelética)
+
+
+tagPrefixB037_Class_A=[ms]{^G}de Senhor da Guerra[fs]{^G}de Senhor da Guerra[mp]{^G}de Senhor da Guerra[fp]{^G}de Senhor da Guerra
+tagPrefixB038_Class_A=[ms]{^G}de Quebra-escudos[fs]{^G}de Quebra-escudos[mp]{^G}de Quebra-escudos[fp]{^G}de Quebra-escudos
+tagPrefixB039_Class_A=[ms]{^G}de Sentinela[fs]{^G}de Sentinela[mp]{^G}de Sentinela[fp]{^G}de Sentinela
+tagPrefixB040_Class_A=[ms]{^G}de Dervixe[fs]{^G}de Dervixe[mp]{^G}de Dervixe[fp]{^G}de Dervixe
+tagPrefixB041_Class_A=[ms]{^G}de Templário[fs]{^G}de Templário[mp]{^G}de Templário[fp]{^G}de Templário
+tagPrefixB042_Class_A=[ms]{^G}de Arconte[fs]{^G}de Arconte[mp]{^G}de Arconte[fp]{^G}de Arconte
+tagPrefixB043_Class_A=[ms]{^G}de Paladino[fs]{^G}de Paladino[mp]{^G}de Paladino[fp]{^G}de Paladino
+tagPrefixB044_Class_A=[ms]{^G}de Opressor[fs]{^G}de Opressor[mp]{^G}de Opressor[fp]{^G}de Opressor
+tagPrefixB045_Class_A=[ms]{^G}de Redentor[fs]{^G}de Redentor[mp]{^G}de Redentor[fp]{^G}de Redentor
+
+
+#Affixes
+tagGDX2PrefixAA024=[ms]{^Y}de Guardião da Luz[fs]{^Y}de Guardião da Luz[mp]{^Y}de Guardião da Luz[fp]{^Y}de Guardião da Luz
+
+#Difficulty Unlocks
+tagGDX2DifficultyUnlock01=Mérito do Campeão
+tagGDX2DifficultyUnlock01_Desc=Prova da conquista dos terrores de Cairn e do ganho do status de Dificuldade Elite. Cuidado: a entrada prematura em dificuldades mais altas apresentará sérios desafios! ^oPode ser colocado no Baú de Transferência para uso em outros personagens.
+tagGDX2DifficultyUnlock02=Mérito do Salvador
+tagGDX2DifficultyUnlock02_Desc=Prova da subjugação dos terrores de Cairn e do ganho do status de Dificuldade Supremo. Cuidado: a entrada prematura em dificuldades mais altas apresentará sérios desafios! ^oPode ser colocado no Baú de Transferência para uso em outros personagens.
+tagGDX2DifficultyUnlockStats={^E}Desbloqueia recompensas de Atributo/Habilidade de missões em dificuldades mais baixas
+tagGDX2DifficultyUnlockTeleporters={^E}Desbloqueia Portais em dificuldades mais baixas
+tagGDX2DifficultyUnlockBags={^E}Desbloqueia todas as Bolsas de Inventário
+
+
+
+

@@ -1,0 +1,1937 @@
+
+#Weapons
+
+
+tagGDX1WeaponSwordB101=[fs]{^L}Garra de wendigo
+tagGDX1WeaponSwordB101Desc="La garra apesta a decadencia".
+tagGDX1WeaponSwordB102=[fs]{^L}Púa de wendigo
+tagGDX1WeaponSwordB102Desc="Gotea suciedad de la garra".
+
+tagGDX1WeaponSwordC101=[fs]{^B}Cuchilla limpia de Elgoloth
+tagGDX1WeaponSwordC101_Desc="Una vez manchada por el toque corruptor de los chthonianos, esta espada fue restaurada a su antigua gloria por los luminari".
+tagGDX1WeaponSwordC104=[ms]{^B}Orgullo del Legionario
+
+tagGDX1WeaponSwordD101=[ms]{^I}Borde de Muerte
+tagGDX1WeaponSwordD102=[fs]{^I}La traición de Pagar
+tagGDX1WeaponSwordD102_Desc="Ninguna traición se sintió más profunda que el día en que se reveló que el Inquisidor Pagar estaba aliado con los poderes del vacío en un centro de entrenamiento luminari".
+tagGDX1WeaponSwordD105=[fs]{^I}Miseria
+tagGDX1WeaponSwordD106=[ms]{^I}Corazón Ardiente
+tagGDX1WeaponSwordD106_Desc="Tiene un letra D grabada con sangre en la empuñadura".
+tagGDX1WeaponSwordD107=[fs](S) {^I}Rebanadora de Belgothian
+
+tagGDX1WeaponSwordF101=[fs]{^B}Rebanadora de Malmouth
+tagGDX1WeaponSwordF102=[fs]{^B}Hoja de Malmouth
+tagGDX1WeaponSwordF103=[ms]{^B}Quijada de Wendigo
+tagGDX1WeaponSwordF104=[ms]{^I}Redentor de Malmouth
+
+
+tagGDX1WeaponBluntB101=[ms]{^L}Corazón de Bargoll
+tagGDX1WeaponBluntB101Desc="El corazón de piedra de Bargoll emana un escalofrío mortal".
+tagGDX1WeaponBluntB102=[ms]{^L}Núcleo de Bargoll
+tagGDX1WeaponBluntB102Desc="El núcleo viviente de Bargoll tiene sed de esencia vital para que la criatura pueda renacer una vez más".
+
+tagGDX1WeaponBluntC101=[fs]{^B}Golpeadora de Muerte
+
+tagGDX1WeaponBluntD101=[fs]{^I}Infusión de Malakor
+tagGDX1WeaponBluntD101_Desc="El Arcanista Malakor, un aliado cercano de los luminari, forjó esta arma en llamas elementales para combatir a los seres sobrenaturales en sus propias condiciones".
+tagGDX1WeaponBluntD103=[fs]{^I}Trituradora de Amarastan
+tagGDX1WeaponBluntD104=[fs]{^I}La Moledora
+tagGDX1WeaponBluntD105=[fs](S) {^I}Moledora Guardapiedra
+
+tagGDX1WeaponBluntF101=[ms]{^B}Martillo de guerra de Malmouth
+tagGDX1WeaponBluntF102=[fs]{^B}Maza de Malmouth
+tagGDX1WeaponBluntF103=[fs]{^B}Maza de wendigo
+tagGDX1WeaponBluntF104=[ms]{^I}Aullido del wendigo
+
+tagGDX1WeaponAxeB101=[fs]{^L}Rebanadora del Siervo
+tagGDX1WeaponAxeB102=[ms]{^L}Corruptor del siervo
+tagGDX1WeaponAxeB103=[fs]{^Y}Cortadora derramadora de sangre
+
+tagGDX1WeaponAxeC101=[ms]{^B}Desollapiel de Halvor
+
+tagGDX1WeaponAxeD101=[ms]{^I}Mordisco de Devastador
+tagGDX1WeaponAxeD101_Desc="Creado de la garra de una manifestación pasada del gran Devastador".
+tagGDX1WeaponAxeD103=[fs]{^I}Garra Nocturna
+tagGDX1WeaponAxeD104=[ms]{^I}Borde de Cordura
+tagGDX1WeaponAxeD104_Desc="No está claro si esta arma finalmente vuelve locas a las víctimas... o al portador".
+tagGDX1WeaponAxeD105=[fs](S) {^I}Decapitador de Korba
+tagGDX1WeaponAxeD106=[ms](S) {^I}Frenesí de Korba
+
+tagGDX1WeaponAxeF101=[ms]{^B}Cuchillo del aquelarre
+tagGDX1WeaponAxeF102=[ms]{^B}Hacha del aquelarre
+tagGDX1WeaponAxeF103=[fs]{^B}Cuchilla de wendigo
+tagGDX1WeaponAxeF104=[fs]{^I}Luna Bruja
+
+
+tagGDX1WeaponGun1hB101=[ms]{^L}Aullador del Pantano de Ugden
+tagGDX1WeaponGun1hB101Desc="Infundido con el espíritu del wendigo".
+tagGDX1WeaponGun1hB102=[ms]{^L}Lanza-veneno del Pantano de Ugden
+tagGDX1WeaponGun1hB102Desc="Cada bala se sumerge en un compuesto único elaborado a partir de las diversas bestias que habitan en el Pantano de Ugden".
+tagGDX1WeaponGun1hB103=[fs]{^Y}Pistola aluvión de tormentas
+
+tagWeaponGun1hC013B=[ms]{^B}Mediador
+tagGDX1WeaponGun1hC101=[ms]{^B}El Disidente
+tagGDX1WeaponGun1hC101B=[ms]{^B}Disidente
+tagGDX1WeaponGun1hC102=[fs]{^B}Inquisición de Aldur
+tagGDX1WeaponGun1hC102_Desc="Arma secundaria del Inquisidor Aldur, renombrado cazador de herejes y asesino de Galbar'Thuul".
+tagGDX1WeaponGun1hC103=[ms]{^Z}Núcleo de Gargabol
+tagGDX1WeaponGun1hC103_Desc="Un centelleo de la otrora poderosa llama del guardián aún brilla dentro de su núcleo".
+tagGDX1WeaponGun1hC108=[ms]{^B}Lanzatormentas de Ultos
+tagGDX1WeaponGun1hC110=[ms](S) {^B}Pistola luminari
+
+tagGDX1WeaponGun1hD101=[fs]{^I}Mortalidad de Morguul
+tagGDX1WeaponGun1hD101_Desc="El Maestro Morguul perfeccionó la munición de esta pistola, combinando poderes necróticos con toxinas mortales para crear un agente que acelera enormemente la putrefacción y descomposición".
+tagGDX1WeaponGun1hD102=[ms]{^I}Amplificador de Anderos
+tagGDX1WeaponGun1hD102_Desc="Pistola diseñada específicamente por el inquisidor Anderos para amplificar su ya formidable maestría sobre las runas arcanas".
+tagGDX1WeaponGun1hD103=[ms]{^I}Electrolito de lo Arcano
+tagGDX1WeaponGun1hD103_Desc="Elaborado según las especificaciones exactas del Maestro Agrivix, Gran Arcanista de la Torre de Plata".
+tagGDX1WeaponGun1hD107=[ms]{^I}Núcleo de ceniza
+tagGDX1WeaponGun1hD108=[ms](S) {^I}Revolver de la Fortaleza
+tagGDX1WeaponGun1hD109=[ms](S) {^I}Incinerador de Llama oscura
+tagGDX1WeaponGun1hD110=[ms](S) {^I}Destructor de Dagallon
+tagGDX1WeaponGun1hD110_Desc="Los cañones tienen runas en el interior para propulsar las balas con fuerza sobrenatural".
+tagGDX1WeaponGun1hD111=[ms](S) {^I}Aniquilador de Dagallon
+tagGDX1WeaponGun1hD112=[ms]{^I}Ejecutor de Hagarradian
+tagGDX1WeaponGun1hD112_Desc="El cilindro está cargado con un fragmento de la runa original de Hagarrad, que infunde a cada tiro un frío escalofriante".
+tagGDX1WeaponGun1hD114=[fs]{^F}Corrupción de Gargabol
+tagGDX1WeaponGun1hD114_Desc="El una vez orgulloso guardián de la naturaleza, estropeado para siempre por el toque corruptor del Vacío".
+
+tagGDX1WeaponGun1hF101=[ms]{^B}Cañon de mano del aquelarre
+tagGDX1WeaponGun1hF101_Desc="Aunque de diseño tosco, los secretos del aquelarre impregnan esta arma".
+tagGDX1WeaponGun1hF102=[ms]{^B}Lanzaveneno del aquelarre
+tagGDX1WeaponGun1hF102_Desc="Aunque de diseño tosco, los secretos del aquelarre impregnan esta arma".
+tagGDX1WeaponGun1hF103=[ms]{^B}Repetidor wendigo
+tagGDX1WeaponGun1hF104=[ms]{^I}Lanza Maldiciones
+
+
+tagGDX1WeaponGun2hB101=[ms]{^L}Lanzachispas del Pantano de Ugden
+tagGDX1WeaponGun2hB101Desc="El núcleo de piedra de un gólem de pantano ha demostrado ser sorprendentemente maleable cuando se expone a energías arcanas, permitiendo que sea forjado en armaduras, herramientas o incluso pistolas".
+tagGDX1WeaponGun2hB102=[ms]{^L}Lanzabilis del Pantano de Ugden
+tagGDX1WeaponGun2hB103=[ms]{^L}Lanzarrayos del Pantano de Ugden
+tagGDX1WeaponGun2hB104=[ms]{^L}Tejearcano del Pantano de Ugden
+tagGDX1WeaponGun2hB105=[ms]{^Y}Rifle del Guarda Llamas
+
+tagGDX1WeaponGun2hC101=[ms]{^B}El interrogador
+tagGDX1WeaponGun2hC101B=[ms]{^B}Interrogador
+tagGDX1WeaponGun2hC102=[ms]{^B}Cañon Espiritual
+tagGDX1WeaponGun2hC102_Desc="Forjado con la esencia de almas atormentadas".
+tagGDX1WeaponGun2hC103=[ms]{^B}Purificador Ardiente
+tagGDX1WeaponGun2hC106=[ms]{^B}Lanzacuchillas de Amarastan
+tagGDX1WeaponGun2hC106_Desc="Un diseño poco convencional creado por la maestra de los hoja de la noche, Amarasta".
+tagGDX1WeaponGun2hC110=[ms]{^B}Torrente Cósmico
+
+tagWeaponGun2hD001B=[ms]{^I}Adversario
+tagWeaponCrossbow2hD003B=[ms]{^I}Wyrm Norteño
+tagGDX1WeaponGun2hD101=[ms]{^I}Evocador de Elgoloth
+tagGDX1WeaponGun2hD102=[ms]{^I}Chamuscaterror
+tagGDX1WeaponGun2hD102_Desc="La intensa llama emitida por esta arma es casi tan peligrosa para el usuario como para el objetivo seleccionado".
+tagGDX1WeaponGun2hD104=[ms]{^I}Pulverizador de Gildor
+tagGDX1WeaponGun2hD104_Desc="Imbuida con secretos luminari, esta arma descarga una cantidad inimaginable de fuerza con cada disparo".
+tagGDX1WeaponGun2hD106=[ms]{^I}Lanza venenosa
+tagGDX1WeaponGun2hD107=[ms](S) {^I}Lanzahechizos del atarrunas
+
+tagGDX1WeaponGun2hF101=[fs]{^B}Carabina de Malmouth
+tagGDX1WeaponGun2hF102=[ms]{^B}Rifle de Malmouth
+tagGDX1WeaponGun2hF103=[ms]{^B}Lanzaestacas de wendigo
+tagGDX1WeaponGun2hF104=[ms]{^I}El Desolador
+tagGDX1WeaponGun2hF104_Desc="Cada enemigo es un simple retraso a la devastación que vendrá después".
+
+
+tagGDX1WeaponMelee2hB101=[ms]{^L}Núcleo distorsionacarne
+tagGDX1WeaponMelee2hB102=[ms]{^L}Fragmento distorsionacarne
+tagGDX1WeaponMelee2hB103=[ms]{^Y}Mazo de guerra destripatripas
+
+tagGDX1WeaponMelee2hC101=[ms]{^B}Separalmas
+tagGDX1WeaponMelee2hC101_Desc="Se dice que la hoja de esta guadaña se aferra más a la carne".
+tagGDX1WeaponMelee2hC102=[fs]{^B}Convicción de Cesarin
+tagGDX1WeaponMelee2hC107=[ms]{^B}Puño de Ultos
+
+tagWeaponMelee2hD002B=[fs]{^I}Guillotina
+tagGDX1WeaponMelee2hD101=[ms]{^I}Alcanzamuerte
+tagGDX1WeaponMelee2hD102=[ms]{^I}Guardián de las puertas de la muerte
+tagGDX1WeaponMelee2hD102_Desc="Se rumorea que una vez fue manejado por el mismo Uroboruuk, el filo de esta arma atrapa a las almas con el más mínimo roce".
+tagGDX1WeaponMelee2hD103={^I}Arcanor, hoja de los luminari
+tagGDX1WeaponMelee2hD103_Desc="La espada ceremonial de la orden luminari que ha pasado de Maestro a Maestro durante siglos".
+tagGDX1WeaponMelee2hD107=[ms]{^I}Machacatripas
+tagGDX1WeaponMelee2hD107_Desc="Eternamente goteando con las entrañas de víctimas pasadas".
+tagGDX1WeaponMelee2hD108=[fs](S) {^I}Trituradora de vengador
+
+tagGDX1WeaponMelee2hF101=[ms]{^B}Aplastacabezas del aquelarre
+tagGDX1WeaponMelee2hF102=[fs]{^B}Gran espada de Malmouth
+tagGDX1WeaponMelee2hF103=[ms]{^B}Decapitador de wendigo
+tagGDX1WeaponMelee2hF104=[ms]{^I}Aluvión ardiente
+
+
+tagGDX1WeaponCaster1hA101=[ms]{^W}Cetro del conservador
+tagGDX1WeaponCaster1hA102=[ms]{^W}Cetro del redentor
+tagGDX1WeaponCaster1hA103=[fs]{^W}Daga del conservador
+tagGDX1WeaponCaster1hA104=[fs]{^W}Daga del redentor
+
+tagGDX1WeaponCaster1hB101=[ms]{^L}Golpeallamas del Pantano de Ugden
+tagGDX1WeaponCaster1hB102=[ms]{^L}Golpeafrío del Pantano de Ugden
+tagGDX1WeaponCaster1hB103=[ms]{^L}Golpeatormentas del Pantano de Ugden
+tagGDX1WeaponCaster1hB104=[ms]{^L}Conducto ascendente
+tagGDX1WeaponCaster1hB105=[fs]{^L}Fuente ascendente
+tagGDX1WeaponCaster1hB106=[fs]{^Y}Varita de borde podrido
+tagGDX1WeaponCaster1hB107=[ms]{^Y}Cetro del transmisor de muerte
+tagGDX1WeaponCaster1hB108=[ms]{^L}Corazón de Theodin Marcell
+tagGDX1WeaponCaster1hB108_Desc="Un fragmento del poder de su maestro aún late por dentro".
+
+tagGDX1WeaponCaster1hC101=[fs]{^B}Púa de devastador
+tagGDX1WeaponCaster1hC102=[ms]{^B}Mordisco de Jaravuuk
+tagGDX1WeaponCaster1hC102_Desc="Se dice que la espada ritual del maestro Jaravuuk se hiende a través del mismo velo".
+tagGDX1WeaponCaster1hC103=[ms]{^B}Canalizador de Ulzaad
+tagGDX1WeaponCaster1hC103_Desc="El aliento de un celestial, atrapado eternamente dentro del cetro".
+tagGDX1WeaponCaster1hC104=[ms]{^B}Evocatormentas arcano
+tagGDX1WeaponCaster1hC105=[ms]{^B}Dedo de Gar'Dalvur
+tagGDX1WeaponCaster1hC105_Desc="El caído Gar'Dalvur solo tenía una cosa que decir a sus verdugos".
+tagGDX1WeaponCaster1hC113=[fs]{^B}Hoja hechizada de ira de llamas
+tagGDX1WeaponCaster1hC114=[ms]{^B}Invocador ciclónico
+tagGDX1WeaponCaster1hC115=[fs](S) {^B}Trinchadora de caminante terrorífico
+tagGDX1WeaponCaster1hC116=[ms]{^Z}Cetro de Malmouth
+tagGDX1WeaponCaster1hC116_Desc="Las visiones de la ciudad caída de Puerto Valbury inundan tu mente".
+
+tagGDX1WeaponCaster1hD101=[ms]{^I}Fuego Terrorífico
+tagGDX1WeaponCaster1hD102=[ms]{^I}Perforador del velo
+tagGDX1WeaponCaster1hD102_Desc="La hoja se desliza entre las realidades con extraña facilidad, como si fuera una llave encajando en su cerradura".
+tagGDX1WeaponCaster1hD103=[fs]{^I}Tejedora de terrores
+tagGDX1WeaponCaster1hD104=[ms]{^I}Evocador de la llama helada
+tagGDX1WeaponCaster1hD105=[fs]{^I}Runa de Elgoloth
+tagGDX1WeaponCaster1hD105_Desc="Un arma inspirada en la original caja de tormentas de Elgoloth, cuyas runas ahora blasonan este cetro".
+tagGDX1WeaponCaster1hD106=[fs]{^I}Bebehechizos
+tagGDX1WeaponCaster1hD106_Desc="Tiene hambre de hechizos de los que alimentarse, pero también se deleitará con su portador".
+tagGDX1WeaponCaster1hD113=[fs]{^I}Pandemia
+tagGDX1WeaponCaster1hD114=[fs]{^I}Chispa de realidad
+tagGDX1WeaponCaster1hD114_Desc="Mirar esta arma es como mirar fijamente al vasto vacío del más allá, increíble y abrumador".
+tagGDX1WeaponCaster1hD115=[ms](S) {^I}Faro de las almas perdidas
+tagGDX1WeaponCaster1hD116=[fs](S) {^I}Ligatormentas de Allagast
+tagGDX1WeaponCaster1hD117=[fs](S) {^I}Hoja de guardamuerte
+tagGDX1WeaponCaster1hD118=[ms]{^F}Decreto de Malmouth
+tagGDX1WeaponCaster1hD118Desc="Las visiones de la ciudad caída de Puerto Valbury inundan tu mente".
+
+tagGDX1WeaponCaster1hF101=[fs]{^B}Chispaetérea de aquelarre
+tagGDX1WeaponCaster1hF102=[fs]{^B}Toquebilis de aquelarre
+tagGDX1WeaponCaster1hF103=[ms]{^B}Tejehechizos de aquelarre
+tagGDX1WeaponCaster1hF104=[ms]{^B}Invocallamas de Malmouth
+tagGDX1WeaponCaster1hF105=[ms]{^B}Invocatormentas de Malmouth
+tagGDX1WeaponCaster1hF106=[ms]{^B}Chillido helado de Malmouth
+tagGDX1WeaponCaster1hF107=[ms]{^B}Bebesangre de wendigo
+tagGDX1WeaponCaster1hF108=[ms]{^B}Tejecaos de wendigo
+tagGDX1WeaponCaster1hF109=[ms]{^B}Tejeéter de wendigo
+tagGDX1WeaponCaster1hF110=[fs]{^I}Llama embrujada 
+tagGDX1WeaponCaster1hF111=[fs]{^I}Garra de Hagaraz
+
+
+#Shields
+tagGDX1ShieldB101=[fs]{^L}Fortaleza colosal
+tagGDX1ShieldB101Desc="Las proporciones del escudo requieren una fuerza igualmente colosal".
+tagGDX1ShieldB102=[ms]{^L}Baluarte colosal
+tagGDX1ShieldB103=[ms]{^Y}Defensor Muro de piedra
+
+tagGDX1ShieldC101=[ms]{^B}Guardaterror
+tagGDX1ShieldC102=[fs]{^B}Reprimenda de legionario
+tagGDX1ShieldC102_Desc="La historia de este escudo es casi tan larga como la de la Legión Negra".
+tagGDX1ShieldC107=[ms]{^B}Baluarte azotatormentas
+
+tagShieldD002B=[fs]{^I}Parada final
+tagShieldD003B=[ms]{^I}Intocable
+tagGDX1ShieldD101=[fs]{^I}Fauce de los malditos
+tagGDX1ShieldD101_Desc="Malditos para siempre los que participan del regalo del wendigo"
+tagGDX1ShieldD102=[ms]{^I}Observador de Erulan
+tagGDX1ShieldD102_Desc="Se dice que la cara de piedra solo abre los ojos cuando el imperio está en desesperada necesidad".
+tagGDX1ShieldD103=[fs]{^I}Represalia de Turrion
+tagGDX1ShieldD107=[ms]{^I}El caballero gris
+tagGDX1ShieldD107_Desc="Baluarte del defensor sin rostro de Menhir, que se enfrentó solo a un grupo de herejes y salió vencedor".
+tagGDX1ShieldD108=[ms](S) {^I}Baluarte de Octavius
+tagGDX1ShieldD109=[ms](S) {^I}Defensor de la Fortaleza
+tagGDX1ShieldD110=[ms](S) {^I}Baluarte azotahechizos
+tagGDX1ShieldD110_Desc="El escudo canaliza a través de su poder devastador".
+
+tagGDX1ShieldF101=[ms]{^B}Protector del aquelarre
+tagGDX1ShieldF102=[ms]{^B}Defensor de Malmouth
+tagGDX1ShieldF103=[ms]{^B}Guardaespíritu de wendigo
+tagGDX1ShieldF104=[ms]{^I}Guarda de ira
+
+
+#Focus
+tagGDX1FocusA101=[ms]{^W}Tomo exaltado
+tagGDX1FocusA102=[fs]{^W}Efigie exaltada
+tagGDX1FocusA103=[ms]{^W}Archivo del conservador
+tagGDX1FocusA104=[fs]{^W}Esfera del conservador
+
+tagGDX1FocusB101=[ms]{^L}Tomo etéreo de Terrnox
+tagGDX1FocusB101Desc="Lleno de conocimiento del Éter, mucho del cual no puede ser descifrado".
+tagGDX1FocusB102=[ms]{^L}Tomo arcano de Terrnox
+tagGDX1FocusB102Desc="Lleno de conocimiento arcano conocido solo por Terrnox".
+tagGDX1FocusB103=[ms]{^L}Espectro ligado
+tagGDX1FocusB104=[ms]{^L}Espectro esclavizado
+tagGDX1FocusB105=[ms]{^L}Tomo distorsionacarne
+tagGDX1FocusB105Desc="El tomo se retuerce en tus manos".
+tagGDX1FocusB106=[ms]{^L}Códice distorsionacarne
+tagGDX1FocusB107=[ms]{^L}Archivo distorsionacarne
+tagGDX1FocusB108=[ms]{^Y}Tomo de golpehechizo
+tagGDX1FocusB109=[ms]{^Y}Tomo ardiente
+tagGDX1FocusB110=[ms]{^L}Cuerno de melenahoja
+tagGDX1FocusB111=[ms]{^L}Trofeo de melenahoja
+
+tagGDX1FocusC101=[fs]{^B}Voluntad de Padala
+tagGDX1FocusC102=[fs]{^B}Mandíbula virulenta
+tagGDX1FocusC102_Desc="La cabeza podrida emite un fétido hedor, pero las toxinas que produce son aún más repugnantes".
+tagGDX1FocusC103=[ms]{^B}Códice de Malligosta
+tagGDX1FocusC103_Desc="Malligosta era una maestra del arte de canalizar las energías espirituales en hechizos devastadores. Era nigromante y arcanista por partes iguales".
+tagGDX1FocusC104=[fs]{^B}Palabra del inquisidor Abalón
+tagGDX1FocusC104_Desc="El inquisidor Abalón fue uno de los más audaces inquisidores de su tiempo, dispuesto a hacer uso de cualquier reliquia mientras sirviera a la seguridad del imperio. Algunos llamarían a sus métodos como herejía".
+tagGDX1FocusC105=[ms]{^B}Tomo de vientos helados
+tagGDX1FocusC113=[ms]{^B}Tomo infernal
+tagGDX1FocusC114=[fs]{^B}Esfera de muchas cuchillas
+tagGDX1FocusC114_Desc="El verdadero truco es sostener la esfera sin lastimarte".
+tagGDX1FocusC115=[ms](S) {^B}Tomo de caminante terrorífico
+
+tagGDX1FocusD101=[ms]{^I}Segador de los malditos
+tagGDX1FocusD101_Desc="la guadaña vibra sutilmente cuando los espíritus persistentes están cerca".
+tagGDX1FocusD102=[ms]{^I}Contagio
+tagGDX1FocusD103=[ms]{^I}Tomo mirada diabólica
+tagGDX1FocusD104=[ms]{^I}Códice de verdades
+tagGDX1FocusD104_Desc="Las sagradas verdades de Empyrion, catalogado por Agathia Haggar, el primer Arconte".
+tagGDX1FocusD105=[fs]{^I}Ira de llamas de Ixillor
+tagGDX1FocusD105_Desc="La llama arcana es voluble y difícil de controlar. Un solo lapsus de concentración y la llama podría pasar a un nuevo maestro".
+tagGDX1FocusD111=[ms]{^I}Cubo de Farath
+tagGDX1FocusD111_Desc="El cubo rompecabezas de Farath solo se ha resuelto una vez anteriormente, pero se decía que el portador se había quedado ciego al presenciar los esplendores arcanos que contenía".
+tagGDX1FocusD112=[ms]{^I}Azote del infierno
+tagGDX1FocusD113=[ms](S) {^I}Ojo del cataclismo
+tagGDX1FocusD114=[ms](S) {^I}Foco de Valguur
+tagGDX1FocusD115=[fs](S) {^I}Efigie de Uroboruuk
+tagGDX1FocusD116=[ms](S) {^I}Códice del adivino
+
+tagGDX1FocusF101=[fs]{^B}Efigie vil del aquelarre
+tagGDX1FocusF102=[fs]{^B}Efigie arcana del aquelarre
+tagGDX1FocusF103=[fs]{^B}Efigie venenosa del aquelarre
+tagGDX1FocusF104=[ms]{^B}Tomo del vacío de Malmouth
+tagGDX1FocusF105=[ms]{^B}Tomo corrupto de Malmouth
+tagGDX1FocusF106=[ms]{^B}Tomo infernal de Malmouth
+tagGDX1FocusF107=[fs]{^B}Efigie de vida de wendigo
+tagGDX1FocusF108=[fs]{^B}Efigie escalofriante de wendigo
+tagGDX1FocusF109=[fs]{^B}Efigie cáustica de wendigo
+tagGDX1FocusF110=[ms]{^I}Invoca tormentas de Malmouth
+
+
+#ItemStyles
+tagGDX1ArmorStyle001=[ms]{^S}conservador[fs]{^S}conservadora[mp]{^S}conservadores[fp]{^S}conservadoras
+tagGDX1ArmorStyle002=[ms]{^S}redentor[fs]{^S}redentora[mp]{^S}redentores[fp]{^S}redentoras
+tagGDX1WeaponQuality001=[ms]{^S}exaltado[fs]{^S}exaltada[mp]{^S}exaltados[fp]{^S}exaltadas
+tagGDX1WeaponQuality002=[ms]{^S}conservador[fs]{^S}conservadora[mp]{^S}conservadores[fp]{^S}conservadoras
+
+#ArmorHead
+tagGDX1HeadB101=[fs]{^L}Capucha de ascendente
+tagGDX1HeadB102=[fs]{^L}Capucha de ascendente
+tagGDX1HeadB103=[fp]{^L}Pieles de Packla
+tagGDX1HeadB103_Desc="No tienes idea de cuántas víctimas está compuesta esta máscara".
+tagGDX1HeadB104=[ms]{^L}Rostro de Packla
+tagGDX1HeadB104_Desc="El hedor que desprende esta máscara es insoportable".
+tagGDX1HeadB105=[fs]{^L}Capucha del susurro de la muerte
+tagGDX1HeadB106=[fs]{^L}Diadema del rompecielos
+tagGDX1HeadB107=[mp]{^L}Cuernos de Namadea
+tagGDX1HeadB107_Desc="El frío de la muerte pesa mucho sobre esta capucha".
+
+tagGDX1HeadC101=[fs]{^B}Corona de almas
+tagGDX1HeadC101_Desc="Los espíritus atrapados en la diadema a veces susurran secretos al portador, aunque quizás no siempre teniendo en cuenta los mejores intereses del portador".
+tagGDX1HeadC102=[ms]{^B}Sombrero de curandero
+tagGDX1HeadC103=[fs]{^B}Mirada purgante
+tagGDX1HeadC103_Desc="El mundo está lleno de paganos y herejes y así, por la gracia de los luminari, serán purgados de esta condenación".
+tagGDX1HeadC104=[ms]{^B}Sombrero de caza recompensas
+tagGDX1HeadC105=[mp]{^Z}Cuernos de Ekket'Zul
+tagGDX1HeadC105_Desc="Los cuernos todavía están llenos de una oscuridad palpable".
+tagGDX1HeadC106=[fs]{^Z}Mirada sin alma
+tagGDX1HeadC107=[fs]{^Z}Mirada contaminada
+tagGDX1HeadC108=[fs]{^Z}Mirada de devastador
+tagGDX1HeadC108_Desc="Aunque derrotado del reino físico, alguna parte del espíritu del Devastador permanece dentro de la retorcida máscara".
+tagGDX1HeadC109=[fs](S) {^B}Máscara de corruptor
+tagGDX1HeadC110=[fs](S) {^B}Máscara del centinela plateado
+tagGDX1HeadC115=[ms]{^B}Rostro del heraldo de tormenta
+tagGDX1HeadC122=[fs](S) {^B}Capucha de caminante terrorífico
+tagGDX1HeadC123=[ms](S) {^B}Sombrero de luminari
+tagGDX1HeadC124=[ms]{^B}Caldero del entusiasmo
+tagGDX1HeadC124_Desc="Demasiada emoción, se podría decir".
+
+tagGDX1HeadD101=[fs]{^I}Mirada del necroseñor
+tagGDX1HeadD102=[fs]{^I}Mirada del venomante
+tagGDX1HeadD103=[fs]{^I}Mirada hechizante
+tagGDX1HeadD104=[fs]{^I}Máscara ósea de Wyrm
+tagGDX1HeadD109=[fs]{^I}Voz de Dreeg
+tagGDX1HeadD109_Desc="Una bendición y una maldición, otorgada al portador de la palabra de Dreeg, la única voz a través de la cual el Dios Brujo hace eco de sus crípticos mensajes".
+tagGDX1HeadD110=[fs]{^I}Mirada de Empyrion
+tagGDX1HeadD110_Desc="La luz divina de Empyrion resplandece sobre el portador de esta corona".
+tagGDX1HeadD111=[fs]{^F}Mirada Terrorífica del Devastador
+tagGDX1HeadD111_Desc="Aunque derrotado del reino físico, alguna parte del espíritu del Devastador permanece dentro de la retorcida máscara".
+tagGDX1HeadD112=[fs](S) {^F}Máscara de Krieg
+tagGDX1HeadD113=[fs](S) {^I}Máscara de almas perdidas
+tagGDX1HeadD114=[ms](S) {^I}Visor de Octavius
+tagGDX1HeadD115=[fs](S) {^I}Capucha de Korba
+tagGDX1HeadD116=[ms](S) {^I}Protegecabezas de llama oscura
+tagGDX1HeadD117=[ms](S) {^I}Visor azotahechizos
+tagGDX1HeadD118=[fs](S) {^I}Capucha del matamagos
+tagGDX1HeadD119=[fp](S) {^I}Gemas de Valguur
+tagGDX1HeadD120=[ms](S) {^I}Sombrero del atarrunas
+tagGDX1HeadD121=[ms](S) {^I}Rostro de Uroboruuk
+tagGDX1HeadD122=[fs](S) {^I}Visera de Dagallon
+tagGDX1HeadD123=[fs](S) {^I}Capucha de guardamuerte
+tagGDX1HeadD124=[fs](S) {^I}Máscara del adivino
+tagGDX1HeadD125=[fs](S) {^F}Capucha del oscuro
+tagGDX1HeadD126=[fs](S) {^I}Máscara de Belgothian
+tagGDX1HeadD127=[fs](S) {^I}Máscara de Radaggan
+tagGDX1HeadD128=[fs](S) {^I}Máscara de Lengua Escarcha
+tagGDX1HeadD129=[ms](S) {^I}Rostro de los Caballeros de Sangre
+
+tagGDX1HeadF101=[fs]{^G}Capucha doblamentes del aquelarre
+tagGDX1HeadF102=[fs]{^G}Capucha del domador del aquelarre
+tagGDX1HeadF103=[fs]{^G}Capucha arcana del aquelarre
+tagGDX1HeadF104=[ms]{^G}Casco de combatiente del aquelarre
+tagGDX1HeadF105=[ms]{^G}Casco de portallamas del aquelarre
+tagGDX1HeadF106=[ms]{^G}Casco de defensor del aquelarre
+tagGDX1HeadF107=[mp]{^G}Protegecabezas de ejecutor de Malmouth
+tagGDX1HeadF108=[mp]{^G}Protegecabezas de destructor de Malmouth
+tagGDX1HeadF109=[mp]{^G}Protegecabezas escalofriante de Malmouth
+tagGDX1HeadF110=[ms]{^G}Casco de guardallama de Malmouth
+tagGDX1HeadF111=[ms]{^G}Casco terrorífico de Malmouth
+tagGDX1HeadF112=[ms]{^G}Casco de defensor de Malmouth
+tagGDX1HeadF113=[fs]{^G}Máscara terrorífica de wendigo
+tagGDX1HeadF114=[fs]{^G}Máscara vil de wendigo
+tagGDX1HeadF115=[fs]{^G}Máscara de tejehechizos de wendigo
+tagGDX1HeadF116=[mp]{^G}Protegecabezas con cuchillas de wendigo
+tagGDX1HeadF117=[mp]{^G}Protegecabezas vil de wendigo
+tagGDX1HeadF118=[mp]{^G}Protegecabezas templado de wendigo
+
+
+#ArmorShoulders
+tagGDX1ShoulderB101=[fp]{^L}Hombreras de ascendente
+tagGDX1ShoulderB102=[mp]{^L}Guardahombros de ascendente
+tagGDX1ShoulderB103=[mp]{^L}Guardahombros de Kra'vall
+tagGDX1ShoulderB103_Desc="La piel dura de un kraken del Pantano de Ugden puede ser difícil de trabajar, pero es apreciada entre los artesanos por una buena razón".
+tagGDX1ShoulderB104=[fp]{^L}Hombreras de Kra'vall
+
+tagGDX1ShoulderC101=[ms]{^B}Manto del llamaira
+tagGDX1ShoulderC102=[fp]{^B}Hombreras del caballero de ira
+tagGDX1ShoulderC103=[mp]{^B}Guardahombros de Tormenta ardiente
+tagGDX1ShoulderC103_Desc="Ni siquiera la furia de cien tormentas fue suficiente para destruir esta armadura".
+tagGDX1ShoulderC104=[mp]{^B}Guardahombros del cazarrecompensas
+tagGDX1ShoulderC105=[ms](S) {^B}Manto del corruptor
+tagGDX1ShoulderC106=[mp](S) {^B}Guardahombros de Krieg
+tagGDX1ShoulderC111=[ms]{^B}Manto del acechahechizos
+
+tagGDX1ShoulderD101=[ms]{^I}Manto de la mirada de vida
+tagGDX1ShoulderD102=[fs]{^I}Guardia del caballero terrorífico
+tagGDX1ShoulderD103=[mp]{^I}Los pergaminos de Cortosian
+tagGDX1ShoulderD103B=[mp]{^I}Pergaminos de Cortosian
+tagGDX1ShoulderD103_Desc="Los pergaminos están forrados con hechizos y técnicas escritas por generaciones de arcanistas cortosianos".
+tagGDX1ShoulderD104=[ms]{^I}Manto del Nacido del fuego
+tagGDX1ShoulderD109=[ms]{^I}Manto de Lengua venenosa
+tagGDX1ShoulderD110=[mp]{^I}Guardahombros de Núcleo de ascuas
+tagGDX1ShoulderD110_Desc="La armadura llena al portador de una furia ardiente que nunca cesa".
+tagGDX1ShoulderD111=[mp](S) {^F}Guardahombros de Krieg
+tagGDX1ShoulderD112=[fp](S) {^I}Hombreras del vengador
+tagGDX1ShoulderD113=[ms](S) {^I}Manto de almas perdidas
+tagGDX1ShoulderD114=[fp](S) {^I}Hombreras de Octavius
+tagGDX1ShoulderD115=[fs](S) {^I}Vanguardia de azotahechizos
+tagGDX1ShoulderD116=[mp](S) {^I}Guardahombros de matamagos
+tagGDX1ShoulderD117=[mp](S) {^I}Guardahombros de atarrunas
+tagGDX1ShoulderD118=[ms](S) {^I}Manto de Uroboruuk
+tagGDX1ShoulderD119=[ms](S) {^I}Manto de Allagast
+tagGDX1ShoulderD120=[ms](S) {^I}Manto del adivino
+tagGDX1ShoulderD121=[ms](S) {^F}Manto del oscuro
+tagGDX1ShoulderD122=[mp](S) {^I}Guardahombros de Belgothian
+tagGDX1ShoulderD123=[ms](S) {^I}Manto de guardamuerte
+tagGDX1ShoulderD124=[ms](S) {^I}Manto de Radaggan
+tagGDX1ShoulderD125=[mp](S) {^I}Guardahombros de Lengua Escarcha
+tagGDX1ShoulderD126=[mp](S) {^I}Pergaminos de los Caballeros de Sangre
+
+tagGDX1ShoulderF101=[ms]{^G}Manto de ira del aquelarre
+tagGDX1ShoulderF102=[ms]{^G}Manto protector del aquelarre
+tagGDX1ShoulderF103=[ms]{^G}Manto arcano del aquelarre
+tagGDX1ShoulderF104=[mp]{^G}Cubrehombros de combatiente del aquelarre
+tagGDX1ShoulderF105=[mp]{^G}Cubrehombros de carcelero del aquelarre
+tagGDX1ShoulderF106=[mp]{^G}Cubrehombros arcanos del aquelarre
+tagGDX1ShoulderF107=[ms]{^G}Manto escalofriante de Malmouth
+tagGDX1ShoulderF108=[ms]{^G}Manto llamaetérea de Malmouth
+tagGDX1ShoulderF109=[ms]{^G}Manto contaminado de Malmouth
+tagGDX1ShoulderF110=[fp]{^G}Hombreras de vanguardia de Malmouth
+tagGDX1ShoulderF111=[fp]{^G}Hombreras del vacío de Malmouth
+tagGDX1ShoulderF112=[fp]{^G}Hombreras del defensor de Malmouth
+tagGDX1ShoulderF113=[fp]{^G}Hombreras con cuchillas de wendigo
+tagGDX1ShoulderF114=[fp]{^G}Hombreras viles de wendigo
+tagGDX1ShoulderF115=[fp]{^G}Hombreras del tejehechizos de wendigo
+tagGDX1ShoulderF116=[fp]{^G}Hombreras templadas de wendigo
+tagGDX1ShoulderF117=[fp]{^G}Hombreras viles de wendigo
+tagGDX1ShoulderF118=[fp]{^G}Hombreras de guardián de wendigo
+
+
+#ArmorTorso
+tagGDX1TorsoB101=[fs]{^L}Coraza sellada de Galakros
+tagGDX1TorsoB102=[fs]{^L}Coraza terrorífica de Galakros
+tagGDX1TorsoB103=[fs]{^L}Toga Arcana de Valaxteria
+tagGDX1TorsoB103_Desc="Las túnicas brillan con runas arcanas finamente tejidas
+tagGDX1TorsoB104=[fs]{^L}Toga del cielo desgarrado de Valaxteria
+
+tagGDX1TorsoC101=[fs]{^B}Vestidura del traemuerte
+tagGDX1TorsoC102=[ms]{^B}Coselete de llama oscura
+tagGDX1TorsoC103=[fs]{^B}Toga astral
+tagGDX1TorsoC103_Desc="A menudo llevados por guías espirituales, las túnicas eran una señal de adivinadores dotados, aunque dada la naturaleza voluble de las hebras del destino, podrían ser fácilmente confundidos con charlatanes".
+tagGDX1TorsoC104=[ms]{^B}Abrigo del alto Consillar
+tagGDX1TorsoC104_Desc="Hecho a mano para un noble erulano, la tela es muy suave y a la vez resistente".
+tagGDX1TorsoC105=[fs](S) {^B}Toga de corruptor
+tagGDX1TorsoC106=[fs](S) {^B}Armadura del Centinela Plateado
+tagGDX1TorsoC111=[fs]{^B}Sombra del infecto
+tagGDX1TorsoC114=[fs](S) {^B}Vestidura de Caminante Terrorífico
+tagGDX1TorsoC115=[fs](S) {^B}Chaqueta luminari
+
+tagGDX1TorsoD101=[fs]{^I}Vestidura del venomante
+tagGDX1TorsoD102=[ms]{^I}Sudario del necroseñor
+tagGDX1TorsoD103=[fs]{^I}Armadura de runas de Ignaffar
+tagGDX1TorsoD103_Desc="Aunque el portador original de esta armadura pereció en una llama devastadora invocada por un pícaro arcanista, la armadura milagrosamente emergió del infierno ilesa".
+tagGDX1TorsoD104=[fs]{^I}Armadura de tejido tormentoso
+tagGDX1TorsoD109=[fs]{^I}Vestidura del tejedestinos
+tagGDX1TorsoD109_Desc="Inconstantes y siempre cambiantes, los hilos del destino entretejen el destino de la humanidad en lo desconocido".
+tagGDX1TorsoD110=[fs]{^I}Guarda de Gildor
+tagGDX1TorsoD111=[ms](S) {^F}Coselete de Krieg
+tagGDX1TorsoD112=[fs](S) {^I}Armadura de vengador
+tagGDX1TorsoD113=[fs](S) {^I}Placa de mallas de Octavius
+tagGDX1TorsoD114=[ms](S) {^I}Pelaje de Korba
+tagGDX1TorsoD115=[fs](S) {^I}Vestidura de Valguur
+tagGDX1TorsoD116=[fs](S) {^I}Armadura del atarrunas
+tagGDX1TorsoD117=[fs](S) {^I}Toga de Uroboruuk
+tagGDX1TorsoD118=[fs](S) {^I}Toga de Allagast
+tagGDX1TorsoD119=[fs](S) {^I}Armadura de Dagallon
+tagGDX1TorsoD120=[ms](S) {^I}Sudario de guardaMuerte
+tagGDX1TorsoD121=[fs](S) {^I}Vestidura del adivino
+tagGDX1TorsoD122=[fs](S) {^F}Vestidura del oscuro
+tagGDX1TorsoD123=[fs](S) {^I}Armadura de Belgothian
+tagGDX1TorsoD124=[ms](S) {^I}Sudario de Radaggan
+tagGDX1TorsoD125=[ms](S) {^I}Coselete de Lengua Escarcha
+tagGDX1TorsoD126=[fs](S) {^I}Armadura de los Caballeros de Sangre
+
+tagGDX1TorsoF101=[fs]{^G}Vestimenta de ira del aquelarre
+tagGDX1TorsoF102=[fs]{^G}Vestimenta del protector del aquelarre
+tagGDX1TorsoF103=[fs]{^G}Vestimenta arcana del aquelarre
+tagGDX1TorsoF104=[ms]{^G}Coselete de combatiente del aquelarre
+tagGDX1TorsoF105=[ms]{^G}Coselete del carcelero del aquelarre
+tagGDX1TorsoF106=[ms]{^G}Coselete arcano del aquelarre
+tagGDX1TorsoF107=[fs]{^G}Vestimenta escalofriante de Malmouth
+tagGDX1TorsoF108=[fs]{^G}Vestimenta llamaetérea de Malmouth
+tagGDX1TorsoF109=[fs]{^G}Vestimenta contaminada de Malmouth
+tagGDX1TorsoF110=[fs]{^G}Coraza de vanguardia de Malmouth
+tagGDX1TorsoF111=[fs]{^G}Coraza de vacío de Malmouth
+tagGDX1TorsoF112=[fs]{^G}Coraza del defensor de Malmouth
+tagGDX1TorsoF113=[ms]{^G}Coselete de cuchillas de wendigo
+tagGDX1TorsoF114=[ms]{^G}Coselete vil de wendigo
+tagGDX1TorsoF115=[ms]{^G}Coselete tejehechizos de wendigo
+tagGDX1TorsoF116=[fs]{^G}Coraza templada de wendigo
+tagGDX1TorsoF117=[fs]{^G}Coraza vil de wendigo
+tagGDX1TorsoF118=[fs]{^G}Coraza de guardián de wendigo
+
+
+#ArmorHands
+tagGDX1HandsC101=[mp]{^B}Puños Glaciales de Haruud
+tagGDX1HandsC101_Desc="Se decía que la garra de Haruud llevaba consigo el escalofrío de la misma muerte".
+tagGDX1HandsC102=[ms]{^B}Toque de mando
+tagGDX1HandsC103=[mp]{^B}Guardamanos de quemarrunas
+tagGDX1HandsC104=[ms]{^B}Toque purgatorio
+tagGDX1HandsC104_Desc="Con un simple toque, el mal retrocede con miedo".
+tagGDX1HandsC111=[mp]{^B}Guanteletes del Rito de sangre
+
+tagGDX1HandsD101=[fs]{^I}Empuñadura de grieta distorsionada
+tagGDX1HandsD101_Desc="Habiendo llegado al mismo vacío, estos guantes han cambiados para siempre por ese encuentro".
+tagGDX1HandsD102=[mp]{^I}Puños de acero del amo
+tagGDX1HandsD103=[mp]{^I}Guanteletes de Ignaffar
+tagGDX1HandsD104=[mp]{^I}Puños escalofriantes de Hagarrad
+tagGDX1HandsD109=[fp]{^I}Las Garras Carmesí
+tagGDX1HandsD109_Desc="Goteando de sangre y sedientas de más, las garras buscan ansiosamente nuevas víctimas".
+tagGDX1HandsD110=[ms]{^I}Toque de ceniza
+tagGDX1HandsD111=[mp](S) {^I}Guardamanos de matamagos
+tagGDX1HandsD112=[ms](S) {^I}Toque de Valguur
+tagGDX1HandsD113=[mp](S) {^F}Puños de Krieg
+tagGDX1HandsD114=[fs](S) {^F}Empuñadura del oscuro
+
+
+#ArmorLegs
+tagGDX1LegsB101=[fp]{^L}Musleras de Aleksander
+tagGDX1LegsB102=[fp]{^L}Brafoneras de Aleksander
+tagGDX1LegsB103=[mp]{^L}Leotardos de Grava'Thul
+tagGDX1LegsB104=[fp]{^L}Musleras de Grava'Thul
+tagGDX1LegsB105=[fp]{^L}Musleras de Kubacabra
+tagGDX1LegsB106=[fp]{^L}Brafoneras de Kubacabra
+tagGDX1LegsB107=[mp]{^L}Leotardos del segador
+tagGDX1LegsB108=[fp]{^L}Musleras del segador
+
+tagGDX1LegsC101=[fp]{^B}Vendas de runas quemadas
+tagGDX1LegsC102=[fp]{^B}Musleras de runas terroríficas
+tagGDX1LegsC103=[mp]{^B}Leotardos de tejesombras
+tagGDX1LegsC103_Desc="De alguna manera las sombras mismas han sido tejidas en la tela de esta armadura".
+tagGDX1LegsC104=[fp]{^B}Musleras de guardarrunas
+tagGDX1LegsC111=[fp]{^B}Vendas del acechahechizos
+
+tagLegsD013B=[mp]{^I}Pantalones realmente grandes
+tagLegsD013BDesc="Y por lo que parecen, todavía están bien".
+
+tagGDX1LegsD101=[mp]{^I}Leotardos de melena de wendigo
+tagGDX1LegsD101_Desc="La piel apesta a sangre vieja, sin saber si es del propio wendigo o de sus víctimas".
+tagGDX1LegsD102=[mp]{^I}Quijotes del caballero terrorífico
+tagGDX1LegsD103=[fs]{^I}Placa de Runas de Ignaffar
+tagGDX1LegsD104=[fp]{^I}Musleras de guardamagos
+tagGDX1LegsD109=[fp]{^I}Vendas de piel venenosa
+tagGDX1LegsD110=[mp]{^I}Quijotes de melena salvaje
+tagGDX1LegsD110_Desc="La bestia que entregó su pelaje para la creación de esta armadura no parece ser de la fauna local de Erulan".
+
+
+#ArmorFeet
+tagGDX1FeetB101=[fp]{^Y}Botas de guerra intrépidas
+tagGDX1FeetB102=[fp]{^Y}Grebas de placas de piedra
+
+tagGDX1FeetC101=[fp]{^B}Botas de cosecha lúgubres
+tagGDX1FeetC102=[mp]{^B}Escarpines de muerto andante
+tagGDX1FeetC102_Desc="No está claro si los huesos adheridos a estas botas pertenecen a una bestia... o a un hombre".
+tagGDX1FeetC103=[fs]{^B}Marcha de Sellecor
+tagGDX1FeetC104=[fp]{^B}Pisadas de piedras de ascua
+tagGDX1FeetC111=[mp]{^B}Guardapiés de pisadas de tormenta
+
+tagGDX1FeetD101=[fp]{^I}Grebas de carne de demonio
+tagGDX1FeetD102=[fp]{^I}Grebas del mal presagio
+tagGDX1FeetD103=[mp]{^I}Caminantes distorsionatiempo
+tagGDX1FeetD103_Desc="La leyenda dice que estas botas pueden trascender las infinitas líneas de tiempo, pero nadie ha descubierto cómo aprovechar este poder".
+tagGDX1FeetD104=[fp]{^I}Grebas de guardarrunas
+tagGDX1FeetD109=[fp]{^I}Pisadas del vendaval
+tagGDX1FeetD110=[mp]{^I}Portatormentas
+tagGDX1FeetD110_Desc="Las botas sufrieron todo el impacto de una tormenta de rayos, y sin embargo no se descargaron completamente en la tierra bajo ellas"
+tagGDX1FeetD111=[fp](S) {^F}Botas de Krieg
+
+
+#ArmorWaist
+tagGDX1WaistA101=[ms]{^W}Cinturón de conservador
+tagGDX1WaistA102=[ms]{^W}Ciñecintura de redentor
+
+tagGDX1WaistB101=[fs]{^L}Faja del Pantano de Ugden
+tagGDX1WaistB102=[ms]{^L}Ciñecintura del Pantano de Ugden
+tagGDX1WaistB103=[fs]{^L}Faja de Lunal'Valgoth
+tagGDX1WaistB104=[ms]{^L}Ciñecintura de Lunal'Valgoth
+tagGDX1WaistB105=[ms]{^Y}Ciñecintura de corazón de troll
+tagGDX1WaistB106=[fp]{^Y}Ligas del titiritero
+tagGDX1WaistB107=[ms]{^Y}Ciñecintura de placas de piedra
+
+tagGDX1WaistC101=[fs]{^B}Faja de espectro rencoroso
+tagGDX1WaistC102=[fs]{^B}Faja de tejido de almas
+tagGDX1WaistC102_Desc="Los espíritus atados fueron tejidos en los hilos de este cinturón".
+tagGDX1WaistC103=[fs]{^B}Cinta del demonio sombrío
+tagGDX1WaistC104=[fs]{^B}Cinta del profeta de estrellas
+tagGDX1WaistC105=[fp]{^B}Cadenas del vacío hambriento
+tagGDX1WaistC106=[fs]{^B}Cinta del tejedor arcano
+tagGDX1WaistC115=[ms]{^B}Fajín del portador de quemaduras
+tagGDX1WaistC116={^B}Sanguinus
+tagGDX1WaistC116_Desc="Cada placa está empapada por la sangre derramada en el campo de batalla".
+tagGDX1WaistC117=[fs](S) {^B}Faja de profeta resplandeciente
+
+tagGDX1WaistD101=[fs]{^I}Cinta de la decadencia violenta
+tagGDX1WaistD102=[fs]{^I}Distinción de gladiador
+tagGDX1WaistD103=[fs]{^I}Cinta de buscaespíritus
+tagGDX1WaistD103_Desc="Los espíritus errantes son atraídos al tejido de este cinturón".
+tagGDX1WaistD104=[fs]{^I}Mochila de métodos traicioneros
+tagGDX1WaistD104_Desc="Una colección de polvos y toxinas ideales para las reacciones químicas que hicieron del armamento de pólvora un digno desafío a las artes arcanas".
+tagGDX1WaistD105=[fs]{^I}Cinta de decepción
+tagGDX1WaistD106=[fp]{^I}Escamas de Beronath
+tagGDX1WaistD106_Desc="Las escamas de la gran bestia Beronath no se han desvanecido después de siglos, y probablemente nunca lo harán".
+tagGDX1WaistD113=[fs]{^I}Faja de ceniza plateada
+tagGDX1WaistD114=[fs]{^I}Faja de lacerador
+tagGDX1WaistD115=[fs](S) {^I}Faja del vengador
+tagGDX1WaistD116=[ms](S) {^I}Pacto del cataclismo
+tagGDX1WaistD117=[fs](S) {^I}Faja de guardapiedra
+tagGDX1WaistD118=[ms](S) {^I}Ciñecintura de la Fortaleza
+tagGDX1WaistD119=[ms](S) {^I}Cinturón de munición de Llama oscura
+
+tagGDX1WaistF101A=[ms]{^G}Ciñecintura vil del aquelarre
+tagGDX1WaistF101B=[fs]{^G}Faja vil del aquelarre
+tagGDX1WaistF102A=[ms]{^G}Ciñecintura letal del aquelarre
+tagGDX1WaistF102B=[fs]{^G}Faja letal del aquelarre
+tagGDX1WaistF103A=[ms]{^G}Ciñecintura con cuchillas de Malmouth
+tagGDX1WaistF103B=[fs]{^G}Faja con cuchillas de Malmouth
+tagGDX1WaistF104A=[ms]{^G}Ciñecintura arcano de Malmouth
+tagGDX1WaistF104B=[fs]{^G}Faja arcana de Malmouth
+tagGDX1WaistF105A=[ms]{^G}Ciñecintura corrupto de wendigo
+tagGDX1WaistF105B=[fs]{^G}Faja corrupta de wendigo
+tagGDX1WaistF106A=[ms]{^G}Ciñecintura de carcelero de wendigo
+tagGDX1WaistF106B=[fs]{^G}Faja de carcelero de wendigo
+
+
+#Rings
+tagGDX1RingA101=[ms]{^W}Anillo exaltado
+tagGDX1RingA102=[ms]{^W}Aro exaltado
+tagGDX1RingA103=[ms]{^W}Anillo de conservador
+tagGDX1RingA104=[ms]{^W}Aro de conservador
+
+tagGDX1RingB101=[ms]{^L}Anillo viviente
+tagGDX1RingB101_Desc="Las espinas a lo largo del aro sacan sangre, pero eso parece revitalizar las vides"
+tagGDX1RingB102=[ms]{^L}Anillo de vides
+tagGDX1RingB103=[ms]{^L}Anillo de Gargabol
+tagGDX1RingB103_Desc="El aro ardiente es doloroso al tacto, pero no causa daño físico".
+
+tagGDX1RingC101=[ms]{^B}Porta-maldiciones
+tagGDX1RingC101_Desc="Se rumorea que este anillo retorcido soporta una terrible maldición por su amo, cuyos efectos aún persisten en él hasta el día de hoy".
+tagGDX1RingC102=[ms]{^B}Aro del acechador de ira
+tagGDX1RingC103=[ms]{^B}Anillo del curandero
+tagGDX1RingC104=[ms]{^B}Sello del padre de runas
+tagGDX1RingC104_Desc="Marca del Padre de Runas, creador de la lengua rúnica originalmente usada por los luminari".
+tagGDX1RingC105=[ms]{^B}Sello de reflexiones astrales
+tagGDX1RingC105_Desc="Los secretos de las estrellas son susurrados desde este anillo, pero son incomprensibles para oídos no entrenados".
+tagGDX1RingC106=[fs]{^B}Picadura de viuda
+tagGDX1RingC115=[ms]{^B}Desprecio nocturno
+tagGDX1RingC116=[fs]{^B}Histeria
+tagGDX1RingC117=[ms](S) {^B}Sello del profeta resplandeciente
+tagGDX1RingC118=[ms](S) {^B}Sello del señor de los magos
+tagGDX1RingC119=[ms](S) {^B}Aro del señor de los magos
+
+tagGDX1RingD101=[ms]{^I}Aro del señor de la muerte
+tagGDX1RingD102=[ms]{^I}Glifo de la unión espiritual
+tagGDX1RingD102_Desc="El glifo de este anillo se dice que es el símbolo más poderoso de unión espiritual conocido por la Orden de la Vigilia de la Muerte"
+tagGDX1RingD103=[ms]{^I}Aro del susurrador del vacío
+tagGDX1RingD103_Desc="Emanan susurros de este anillo que amenazan tu cordura".
+tagGDX1RingD104=[ms]{^I}Aro de combustión
+tagGDX1RingD105=[fs]{^I}Bala de la suerte de Jaxxon
+tagGDX1RingD106=[ms]{^I}Reino de hielo y fuego
+tagGDX1RingD113=[ms]{^I}Sello de la hoja retorcida
+tagGDX1RingD114=[ms]{^I}Corazón del vacío
+tagGDX1RingD115=[fs](S) {^I}Gema de tormenta de Allagast
+tagGDX1RingD116=[ms]{^I}Sello de guardamuerte
+
+tagGDX1RingF101=[ms]{^B}Sello de tormenta del aquelarre
+tagGDX1RingF102=[ms]{^B}Sello del cielo del aquelarre
+tagGDX1RingF103=[ms]{^B}Sello del defensor del aquelarre
+tagGDX1RingF104=[ms]{^B}Sello arcano de Malmouth
+tagGDX1RingF105=[ms]{^B}Sello de cuchillas de Malmouth
+tagGDX1RingF106=[ms]{^B}Sello de llamaetérea de Malmouth
+tagGDX1RingF107=[ms]{^B}Sello retorcido de wendigo
+tagGDX1RingF108=[ms]{^B}Sello conjurador del Wendigo
+
+
+
+#Necklaces
+tagGDX1NecklaceA101=[ms]{^W}Amuleto del exaltado
+tagGDX1NecklaceA102=[ms]{^W}Colgante del exaltado
+tagGDX1NecklaceA103=[ms]{^W}Amuleto del conservador
+tagGDX1NecklaceA104=[ms]{^W}Colgante del conservador
+
+tagGDX1NecklaceB100=[ms]{^G}Memento de Sahdina
+tagGDX1NecklaceB100_Desc="Un simple colgante, protegido contra el mal. En la inscripción se lee: La red que tejemos lleva consigo los augurios de las imágenes malignas. - Jay Peggins"
+tagGDX1NecklaceB101=[ms]{^L}Corazón de Gulgazor
+tagGDX1NecklaceB102=[ms]{^L}Corazón de Vilgazor
+
+tagGDX1NecklaceC101=[mp]{^B}Susurros de la muerte
+tagGDX1NecklaceC102=[fs]{^B}Piedra de desmembramiento
+tagGDX1NecklaceC103=[ms]{^B}Corazón marchito
+tagGDX1NecklaceC103_Desc="En raros momentos, el corazón aún late".
+tagGDX1NecklaceC104=[fs]{^B}Piedra de la serenidad
+tagGDX1NecklaceC104_Desc="A pesar de la agitación y el sufrimiento sobre Cairn, la piedra te llena de una tranquilidad desmedida".
+tagGDX1NecklaceC105=[ms]{^B}Rubí llorón
+tagGDX1NecklaceC106=[fs]{^B}Runa topacio de Gillad
+tagGDX1NecklaceC106_Desc="El amuleto protector del inquisidor Gillad, que se cree perdido después de que su cuerpo nunca fue recuperado tras una incursión fallida a un pueblo marginal en las fronteras del imperio acusado de albergar a ocultistas".
+tagGDX1NecklaceC115=[ms]{^B}Protector del aspirante
+tagGDX1NecklaceC116=[fs]{^B}Gema del padre de runas
+
+tagNecklaceD005B=[ms]{^I}Ojo Inigualable de Beronath
+tagGDX1NecklaceD101=[ms]{^I}Atrapa almas
+tagGDX1NecklaceD101_Desc="El alma de cada enemigo asesinado queda capturada rápidamente en el interior de este collar".
+tagGDX1NecklaceD102=[fp]{^I}Llamas de la ira
+tagGDX1NecklaceD103=[ms]{^I}Hambriento de Vigar
+tagGDX1NecklaceD103_Desc="La ampolla está llena de sangre del propio Devastador wendigo".
+tagGDX1NecklaceD104=[ms]{^I}Rubí Manchado de Gar'dal
+tagGDX1NecklaceD105={^I}Juicio del Verdugo
+tagGDX1NecklaceD106=[ms]{^I}Zafiro del vigía de tormentas
+tagGDX1NecklaceD113A=[ms]{^I}Conducto de los susurros enfrentados
+tagGDX1NecklaceD113B=[ms]{^I}Conducto de los susurros destructivos
+tagGDX1NecklaceD113C=[ms]{^I}Conducto de los susurros sobrenaturales
+tagGDX1NecklaceD113D=[ms]{^I}Conducto de los susurros nocturnos
+tagGDX1NecklaceD113E=[ms]{^I}Conducto de los susurros arcanos
+tagGDX1NecklaceD113F=[ms]{^I}Conducto de los susurros salvajes
+tagGDX1NecklaceD113G=[ms]{^I}Conducto de los susurros rúnicos
+tagGDX1NecklaceD113H=[ms]{^I}Conducto de los susurros eternos
+tagGDX1NecklaceD113_Desc="Mirando fijamente a los ojos se descubren imágenes de una tierra vasta y extraña, repleta de criaturas y demonios como ningún otro que exista en Cairn".
+tagGDX1NecklaceD114=[ms]{^I}Fragmento de la llama eterna
+tagGDX1NecklaceD114_Desc="La llama que desprende este cristal nunca se apaga del todo".
+tagGDX1NecklaceD115=[ms](S) {^I}Fragmento de almas perdidas
+tagGDX1NecklaceD116=[ms](S) {^I}Catalizador de cataclismo
+tagGDX1NecklaceD117=[ms](S) {^I}Custodio de guardapiedra
+tagGDX1NecklaceD118=[fs](S) {^I}Fuente de llama oscura
+tagGDX1NecklaceD119=[ms](S) {^I}Deflector azotahechizos
+tagGDX1NecklaceD120=[ms](S) {^I}Protector de matamagos
+tagGDX1NecklaceD121=[fs](S) {^I}Gema del atarrunas
+tagGDX1NecklaceD122=[ms](S) {^I}Ojo de Uroboruuk
+tagGDX1NecklaceD123=[fs](S) {^I}Gema de Radaggan
+tagGDX1NecklaceD124=[ms](S) {^I}Colgante de Lengua Escarcha
+tagGDX1NecklaceD125=[ms](S) {^I}Colgante de los Caballeros de Sangre
+
+tagGDX1NecklaceF101=[ms]{^B}Colgante oscurecedor del aquelarre
+tagGDX1NecklaceF102=[ms]{^B}Colgante manipulador del aquelarre
+tagGDX1NecklaceF103=[ms]{^B}Colgante de cuchillas del aquelarre
+tagGDX1NecklaceF104=[ms]{^B}Colgante ligatormentas de Malmouth
+tagGDX1NecklaceF105=[ms]{^B}Colgante retorcido de Malmouth
+tagGDX1NecklaceF106=[ms]{^B}Colgante de defensor de Malmouth
+tagGDX1NecklaceF107=[ms]{^B}Colgante vil de wendigo
+tagGDX1NecklaceF108=[ms]{^B}Colgante de los cielos de wendigo
+tagGDX1NecklaceF109=[ms]{^I}Colgante de rayo etéreo
+tagGDX1NecklaceF110=[ms]{^I}Corazón de Malmouth
+tagGDX1NecklaceF111=[ms]{^I}Segador hambriento
+
+
+#Medals
+tagGDX1MedalA101=[fs]{^W}Estrella del exaltado
+tagGDX1MedalA102=[ms]{^W}Blasón del conservador
+
+tagGDX1MedalB101=[ms]{^L}Blasón de basilisco
+tagGDX1MedalB101_Desc="Los colmillos aún gotean con veneno petrificante".
+tagGDX1MedalB102=[fs]{^L}Marca del basilisco
+tagGDX1MedalB102_Desc="Los colmillos aún gotean con veneno hemorrágico".
+tagGDX1MedalB103=[ms]{^L}Blasón de Rylok
+tagGDX1MedalB103_Desc="La escama chthoniana tiene sed de sangre".
+tagGDX1MedalB104=[fs]{^L}Marca de Rylok
+tagGDX1MedalB104_Desc="La escama chthoniana está llena de la oscuridad del vacío".
+tagGDX1MedalB105=[ms]{^L}Ojo de wendigo
+tagGDX1MedalB105_Desc="El ojo ensangrentado todavía se mueve cuando hay sangre cerca"
+tagGDX1MedalB106=[fs]{^L}Mirada de wendigo
+tagGDX1MedalB106_Desc="El ojo ensangrentado desconcierta a cualquier criatura menor que te observe".
+tagGDX1MedalB107=[ms]{^Y}Blasón ágil
+tagGDX1MedalB108=[ms]{^Y}Blasón de vigía
+tagGDX1MedalB109=[ms]{^L}Blasón de Slathsarr
+tagGDX1MedalB109_Desc="Los colmillos gotean el veneno de un distorsionaeter".
+tagGDX1MedalB110=[fs]{^L}Marca de Plagius
+tagGDX1MedalB111=[ms]{^L}Ojo de Namadea
+tagGDX1MedalB111_Desc="El ojo todavía tembloroso está lleno de vida".
+
+tagGDX1MedalC101=[fs]{^B}Marca solemne
+tagGDX1MedalC102=[fs]{^B}Marca de impureza
+tagGDX1MedalC103=[fs]{^B}Marca de los espíritus perdidos
+tagGDX1MedalC103_Desc="Un recordatorio de los perdidos y olvidados".
+tagGDX1MedalC104=[fs]{^B}Marca de juramentos rotos
+tagGDX1MedalC104_Desc="Esta medalla perteneció una vez a un inquisidor cuyo nombre fue borrado de los registros, su reputación fue manchada por una vil traición de todo lo que representan los luminari".
+tagGDX1MedalC105=[fs]{^B}Marca del guardián de la bóveda
+tagGDX1MedalC105_Desc="Marca de los guardianes sagrados de la Bóveda de los luminari".
+tagGDX1MedalC106=[ms]{^B}Blasón santo
+tagGDX1MedalC115=[fs]{^B}Marca de la miseria infernal
+tagGDX1MedalC116=[fs]{^B}Marca de la voluntad pétrea
+tagGDX1MedalC117=[ms](S) {^B}Blasón del profeta resplandeciente
+tagGDX1MedalC118=[fs](S) {^B}Mención luminari
+
+tagGDX1MedalD101=[fs]{^I}Marca de la Hoja terrorífica
+tagGDX1MedalD102=[fs]{^I}Marca del escalofrío terrorífico
+tagGDX1MedalD103=[ms]{^I}Blasón del bebedor de podredumbre
+tagGDX1MedalD104=[fs]{^I}Mención del Gildam Arcanum
+tagGDX1MedalD104_Desc="Reconocimientos otorgados a los miembros del Gildam Arcanum que miran más allá de las tensiones entre los luminari y los Arcanistas y eligen ver el panorama más amplio: asegurar la supervivencia de la humanidad".
+tagGDX1MedalD105=[fs]{^I}Mención de Serenir
+tagGDX1MedalD105_Desc="Otorgado una vez al Gran Inquisidor Serenir, quien valientemente blandía el Cuerno de Gandarr por derrotar a un aquelarre oculto en solitario".
+tagGDX1MedalD106=[fs]{^I}Marca de Kalastor
+tagGDX1MedalD113=[fs]{^I}Marca de Ulzuin
+tagGDX1MedalD113_Desc="Usado por los fieles de Ulzuin para quemar su carne y entregarse de lleno al dios iracundo".
+tagGDX1MedalD114=[fs]{^I}Marca de consunción
+
+tagGDX1MedalF101=[fs]{^B}Marca de cuchillas del aquelarre
+tagGDX1MedalF102=[fs]{^B}Marca arcana del aquelarre
+tagGDX1MedalF103=[fs]{^B}Insignia profana de Malmouth
+tagGDX1MedalF104=[fs]{^B}Insignia de los elementos de Malmouth
+tagGDX1MedalF105=[fs]{^B}Marca corrupta de wendigo
+tagGDX1MedalF106=[fs]{^B}Marca del defensor de wendigo
+tagGDX1MedalF107=[fs]{^I}Marca de intentos letales
+tagGDX1MedalF108=[ms]{^I}El Supervisor
+tagGDX1MedalF109=[fs]{^I}Marca del voraz
+
+
+#Blueprints
+tagGDX1Blueprint_RelicB101=Diseño: Reliquia - Glotonería
+tagGDX1Blueprint_RelicB102=Diseño: Reliquia - Espectro
+tagGDX1Blueprint_RelicB103=Diseño: Reliquia - Fervor
+tagGDX1Blueprint_RelicB104=Diseño: Reliquia - Fortaleza
+tagGDX1Blueprint_RelicB105=Diseño: Reliquia - Histeria
+
+tagGDX1Blueprint_RelicC101=Diseño: Reliquia - Mortalidad
+tagGDX1Blueprint_RelicC102=Diseño: Reliquia - Vendetta
+
+tagGDX1Blueprint_RelicD101=Diseño: Reliquia - Impureza
+tagGDX1Blueprint_RelicD102=Diseño: Reliquia - Venganza
+tagGDX1Blueprint_RelicD103=Diseño: Reliquia - Canto Fúnebre de Arkovia
+tagGDX1Blueprint_RelicD104=Diseño: Reliquia - Desgracia
+tagGDX1Blueprint_RelicD105=Diseño: Reliquia - Fatalidad
+tagGDX1Blueprint_RelicD106=Diseño: Reliquia - Decepción de Korvaak
+tagGDX1Blueprint_RelicD107=Diseño: Reliquia - Pacto Sobrenatural
+tagGDX1Blueprint_RelicD108=Diseño: Reliquia - Estallido de Nidalla
+tagGDX1Blueprint_RelicD109=Diseño: Reliquia - Eternidad
+tagGDX1Blueprint_RelicD110=Diseño: Reliquia - Masacre
+tagGDX1Blueprint_RelicD111=Diseño: Reliquia - Segador de Uroboruuk
+tagGDX1Blueprint_RelicD112=Diseño: Reliquia - Combustión de Ignaffar
+tagGDX1Blueprint_RelicD113=Diseño: Reliquia - Ardor de Mogdrogen
+tagGDX1Blueprint_RelicD114=Diseño: Reliquia - Mortacechador
+
+
+tagGDX1Blueprint_ComponentA101=Diseño: Sello de Poder
+tagGDX1Blueprint_ComponentA102=Diseño: Sello de Cuchillas
+tagGDX1Blueprint_ComponentA103=Diseño: Sello de los Cielos
+tagGDX1Blueprint_ComponentA104=Diseño: Sello de la Plaga
+tagGDX1Blueprint_ComponentA105=Diseño: Sello de Corrupción
+tagGDX1Blueprint_ComponentA106=Diseño: Sello del Vacío
+tagGDX1Blueprint_ComponentA107=Diseño: Sello de la Noche
+tagGDX1Blueprint_ComponentA108=Diseño: Sello de Destrucción
+tagGDX1Blueprint_ComponentA109=Diseño: Sello de Sombras
+tagGDX1Blueprint_ComponentA110=Diseño: Sello de Resonancia
+tagGDX1Blueprint_ComponentA111=Diseño: Corazón Corrupto
+tagGDX1Blueprint_ComponentA112=Diseño: Rubí Ardiente
+tagGDX1Blueprint_ComponentA113=Diseño: Topacio de Runa Atada
+tagGDX1Blueprint_ComponentA114=Diseño: Cristal Ensangrentado
+tagGDX1Blueprint_ComponentA115=Diseño: Tierra Encantada
+tagGDX1Blueprint_ComponentA116=Diseño: Coraza de Hechizos Quemados
+tagGDX1Blueprint_ComponentA117=Diseño: Coraza Acuchillada
+tagGDX1Blueprint_ComponentA118=Diseño: Piel del Pantano de Ugden
+
+tagGDX1Blueprint_ComponentC101=Diseño: Coraza Sagrada
+tagGDX1Blueprint_ComponentC102=Diseño: Armadura Viviente
+tagGDX1Blueprint_ComponentC103=Diseño: Coraza de Titán
+tagGDX1Blueprint_ComponentC104=Diseño: Espejo Sobrenatural
+tagGDX1Blueprint_ComponentC105=Diseño: Sello de Aniquilación
+tagGDX1Blueprint_ComponentC106=Diseño: Sello del Ancestro
+
+
+tagGDX1Blueprint_WaistF101A=Diseño: Ciñecintura vil del aquelarre
+tagGDX1Blueprint_WaistF101B=Diseño: Faja vil del aquelarre
+tagGDX1Blueprint_WaistF102A=Diseño: Ciñecintura letal del aquelarre
+tagGDX1Blueprint_WaistF102B=Diseño: Faja letal del aquelarre
+tagGDX1Blueprint_WaistF103A=Diseño: Ciñecintura con cuchillas de Malmouth
+tagGDX1Blueprint_WaistF103B=Diseño: Faja con cuchillas de Malmouth
+tagGDX1Blueprint_WaistF104A=Diseño: Ciñecintura arcano de Malmouth
+tagGDX1Blueprint_WaistF104B=Diseño: Faja arcana de Malmouth
+tagGDX1Blueprint_WaistF105A=Diseño: Ciñecintura corrupto de wendigo
+tagGDX1Blueprint_WaistF105B=Diseño: Faja corrupta de wendigo
+tagGDX1Blueprint_WaistF106A=Diseño: Ciñecintura de carcelero de wendigo
+tagGDX1Blueprint_WaistF106B=Diseño: Faja de carcelero de wendigo
+
+
+tagGDX1Blueprint_WeaponB101=Diseño: Pistola aluvión de tormentas
+tagGDX1Blueprint_WeaponB102=Diseño: Rifle de guardallamas
+tagGDX1Blueprint_WeaponB103=Diseño: Cortadora derramadora de sangre
+tagGDX1Blueprint_WeaponB104=Diseño: Mazo de guerra destripatripas
+tagGDX1Blueprint_WeaponB105=Diseño: Defensor muro de piedra
+tagGDX1Blueprint_WeaponB106=Diseño: Tomo de golpehechizo
+tagGDX1Blueprint_WeaponB107=Diseño: Tomo ardiente
+tagGDX1Blueprint_WeaponB108=Diseño: Varita de borde podrido
+tagGDX1Blueprint_WeaponB109=Diseño: Cetro del transmisor de muerte
+
+tagGDX1Blueprint_WeaponC101=Diseño: El Disidente
+tagGDX1Blueprint_WeaponC102=Diseño: Inquisición de Aldur mítica
+tagGDX1Blueprint_WeaponC103=Diseño: Torrente Cósmico
+tagGDX1Blueprint_WeaponC104=Diseño: Hoja hechizada de ira de llamas
+tagGDX1Blueprint_WeaponC105=Diseño: Conservador de la paz de Burrwitch mítico
+tagGDX1Blueprint_WeaponC106=Diseño: Escopeta faucinferna mítica
+tagGDX1Blueprint_WeaponC107=Diseño: Masacradora voraz mítica
+tagGDX1Blueprint_WeaponC108=Diseño: Antorcha bendita mítica
+tagGDX1Blueprint_WeaponC109=Diseño: Sable de duelista mítico
+tagGDX1Blueprint_WeaponC110=Diseño: Ira plañidera mítica
+tagGDX1Blueprint_WeaponC111=Diseño: Trinchadora de runas infernales mítica
+tagGDX1Blueprint_WeaponC112=Diseño: Hoja corrupta de Nera'Val mítica
+tagGDX1Blueprint_WeaponC113=Diseño: Guardián Lich mítico
+tagGDX1Blueprint_WeaponC114=Diseño: Tristeza del alma en pena mítico
+
+tagGDX1Blueprint_WeaponD101=Diseño: Núcleo de ceniza
+tagGDX1Blueprint_WeaponD102=Diseño: Lanza venenosa
+tagGDX1Blueprint_WeaponD103=Diseño: Borde de muerte mítico
+tagGDX1Blueprint_WeaponD104=Diseño: Evocador de la llama helada mítico
+tagGDX1Blueprint_WeaponD105=Diseño: Repartemuertes mítico
+tagGDX1Blueprint_WeaponD106=Diseño: Wyrm norteño mítico
+tagGDX1Blueprint_WeaponD107=Diseño: Vórtice de almas mítica
+tagGDX1Blueprint_WeaponD108=Diseño: Luna creciente mítica
+tagGDX1Blueprint_WeaponD109=Diseño: Portaplagas de Dreeg mítica
+tagGDX1Blueprint_WeaponD110=Diseño: Beronath mítica, reforjada
+tagGDX1Blueprint_WeaponD111=Diseño: Saqueadora de tormentas mítica
+tagGDX1Blueprint_WeaponD112=Diseño: Arco de cuchillas temporal mítico
+tagGDX1Blueprint_WeaponD113=Diseño: Fragmento de Asterkarn mítico
+tagGDX1Blueprint_WeaponD114=Diseño: Colmillo de Ch'thon mítico
+tagGDX1Blueprint_WeaponD115=Diseño: Venganza de Zolhan mítico
+tagGDX1Blueprint_WeaponD116=Diseño: Orbe sangriento de Ch'thon mítico
+tagGDX1Blueprint_WeaponD117=Diseño: Tomo condenado de Nar'Adin mítico
+
+tagGDX1Blueprint_WeaponF101=Diseño: Lanza Maldiciones
+tagGDX1Blueprint_WeaponF102=Diseño: El Desolador
+tagGDX1Blueprint_WeaponF103=Diseño: Luna bruja
+tagGDX1Blueprint_WeaponF104=Diseño: Aullido del wendigo
+tagGDX1Blueprint_WeaponF105=Diseño: Redentor de Malmouth
+tagGDX1Blueprint_WeaponF106=Diseño: Aluvión ardiente
+tagGDX1Blueprint_WeaponF107=Diseño: Llama embrujada
+tagGDX1Blueprint_WeaponF108=Diseño: Garra de Hagaraz
+tagGDX1Blueprint_WeaponF109=Diseño: Guarda de ira
+tagGDX1Blueprint_WeaponF110=Diseño: Invoca tormentas de Malmouth
+
+
+
+tagGDX1Blueprint_ArmorB101=Diseño: Botas de guerra intrépidas
+tagGDX1Blueprint_ArmorB102=Diseño: Grebas de placas de piedra
+
+tagGDX1Blueprint_ArmorC101=Diseño: Rostro del heraldo de tormenta
+tagGDX1Blueprint_ArmorC102=Diseño: Guardahombros del cazarrecompensas mítico
+tagGDX1Blueprint_ArmorC103=Diseño: Capucha de caminante terrorífico
+tagGDX1Blueprint_ArmorC104=Diseño: Sombrero de luminari
+tagGDX1Blueprint_ArmorC105=Diseño: Grebas del señor de los magos míticas
+tagGDX1Blueprint_ArmorC106=Diseño: Botas de piel de sabueso abisal míticas
+tagGDX1Blueprint_ArmorC107=Diseño: Toque de alma mítico
+tagGDX1Blueprint_ArmorC108=Diseño: Guantes rápidos míticos
+tagGDX1Blueprint_ArmorC109=Diseño: Vendas de tejedor de hechizos míticas
+tagGDX1Blueprint_ArmorC110=Diseño: Hombreras de Amarastan míticas
+tagGDX1Blueprint_ArmorC111=Diseño: Coselete del cazador nocturno mítico
+tagGDX1Blueprint_ArmorC112=Diseño: Coraza de forja maldita mítica
+tagGDX1Blueprint_ArmorC113=Diseño: Capucha del asesino ciego mítico
+tagGDX1Blueprint_ArmorC114=Diseño: Ojo de vidrio del francotirador mítico
+tagGDX1Blueprint_ArmorC115=Diseño: Rostro impío de la alianza mítico
+tagGDX1Blueprint_ArmorC116=Diseño: Yelmo del guardia del alba mítico
+tagGDX1Blueprint_ArmorC117=Diseño: Chaqueta del guardián de la llama mítica
+tagGDX1Blueprint_ArmorC118=Diseño: Vestimenta de Callidor mítica
+tagGDX1Blueprint_ArmorC119=Diseño: Visor mirmidón mítico
+tagGDX1Blueprint_ArmorC120=Diseño: Capucha de Mogdrogen mítico
+tagGDX1Blueprint_ArmorC121=Diseño: Capucha del dechado mítico
+
+tagGDX1Blueprint_ArmorD101=Diseño: Mirada del necroseñor
+tagGDX1Blueprint_ArmorD102=Diseño: Mirada del venomante
+tagGDX1Blueprint_ArmorD103=Diseño: Mirada hechizante
+tagGDX1Blueprint_ArmorD104=Diseño: Máscara ósea de wyrm
+tagGDX1Blueprint_ArmorD105=Diseño: Mirada del necroseñor mítica
+tagGDX1Blueprint_ArmorD106=Diseño: Mirada del venomante mítica
+tagGDX1Blueprint_ArmorD107=Diseño: Mirada hechizante mítica
+tagGDX1Blueprint_ArmorD108=Diseño: Máscara ósea de wyrm mítica
+tagGDX1Blueprint_ArmorD109=Diseño: Voz de Dreeg
+tagGDX1Blueprint_ArmorD110=Diseño: Mirada de Empyrion
+tagGDX1Blueprint_ArmorD113=Diseño: Máscara de almas perdidas
+tagGDX1Blueprint_ArmorD114=Diseño: Visor de Octavius
+tagGDX1Blueprint_ArmorD115=Diseño: Capucha de Korba
+tagGDX1Blueprint_ArmorD116=Diseño: Protegecabezas de llama oscura
+tagGDX1Blueprint_ArmorD117=Diseño: Visor azotahechizos
+tagGDX1Blueprint_ArmorD118=Diseño: Capucha del matamagos
+tagGDX1Blueprint_ArmorD119=Diseño: Gemas de Valguur
+tagGDX1Blueprint_ArmorD120=Diseño: Sombrero del atarrunas
+tagGDX1Blueprint_ArmorD121=Diseño: Rostro de Uroboruuk
+tagGDX1Blueprint_ArmorD122=Diseño: Visera de Dagallon
+tagGDX1Blueprint_ArmorD123=Diseño: Capucha de guardamuerte
+tagGDX1Blueprint_ArmorD124=Diseño: Máscara del adivino
+
+tagGDX1Blueprint_ArmorD125=Diseño: Fauces del desespero míticas
+tagGDX1Blueprint_ArmorD126=Diseño: Máscara terrorífica de Gurgoth mítica
+tagGDX1Blueprint_ArmorD127=Diseño: Susurradora de secretos mítica
+tagGDX1Blueprint_ArmorD128=Diseño: Máscara abisal mítica
+tagGDX1Blueprint_ArmorD129=Diseño: Diadema de la gran serpiente mítica
+tagGDX1Blueprint_ArmorD130=Diseño: Máscara de la verdad infernal mítica
+tagGDX1Blueprint_ArmorD131=Diseño: Visera de la justicia mítica
+tagGDX1Blueprint_ArmorD132=Diseño: Capucha del invocador de bestias mítico
+tagGDX1Blueprint_ArmorD133=Diseño: Máscara del heraldo mítica
+tagGDX1Blueprint_ArmorD134=Diseño: Sombrero del asesino de demonios mítico
+tagGDX1Blueprint_ArmorD135=Diseño: Sombrero del clarividente mítico
+tagGDX1Blueprint_ArmorD136=Diseño: Visor de Markovian mítico
+tagGDX1Blueprint_ArmorD137=Diseño: Protegecabezas de Ulzuin mítico
+tagGDX1Blueprint_ArmorD138=Diseño: Capucha de Dreeg mítica
+tagGDX1Blueprint_ArmorD139=Diseño: Capucha de marcamuerte mítica
+tagGDX1Blueprint_ArmorD140=Diseño: Capucha de Iskandra mítica
+tagGDX1Blueprint_ArmorD141=Diseño: Capucha de Ultos mítica
+tagGDX1Blueprint_ArmorD142=Diseño: Corona del rey del invierno
+tagGDX1Blueprint_ArmorD143=Diseño: Sombrero de Trozan mítico
+tagGDX1Blueprint_ArmorD144=Diseño: Sombrero de Valdun mítico
+tagGDX1Blueprint_ArmorD145=Diseño: Mirada sobrenatural
+tagGDX1Blueprint_ArmorD146=Diseño: Pacto de los Tres
+tagGDX1Blueprint_ArmorD147=Diseño: Capucha del hojaveneno mítico
+tagGDX1Blueprint_ArmorD148=Diseño: Rostro de la Llama negra mítica
+tagGDX1Blueprint_ArmorD149=Diseño: Yelmo ligero de defensor mítico
+tagGDX1Blueprint_ArmorD150=Diseño: Visera infernal del caballero mítico
+tagGDX1Blueprint_ArmorD151=Diseño: Visor batallante mítico
+tagGDX1Blueprint_ArmorD152=Diseño: Capucha de sanguinario mítico
+
+tagGDX1Blueprint_ArmorD153=Diseño: Manto del nacido del fuego mítico
+tagGDX1Blueprint_ArmorD154=Diseño: Armadura de tejido tormentoso mítica
+tagGDX1Blueprint_ArmorD155=Diseño: Armadura de vengador
+tagGDX1Blueprint_ArmorD156=Diseño: Toga de Allagast
+tagGDX1Blueprint_ArmorD157=Diseño: Grebas cortavientos míticas
+tagGDX1Blueprint_ArmorD158=Diseño: Escarpines del mago gris míticos
+tagGDX1Blueprint_ArmorD159=Diseño: Guardamanos de hueso de Wyrm míticos
+tagGDX1Blueprint_ArmorD160=Diseño: Garras de skorn de hielo míticas
+tagGDX1Blueprint_ArmorD161=Diseño: Leotardos de armonía arcana míticos
+tagGDX1Blueprint_ArmorD162=Diseño: Pantalones realmente grandes
+tagGDX1Blueprint_ArmorD163=Diseño: Hombreras de titán míticas
+tagGDX1Blueprint_ArmorD164=Diseño: Manto de sangre vil mítico
+tagGDX1Blueprint_ArmorD165=Diseño: Armadura terrorífica de Azragor mítica
+tagGDX1Blueprint_ArmorD166=Diseño: Camisote de acero divino mítico
+
+tagGDX1Blueprint_ArmorD167=Diseño: Máscara de Belgothian
+
+tagGDX1Blueprint_ArmorD168=Diseño: Máscara de Radaggan
+tagGDX1Blueprint_ArmorD169=Diseño: Máscara de Lengua Escarcha
+tagGDX1Blueprint_ArmorD170=Diseño: Rostro de los Caballeros de Sangre
+
+tagGDX1Blueprint_AccessoryB101=Diseño: Blasón ágil
+tagGDX1Blueprint_AccessoryB102=Diseño: Blasón de vigía
+tagGDX1Blueprint_AccessoryB103=Diseño: Ciñecintura de corazón de troll
+tagGDX1Blueprint_AccessoryB104=Diseño: Ligas del titiritero
+tagGDX1Blueprint_AccessoryB105=Diseño: Ciñecintura de placas de piedra
+
+tagGDX1Blueprint_AccessoryC101=Diseño: Piedra de la serenidad míticas
+tagGDX1Blueprint_AccessoryC102=Diseño: Gema del padre de runas
+tagGDX1Blueprint_AccessoryC103=Diseño: Sanguinus
+tagGDX1Blueprint_AccessoryC104=Diseño: Blasón santo mítico
+tagGDX1Blueprint_AccessoryC105=Diseño: Picadura de viuda mítica
+tagGDX1Blueprint_AccessoryC106=Diseño: Fragmento de mando mítico
+tagGDX1Blueprint_AccessoryC107=Diseño: Amuleto de la tierra chamuscada mítico
+tagGDX1Blueprint_AccessoryC108=Diseño: Cadenas de la angustia míticas
+tagGDX1Blueprint_AccessoryC109=Diseño: Cinturón del alquimista mítico
+tagGDX1Blueprint_AccessoryC110=Diseño: Volcanum mítico
+tagGDX1Blueprint_AccessoryC111=Diseño: Marca del médico de combate mítica
+tagGDX1Blueprint_AccessoryC112=Diseño: Sello Amarastan mítico
+tagGDX1Blueprint_AccessoryC113=Diseño: Sello Goliath mítico
+tagGDX1Blueprint_AccessoryC114=Diseño: Rubí de balance elemental mítico
+tagGDX1Blueprint_AccessoryC115=Diseño: Zafiro de balance elemental mítico
+
+tagGDX1Blueprint_AccessoryD101=Diseño: Zafiro del vigía de tormentas mítico
+tagGDX1Blueprint_AccessoryD102=Diseño: Mochila de métodos traicioneros mítica
+tagGDX1Blueprint_AccessoryD103=Diseño: Faja de ceniza plateada
+tagGDX1Blueprint_AccessoryD104=Diseño: Marca de Kalastor mítica
+tagGDX1Blueprint_AccessoryD105=Diseño: Marca de consunción
+tagGDX1Blueprint_AccessoryD106=Diseño: Reino de hielo y fuego mitico
+tagGDX1Blueprint_AccessoryD107=Diseño: Faja de guardapiedra
+tagGDX1Blueprint_AccessoryD108=Diseño: Ciñecintura de la Fortaleza
+tagGDX1Blueprint_AccessoryD109=Diseño: Reencarnación de la misericordia mítica
+tagGDX1Blueprint_AccessoryD110=Diseño: Pestilencia de Dreeg mítica
+tagGDX1Blueprint_AccessoryD111=Diseño: Vengador de Cairn mítico
+tagGDX1Blueprint_AccessoryD112=Diseño: Ingenuidad del manitas mítica
+tagGDX1Blueprint_AccessoryD113=Diseño: Faja del martillazo mítica
+tagGDX1Blueprint_AccessoryD114=Diseño: Fajín del sabio inmortal mítico
+tagGDX1Blueprint_AccessoryD115=Diseño: Marca de sueños oscuros mítica
+tagGDX1Blueprint_AccessoryD116=Diseño: Marca de Anathema mítica
+tagGDX1Blueprint_AccessoryD117=Diseño: Glifo de Kelphat'Zoth mítico
+tagGDX1Blueprint_AccessoryD118=Diseño: Aro de flujo temporal mítico
+tagGDX1Blueprint_AccessoryD119=Diseño: Aro de la eterna persecución mítico
+tagGDX1Blueprint_AccessoryD120=Diseño: Pacto del cataclismo
+tagGDX1Blueprint_AccessoryD121A=Diseño: Conducto de los susurros enfrentados
+tagGDX1Blueprint_AccessoryD121B=Diseño: Conducto de los susurros destructivos
+tagGDX1Blueprint_AccessoryD121C=Diseño: Conducto de susurros sobrenaturales
+tagGDX1Blueprint_AccessoryD121D=Diseño: Conducto de los susurros nocturnos
+tagGDX1Blueprint_AccessoryD121E=Diseño: Conducto de los susurros arcanos
+tagGDX1Blueprint_AccessoryD121F=Diseño: Conducto de los susurros salvajes
+tagGDX1Blueprint_AccessoryD121G=Diseño: Conducto de los susurros rúnicos
+tagGDX1Blueprint_AccessoryD121H=Diseño: Conducto de los susurros eternos
+
+tagGDX1Blueprint_AccessoryF101=Diseño: Colgante de rayo etéreo
+tagGDX1Blueprint_AccessoryF102=Diseño: Corazón de Malmouth
+tagGDX1Blueprint_AccessoryF103=Diseño: Segador hambriento
+tagGDX1Blueprint_AccessoryF104=Diseño: Marca de intentos letales
+tagGDX1Blueprint_AccessoryF105=Diseño: El Supervisor
+tagGDX1Blueprint_AccessoryF106=Diseño: Marca del voraz
+
+#Relics
+tagGDX1RelicB101=Glotonería
+tagGDX1RelicB101Desc="Hambre sin Fin".
+tagGDX1RelicB102=Espectro
+tagGDX1RelicB102Desc="Un alma atormentada se agita dentro de esta piedra".
+tagGDX1RelicB103=Fervor
+tagGDX1RelicB103Desc="Furia en todas las cosas".
+tagGDX1RelicB104=Fortaleza
+tagGDX1RelicB104Desc="Valentía en la batalla".
+tagGDX1RelicB105=Histeria
+tagGDX1RelicB105Desc="Locura más allá de la muerte".
+
+tagGDX1RelicC101=Mortalidad
+tagGDX1RelicC101Desc="El sentimiento implacable de que todas las cosas deben terminar".
+tagGDX1RelicC102=Vendetta
+tagGDX1RelicC102Desc="Persecución implacable de un viejo enemigo".
+
+tagGDX1RelicD101=Impureza
+tagGDX1RelicD101Desc="Energía arcana en bruto, contaminada por deseos viles".
+tagGDX1RelicD102=Venganza
+tagGDX1RelicD102Desc="La venganza se sirve mejor fría".
+tagGDX1RelicD103=Canto Fúnebre de Arkovia
+tagGDX1RelicD103Desc="Una canción aterradora emana de esta piedra".
+tagGDX1RelicD104=Desgracia
+tagGDX1RelicD104Desc="La ruina cae sobre tus enemigos".
+tagGDX1RelicD105=Fatalidad
+tagGDX1RelicD105Desc="Conviértete en la mano del destino y sella los destinos de tus enemigos".
+tagGDX1RelicD106=Decepción de Korvaak
+tagGDX1RelicD106Desc="Servirme es servir a Cairn. -Empyrion"
+tagGDX1RelicD107=Pacto Sobrenatural
+tagGDX1RelicD107Desc="Una unión con los Tres no se puede deshacer".
+tagGDX1RelicD108=Estallido de Nidalla
+tagGDX1RelicD108Desc="Veneno traicionero, o herramienta del oficio".
+tagGDX1RelicD109=Eternidad
+tagGDX1RelicD109Desc="Toda la existencia, en un abrir y cerrar de ojos".
+tagGDX1RelicD110=Masacre
+tagGDX1RelicD110Desc="Gozo en el derramamiento de sangre".
+tagGDX1RelicD111=Segador de Uroboruuk
+tagGDX1RelicD111Desc="Transmitido por el mismísimo maestro de la muerte".
+tagGDX1RelicD112=Combustión de Ignaffar
+tagGDX1RelicD112Desc="La Piedra de Ignaffar no fue el único artefacto recuperado por los luminari y luego purificado de un antiguo enterramiento".
+tagGDX1RelicD113=Ardor de Mogdrogen
+tagGDX1RelicD113Desc="El lobo solitario muere, la manada sobrevive".
+tagGDX1RelicD114=Mortacechador
+tagGDX1RelicD114Desc="Un espíritu perverso anhela ser libre".
+
+
+#Crafting
+tagGDX1CraftRandomLegendaryDesc2=El herrero combina el poder arcano en bruto dentro de estos objetos para crear un objeto de potencial legendario, hasta nivel 94. Para personajes de nivel inferior a 58 se creará un objeto épico en su lugar.
+tagGDX1CraftRandomLegendaryAccessoryDesc2=El herrero combina el poder arcano en bruto dentro de estos objetos para crear un objeto de potencial legendario, hasta nivel 94. Para personajes de nivel inferior a 58 se creará un objeto épico en su lugar.
+tagGDX1CraftRandomLegendaryItemDesc2=El herrero crea un objeto encantado apropiado para tu nivel de calidad legendaria, hasta nivel 94.
+
+tagGDX1CraftMaterial_AetherialVanguard=Misiva Etérea
+tagGDX1CraftMaterial_AetherialVanguard_Desc="Textos arcanos impregnados de energías etéreas. Probablemente se usa para transportar información demasiado sensible para los ojos mortales".
+
+tagGDX1CraftMaterial_AetherialVanguard02=Mutágeno Etéreo
+tagGDX1CraftMaterial_AetherialVanguard02_Desc="Un líquido viscoso, infundido en éter, que se mueve violentamente dentro del recipiente cuando hay carne viva cerca".
+
+tagGDX1CraftMaterial_Wendigo=Espíritu wendigo
+tagGDX1CraftMaterial_Wendigo_Desc="Un espíritu vil repleto de potencial oscuro. Te susurra con promesas de poder".
+
+tagGDX1CraftMaterial_Ugdenbloom=Flor de Ugden
+tagGDX1CraftMaterial_Ugdenbloom_Desc="Para tener colores tan vibrantes, emite un hedor realmente pútrido".
+
+tagGDX1CraftMaterial_HeartOfDarkness=Corazón de Oscuridad
+tagGDX1CraftMaterial_HeartOfDarkness_Desc="Lleno de viles energías que ansían un altar de cenizas".
+
+#Consumables
+
+tagGDX1ConsumableBlueprintA01=Receta: Ungüento Bebedor de Llamas
+
+tagGDX1ConsumableA101=Cristal de Hargate
+tagGDX1ConsumableA101Desc="Resuena con extraña energía, como si algo intentara escapar..."
+
+tagGDX1ConsumableA102=Cristal de Kasparov
+tagGDX1ConsumableA102Desc="Resuena con extraña energía, como si algo intentara escapar..."
+
+tagGDX1ConsumableBlueprintB101=Receta: Jugo de Udgen
+tagGDX1ConsumableBlueprintB102=Receta: Pomada de Ugden
+tagGDX1ConsumableBlueprintB103=Receta: Unguento Cicatriz Infame
+tagGDX1ConsumableBlueprintB104=Receta: Elixir del Dranghul
+tagGDX1ConsumableBlueprintB105=Receta: Elixir de Mogdrogen
+
+tagGDX1ConsumableB101=Jugo de Udgen
+tagGDX1ConsumableB101Desc="Una mezcla de olor dulce hecha con extracto de flor de Ugden".
+tagGDX1ConsumableB102=Pomada de Ugden
+tagGDX1ConsumableB102Desc="Una mezcla calmante hecha con flor de Ugden concentrada".
+tagGDX1ConsumableB103=Unguento Cicatriz Infame
+tagGDX1ConsumableB103Desc="Una mezcla viscosa que acelera la coagulación".
+tagGDX1ConsumableB104=Elixir del Dranghul
+tagGDX1ConsumableB104Desc="Un poderoso elixir obtenido del tallo de la flor de Ugden".
+tagGDX1ConsumableB105=Elixir de Mogdrogen
+tagGDX1ConsumableB105Desc="Un poderoso elixir preparado por el propio Mogdrogen".
+
+tagGDX1ConsumableF101=Aceite Maléfico
+tagGDX1ConsumableF101Desc="Un aceite infundido con las viles maldiciones del aquelarre".
+tagGDX1ConsumableF102=Tintura Maldita
+tagGDX1ConsumableF102Desc="Haz añicos el vial, liberando una cruel maldición sobre los enemigos cercanos".
+tagGDX1ConsumableF103=Aceite de Protección Etérea
+tagGDX1ConsumableF103Desc="Un aceite que protege tu arma contra el éter".
+tagGDX1ConsumableF104=Tintura de Llama de Tormenta
+tagGDX1ConsumableF104Desc="Haz añicos el vial, liberando una explosión de llamas electrificadas"
+tagGDX1ConsumableF105=Aceite Insaciable
+tagGDX1ConsumableF105Desc="Un aceite que infunde a tus armas el hambre de un wendigo".
+tagGDX1ConsumableF106=Tintura Vil
+tagGDX1ConsumableF106Desc="Haz añicos el vial, liberando un espíritu vil para atormentar a tus enemigos".
+tagGDX1ConsumableF107=Poción de Claridad
+tagGDX1ConsumableF107Desc="Un fluido viscoso lleno de potencial". ^oSe puede colocar en el Alijo de Transferencia para usar en otros personajes.
+
+tagGDX1Consumable_AttributeReset=Tónico de Remodelación
+tagGDX1Consumable_AttributeReset_Desc="Te llena de un incómodo calor mientras tu cuerpo entero parece que se remodela".
+
+
+
+#ItemEnchantment
+
+tagGDX1EnchantA101A=Polvo de Estrella
+tagGDX1EnchantA101Desc="Polvo de una estrella fugaz, recogido cuidadosamente para que sus propiedades arcanas no decaigan".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantA102A=Polvo Potente de Estrella
+tagGDX1EnchantA102Desc="Polvo de una estrella fugaz, recogido cuidadosamente para que sus propiedades arcanas no decaigan".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantA103A=Polvo de Parral
+tagGDX1EnchantA103Desc="Los parrales son difíciles de cosechar, y a veces mortales, pero sus muchos usos para la medicina y la magia hacen que valga la pena".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantA104A=Polvo Potente de Parral
+tagGDX1EnchantA104Desc="Los parrales son difíciles de cosechar, y a veces mortales, pero sus muchos usos para la medicina y la magia hacen que valga la pena".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantA105A=Beso de la Aojadora
+tagGDX1EnchantA105Desc="Un polvo potente utilizado por el aquelarre para eliminar plagas particularmente indeseables".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantA106A=Beso Potente de la Aojadora
+tagGDX1EnchantA106Desc="Un polvo potente utilizado por el aquelarre para eliminar plagas particularmente indeseables".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantA107A=Pústulas de Bestia de la Plaga
+tagGDX1EnchantA107Desc="Aunque la nigromancia rara vez se utiliza en el aquelarre, tiene sus usos. Este pus de las bestias de la plaga tiene propiedades arcanas si se extrae correctamente".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantA108A=Pústulas Potentes de Bestia de la Plaga
+tagGDX1EnchantA108Desc="Aunque la nigromancia rara vez se utiliza en el aquelarre, tiene sus usos. Este pus de las bestias de la plaga tiene propiedades arcanas si se extrae correctamente".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantA109A=Polvo de Carne Podrida
+tagGDX1EnchantA109Desc="El creador insistió en que se trataba simplemente de carne en polvo de los cadáveres humanos hinchados que flotaban alrededor del Pantano de Ugden. Nadie quiere saberlo con certeza".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantA110A=Lengua del Vacío
+tagGDX1EnchantA110Desc="Lengua en polvo de un demonio chtoniano".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantA111A=Polvo de Sombrero de Mago
+tagGDX1EnchantA111Desc="Los Sombrero de Mago prosperan en la tierra húmeda del Pantano de Ugden, proporcionando al aquelarre sustento y materiales para su artesanía".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantA112A=Flor de la Aojadora
+tagGDX1EnchantA112Desc="Esta planta parece ser nueva para Cairn, probablemente por haber atravesado la debilitante barrera entre las realidades, como lo habían hecho los sabuesos y otras bestias, pero sus propiedades arcanas le hicieron ganar rápidamente un lugar en los arsenales del aquelarre".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantA113A=Espina de Rosa de Sangre
+tagGDX1EnchantA113Desc="Llamada así por sus espinas increíblemente afiladas y su color rojo vibrante, la espina de rosa de sangre produce un potente veneno hemorrágico cuando se concentra.".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantA114A=Delicia de la Aojadora
+tagGDX1EnchantA114Desc="Polvo derivado de un hongo raro que crece en el Pantano de Ugden. Es considerado un manjar para la gente común, y un poderoso ingrediente para el aquelarre".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantA115A=Polvo del Maquinista
+tagGDX1EnchantA115Desc="Hecho famoso por la otrora floreciente industria de Malmouth, el polvo encantado fortalece el metal para soportar un castigo aún mayor".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantA116A=Polvo Potente del Maquinista
+tagGDX1EnchantA116Desc="Hecho famoso por la otrora floreciente industria de Malmouth, el polvo encantado fortalece el metal para soportar un castigo aún mayor".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantA117A=Alquitrán del Vacío
+tagGDX1EnchantA117Desc="Aunque difícil de trabajar y altamente inestable, los arcanistas de Malmouth habían descubierto un uso para este denso material en sus encantamientos".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantA118A=Alquitrán Potente del Vacío
+tagGDX1EnchantA118Desc="Aunque difícil de trabajar y altamente inestable, los arcanistas de Malmouth habían descubierto un uso para este denso material en sus encantamientos".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantA119A=Polvo de Ojo de Diablillo
+tagGDX1EnchantA119Desc="Polvo extraído de los ojos hinchados de los diablillos etéreos".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantA120A=Polvo Potente de Ojo de Diablillo
+tagGDX1EnchantA120Desc="Polvo extraído de los ojos hinchados de los diablillos etéreos".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantA121A=Polvo de Flor de Chispa
+tagGDX1EnchantA121Desc="Polvo de una flor vibrante que crece en las afueras de Malmouth, conocida por sus pétalos tintados al fuego".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantA122A=Polvo Potente de Flor de Chispa
+tagGDX1EnchantA122Desc="Polvo de una flor vibrante que crece en las afueras de Malmouth, conocida por sus pétalos tintados al fuego".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantA123A=Polvo de Núcleo Ardiente
+tagGDX1EnchantA123Desc="Polvo extraído de los corazones ardientes de bestias exaltadas".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantA124A=Polvo de Distorsionacarne
+tagGDX1EnchantA124Desc="Este polvo encantado tiene que ser cuidadosamente manipulado de tal manera que nunca toque la carne humana, pero conseguir los materiales de las corrupciones etéreas es quizás la parte más difícil.".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantA125A=Ceniza del Vacío
+tagGDX1EnchantA125Desc="Cenizas del reino chthoniano, a veces encontradas en los cuerpos de chthonianos muertos. No encontrarías a nadie tan tonto como para entrar en una grieta chthoniana".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantA126A=Acero Nocturno Pulido
+tagGDX1EnchantA126Desc="Una especialidad de Malmouth, muy codiciada por los hojas de la noche de Erulan".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantA127A=Polvo Reparador
+tagGDX1EnchantA127Desc="Preparado por los supervivientes de Malmouth para curar rápidamente las heridas en los campos de batalla".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantA128A=Columna de Coloso
+tagGDX1EnchantA128Desc="El coloso etéreo no es nada con lo que se pueda jugar, pero solamente derribar uno de ellos proporciona suficiente material para crear un suministro de varios meses".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantA129A=Pelo de Wendigo
+tagGDX1EnchantA129Desc="Polvo derivado de mechones de pelo de wendigo, regalo del Devastador".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantA130A=Pelo Potente de Wendigo
+tagGDX1EnchantA130Desc="Polvo derivado de mechones de pelo de wendigo, regalo del Devastador".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantA131A=Polvo de Escamasangre
+tagGDX1EnchantA131Desc="Polvo derivado de las escamas de los escamasangre slith a veces vistos vagando por el Pantano de Ugden".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantA132A=Polvo Potente de Escamasangre
+tagGDX1EnchantA132Desc="Polvo derivado de las escamas de los escamasangre slith a veces vistos vagando por el Pantano de Ugden".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantA133A=Polvo del Caparazón con Púas
+tagGDX1EnchantA133Desc="Polvo derivado del duro caparazón con púas del Pantano de Ugden. Se necesitan muchas horas y gran fuerza para aplastar el caparazón en un material tan fino".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantA134A=Polvo Potente del Caparazón con Púas
+tagGDX1EnchantA134Desc="Polvo derivado del duro caparazón con púas del Pantano de Ugden. Se necesitan muchas horas y gran fuerza para aplastar el caparazón en un material tan fino".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantA135A=Polvo Embrujado
+tagGDX1EnchantA135Desc="Polvo dejado atrás por las apariciones fantasmales a veces vistas alrededor del Pantano de Ugden".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantA136A=Polvo Potente Embrujado
+tagGDX1EnchantA136Desc="Polvo dejado atrás por las apariciones fantasmales a veces vistas alrededor del Pantano de Ugden".^w^n(Se aplica a todas las armas a dos manos)
+
+
+tagGDX1EnchantB101A=Ingenio del Aquelarre
+tagGDX1EnchantB101Desc="Un polvo especial encantado elaborado por el aquelarre para dar poder a sus artes oscuras".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantB102A=Ingenio Potente del Aquelarre
+tagGDX1EnchantB102Desc="Un polvo especial encantado elaborado por el aquelarre para dar poder a sus artes oscuras".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantB103A=Astucia del Aquelarre
+tagGDX1EnchantB103Desc="Un polvo especial encantado elaborado por el aquelarre para agudizar sus sentidos".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantB104A=Astucia Potente del Aquelarre
+tagGDX1EnchantB104Desc="Un polvo especial encantado elaborado por el aquelarre para agudizar sus sentidos".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantB105A=Terror del Aquelarre
+tagGDX1EnchantB105Desc="Un veneno especial impregnado por los hechiceros del aquelarre para aplastar las mentes de sus enemigos con visiones aterradoras".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantB106A=Terror Potente del Aquelarre
+tagGDX1EnchantB106Desc="Un veneno especial impregnado por los hechiceros del aquelarre para aplastar las mentes de sus enemigos con visiones aterradoras".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantB107A=Desgracia del Aquelarre
+tagGDX1EnchantB107Desc="Una vil toxina derivada de varias plantas del Pantano de Ugden, combinada con magia del aquelarre para maximizar su eficacia".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantB108A=Desgracia Potente del Aquelarre
+tagGDX1EnchantB108Desc="Una vil toxina derivada de varias plantas del Pantano de Ugden, combinada con magia del aquelarre para maximizar su eficacia".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantB109A=Llama Negra de la Bruja
+tagGDX1EnchantB109Desc="A menudo asociado con rituales realizados por los cultos de los tres dioses brujos, el aquelarre suele usar este vil polvo cuando un ritual lo pide".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantB110A=Grito del Espectro
+tagGDX1EnchantB110Desc="A través de un ritual de vinculación aterrador, un hechicero del aquelarre es capaz de atrapar y desintegrar un espectro del Pantano de Ugden".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantB111A=Polvo de Fragmento de Cielo
+tagGDX1EnchantB111Desc="Creado originalmente por el maestro arcanista Trozan, el aquelarre ha hecho gran uso del potencial arcano de los objetos transmitidos por el cielo".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantB112A=Mordisco de Basilisco
+tagGDX1EnchantB112Desc="Una poderosa toxina extraída de las glándulas venenosas de los basiliscos del Pantano de Ugden".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantB113A=Mirada de Basilisco
+tagGDX1EnchantB113Desc="Una poderosa toxina extraída de los ojos petrificantes de los basiliscos del Pantano de Ugden".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantB114A=Esencia de Sylvarria
+tagGDX1EnchantB114Desc="Las leyendas hablan de una mítica entidad que crece en el Pantano de Ugden cuyas raíces se extienden por todo el pantano. Nombrado así por esa criatura, el encantamiento deriva sus propiedades de muchas plantas de la región".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantB115A=Corazón del Pantano de Ugden
+tagGDX1EnchantB115Desc="Un poderoso encantamiento elaborado a partir de los corazones de piedra de los poderosos golems del Pantano de Ugden".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantB116A=Redención de Malmouth
+tagGDX1EnchantB116Desc="Un poderoso encantamiento elaborado por los supervivientes de Malmouth para defenderse de los etéreos".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantB117A=Redención Potente de Malmouth
+tagGDX1EnchantB117Desc="Un poderoso encantamiento elaborado por los supervivientes de Malmouth para defenderse de los etéreos".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantB118A=Voluntad de Malmouth
+tagGDX1EnchantB118Desc="Un poderoso encantamiento creado por los herreros de Malmouth para fortalecer su movimiento, pero que sirve igualmente bien en batalla".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantB119A=Voluntad Potente de Malmouth
+tagGDX1EnchantB119Desc="Un poderoso encantamiento creado por los herreros de Malmouth para fortalecer su movimiento, pero que sirve igualmente bien en batalla".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantB120A=Alma de Malmouth
+tagGDX1EnchantB120Desc="Un polvo potenciador inculcado con la voluntad de hierro del pueblo".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantB121A=Alma Potente de Malmouth
+tagGDX1EnchantB121Desc="Un polvo potenciador inculcado con la voluntad de hierro del pueblo".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantB122A=Corazón de Malmouth
+tagGDX1EnchantB122Desc="Un polvo sorprendentemente potente creado por la desesperación durante el asalto inicial a Malmouth. Aunque se inspira en el Éter y puede ser la perdición de la humanidad, por ahora sirve a un propósito valioso".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantB123A=Corazón Potente de Malmouth
+tagGDX1EnchantB123Desc="Un polvo sorprendentemente potente creado por la desesperación durante el asalto inicial a Malmouth. Aunque se inspira en el Éter y puede ser la perdición de la humanidad, por ahora sirve a un propósito valioso".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantB124A=Polvo de Corazón Arcano
+tagGDX1EnchantB124Desc="Un polvo inestable que arde tan caliente que incluso puede dañar la armadura, pero su potencia hace que los riesgos valgan la pena para muchos practicantes arcanos.".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantB125A=Polvo de la Caída del Martillo
+tagGDX1EnchantB125Desc="Polvo recogido de los restos de cenizas del acero forjado arcano".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantB126A=Polvo de Flor de Acero
+tagGDX1EnchantB126Desc="Un polvo encantado derivado de la inusual Flor de Acero, una flor que se ha encontrado que tiene grandes cantidades de partículas metálicas en su tallo que extrae de la tierra a través de una estructura de raíces profundas.".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantB127A=Polvo de Tifón
+tagGDX1EnchantB127Desc="El poder de un tifón devastador, atrapado en un polvo mágico".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantB128A=Fuego Forjado
+tagGDX1EnchantB128Desc="Un favorito de los herreros de Malmouth, este polvo se utiliza a menudo en forjas para hacer que las llamas ardan más calientes, pero sirve igualmente bien como un encantamiento".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantB129A=Veneno de Garrafón
+tagGDX1EnchantB129Desc="Un veneno mortal hecho por los hoja de la noche, muchos de los materiales necesarios solo están disponibles en Malmouth".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantB130A=Polvo Arcano
+tagGDX1EnchantB130Desc="Especialmente derivado para el Gildam Arcanum, este encantamiento sirve para potenciar las capacidades arcanas del usuario".^w^n(Se aplica a anillos y amuletos)
+
+tagGDX1EnchantB131A=Cosecha del Devastador
+tagGDX1EnchantB131Desc="Un regalo otorgado por el Devastador a sus adoradores malditos. Infunde un hambre insaciable".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantB132A=Cosecha Potente del Devastador
+tagGDX1EnchantB132Desc="Un regalo otorgado por el Devastador a sus adoradores malditos. Infunde un hambre insaciable".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantB133A=Ojo del Devastador
+tagGDX1EnchantB133Desc="Un regalo otorgado por el Devastador a sus adoradores malditos. Inspira una fidelidad sin igual".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantB134A=Ojo Potente del Devastador
+tagGDX1EnchantB134Desc="Un regalo otorgado por el Devastador a sus adoradores malditos. Inspira una fidelidad sin igual".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantB135A=Furia del Devastador
+tagGDX1EnchantB135Desc="Un regalo otorgado por el Devastador a sus adoradores malditos. Evoca una furia incontrolable".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantB136A=Furia Potente del Devastador
+tagGDX1EnchantB136Desc="Un regalo otorgado por el Devastador a sus adoradores malditos. Evoca una furia incontrolable".^w^n(Se aplica a todas las armas a dos manos)
+
+tagGDX1EnchantB137A=Aliento del Devastador
+tagGDX1EnchantB137Desc="Un regalo otorgado por el Devastador a sus adoradores malditos. Su toque inflige heridas graves y ampollas en la carne.".^w^n(Se aplica a todas las armas de una mano, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1EnchantB138A=Aliento Potente del Devastador
+tagGDX1EnchantB138Desc="Un regalo otorgado por el Devastador a sus adoradores malditos. Su toque inflige heridas graves y ampollas en la carne.".^w^n(Se aplica a todas las armas a dos manos)
+
+
+tagGDX1EnchantC101A=Polvo de Protección del Aquelarre
+tagGDX1EnchantC101Desc="Polvo mágico elaborado por el aquelarre para protegerlos durante los rituales.".^w^n(Se aplica a todas las armaduras)
+tagGDX1EnchantC102A=Ceniza Negra del Aquelarre
+tagGDX1EnchantC102Desc="Cenizas infundidas por el aquelarre con la sangre de los chtonianos".^w^n(Se aplica a todas las armaduras)
+tagGDX1EnchantC103A=Ceniza Sangrienta del Aquelarre
+tagGDX1EnchantC103Desc="Cenizas infundidas por el aquelarre con la sangre de los wendigos".^w^n(Se aplica a todas las armaduras)
+tagGDX1EnchantC104A=Polvo Guardaalmas de Malmouth
+tagGDX1EnchantC104Desc="Polvo mágico elaborado en Malmouth para proteger a los supervivientes de la posesión de los etéreos. Nadie ha sido lo suficientemente audaz como para probar su eficacia".^w^n(Se aplica a todas las armaduras)
+tagGDX1EnchantC105A=Polvo Sellaheridas de Malmouth
+tagGDX1EnchantC105Desc="Polvo mágico que a menudo se usa para cerrar heridas en una emergencia. Un proceso doloroso, pero aún más deseable que desangrarse".^w^n(Se aplica a todas las armaduras)
+tagGDX1EnchantC106A=Polvo Fortificante de Malmouth
+tagGDX1EnchantC106Desc="Polvo mágico utilizado para renovar la fuerza incluso después de horas de agotador combate".^w^n(Se aplica a todas las armaduras)
+tagGDX1EnchantC107A=Polvo con Aroma a Sangre de Wendigo
+tagGDX1EnchantC107Desc="Un regalo del Devastador para reducir la pérdida de sangre y hacer al usuario más difícil de rastrear".^w^n(Se aplica a todas las armaduras)
+tagGDX1EnchantC108A=Polvo con Aroma a Alma de Wendigo
+tagGDX1EnchantC108Desc="Un regalo del Devastador para proteger el alma contra los espectros".^w^n(Se aplica a todas las armaduras)
+tagGDX1EnchantC109A=Polvo con Aroma a Vida de Wendigo
+tagGDX1EnchantC109Desc="Un regalo del Devastador para fortalecer el cuerpo mortal".^w^n(Se aplica a todas las armaduras)
+
+
+
+
+#ItemComponents
+
+tagGDX1CompA101Name=Sello de Poder
+tagGDX1CompA101Desc="El sello, ornamentado por Ulgard el Poderoso, concentró el considerable poder arcano del creador en una fuerza física inigualable".^w^n(Usado en todas las armas, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1CompA102Name=Sello de Cuchillas
+tagGDX1CompA102Desc="El sello, concebido por el legendario hoja de la noche Belgothian, amplificó los ya mortíferos ataques del asesino y estimuló la hemorragia en el objetivo".^w^n(Usado en todas las armas, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1CompA103Name=Sello de los Cielos
+tagGDX1CompA103Desc="El sello, ornamentado primero por el maestro arcano Trozan, llama al poder desde los mismos cielos celestiales".^w^n(Usado en todas las armas, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1CompA104Name=Sello de la Plaga
+tagGDX1CompA104Desc="El sello, infundido con el poder de los Tres, evoca todas las enfermedades que la víctima sufrió en el pasado".^w^n(Usado en todas las armas, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1CompA105Name=Sello de Corrupción
+tagGDX1CompA105Desc="Aunque el creador de este sello yace olvidado de la historia, su habilidad para entrar en el Éter no puede ser sobrestimada".^w^n(Usado en todas las armas, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1CompA106Name=Sello del Vacío
+tagGDX1CompA106Desc="La creación de este sello requirió actos innombrables. Aquellos que lo usan son vistos como hambrientos de poder y corruptos".^w^n(Usado en todas las armas, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1CompA107Name=Sello de la Noche
+tagGDX1CompA107Desc="Diseñado por la hoja de la noche Amarasta en preparación para un objetivo particularmente difícil de alcanzar".^w^n(Usado en todas las armas, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1CompA108Name=Sello de Destrucción
+tagGDX1CompA108Desc="Un sello creado en honor de Ulzuin y los finales abrasadores prometidos a aquellos que desprecian al ser celestial".^w^n(Usado en todas las armas, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1CompA109Name=Sello de Sombras
+tagGDX1CompA109Desc="El favorito de la hoja de la noche Nidalla, el sello infunde un ácido mordaz en las armas".^w^n(Usado en todas las armas, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1CompA110Name=Sello de Resonancia
+tagGDX1CompA110Desc="Elaborado según las especificaciones precisas de los luminari, este sello da poder a las propiedades mágicas de un arma, incluso cuando es utilizado por los que no están versados en lo arcano".^w^n(Usado en todas las armas, escudos y objetos de invocación de mano izquierda)
+
+tagGDX1CompA111Name=Corazón Corrupto
+tagGDX1CompA111Desc="Un corazón latiente todavía palpitando con la corrupción del éter".^w^n(Usado en amuletos y medallas)
+
+tagGDX1CompA112Name=Rubí Ardiente
+tagGDX1CompA112Desc="Una llama brillante baila dentro de las caras de esta gema".^w^n(Usado en amuletos y medallas)
+
+tagGDX1CompA113Name=Topacio de Runa Atada
+tagGDX1CompA113Desc="Una runa ornamenta un lado de esta gema que le confiere propiedades protectoras".^w^n(Usado en anillos, amuletos y medallas)
+
+tagGDX1CompA114Name=Cristal Ensangrentado
+tagGDX1CompA114Desc="El una vez blanco perlado cristal ha absorbido el indescriptible derramamiento de sangre".^w^n(Usado en anillos, amuletos y medallas)
+
+tagGDX1CompA115Name=Tierra Encantada
+tagGDX1CompA115Desc="La tierra fue infundida con esencia vital para estimular el crecimiento y la vida".^w^n(Usado en todas las armaduras)
+
+tagGDX1CompA116Name=Coraza de Hechizos Quemados
+tagGDX1CompA116Desc="Restos de armaduras que sobrevivieron a un ataque mortal arcano; las energías mágicas parecen estar atrapadas dentro del metal".^w^n(Usado en todas las armaduras)
+
+tagGDX1CompA117Name=Coraza Acuchillada
+tagGDX1CompA117Desc="Armadura revestida con filas de cuchillas mortíferas. Favorito entre bandidos y tiranos despiadados".^w^n(Usado en todas las armaduras)
+
+tagGDX1CompA118Name=Piel del Pantano de Ugden
+tagGDX1CompA118Desc="Pieles de las bestias que habitan la región conocida como Pantano de Ugden. Las mortíferas propiedades del pantano crean algunas de las bestias más duras que jamás hayan vagado por Cairn".^w^n(Usado en todas las armaduras)
+
+
+tagGDX1CompB101Name=^kCoraza Sagrada
+tagGDX1CompB101Desc="Revestimiento de una poderosa armadura, supuestamente bendecida por el mismísimo Empyrion".^w^n(Usados en armaduras de hombros, pecho y cabeza)
+
+tagGDX1CompB102Name=^kArmadura Viviente
+tagGDX1CompB102Desc="La placa de armadura ahora es más carne que metal a medida que se retuerce entre tus manos, claramente por la manipulación de los etéreos".^w^n(Usados en armaduras de hombros, pecho y cabeza)
+
+tagGDX1CompB103Name=^kCoraza de Titán
+tagGDX1CompB103Desc="Un recubrimiento increíblemente grueso. El juego completo debe haber pesado más de lo que cualquier hombre normal podría soportar y aún así ser capaz de moverse".^w^n(Usado en armaduras de pecho y cabeza)
+
+tagGDX1CompB104Name=^kEspejo Sobrenatural
+tagGDX1CompB104Desc="La superficie del espejo se mueve con un espectro de colores, mirarlo induce a un dolor de cabeza intenso, como si miraras a otro reino de la realidad".^w^n(Usado en armaduras de pecho y cabeza)
+
+tagGDX1CompB105Name=^kSello de Aniquilación
+tagGDX1CompB105Desc="El sello arcano evoca sentimientos de violencia y carnicería al más mínimo toque Tiene hambre de muerte".^w^n(Usado en amuletos)
+
+tagGDX1CompB106Name=^kSello del Ancestro
+tagGDX1CompB106Desc="El sello arcano evoca los recuerdos de tus ancestros, incluso aquellos que nunca podrías haber conocido en la vida".^w^n(Usado en amuletos)
+
+
+
+#ItemFactionBoosters
+tagGDX1BoosterCU_A01=Decreto del Aquelarre del Pantano de Ugden
+tagGDX1BoosterCU_B01=Autorización del Aquelarre del Pantano de Ugden
+tagGDX1BoosterCW_A01=Decreto de Islote del Túmulo
+tagGDX1BoosterCW_B01=Autorización de Islote del Túmulo
+tagGDX1BoosterPM_A01=Decreto de la Gente de Malmouth
+tagGDX1BoosterPM_B01=Autorización de la Gente de Malmouth
+
+tagGDX1BoosterAetherialVanguard_C01=Edicto de la Vanguardia Etérea
+tagGDX1BoosterWendigo_C01=Edicto de Islote del Túmulo
+tagGDX1BoosterBeast_C01=Bestia "Edicto"
+tagGDX1BoosterBeastDesc=Está claramente "escrito" de forma tosca, pero parece enfadado y estás bastante seguro de que la imagen garabateada es de ti.
+
+#Misc
+
+
+# Bonuses
+
+#Devotion
+
+#Attributes
+tagAttributeReset={^E}Usado para reiniciar tus puntos de atributo
+tagAttributeNoPointsUsed={^r}[No hay puntos de atributo que reiniciar]
+tagAttributeResetConfirmation=¿Reiniciar todos tus puntos de atributo?
+
+#ItemSets
+tagGDX1ItemSetC018CName=Miseria de Alkamos
+
+tagGDX1ItemSetC101Name=Corruptor de Espíritus
+tagGDX1ItemSetC101BName=Corruptor de Almas
+tagGDX1ItemSetC101Desc="Los espíritus se doblan a tu voluntad".
+
+tagGDX1ItemSetC102Name=El Guardián Plateado
+tagGDX1ItemSetC102BName=El Centinela de Plata
+tagGDX1ItemSetC102Desc="Protegidos contra la magia, los guardianes plateados del trono imperial se mantienen aún vigilantes ante las amenazas ocultas".
+
+tagGDX1ItemSetC103Name=Profeta Resplandeciente
+tagGDX1ItemSetC103Desc="Tu corazón es una llama ardiente, insaciable y hambrienta de destrucción".
+
+tagGDX1ItemSetC104Name=El Señor de los Magos
+tagGDX1ItemSetC104Desc="Ropas de gala una vez usadas por Holgus Evellion, miembro estimado de la corte imperial, y arcanista".
+
+tagGDX1ItemSetC105Name=Caminante Terrorífico
+tagGDX1ItemSetC105Desc="La misma presencia de un Caminante Terrorífico hace que la vida cercana caiga enferma de forma inexplicable".
+
+tagGDX1ItemSetC106Name=Ropas de gala luminari
+tagGDX1ItemSetC106Desc="Equipo luminari especial, entregado a los miembros de alto rango para tareas peligrosas".
+
+tagItemSetC009BName=La Mirada Invisible
+tagItemSetC010BName=Deber del Francotirador
+tagItemSetC011BName=Profanador de la Alianza
+tagItemSetC016BName=El Dechado de Panetti
+tagItemSetC017BName=Escudo del Amanecer
+tagItemSetC021BName=El Juramento del Este
+tagItemSetC024BName=Guardián de la Llama
+tagItemSetC025BName=Defensa de Callidor
+tagItemSetC026BName=Bastión de Mirmidón
+tagItemSetC027BName=Paz de Mogdrogen
+tagItemSetC028BName=Tormenta Arcana
+tagItemSetC029BName=Armonía Elemental
+
+
+tagGDX1ItemSetD101Name=Armamento de Krieg
+tagGDX1ItemSetD101Desc="La armadura del viejo Alcaide de Burrwitch está permanentemente deformada por la esencia contaminada del éter".
+
+tagGDX1ItemSetD102Name=Vengador de la Naturaleza
+tagGDX1ItemSetD102Desc="Armadura bendecida por Mogdrogen, para ser usada por sus campeones en defensa del orden natural".
+
+tagGDX1ItemSetD103Name=Pastor de Almas Perdidas
+tagGDX1ItemSetD103Desc="El gran poder está más allá del velo. Aprende a aprovecharlo, y la muerte misma no será más que una distracción. - Uroboruuk"
+
+tagGDX1ItemSetD104Name=Ardor de Octavius
+tagGDX1ItemSetD104Desc="Octavius Gallador fue uno de los cazadores más condecorados del luminari, incluso sirviendo como Director de la Ciudadela hasta su último respiro".
+
+tagGDX1ItemSetD105Name=El Cataclísmo
+tagGDX1ItemSetD105Desc="Por la seguridad de todos, estos artefactos fueron dispersados y escondidos por los luminari, para que alguien no los recogiera una vez más y liberara su poder cataclísmico".
+
+tagGDX1ItemSetD106Name=Guardapiedra
+tagGDX1ItemSetD106Desc="Complementos del Guardapiedra, un firme defensor de la fe de Menhir"
+
+tagGDX1ItemSetD107Name=Fortaleza de la Legión
+tagGDX1ItemSetD107Desc="Artefacto de Palliona Dar, doncella escudera de la Legión Negra".
+
+tagGDX1ItemSetD108Name=Furia de Korba
+tagGDX1ItemSetD108Desc="Armadura de Korba, la indómita hija de Hrothnar que se ganó el apodo de Colmillo del Gran Lobo Blanco".
+
+tagGDX1ItemSetD109Name=Atuendo del Llama Oscura
+tagGDX1ItemSetD109Desc="Complementos marcados por el Dios Brujo Solael, donados a sus siervos durante las amargas guerras entre los Tres".
+
+tagGDX1ItemSetD110Name=El Azotahechizos
+tagGDX1ItemSetD110Desc="El improbable matrimonio entre las proezas marciales y arcanas, ornamentadas en esta armadura de guerra".
+
+tagGDX1ItemSetD111Name=El Matamagos
+tagGDX1ItemSetD111Desc="Armadura de los matamagos, un subgrupo de los luminari entrenados por los hoja de la noche para exterminar hechiceros deshonestos dentro del imperio".
+
+tagGDX1ItemSetD112Name=El Hambre de Valguur
+tagGDX1ItemSetD112Desc="Valguur estaba maldito con una insaciable hambre por la vida de los demás, pero para llegar a serlo fue bendecido por el Devastador, el espíritu wendigo"
+
+tagGDX1ItemSetD113Name=El Atarrunas
+tagGDX1ItemSetD113Desc="La armadura del guardián de Tallios el Atarrunas, el cuidador original de la Bóveda de los luminari".
+
+tagGDX1ItemSetD114Name=Disfraz de Uroboruuk
+tagGDX1ItemSetD114Desc="Vestiduras del inmortal nigromante, Uroboruuk, durante su tiempo en Arkovia; una vez perdido para la historia, pero lleno de potencial escondido".
+
+tagGDX1ItemSetD115Name=Obra Maestra de Allagast
+tagGDX1ItemSetD115Desc="El Maestro Allagast era un aliado cercano de los luminari, habiendo contribuido mucho en el interés de estudiar y desbloquear el potencial de sus artefactos".
+
+tagGDX1ItemSetD116Name=Destrucción de Dagallon
+tagGDX1ItemSetD116Desc="Dagallon era un inquisidor poco ortodoxo cuyos métodos merecieron muchas reprimendas, pero pocos luminari realmente se preocupaban por cómo los herejes eran llevados ante la justicia".
+
+tagGDX1ItemSetD117Name=Guardamuerte
+tagGDX1ItemSetD117Desc="Guardián del valle, guardián de la puerta final".
+
+tagGDX1ItemSetD118Name=Visión del Adivino
+tagGDX1ItemSetD118Desc="Las estrellas guardan muchos secretos, susurrados solo a aquellos que se atreven a escuchar".
+
+tagGDX1ItemSetD119Name=Regalo del Oscuro
+tagGDX1ItemSetD119Desc="Un regalo de Ch'thon a los mortales que abrazan su regreso".
+
+tagGDX1ItemSetD120Name=Masacre de Belgothian
+tagGDX1ItemSetD120Desc="La armadura que una vez usó el infame maestro Hoja de Noche, Belgothian, cuya imprudente carnicería y sed de sangre inquietaba incluso a sus jefes".
+
+tagGDX1ItemSetD121Name=Locura de Radaggan
+tagGDX1ItemSetD121Desc="Armadura de Astor Radaggan, hereje y traidor a los Luminari, convertido en leal servidor del Gran Guardián".
+
+tagGDX1ItemSetD122Name=Lengua Escarcha
+tagGDX1ItemSetD122Desc="Armadura de Lengua Escarcha, escurridizo miembro de la corte del emperador, maestro de la infiltración y el sabotaje político".
+
+tagGDX1ItemSetD123Name=El Caballero de Sangre
+tagGDX1ItemSetD123Desc="La armadura ensangrentada del Señor Nazaran, el Rey de Rojo, antes conocido como el Caballero de Sangre"
+
+
+tagItemSetD001BName=Guardia Justicar
+tagItemSetD002BName=La Sagrada Armonía
+tagItemSetD003BName=Ropa de gala de la llamada de la naturaleza
+tagItemSetD004BName=Luz del Buscador del Amanecer
+tagItemSetD005BName=El Mensaje del Heraldo
+tagItemSetD006BName=Sellos del Adjudicador
+tagItemSetD007BName=Armamento del Matademonios
+tagItemSetD008BName=Destructores del Armero
+tagItemSetD009BName=Vanguardia Corazón Salvaje
+tagItemSetD010BName=El Enfoque del Clarividente
+tagItemSetD011BName=Voluntad del Invocador
+tagItemSetD012BName=Bastión de Markovian
+tagItemSetD013BName=Avatar Infernal de Ulzuin
+tagItemSetD014BName=Decepción de Dreeg
+tagItemSetD015BName=Sombra de Marcamuerte
+tagItemSetD016BName=Unificación de Iskandra
+tagItemSetD017BName=Tormenta de Ultos
+tagItemSetD018BName=Brecha del Cielo de Trozan
+tagItemSetD019BName=Traición de Valdun
+tagItemSetD020BName=El Pacto de la Hoja Vil
+tagItemSetD021BName=Quemadura Negra de la Alianza
+tagItemSetD022BName=Guardián de la Luz
+tagItemSetD023BName=El Campeón Infernal
+tagItemSetD024BName=Rabia de Agrivix
+tagItemSetD025BName=Bastión Batallante
+tagItemSetD026BName=Furia Sin Fin del Sanguinario
+tagItemSetD027BName=Sello Terrorífico de Alkamos
+
+
+#Prefixes
+tagGDX1PrefixAA101=[ms]Iluminado[fs]Iluminada[mp]Iluminados[fp]Iluminadas
+
+tagGDX1PrefixAA022={^Y}del inquisidor
+tagGDX1PrefixAA023={^Y}del nigromante
+
+tagGDX1PrefixAD101=[ms]impenetrable[fs]impenetrable[mp]impenetrables[fp]impenetrables
+
+tagGDX1PrefixAO101=[ms]superior[fs]superior[mp]superiores[fp]superiores
+
+tagGDX1PrefixB101_WpnMelee1h_A={^G}del bebedor de esencia
+tagGDX1PrefixB102_WpnMelee1h_A={^G}de cara de piedra
+tagGDX1PrefixB103_WpnMelee1h_A=[ms]{^G}tallado en runas[fs]{^G}tallada en runas[mp]{^G}tallados en runas[fp]{^G}talladas en runas
+tagGDX1PrefixB104_WpnMelee1h_A={^G}de enlace espectral
+tagGDX1PrefixB105_WpnMelee1h_A={^G}de magotormenta
+
+tagGDX1PrefixB101_Ar_A={^G}de cara de piedra
+tagGDX1PrefixB102_Ar_A=[ms]{^G}tallado en runas[fs]{^G}tallada en runas[mp]{^G}tallados en runas[fp]{^G}talladas en runas
+tagGDX1PrefixB103_Ar_A={^G}de enlace espectral
+tagGDX1PrefixB104_Ar_A={^G}de magotormenta
+
+tagPrefixB022_Class_A={^G}del táctico
+tagPrefixB023_Class_A={^G}del purificador
+tagPrefixB024_Class_A={^G}del embustero
+tagPrefixB025_Class_A={^G}del infiltrador
+tagPrefixB026_Class_A={^G}del cazador de magos
+tagPrefixB027_Class_A={^G}del vindicador
+tagPrefixB028_Class_A={^G}del apóstata
+tagPrefixB029_Class_A={^G}del Caballero de la Muerte
+tagPrefixB030_Class_A={^G}del profanador
+tagPrefixB031_Class_A={^G}del cabalista
+tagPrefixB032_Class_A={^G}del segador
+tagPrefixB033_Class_A={^G}del encantador
+tagPrefixB034_Class_A={^G}del ritualista
+tagPrefixB035_Class_A={^G}del interrogador
+tagPrefixB036_Class_A={^G}del teúrgo
+
+tagGDX1PrefixB101_Sh_A={^G}del bebedor de esencia
+tagGDX1PrefixB102_Sh_A=[ms]{^G}apestado de bilis[fs]{^G}apestada de bilis[mp]{^G}apestados de bilis[fp]{^G}apestadas de bilis
+tagGDX1PrefixB103_Sh_A=[ms]{^G}tallado en runas[fs]{^G}tallada en runas[mp]{^G}tallados en runas[fp]{^G}talladas en runas
+tagGDX1PrefixB104_Sh_A={^G}de magotormenta
+tagGDX1PrefixB105_Sh_A={^G}de enlace espectral
+tagGDX1PrefixB106_Sh_A=[ms]{^G}vigilado por espectros[fs]{^G}vigilada por espectros[mp]{^G}vigilados por espectros[fp]{^G}vigiladas por espectros
+tagGDX1PrefixB107_Sh_A={^G}de cara de piedra
+
+
+#Suffixes
+tagGDX1SuffixA101=de 
+
+tagGDX1SuffixB101_Wpn_A={^G}de Almas Atormentadas
+tagGDX1SuffixB102_Wpn_A={^G}de Protección de Almas
+tagGDX1SuffixB103_Wpn_A={^G}de Runas Chamuscadas
+tagGDX1SuffixB104_Wpn_A={^G}de Almas Atrapadas
+tagGDX1SuffixB105_Wpn_A={^G}de Ira Celestial
+
+tagGDX1SuffixB101_Ar_A={^G}de Almas Atormentadas
+tagGDX1SuffixB102_Ar_A={^G}de Almas Atormentadas
+tagGDX1SuffixB103_Ar_A={^G}de Protección de Almas
+tagGDX1SuffixB104_Ar_A={^G}de Runas Chamuscadas
+tagGDX1SuffixB105_Ar_A={^G}de Almas Atrapadas
+tagGDX1SuffixB106_Ar_A={^G}de Almas Atrapadas
+
+tagGDX1SuffixB101_Sh_A={^G}de Almas Atormentadas
+tagGDX1SuffixB102_Sh_A={^G}de Runas Chamuscadas
+tagGDX1SuffixB103_Sh_A={^G}de Almas Atrapadas
+tagGDX1SuffixB104_Sh_A={^G}de Ira Celestial
+tagGDX1SuffixB105_Sh_A={^G}de Barreras Arcanas
+tagGDX1SuffixB106_Sh_A={^G}de Presencia Imponente
+
+
+#ItemSkills
+
+
+#LootChests
+
+tagGDX1ChestWoodA01=Cofre deteriorado
+tagGDX1ChestAltarD01=Altar del wendigo
+tagGDX1ChestMalmouthC01=Cofre de acero
+tagGDX1ChestMalmouthD01=Cofre adornado
+tagGDX1ChestFleshC01=Cofre carnoso
+tagGDX1ChestFleshD01=Cofre distorsionacarne
+
+tagGDX1ChestSpecial01=Cofre distinguido
+tagGDX1ChestBucket01=Cadáver desafortunado
+
+tagGDX1ChestFleshshaper=El tesoro del maestro
+tagGDX1ChestNemesis03=El tesoro del gladiador
+
+tagGDX1ChestSecret01=Restos escondidos de distorsionacarne
+
+tagGDX1BreakableA01=Tocón podrido
+tagGDX1BreakableA02=Alijo del aquelarre
+tagGDX1Breakable_UgdenbogA01=Seta del pantano de Ugden
+tagGDX1Breakable_WendigoDoor=Jaula de Wendigo
+
+tagGDX1ChestBoss_Kraken=Cofre encharcado
+tagGDX1Chest_Barrowholm=Objetos personales de Scorv
+tagGDX1Chest_DravisClue=Atril viejo
+
+tagGDX1ChestBossOneShot_Fleshshaper=La colección del maestro
+tagGDX1ChestOneShot_Flesh=Alijo de distorsionacarne
+tagGDX1ChestOneShot_GloomwaldHidden=Alijo de Nane
+tagGDX1ChestOneShot_MalmouthHidden=Alijo de Rictor
+
+tagGDX1Chest_MadRamblingsReward=Regalo de Ivonda
+tagGDX1Chest_MadRamblingsLoot=Alijo de Ivonda
+tagGDX1Chest_MadRamblingsNote=Cofre de Ivonda
+
+tagGDX1Chest_KatrineCorpse=Restos de Katrine
+tagGDX1Chest_RenochCorpse=Restos de Renoch
+tagGDX1Chest_UnknownCorpse=Cadáver putrefacto
+
+tagGDX1ChestGauntletChestD01=Relicario perdido
+
+
+#Interactive Objects
+
+tagGDX1DoorWendigoLocked= {^R} ~ Cerrada por Scorv Egdenor
+tagGDX1DoorPuppetmasterLocked= {^R} ~ Cerrada por los Etéreos
+tagGDX1DoorSlumsLocked= {^R} ~ Cerrada por la Resistencia
+tagGDX1DoorDocksLocked= {^R} ~ Cerrada por los Etéreos
+tagGDX1DoorEnclaveLocked= {^R} ~ Cerrada por los Etéreos
+
+tagGDX1LeverFleshFactory=Cristal de éter
+tagGDX1AetherialRift=Grieta etérea
+
+
+#Quest Items
+
+
+#Breakables
+tagGDX1Quest_CorpseWagon_01=Carro de cadáveres etéreos
+tagGDX1Quest_FactoryVent=Conducto recubierto de carne
+tagGDX1Quest_ObsidianCrystal=Obsidiana rúnica
+
+#Dungeon Doors
+tagGDX1UGDoorFactoryEntrance=Entrada recubierta de carne
+tagGDX1UGDoorSlums=Distrito de las Velas
+tagGDX1UGDoorIndust=Distrito del Acero
+tagGDX1UGDoorHideout=Refugio de la Resistencia
+tagGDX1UGDoorFactoryGeneric=Puerta recubierta de carne
+tagGDX1UGDoorFactoryHeart=El Corazón
+tagGDX1UGDoorSewerGeneric=Tubería del alcantarillado
+tagGDX1RiftVoidExit=Salida del Vacío
+tagGDX1WendioDoor=Entrada al sótano
+tagGDX1WitchDoor=Entrada a la morada
+tagGDX1FleshFactoryDoor=Entrada carnosa
+tagGDX1DoorMapleStump01=Entrada cavada
+tagGDX1DoorOvergrownCave=Entrada a la cueva desbordada
+tagGDX1DoorLighthouse=Entrada al faro
+tagGDX1CarraxusDoor=Guarida de Carraxus
+
+tagGDX1DoorOneWayAncientGrove=Escapa de la Arboleda
+tagGDX1EpicDoor_AncientGrove=Puerta de la Arboleda Antigua
+tagGDX1EpicDoor_AncientGroveLocked= {^R} ~ Sellada por Mogdrogen (Requiere una Llave Esqueleto)
+
+#Doors
+tagGDX1Door_Vine=Cepas
+tagGDX1Door_Flesh=Puerta de carne viva
+tagGDX1Door_Puppetmaster=Puerta de carne viva
+
+
+#DLC
+tagGDX1DLCIllusionA01=Ilusión: Armadura del caballero negro
+tagGDX1DLCA01=[fs]Armadura del caballero negro
+tagGDX1DLCA01Desc="La siniestra armadura del caballero negro".
+
+tagGDX1DLCIllusionA02=Ilusión: Armadura del caballero de plata
+tagGDX1DLCA02=[fs]Armadura del caballero de plata
+tagGDX1DLCA02Desc="La sagrada armadura del caballero de plata".
+
+tagGDX1DLCIllusionA03=Ilusión: Colección del general dragón
+tagGDX1DLCA03=[fs]Colección del general dragón
+tagGDX1DLCA03Desc="La venerable colección del general".
+
+tagGDX1DLCIllusionA04=Ilusión: Mago blanco
+tagGDX1DLCA04=Atuendo del mago blanco
+tagGDX1DLCA04Desc="El enigmático atuendo del mago blanco".
+
+tagGDX1DLCIllusionA05=Ilusión: Mago oscuro
+tagGDX1DLCA05=Atuendo de mago oscuro
+tagGDX1DLCA05Desc="El vil atuendo del mago oscuro".
+
+tagGDX1DLCIllusionA06=Ilusión: Armadura del Gran Lobo
+tagGDX1DLCA06=[fs]Armadura del Gran Lobo
+tagGDX1DLCA06Desc="La salvaje armadura del gran lobo".
+
+tagGDX1DLCIllusionB01=Ilusión: Armadura divina de Mogdrogen
+tagGDX1DLCB01=Armadura divina de Mogdrogen
+tagGDX1DLCB01Desc=La armadura de Mogdrogen, el dios bestia.
+
+tagGDX1DLCIllusionB02=Ilusión: Atuendo divino de Rattosh
+tagGDX1DLCB02=Atuendo divino de Rattosh
+tagGDX1DLCB02Desc=La indumentaria de Rattosh, el guardián del velo.
+
+tagGDX1DLCIllusionB03=Ilusión: Armadura divina de Empyrion
+tagGDX1DLCB03=Armadura divina de Empyrion
+tagGDX1DLCB03Desc=La armadura de Empyrion, el dios más grande de todos.
+
+tagGDX1DLCIllusionB04=Ilusión: Instrumentos divinos de Ch'thon
+tagGDX1DLCB04=Instrumentos divinos de Ch'thon
+tagGDX1DLCB04Desc=Las cadenas rotas de Ch'thon, el dios muerto.
+
+tagGDX1DLCIllusionB05=Ilusión: Vestimenta del Círculo de los Cinco
+tagGDX1DLCB05=Vestimenta del Círculo de los Cinco
+tagGDX1DLCB05Desc=La vestimenta del Círculo de los Cinco, gobernantes de los Etéreos.
+
+tagGDX1DLCIllusionHelmInvisible=Yelmo invisible
+tagGDX1DLCIllusionHelmInvisibleDesc="100% de la protección con 0% del peso. Ahora también libre de lactosa".
+
+tagGDX1DLCIllusionShouldersInvisible=Guardahombros invisible
+tagGDX1DLCIllusionShouldersInvisibleDesc="100% de la protección con 0% del peso. Ahora también libre de lactosa".
+
+tagGDX1DLCIllusionMedalInvisible=[fs]Medalla invisible
+tagGDX1DLCIllusionMedalInvisibleDesc="100% de reconocimiento sin ningún pin. Ahora también libre de lactosa".
+
+
+
