@@ -1922,7 +1922,7 @@ tagGDX1DLCB04Desc="Разорванные цепи мёртвого бога Х'
 
 tagGDX1DLCIllusionB05=Иллюзия: одеяние Круга Пяти
 tagGDX1DLCB05=Одеяние Круга Пяти
-tagGDX1DLCB05Desc="Одеяние эфирных владык — Совета Пяти".
+tagGDX1DLCB05Desc="Одеяние эфирных владык - Совета Пяти".
 
 tagGDX1DLCIllusionHelmInvisible=Невидимый шлем
 tagGDX1DLCIllusionHelmInvisibleDesc="100% защиты при 0% веса. А теперь и без лактозы"

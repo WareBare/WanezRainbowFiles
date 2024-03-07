@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Regola le opzioni per il bottino da mostrare. Il comando Mostra/Nascondi Oggetti può essere utilizzato per nascondere tutto il bottino durante un combattimento e quindi visualizzarlo nuovamente una volta terminato.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.9{^n}for Grim Dawn: v1.2.0.4{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Regola le opzioni per il bottino da mostrare. Il comando Mostra/Nascondi Oggetti può essere utilizzato per nascondere tutto il bottino durante un combattimento e quindi visualizzarlo nuovamente una volta terminato.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.0.5{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Difficoltà Normale

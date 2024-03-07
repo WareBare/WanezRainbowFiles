@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Stelle die Optionen für die Beute ein, die angezeigt werden soll. Gegenstände anzeigen/ausblenden kann verwendet werden, um alle fallengelassenen Gegenstände während eines heftigen Kampfes auszublenden und sie danach wieder anzuzeigen. {^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.9{^n}for Grim Dawn: v1.2.0.4{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Stelle die Optionen für die Beute ein, die angezeigt werden soll. Gegenstände anzeigen/ausblenden kann verwendet werden, um alle fallengelassenen Gegenstände während eines heftigen Kampfes auszublenden und sie danach wieder anzuzeigen. {^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.0.5{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 ﻿#General=
 
 tagGameDifficultySetting01=Schwierigkeit Normal

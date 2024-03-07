@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=どのような戦利品を表示するかの オプションを 調整する。 アイテムの 表示/非表示を 切り替えると､ 乱闘の間は 全ドロップ品を 非表示にして､ 終了後に再び 表示させる ことができる。{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.9{^n}for Grim Dawn: v1.2.0.4{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=どのような戦利品を表示するかの オプションを 調整する。 アイテムの 表示/非表示を 切り替えると､ 乱闘の間は 全ドロップ品を 非表示にして､ 終了後に再び 表示させる ことができる。{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.0.5{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=難易度ノーマル

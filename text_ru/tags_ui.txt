@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Настройка параметров отображаемой добычи. Переключатель "Показать/Скрыть предметы" используется, чтобы скрыть всю добычу во время серьёзного боя, и снова отобразить их, после его завершения.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.9{^n}for Grim Dawn: v1.2.0.4{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Настройка параметров отображаемой добычи. Переключатель "Показать/Скрыть предметы" используется, чтобы скрыть всю добычу во время серьёзного боя, и снова отобразить их, после его завершения.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.0.5{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Обычная

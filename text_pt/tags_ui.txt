@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Ajustar as opções para quais itens devem ser mostrados. A alternância de Mostrar/Ocultar Itens pode ser usada para ocultar todas as dropagens durante um encontro movimentado e exibi-las novamente quando terminar.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.9{^n}for Grim Dawn: v1.2.0.4{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Ajustar as opções para quais itens devem ser mostrados. A alternância de Mostrar/Ocultar Itens pode ser usada para ocultar todas as dropagens durante um encontro movimentado e exibi-las novamente quando terminar.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.0.5{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Dificuldade Normal
