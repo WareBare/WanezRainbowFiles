@@ -3672,6 +3672,8 @@ tagPotionConstitutionB01Desc=Lingering vital energy that can be absorbed to rest
 tagPotionDirections=[Right-Click to Consume]
 tagCombineStacks=[Ctrl-Click to Split Stacks]
 tagHideTooltip=[Hold Ctrl to Hide Tooltip]
+tagShowDetails=^O[Hold Ctrl to Show Details]
+tagShowDetailsGamepad=^O[Hold Left Trigger to Show Details]
 
 # Bonuses
 tagBonusLifePercentAbsPercent={^E}Restores {^H}{%.0f0}%+{%.0f1} {^E}Health {^H}+{%.0f2}% {^E}Over Time

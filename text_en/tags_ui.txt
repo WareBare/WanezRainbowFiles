@@ -875,8 +875,8 @@ tagStatsResistance07=Vitality
 tagStatsResistance07Desc=Resistance to vitality-draining incantations that deal Vitality or Vitality-Decay damage.
 tagStatsResistance08=Aether
 tagStatsResistance08Desc=Resistance to Aether-bound attacks and sorcery that deal Aether damage.
-tagStatsResistance09=Stun
-tagStatsResistance09Desc=Reduces the duration of stun attacks and spells, which leave you unable to react.
+tagStatsResistance09=Physical
+tagStatsResistance09Desc=Resistance to spells and attacks which cause physical harm and internal trauma.
 tagStatsResistance10=Chaos
 tagStatsResistance10Desc=Resistance to Chaos damage dealt by the unstable energies of the universe itself, often used by Chthonian beings.
 tagStatsResistance11=Knockdown
@@ -1292,8 +1292,8 @@ tagCharStatsDodgeChanceInfo=The percent chance of evading a melee attack, negati
 tagCharStatsProjDeflectChance=Deflect Chance
 tagCharStatsProjDeflectChanceInfo=The percent chance of deflecting a ranged attack, negating the damage completely.
 
-tagCharStatsPhysicalResist=Physical Resist
-tagCharStatsPhysicalResistInfo=Resistance to spells and attacks which cause physical harm and internal trauma.
+tagCharStatsStunResist=Stun Resist
+tagCharStatsStunResistInfo=Reduces the duration of stun attacks and spells, which leave you unable to react.
 
 tagCharStatsDisruptionResist=Disruption Resist
 tagCharStatsDisruptionResistInfo=Resistance to spells and attacks which interrupt your ability to cast skills.
