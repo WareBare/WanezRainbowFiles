@@ -763,9 +763,9 @@ tagLootFilter08=Always Show Uniques
 tagLootFilter08Info=Toggle this checkbox to always show Unique items (Epic and Legendary Quality) regardless of your Filter Settings.{^N}{^N}Use this setting when you wish to search for particular Magic, Rare or Monster Infrequent items but still wish to collect every Unique that drops.
 
 tagLootFilter09=1h Melee
-tagLootFilter09Info=Show/Hide One-handed Axes, Maces and Swords.
+tagLootFilter09Info=Show/Hide One-handed Axes, Maces, Spears and Swords.
 tagLootFilter10=2h Melee
-tagLootFilter10Info=Show/Hide Two-handed Axes, Maces and Swords.
+tagLootFilter10Info=Show/Hide Two-handed Axes, Maces, Spears and Swords.
 tagLootFilter11=1h Ranged
 tagLootFilter11Info=Show/Hide One-handed Guns.
 tagLootFilter12=2h Ranged
