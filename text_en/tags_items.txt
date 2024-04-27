@@ -642,7 +642,7 @@ tagShieldC018=(S) {^B}Myrmidon's Guard
 tagShieldD001={^I}Meat Shield
 tagShieldD001Desc="Necromantic shield molded from the chest cavity of an unfortunate peasant."
 tagShieldD002={^I}The Final Stop
-tagShieldD002Desc="Forged by railyard workers during a desparate battle against the rising Chthonian forces."
+tagShieldD002Desc="Forged by railyard workers during a desperate battle against the rising Chthonian forces."
 tagShieldD003={^I}The Untouchable
 tagShieldD004={^I}Will of the Living
 tagShieldD004Desc="Formerly the Emperor's Crest, this shield has passed through Aetherfire to become a paragon of mankind."
@@ -1336,7 +1336,7 @@ tagWaistB009={^L}Chains of Brandis
 
 tagWaistC001={^B}Oldenar's Stabilizer
 tagWaistC002={^B}Frizzick's Utility Pack
-tagWaistC002Desc="Worked wonders for Frizzick until it ran out of zombie repellant."
+tagWaistC002Desc="Worked wonders for Frizzick until it ran out of zombie repellent."
 tagWaistC003={^B}Alchemist's Belt
 tagWaistC004=(S) {^B}Marauder's Ammo Belt
 tagWaistC005={^B}Warchief's Glory
@@ -1512,7 +1512,7 @@ tagLegsD011={^I}Chausses of Barbaros
 tagLegsD011Desc="Barbaros was a legendary fighter in the ranks of the Black Legion who met his end on the field of battle, surrounded by dozens of mangled corpses of both men and horses."
 tagLegsD012={^I}Stormcage Legguards
 tagLegsD013={^I}Pretty Great Pants
-tagLegsD013Desc="Actually, they're just ok."
+tagLegsD013Desc="Actually, they're just Ok."
 tagLegsD014={^I}Wildshorn Legguards
 
 
@@ -1807,7 +1807,7 @@ tagNecklaceD026=(S) {^I}Bloodrager's Gem
 tagNecklaceF001={^B}Rhowari Guardstone
 tagNecklaceF002={^B}Rhowari Rancor
 tagNecklaceF003={^B}Rhowari Lifecaller
-tagNecklaceF004={^B}Solar Channelling Stone
+tagNecklaceF004={^B}Solar Channeling Stone
 tagNecklaceF005={^B}Harvester Stone
 tagNecklaceF006={^B}Thundering Gem
 tagNecklaceF007={^B}Grasp of the Reaper
@@ -3323,7 +3323,7 @@ tagCompA005Name=Runestone
 tagCompA005Desc="A mysterious rune decorates this stone."^w^n(Used in head armor)
 
 tagCompA006Name=Mutagenic Ichor
-tagCompA006Desc="Discharge from the creatures of Cairn infected with otherwordly energies."^w^n(Used in all weapons, shields and caster off-hands)
+tagCompA006Desc="Discharge from the creatures of Cairn infected with otherworldly energies."^w^n(Used in all weapons, shields and caster off-hands)
 
 tagCompA007Name=Rotten Heart
 tagCompA007Desc="A long silenced heart shriveled with necromantic power."^w^n(Used in chest armor)
@@ -3783,7 +3783,7 @@ tagItemSetC022NameB=Wildcaller's Call
 tagItemSetC022Desc="Adornments of the Wildcallers, shamans attuned to the voices of nature."
 
 tagItemSetC023Name=The Praetorian
-tagItemSetC023Desc="Armor worn by war-hardened veterans, as acknowledgement for their undaunted dedication on the fields of battle."
+tagItemSetC023Desc="Armor worn by war-hardened veterans, as acknowledgment for their undaunted dedication on the fields of battle."
 
 tagItemSetC024Name=Keeper of the Flame
 tagItemSetC024Desc="A fiery heart, imbued with a spirit of the flame."
