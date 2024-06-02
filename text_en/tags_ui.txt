@@ -604,6 +604,8 @@ tagFactionStateTrusted=Trusted
 tagFactionStateHonored=Honored
 tagFactionStateRevered=Revered
 
+tagFactionNemesisSpawned=A nemesis approaches!
+
 #Faction Window
 
 tagFactionUpdated=Reputation Updated
