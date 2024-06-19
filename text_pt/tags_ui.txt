@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Ajustar as opções para quais itens devem ser mostrados. A alternância de Mostrar/Ocultar Itens pode ser usada para ocultar todas as dropagens durante um encontro movimentado e exibi-las novamente quando terminar.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.0.5{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Ajustar as opções para quais itens devem ser mostrados. A alternância de Mostrar/Ocultar Itens pode ser usada para ocultar todas as dropagens durante um encontro movimentado e exibi-las novamente quando terminar.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Dificuldade Normal
@@ -506,9 +506,9 @@ tagLootFilter08=Sempre Mostrar Únicos
 tagLootFilter08Info=Assinale esta opção para sempre mostrar itens Únicos (Qualidades Épica e Lendária), independentemente de suas Configurações de Filtro.{^N}{^N}Use esta configuração quando desejar procurar itens Mágicos, Raros ou Infrequentes de Monstros específicos, mas ainda desejar coletar todos os Únicos que dropam.
 
 tagLootFilter09=Corpo a Corpo de 1 Mão
-tagLootFilter09Info=Mostrar/Ocultar Machados, Maças e Espadas de Uma Mão.
+tagLootFilter09Info=Mostrar/Ocultar Machados, Maças, Lanças e Espadas de Uma Mão.
 tagLootFilter10=Corpo a Corpo de 2 Mãos
-tagLootFilter10Info=Mostrar/Ocultar Machados, Maças e Espadas de Duas Mãos.
+tagLootFilter10Info=Mostrar/Ocultar Machados, Maças, Lanças e Espadas de Duas Mãos.
 tagLootFilter11=Longo Alcance de 1 Mão
 tagLootFilter11Info=Mostrar/Ocultar Armas de Fogo de Uma Mão.
 tagLootFilter12=Longo Alcance de 2 Mãos
@@ -614,8 +614,8 @@ tagStatsResistance07=Vitalidade
 tagStatsResistance07Desc=Resistência a encantamentos drenadores de vitalidade que causam danos à Vitalidade ou por Queda de Vitalidade.
 tagStatsResistance08=Éter
 tagStatsResistance08Desc=Resistência a ataques e feitiços vinculados ao Éter que causam danos por Éter.
-tagStatsResistance09=Atordoamento
-tagStatsResistance09Desc=Reduz a duração de ataques e feitiços atordoantes, os quais deixam você incapaz de reagir.
+tagStatsResistance09=Físico
+tagStatsResistance09Desc=Resistência a feitiços e ataques que causam danos físicos e trauma interno.
 tagStatsResistance10=Caos
 tagStatsResistance10Desc=Resistência a danos por Caos causados pelas energias instáveis do próprio universo, muitas vezes usadas pelos seres Ctônicos.
 tagStatsResistance11=Derrubada
@@ -1010,9 +1010,6 @@ tagCharStatsDodgeChanceInfo=A chance percentual de esquivar-se de um ataque corp
 tagCharStatsProjDeflectChance=Chance de Deflexão
 tagCharStatsProjDeflectChanceInfo=A chance percentual de defletir um ataque a distância, anulando completamente o dano.
 
-tagCharStatsPhysicalResist=Físico
-tagCharStatsPhysicalResistInfo=Resistência a feitiços e ataques que causam danos físicos e trauma interno.
-
 tagCharStatsDisruptionResist=Interrupção
 tagCharStatsDisruptionResistInfo=Resistência a feitiços e ataques que interrompem sua capacidade de usar habilidades.
 
@@ -1036,6 +1033,9 @@ tagCharStatsSleepResistInfo=Resistência a feitiços que colocam você em um est
 
 tagCharStatsSlowResist=Desaceleração
 tagCharStatsSlowResistInfo=Resistência a efeitos que reduzem sua capacidade de atacar, lançar feitiços e correr.
+
+tagCharStatsStunResist=Atordoamento
+tagCharStatsStunResistInfo=Reduz a duração de ataques e feitiços atordoantes, os quais deixam você incapaz de reagir.
 
 #Retaliation
 tagCharStatsDamageReflect=Dano Refletido
@@ -2382,8 +2382,6 @@ tagChatCommandShort06=u
 # patch v1.2
 tagExclusiveSkillConflict=^rVocê já possui uma Habilidade exclusiva mais poderosa ativa, {%s0}.
 tagAutoToggledSkill=^oAs vantagens são ativadas automaticamente.
-CooldownCharges={%d0} {^E}Máx. de Conjurações
-CooldownChargesMod=+{%d0} {^E}Máx. de Conjurações
 PotionCooldownCharges={%d0} {^E}Máx. de Usos
 PotionCooldownChargesMod=+{%d0} {^E}Máx de Usos
 tagCharRunSpeedMaxModifier={%+.0f0}% {^E}de Velocidade de Movimento Máx.
@@ -2419,3 +2417,14 @@ tagHUDHealthPercent_Head={%d0}%
 tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
 
 tagCharStatsReflectResistInfo=Resistência a efeitos refletidores que te causam dano.
+
+#patch v1.2.1
+CooldownCharges={%d0} {^E}Cargas
+CooldownChargesMod=+{%d0} {^E}Cargas
+SkillChanceWeightMod=+{%d0}% de {^E}Chance de ser Usada
+tagBonusLifeAbsBuff={^E}Restaura {^H}{%.0f0} de {^E}Saúde por segundo
+tagBonusLifePercentBuff={^E}Restaura {^H}{%.0f0}% de {^E}Saúde por segundo
+tagFactionNemesisSpawned=Um nêmesis se aproxima!
+tagHUDDesc22=Mostrar/Ocultar destaques adicionais para itens coletados recentemente no inventário.
+tagHUDOption22=Destaque de Item Novo
+

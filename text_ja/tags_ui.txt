@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=どのような戦利品を表示するかの オプションを 調整する。 アイテムの 表示/非表示を 切り替えると､ 乱闘の間は 全ドロップ品を 非表示にして､ 終了後に再び 表示させる ことができる。{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.0.5{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=どのような戦利品を表示するかの オプションを 調整する。 アイテムの 表示/非表示を 切り替えると､ 乱闘の間は 全ドロップ品を 非表示にして､ 終了後に再び 表示させる ことができる。{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=難易度ノーマル
@@ -506,9 +506,9 @@ tagLootFilter08=常にユニークを表示
 tagLootFilter08Info=チェックボックスをオン にする と､ フィルタの 設定に 関係なく 常に ユニーク品 (エピックと レジェンダリ) が表示 される。{^N}{^N}特定のマジック､ レア､ MI アイテムを探したいが､ なお ドロップしたユニーク 品を 全部収集したい場合 は､ この設定を使用 すること。
 
 tagLootFilter09=近接片手
-tagLootFilter09Info=片手持ちの斧､ メイス､ 剣を､ 表示 非表示にする。
+tagLootFilter09Info=片手持ちの斧､ メイス､ 剣を､ 槍, 表示/非表示にする。
 tagLootFilter10=近接両手
-tagLootFilter10Info=両手持ちの斧､ メイス､ 剣を､ 表示 非表示にする。
+tagLootFilter10Info=両手持ちの斧､ メイス､ 剣を､ 槍, 表示/非表示にする。
 tagLootFilter11=遠隔片手
 tagLootFilter11Info=片手持ちの銃を､ 表示 非表示にする。
 tagLootFilter12=遠隔両手
@@ -614,8 +614,8 @@ tagStatsResistance07=生命力
 tagStatsResistance07Desc=生命力ないし生命力減衰ダメージを与える 生命力流出の呪文に対する耐性。
 tagStatsResistance08=イーサー
 tagStatsResistance08Desc=イーサー ダメージを与える イーサーと結合した 攻撃と魔術に対する耐性。
-tagStatsResistance09=気絶
-tagStatsResistance09Desc=攻撃や呪文による 反撃不能な気絶時間を減少。
+tagStatsResistance09=物理的
+tagStatsResistance09Desc=物理的損傷と体内損傷を起こす 呪文と攻撃に 対する耐性。
 tagStatsResistance10=カオス
 tagStatsResistance10Desc=しばしばクトーニアンが用いる､ 宇宙それ自体の 不安定なエナジー によって与えられる カオス ダメージに対する耐性。
 tagStatsResistance11=ノックダウン
@@ -1010,9 +1010,6 @@ tagCharStatsDodgeChanceInfo=近接攻撃をかわす確率､ 完全に ダメ�
 tagCharStatsProjDeflectChance=逸らし率
 tagCharStatsProjDeflectChanceInfo=遠隔攻撃を逸らす確率､ 完全に ダメージが 否定される
 
-tagCharStatsPhysicalResist=物理耐性
-tagCharStatsPhysicalResistInfo=物理的損傷と体内損傷を起こす 呪文と攻撃に 対する耐性。
-
 tagCharStatsDisruptionResist=妨害耐性
 tagCharStatsDisruptionResistInfo=プレイヤーのスキル使用を 妨害する 呪文や攻撃に 対する耐性。
 
@@ -1036,6 +1033,9 @@ tagCharStatsSleepResistInfo=熟睡のような状態に置き､ 打撃 され�
 
 tagCharStatsSlowResist=減速耐性
 tagCharStatsSlowResistInfo=攻撃､ 呪文詠唱､ 走行の 速度を 遅くする 効果に 対する耐性。
+
+tagCharStatsStunResist=気絶耐性
+tagCharStatsStunResistInfo=攻撃や呪文による 反撃不能な気絶時間を減少。
 
 #Retaliation
 tagCharStatsDamageReflect=ダメージ反射
@@ -2503,8 +2503,6 @@ tagGI_CloudSavingWarning=警告: クラウドセーブが有効になってい�
 #patch v1.2
 tagExclusiveSkillConflict=^rあなたは既に、より強力な限定スキルをアクティブにしています、{%s0}。
 tagAutoToggledSkill=^oバフは自動的にアクティベートされます。
-CooldownCharges={%d0} {^E}最大キャスト数
-CooldownChargesMod=+{%d0} {^E}最大キャスト数
 PotionCooldownCharges={%d0} {^E}最大使用回数
 PotionCooldownChargesMod=+{%d0} {^E}最大使用回数
 tagCharRunSpeedMaxModifier={%+.0f0}% {^E}最大移動速度
@@ -2539,4 +2537,14 @@ tagCharStatsReflectResist=反射耐性
 tagCharStatsReflectResistInfo=自分にダメージを与える反射効果への耐性。
 tagHUDHealthPercent_Head={%d0}%
 tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
+
+#patch v1.2.1
+CooldownCharges={%d0} {^E}チャージ
+CooldownChargesMod=+{%d0} {^E}チャージ
+SkillChanceWeightMod=+{%d0}% {^E}発動率
+tagBonusLifeAbsBuff={^E}ヘルス回復 {^H}{%.0f0} {^E} / 秒
+tagBonusLifePercentBuff={^E}ヘルス回復 {^H}{%.0f0}% {^E}/ 秒
+tagFactionNemesisSpawned=ネメシス接近！
+tagHUDDesc22=インベントリ内で最近手に入れたアイテムにハイライト表示を追加するかを切り替えます。
+tagHUDOption22=新アイテムハイライト
 

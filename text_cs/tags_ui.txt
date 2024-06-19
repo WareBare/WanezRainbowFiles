@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Přizpůsobí předměty na zemi dle parametrů. Přepínačem Zobrazit/skrýt předměty lze skrýt všechno například během boje a poté si je znovu zobrazit.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.0.5{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Přizpůsobí předměty na zemi dle parametrů. Přepínačem Zobrazit/skrýt předměty lze skrýt všechno například během boje a poté si je znovu zobrazit.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Normální obtížnost
@@ -506,9 +506,9 @@ tagLootFilter08=Jedinečné předměty
 tagLootFilter08Info=Zaškrtnutím se ti budou zobrazovat všechny jedinečné předměty (epické a legendární kvality) bez ohledu na zvolených filtrech.{^N}{^N}Použij tento filtr, pokud chceš hledat pouze magické, vzácné nebo osobní předměty, ale vždy chceš vidět každý vypadlý jedinečný předmět.
 
 tagLootFilter09=Jednoruční chladné/tupé
-tagLootFilter09Info=Zobrazí/skryje jednoruční sekyry, palcáty a meče.
+tagLootFilter09Info=Zobrazí/skryje jednoruční sekyry, palcáty, kopí a meče.
 tagLootFilter10=Obouručné chladné/tupé
-tagLootFilter10Info=Zobrazí/skryje obouruční sekyry, palcáty a meče.
+tagLootFilter10Info=Zobrazí/skryje obouruční sekyry, palcáty, kopí a meče.
 tagLootFilter11=Jednoručné střelné
 tagLootFilter11Info=Zobrazí/skryje jednoruční pušky.
 tagLootFilter12=Obouruční střelné
@@ -614,8 +614,8 @@ tagStatsResistance07=Životní energie
 tagStatsResistance07Desc=Odolnost vůči zaklínadlům způsobující ztrátu životní energie, tedy chřadnutí a sání životní energie.
 tagStatsResistance08=Aether
 tagStatsResistance08Desc=Odolnost vůči ovládnutí mysli Aetherem a vůči čarodějnictví spojené s Aetherem.
-tagStatsResistance09=Omráčení
-tagStatsResistance09Desc=Snižuje dobu trvání omračujících útoků a kouzel, po kterou nemůžeš reagovat na ostatní podněty.
+tagStatsResistance09=Fyzická odolnost
+tagStatsResistance09Desc=Odolnost vůči kouzlům a útokům způsobujícím fyzickou újmu a vnitřní krvácení.
 tagStatsResistance10=Chaos
 tagStatsResistance10Desc=Odolnost vůči zranění Chaosem, způsobeným nestabilními energiemi samotného Vesmíru, které obvykle používají chthonské bytosti.
 tagStatsResistance11=Sražení
@@ -1021,9 +1021,6 @@ tagCharStatsDodgeChanceInfo=Procentuální šance na vyhnutí se útoku zblízka
 tagCharStatsProjDeflectChance=Šance na odražení
 tagCharStatsProjDeflectChanceInfo=Procentuální šance na odražení střeleckého útoku a úplnému vyhnutí se zranění.
 
-tagCharStatsPhysicalResist=Fyzická odolnost
-tagCharStatsPhysicalResistInfo=Odolnost vůči kouzlům a útokům způsobujícím fyzickou újmu a vnitřní krvácení.
-
 tagCharStatsDisruptionResist=Odolnost vůči ochromení
 tagCharStatsDisruptionResistInfo=Odolnost vůči kouzlům a útokům, které mohou zrušit tvou schopnost použit dovednost.
 
@@ -1047,6 +1044,9 @@ tagCharStatsSleepResistInfo=Odolnost vůči kouzlům, které tě přivedou do st
 
 tagCharStatsSlowResist=Odolnost vůči zpomalení
 tagCharStatsSlowResistInfo=Odolnost vůči efektům, které snižují tvou schopnost útočit, sesílat kouzla a běhat.
+
+tagCharStatsStunResist=Omráčení
+tagCharStatsStunResistInfo=Snižuje dobu trvání omračujících útoků a kouzel, po kterou nemůžeš reagovat na ostatní podněty.
 
 #Retaliation
 tagCharStatsDamageReflect=Odražení zranění
@@ -1763,8 +1763,8 @@ ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} {^E}střepin
 ProjectileFragmentsLaunchNumber={%d0} {^E}střepin
 ProjectilePiercingChance={%.1f0}% {^E}šance na probodnutí skrz nepřítele
 ProjectilePiercingChanceMod=+{%.1f0}% {^E}šance na probodnutí skrz nepřítele
-CooldownCharges={%d0} {^E}Max. seslaná kouzla
-CooldownChargesMod=+{%d0} {^E}Max. seslaná kouzla
+CooldownCharges={%d0} {^E}nabití
+CooldownChargesMod=+{%d0} {^E}nabití
 PotionCooldownCharges={%d0} {^E}Max. použití
 PotionCooldownChargesMod=+{%d0} {^E}Max. použití
 
@@ -2420,3 +2420,12 @@ tagCharStatsReflectResist=Odolnost vůči odražení
 tagHUDHealthPercent_Head={%d0}%
 tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
 tagCharStatsReflectResistInfo=Odolnost vůči odraženým efektům, které tě poškozují.
+
+#patch v1.2.1
+SkillChanceWeightMod=+{%d0}% {^E}šance na použití
+tagBonusLifeAbsBuff={^E}Obnoví {^H}{%.0f0} {^E}zdraví za sekundu
+tagBonusLifePercentBuff={^E}Obnoví {^H}{%.0f0}% {^E}zdraví za sekundu
+tagFactionNemesisSpawned=Mstitel se přibližuje!
+tagHUDDesc22=Zapne dodatečné zvýraznění nedávno ukořištěných předmětů v inventáři.
+tagHUDOption22=Zvýraznění nového předmětu
+

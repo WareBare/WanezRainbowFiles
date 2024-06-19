@@ -882,6 +882,7 @@ tagTwoHandedSword=양손 도검
 tagTwoHandedMace=양손 둔기
 tagTwoHandedAxe=양손 도끼
 tagTwoHandedRifle=양손 총기
+tagTwoHandedSpear=양손 창
 
 tagSpear=Spear
 tagStaff=Staff
@@ -3386,7 +3387,7 @@ tagCompA028Name=황산 결정
 tagCompA028Desc="흉악한 야수들의 담즙이 돌처럼 굳어 만들어진 황산 덩어리."^w^n(근접 무기, 방패, 시전자용 보조장비에 적용 가능)
 
 tagCompA029Name=축복받은 연마재
-tagCompA029Desc="극도로 날카로운 칼날들도 더 날카로워지게 하여, 적의 방어구를 파고들어 더 큰 피해를 입히게 한다."^w^n(도끼, 도검, 총, 석궁에 적용 가능)
+tagCompA029Desc="극도로 날카로운 칼날들도 더 날카로워지게 하여, 적의 방어구를 파고들어 더 큰 피해를 입히게 한다."^w^n(도끼, 창, 도검, 총, 석궁에 적용 가능)
 
 tagCompA030Name=견직물 견본
 tagCompA030Desc="서부의 유목민들은 오래 전부터 견직물을 겹쳐놓으면 관통성 탄환이 파고드는 것을 감싸서 속도를 늦춰준다는 점을 알고 있었다."^w^n(어깨 방어구, 상체 방어구, 하체 방어구에 적용 가능)
@@ -3531,7 +3532,7 @@ tagCompB014Name=^k베로나스의 파편
 tagCompB014Desc="베로나스를 쓰러트렸던 전설의 창의 한 조각일 뿐이지만, 그럼에도 여전히 대단한 힘을 담아두고 있다.."^w^n(모든 무기, 방패, 시전자용 보조장비에 적용 가능)
 
 tagCompB015Name=^k피의 연마재
-tagCompB015Desc="쓰러진 자의 피에 젖은, 이 저주받은 연마재는 칼날들에 피를 향한 갈망을 부여한다."^w^n(도끼, 도검, 총, 석궁에 적용 가능)
+tagCompB015Desc="쓰러진 자의 피에 젖은, 이 저주받은 연마재는 칼날들에 피를 향한 갈망을 부여한다."^w^n(도끼, 창, 도검, 총, 석궁에 적용 가능)
 
 tagCompB016Name=^k민감한 자철석
 tagCompB016Desc="드물게 발견되며 강한 자성을 지닌 이 돌들은 이것들을 만든 폭풍의 천둥에 반응하듯 공명한다."^w^n(목걸이, 메달에 적용 가능)
@@ -4497,3 +4498,8 @@ tagSlotRelic= (렐릭)
 tagSlotMedal= (메달)
 tagSlotUnknown= (미착용)
 
+#v1.2.1.0
+tagShowDetails=[Ctrl 키를 길게 눌러 상세정보 보기]
+tagConsumableCategoryElixirDesc=^o한 번에 하나의 엘릭서만 효과가 발현됩니다.
+tagConsumableCategoryOilDesc=^o한 번에 하나의 오일만 효과가 발현됩니다.
+tagConsumableCategoryTinctureDesc=^o물약은 쿨타임이 공유됩니다.

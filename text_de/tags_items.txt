@@ -882,6 +882,7 @@ tagTwoHandedSword=[ns]Zweihandschwert
 tagTwoHandedMace=[ms]Zweihandstreitkolben
 tagTwoHandedAxe=[fs]Zweihandaxt
 tagTwoHandedRifle=[fs]Zweihandfernkampfwaffe
+tagTwoHandedSpear=[ns]Zweihandspeer
 
 tagSpear=[ms]Speer
 tagStaff=[ms]Stab
@@ -3386,7 +3387,7 @@ tagCompA028Name=Giftiger Gallenstein
 tagCompA028Desc="Hasserfüllte Steine, die in der Galle verdorbener Bestien geformt wurden."^w^n(Verbessert alle Nahkampfwaffen, Schilde und Zaubernebenhand)
 
 tagCompA029Name=Gesegneter Wetzstein
-tagCompA029Desc="Schärft sogar die schärfste Schneide und erhöht den Durchschlagsschaden."^w^n(Verbessert alle Äxte, Schwerter, Gewehre und Armbrüste)
+tagCompA029Desc="Schärft sogar die schärfste Schneide und erhöht den Durchschlagsschaden."^w^n(Verbessert alle Äxte, Speere, Schwerter, Gewehre und Armbrüste)
 
 tagCompA030Name=Seidenfetzen
 tagCompA030Desc="Westliche Nomaden wissen schon lange, dass schichtweise gelegte Seide eindringende Projektile umhüllen und verlangsamen kann."^w^n(Verbessert alle Schulter-, Brust- und Beinrüstungen)
@@ -3531,7 +3532,7 @@ tagCompB014Name=^kBruchstück von Beronath
 tagCompB014Desc="Nur ein Stück des legendären Speers, der Beronath tötete. Es besitzt immer noch viel Kraft."^w^n(Verbessert alle Waffen, Schilde und Zaubernebenhand)
 
 tagCompB015Name=^kBlutiger Wetzstein
-tagCompB015Desc="Getränkt im Blut der Gefallenen gibt dieser verfluchte Wetzstein den geschärften Klingen ein Verlangen nach Blut."^w^n(Verbessert alle Äxte, Schwerter, Gewehre und Armbrüste)
+tagCompB015Desc="Getränkt im Blut der Gefallenen gibt dieser verfluchte Wetzstein den geschärften Klingen ein Verlangen nach Blut."^w^n(Verbessert alle Äxte, Speere, Schwerter, Gewehre und Armbrüste)
 
 tagCompB016Name=^kAbgestimmter Magnetstein
 tagCompB016Desc="In diesen seltenen und mächtigen Steinen hallt immer noch der Donner des Sturms, in dem sie geboren wurden."^w^n(Verbessert alle Amulette und Medaillen)
@@ -4496,3 +4497,9 @@ tagSlotWaist= (Taille)
 tagSlotRelic= (Relikt)
 tagSlotMedal= (Medaille)
 tagSlotUnknown= (nicht ausgerüstet)
+
+#v1.2.1.0
+tagShowDetails=[Halte STRG gedrückt, um Details anzuzeigen.]
+tagConsumableCategoryElixirDesc=^oDu kannst jeweils nur von einem Elixier gleichzeitig profitieren.
+tagConsumableCategoryOilDesc=^oDu kannst jeweils nur von einem Öl gleichzeitig profitieren.
+tagConsumableCategoryTinctureDesc=^oTinkturen haben gemeinsame Abklingzeiten.

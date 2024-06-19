@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Ajuste les options pour quel butin doit être affiché. L'option Afficher/Masquer les objets peut être utilisée pour masquer toutes les ramassages pendant une rencontre occupée, puis les afficher à nouveau une fois terminées.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.0.5{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Ajuste les options pour quel butin doit être affiché. L'option Afficher/Masquer les objets peut être utilisée pour masquer toutes les ramassages pendant une rencontre occupée, puis les afficher à nouveau une fois terminées.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=difficulté Normale
@@ -510,9 +510,9 @@ tagLootFilter08=Uniques
 tagLootFilter08Info=Cochez cette case pour toujours afficher les objets Uniques (de qualité Épique et Légendaire) indépendamment de vos réglages de Filtre.{^N}{^N}Utilisez ce réglage lorsque vous souhaitez viser des objets particuliers Magiques, Rares ou Inhabituels de monstres mais souhaitez encore collecter chaque Unique qui tombe.
 
 tagLootFilter09=Mêlée 1 m.
-tagLootFilter09Info=Affiche/Masque les Haches, Masses et Épées à une main.
+tagLootFilter09Info=Affiche ou masque les haches à une main, les masses, les lances et les épées.
 tagLootFilter10=Mêlée 2 m.
-tagLootFilter10Info=Affiche/Masque les Haches, Masses et Épées à deux mains.
+tagLootFilter10Info=Affiche ou masque les haches à deux mains, les masses, les lances et les épées.
 tagLootFilter11=À distance 1 m.
 tagLootFilter11Info=Affiche/Masque les Armes à feu à une main.
 tagLootFilter12=À distance 2 m.
@@ -618,8 +618,8 @@ tagStatsResistance07=Vitalité
 tagStatsResistance07Desc=Résistance aux incantations drainant la vitalité qui infligent des dégâts de vitalité ou de dégradation de vitalité.
 tagStatsResistance08=Éther
 tagStatsResistance08Desc=Résistance aux attaques et sorts qui infligent des dégâts d'éther.
-tagStatsResistance09=Étourdissement
-tagStatsResistance09Desc=Réduit la durée des attaques et sorts assommants qui vous laissent dans l'incapacité de réagir.
+tagStatsResistance09=Physique
+tagStatsResistance09Desc=Résistance aux sorts et attaques qui causent des maux physiques et des traumatismes internes.
 tagStatsResistance10=Chaos
 tagStatsResistance10Desc=Résistance aux dégâts de chaos infligés par les énergies instables de l'univers lui-même, souvent utilisées par les êtres chthoniens.
 tagStatsResistance11=Renversement
@@ -1025,9 +1025,6 @@ tagCharStatsDodgeChanceInfo=Le pourcentage de chance d'éviter une attaque de m�
 tagCharStatsProjDeflectChance=Chance de Dévier
 tagCharStatsProjDeflectChanceInfo=Le pourcentage de chance de dévier une attaque à distance, niant complètement les dégâts.
 
-tagCharStatsPhysicalResist=Résist. Physique
-tagCharStatsPhysicalResistInfo=Résistance aux sorts et attaques qui causent des maux physiques et des traumatismes internes.
-
 tagCharStatsDisruptionResist=Résist. aux Perturbations
 tagCharStatsDisruptionResistInfo=Résistance aux sorts et attaques qui interrompent votre capacité à utiliser vos compétences.
 
@@ -1051,6 +1048,9 @@ tagCharStatsSleepResistInfo=Résistance aux sorts qui vous placent dans un état
 
 tagCharStatsSlowResist=Résist. au Ralentissement
 tagCharStatsSlowResistInfo=Résistance aux effets qui réduisent votre capacité à attaquer, jeter des sorts et courir.
+
+tagCharStatsStunResist=Résist. au Étourdissement
+tagCharStatsStunResistInfo=Réduit la durée des attaques et sorts assommants qui vous laissent dans l'incapacité de réagir.
 
 #Retaliation
 tagCharStatsDamageReflect=Réflexion des Dégâts
@@ -2399,8 +2399,6 @@ tagChatCommandShort06=u
 
 tagExclusiveSkillConflict=^rVous avez déjà activé une compétence exclusive plus puissante, {%s0}.
 tagAutoToggledSkill=^oLes buffs sont activés automatiquement.
-CooldownCharges={%d0} {^E}jets max.
-CooldownChargesMod=+{%d0} {^E}jets max.
 PotionCooldownCharges={%d0} {^E}utilisations max.
 PotionCooldownChargesMod=+{%d0} {^E}utilisations max.
 tagCharRunSpeedMaxModifier={%+.0f0} % {^E}de vitesse de déplacement max.
@@ -2425,4 +2423,14 @@ tagCharStatsReflectResist=Résist. à Réflexion
 tagCharStatsReflectResistInfo=La résistance aux effets de réflexion qui vous infligent des dégâts.
 tagHUDHealthPercent_Head={%d0}%
 tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
+
+#patch v1.2.1
+CooldownCharges={%d0} {^E}Charges
+CooldownChargesMod=+{%d0} {^E}Charges
+SkillChanceWeightMod=+{%d0} % de {^E}chances d'être utilisé
+tagBonusLifeAbsBuff={^E}Restaure {^H}{%.0f0} {^E}points de santé par seconde
+tagBonusLifePercentBuff={^E}Restaure {^H}{%.0f0} % {^E}de santé par seconde
+tagFactionNemesisSpawned=Un némésis approche !
+tagHUDDesc22=Active ou désactive la mise en surbrillance supplémentaire des objets récemment obtenus dans l'inventaire.
+tagHUDOption22=Surbrillance des nouveaux objets
 

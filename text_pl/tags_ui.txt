@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Dostosuj opcje pokazywania wybranych przedmiotów na ziemi. Wybranie opcji "Załącz Pokaż/Ukryj przedmioty" umożliwia ukrywanie wszystkich wypadających przedmiotów podczas najintensywniejszych starć, a następnie ponowne ich wyświetlenie po jej zakończeniu.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.0.5{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Dostosuj opcje pokazywania wybranych przedmiotów na ziemi. Wybranie opcji "Załącz Pokaż/Ukryj przedmioty" umożliwia ukrywanie wszystkich wypadających przedmiotów podczas najintensywniejszych starć, a następnie ponowne ich wyświetlenie po jej zakończeniu.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Prosty
@@ -514,9 +514,9 @@ tagLootFilter08=Zawsze Pokazuj Unikalne
 tagLootFilter08Info=Włączenie tej opcji zawsze pokazuje przedmioty Epickie i Legendarne, niezależnie od ustawień innych Filtrów.{^N}{^N}Użyj tej opcji, jeśli pragniesz szukać wybranych przedmiotów Magicznych, Rzadkich lub UPPP, a jednocześnie chcesz widzieć wypadające w międzyczasie przedmioty Unikalne (Epickie i Legendarne).
 
 tagLootFilter09=Jednoręczne walka wręcz
-tagLootFilter09Info=Pokaż/Ukryj jednoręczne miecze, topory i obuchowe.
+tagLootFilter09Info=Pokaż/Ukryj jednoręczne topory, bronie obuchowe, włócznie i miecze.
 tagLootFilter10=Dwuręczne walka wręcz
-tagLootFilter10Info=Pokaż/Ukryj dwuręczne miecze, topory i obuchowe.
+tagLootFilter10Info=Pokaż/Ukryj dwuręczne topory, bronie obuchowe, włócznie i miecze.
 tagLootFilter11=Jednoręczne dystansowe
 tagLootFilter11Info=Pokaż/Ukryj jednoręczne bronie dystansowe.
 tagLootFilter12=Dwuręczne dystansowe
@@ -620,8 +620,8 @@ tagStatsResistance07=Witalność
 tagStatsResistance07Desc=Odporność na zaklęcia i czary mogące osłabiać żywotność oraz siły witalne.
 tagStatsResistance08=Aether
 tagStatsResistance08Desc=Odporność na obrażenia od Aetheru.
-tagStatsResistance09=Oszołomienie
-tagStatsResistance09Desc=Odporność na wszelkiego typu oszołomienia, które mogą wytrącić Cię z równowagi.
+tagStatsResistance09=Fizyczne
+tagStatsResistance09Desc=Odporność na ataki i czary powodujące bezpośrednie obrażenia Fizyczne.
 tagStatsResistance10=Chaos
 tagStatsResistance10Desc=Odporność na niestabilne elementy mechanizmu, jakim rządzi się świat. Typ obrażeń cechujący głównie istoty Chthonian.
 tagStatsResistance11=Ogłuszenie
@@ -1015,9 +1015,6 @@ tagCharStatsDodgeChanceInfo=Procentowa szansa na uniknięcie ataku w zwarciu. Ud
 tagCharStatsProjDeflectChance=Odbicie ataku dystans.
 tagCharStatsProjDeflectChanceInfo=Procentowa szansa na odbicie ataku dystansowego. Udane odbicie zeruje kompletnie obrażenia od ataku dystansowego przeciwnika.
 
-tagCharStatsPhysicalResist=Odporn. na Fizyczne
-tagCharStatsPhysicalResistInfo=Odporność na ataki i czary powodujące bezpośrednie obrażenia Fizyczne.
-
 tagCharStatsDisruptionResist=Odporn. na Przeszkodzenie
 tagCharStatsDisruptionResistInfo=Odporność na przeszkodzenie przez przeciwnika w wykonaniu ataku lub czaru.
 
@@ -1041,6 +1038,9 @@ tagCharStatsSleepResistInfo=Odporność na czary, powodujące efekt Uśpienie - 
 
 tagCharStatsSlowResist=Odporn. na Spowolnienie
 tagCharStatsSlowResistInfo=Odporność na efekty redukujące Twoją szybkość ataku, rzucania czarów i biegu.
+
+tagCharStatsStunResist=Odporn. na Oszołomienie
+tagCharStatsStunResistInfo=Odporność na wszelkiego typu oszołomienia, które mogą wytrącić Cię z równowagi.
 
 #Retaliation
 tagCharStatsDamageReflect=Odbicie Obrażeń
@@ -2393,8 +2393,6 @@ tagChatCommandShort06=u
 #patch v1.2
 tagExclusiveSkillConflict=^rMasz już aktywną potężniejszą wyjątkową umiejętność: {%s0}.
 tagAutoToggledSkill=^oBuffy są aktywowane automatycznie.
-CooldownCharges={%d0} {^E}Limit czarowania
-CooldownChargesMod=+{%d0} {^E}Limit czarowania
 PotionCooldownCharges={%d0} {^E}Maks. liczba użyć
 PotionCooldownChargesMod=+{%d0} {^E}Maks. liczba użyć
 tagCharRunSpeedMaxModifier={%+.0f0}% {^E}Maks. szybkość biegu
@@ -2430,4 +2428,13 @@ tagCharStatsReflectResistInfo=Odporność na efekty odbicia zadające obrażenia
 tagHUDHealthPercent_Head={%d0}%
 tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
 
+#patch v1.2.1
+CooldownCharges={%d0} {^E}Ładunki
+CooldownChargesMod=+{%d0} {^E}ładunki
+SkillChanceWeightMod=+{%d0}% {^E}szansy na użycie
+tagBonusLifeAbsBuff={^E}Przywraca {^H}{%.0f0} {^E}pkt. zdrowia na sekundę
+tagBonusLifePercentBuff={^E}Przywraca {^H}{%.0f0}% {^E}pkt. zdrowia na sekundę
+tagFactionNemesisSpawned=Nadciąga Bóg!
+tagHUDDesc22=Wyświetl lub ukryj dodatkowe informacje niedawno zebranych przedmiotów do ekwipunku.
+tagHUDOption22=Informacje o nowych przedmiotach
 

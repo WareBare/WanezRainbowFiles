@@ -882,6 +882,7 @@ tagTwoHandedSword=[ms]Spadone a Due Mani
 tagTwoHandedMace=[fs]Mazza a Due Mani
 tagTwoHandedAxe=[fs]Ascia a Due Mani
 tagTwoHandedRifle=[ms]Fucile a Due Mani
+tagTwoHandedSpear=[fs]Lancia a Due Mani
 
 tagSpear=[ms]Lancia
 tagStaff=[fs]Verga
@@ -3386,8 +3387,7 @@ tagCompA028Name=Calcoli Biliari Acidi
 tagCompA028Desc="Pietre acide formatesi nella bile di immonde creature."^w^n(Utilizzabile con le armi da mischia, gli scudi e i focus)
 
 tagCompA029Name=Cote Benedetta
-tagCompA029Desc="Affila anche la più affilata delle lame, aumentando il danno che passa l'armatura dei nemici."^w^n(Utilizzabile sulle asce, spade, armi da fuoco e balestre)
-
+tagCompA029Desc="Affila anche la più affilata delle lame, aumentando il danno che passa l'armatura dei nemici."^w^n(Utilizzabile sulle asce, lance, spade, armi da fuoco e balestre)
 tagCompA030Name=Striscia di Seta
 tagCompA030Desc="I nomadi occidentali sanno da molto tempo che degli strati di seta possono fermare la penetrazione dei proiettili."^w^n(Utilizzabile con le protezioni per le spalle, il torace e le gambe)
 
@@ -3531,7 +3531,7 @@ tagCompB014Name=^kScheggia di Beronath
 tagCompB014Desc="Un pezzo della leggendaria lancia che abbatté Beronath, che possiede ancora un grande potere."^w^n(Utilizzabile con tutte le armi, gli scudi e i focus)
 
 tagCompB015Name=^kCote Insanguinata
-tagCompB015Desc="Questa cote maledetta intrisa nel sangue dei caduti rende le lame che affila assetate di sangue."^w^n(Utilizzabile sulle asce, spade, armi da fuoco e balestre)
+tagCompB015Desc="Questa cote maledetta intrisa nel sangue dei caduti rende le lame che affila assetate di sangue."^w^n(Utilizzabile sulle asce, lance, spade, armi da fuoco e balestre)
 
 tagCompB016Name=^kMagnete Armonizzato
 tagCompB016Desc="Queste pietre rare e potenti risuonano ancora con il fulmine della tempesta che le ha generate."^w^n(Utilizzabile su amuleti e medaglie)
@@ -4496,3 +4496,9 @@ tagSlotWaist= (Vita)
 tagSlotRelic= (Reliquia)
 tagSlotMedal= (Medaglia)
 tagSlotUnknown= (Non Equipagg.)
+
+#v1.2.1.0
+tagShowDetails=[Tieni premuto Ctrl per mostrare i dettagli]
+tagConsumableCategoryElixirDesc=^oPuoi ricevere gli effetti di un solo elisir per volta.
+tagConsumableCategoryOilDesc=^oPuoi ricevere gli effetti di un solo olio per volta.
+tagConsumableCategoryTinctureDesc=^oLe tinture hanno ricariche condivise.

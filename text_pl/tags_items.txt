@@ -883,6 +883,7 @@ tagTwoHandedSword=Dwuręczny Miecz
 tagTwoHandedMace=Dwuręczna Broń Obuchowa
 tagTwoHandedAxe=Dwuręczny Topór
 tagTwoHandedRifle=Dwuręczna Broń Dystansowa
+tagTwoHandedSpear=[ms]Dwuręczna włócznia
 tagSpear=Włócznia
 tagStaff=Laska
 
@@ -3386,8 +3387,7 @@ tagCompA028Name=Jadowity Ochłap
 tagCompA028Desc=^b"Wyrwany z brzucha jakiegoś paskudnego monstrum zawiera w sobie niezwykle trujące soki."^w^n(Używany w broniach do walki wręcz, tarczach i podręcznych przedmiotach magicznych)
 
 tagCompA029Name=Błogosławiona Osełka
-tagCompA029Desc=^b"Potrafi jeszcze mocniej naostrzyć nawet brzytwę tnącą kamień, zwiększając obrażenia zadawane przeciwnikom."^w^n(Używana w toporach, mieczach, pistoletach i kuszach)
-
+tagCompA029Desc=^b"Potrafi jeszcze mocniej naostrzyć nawet brzytwę tnącą kamień, zwiększając obrażenia zadawane przeciwnikom."^w^n(Używana w toporach, włóczniach, mieczach, pistoletach i kuszach)
 tagCompA030Name=Jedwabna Opaska
 tagCompA030Desc=^b"Zachodni wędrowcy już wieki temu zauważyli, że odpowiednio ułożone warstwy jedwabiu chronią przed przebijającymi ciosami i odłamkami."^w^n(Używana w osłonach klatki piersiowej, nóg i ramion)
 
@@ -3531,7 +3531,7 @@ tagCompB014Name=^kOdłamek Beronatha
 tagCompB014Desc=^b"To tylko fragment legendarnego ostrza Beronatha, a mimo to wciąż nosi wielką moc."^w^n(Używany we wszystkich broniach, tarczach i podręcznych przedmiotach magicznych)
 
 tagCompB015Name=^kZakrwawiona Osełka
-tagCompB015Desc=^b"Nasiąknięta krwią upadłych, ta zaczarowana osełka napełnia ostrze rządzą krwi."^w^n(Używana w toporach, mieczach, pistoletach i kuszach)
+tagCompB015Desc=^b"Nasiąknięta krwią upadłych, ta zaczarowana osełka napełnia ostrze rządzą krwi."^w^n(Używana w toporach, włóczniach, mieczach, pistoletach i kuszach)
 
 tagCompB016Name=^kZestrojony Magnetyt
 tagCompB016Desc=^b"Ten rzadki kamień wciąż wydaje dźwięk uderzenia pioruna, który zrodził go takim."^w^n(Używany w amuletach i medalach)
@@ -4500,3 +4500,9 @@ tagSlotWaist= (Pas)
 tagSlotRelic= (Relikt)
 tagSlotMedal= (Medal)
 tagSlotUnknown= (Niezałożony)
+
+#v1.2.1.0
+tagShowDetails=[Przytrzymaj CTRL, by pokazać szczegóły]
+tagConsumableCategoryElixirDesc=^oMożesz korzystać z działania tylko jednego eliksiru jednocześnie.
+tagConsumableCategoryOilDesc=^oMożesz korzystać z działania tylko jednego oleju jednocześnie.
+tagConsumableCategoryTinctureDesc=^oNalewki mają wspólne czasy odnowienia.

@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Stelle die Optionen für die Beute ein, die angezeigt werden soll. Gegenstände anzeigen/ausblenden kann verwendet werden, um alle fallengelassenen Gegenstände während eines heftigen Kampfes auszublenden und sie danach wieder anzuzeigen. {^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.0.5{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Stelle die Optionen für die Beute ein, die angezeigt werden soll. Gegenstände anzeigen/ausblenden kann verwendet werden, um alle fallengelassenen Gegenstände während eines heftigen Kampfes auszublenden und sie danach wieder anzuzeigen. {^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 ﻿#General=
 
 tagGameDifficultySetting01=Schwierigkeit Normal
@@ -506,9 +506,9 @@ tagLootFilter08=Einzigartige immer anz.
 tagLootFilter08Info=Aktiviere dieses Kästchen, um unabhängig von deinen Filtereinstellungen immer einzigartige Gegenstände (mit epischer und legendärer Qualität) anzuzeigen.{^N}{^N}Benutze diese Einstellung, wenn du spezielle magische, seltene, oder monsterspezifische Gegenstände suchst, aber trotzdem jeden einzigartigen fallen gelassenen Gegenstand aufsammeln möchtest.
 
 tagLootFilter09=Einhand-Nahkampf
-tagLootFilter09Info=Einhand-Äxte, -Streitkolben und -Schwerter anzeigen/ausblenden.
+tagLootFilter09Info=Einhand-Äxte, -Streitkolben, -Speere und -Schwerter anzeigen/ausblenden.
 tagLootFilter10=Zweihand-Nahkampf
-tagLootFilter10Info=Zweihand-Äxte, -Streitkolben und -Schwerter anzeigen/ausblenden.
+tagLootFilter10Info=Zweihand-Äxte, -Streitkolben, -Speere und -Schwerter anzeigen/ausblenden.
 tagLootFilter11=Einhand-Fernkampf
 tagLootFilter11Info=Einhandpistolen anzeigen/ausblenden.
 tagLootFilter12=Zweihand-Fernkampf
@@ -614,8 +614,8 @@ tagStatsResistance07=Lebenskraft
 tagStatsResistance07Desc=Widerstand gegen lebensentziehende Zaubersprüche, die Lebenskraft- oder Lebenskraftverfallsschaden verursachen.
 tagStatsResistance08=Äther
 tagStatsResistance08Desc=Widerstand gegen Ätherangriffe und Zaubersprüche, die Ätherschaden verursachen.
-tagStatsResistance09=Lähmung
-tagStatsResistance09Desc=Verkürzt die Dauer von Lähmungsangriffen und Zaubersprüchen, durch die du nicht mehr reagieren kannst.
+tagStatsResistance09=Physischer
+tagStatsResistance09Desc=Widerstand gegen Zaubersprüche und Angriffe, die direkten physischen Schaden und Wundschaden verursachen.
 tagStatsResistance10=Chaos
 tagStatsResistance10Desc=Widerstand gegen Chaosschaden durch die instabilen Energien des Universums, die oft von Chthonischen Wesen eingesetzt werden.
 tagStatsResistance11=Niederschlag
@@ -1021,9 +1021,6 @@ tagCharStatsDodgeChanceInfo=Die prozentuale Wahrscheinlichkeit, einem Nahkampfan
 tagCharStatsProjDeflectChance=Ablenkwahrscheinlichkeit
 tagCharStatsProjDeflectChanceInfo=Die prozentuale Wahrscheinlichkeit, einen Distanzangriff abzulenken und den Schaden vollständig zu negieren.
 
-tagCharStatsPhysicalResist=Physischer Widerstand
-tagCharStatsPhysicalResistInfo=Widerstand gegen Zaubersprüche und Angriffe, die direkten physischen Schaden und Wundschaden verursachen.
-
 tagCharStatsDisruptionResist=Störungswiderstand
 tagCharStatsDisruptionResistInfo=Widerstand gegen Zaubersprüche und Angriffe, die die Anwendung deiner Fähigkeiten unterbrechen.
 
@@ -1047,6 +1044,9 @@ tagCharStatsSleepResistInfo=Widerstand gegen Zaubersprüche, die dich in einen t
 
 tagCharStatsSlowResist=Verlangsamungswiderstand
 tagCharStatsSlowResistInfo=Widerstand gegen Effekte, die deine Angriffs-, Zauber- und Lauffähigkeiten verringern.
+
+tagCharStatsStunResist=Lähmungwiderstand
+tagCharStatsStunResistInfo=Verkürzt die Dauer von Lähmungsangriffen und Zaubersprüchen, durch die du nicht mehr reagieren kannst.
 
 #Retaliation
 tagCharStatsDamageReflect=Schadensreflexion
@@ -1763,8 +1763,8 @@ ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} {^E}Fragmente
 ProjectileFragmentsLaunchNumber={%d0} {^E}Fragmente
 ProjectilePiercingChance={%.1f0}% {^E}Wahrscheinlichkeit, Feinde zu durchschlagen
 ProjectilePiercingChanceMod=+{%.1f0}% {^E}Wahrscheinlichkeit, Feinde zu durchschlagen
-CooldownCharges={%d0} {^E}max. Zauber
-CooldownChargesMod=+{%d0} {^E}max. Zauber
+CooldownCharges={%d0} {^E}Ladungen
+CooldownChargesMod=+{%d0} {^E}Ladungen
 PotionCooldownCharges={%d0} {^E}max. Verwendungen
 PotionCooldownChargesMod=+{%d0} {^E}max. Verwendungen
 
@@ -2541,3 +2541,13 @@ tagCharStatsReflectResist=Reflexionsresistenz
 tagHUDHealthPercent_Head={%d0}%
 tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
 tagCharStatsReflectResistInfo=Resistenz gegen Reflexionseffekte, die dir Schaden zufügen.
+
+#patch v1.2.1
+SkillChanceWeightMod=+ {%d0} % {^E}Benutzungswahrscheinlichkeit
+tagBonusLifeAbsBuff={^E}Stellt {^H}{%.0f0} {^E}Gesundheit pro Sekunde wieder her
+tagBonusLifePercentBuff={^E}Stellt {^H}{%.0f0} % {^E}Gesundheit pro Sekunde wieder her
+tagFactionNemesisSpawned=Eine Nemesis nähert sich!
+tagHUDDesc22=Schaltet zusätzliche Markierungen von kürzlich durch Plündern erhaltenen Gegenständen im Inventar ein/aus.
+tagHUDOption22=Markierung neuer Gegenstände
+
+

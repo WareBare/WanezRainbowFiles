@@ -3562,7 +3562,7 @@ tagCompB022Desc="The tainted soul of Kilrian, terror of the Arkovian Undercity."
 
 
 tagCompAetherCrystal=Aether Crystal
-tagCompAetherCrystalDesc="A crystalline shard still lingering with Aetherial power.  Can be used in the creation of arcane items."
+tagCompAetherCrystalDesc="A crystalline shard still lingering with Aetherial power. Can be used in the creation of arcane items."
 
 tagCompAmmoBox=Ammunition Box
 tagCompAmmoBoxDesc="The resistance can always use more ammunition to hold off the dark forces plaguing Cairn."

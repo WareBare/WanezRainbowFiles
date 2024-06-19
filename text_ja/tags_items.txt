@@ -882,6 +882,7 @@ tagTwoHandedSword=両手剣
 tagTwoHandedMace=両手メイス
 tagTwoHandedAxe=両手斧
 tagTwoHandedRifle=両手遠隔武器
+tagTwoHandedSpear=両手槍
 
 tagSpear=槍
 tagStaff=杖
@@ -3386,7 +3387,7 @@ tagCompA028Name=硫酸胆石
 tagCompA028Desc="むかつくような獣の 胆汁にできた 硫酸結石。"^w^n(近接武器､ 盾､ 詠唱者用 オフハンド に適合)
 
 tagCompA029Name=神聖な砥石
-tagCompA029Desc="最も鋭い切っ先すら シャープにし､ 敵の防具を 貫通する ダメージを 増やす。"^w^n(斧､ 剣､ 銃､ クロスボウ に適合)
+tagCompA029Desc="最も鋭い切っ先すら シャープにし､ 敵の防具を 貫通する ダメージを 増やす。"^w^n(斧、槍、剣、銃およびクロスボウで使用)
 
 tagCompA030Name=シルク スワッチ
 tagCompA030Desc="西の遊牧民は､ 絹の重ねが 刺突性 投射物の 貫通を 包み込み 遅らせる ことが できる ことを､ 長い間 知っていた。"^w^n(肩, 胴, 脚の防具 に適合)
@@ -3531,7 +3532,7 @@ tagCompB014Name=^kベロナスのかけら
 tagCompB014Desc="伝説の槍ベロナスの断片 にすぎねど､ いまだに 大きな力 を保つ。"^w^n(すべての武器､ 盾､ 詠唱者用 オフハンド に適合)
 
 tagCompB015Name=^k血まみれの砥石
-tagCompB015Desc="堕ちし者の血が 染み込む この忌まわしき 砥石は､ 血の渇望を 刃に 与える。"^w^n(斧､ 剣､ 銃､ クロスボウ に適合)
+tagCompB015Desc="堕ちし者の血が 染み込む この忌まわしき 砥石は､ 血の渇望を 刃に 与える。"^w^n(斧、槍、剣、銃およびクロスボウで使用)
 
 tagCompB016Name=^k調律した磁鉄鉱
 tagCompB016Desc="いまだにそれを生んだ嵐の 雷鳴が 反響している､ レアで 強力な石。"^w^n(アミュレット とメダル に適合)
@@ -4496,3 +4497,9 @@ tagSlotWaist= (腰)
 tagSlotRelic= (レリック)
 tagSlotMedal= (メダル)
 tagSlotUnknown= (準備中)
+
+#v1.2.1.0
+tagShowDetails=[Ctrl長押しで詳細表示]
+tagConsumableCategoryElixirDesc=^o霊薬の 効果は 一度に 一つしか 受けられ ません。
+tagConsumableCategoryOilDesc=^oオイルの 効果は 一度に 一つしか 受けられ ません。
+tagConsumableCategoryTinctureDesc=^oチンキの クールダウンが 共通化されました。

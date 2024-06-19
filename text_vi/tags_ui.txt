@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Điều chỉnh các tùy chọn hiển thị chiến lợi phẩm.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.0.5{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Điều chỉnh các tùy chọn hiển thị chiến lợi phẩm.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 ﻿#General=
 
 tagGameDifficultySetting01=Độ Khó Bình Thường
@@ -506,9 +506,9 @@ tagLootFilter08=Luôn Hiện Đồ Xịn
 tagLootFilter08Info=Bật mục này để luôn nhìn thấy các loại đồ xịn (có phẩm chất ^bHoàn Hảo^- và ^iHuyền Thoại^-), không cần biết các mục khác thiết lập ra sao.{^N}{^N}Dùng mục này khi bạn muốn tìm một loại đồ ^yTốt^-, ^gHiếm^- hoặc ^gHiếm Đặc Biệt^- nào đó nhưng vẫn muốn thu thập tất cả các loại Đồ Xịn rớt ra.
 
 tagLootFilter09=1 tay Cận chiến
-tagLootFilter09Info=Hiện/Ẩn Rìu, Chuỳ, và Kiếm 1 tay
+tagLootFilter09Info=Hiện/Ẩn Rìu, Chuỳ, Giáo và Kiếm 1 tay.
 tagLootFilter10=2 tay Cận chiến
-tagLootFilter10Info=Hiện/Ẩn Rìu, Chuỳ, và Kiếm 2 tay
+tagLootFilter10Info=Hiện/Ẩn Rìu, Chuỳ, Giáo và Kiếm 2 tay.
 tagLootFilter11=1 tay Tầm xa
 tagLootFilter11Info=Hiện/Ẩn Súng 1 tay (súng lục).
 tagLootFilter12=2 tay Tầm xa
@@ -614,8 +614,8 @@ tagStatsResistance07=Sinh Khí
 tagStatsResistance07Desc=Kháng lại những bùa phép gây sát thương Sinh Khí hoặc Rút Sinh Khí.
 tagStatsResistance08=Aether
 tagStatsResistance08Desc=Kháng lại những đòn tấn công hệ Aether và những phép gây sát thương Aether.
-tagStatsResistance09=Choáng
-tagStatsResistance09Desc=Giảm thời gian bị làm choáng bởi các đòn đánh và phép thuật.
+tagStatsResistance09=Vật Lý
+tagStatsResistance09Desc=Sức kháng cự trước phép thuật và đòn đánh gây Sát Thương Vật Lý và Nội Thương.
 tagStatsResistance10=Hỗn Nguyên
 tagStatsResistance10Desc=Kháng lại sát thương Hỗn Nguyên gây ra bở những nguồn năng lượng không ổn định của vũ trụ, thường được các thực thể Chthon sử dụng.
 tagStatsResistance11=Hất Ngã
@@ -1010,9 +1010,6 @@ tagCharStatsDodgeChanceInfo=Phần trăm cơ hội né một đòn tấn công c
 tagCharStatsProjDeflectChance=Tỷ Lệ Đập Văng
 tagCharStatsProjDeflectChanceInfo=Phần trăm cơ hội đập văng một đòn tấn công tầm xa, bỏ qua toàn bộ sát thương.
 
-tagCharStatsPhysicalResist=Kháng Vật Lý
-tagCharStatsPhysicalResistInfo=Sức kháng cự trước phép thuật và đòn đánh gây Sát Thương Vật Lý và Nội Thương.
-
 tagCharStatsDisruptionResist=Kháng Gián Đoạn
 tagCharStatsDisruptionResistInfo=Sức kháng cự trước phép thuật và đòn đánh làm gián đoạn khả năng thi triển kỹ năng của bạn.
 
@@ -1036,6 +1033,9 @@ tagCharStatsSleepResistInfo=Sức kháng cự trước những phép thuật đ�
 
 tagCharStatsSlowResist=Kháng Làm Chậm
 tagCharStatsSlowResistInfo=Sức kháng cự trước những hiệu ứng làm giảm khả năng tấn công, thi triển phép và chạy của bạn.
+
+tagCharStatsStunResist=Kháng Choáng
+tagCharStatsStunResistInfo=Giảm thời gian bị làm choáng bởi các đòn đánh và phép thuật.
 
 #Retaliation
 tagCharStatsDamageReflect=Phản Sát Thương
@@ -2507,8 +2507,6 @@ tagGI_CloudSavingWarning=CẢNH BÁO: LƯU TRỮ ĐÁM MÂY ĐANG BẬT!{^n}Bạ
 #patch v1.2
 tagExclusiveSkillConflict=^rBạn đã đang kích hoạt một kỹ năng đặc biệt mạnh hơn, {%s0}.
 tagAutoToggledSkill=^oBuff được tự động kích hoạt.
-CooldownCharges={%d0} {^E}Thi Triển Tối Đa
-CooldownChargesMod=+{%d0} {^E}Thi Triển Tối Đa
 PotionCooldownCharges={%d0} {^E}Lần Dùng Tối Đa
 PotionCooldownChargesMod=+{%d0} {^E}Lần Dùng Tối Đa
 tagCharRunSpeedMaxModifier={%+.0f0}% {^E}Tốc Độ Di Chuyển Tối Đa
@@ -2543,4 +2541,14 @@ tagCharStatsReflectResist=Kháng Phản Ngược
 tagCharStatsReflectResistInfo=Khả năng kháng các hiệu ứng phản ngược gây tổn hại cho bạn.
 tagHUDHealthPercent_Head={%d0}%
 tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
+
+#patch v1.2.1
+CooldownCharges={%d0} {^E}Lao Tấn Công
+CooldownChargesMod=+{%d0} {^E}Lao Tấn Công
+SkillChanceWeightMod=+{%d0}% {^E}Cơ Hội Được Sử Dụng
+tagBonusLifeAbsBuff={^E}Hồi phục {^H}{%.0f0} {^E}Máu mỗi giây
+tagBonusLifePercentBuff={^E}Hồi phục {^H}{%.0f0}% {^E}Máu mỗi giây
+tagFactionNemesisSpawned=Một Kình Địch đang đến gần!
+tagHUDDesc22=Bật/tắt tô sáng bổ sung cho các vật phẩm cướp được gần đây trong hành trang.
+tagHUDOption22=Tô Sáng Vật Phẩm Mới
 

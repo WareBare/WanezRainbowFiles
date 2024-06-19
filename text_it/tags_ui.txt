@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Regola le opzioni per il bottino da mostrare. Il comando Mostra/Nascondi Oggetti può essere utilizzato per nascondere tutto il bottino durante un combattimento e quindi visualizzarlo nuovamente una volta terminato.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.0.5{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Regola le opzioni per il bottino da mostrare. Il comando Mostra/Nascondi Oggetti può essere utilizzato per nascondere tutto il bottino durante un combattimento e quindi visualizzarlo nuovamente una volta terminato.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Difficoltà Normale
@@ -506,9 +506,9 @@ tagLootFilter08=Mostra sempre Unici
 tagLootFilter08Info=Seleziona questa casella per mostrare sempre gli oggetti Unici (di Qualità Epica e Leggendaria) indipendentemente dalle impostazioni del Filtro.{^N}{^N}Usa questa impostazione quando desideri cercare particolari oggetti Magici, Rari o di Mostri Infrequenti, ma desideri comunque raccogliere ogni Unico che cade.
 
 tagLootFilter09=1M Mischia
-tagLootFilter09Info=Mostra/Nascondi Ascie, Mazze e Spade ad una mano.
+tagLootFilter09Info=Mostra/Nascondi Asce, Mazze, Lance e Spade a una mano.
 tagLootFilter10=2M Mischia
-tagLootFilter10Info=Mostra/Nascondi Ascie, Mazze e Spade a due mani.
+tagLootFilter10Info=Mostra/Nascondi Asce, Mazze, Lance e Spade a due mani.
 tagLootFilter11=1M a Distanza
 tagLootFilter11Info=Mostra/Nascondi Pistole ad una mano.
 tagLootFilter12=2M a Distanza
@@ -614,8 +614,8 @@ tagStatsResistance07=Vitalità
 tagStatsResistance07Desc=Resistenza agli incantesimi che infliggono danno alla Vitalità o da Decadenza Vitale.
 tagStatsResistance08=Etere
 tagStatsResistance08Desc=Resistenza agli attacchi Eterei o alle stregonerie che infliggono danno da Etere.
-tagStatsResistance09=Stordimento
-tagStatsResistance09Desc=Riduce la durata di attacchi o incantesimi che stordiscono, lasciandoti incapace di reagire.
+tagStatsResistance09=Fisica
+tagStatsResistance09Desc=Resistenza ad incantesimi ed attacchi che infliggono Danno Fisico e Traumi Interni.
 tagStatsResistance10=Caos
 tagStatsResistance10Desc=Resistenza al danno da Caos inflitto dalle energie instabili dell'universo, spesso impiegato dagli esseri Chthoniani.
 tagStatsResistance11=Atterramento
@@ -1010,9 +1010,6 @@ tagCharStatsDodgeChanceInfo=La possibilità in percentuale di schivare un attacc
 tagCharStatsProjDeflectChance=Possibilità di Deviare
 tagCharStatsProjDeflectChanceInfo=La possibilità in percentuale di deviare un attacco a distanza, negandone completamente il danno.
 
-tagCharStatsPhysicalResist=Resistenza Fisica
-tagCharStatsPhysicalResistInfo=Resistenza ad incantesimi ed attacchi che infliggono Danno Fisico e Traumi Interni.
-
 tagCharStatsDisruptionResist=Resistenza Interruzione
 tagCharStatsDisruptionResistInfo=Resistenza ad incantesimi e attacchi che impediscono di utilizzare le abilità.
 
@@ -1036,6 +1033,9 @@ tagCharStatsSleepResistInfo=Resistenza agli incantesimi che fanno cadere in pred
 
 tagCharStatsSlowResist=Resistenza Rallentamento
 tagCharStatsSlowResistInfo=Resistenza agli effetti che riducono l'abilità di attaccare, lanciare incantesimi e muoversi.
+
+tagCharStatsStunResist=Resistenza Stordimento
+tagCharStatsStunResistInfo=Riduce la durata di attacchi o incantesimi che stordiscono, lasciandoti incapace di reagire.
 
 #Retaliation
 tagCharStatsDamageReflect=Danno Riflesso
@@ -2382,8 +2382,6 @@ tagChatCommandShort06=u
 #patch v1.2
 tagExclusiveSkillConflict=^rHai già attiva un'abilità esclusiva più potente attiva: {%s0}.
 tagAutoToggledSkill=^oI buff vengono attivati automaticamente.
-CooldownCharges={%d0} {^E}lanci massimi
-CooldownChargesMod=+{%d0} {^E}lanci massimi
 PotionCooldownCharges={%d0} {^E}usi massimi
 PotionCooldownChargesMod=+{%d0} {^E}usi massimi
 tagCharRunSpeedMaxModifier={%+.0f0}% {^E}Velocità di Movimento massima
@@ -2419,4 +2417,13 @@ tagCharStatsReflectResistInfo=Resistenza agli effetti di riflessione che ti infl
 tagHUDHealthPercent_Head={%d0}%
 tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
 
+#patch v1.2.1
+CooldownCharges={%d0} {^E}Cariche
+CooldownChargesMod=+{%d0} {^E}Cariche
+SkillChanceWeightMod=+{%d0}% {^E}Possibilità di Utilizzo
+tagBonusLifeAbsBuff={^E}Ripristina {^H}{%.0f0} {^E}Salute al secondo
+tagBonusLifePercentBuff={^E}Ripristina {^H}{%.0f0}% {^E}di Salute al secondo
+tagFactionNemesisSpawned=Arriva una nemesi!
+tagHUDDesc22=Evidenzia/non evidenzia gli oggetti ottenuti di recente nell'inventario.
+tagHUDOption22=Evidenzia nuovi oggetti
 

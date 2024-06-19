@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Ajusta las opciones para mostrar el botín elegido. Alternar entre Mostrar/Ocultar objetos puede usarse para ocultar todas las caídas durante un encuentro intenso y luego mostrarlos de nuevo una vez terminado dicho encuentro.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.0.5{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Ajusta las opciones para mostrar el botín elegido. Alternar entre Mostrar/Ocultar objetos puede usarse para ocultar todas las caídas durante un encuentro intenso y luego mostrarlos de nuevo una vez terminado dicho encuentro.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Dificultad normal
@@ -506,9 +506,9 @@ tagLootFilter08=Siempre mostrar únicos
 tagLootFilter08Info=Activa esta opción para mostrar siempre elementos únicos (calidad épica y legendaria) independientemente de la configuración de filtros.{^N}{^N}Usa esta función cuando desees buscar objetos mágicos, raros o de monstruos infrecuentes, pero aún así desees recoger todos los objetos únicos que caen.
 
 tagLootFilter09=1 mano cuerpo a cuerpo
-tagLootFilter09Info=Muestra/Oculta hachas, mazas y espadas a una mano.
+tagLootFilter09Info=Muestra/Oculta hachas, lanzas, mazas y espadas a una mano.
 tagLootFilter10=2 manos cuerpo a cuerpo
-tagLootFilter10Info=Muestra/Oculta hachas, mazas y espadas a dos manos.
+tagLootFilter10Info=Muestra/Oculta hachas, lanzas, mazas y espadas a dos manos.
 tagLootFilter11=1 mano a distancia
 tagLootFilter11Info=Muestra/Oculta armas a distancia de una mano.
 tagLootFilter12=2 manos a distancia
@@ -614,8 +614,8 @@ tagStatsResistance07=Vitalidad
 tagStatsResistance07Desc=Resistencia a hechizos que causan daño a la vitalidad o daños que hacen caer la vitalidad.
 tagStatsResistance08=Éter
 tagStatsResistance08Desc=Resistencia a ataques vinculados al éter y brujería que infligen daño de éter.
-tagStatsResistance09=Aturdimiento
-tagStatsResistance09Desc=Reduce la duración de los ataques de aturdimiento y hechizos, que te dejan sin capacidad de reacción.
+tagStatsResistance09=Física
+tagStatsResistance09Desc=Resistencia a hechizos y ataques que causan daño físico y herida interna.
 tagStatsResistance10=Caos
 tagStatsResistance10Desc=Resistencia a daño de caos infligido por las energías inestables del mismo universo, a menudo utilizado por los seres Chthonianos.
 tagStatsResistance11=Derribo
@@ -1021,9 +1021,6 @@ tagCharStatsDodgeChanceInfo=El porcentaje de probabilidad de esquivar un ataque 
 tagCharStatsProjDeflectChance=Probabilidad de desviar
 tagCharStatsProjDeflectChanceInfo=El porcentaje de probabilidad de desviar un ataque a distancia, negando completamente el daño.
 
-tagCharStatsPhysicalResist=Resistencia física
-tagCharStatsPhysicalResistInfo=Resistencia a hechizos y ataques que causan daño físico y herida interna.
-
 tagCharStatsDisruptionResist=Resist. a la interrupción
 tagCharStatsDisruptionResistInfo=Resistencia a hechizos y ataques que interrumpen tu capacidad de lanzar habilidades.
 
@@ -1047,6 +1044,9 @@ tagCharStatsSleepResistInfo=Resistencia a los hechizos que te ponen en un estado
 
 tagCharStatsSlowResist=Resist. a ralentización
 tagCharStatsSlowResistInfo=Resistencia a los efectos que reducen tu capacidad de ataque, lanzamiento de hechizos y movimiento.
+
+tagCharStatsStunResist=Resist. a la aturdimiento
+tagCharStatsStunResistInfo=Reduce la duración de los ataques de aturdimiento y hechizos, que te dejan sin capacidad de reacción.
 
 #Retaliation
 tagCharStatsDamageReflect=Daño reflejado
@@ -1763,8 +1763,8 @@ ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} {^E}fragmentos
 ProjectileFragmentsLaunchNumber={%d0} {^E}fragmentos
 ProjectilePiercingChance={%.1f0}% {^E}de probabilidad de atravesar enemigos
 ProjectilePiercingChanceMod=+{%.1f0}% {^E}de probabilidad de atravesar enemigos
-CooldownCharges={%d0} {^E}de lanzamientos máximos
-CooldownChargesMod=+{%d0} {^E}de lanzamientos máximos
+CooldownCharges={%d0} {^E}cargas
+CooldownChargesMod=+{%d0} {^E}cargas
 PotionCooldownCharges={%d0} {^E}de usos máximos
 PotionCooldownChargesMod=+{%d0} {^E}de usos máximos
 
@@ -2539,4 +2539,12 @@ tagCharStatsReflectResist=Resist. al daño reflejado
 tagCharStatsReflectResistInfo=La resistencia a los efectos reflejados que te provocan daño.
 tagHUDHealthPercent_Head={%d0}%
 tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
+
+#patch v1.2.1
+SkillChanceWeightMod=+{%d0}% {^E}de probabilidad de ser utilizada
+tagBonusLifeAbsBuff={^E}Restaura {^H}{%.0f0} {^E}de vida por segundo
+tagBonusLifePercentBuff={^E}Restaura {^H}{%.0f0}% {^E}de vida por segundo
+tagFactionNemesisSpawned=¡Se acerca una némesis!
+tagHUDDesc22=Muestra detalles adicionales de los botines recientemente obtenidos en el inventario.
+tagHUDOption22=Destacar objetos nuevos
 

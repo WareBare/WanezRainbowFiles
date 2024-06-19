@@ -882,6 +882,7 @@ tagTwoHandedSword=Kiếm Hai Tay
 tagTwoHandedMace=Chùy Hai Tay
 tagTwoHandedAxe=Rìu Hai Tay
 tagTwoHandedRifle=Vũ Khí Tầm Xa Hai Tay
+tagTwoHandedSpear=Giáo Hai Tay
 
 tagSpear=Giáo
 tagStaff=Gậy Phép
@@ -3387,7 +3388,8 @@ tagCompA028Name=Sỏi Mật Độc
 tagCompA028Desc="Sỏi độc hình thành trong mật những con quái thú ghê tởm."^w^n(Sử dụng cho Vũ Khí Cận Chiến, Khiên và Pháp Khí)
 
 tagCompA029Name=Đá Mài Được Ban Phước
-tagCompA029Desc="Mài sắc thêm ngay cả những lưỡi kiếm được cho là sắc nhất, tăng sát thương và khả năng đâm xuyên qua giáp của kẻ địch."^w^n(Sử dụng cho Rìu, Kiếm, Súng và Nỏ)
+tagCompA029Desc="Mài sắc thêm ngay cả những lưỡi kiếm được cho là sắc nhất, tăng sát thương và khả năng đâm xuyên qua giáp của kẻ địch."^w^n(Sử dụng cho Rìu, Giáo, Kiếm, Súng và Nỏ)
+^w^n(Dùng trong rìu, giáo, kiếm, súng và nỏ)=
 
 tagCompA030Name=Vải Lụa Nhiều Lớp
 tagCompA030Desc="Dân du mục miền viễn tây từ lâu đã biết rằng lụa nhiều lớp có thể bao bọc và giảm khả năng đâm xuyên của những loại đạn xuyên phá."^w^n(Sử dụng cho Vai, Áo Giáp và Quần)
@@ -3532,7 +3534,7 @@ tagCompB014Name=^kMảnh Vỡ của Thanh Giáo Beronath
 tagCompB014Desc="Chỉ là một mảnh của thanh giáo huyền thoại từng dùng để giết quái thú Beronath, nhưng trong đó vẫn còn lưu lại một nguồn sức mạnh không nhỏ."^w^n(Sử dụng cho tất cả các loại Vũ Khí, Khiên và Pháp Khí)
 
 tagCompB015Name=^kĐá Mài Đẫm Máu
-tagCompB015Desc="Dính đầy máu của những kẻ đã gục ngã, viên đá mài bị nguyền rủa này khiến vũ khí mài vào nó trở nên khát máu."^w^n(Sử dụng cho Rìu, Kiếm, Súng và Nỏ)
+tagCompB015Desc="Dính đầy máu của những kẻ đã gục ngã, viên đá mài bị nguyền rủa này khiến vũ khí mài vào nó trở nên khát máu."^w^n(Sử dụng cho Rìu, Giáo, Kiếm, Súng và Nỏ)
 
 tagCompB016Name=^kĐá Nam Châm Cộng Hưởng
 tagCompB016Desc="Những hòn đá chứa đầy sức mạnh và hiếm thấy này vẫn còn vang vọng tiếng sấm của cơn bão sinh ra chúng."^w^n(Sử dụng cho Dây Chuyền và Huân Chương)
@@ -4499,3 +4501,8 @@ tagSlotRelic= (Thánh Vật)
 tagSlotMedal= (Huân Chương)
 tagSlotUnknown= (Không Trang Bị)
 
+#v1.2.1.0
+tagShowDetails=[Giữ Ctrl để hiển thị Chi tiết]
+tagConsumableCategoryElixirDesc=^oBạn chỉ có thể hưởng lợi từ một Thần Dược tại một thời điểm.
+tagConsumableCategoryOilDesc=^oBạn chỉ có thể hưởng lợi từ một Tinh Dầu tại một thời điểm.
+tagConsumableCategoryTinctureDesc=^oMa Dược có chung thời gian hồi.

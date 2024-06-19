@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=전리품의 표시 여부를 선택할 수 있습니다. 아이템 표시/숨김 토글을 사용하면 많은 적에 둘러싸였을 때 모든 전리품을 숨길 수 있고, 전투가 끝났을 때 다시 전리품을 표시할 수 있습니다.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.0.5{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=전리품의 표시 여부를 선택할 수 있습니다. 아이템 표시/숨김 토글을 사용하면 많은 적에 둘러싸였을 때 모든 전리품을 숨길 수 있고, 전투가 끝났을 때 다시 전리품을 표시할 수 있습니다.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=노멀 난이도
@@ -27,7 +27,7 @@ tagRepAwarded={^g}{%s1}에 대한 명성이 {%d0}만큼 상승
 tagLoreBonus=지식 보너스
 
 tagLevelUp=레벨 상승
-tagLevelReached=당신은 {^y}{%d0} 레벨에 s
+tagLevelReached=당신은 {^y}{%d0} 레벨에 도달했습니다
 
 #Devotion
 
@@ -506,9 +506,9 @@ tagLootFilter08=에픽/전설 항상 표시
 tagLootFilter08Info=이 체크박스에 체크하면 다른 필터 설정에 상관없이 항상 에픽/전설 등급 아이템을 표시합니다.{^N}{^N}모든 에픽/전설 아이템을 모으면서 특정 매직, 레어 아이템 혹은 특정 몬스터 전용 (MI) 아이템을 찾고 싶을 때 이 설정을 사용하세요.
 
 tagLootFilter09=한손 무기
-tagLootFilter09Info=한손 도끼, 둔기, 도검을 표시/숨김.
+tagLootFilter09Info=한손 도끼, 둔기, 창, 도검을 표시/숨김.
 tagLootFilter10=양손 무기
-tagLootFilter10Info=양손 도끼, 둔기, 도검을 표시/숨김.
+tagLootFilter10Info=양손 도끼, 둔기, 창, 도검을 표시/숨김.
 tagLootFilter11=한손 총기
 tagLootFilter11Info=한손 총기를 표시/숨김.
 tagLootFilter12=양손 원거리 무기
@@ -614,8 +614,8 @@ tagStatsResistance07=생기
 tagStatsResistance07Desc=생기 데미지 혹은 생기 부식 데미지를 입히는 생기를 빨아들이는 마술적 공격들에 대한 저항력.
 tagStatsResistance08=에테르
 tagStatsResistance08Desc=에테르를 사용한 공격이나 마법으로 가해지는 에테르 데미지에 대한 저항력.
-tagStatsResistance09=기절
-tagStatsResistance09Desc=공격이나 스펠에 의해 기절해서 아무 반응도 하지 못하는 시간을 단축.
+tagStatsResistance09=물리 
+tagStatsResistance09Desc=물리 피해와 체내 충격 피해를 발생시키는 공격이나 스펠에 대한 저항력.
 tagStatsResistance10=혼돈
 tagStatsResistance10Desc=크'톤에 관계된 존재들이 자주 사용하는, 우주 자체의 불안정한 에너지를 이용하여 혼돈 데미지를 가하는 것에 대한 저항력.
 tagStatsResistance11=넉다운
@@ -1010,9 +1010,6 @@ tagCharStatsDodgeChanceInfo=근접 공격을 피하여 피해를 완전히 무�
 tagCharStatsProjDeflectChance=투사체 회피 확률
 tagCharStatsProjDeflectChanceInfo=원거리 공격이 빗나가게 하여 피해를 완전히 무시할 수 있는 비율.
 
-tagCharStatsPhysicalResist=물리 저항
-tagCharStatsPhysicalResistInfo=물리 피해와 체내 충격 피해를 발생시키는 공격이나 스펠에 대한 저항력.
-
 tagCharStatsDisruptionResist=시전방해 저항
 tagCharStatsDisruptionResistInfo=스킬 사용을 방해하는 공격이나 스펠에 대한 저항력.
 
@@ -1036,6 +1033,9 @@ tagCharStatsSleepResistInfo=캐릭터를 깊은 잠에 빠진 것 같은 상태�
 
 tagCharStatsSlowResist=감속 저항
 tagCharStatsSlowResistInfo=공격, 시전 속도 및 이동 속도를 줄이는 효과에 대한 저항력.
+
+tagCharStatsStunResist=기절 저항
+tagCharStatsStunResistInfo=공격이나 스펠에 의해 기절해서 아무 반응도 하지 못하는 시간을 단축.
 
 #Retaliation
 tagCharStatsDamageReflect=데미지 반사
@@ -2503,8 +2503,6 @@ tagGI_CloudSavingWarning=경고: 클라우드 세이브가 활성화되어 있�
 #patch v1.2
 tagExclusiveSkillConflict=^r이미 더욱 강력한 독점 스킬이 활성화되어 있습니다, {%s0}.
 tagAutoToggledSkill=^o버프는 자동으로 활성화됩니다.
-CooldownCharges={%d0} {^E}최대 시전
-CooldownChargesMod=+{%d0} {^E}최대 시전
 PotionCooldownCharges={%d0} {^E}최대 사용
 PotionCooldownChargesMod=+{%d0} {^E}최대 사용
 tagCharRunSpeedMaxModifier={%+.0f0}% {^E}최대 이동 속도
@@ -2539,4 +2537,14 @@ tagCharStatsReflectResist=반사 저항
 tagCharStatsReflectResistInfo=데미지를 주는 반사 효과에 대한 저항.
 tagHUDHealthPercent_Head={%d0}%
 tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
+
+#patch v1.2.1
+CooldownCharges={%d0} {^E}충전
+CooldownChargesMod=+{%d0} {^E}충전
+SkillChanceWeightMod=+{%d0}% {^E}발동 확률
+tagBonusLifeAbsBuff=초당 {^E}{^H}{%.0f0} 체력 회복{^E}
+tagBonusLifePercentBuff=초당 {^E}{^H}{%.0f0}% 체력 회복{^E}
+tagFactionNemesisSpawned=네메시스가 다가옵니다!
+tagHUDDesc22=인벤토리에서 최근에 획득한 아이템에 추가 강조를 토글하세요.
+tagHUDOption22=새로운 아이템 강조
 

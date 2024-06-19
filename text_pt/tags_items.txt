@@ -882,6 +882,7 @@ tagTwoHandedSword=[fs]Espada de Duas Mãos
 tagTwoHandedMace=[fs]Maça de Duas Mãos
 tagTwoHandedAxe=[ms]Machado de Duas Mãos
 tagTwoHandedRifle=[fs]Arma de Longo Alcance de Duas Mãos
+tagTwoHandedSpear=[fs]Lança de Duas Mãos
 
 tagSpear=[fs]Lança
 tagStaff=[ms]Bastão
@@ -3386,7 +3387,7 @@ tagCompA028Name=Cálculo Biliar Vitriólico
 tagCompA028Desc="Pedras vitriólicas formadas na bílis de feras imundas."^w^n(Usado em armas corpo a corpo, escudos e focos)
 
 tagCompA029Name=Pedra de Amolar Abençoada
-tagCompA029Desc="Afia até mesmo a mais afiada das lâminas, aumentando o dano que penetra a armadura do inimigo."^w^n(Usada em machados, espadas, armas de fogo e bestas)
+tagCompA029Desc="Afia até mesmo a mais afiada das lâminas, aumentando o dano que penetra a armadura do inimigo."^w^n(Usado em machados, lanças, espadas, armas de fogo e bestas)
 
 tagCompA030Name=Amostra de Seda
 tagCompA030Desc="Os nômades ocidentais sabem há muito tempo que a seda em camadas pode envolver e retardar a penetração de projéteis perfurantes."^w^n(Usada em armaduras de ombros, de torso e de pernas)
@@ -3531,7 +3532,7 @@ tagCompB014Name=^kFragmento de Beronath
 tagCompB014Desc="Apenas um pedaço da lendária lança que matou Beronath, mas ainda retém um grande poder."^w^n(Usado em todas as armas, escudos e focos)
 
 tagCompB015Name=^kPedra de Amolar Sangrenta
-tagCompB015Desc="Banhada no sangue dos falecidos, esta pedra de amolar amaldiçoada dá a gumes afiados uma sede de sangue."^w^n(Usada em machados, espadas, armas de fogo e bestas)
+tagCompB015Desc="Banhada no sangue dos falecidos, esta pedra de amolar amaldiçoada dá a gumes afiados uma sede de sangue."^w^n(Usado em machados, lanças, espadas, armas de fogo e bestas)
 
 tagCompB016Name=^kMagnetita Harmonizada
 tagCompB016Desc="Essas pedras raras e potentes ainda ecoam com os trovões da tempestade que lhes deu origem."^w^n(Usada em amuletos e medalhas)
@@ -4496,3 +4497,9 @@ tagSlotWaist= (Cintura)
 tagSlotRelic= (Relíquia)
 tagSlotMedal= (Medalha)
 tagSlotUnknown= (Não Equipado)
+
+#v1.2.1.0
+tagShowDetails=[Segure a tecla Ctrl para Mostrar Detalhes]
+tagConsumableCategoryElixirDesc=^oVocê só pode aproveitar os efeitos de um Elixir de cada vez.
+tagConsumableCategoryOilDesc=^oVocê só pode aproveitar os efeitos de um Óleo de cada vez.
+tagConsumableCategoryTinctureDesc=^oTinturas possuem tempos de recarga compartilhados.

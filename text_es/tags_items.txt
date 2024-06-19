@@ -882,6 +882,7 @@ tagTwoHandedSword=[fs]Espada a dos manos
 tagTwoHandedMace=[fs]Maza a dos manos
 tagTwoHandedAxe=[fs]Hacha a dos manos
 tagTwoHandedRifle=[fs]Arma a distancia a dos manos
+tagTwoHandedSpear=[fs]Lanza a dos manos
 
 tagSpear=Lanza
 tagStaff=Bastón
@@ -3386,7 +3387,7 @@ tagCompA028Name=[ms]Cálculo Biliar Vitriólico
 tagCompA028Desc="Piedras vitriólicas formadas en la bilis de bestias nauseabundas".^w^n(Usado en armas cuerpo a cuerpo, escudos y objetos de invocación de mano izquierda)
 
 tagCompA029Name=[fs]Piedra de Afilar Bendita
-tagCompA029Desc="Afila incluso el más afilado de las hojas, aumentando el daño que penetra el armadura enemiga". ^w^n(Usada en hachas, espadas, armas de fuego y ballestas)
+tagCompA029Desc="Afila incluso el más afilado de las hojas, aumentando el daño que penetra el armadura enemiga". ^w^n(Se usa en hachas, lanzas, espadas, pistolas y ballestas)
 
 tagCompA030Name=[ms]Retazo de Seda
 tagCompA030Desc="Los nómadas del oeste conocen desde hace mucho que la seda puesta en capas puede disminuir y ralentizar la penetración de proyectiles afilados".^w^n(Usado en armaduras de hombros, pecho y piernas)
@@ -3531,7 +3532,7 @@ tagCompB014Name=^kFragmento de Beronath
 tagCompB014Desc="Sólo un fragmento de la legendaria lanza que derribó a Beronath, pero aún conserva un gran poder".^w^n(Usado en todas las armas, escudos y objetos de invocación de mano izquierda)
 
 tagCompB015Name=^kPiedra de Afilar Sangrienta
-tagCompB015Desc="Empapada con la sangre de los caídos, esta piedra de afilar maldita otorga a las hojas sed de sangre". ^w^n(Usada en hachas, espadas, armas de fuego y ballestas)
+tagCompB015Desc="Empapada con la sangre de los caídos, esta piedra de afilar maldita otorga a las hojas sed de sangre". ^w^n(Se usa en hachas, lanzas, espadas, pistolas y ballestas)
 
 tagCompB016Name=^kMagnetita Armónica
 tagCompB016Desc="En estas piedras raras y potentes todavía resuenan los truenos de las tormentas que las hizo nacer".^w^n(Usadas en amuletos y medallas)
@@ -4496,3 +4497,9 @@ tagSlotWaist= (Cintura)
 tagSlotRelic= (Reliquia)
 tagSlotMedal= (Medalla)
 tagSlotUnknown= (Sin equipar)
+
+#v1.2.1.0
+tagShowDetails=[Mantener pulsado CTRL para ver los detalles]
+tagConsumableCategoryElixirDesc=^oSolo puedes utilizar los beneficios de un elixir a la vez.
+tagConsumableCategoryOilDesc=^oSolo puedes utilizar los beneficios de un aceite a la vez.
+tagConsumableCategoryTinctureDesc=^oEl tiempo de espera de las tinturas es compartido.

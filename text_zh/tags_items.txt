@@ -882,6 +882,7 @@ tagTwoHandedSword=双手剑
 tagTwoHandedMace=双手锤
 tagTwoHandedAxe=双手斧
 tagTwoHandedRifle=双手远程武器
+tagTwoHandedSpear=双手矛
 
 tagSpear=长矛
 tagStaff=法杖
@@ -3386,7 +3387,7 @@ tagCompA028Name=强酸结石
 tagCompA028Desc="邪恶野兽的胆囊中生成的酸性结石。"^w^n(用于近战武器，盾牌和法器副手)
 
 tagCompA029Name=赐福磨石
-tagCompA029Desc="能够打磨哪怕是最为锋利的刀刃，提高穿透敌人护甲的穿刺伤害。"^w^n(用于斧，剑，枪械和双手弩)
+tagCompA029Desc="能够打磨哪怕是最为锋利的刀刃，提高穿透敌人护甲的穿刺伤害。"^w^n（适用于斧、矛、剑、枪、弩）
 
 tagCompA030Name=丝绸
 tagCompA030Desc="西方的游牧民族很早就知道多层的丝绸能够抵御破甲的投射物。"^w^n(用于护肩，胸甲和护腿)
@@ -3531,7 +3532,7 @@ tagCompB014Name=^k贝若纳斯的碎片
 tagCompB014Desc="虽然只是传说中杀死贝若纳斯的神圣之矛的一块碎片，但仍残留着强大的力量。"^w^n(用于所有武器，盾牌和法器副手)
 
 tagCompB015Name=^k血腥磨石
-tagCompB015Desc="浸透在堕落之血中，这块被诅咒的磨刀石将引发利刃对鲜血无比的饥渴。"^w^n(用于斧，剑，枪械和双手弩)
+tagCompB015Desc="浸透在堕落之血中，这块被诅咒的磨刀石将引发利刃对鲜血无比的饥渴。"^w^n（适用于斧、矛、剑、枪、弩）
 
 tagCompB016Name=^k共鸣磁石
 tagCompB016Desc="蕴生于风暴雷电之中，这些稀有且威力强大的石头上仍然回响着孕育它们的雷电之力。"^w^n(用于项链和勋章)
@@ -4497,3 +4498,8 @@ tagSlotRelic= (圣物)
 tagSlotMedal= (勋章)
 tagSlotUnknown= (未装备)
 
+#v1.2.1.0
+tagShowDetails=[按住 Ctrl 来查看详情]
+tagConsumableCategoryElixirDesc=^o你一次只能获得一种药剂的效果。
+tagConsumableCategoryOilDesc=^o你一次只能获得一种油的效果。
+tagConsumableCategoryTinctureDesc=^o需打破药瓶的药剂共享冷却。

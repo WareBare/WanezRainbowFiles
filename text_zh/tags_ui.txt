@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=调整选项来显示对应的战利品。切换显示/隐藏物品可用于匆忙遭遇战期间隐藏所有掉落的物品，在解决战斗后再次显示它们。{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.10{^n}for Grim Dawn: v1.2.0.5{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=调整选项来显示对应的战利品。切换显示/隐藏物品可用于匆忙遭遇战期间隐藏所有掉落的物品，在解决战斗后再次显示它们。{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=普通难度
@@ -506,9 +506,9 @@ tagLootFilter08=始终显示独特物品
 tagLootFilter08Info=勾选此框以始终显示独特稀有(史诗和传奇品质)装备，无视其他过滤选项。{^N}{^N}当你在搜寻特定的魔法、稀有或专属掉落装备，但仍希望收集每个独特装备时，请使用此选项。
 
 tagLootFilter09=单手近战武器
-tagLootFilter09Info=显示/隐藏 单手斧、锤和剑。
+tagLootFilter09Info=显示/隐藏单手斧、锤、矛和剑。
 tagLootFilter10=双手近战武器
-tagLootFilter10Info=显示/隐藏 双手斧、锤和剑。
+tagLootFilter10Info=显示/隐藏双手斧、锤、矛和剑。
 tagLootFilter11=单手远程武器
 tagLootFilter11Info=显示/隐藏 单手枪。
 tagLootFilter12=双手远程武器
@@ -614,8 +614,8 @@ tagStatsResistance07=活力
 tagStatsResistance07Desc=对造成活力损伤和活力衰减的活力汲取咒语的抗性。
 tagStatsResistance08=虚化
 tagStatsResistance08Desc=对造成虚化伤害的虚化攻击和法术的抗性。
-tagStatsResistance09=眩晕
-tagStatsResistance09Desc=减少使你无法反抗的眩晕攻击和技能的持续时间。
+tagStatsResistance09=物理伤
+tagStatsResistance09Desc=对造成物理伤害和创伤伤害的攻击和技能的抗性。
 tagStatsResistance10=混乱
 tagStatsResistance10Desc=对宇宙本身的不稳定能量释放出的混乱伤害的抗性。冥煞常会使用这种力量。
 tagStatsResistance11=击倒
@@ -1010,9 +1010,6 @@ tagCharStatsDodgeChanceInfo=闪避一次近战攻击的几率，无视该次攻�
 tagCharStatsProjDeflectChance=偏斜几率
 tagCharStatsProjDeflectChanceInfo=偏斜一次远程攻击的几率，无视该次攻击伤害。
 
-tagCharStatsPhysicalResist=物理抗性
-tagCharStatsPhysicalResistInfo=对造成物理伤害和创伤伤害的攻击和技能的抗性。
-
 tagCharStatsDisruptionResist=技能打断抗性
 tagCharStatsDisruptionResistInfo=对能打断技能释放的攻击和法术的抗性。
 
@@ -1036,6 +1033,9 @@ tagCharStatsSleepResistInfo=对使你昏睡的法术的抗性，昏睡效果会�
 
 tagCharStatsSlowResist=减速抗性
 tagCharStatsSlowResistInfo=对所有能减慢你攻击、施法和移动速度的效果的抗性。
+
+tagCharStatsStunResist=眩晕抗性
+tagCharStatsStunResistInfo=减少使你无法反抗的眩晕攻击和技能的持续时间。
 
 #Retaliation反击
 tagCharStatsDamageReflect=伤害反弹
@@ -2382,8 +2382,6 @@ tagChatCommandShort06=u
 #patch v1.2
 tagExclusiveSkillConflict=^r已经有更强力的专属技能生效中:{%s0}。
 tagAutoToggledSkill=^o增益效果已自动激活。
-CooldownCharges={%d0} {^E}施法次数上限
-CooldownChargesMod=+{%d0} {^E}施法次数上限
 PotionCooldownCharges={%d0} {^E}使用次数上限
 PotionCooldownChargesMod=+{%d0} {^E}使用次数上限
 tagCharRunSpeedMaxModifier={%+.0f0}% {^E}移动速度上限
@@ -2419,4 +2417,13 @@ tagCharStatsReflectResistInfo=你的角色对反伤效果的抗性。
 tagHUDHealthPercent_Head={%d0}%
 tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
 
+#patch v1.2.1
+CooldownCharges={%d0} {^E} 充能
+CooldownChargesMod=+{%d0} {^E} 充能
+SkillChanceWeightMod=+{%d0}% 使用概率 {^E}
+tagBonusLifeAbsBuff={^E}回复 {^H}{%.0f0} 生命，每秒回复 {^E}
+tagBonusLifePercentBuff={^E}回复 {^H}{%.0f0}% 生命，每秒回复 {^E}
+tagFactionNemesisSpawned=一名复仇者正在接近！
+tagHUDDesc22=新拾取的物品在物品栏中高亮显示。
+tagHUDOption22=新物品高亮显示
 
