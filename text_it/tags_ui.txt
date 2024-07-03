@@ -2421,8 +2421,7 @@ tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
 CooldownCharges={%d0} {^E}Cariche
 CooldownChargesMod=+{%d0} {^E}Cariche
 SkillChanceWeightMod=+{%d0}% {^E}Possibilità di Utilizzo
-tagBonusLifeAbsBuff={^E}Ripristina {^H}{%.0f0} {^E}Salute al secondo
-tagBonusLifePercentBuff={^E}Ripristina {^H}{%.0f0}% {^E}di Salute al secondo
+
 tagFactionNemesisSpawned=Arriva una nemesi!
 tagHUDDesc22=Evidenzia/non evidenzia gli oggetti ottenuti di recente nell'inventario.
 tagHUDOption22=Evidenzia nuovi oggetti

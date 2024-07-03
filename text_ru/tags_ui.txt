@@ -2565,8 +2565,7 @@ tagCharStatsReflectResistInfo=Сопротивление отражённым э
 CooldownCharges={^E}Заряды: {%d0}
 CooldownChargesMod={^E}Заряды: +{%d0}
 SkillChanceWeightMod=+{%d0}% {^E}к шансу применения
-tagBonusLifeAbsBuff={^E}Восстанавливает {^H}{%.0f0} {^E}здоровья в сек.
-tagBonusLifePercentBuff={^E}Восстанавливает {^H}{%.0f0}% {^E}здоровья в сек.
+
 tagFactionNemesisSpawned=Приближается немезида!
 tagHUDDesc22=Включить дополнительную подсветку в инвентаре для недавно подобранных предметов.
 tagHUDOption22=Подсветка новых предметов

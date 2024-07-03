@@ -2546,8 +2546,7 @@ tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
 CooldownCharges={%d0} {^E}Lao Tấn Công
 CooldownChargesMod=+{%d0} {^E}Lao Tấn Công
 SkillChanceWeightMod=+{%d0}% {^E}Cơ Hội Được Sử Dụng
-tagBonusLifeAbsBuff={^E}Hồi phục {^H}{%.0f0} {^E}Máu mỗi giây
-tagBonusLifePercentBuff={^E}Hồi phục {^H}{%.0f0}% {^E}Máu mỗi giây
+
 tagFactionNemesisSpawned=Một Kình Địch đang đến gần!
 tagHUDDesc22=Bật/tắt tô sáng bổ sung cho các vật phẩm cướp được gần đây trong hành trang.
 tagHUDOption22=Tô Sáng Vật Phẩm Mới

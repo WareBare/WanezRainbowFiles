@@ -2432,8 +2432,7 @@ tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
 CooldownCharges={%d0} {^E}Ładunki
 CooldownChargesMod=+{%d0} {^E}ładunki
 SkillChanceWeightMod=+{%d0}% {^E}szansy na użycie
-tagBonusLifeAbsBuff={^E}Przywraca {^H}{%.0f0} {^E}pkt. zdrowia na sekundę
-tagBonusLifePercentBuff={^E}Przywraca {^H}{%.0f0}% {^E}pkt. zdrowia na sekundę
+
 tagFactionNemesisSpawned=Nadciąga Bóg!
 tagHUDDesc22=Wyświetl lub ukryj dodatkowe informacje niedawno zebranych przedmiotów do ekwipunku.
 tagHUDOption22=Informacje o nowych przedmiotach

@@ -2423,8 +2423,7 @@ tagCharStatsReflectResistInfo=Odolnost vůči odraženým efektům, které tě p
 
 #patch v1.2.1
 SkillChanceWeightMod=+{%d0}% {^E}šance na použití
-tagBonusLifeAbsBuff={^E}Obnoví {^H}{%.0f0} {^E}zdraví za sekundu
-tagBonusLifePercentBuff={^E}Obnoví {^H}{%.0f0}% {^E}zdraví za sekundu
+
 tagFactionNemesisSpawned=Mstitel se přibližuje!
 tagHUDDesc22=Zapne dodatečné zvýraznění nedávno ukořištěných předmětů v inventáři.
 tagHUDOption22=Zvýraznění nového předmětu

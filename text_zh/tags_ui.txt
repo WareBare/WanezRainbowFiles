@@ -2421,8 +2421,7 @@ tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
 CooldownCharges={%d0} {^E} 充能
 CooldownChargesMod=+{%d0} {^E} 充能
 SkillChanceWeightMod=+{%d0}% 使用概率 {^E}
-tagBonusLifeAbsBuff={^E}回复 {^H}{%.0f0} 生命，每秒回复 {^E}
-tagBonusLifePercentBuff={^E}回复 {^H}{%.0f0}% 生命，每秒回复 {^E}
+
 tagFactionNemesisSpawned=一名复仇者正在接近！
 tagHUDDesc22=新拾取的物品在物品栏中高亮显示。
 tagHUDOption22=新物品高亮显示

@@ -2542,8 +2542,7 @@ tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
 CooldownCharges={%d0} {^E}충전
 CooldownChargesMod=+{%d0} {^E}충전
 SkillChanceWeightMod=+{%d0}% {^E}발동 확률
-tagBonusLifeAbsBuff=초당 {^E}{^H}{%.0f0} 체력 회복{^E}
-tagBonusLifePercentBuff=초당 {^E}{^H}{%.0f0}% 체력 회복{^E}
+
 tagFactionNemesisSpawned=네메시스가 다가옵니다!
 tagHUDDesc22=인벤토리에서 최근에 획득한 아이템에 추가 강조를 토글하세요.
 tagHUDOption22=새로운 아이템 강조

@@ -2544,8 +2544,7 @@ tagCharStatsReflectResistInfo=Resistenz gegen Reflexionseffekte, die dir Schaden
 
 #patch v1.2.1
 SkillChanceWeightMod=+ {%d0} % {^E}Benutzungswahrscheinlichkeit
-tagBonusLifeAbsBuff={^E}Stellt {^H}{%.0f0} {^E}Gesundheit pro Sekunde wieder her
-tagBonusLifePercentBuff={^E}Stellt {^H}{%.0f0} % {^E}Gesundheit pro Sekunde wieder her
+
 tagFactionNemesisSpawned=Eine Nemesis nähert sich!
 tagHUDDesc22=Schaltet zusätzliche Markierungen von kürzlich durch Plündern erhaltenen Gegenständen im Inventar ein/aus.
 tagHUDOption22=Markierung neuer Gegenstände

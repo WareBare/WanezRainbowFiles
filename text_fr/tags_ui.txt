@@ -2428,8 +2428,7 @@ tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
 CooldownCharges={%d0} {^E}Charges
 CooldownChargesMod=+{%d0} {^E}Charges
 SkillChanceWeightMod=+{%d0} % de {^E}chances d'être utilisé
-tagBonusLifeAbsBuff={^E}Restaure {^H}{%.0f0} {^E}points de santé par seconde
-tagBonusLifePercentBuff={^E}Restaure {^H}{%.0f0} % {^E}de santé par seconde
+
 tagFactionNemesisSpawned=Un némésis approche !
 tagHUDDesc22=Active ou désactive la mise en surbrillance supplémentaire des objets récemment obtenus dans l'inventaire.
 tagHUDOption22=Surbrillance des nouveaux objets

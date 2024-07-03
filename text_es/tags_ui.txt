@@ -2542,8 +2542,7 @@ tagHUDPlayerHealthPercent_Head={%t0}({%d0}%)
 
 #patch v1.2.1
 SkillChanceWeightMod=+{%d0}% {^E}de probabilidad de ser utilizada
-tagBonusLifeAbsBuff={^E}Restaura {^H}{%.0f0} {^E}de vida por segundo
-tagBonusLifePercentBuff={^E}Restaura {^H}{%.0f0}% {^E}de vida por segundo
+
 tagFactionNemesisSpawned=¡Se acerca una némesis!
 tagHUDDesc22=Muestra detalles adicionales de los botines recientemente obtenidos en el inventario.
 tagHUDOption22=Destacar objetos nuevos

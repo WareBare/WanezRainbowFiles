@@ -2422,8 +2422,7 @@ tagCharStatsReflectResistInfo=Resistência a efeitos refletidores que te causam 
 CooldownCharges={%d0} {^E}Cargas
 CooldownChargesMod=+{%d0} {^E}Cargas
 SkillChanceWeightMod=+{%d0}% de {^E}Chance de ser Usada
-tagBonusLifeAbsBuff={^E}Restaura {^H}{%.0f0} de {^E}Saúde por segundo
-tagBonusLifePercentBuff={^E}Restaura {^H}{%.0f0}% de {^E}Saúde por segundo
+
 tagFactionNemesisSpawned=Um nêmesis se aproxima!
 tagHUDDesc22=Mostrar/Ocultar destaques adicionais para itens coletados recentemente no inventário.
 tagHUDOption22=Destaque de Item Novo

@@ -882,7 +882,7 @@ tagTwoHandedSword=[ms]двуручный меч
 tagTwoHandedMace=[fs]двуручная булава
 tagTwoHandedAxe=[ms]двуручный топор
 tagTwoHandedRifle=[np]арбалеты/ружья
-tagTwoHandedSpear=[ns]Двуручное копьё
+tagTwoHandedSpear=[ns]двуручное копьё
 
 tagSpear=[np]копья
 tagStaff=[np]посохи
@@ -3677,6 +3677,8 @@ tagBonusLifePercentSlow={^E}Постепенно восстанавливает 
 tagBonusLifePercentAbs={^E}Восстанавливается {^H}{%.0f0}% + {%.0f1} {^E}здоровья
 tagBonusLifePercent={^E}Восстанавливается {^H}{%.0f0}% {^E}здоровья
 tagBonusLifeAbs={^E}Восстанавливается {^H}{%.0f0} {^E}здоровья
+tagBonusLifeAbsBuff={^E}Восстанавливает {^H}{%.0f0} {^E}здоровья в сек.
+tagBonusLifePercentBuff={^E}Восстанавливает {^H}{%.0f0}% {^E}здоровья в сек.
 tagBonusManaPercentAbs={^E}Восстанавливается {^H}{%.0f0}% + {%.0f1} {^E}энергии
 tagBonusManaPercent={^E}Восстанавливается {^H}{%.0f0}% {^E}энергии
 tagBonusManaAbs={^E}Восстанавливается {^H}{%.0f0} {^E}энергии
