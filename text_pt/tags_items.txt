@@ -4502,6 +4502,7 @@ tagSlotUnknown= (Não Equipado)
 
 #v1.2.1.0
 tagShowDetails=[Segure a tecla Ctrl para Mostrar Detalhes]
+tagShowDetailsGamepad=^O[Segure o Gatilho Esquerdo para Mostrar Detalhes]
 tagConsumableCategoryElixirDesc=^oVocê só pode aproveitar os efeitos de um Elixir de cada vez.
 tagConsumableCategoryOilDesc=^oVocê só pode aproveitar os efeitos de um Óleo de cada vez.
 tagConsumableCategoryTinctureDesc=^oTinturas possuem tempos de recarga compartilhados.

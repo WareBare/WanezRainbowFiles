@@ -143,31 +143,31 @@ tagGDX2EndlessDungeon_Essence_03=Alma Destrozada Celestial
 tagGDX2EndlessDungeon_Essence_04=Alma Destrozada Abrumadora
 
 tagGDX2EndlessDungeon_Key_01=Piedra Guía Destrozada
-tagGDX2EndlessDungeon_Key_01_Desc=La Piedra Guía Destrozada ofreció antiguamente un potencial increíble. Permite a Mazaan abrir el camino desde el fragmento 5 hasta el 15 del Reino Destrozado.
+tagGDX2EndlessDungeon_Key_01_Desc=La Piedra Guía Destrozada ofreció antiguamente un potencial increíble. Permite a Mazaan abrir el camino desde el fragmento 2 hasta el 6 del Reino Destrozado.
 tagGDX2EndlessDungeon_Key_01_Blueprint=Diseño: Piedra Guía Destrozada
 
 tagGDX2EndlessDungeon_Key_02=Piedra Guía Resonante
-tagGDX2EndlessDungeon_Key_02_Desc=La Piedra Guía Resonante resplandece con un fragmento de su antiguo poder. Permite a Mazaan abrir el camino desde el fragmento 20 hasta el 30 del Reino Destrozado.
+tagGDX2EndlessDungeon_Key_02_Desc=La Piedra Guía Resonante resplandece con un fragmento de su antiguo poder. Permite a Mazaan abrir el camino desde el fragmento 8 hasta el 12 del Reino Destrozado.
 tagGDX2EndlessDungeon_Key_02_Blueprint=Diseño: Piedra Guía Resonante
 
 tagGDX2EndlessDungeon_Key_03=Piedra Guía Embrujada
-tagGDX2EndlessDungeon_Key_03_Desc=La Piedra Guía Embrujada ha sido infundida con los espíritus de los muertos. Permite a Mazaan abrir el camino desde el fragmento 35 hasta el 45 del Reino Destrozado.
+tagGDX2EndlessDungeon_Key_03_Desc=La Piedra Guía Embrujada ha sido infundida con los espíritus de los muertos. Permite a Mazaan abrir el camino desde el fragmento 14 hasta el 18 del Reino Destrozado.
 tagGDX2EndlessDungeon_Key_03_Blueprint=Diseño: Piedra Guía Embrujada
 
 tagGDX2EndlessDungeon_Key_04=Piedra Guía Profanada
-tagGDX2EndlessDungeon_Key_04_Desc=La Piedra Guía Profanada ha sido ungida con sangre contaminada. Permite a Mazaan abrir el camino desde el fragmento 50 hasta el 60 del Reino Destrozado.
+tagGDX2EndlessDungeon_Key_04_Desc=La Piedra Guía Profanada ha sido ungida con sangre contaminada. Permite a Mazaan abrir el camino desde el fragmento 20 hasta el 24 del Reino Destrozado.
 tagGDX2EndlessDungeon_Key_04_Blueprint=Diseño: Piedra Guía Profanada
 
 tagGDX2EndlessDungeon_Key_05=Piedra Guía Celestial
-tagGDX2EndlessDungeon_Key_05_Desc=La Piedra Guía Celestial ha sido completamente restaurada a su potencial divino. Permite a Mazaan abrir el camino desde el fragmento 65 hasta el 75 del Reino Destrozado.^n^nEsta piedra guía no debe ser usada por los débiles de corazón.
+tagGDX2EndlessDungeon_Key_05_Desc=La Piedra Guía Celestial ha sido completamente restaurada a su potencial divino. Permite a Mazaan abrir el camino desde el fragmento 26 hasta el 30 del Reino Destrozado.^n^nEsta piedra guía no debe ser usada por los débiles de corazón.
 tagGDX2EndlessDungeon_Key_05_Blueprint=Diseño: Piedra Guía Celestial
 
 tagGDX2EndlessDungeon_Key_06=Piedra Guía Eterna
-tagGDX2EndlessDungeon_Key_06_Desc=Una piedra guía que tira de los hilos de la realidad, doblándolos a su alrededor. Permite a Mazaan abrir el camino del Reino Destrozado, desde el fragmento 80 hasta el 90.^n^nEsta piedra guía no debe ser utilizada por gente sin coraje.
+tagGDX2EndlessDungeon_Key_06_Desc=Una piedra guía que tira de los hilos de la realidad, doblándolos a su alrededor. Permite a Mazaan abrir el camino del Reino Destrozado, desde el fragmento 32 hasta el 36.^n^nEsta piedra guía no debe ser utilizada por gente sin coraje.
 tagGDX2EndlessDungeon_Key_06_Blueprint=Diseño: Piedra Guía Eterna
 
 tagGDX2EndlessDungeon_Key_07=Piedra Guía de la Muerte
-tagGDX2EndlessDungeon_Key_07_Desc=Mancillada con el poder de la muerte, la piedra guía abre ahora el camino hacia peligros insondables donde no se espera recompensa sino la gloria de la conquista.^n^nPermite a Mazaan abrir el camino al fragmento 95 del Reino Destrozado y más allá.^n^nEsta piedra guía no debe ser utilizada por gente sin coraje.
+tagGDX2EndlessDungeon_Key_07_Desc=Mancillada con el poder de la muerte, la piedra guía abre ahora el camino hacia peligros insondables donde no se espera recompensa sino la gloria de la conquista.^n^nPermite a Mazaan abrir el camino al fragmento 38 del Reino Destrozado y más allá.^n^nEsta piedra guía no debe ser utilizada por gente sin coraje.
 tagGDX2EndlessDungeon_Key_07_Blueprint=Diseño: Piedra Guía de la Muerte
 
 tagGDX2ItemTest={^F}La Observadora

@@ -4505,6 +4505,7 @@ tagSlotUnknown= (Không Trang Bị)
 
 #v1.2.1.0
 tagShowDetails=[Giữ Ctrl để hiển thị Chi tiết]
+tagShowDetailsGamepad=^O[Giữ Left Trigger để hiển thị Chi tiết]
 tagConsumableCategoryElixirDesc=^oBạn chỉ có thể hưởng lợi từ một Thần Dược tại một thời điểm.
 tagConsumableCategoryOilDesc=^oBạn chỉ có thể hưởng lợi từ một Tinh Dầu tại một thời điểm.
 tagConsumableCategoryTinctureDesc=^oMa Dược có chung thời gian hồi.

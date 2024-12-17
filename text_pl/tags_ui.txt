@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Dostosuj opcje pokazywania wybranych przedmiotów na ziemi. Wybranie opcji "Załącz Pokaż/Ukryj przedmioty" umożliwia ukrywanie wszystkich wypadających przedmiotów podczas najintensywniejszych starć, a następnie ponowne ich wyświetlenie po jej zakończeniu.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Dostosuj opcje pokazywania wybranych przedmiotów na ziemi. Wybranie opcji "Załącz Pokaż/Ukryj przedmioty" umożliwia ukrywanie wszystkich wypadających przedmiotów podczas najintensywniejszych starć, a następnie ponowne ich wyświetlenie po jej zakończeniu.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.3{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Prosty
@@ -2436,4 +2436,75 @@ SkillChanceWeightMod=+{%d0}% {^E}szansy na użycie
 tagFactionNemesisSpawned=Nadciąga Bóg!
 tagHUDDesc22=Wyświetl lub ukryj dodatkowe informacje niedawno zebranych przedmiotów do ekwipunku.
 tagHUDOption22=Informacje o nowych przedmiotach
+
+#patch v1.2.1.3
+DamageRangeFormatAppend= [{%t0}-{%t1}]
+DamageRangeFormatTime= {^E}ponad {^H}{%.1f0}-{%.1f1} {^E}sek.
+DamageRangeFormatTimeR= {^E}ponad {^H}{%t0}-{%t1} {^E}sek.
+
+tagDamageConversionR={%.0f0}%-{%.0f1}% {^E}{%s2} - zmiana na: {%s3}
+tagDamageRemovalR={%.0f0}%-{%.0f1}% {^E}{%s2} redukcji
+
+MaxDurationRefresh=Wydłużenie maksymalnego czasu
+tagSkillDurationRefresh={%t0}, aby wydłużyć czas trwania o {^H}{%.1f1} {%z2}. (Maks. {^H}{%.1f3} {%z4})
+tagSkillDurationRefreshName={%t0}, aby wydłużyć czas trwania: {%s1} o {^H}{%.1f2} {%z3}. (Maks. {^H}{%.1f4} {%z5})
+tagSkillCooldownRefresh={%t0}, aby skrócić aktywny czas odnawiania o {^H}{%.1f1} {%z2}
+tagSkillCooldownRefreshName={%t0}, aby skrócić aktywny czas odnawiania: {%s1} o {^H}{%.1f2} {%z3}
+
+DamageColdR={%t0}-{%t1} {^E}obraż. od zimna
+DamageFireR={%t0}-{%t1} {^E}obraż. od ognia
+DamageAetherR={%t0}-{%t1} {^E}obraż od aetheru
+DamageChaosR={%t0}-{%t1} {^E}obraż. od chaosu
+DamageLifeR={%t0}-{%t1} {^E}obraż. od witalności
+DamageLifeLeechR={%t0}-{%t1}% {^E}obrażeń od ataku zamienianych w zdrowie
+DamageLightningR={%t0}-{%t1} {^E}obraż. od błyskawic
+DamageElementalR={%t0}-{%t1} {^E}obraż. od żywiołów
+DamageModifierElementalR={%+.0f0}-{%.0f1}% {^E}obraż. od żywiołów
+DamagePhysicalR=+{%t0}-{%t1} {^E}obraż. od fizycznych
+DamagePierceR={%t0}-{%t1} {^E}obraż. od przebijających
+DamagePoisonR={%t0}-{%t1} {^E}obraż. od kwasów
+DamageDurationModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}obraż. od wewnętrznej traumy
+DamageDurationModifierBleedingR={%+.0f0}-{%.0f1}% {^E}obraż. od krwawienia
+DamageDurationModifierColdR={%+.0f0}-{%.0f1}% {^E}obraż. od odmrożeń
+DamageDurationModifierFireR={%+.0f0}-{%.0f1}% {^E}obraż. od podpalenia
+DamageDurationModifierPoisonR={%+.0f0}-{%.0f1}% {^E}obraż. od trucizn
+DamageDurationModifierLightningR={%+.0f0}-{%.0f1}% {^E}obraż. od porażenia
+DamageDurationModifierLifeR={%+.0f0}-{%.0f1}% {^E}obraż. od rozkładu
+DamageDurationModifierAttackSpeedR={%+.0f0}-{%.0f1}% {^E}spowolniony atak
+DamageDurationModifierSpellCastSpeedR={%+.0f0}-{%.0f1}% {^E}spowolnione rzucanie czarów
+DamageDurationModifierRunSpeedR={%+.0f0}-{%.0f1}% {^E}spowolniony bieg
+DamageDurationModifierLifeLeachR={%+.0f0}-{%.0f1}% {^E}wykradania zdrowia
+DamageDurationModifierManaLeachR={%+.0f0}-{%.0f1}% {^E}wykradania energii
+DamageDurationModifierOffensiveAbilityR={%+.0f0}-{%.0f1}% {^E}zdolności ofensywnych
+DamageDurationModifierDefensiveAbilityR={%+.0f0}-{%.0f1}% {^E}zdolności defensywnych
+DamageDurationModifierOffensiveReductionR={%+.0f0}-{%.0f1}% {^E}zmniejszone obrażenia fizyczne celu
+DamageDurationModifierDamageMultR={%+.0f0}-{%.0f1}% {^E}zwiększone rozdzieranie
+
+tagDamageModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}do wszystkich obrażeń
+tagDamageModifierDamageMultR={^E} {^H}{%.0f0}-{%.0f1}% do wartości obrażeń umiejętności
+tagRetaliationModifierDamageMultR={^E} {^H}{%.0f0}-{%.0f1}% do całkowitych odbitych obrażeń
+
+SkillManaCostReductionR=-{%.0f0}-{%.0f1}% {^E}energii używanej na umiejętności
+SkillCooldownReductionR=+{%.0f0}-{%.0f1}% {^E}do czasu odnawiania umiejętności
+SkillProjectileSpeedModifierR={%+.0f0}-{%.0f1}% {^E}zwiększenia szybkości pocisków i bełtów
+SkillManaCostReductionModifierR=-{%.0f0}-{%.0f1}% {^E}energii używanej na umiejętności
+SkillCooldownReductionModifierR=-{%.0f0}-{%.0f1}% {^E}czasu odnawiania umiejętności
+
+tagTotalSpeedResistanceR={%.0f0}-{%.0f1}% {^E}odporn. na spowolnienie
+tagDefenseSleepR={%.0f0}-{%.0f1}% {^E}odporn. na uśpienie
+tagDefenseSleepModifierR={%+.0f0}-{%.0f1}% {^E}odporn. na uśpienie
+
+DefensePhysicalDurationR={%.0f0}-{%.0f1}% {^E}redukcji czasu trwania traumy
+DefenseBleedingDurationR={%.0f0}-{%.0f1}% {^E}redukcji czasu trwania krwawienia
+DefenseColdDurationR={%.0f0}-{%.0f1}% {^E}redukcji czasu trwania odmrożenia
+DefenseFireDurationR={%.0f0}-{%.0f1}% {^E}redukcji czasu trwania podpalenia
+DefensePoisonDurationR={%.0f0}-{%.0f1}% {^E}redukcji czasu trwania trucizny
+DefenseLightningDurationR={%.0f0}-{%.0f1}% {^E}redukcji czasu trwania porażenia
+DefenseLifeDurationR={%.0f0}-{%.0f1}% {^E}redukcji czasu trwania rozkładu
+DefenseLifeLeachDurationR={%.0f0}-{%.0f1}% {^E}redukcji czasu trwania wykradania zdrowia
+DefenseManaLeachDurationR={%.0f0}-{%.0f1}% {^E}redukcji czasu trwania wykradania energii
+DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}odporn. na redukcję życia
+DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}odporn. na wykradanie energii
+
+
 

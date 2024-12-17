@@ -142,31 +142,31 @@ tagGDX2EndlessDungeon_Essence_03=Nebeská pokřivená duše
 tagGDX2EndlessDungeon_Essence_04=Ohromná pokřivená duše
 
 tagGDX2EndlessDungeon_Key_01=Rozbitý hraniční kámen
-tagGDX2EndlessDungeon_Key_01_Desc=Rozbitý hraniční kámen má obrovský potenciál. Umožňuje Mazaanovi otevřít cestu do alespoň 5. oblastí, nejvýše však do 15. oblastí Pokřiveného světa.
+tagGDX2EndlessDungeon_Key_01_Desc=Rozbitý hraniční kámen má obrovský potenciál. Umožňuje Mazaanovi otevřít cestu do alespoň 2. oblastí, nejvýše však do 6. oblastí Pokřiveného světa.
 tagGDX2EndlessDungeon_Key_01_Blueprint=Plánek: Rozbitý hraniční kámen
 
 tagGDX2EndlessDungeon_Key_02=Rezonující hraniční kámen
-tagGDX2EndlessDungeon_Key_02_Desc=Rezonující hraniční kámen je už pouze zlomek své bývalé moci. Umožňuje Mazaanovi otevřít cestu do alespoň 20. oblastí, nejvýše však do 30. oblastí Pokřiveného světa.
+tagGDX2EndlessDungeon_Key_02_Desc=Rezonující hraniční kámen je už pouze zlomek své bývalé moci. Umožňuje Mazaanovi otevřít cestu do alespoň 8. oblastí, nejvýše však do 12. oblastí Pokřiveného světa.
 tagGDX2EndlessDungeon_Key_02_Blueprint=Plánek: Rezonující hraniční kámen
 
 tagGDX2EndlessDungeon_Key_03=Strašidelný hraniční kámen
-tagGDX2EndlessDungeon_Key_03_Desc=Strašidelná hraniční kámen je prodchnut duchy mrtvých. Umožňuje Mazaanovi otevřít cestu do alespoň 35. oblastí, nejvýše však do 45. oblastí Pokřiveného světa.
+tagGDX2EndlessDungeon_Key_03_Desc=Strašidelná hraniční kámen je prodchnut duchy mrtvých. Umožňuje Mazaanovi otevřít cestu do alespoň 14. oblastí, nejvýše však do 18. oblastí Pokřiveného světa.
 tagGDX2EndlessDungeon_Key_03_Blueprint=Plánek: Strašidelná hraniční kámen
 
 tagGDX2EndlessDungeon_Key_04=Znesvěcený hraniční kámen
-tagGDX2EndlessDungeon_Key_04_Desc=Znesvěcený hraniční kámen byl posvěcen otrávenou krví. Umožňuje Mazaanovi otevřít cestu do alespoň 50. oblastí, nejvýše však do 60. oblastí Pokřiveného světa.
+tagGDX2EndlessDungeon_Key_04_Desc=Znesvěcený hraniční kámen byl posvěcen otrávenou krví. Umožňuje Mazaanovi otevřít cestu do alespoň 20. oblastí, nejvýše však do 24. oblastí Pokřiveného světa.
 tagGDX2EndlessDungeon_Key_04_Blueprint=Plánek: Znesvěcený hraniční kámen
 
 tagGDX2EndlessDungeon_Key_05=Nebeský hraniční kámen
-tagGDX2EndlessDungeon_Key_05_Desc=Nebeský hraniční kámen byl plně obnoven a pulzuje v něm jeho božský potenciál. Umožňuje Mazaanovi otevřít cestu do alespoň 65. oblastí, nejvýše však do 75. oblastí Pokřiveného světa. ^n^nTento hraniční kámen není pro jedince se slabým srdcem.
+tagGDX2EndlessDungeon_Key_05_Desc=Nebeský hraniční kámen byl plně obnoven a pulzuje v něm jeho božský potenciál. Umožňuje Mazaanovi otevřít cestu do alespoň 26. oblastí, nejvýše však do 30. oblastí Pokřiveného světa. ^n^nTento hraniční kámen není pro jedince se slabým srdcem.
 tagGDX2EndlessDungeon_Key_05_Blueprint=Plánek: Nebeský hraniční kámen
 
 tagGDX2EndlessDungeon_Key_06=Hraniční kámen věčnosti
-tagGDX2EndlessDungeon_Key_06_Desc=Kámen, který napíná vlákna reality a ohýbá je kolem sebe. Umožňuje Mazaanovi otevřít cestu nejméně k 80. až 90. střepu Roztříštěné říše. ^n^nTento kámen by neměli používat lidé se slabým srdcem.
+tagGDX2EndlessDungeon_Key_06_Desc=Kámen, který napíná vlákna reality a ohýbá je kolem sebe. Umožňuje Mazaanovi otevřít cestu nejméně k 32. až 36. střepu Roztříštěné říše. ^n^nTento kámen by neměli používat lidé se slabým srdcem.
 tagGDX2EndlessDungeon_Key_06_Blueprint=Plánek: Hraniční kámen věčnosti
 
 tagGDX2EndlessDungeon_Key_07=Hraniční kámen smrti
-tagGDX2EndlessDungeon_Key_07_Desc=Hraniční kámen poskvrněný mocí smrti nyní otevírá cestu vpřed do nevyzpytatelných nebezpečí, kde nečeká žádná odměna, ale sláva za dobytí. ^n^nUmožňuje Mazaanovi otevřít cestu přinejmenším k 95. střepu Roztříštěné říše a ještě dál. ^n^nTento kámen by neměli používat lidé se slabým srdcem.
+tagGDX2EndlessDungeon_Key_07_Desc=Hraniční kámen poskvrněný mocí smrti nyní otevírá cestu vpřed do nevyzpytatelných nebezpečí, kde nečeká žádná odměna, ale sláva za dobytí. ^n^nUmožňuje Mazaanovi otevřít cestu přinejmenším k 38. střepu Roztříštěné říše a ještě dál. ^n^nTento kámen by neměli používat lidé se slabým srdcem.
 tagGDX2EndlessDungeon_Key_07_Blueprint=Plánek: Hraniční kámen smrti
 
 tagGDX2ItemTest={^F}Miss Zevlák

@@ -4502,6 +4502,7 @@ tagSlotUnknown= (準備中)
 
 #v1.2.1.0
 tagShowDetails=[Ctrl長押しで詳細表示]
+tagShowDetailsGamepad=^O[左トリガー長押しで詳細を表示]
 tagConsumableCategoryElixirDesc=^o霊薬の 効果は 一度に 一つしか 受けられ ません。
 tagConsumableCategoryOilDesc=^oオイルの 効果は 一度に 一つしか 受けられ ません。
 tagConsumableCategoryTinctureDesc=^oチンキの クールダウンが 共通化されました。

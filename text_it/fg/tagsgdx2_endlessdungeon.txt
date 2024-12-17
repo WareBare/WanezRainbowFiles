@@ -143,31 +143,31 @@ tagGDX2EndlessDungeon_Essence_03=Anima Infranta Celestiale
 tagGDX2EndlessDungeon_Essence_04=Anima Infranta Travolgente
 
 tagGDX2EndlessDungeon_Key_01=Waystone Infranta
-tagGDX2EndlessDungeon_Key_01_Desc=La Waystone Infranta una volta offriva un potenziale incredibile. Permette a Mazaan di aprire la strada dal 5o Frammento, fino al 15mo Frammento, del Reame Infranto.
+tagGDX2EndlessDungeon_Key_01_Desc=La Waystone Infranta una volta offriva un potenziale incredibile. Permette a Mazaan di aprire la strada dal 2° Frammento, fino al 6° Frammento, del Reame Infranto.
 tagGDX2EndlessDungeon_Key_01_Blueprint=Progetto: Waystone Infranta
 
 tagGDX2EndlessDungeon_Key_02=Waystone Risonante
-tagGDX2EndlessDungeon_Key_02_Desc=La Waystone Risonante risplende con un frammento del suo antico potere. Permette a Mazaan di aprire la strada dal 20mo Frammento, fino al 30mo Frammento, del Reame Infranto.
+tagGDX2EndlessDungeon_Key_02_Desc=La Waystone Risonante risplende con un frammento del suo antico potere. Permette a Mazaan di aprire la strada dal 8° Frammento, fino al 12° Frammento, del Reame Infranto.
 tagGDX2EndlessDungeon_Key_02_Blueprint=Progetto: Waystone Risonante
 
 tagGDX2EndlessDungeon_Key_03=Waystone Infestata 
-tagGDX2EndlessDungeon_Key_03_Desc=La Waystone Infestata è stata infusa con gli spiriti dei morti. Permette a Mazaan di aprire la strada dal 35mo Frammento, fino al 45mo  Frammento, del Reame Infranto.
+tagGDX2EndlessDungeon_Key_03_Desc=La Waystone Infestata è stata infusa con gli spiriti dei morti. Permette a Mazaan di aprire la strada dal 14° Frammento, fino al 18°  Frammento, del Reame Infranto.
 tagGDX2EndlessDungeon_Key_03_Blueprint=Progetto: Waystone Infestata 
 
 tagGDX2EndlessDungeon_Key_04=Waystone Dissacrata
-tagGDX2EndlessDungeon_Key_04_Desc=La Waystone Dissacrata è stata unta con sangue contaminato. Permette a Mazaan di aprire la strada dal 50mo Frammento, fino al 60mo Frammento,  del Reame Infranto.
+tagGDX2EndlessDungeon_Key_04_Desc=La Waystone Dissacrata è stata unta con sangue contaminato. Permette a Mazaan di aprire la strada dal 20° Frammento, fino al 24° Frammento,  del Reame Infranto.
 tagGDX2EndlessDungeon_Key_04_Blueprint=Progetto: Waystone Dissacrata
 
 tagGDX2EndlessDungeon_Key_05=Waystone Celestiale
-tagGDX2EndlessDungeon_Key_05_Desc=La Waystone Celestiale è stata completamente ripristinata al suo potenziale divino. Permette a Mazaan di aprire la strada dal 65mo Frammento, fino al 75mo Frammento,  del Reame Infranto. ^n^nQuesta waystone non dovrebbe essere usata dai deboli di cuore.
+tagGDX2EndlessDungeon_Key_05_Desc=La Waystone Celestiale è stata completamente ripristinata al suo potenziale divino. Permette a Mazaan di aprire la strada dal 26° Frammento, fino al 30° Frammento,  del Reame Infranto. ^n^nQuesta waystone non dovrebbe essere usata dai deboli di cuore.
 tagGDX2EndlessDungeon_Key_05_Blueprint=Progetto: Waystone Celestiale
 
 tagGDX2EndlessDungeon_Key_06=Waystone Eterna
-tagGDX2EndlessDungeon_Key_06_Desc=Una Waystone che ritorce e raggomitola intorno a sé i fili stesi del tessuto della realtà. ^n^nPermette a Mazaan di aprire la strada almeno dal 80° Frammento, e fino al 90° Frammento, del Reame Infranto. ^n^nQuesta Waystone non dovrebbe essere usata dai deboli di cuore.
+tagGDX2EndlessDungeon_Key_06_Desc=Una Waystone che ritorce e raggomitola intorno a sé i fili stesi del tessuto della realtà. ^n^nPermette a Mazaan di aprire la strada almeno dal 32° Frammento, e fino al 36° Frammento, del Reame Infranto. ^n^nQuesta Waystone non dovrebbe essere usata dai deboli di cuore.
 tagGDX2EndlessDungeon_Key_06_Blueprint=Progetto: Waystone Eterna
 
 tagGDX2EndlessDungeon_Key_07=Waystone della Morte
-tagGDX2EndlessDungeon_Key_07_Desc=Contaminata dal potere della morte, la Waystone ora apre la strada a pericoli insondabili dove non ti aspetta alcuna ricompensa se non la gloria della conquista. ^n^nPermette a Mazaan di aprire la strada dal 95° Frammento del Reame Infranto e oltre. ^n^nQuesta Waystone non dovrebbe essere usata dai deboli di cuore.
+tagGDX2EndlessDungeon_Key_07_Desc=Contaminata dal potere della morte, la Waystone ora apre la strada a pericoli insondabili dove non ti aspetta alcuna ricompensa se non la gloria della conquista. ^n^nPermette a Mazaan di aprire la strada dal 38° Frammento del Reame Infranto e oltre. ^n^nQuesta Waystone non dovrebbe essere usata dai deboli di cuore.
 tagGDX2EndlessDungeon_Key_07_Blueprint=Progetto: Waystone della Morte
 
 tagGDX2ItemTest={^F}Miss Gazer Man

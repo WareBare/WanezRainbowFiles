@@ -143,28 +143,32 @@ tagGDX2EndlessDungeon_Essence_03=Linh Hồn Tan Vỡ Thần Thánh
 tagGDX2EndlessDungeon_Essence_04=Linh Hồn Tan Vỡ Vô Song
 
 tagGDX2EndlessDungeon_Key_01=Đá Dẫn Đường Bị Vỡ
-tagGDX2EndlessDungeon_Key_01_Desc=Đá Dẫn Đường Bị Vỡ từng chứa những quyền năng to lớn. Nó giúp Mazaan mở cánh cổng đến Mảnh Thế Giới thứ 5, tối đa là Mảnh thứ 15, của Thế Giới Tan Vỡ.
+tagGDX2EndlessDungeon_Key_01_Desc=Đá Dẫn Đường Bị Vỡ từng chứa những quyền năng to lớn. Nó giúp Mazaan mở cánh cổng đến Mảnh Thế Giới thứ 2, tối đa là Mảnh thứ 6, của Thế Giới Tan Vỡ.
 tagGDX2EndlessDungeon_Key_01_Blueprint=Bản Thiết Kế: Đá Dẫn Đường Bị Vỡ
 
 tagGDX2EndlessDungeon_Key_02=Đá Dẫn Đường Cộng Hưởng
-tagGDX2EndlessDungeon_Key_02_Desc=Đá Dẫn Đường Cộng Hưởng toả sáng lấp lánh một phần sức mạnh quyền năng nó từng có ngày trước. Nó giúp Mazaan mở cánh cổng đến Mảnh Thế Giới thứ 20, tối đa là Mảnh thứ 30, của Thế Giới Tan Vỡ.
+tagGDX2EndlessDungeon_Key_02_Desc=Đá Dẫn Đường Cộng Hưởng toả sáng lấp lánh một phần sức mạnh quyền năng nó từng có ngày trước. Nó giúp Mazaan mở cánh cổng đến Mảnh Thế Giới thứ 8, tối đa là Mảnh thứ 12, của Thế Giới Tan Vỡ.
 tagGDX2EndlessDungeon_Key_02_Blueprint=Bản Thiết Kế: Đá Dẫn Đường Cộng Hưởng
 
 tagGDX2EndlessDungeon_Key_03=Đá Dẫn Đường Ám Ảnh
-tagGDX2EndlessDungeon_Key_03_Desc=Đá Dẫn Đường Ám Ảnh chứa đựng những linh hồn từ cõi chết. Nó giúp Mazaan mở cánh cổng đến Mảnh Thế Giới thứ 35, tối đa là Mảnh thứ 45, của Thế Giới Tan Vỡ.
+tagGDX2EndlessDungeon_Key_03_Desc=Đá Dẫn Đường Ám Ảnh chứa đựng những linh hồn từ cõi chết. Nó giúp Mazaan mở cánh cổng đến Mảnh Thế Giới thứ 14, tối đa là Mảnh thứ 18, của Thế Giới Tan Vỡ.
 tagGDX2EndlessDungeon_Key_03_Blueprint=Bản Thiết Kế: Đá Dẫn Đường Ám Ảnh
 
 tagGDX2EndlessDungeon_Key_04=Đá Dẫn Đường Ô Uế
-tagGDX2EndlessDungeon_Key_04_Desc=Đá Dẫn Đường Ô Uế được thoa lên những dòng máu ô uế. Nó giúp Mazaan mở cánh cổng đến Mảnh Thế Giới thứ 50, tối đa là Mảnh thứ 60, của Thế Giới Tan Vỡ.
+tagGDX2EndlessDungeon_Key_04_Desc=Đá Dẫn Đường Ô Uế được thoa lên những dòng máu ô uế. Nó giúp Mazaan mở cánh cổng đến Mảnh Thế Giới thứ 20, tối đa là Mảnh thứ 24, của Thế Giới Tan Vỡ.
 tagGDX2EndlessDungeon_Key_04_Blueprint=Bản Thiết Kế: Đá Dẫn Đường Ô Uế
 
 tagGDX2EndlessDungeon_Key_05=Đá Dẫn Đường Thần Thánh
-tagGDX2EndlessDungeon_Key_05_Desc=Đá Dẫn Đường Thần Thánh đã được phục hồi nguyên trạng sức mạnh thần thánh của nó. Nó giúp Mazaan mở cánh cổng đến Mảnh Thế Giới thứ 65, tối đa là Mảnh thứ 75, của Thế Giới Tan Vỡ.^n^nĐá Dẫn Đường này không dành cho những kẻ yếu đuối nhát gan! 
+tagGDX2EndlessDungeon_Key_05_Desc=Đá Dẫn Đường Thần Thánh đã được phục hồi nguyên trạng sức mạnh thần thánh của nó. Nó giúp Mazaan mở cánh cổng đến Mảnh Thế Giới thứ 26, tối đa là Mảnh thứ 30, của Thế Giới Tan Vỡ.^n^nĐá Dẫn Đường này không dành cho những kẻ yếu đuối nhát gan! 
 tagGDX2EndlessDungeon_Key_05_Blueprint=Bản Thiết Kế: Đá Dẫn Đường Thần Thánh
 
-tagGDX2EndlessDungeon_Key_06=Đá Dẫn Đường Tử Thần
-tagGDX2EndlessDungeon_Key_06_Desc=Bị làm ô uế bởi sức mạnh từ cõi chết, viên Đá Dẫn Đường này sẽ giúp người sử dụng nó mở cánh cổng đến những Mảnh Thế Giới vô cùng nguy hiểm, nhưng sẽ không nhận được phần thưởng dù có chinh phục được các Mảnh Thế Giới đó, nên chỉ thích hợp cho những người có khao khát đạt đến đỉnh vinh quang. ^n^nNó cho phép Mazaan mở cánh cổng đến Mảnh thứ 80 và cao hơn trong Thế Giới Tan Vỡ. ^n^nLoại Đá Dẫn Đường nguy hiểm này không dành cho những kẻ yếu đuối.
-tagGDX2EndlessDungeon_Key_06_Blueprint=Bản Thiết Kế: Đá Dẫn Đường Tử Thần
+tagGDX2EndlessDungeon_Key_06=Đá Dẫn Đường Vĩnh Cửu
+tagGDX2EndlessDungeon_Key_06_Desc=Đá Dẫn Đường này kéo theo những sợi dây của thực tại, uốn chúng xung quanh nó. Nó cho phép Mazaan mở đường đến ít nhất là Mảnh thứ 32, tối đa đến Mảnh thứ 36, trong Thế Giới Tan Vỡ. ^n^nĐá Dẫn Đường này không dành cho những kẻ yếu đuối.
+tagGDX2EndlessDungeon_Key_06_Blueprint=Bản Thiết Kế: Đá Dẫn Đường Vĩnh Cửu
+
+tagGDX2EndlessDungeon_Key_07=Đá Dẫn Đường Tử Thần
+tagGDX2EndlessDungeon_Key_07_Desc=Bị làm ô uế bởi sức mạnh từ cõi chết, Đá Dẫn Đường này giờ sẽ mở đường đến những nguy hiểm không ai tưởng tượng nổi, nơi không có phần thưởng nào chờ đợi ngoài vinh quang chinh phục. ^n^nNó cho phép Mazaan mở đường đến ít nhất là Mảnh thứ 38 và cao hơn trong Thế Giới Tan Vỡ. ^n^nĐá Dẫn Đường này không dành cho những kẻ yếu đuối.
+tagGDX2EndlessDungeon_Key_07_Blueprint=Bản Thiết Kế: Đá Dẫn Đường Tử Thần
 
 tagGDX2ItemTest={^F}Miss Gazer Man
 tagGDX2ItemTestDesc="Đạt được vương miện trong cuộc thi trang phục Gazer."

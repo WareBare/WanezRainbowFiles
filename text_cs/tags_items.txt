@@ -4502,6 +4502,7 @@ tagSlotMedal= (medaile)
 
 #v1.2.1.0
 tagShowDetails=[Přidržením klávesy CTRL zobrazíš podrobnosti]
+tagShowDetailsGamepad=^O[Přidržením levé spouště zobrazíš podrobnosti]
 tagConsumableCategoryElixirDesc=^oPoužít můžeš vždy jen jeden elixír.
 tagConsumableCategoryOilDesc=^oPoužít můžeš vždy jen jeden olej.
 tagConsumableCategoryTinctureDesc=^oVýtažky spolu sdílí dobu obnovení.

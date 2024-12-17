@@ -2689,7 +2689,7 @@ tagNoteExcerpt="{%t}.."
 #ItemEnchantment
 
 tagEnchanted=[ms]augmenté[fs]augmentée[mp]augmentés[fp]augmentées 
-tagEnchantmentName=Augmentation
+tagEnchantmentName=[ms]Augmentation
 tagEnchantmentUsable=[Clic droit pour augmenter l'objet]
 tagEnchantmentUnusable=[Inutilisable - Prérequis non remplis]
 tagEnchantmentConfirmation=Êtes-vous sûr(e) de souhaiter appliquer cette augmentation ?
@@ -3390,10 +3390,10 @@ tagCompA029Name=Pierre à aiguiser bénite
 tagCompA029Desc="Aiguise même le plus aigu des tranchants, augmentant les dégâts qui pénètrent l'armure de l'ennemi." ^w^n(Utilisé pour les haches, les lances, les épées, les armes à feu et les arbalètes)
 
 tagCompA030Name=Échantillon de soie
-tagCompA030Desc="Les nomades de l'Ouest savent depuis longtemps que la soie en couches peut envelopper et ralentir la pénétration des projectiles transperçants." ^w^n(Utilisable dans les protections des épaules, du torse et des jambese)
+tagCompA030Desc="Les nomades de l'Ouest savent depuis longtemps que la soie en couches peut envelopper et ralentir la pénétration des projectiles transperçants." ^w^n(Utilisable dans les protections des épaules, du torse et des jambes)
 
 tagCompA031Name=Peau à écaille
-tagCompA031Desc="Ces écailles denses mais légères peuvent être mises en couche sur une armure pour une protection supplémentaire." ^w^n(Utilisable dans les protections des épaules, du torse et des jambese)
+tagCompA031Desc="Ces écailles denses mais légères peuvent être mises en couche sur une armure pour une protection supplémentaire." ^w^n(Utilisable dans les protections des épaules, du torse et des jambes)
 
 tagCompA032Name=Carreaux à cœur de silex
 tagCompA032Desc="Le cœur enchanté jette des étincelles de feu sur n'importe quelle surface." ^w^n(Utilisables dans les armes à feu, les arbalètes et les jeteurs de sorts de main gauche)
@@ -4502,6 +4502,7 @@ tagSlotUnknown= (Non équipé)
 
 #v1.2.1.0
 tagShowDetails=[Maintenir CTRL enfoncé pour afficher les détails]
+tagShowDetailsGamepad=^O[Maintenez la gâchette gauche enfoncée pour afficher les détails]
 tagConsumableCategoryElixirDesc=^oUn seul élixir peut être actif à la fois.
 tagConsumableCategoryOilDesc=^oUne seule huile peut être active à la fois.
 tagConsumableCategoryTinctureDesc=^oLes teintures ont un rechargement universel.

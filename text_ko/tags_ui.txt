@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=전리품의 표시 여부를 선택할 수 있습니다. 아이템 표시/숨김 토글을 사용하면 많은 적에 둘러싸였을 때 모든 전리품을 숨길 수 있고, 전투가 끝났을 때 다시 전리품을 표시할 수 있습니다.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=전리품의 표시 여부를 선택할 수 있습니다. 아이템 표시/숨김 토글을 사용하면 많은 적에 둘러싸였을 때 모든 전리품을 숨길 수 있고, 전투가 끝났을 때 다시 전리품을 표시할 수 있습니다.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.3{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=노멀 난이도
@@ -2546,4 +2546,73 @@ SkillChanceWeightMod=+{%d0}% {^E}발동 확률
 tagFactionNemesisSpawned=네메시스가 다가옵니다!
 tagHUDDesc22=인벤토리에서 최근에 획득한 아이템에 추가 강조를 토글하세요.
 tagHUDOption22=새로운 아이템 강조
+
+#patch v1.2.1.3
+DamageRangeFormatAppend= [{%t0}-{%t1}]
+DamageRangeFormatTime= {^E}{^H}{%.1f0}-{%.1f1} {^E}초간 지속
+DamageRangeFormatTimeR= {^E}{^H}{%t0}-{%t1} {^E}초간 지속
+
+tagDamageConversionR={%.0f0}%-{%.0f1}% {^E}{%s2}이(가) {%s3}(으)로 변환
+tagDamageRemovalR={%.0f0}%-{%.0f1}% {^E}{%s2} 감소
+
+MaxDurationRefresh=최대 지속시간 연장
+tagSkillDurationRefresh={%t0}로 지속시간을 {^H}{%.1f1} {%z2} 연장. (최대 {^H}{%.1f3} {%z4})
+tagSkillDurationRefreshName={%t0}로 {%s1}의 지속시간을 {^H}{%.1f2} {%z3} 연장. (최대 {^H}{%.1f4} {%z5})
+tagSkillCooldownRefresh={%t0}로 액티브 쿨타임 {^H}{%.1f1} {%z2} 감소
+tagSkillCooldownRefreshName={%t0}로 {%s1}의 액티브 쿨타임 {^H}{%.1f2} {%z3} 감소
+
+DamageColdR={%t0}-{%t1} {^E}냉기 데미지
+DamageFireR={%t0}-{%t1} {^E}화염 데미지
+DamageAetherR={%t0}-{%t1} {^E}에테르 데미지
+DamageChaosR={%t0}-{%t1} {^E}혼돈 데미지
+DamageLifeR={%t0}-{%t1} {^E}생기 데미지
+DamageLifeLeechR={%t0}-{%t1}% {^E}의 공격 데미지가 체력으로 변환
+DamageLightningR={%t0}-{%t1} {^E}번개 데미지
+DamageElementalR={%t0}-{%t1} {^E}원소 데미지
+DamageModifierElementalR={%+.0f0}-{%.0f1}% {^E}원소 데미지
+DamagePhysicalR=+{%t0}-{%t1} {^E}물리 데미지
+DamagePierceR={%t0}-{%t1} {^E}관통 데미지
+DamagePoisonR={%t0}-{%t1} {^E}산성 데미지
+DamageDurationModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}체내 충격 데미지
+DamageDurationModifierBleedingR={%+.0f0}-{%.0f1}% {^E}출혈 데미지
+DamageDurationModifierColdR={%+.0f0}-{%.0f1}% {^E}동상 데미지
+DamageDurationModifierFireR={%+.0f0}-{%.0f1}% {^E}연소 데미지
+DamageDurationModifierPoisonR={%+.0f0}-{%.0f1}% {^E}독 데미지
+DamageDurationModifierLightningR={%+.0f0}-{%.0f1}% {^E}감전 데미지
+DamageDurationModifierLifeR={%+.0f0}-{%.0f1}% {^E}생기 부식
+DamageDurationModifierAttackSpeedR={%+.0f0}-{%.0f1}% {^E}공격 속도 저하
+DamageDurationModifierSpellCastSpeedR={%+.0f0}-{%.0f1}% {^E}시전 속도 저하
+DamageDurationModifierRunSpeedR={%+.0f0}-{%.0f1}% {^E}이동 속도 저하
+DamageDurationModifierLifeLeachR={%+.0f0}-{%.0f1}% {^E}생명력 흡수 데미지
+DamageDurationModifierManaLeachR={%+.0f0}-{%.0f1}% {^E}에너지 흡수
+DamageDurationModifierOffensiveAbilityR={%+.0f0}-{%.0f1}% {^E}공격 능력 저하
+DamageDurationModifierDefensiveAbilityR={%+.0f0}-{%.0f1}% {^E}방어 능력 저하
+DamageDurationModifierOffensiveReductionR={%+.0f0}-{%.0f1}% {^E}물리 데미지 저하
+DamageDurationModifierDamageMultR={%+.0f0}-{%.0f1}% {^E}분열 증가
+
+tagDamageModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}모든 데미지
+tagDamageModifierDamageMultR={^E}현재의 전체 데미지가 {^H}{%.0f0}-{%.0f1}% 증감
+tagRetaliationModifierDamageMultR={^E}현재의 전체 보복 데미지가 {^H}{%.0f0}-{%.0f1}%
+
+SkillManaCostReductionR=-{%.0f0}-{%.0f1}% {^E}스킬의 에너지 비용
+SkillCooldownReductionR=+{%.0f0}-{%.0f1}% {^E}스킬 쿨타임 단축
+SkillProjectileSpeedModifierR={%+.0f0}-{%.0f1}% {^E}투사체 속도 향상
+SkillManaCostReductionModifierR=-{%.0f0}-{%.0f1}% {^E}스킬의 에너지 비용
+SkillCooldownReductionModifierR=-{%.0f0}-{%.0f1}% {^E}스킬 재충전
+
+tagTotalSpeedResistanceR={%.0f0}-{%.0f1}% {^E}감속 저항
+tagDefenseSleepR={%.0f0}-{%.0f1}% {^E}수면 저항
+tagDefenseSleepModifierR={%+.0f0}-{%.0f1}% {^E}수면 저항
+
+DefensePhysicalDurationR={%.0f0}-{%.0f1}% {^E}체내 충격 지속시간 단축
+DefenseBleedingDurationR={%.0f0}-{%.0f1}% {^E}출혈 지속시간 단축
+DefenseColdDurationR={%.0f0}-{%.0f1}% {^E}동상 지속시간 단축
+DefenseFireDurationR={%.0f0}-{%.0f1}% {^E}연소 지속시간 단축
+DefensePoisonDurationR={%.0f0}-{%.0f1}% {^E}독 지속시간 단축
+DefenseLightningDurationR={%.0f0}-{%.0f1}% {^E}감전 지속시간 단축
+DefenseLifeDurationR={%.0f0}-{%.0f1}% {^E}생기 부식 지속시간 단축
+DefenseLifeLeachDurationR={%.0f0}-{%.0f1}% {^E}생명력 흡수 지속시간 단축
+DefenseManaLeachDurationR={%.0f0}-{%.0f1}% {^E}에너지 흡수 지속시간 단축
+DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}체력 감소 저항
+DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}에너지 태우기 저항
 

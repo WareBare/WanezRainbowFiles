@@ -143,31 +143,31 @@ tagGDX2EndlessDungeon_Essence_03=천상의 조각난 영혼
 tagGDX2EndlessDungeon_Essence_04=압도적인 조각난 영혼
 
 tagGDX2EndlessDungeon_Key_01=조각난 웨이스톤
-tagGDX2EndlessDungeon_Key_01_Desc=한때 엄청난 가능성을 제공했었다. 이 웨이스톤을 사용하면, 마잔이 조각난 차원의 5부터 15조각까지 갈 수 있는 길을 열어준다.
+tagGDX2EndlessDungeon_Key_01_Desc=한때 엄청난 가능성을 제공했었다. 이 웨이스톤을 사용하면, 마잔이 조각난 차원의 2부터 6조각까지 갈 수 있는 길을 열어준다.
 tagGDX2EndlessDungeon_Key_01_Blueprint=도안: 조각난 웨이스톤
 
 tagGDX2EndlessDungeon_Key_02=공명하는 웨이스톤
-tagGDX2EndlessDungeon_Key_02_Desc=이전에 가지고 있었던 힘으로 희미하게 빛난다. 이 웨이스톤을 사용하면, 마잔이 조각난 차원의 20부터 30조각까지 갈 수 있는 길을 열어준다.
+tagGDX2EndlessDungeon_Key_02_Desc=이전에 가지고 있었던 힘으로 희미하게 빛난다. 이 웨이스톤을 사용하면, 마잔이 조각난 차원의 8부터 12조각까지 갈 수 있는 길을 열어준다.
 tagGDX2EndlessDungeon_Key_02_Blueprint=도안: 공명하는 웨이스톤
 
 tagGDX2EndlessDungeon_Key_03=유령의 웨이스톤
-tagGDX2EndlessDungeon_Key_03_Desc=죽은 자의 영혼이 주입되어 있다. 이 웨이스톤을 사용하면, 마잔이 조각난 차원의 35부터 45조각까지 갈 수 있는 길을 열어준다.
+tagGDX2EndlessDungeon_Key_03_Desc=죽은 자의 영혼이 주입되어 있다. 이 웨이스톤을 사용하면, 마잔이 조각난 차원의 14부터 18조각까지 갈 수 있는 길을 열어준다.
 tagGDX2EndlessDungeon_Key_03_Blueprint=도안: 유령의 웨이스톤
 
 tagGDX2EndlessDungeon_Key_04=신성모독의 웨이스톤
-tagGDX2EndlessDungeon_Key_04_Desc=더러운 피가 발라져 있다. 이 웨이스톤을 사용하면, 마잔이 조각난 차원의 50부터 60조각까지 갈 수 있는 길을 열어준다.
+tagGDX2EndlessDungeon_Key_04_Desc=더러운 피가 발라져 있다. 이 웨이스톤을 사용하면, 마잔이 조각난 차원의 20부터 24조각까지 갈 수 있는 길을 열어준다.
 tagGDX2EndlessDungeon_Key_04_Blueprint=도안: 신성모독의 웨이스톤
 
 tagGDX2EndlessDungeon_Key_05=천상의 웨이스톤
-tagGDX2EndlessDungeon_Key_05_Desc=완전히 복구되어 신성한 힘을 내뿜는다. 이 웨이스톤을 사용하면, 마잔이 조각난 차원의 65부터 75조각까지 갈 수 있는 길을 열어준다.^n^n심약자는 이 웨이스톤 사용을 권하지 않습니다.
+tagGDX2EndlessDungeon_Key_05_Desc=완전히 복구되어 신성한 힘을 내뿜는다. 이 웨이스톤을 사용하면, 마잔이 조각난 차원의 26부터 30조각까지 갈 수 있는 길을 열어준다.^n^n심약자는 이 웨이스톤 사용을 권하지 않습니다.
 tagGDX2EndlessDungeon_Key_05_Blueprint=도안: 천상의 웨이스톤
 
 tagGDX2EndlessDungeon_Key_06=영원의 웨이스톤
-tagGDX2EndlessDungeon_Key_06_Desc=현실의 끈을 잡아당겨 주변 현실을 왜곡시키는 웨이스톤. 이 웨이스톤을 사용하면 마잔이 조각난 차원의 최소 80번째 조각을 넘어 최대 90번째 조각까지 가는 길을 열어준다.^n^n심약자는 이 웨이스톤의 사용을 금합니다.
+tagGDX2EndlessDungeon_Key_06_Desc=현실의 끈을 잡아당겨 주변 현실을 왜곡시키는 웨이스톤. 이 웨이스톤을 사용하면 마잔이 조각난 차원의 최소 32번째 조각을 넘어 최대 36번째 조각까지 가는 길을 열어준다.^n^n심약자는 이 웨이스톤의 사용을 금합니다.
 tagGDX2EndlessDungeon_Key_06_Blueprint=도안: 영원의 웨이스톤
 
 tagGDX2EndlessDungeon_Key_07=죽음의 웨이스톤
-tagGDX2EndlessDungeon_Key_07_Desc=죽음의 힘으로 더럽혀진 이 웨이스톤은 이제 보상은 없지만 정복의 영광이 기다리는 상상조차 할 수 없을 정도의 위험으로 나아가는 길을 열어준다. ^n^n이 웨이스톤을 사용하면 마잔이 조각난 차원의 최소 95번째 조각을 넘어 그 이상까지 가는 길을 열어준다. ^n^n심약자는 이 웨이스톤의 사용을 금합니다.
+tagGDX2EndlessDungeon_Key_07_Desc=죽음의 힘으로 더럽혀진 이 웨이스톤은 이제 보상은 없지만 정복의 영광이 기다리는 상상조차 할 수 없을 정도의 위험으로 나아가는 길을 열어준다. ^n^n이 웨이스톤을 사용하면 마잔이 조각난 차원의 최소 38번째 조각을 넘어 그 이상까지 가는 길을 열어준다. ^n^n심약자는 이 웨이스톤의 사용을 금합니다.
 tagGDX2EndlessDungeon_Key_07_Blueprint=도안: 죽음의 웨이스톤
 
 tagGDX2ItemTest={^F}여성용 응시체 겉옷

@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Regola le opzioni per il bottino da mostrare. Il comando Mostra/Nascondi Oggetti può essere utilizzato per nascondere tutto il bottino durante un combattimento e quindi visualizzarlo nuovamente una volta terminato.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Regola le opzioni per il bottino da mostrare. Il comando Mostra/Nascondi Oggetti può essere utilizzato per nascondere tutto il bottino durante un combattimento e quindi visualizzarlo nuovamente una volta terminato.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.3{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Difficoltà Normale
@@ -2425,4 +2425,74 @@ SkillChanceWeightMod=+{%d0}% {^E}Possibilità di Utilizzo
 tagFactionNemesisSpawned=Arriva una nemesi!
 tagHUDDesc22=Evidenzia/non evidenzia gli oggetti ottenuti di recente nell'inventario.
 tagHUDOption22=Evidenzia nuovi oggetti
+
+#patch v1.2.1.3
+DamageRangeFormatAppend= [{%t0}-{%t1}]
+DamageRangeFormatTime= {^E}in {^H}{%.1f0}-{%.1f1} {^E}secondi
+DamageRangeFormatTimeR= {^E}in {^H}{%t0}-{%t1} {^E}secondi
+
+tagDamageConversionR={%.0f0}%-{%.0f1}% {^E}{%s2} convertito in {%s3}
+tagDamageRemovalR={%.0f0}%-{%.0f1}% {^E}Riduzione {%s2}
+
+MaxDurationRefresh=Estensione Massima Durata
+tagSkillDurationRefresh={%t0} di estendere la durata di {^H}{%.1f1} {%z2} (max {^H}{%.1f3} {%z4}).
+tagSkillDurationRefreshName={%t0} di estendere la durata di {%s1} di {^H}{%.1f2} {%z3} (max {^H}{%.1f4} {%z5}).
+tagSkillCooldownRefresh={%t0} per ridurre la ricarica attiva di {^H}{%.1f1} {%z2}
+tagSkillCooldownRefreshName={%t0} per ridurre la ricarica attiva di {%s1} di {^H}{%.1f2} {%z3}
+
+DamageColdR={%t0}-{%t1} {^E}Danno da Freddo
+DamageFireR={%t0}-{%t1} {^E}Danno da Fuoco
+DamageAetherR={%t0}-{%t1} {^E}Danno da Etere
+DamageChaosR={%t0}-{%t1} {^E}Danno da Caos
+DamageLifeR={%t0}-{%t1} {^E}Danno alla Vitalità
+DamageLifeLeechR={%t0}-{%t1}% {^E}del Danno dell'Attacco Convertito in Salute
+DamageLightningR={%t0}-{%t1} {^E}Danno da Elettricità
+DamageElementalR={%t0}-{%t1} {^E}Danno Elementale
+DamageModifierElementalR={%+.0f0}-{%.0f1}% {^E}Danno Elementale
+DamagePhysicalR=+{%t0}-{%t1} {^E}Danno Fisico
+DamagePierceR={%t0}-{%t1} {^E}Danno Perforante
+DamagePoisonR={%t0}-{%t1} {^E}Danno da Acido
+DamageDurationModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}Danno da Trauma Interno
+DamageDurationModifierBleedingR={%+.0f0}-{%.0f1}% {^E}Danno da Sanguinamento
+DamageDurationModifierColdR={%+.0f0}-{%.0f1}% {^E}Danno da Gelo
+DamageDurationModifierFireR={%+.0f0}-{%.0f1}% {^E}Danno da Bruciatura
+DamageDurationModifierPoisonR={%+.0f0}-{%.0f1}% {^E}Danno da Veleno
+DamageDurationModifierLightningR={%+.0f0}-{%.0f1}% {^E}Danno da Folgorazione
+DamageDurationModifierLifeR={%+.0f0}-{%.0f1}% {^E}Decadimento Vitale
+DamageDurationModifierAttackSpeedR={%+.0f0}-{%.0f1}% {^E}Rallentamento dell'Attacco
+DamageDurationModifierSpellCastSpeedR={%+.0f0}-{%.0f1}% {^E}Rallentamento del Lancio Incantesimi
+DamageDurationModifierRunSpeedR={%+.0f0}-{%.0f1}% {^E}Rallentamento del Movimento
+DamageDurationModifierLifeLeachR={%+.0f0}-{%.0f1}% {^E}Danno da Assorbimento Vitale
+DamageDurationModifierManaLeachR={%+.0f0}-{%.0f1}% {^E}Assorbimento Energia
+DamageDurationModifierOffensiveAbilityR={%+.0f0}-{%.0f1}% {^E}Riduzione della Capacità Offensiva del bersaglio
+DamageDurationModifierDefensiveAbilityR={%+.0f0}-{%.0f1}% {^E}Riduzione della Capacità Difensiva del bersaglio
+DamageDurationModifierOffensiveReductionR={%+.0f0}-{%.0f1}% {^E}Riduzione Danno Fisico del bersaglio
+DamageDurationModifierDamageMultR={%+.0f0}-{%.0f1}% {^E}Aumento Disgiunzione
+
+tagDamageModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}a tutto il Danno
+tagDamageModifierDamageMultR={^E}Danno modificato del {^H}{%.0f0}-{%.0f1}%
+tagRetaliationModifierDamageMultR={^E}Danno di Ritorsione modificato del {^H}{%.0f0}-{%.0f1}%
+
+SkillManaCostReductionR=-{%.0f0}-{%.0f1}% {^E}Costo in Energia delle Abilità
+SkillCooldownReductionR=+{%.0f0}-{%.0f1}% {^E}Riduzione Tempo di Ricarica Abilità
+SkillProjectileSpeedModifierR={%+.0f0}-{%.0f1}% {^E}Aumento Velocità dei Proiettili
+SkillManaCostReductionModifierR=-{%.0f0}-{%.0f1}% {^E}Costo in Energia delle Abilità
+SkillCooldownReductionModifierR=-{%.0f0}-{%.0f1}% {^E}Ricarica dell'Abilità
+
+tagTotalSpeedResistanceR={%.0f0}-{%.0f1}% {^E}Resistenza Rallentamento
+tagDefenseSleepR={%.0f0}-{%.0f1}% {^E}Resistenza Sonno
+tagDefenseSleepModifierR={%+.0f0}-{%.0f1}% {^E}Resistenza Sonno
+
+DefensePhysicalDurationR={%.0f0}-{%.0f1}% {^E}Riduzione Durata Trauma Interno
+DefenseBleedingDurationR={%.0f0}-{%.0f1}% {^E}Riduzione Durata Sanguinamento
+DefenseColdDurationR={%.0f0}-{%.0f1}% {^E}Riduzione Durata Danno da Gelo
+DefenseFireDurationR={%.0f0}-{%.0f1}% {^E}Riduzione Durata Danno da Bruciatura
+DefensePoisonDurationR={%.0f0}-{%.0f1}% {^E}Riduzione Durata Danno da Veleno
+DefenseLightningDurationR={%.0f0}-{%.0f1}% {^E}Riduzione Durata Danno da Folgorazione
+DefenseLifeDurationR={%.0f0}-{%.0f1}% {^E}Riduzione Durata Decadenza Vitale
+DefenseLifeLeachDurationR={%.0f0}-{%.0f1}% {^E}Riduzione Durata Assorbimento Vitale
+DefenseManaLeachDurationR={%.0f0}-{%.0f1}% {^E}Riduzione Durata Assorbimento Energetico
+DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}Resistenza alla Riduzione della Salute
+DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}Resistenza alla Riduzione del Mana
+
 

@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Přizpůsobí předměty na zemi dle parametrů. Přepínačem Zobrazit/skrýt předměty lze skrýt všechno například během boje a poté si je znovu zobrazit.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Přizpůsobí předměty na zemi dle parametrů. Přepínačem Zobrazit/skrýt předměty lze skrýt všechno například během boje a poté si je znovu zobrazit.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.3{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Normální obtížnost
@@ -2428,3 +2428,71 @@ tagFactionNemesisSpawned=Mstitel se přibližuje!
 tagHUDDesc22=Zapne dodatečné zvýraznění nedávno ukořištěných předmětů v inventáři.
 tagHUDOption22=Zvýraznění nového předmětu
 
+#patch v1.2.1.3
+DamageRangeFormatAppend= [{%t0}-{%t1}]
+DamageRangeFormatTime= {^E}po dobu {^H}{%.1f0}-{%.1f1} {^E}sekund
+DamageRangeFormatTimeR= {^E}po dobu {^H}{%t0}-{%t1} {^E}sekund
+
+tagDamageConversionR={%.0f0}%-{%.0f1}% {^E}{%s2} změněno na {%s3}
+tagDamageRemovalR={%.0f0}%-{%.0f1}% {^E}{%s2} snížení
+
+MaxDurationRefresh=Maximální prodloužení doby účinku
+tagSkillDurationRefresh={%t0} na prodloužení doby působení o {^H}{%.1f1} {%z2}. (Max. {^H}{%.1f3} {%z4})
+tagSkillDurationRefreshName={%t0} na prodloužení doby působení {%s1} o {^H}{%.1f2} {%z3}. (Max. {^H}{%.1f4} {%z5})
+tagSkillCooldownRefresh={%t0} na snížení aktivní doby prodlevy o {^H}{%.1f1} {%z2}
+tagSkillCooldownRefreshName={%t0} na snížení aktivní doby prodlevy {%s1} o {^H}{%.1f2} {%z3}
+
+DamageColdR={%t0}-{%t1} {^E}Zranění chladem
+DamageFireR={%t0}-{%t1} {^E}Zranění ohněm
+DamageAetherR={%t0}-{%t1} {^E}Zranění Aetherem
+DamageChaosR={%t0}-{%t1} {^E}Zranění Chaosem
+DamageLifeR={%t0}-{%t1} {^E}Sání životní energie
+DamageLifeLeechR={%t0}-{%t1}% {^E}útočného zranění převedeno do zdraví
+DamageLightningR={%t0}-{%t1} {^E}Elektrický výboj
+DamageElementalR={%t0}-{%t1} {^E}Zranění živly
+DamageModifierElementalR={%+.0f0}-{%.0f1}% {^E}Zranění živly
+DamagePhysicalR=+{%t0}-{%t1} {^E}Fyzické zranění
+DamagePierceR={%t0}-{%t1} {^E}Zranění probodnutím
+DamagePoisonR={%t0}-{%t1} {^E}Zranění jedem
+DamageDurationModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}Zranění vnitřním krvácením
+DamageDurationModifierBleedingR={%+.0f0}-{%.0f1}% {^E}Zranění krvácením
+DamageDurationModifierColdR={%+.0f0}-{%.0f1}% {^E}Zranění omrzlinami
+DamageDurationModifierFireR={%+.0f0}-{%.0f1}% {^E}Popáleniny
+DamageDurationModifierPoisonR={%+.0f0}-{%.0f1}% {^E}Otrava
+DamageDurationModifierLightningR={%+.0f0}-{%.0f1}% {^E}Elektrický šok
+DamageDurationModifierLifeR={%+.0f0}-{%.0f1}% {^E}Chřadnutí
+DamageDurationModifierAttackSpeedR={%+.0f0}-{%.0f1}% {^E}Zpomalení útoku
+DamageDurationModifierSpellCastSpeedR={%+.0f0}-{%.0f1}% {^E}Zpomalení kouzlení
+DamageDurationModifierRunSpeedR={%+.0f0}-{%.0f1}% {^E}Zpomalení pohybu
+DamageDurationModifierLifeLeachR={%+.0f0}-{%.0f1}% {^E}Zranění vysátím života
+DamageDurationModifierManaLeachR={%+.0f0}-{%.0f1}% {^E}Vysátí energie
+DamageDurationModifierOffensiveAbilityR={%+.0f0}-{%.0f1}% {^E}Snížení nepřátelské útočné schopnosti
+DamageDurationModifierDefensiveAbilityR={%+.0f0}-{%.0f1}% {^E}Snížení nepřátelské obranné schopnosti
+DamageDurationModifierOffensiveReductionR={%+.0f0}-{%.0f1}% {^E}Snížení nepřátelského fyzického zranění
+DamageDurationModifierDamageMultR={%+.0f0}-{%.0f1}% {^E}Zvýšení rozpolcení
+
+tagDamageModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}k celkovému zranění
+tagDamageModifierDamageMultR={^E}Celkové zranění upravené o {^H}{%.0f0}-{%.0f1}%
+tagRetaliationModifierDamageMultR={^E}Celkové zranění odplatou je změněno o {^H}{%.0f0}-{%.0f1}%
+
+SkillManaCostReductionR=-{%.0f0}-{%.0f1}% {^E}Magická energie dovednosti
+SkillCooldownReductionR=+{%.0f0}-{%.0f1}% {^E}Snížení doby prodlevy dovednosti
+SkillProjectileSpeedModifierR={%+.0f0}-{%.0f1}% {^E}Zvýšení rychlosti projektilů
+SkillManaCostReductionModifierR=-{%.0f0}-{%.0f1}% {^E}Magická energie dovednosti
+SkillCooldownReductionModifierR=-{%.0f0}-{%.0f1}% {^E}Čas k obnovení dovednosti
+
+tagTotalSpeedResistanceR={%.0f0}-{%.0f1}% {^E}Odolnost vůči zpomalení
+tagDefenseSleepR={%.0f0}-{%.0f1}% {^E}Odolnost vůči spánku
+tagDefenseSleepModifierR={%+.0f0}-{%.0f1}% {^E}Odolnost vůči spánku
+
+DefensePhysicalDurationR={%.0f0}-{%.0f1}% {^E}Snížení doby trvání vnitřního krvácení
+DefenseBleedingDurationR={%.0f0}-{%.0f1}% {^E}Snížení doby trvání krvácení
+DefenseColdDurationR={%.0f0}-{%.0f1}% {^E}Snížení doby působení omrzlin
+DefenseFireDurationR={%.0f0}-{%.0f1}% {^E}Snížení doby působení popálenin
+DefensePoisonDurationR={%.0f0}-{%.0f1}% {^E}Snížení doby působení otravy
+DefenseLightningDurationR={%.0f0}-{%.0f1}% {^E}Snížení doby působení elektrického šoku
+DefenseLifeDurationR={%.0f0}-{%.0f1}% {^E}Snížení doby působení chřadnutí
+DefenseLifeLeachDurationR={%.0f0}-{%.0f1}% {^E}Snížení doby působení vysávání života
+DefenseManaLeachDurationR={%.0f0}-{%.0f1}% {^E}Snížení doby působení vysávání magické energie
+DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}Odolnost vůči ztrátě života
+DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}Odolnost vůči spálení magické energie

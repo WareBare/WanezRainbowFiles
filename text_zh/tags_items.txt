@@ -4502,6 +4502,7 @@ tagSlotUnknown= (未装备)
 
 #v1.2.1.0
 tagShowDetails=[按住 Ctrl 来查看详情]
+tagShowDetailsGamepad=^O[长按 LT 键查看详情]
 tagConsumableCategoryElixirDesc=^o你一次只能获得一种药剂的效果。
 tagConsumableCategoryOilDesc=^o你一次只能获得一种油的效果。
 tagConsumableCategoryTinctureDesc=^o需打破药瓶的药剂共享冷却。

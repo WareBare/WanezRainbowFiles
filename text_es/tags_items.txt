@@ -4502,6 +4502,7 @@ tagSlotUnknown= (Sin equipar)
 
 #v1.2.1.0
 tagShowDetails=[Mantener pulsado CTRL para ver los detalles]
+tagShowDetailsGamepad=^O[Mantener pulsado el gatillo izquierdo pera mostrar detalles]
 tagConsumableCategoryElixirDesc=^oSolo puedes utilizar los beneficios de un elixir a la vez.
 tagConsumableCategoryOilDesc=^oSolo puedes utilizar los beneficios de un aceite a la vez.
 tagConsumableCategoryTinctureDesc=^oEl tiempo de espera de las tinturas es compartido.

@@ -143,31 +143,31 @@ tagGDX2EndlessDungeon_Essence_03=Niebiańska Roztrzaskana Dusza
 tagGDX2EndlessDungeon_Essence_04=Przytłaczająca Roztrzaskana Dusza
 
 tagGDX2EndlessDungeon_Key_01=Roztrzaskany Kamień Postępu
-tagGDX2EndlessDungeon_Key_01_Desc=Roztrzaskany Kamień Postępu ma niesamowite właściwości. Pozwala Mazaanowi otworzyć portal prowadzący do Roztrzaskanej Krainy od razu do Skorupy na poziomie od #5 do #15.
+tagGDX2EndlessDungeon_Key_01_Desc=Roztrzaskany Kamień Postępu ma niesamowite właściwości. Pozwala Mazaanowi otworzyć portal prowadzący do Roztrzaskanej Krainy od razu do Skorupy na poziomie od #2 do #6.
 tagGDX2EndlessDungeon_Key_01_Blueprint=Schemat: Roztrzaskany Kamień Postępu
 
 tagGDX2EndlessDungeon_Key_02=Rezonujący Kamień Postępu
-tagGDX2EndlessDungeon_Key_02_Desc=Rezonujący Kamień Postępu mieni się częścią swojej dawnej mocy. Pozwala Mazaanowi otworzyć portal prowadzący do Roztrzaskanej Krainy od razu do Skorupy na poziomie od #20 do #30.
+tagGDX2EndlessDungeon_Key_02_Desc=Rezonujący Kamień Postępu mieni się częścią swojej dawnej mocy. Pozwala Mazaanowi otworzyć portal prowadzący do Roztrzaskanej Krainy od razu do Skorupy na poziomie od #8 do #12.
 tagGDX2EndlessDungeon_Key_02_Blueprint=Schemat: Rezonujący Kamień Postępu
 
 tagGDX2EndlessDungeon_Key_03=Nawiedzony Kamień Postępu
-tagGDX2EndlessDungeon_Key_03_Desc=Nawiedzony Kamień Postępu został wypełniony duchami zmarłych. Pozwala Mazaanowi otworzyć portal prowadzący do Roztrzaskanej Krainy od razu do Skorupy na poziomie od #35 do #45.
+tagGDX2EndlessDungeon_Key_03_Desc=Nawiedzony Kamień Postępu został wypełniony duchami zmarłych. Pozwala Mazaanowi otworzyć portal prowadzący do Roztrzaskanej Krainy od razu do Skorupy na poziomie od #14 do #18.
 tagGDX2EndlessDungeon_Key_03_Blueprint=Schemat: Nawiedzony Kamień Postępu
 
 tagGDX2EndlessDungeon_Key_04=Zbezczeszczony Kamień Postępu
-tagGDX2EndlessDungeon_Key_04_Desc=Zbezczeszczony Kamień Postępu zostały skąpany w skażonej krwi. Pozwala Mazaanowi otworzyć portal prowadzący do Roztrzaskanej Krainy od razu do Skorupy na poziomie od #50 do #60.
+tagGDX2EndlessDungeon_Key_04_Desc=Zbezczeszczony Kamień Postępu zostały skąpany w skażonej krwi. Pozwala Mazaanowi otworzyć portal prowadzący do Roztrzaskanej Krainy od razu do Skorupy na poziomie od #20 do #24.
 tagGDX2EndlessDungeon_Key_04_Blueprint=Schemat: Zbezczeszczony Kamień Postępu
 
 tagGDX2EndlessDungeon_Key_05=Niebiański Kamień Postępu
-tagGDX2EndlessDungeon_Key_05_Desc=Niebiański Kamień Postępu został w pełni przywrócony do swojego boskiego potencjału. Pozwala Mazaanowi otworzyć portal prowadzący do Roztrzaskanej Krainy od razu do Skorupy na poziomie od #65 do #75. ^n^nUżywać z rozwagą, nie dla ludzi o słabym sercu.
+tagGDX2EndlessDungeon_Key_05_Desc=Niebiański Kamień Postępu został w pełni przywrócony do swojego boskiego potencjału. Pozwala Mazaanowi otworzyć portal prowadzący do Roztrzaskanej Krainy od razu do Skorupy na poziomie od #26 do #30. ^n^nUżywać z rozwagą, nie dla ludzi o słabym sercu.
 tagGDX2EndlessDungeon_Key_05_Blueprint=Schemat: Niebiański Kamień Postępu
 
 tagGDX2EndlessDungeon_Key_06=Odwieczny Kamień Postępu
-tagGDX2EndlessDungeon_Key_06_Desc=Kamień Postępu zaburzający i naginający rzeczywistość. Dzięki niemu Mazaan może otworzyć drogę do co najmniej 80. Skorupy (a nawet do 90.) Roztrzaskanej Krainy. ^n^nTen Kamień Postępu nie powinien wylądować w rękach ludzi o słabym sercu.
+tagGDX2EndlessDungeon_Key_06_Desc=Kamień Postępu zaburzający i naginający rzeczywistość. Dzięki niemu Mazaan może otworzyć drogę do co najmniej 32. Skorupy (a nawet do 36.) Roztrzaskanej Krainy. ^n^nTen Kamień Postępu nie powinien wylądować w rękach ludzi o słabym sercu.
 tagGDX2EndlessDungeon_Key_06_Blueprint=Schemat: Odwieczny Kamień Postępu
 
 tagGDX2EndlessDungeon_Key_07=Śmiertelny Kamień Postępu
-tagGDX2EndlessDungeon_Key_07_Desc=Kamień Postępu natchniony mocą śmierci, obecnie otwiera drogę do niezbadanych niebezpieczeństw, w których nie czeka na ciebie żadna nagroda, jedyną motywacją jest chwała.^n^nDzięki niemu Mazaan może otworzyć drogę do co najmniej 95. Skorupy Roztrzaskanej Krainy. ^n^nTen kamień postępu nie powinien wylądować w rękach ludzi o słabym sercu.
+tagGDX2EndlessDungeon_Key_07_Desc=Kamień Postępu natchniony mocą śmierci, obecnie otwiera drogę do niezbadanych niebezpieczeństw, w których nie czeka na ciebie żadna nagroda, jedyną motywacją jest chwała.^n^nDzięki niemu Mazaan może otworzyć drogę do co najmniej 38. Skorupy Roztrzaskanej Krainy. ^n^nTen kamień postępu nie powinien wylądować w rękach ludzi o słabym sercu.
 tagGDX2EndlessDungeon_Key_07_Blueprint=Schemat: Śmiertelny Kamień Postępu
 
 tagGDX2ItemTest={^F}Zezowaty Gazer

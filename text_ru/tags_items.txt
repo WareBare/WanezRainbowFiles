@@ -4503,6 +4503,7 @@ tagSlotUnknown= (не экипировано)
 
 #v1.2.1.0
 tagShowDetails=[Чтобы увидеть подробности, удерживайте Ctrl]
+tagShowDetailsGamepad=^O[Удерживайте Left Trigger, чтобы увидеть подробности]
 tagConsumableCategoryElixirDesc=^oВы можете получить бонус только от одного эликсира за раз.
 tagConsumableCategoryOilDesc=^oВы можете получить бонус только от одного масла за раз.
 tagConsumableCategoryTinctureDesc=^oУ настоек общая перезарядка.

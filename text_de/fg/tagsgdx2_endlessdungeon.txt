@@ -143,31 +143,31 @@ tagGDX2EndlessDungeon_Essence_03=Himmlische erschütterte Seele
 tagGDX2EndlessDungeon_Essence_04=Überwältigende erschütterte Seele
 
 tagGDX2EndlessDungeon_Key_01=Erschütterter Wegstein
-tagGDX2EndlessDungeon_Key_01_Desc=Früher gewährte der Erschütterte Wegstein unglaubliches Potenzial. Mit seiner Hilfe kann Mazaan den Weg ab dem 5. bis zum 15. Fragment des Erschütterten Reichs öffnen.
+tagGDX2EndlessDungeon_Key_01_Desc=Früher gewährte der Erschütterte Wegstein unglaubliches Potenzial. Mit seiner Hilfe kann Mazaan den Weg ab dem 2. bis zum 6. Fragment des Erschütterten Reichs öffnen.
 tagGDX2EndlessDungeon_Key_01_Blueprint=Bauplan: Erschütterter Wegstein
 
 tagGDX2EndlessDungeon_Key_02=Resonierender Wegstein
-tagGDX2EndlessDungeon_Key_02_Desc=Der resonierende Wegstein schimmert mit einem Bruchteil seiner früheren Kraft. Mit seiner Hilfe kann Mazaan den Weg ab dem 20. bis zum 30. Fragment des Erschütterten Reichs öffnen.
+tagGDX2EndlessDungeon_Key_02_Desc=Der resonierende Wegstein schimmert mit einem Bruchteil seiner früheren Kraft. Mit seiner Hilfe kann Mazaan den Weg ab dem 8. bis zum 12. Fragment des Erschütterten Reichs öffnen.
 tagGDX2EndlessDungeon_Key_02_Blueprint=Bauplan: Resonierender Wegstein
 
 tagGDX2EndlessDungeon_Key_03=Verfluchter Wegstein
-tagGDX2EndlessDungeon_Key_03_Desc=Der verfluchte Wegstein wurde mit den Geistern der Toten verzaubert. Mit seiner Hilfe kann Mazaan den Weg ab dem 35. bis zum 45. Fragment des Erschütterten Reichs öffnen.
+tagGDX2EndlessDungeon_Key_03_Desc=Der verfluchte Wegstein wurde mit den Geistern der Toten verzaubert. Mit seiner Hilfe kann Mazaan den Weg ab dem 14. bis zum 18. Fragment des Erschütterten Reichs öffnen.
 tagGDX2EndlessDungeon_Key_03_Blueprint=Bauplan: Verfluchter Wegstein
 
 tagGDX2EndlessDungeon_Key_04=Entweihter Wegstein
-tagGDX2EndlessDungeon_Key_04_Desc=Der entweihte Wegstein wurde in verdorbenem Blut geweiht. Mit seiner Hilfe kann Mazaan den Weg ab dem 50. bis zum 60. Fragment des Erschütterten Reichs öffnen.
+tagGDX2EndlessDungeon_Key_04_Desc=Der entweihte Wegstein wurde in verdorbenem Blut geweiht. Mit seiner Hilfe kann Mazaan den Weg ab dem 20. bis zum 24. Fragment des Erschütterten Reichs öffnen.
 tagGDX2EndlessDungeon_Key_04_Blueprint=Bauplan: Entweihter Wegstein
 
 tagGDX2EndlessDungeon_Key_05=Himmlischer Wegstein
-tagGDX2EndlessDungeon_Key_05_Desc=Das göttliche Potenzial des himmlischen Wegsteins wurde vollständig wiederhergestellt. Mit seiner Hilfe kann Mazaan den Weg ab dem 65. bis zum 75. Fragment des Erschütterten Reichs öffnen. ^n^nZartbesaitete sollten diesen Wegstein nicht verwenden.
+tagGDX2EndlessDungeon_Key_05_Desc=Das göttliche Potenzial des himmlischen Wegsteins wurde vollständig wiederhergestellt. Mit seiner Hilfe kann Mazaan den Weg ab dem 26. bis zum 30. Fragment des Erschütterten Reichs öffnen. ^n^nZartbesaitete sollten diesen Wegstein nicht verwenden.
 tagGDX2EndlessDungeon_Key_05_Blueprint=Bauplan: Himmlischer Wegstein
 
 tagGDX2EndlessDungeon_Key_06=Ewiger Wegstein
-tagGDX2EndlessDungeon_Key_06_Desc=Ein Wegstein, der die Realität um ihn herum verändert. Er ermöglicht Mazaan, den Weg mindestens bis zum 80., wenn nicht sogar 90. Fragment des Zerschmetterten Reichs freizugeben. ^n^nZartbesaitete sollten diesen Wegstein nicht verwenden.
+tagGDX2EndlessDungeon_Key_06_Desc=Ein Wegstein, der die Realität um ihn herum verändert. Er ermöglicht Mazaan, den Weg mindestens bis zum 32., wenn nicht sogar 36. Fragment des Zerschmetterten Reichs freizugeben. ^n^nZartbesaitete sollten diesen Wegstein nicht verwenden.
 tagGDX2EndlessDungeon_Key_06_Blueprint=Bauplan: Ewiger Wegstein
 
 tagGDX2EndlessDungeon_Key_07=Wegstein des Todes
-tagGDX2EndlessDungeon_Key_07_Desc=Der von der Macht des Todes befleckte Wegstein öffnet nun den Weg zu unergründlichen Gefahren, auf dem dich keine Belohnungen außer dem Ruhm der Eroberung erwarten. ^n^nEr ermöglicht Mazaan, den Weg mindestens bis zum 95. Fragment des Zerschmetterten Reichs und darüber hinaus freizugeben. ^n^nZartbesaitete sollten diesen Wegstein nicht verwenden.
+tagGDX2EndlessDungeon_Key_07_Desc=Der von der Macht des Todes befleckte Wegstein öffnet nun den Weg zu unergründlichen Gefahren, auf dem dich keine Belohnungen außer dem Ruhm der Eroberung erwarten. ^n^nEr ermöglicht Mazaan, den Weg mindestens bis zum 38. Fragment des Zerschmetterten Reichs und darüber hinaus freizugeben. ^n^nZartbesaitete sollten diesen Wegstein nicht verwenden.
 tagGDX2EndlessDungeon_Key_07_Blueprint=Bauplan: Wegstein des Todes
 
 tagGDX2ItemTest={^F}Miss Gazer Man

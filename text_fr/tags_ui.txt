@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Ajuste les options pour quel butin doit être affiché. L'option Afficher/Masquer les objets peut être utilisée pour masquer toutes les ramassages pendant une rencontre occupée, puis les afficher à nouveau une fois terminées.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Ajuste les options pour quel butin doit être affiché. L'option Afficher/Masquer les objets peut être utilisée pour masquer toutes les ramassages pendant une rencontre occupée, puis les afficher à nouveau une fois terminées.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.3{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=difficulté Normale
@@ -1427,7 +1427,7 @@ tagGameOver=Vous êtes mort(e) !
 SimpleStringFormat={%s0}
 SimpleStringsFormat={%_s1}{%_1a0}
 TripleStringFormat={%_s2}{%_2a1} {%_2a0}
-TripleStringFormat2={%s0} {%s1}{%s2}
+TripleStringFormat2={%_2a0}{%_2a1}{%_s2}
 QuadStringFormat={%_s3}{%_3a2}{%_3a1}{%_3a0}
 SkillBaseNamesFormat={    %s0}
 CostFormat=Coût {%d0}
@@ -2432,4 +2432,74 @@ SkillChanceWeightMod=+{%d0} % de {^E}chances d'être utilisé
 tagFactionNemesisSpawned=Un némésis approche !
 tagHUDDesc22=Active ou désactive la mise en surbrillance supplémentaire des objets récemment obtenus dans l'inventaire.
 tagHUDOption22=Surbrillance des nouveaux objets
+
+#patch v1.2.1.3
+DamageRangeFormatAppend= [{%t0}-{%t1}]
+DamageRangeFormatTime= {^E}sur {^H}{%.1f0}-{%.1f1}{^E}secondes
+DamageRangeFormatTimeR= {^E}sur {^H}{%t0}-{%t1}{^E}secondes
+
+tagDamageConversionR={%.0f0}%-{%.0f1}% {^E}{%s2} convertis en {%s3}
+tagDamageRemovalR={%.0f0}%-{%.0f1}% {^E}{%s2} de réduction
+
+MaxDurationRefresh=Prolongation de la durée max.
+tagSkillDurationRefresh={%t0} pour prolonger la durée de {^H}{%.1f1}{%z2}. ({^H}{%.1f3} {%z4} max.)
+tagSkillDurationRefreshName={%t0} pour prolonger la durée de {%s1} de {^H}{%.1f2}{%z3}. ({^H}{%.1f4} {%z5} max.)
+tagSkillCooldownRefresh={%t0} pour réduire le rechargement de {^H}{%.1f1} {%z2}
+tagSkillCooldownRefreshName={%t0} pour réduire le rechargement de {%s1} de {^H}{%.1f2}{%z3}
+
+DamageColdR={%t0}-{%t1} {^E}points de dégâts de froid
+DamageFireR={%t0}-{%t1} {^E}points de dégâts de feu
+DamageAetherR={%t0}-{%t1} {^E}points de dégâts d’éther
+DamageChaosR={%t0}-{%t1} {^E}points de dégâts de chaos
+DamageLifeR={%t0}-{%t1} {^E}points de dégâts de vitalité
+DamageLifeLeechR={%t0}-{%t1}% {^E}des dégâts d’attaque sont convertis en santé
+DamageLightningR={%t0}-{%t1} {^E}points de dégâts de foudre
+DamageElementalR={%t0}-{%t1} {^E}points de dégâts élémentaires
+DamageModifierElementalR={%+.0f0}-{%.0f1}% {^E}de dégâts élémentaires
+DamagePhysicalR=+{%t0}-{%t1} {^E}points de dégâts physiques
+DamagePierceR={%t0}-{%t1} {^E}points de dégâts perforants
+DamagePoisonR={%t0}-{%t1} {^E}points de dégâts d’acide
+DamageDurationModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}de dégâts de Trauma interne
+DamageDurationModifierBleedingR={%+.0f0}-{%.0f1}% {^E}de dégâts de Saignement
+DamageDurationModifierColdR={%+.0f0}-{%.0f1}% {^E}de dégâts de Brûlure de froid
+DamageDurationModifierFireR={%+.0f0}-{%.0f1}% {^E}de dégâts de Brûlure
+DamageDurationModifierPoisonR={%+.0f0}-{%.0f1}% {^E}de dégâts de Poison
+DamageDurationModifierLightningR={%+.0f0}-{%.0f1}% {^E}de dégâts d’Électrocution
+DamageDurationModifierLifeR={%+.0f0}-{%.0f1}% {^E}de Perte de vitalité
+DamageDurationModifierAttackSpeedR={%+.0f0}-{%.0f1}% {^E}de réduction de la vitesse d’attaque
+DamageDurationModifierSpellCastSpeedR={%+.0f0}-{%.0f1}% {^E}de réduction de la vitesse d’incantation
+DamageDurationModifierRunSpeedR={%+.0f0}-{%.0f1}% {^E}de réduction de la vitesse de déplacement
+DamageDurationModifierLifeLeachR={%+.0f0}-{%.0f1}% {^E}de dégâts de Drain de vie
+DamageDurationModifierManaLeachR={%+.0f0}-{%.0f1}% {^E}de Drain d’énergie
+DamageDurationModifierOffensiveAbilityR={%+.0f0}-{%.0f1}% {^E}de réduction de la capacité offensive de la cible
+DamageDurationModifierDefensiveAbilityR={%+.0f0}-{%.0f1}% {^E}de réduction de la capacité défensive de la cible
+DamageDurationModifierOffensiveReductionR={%+.0f0}-{%.0f1}% {^E}de réduction des dégâts physiques de la cible
+DamageDurationModifierDamageMultR={%+.0f0}-{%.0f1}% {^E}d’augmentation de Scindement
+
+tagDamageModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}à tous les dégâts
+tagDamageModifierDamageMultR={^E}Dégâts totaux modifiés de {^H}{%.0f0}-{%.0f1}%
+tagRetaliationModifierDamageMultR={^E}Dégâts de représailles totaux modifiés de {^H}{%.0f0}-{%.0f1}%
+
+SkillManaCostReductionR=-{%.0f0}-{%.0f1}% {^E}au coût en énergie de compétence
+SkillCooldownReductionR=+{%.0f0}-{%.0f1}% {^E}de réduction de recharge de compétence
+SkillProjectileSpeedModifierR={%+.0f0}-{%.0f1}% {^E}d’augmentation de la vitesse de projectile
+SkillManaCostReductionModifierR=-{%.0f0}-{%.0f1}% {^E}au coût en énergie de compétence
+SkillCooldownReductionModifierR=-{%.0f0}-{%.0f1}% {^E}au rechargement de compétence
+
+tagTotalSpeedResistanceR={%.0f0}-{%.0f1}% {^E}de résist. à Ralentissement
+tagDefenseSleepR={%.0f0}-{%.0f1}% {^E}de résist. à Sommeil
+tagDefenseSleepModifierR={%+.0f0}-{%.0f1}% {^E}de résist. à Sommeil
+
+DefensePhysicalDurationR={%.0f0}-{%.0f1}% {^E}de réduction de la durée de Trauma interne
+DefenseBleedingDurationR={%.0f0}-{%.0f1}% {^E}de réduction de la durée de Saignement
+DefenseColdDurationR={%.0f0}-{%.0f1}% {^E}de réduction de la durée de Brûlure de froid
+DefenseFireDurationR={%.0f0}-{%.0f1}% {^E}de réduction de la durée de Brûlure
+DefensePoisonDurationR={%.0f0}-{%.0f1}% {^E}de réduction de la durée de Poison
+DefenseLightningDurationR={%.0f0}-{%.0f1}% {^E}de réduction de la durée d’Électrocution
+DefenseLifeDurationR={%.0f0}-{%.0f1}% {^E}de réduction de la durée de Perte de vitalité
+DefenseLifeLeachDurationR={%.0f0}-{%.0f1}% {^E}de réduction de la durée de Drain de vie
+DefenseManaLeachDurationR={%.0f0}-{%.0f1}% {^E}de réduction de la durée de Drain d’énergie
+DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}de résistance à Réduction de vie
+DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}de résistance à Brûlure de mana
+
 

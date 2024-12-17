@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Настройка параметров отображаемой добычи. Переключатель "Показать/Скрыть предметы" используется, чтобы скрыть всю добычу во время серьёзного боя, и снова отобразить их, после его завершения.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Настройка параметров отображаемой добычи. Переключатель "Показать/Скрыть предметы" используется, чтобы скрыть всю добычу во время серьёзного боя, и снова отобразить их, после его завершения.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.3{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Обычная
@@ -2569,4 +2569,74 @@ SkillChanceWeightMod=+{%d0}% {^E}к шансу применения
 tagFactionNemesisSpawned=Приближается немезида!
 tagHUDDesc22=Включить дополнительную подсветку в инвентаре для недавно подобранных предметов.
 tagHUDOption22=Подсветка новых предметов
+
+#patch v1.2.1.3
+DamageRangeFormatAppend= [{%t0}-{%t1}]
+DamageRangeFormatTime= {^E}в течение {^H}{%.1f0}-{%.1f1} {^E}сек.
+DamageRangeFormatTimeR= {^E}в течение {^H}{%t0}-{%t1} {^E}сек.
+
+tagDamageConversionR={%.0f0}%-{%.0f1}% конверсия:{^E}{%s2} в {%s3}
+tagDamageRemovalR={%.0f0}%-{%.0f1}% {^E}{%s2} снижено
+
+MaxDurationRefresh=Увеличение максимальной длительности
+tagSkillDurationRefresh={%t0}, чтобы увеличить длительность на {^H}{%.1f1} {%z2}. (Макс. {^H}{%.1f3} {%z4})
+tagSkillDurationRefreshName={%t0}, чтобы увеличить длительность ({%s1}) на {^H}{%.1f2} {%z3}. (Макс. {^H}{%.1f4} {%z5})
+tagSkillCooldownRefresh={%t0}, чтобы уменьшить активную перезарядку на {^H}{%.1f1} {%z2}
+tagSkillCooldownRefreshName={%t0}, чтобы уменьшить активную перезарядку ({%s1}) на {^H}{%.1f2} {%z3}
+
+DamageColdR={%t0}-{%t1} {^E} урона холодом
+DamageFireR={%t0}-{%t1} {^E}урона огнём
+DamageAetherR={%t0}-{%t1} {^E}урона от эфира
+DamageChaosR={%t0}-{%t1} {^E}урона хаосом
+DamageLifeR={%t0}-{%t1} {^E}урона здоровью
+DamageLifeLeechR={%t0}-{%t1}% {^E}урона превращается в здоровье
+DamageLightningR={%t0}-{%t1} {^E}урона от молнии
+DamageElementalR={%t0}-{%t1} {^E}стихийного урона
+DamageModifierElementalR={%+.0f0}-{%.0f1}%{^E}стихийного урона
+DamagePhysicalR=+{%t0}-{%t1} {^E}физического урона
+DamagePierceR={%t0}-{%t1} {^E}проникающего урона
+DamagePoisonR={%t0}-{%t1} {^E}урона от кислоты
+DamageDurationModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}урона внутренними травмами
+DamageDurationModifierBleedingR={%+.0f0}-{%.0f1}% {^E}урона от кровотечения
+DamageDurationModifierColdR={%+.0f0}-{%.0f1}% {^E}урона от обморожения
+DamageDurationModifierFireR={%+.0f0}-{%.0f1}% {^E}урона от горения
+DamageDurationModifierPoisonR={%+.0f0}-{%.0f1}% {^E}урона от яда
+DamageDurationModifierLightningR={%+.0f0}-{%.0f1}% {^E}урона от электрошока
+DamageDurationModifierLifeR={%+.0f0}-{%.0f1}% {^E}разложения
+DamageDurationModifierAttackSpeedR={%+.0f0}-{%.0f1}% {^E}замедления атак
+DamageDurationModifierSpellCastSpeedR={%+.0f0}-{%.0f1}% {^E}замедления заклинаний
+DamageDurationModifierRunSpeedR={%+.0f0}-{%.0f1}% {^E}замедления бега
+DamageDurationModifierLifeLeachR={%+.0f0}-{%.0f1}% {^E}кражи здоровья
+DamageDurationModifierManaLeachR={%+.0f0}-{%.0f1}% {^E}кражи энергии
+DamageDurationModifierOffensiveAbilityR={%+.0f0}-{%.0f1}% {^E}снижения навыка атаки
+DamageDurationModifierDefensiveAbilityR={%+.0f0}-{%.0f1}% {^E}снижения навыка защиты
+DamageDurationModifierOffensiveReductionR={%+.0f0}-{%.0f1}% {^E}снижения физического урона
+DamageDurationModifierDamageMultR={%+.0f0}-{%.0f1}% {^E}повышения уязвимости
+
+tagDamageModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}общего урона
+tagDamageModifierDamageMultR={^E}общий урон изменяется на {^H}{%.0f0}-{%.0f1}%
+tagRetaliationModifierDamageMultR={^E}общий ответный урон изменяется на {^H}{%.0f0}-{%.0f1}%
+
+SkillManaCostReductionR=-{%.0f0}-{%.0f1}% {^E}затрат энергии
+SkillCooldownReductionR=+{%.0f0}-{%.0f1}% {^E}времени перезарядки умения
+SkillProjectileSpeedModifierR={%+.0f0}-{%.0f1}% {^E}увеличения скорости снарядов
+SkillManaCostReductionModifierR=-{%.0f0}-{%.0f1}% {^E}затрат энергии
+SkillCooldownReductionModifierR=-{%.0f0}-{%.0f1}% {^E}времени перезарядки умения
+
+tagTotalSpeedResistanceR={%.0f0}-{%.0f1}% {^E}сопротивления замедлению
+tagDefenseSleepR={%.0f0}-{%.0f1}% {^E}сопротивления сну
+tagDefenseSleepModifierR={%+.0f0}-{%.0f1}% {^E}сопротивления сну
+
+DefensePhysicalDurationR=-{%.0f0}-{%.0f1}% {^E}длительности внутренних травм
+DefenseBleedingDurationR=-{%.0f0}-{%.0f1}% {^E}длительности кровотечения
+DefenseColdDurationR=-{%.0f0}-{%.0f1}% {^E}длительности обморожения
+DefenseFireDurationR=-{%.0f0}-{%.0f1}% {^E}длительности горения
+DefensePoisonDurationR=-{%.0f0}-{%.0f1}% {^E}длительности урона ядом
+DefenseLightningDurationR=-{%.0f0}-{%.0f1}% {^E}длительности электрошока
+DefenseLifeDurationR=-{%.0f0}-{%.0f1}% {^E}длительности разложения
+DefenseLifeLeachDurationR=-{%.0f0}-{%.0f1}% {^E}длительности кражи здоровья
+DefenseManaLeachDurationR=-{%.0f0}-{%.0f1}% {^E}длительности кражи энергии
+DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}сопротивления снижению здоровья
+DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}сопротивления горению маны
+
 

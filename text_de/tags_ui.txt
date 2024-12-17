@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Stelle die Optionen für die Beute ein, die angezeigt werden soll. Gegenstände anzeigen/ausblenden kann verwendet werden, um alle fallengelassenen Gegenstände während eines heftigen Kampfes auszublenden und sie danach wieder anzuzeigen. {^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Stelle die Optionen für die Beute ein, die angezeigt werden soll. Gegenstände anzeigen/ausblenden kann verwendet werden, um alle fallengelassenen Gegenstände während eines heftigen Kampfes auszublenden und sie danach wieder anzuzeigen. {^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.3{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 ﻿#General=
 
 tagGameDifficultySetting01=Schwierigkeit Normal
@@ -2549,4 +2549,71 @@ tagFactionNemesisSpawned=Eine Nemesis nähert sich!
 tagHUDDesc22=Schaltet zusätzliche Markierungen von kürzlich durch Plündern erhaltenen Gegenständen im Inventar ein/aus.
 tagHUDOption22=Markierung neuer Gegenstände
 
+#patch v1.2.1.3
+DamageRangeFormatAppend= [{%t0}-{%t1}]
+DamageRangeFormatTime= {^E}über {^H}{%.1f0}-{%.1f1} {^E}Sekunden
+DamageRangeFormatTimeR= {^E}über {^H}{%t0}-{%t1} {^E}Sekunden
 
+tagDamageConversionR={%.0f0} %-{%.0f1} % {^E}{%s2} umgewandelt zu {%s3}
+tagDamageRemovalR={%.0f0} %-{%.0f1} % {^E}{%s2} Verringerung
+
+MaxDurationRefresh=Max. Verlängerung der Dauer
+tagSkillDurationRefresh={%t0} zum Verlängern der Dauer um {^H}{%.1f1} {%z2}. (Max. {^H}{%.1f3} {%z4})
+tagSkillDurationRefreshName={%t0} zum Verlängern der Dauer von {%s1} um {^H}{%.1f2} {%z3}. (Max. {^H}{%.1f4} {%z5})
+tagSkillCooldownRefresh={%t0} zum Verringern der aktiven Abklingzeit um {^H}{%.1f1} {%z2}
+tagSkillCooldownRefreshName={%t0} zum Verringern der aktiven Abklingzeit von {%s1} um {^H}{%.1f2} {%z3}
+
+DamageColdR={%t0}-{%t1} {^E}Kälteschaden
+DamageFireR={%t0}-{%t1} {^E}Feuerschaden
+DamageAetherR={%t0}-{%t1} {^E}Ätherschaden
+DamageChaosR={%t0}-{%t1} {^E}Chaosschaden
+DamageLifeR={%t0}-{%t1} {^E}Lebenskraftschaden
+DamageLifeLeechR={%t0}-{%t1} % {^E}Angriffsschaden in Leben umgewandelt
+DamageLightningR={%t0}-{%t1} {^E}Blitzschaden
+DamageElementalR={%t0}-{%t1} {^E}Elementarschaden
+DamageModifierElementalR={%+.0f0}-{%.0f1} % {^E}Elementarschaden
+DamagePhysicalR=+{%t0}-{%t1} {^E}Physischer Schaden
+DamagePierceR={%t0}-{%t1} {^E}Durchschlagsschaden
+DamagePoisonR={%t0}-{%t1} {^E}Säureschaden
+DamageDurationModifierPhysicalR={%+.0f0}-{%.0f1} % {^E}Wundschaden
+DamageDurationModifierBleedingR={%+.0f0}-{%.0f1} % {^E}Blutungsschaden
+DamageDurationModifierColdR={%+.0f0}-{%.0f1} % {^E}Frostbrandschaden
+DamageDurationModifierFireR={%+.0f0}-{%.0f1} % {^E}Verbrennungsschaden
+DamageDurationModifierPoisonR={%+.0f0}-{%.0f1} % {^E}Giftschaden
+DamageDurationModifierLightningR={%+.0f0}-{%.0f1} % {^E}Stromschlagschaden
+DamageDurationModifierLifeR={%+.0f0}-{%.0f1} % {^E}Lebenskraftverfall
+DamageDurationModifierAttackSpeedR={%+.0f0}-{%.0f1} % {^E}langsamer Angriff
+DamageDurationModifierSpellCastSpeedR={%+.0f0}-{%.0f1} % {^E}Langsames Zaubern
+DamageDurationModifierRunSpeedR={%+.0f0}-{%.0f1} % {^E}langsameres Laufen
+DamageDurationModifierLifeLeachR={%+.0f0}-{%.0f1} % {^E}Lebensentzugsschaden
+DamageDurationModifierManaLeachR={%+.0f0}-{%.0f1} % {^E}Energieentzug
+DamageDurationModifierOffensiveAbilityR={%+.0f0}-{%.0f1} % {^E}reduzierte Angriffsqualität des Ziels
+DamageDurationModifierDefensiveAbilityR={%+.0f0}-{%.0f1} % {^E}reduzierte Verteidigungsqualität des Ziels
+DamageDurationModifierOffensiveReductionR={%+.0f0}-{%.0f1} % {^E}reduzierter physischer Schaden des Ziels
+DamageDurationModifierDamageMultR={%+.0f0}-{%.0f1} % {^E}erhöhtes Trennen
+
+tagDamageModifierTotalDamageR={%+.0f0}-{%.0f1} % {^E}auf alle Schadenstypen
+tagDamageModifierDamageMultR={^E}Gesamtschaden wird um {^H}{%.0f0}-{%.0f1} % modifiziert
+tagRetaliationModifierDamageMultR={^E}Gesamtvergeltungsschaden wird um {^H}{%.0f0}-{%.0f1} % modifiziert
+
+SkillManaCostReductionR=-{%.0f0}-{%.0f1}% {^E}Fähigkeiten-Energiekosten
+SkillCooldownReductionR=+{%.0f0}-{%.0f1}% {^E}kürzere Fähigkeitenabklingzeit
+SkillProjectileSpeedModifierR={%+.0f0}-{%.0f1}% {^E}Erhöhung der Geschossgeschwindigkeit
+SkillManaCostReductionModifierR=-{%.0f0}-{%.0f1}% {^E}Fähigkeiten-Energiekosten
+SkillCooldownReductionModifierR=-{%.0f0}-{%.0f1}% {^E}Aufladezeit der Fähigkeit
+
+tagTotalSpeedResistanceR={%.0f0}-{%.0f1}% {^E}Verlangsamungsresistenz
+tagDefenseSleepR={%.0f0}-{%.0f1}% {^E}Schlafresistenz
+tagDefenseSleepModifierR={%+.0f0}-{%.0f1}% {^E}Schlafresistenz
+
+DefensePhysicalDurationR={%.0f0}-{%.0f1}% {^E}kürzere Wundschadensdauer
+DefenseBleedingDurationR={%.0f0}-{%.0f1}% {^E}kürzere Blutungsdauer
+DefenseColdDurationR={%.0f0}-{%.0f1}% {^E}kürzere Frostbranddauer
+DefenseFireDurationR={%.0f0}-{%.0f1}% {^E}kürzere Verbrennungsdauer
+DefensePoisonDurationR={%.0f0}-{%.0f1}% {^E}kürzere Vergiftungsdauer
+DefenseLightningDurationR={%.0f0}-{%.0f1}% {^E}kürzere Stromschlagdauer
+DefenseLifeDurationR={%.0f0}-{%.0f1}% {^E}kürzere Lebenskraftverfallsdauer
+DefenseLifeLeachDurationR={%.0f0}-{%.0f1}% {^E}kürzere Lebensentzugsdauer
+DefenseManaLeachDurationR={%.0f0}-{%.0f1}% {^E}kürzere Energieentzugsdauer
+DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}Widerstand gegen Lebensreduzierung
+DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}Widerstand gegen Energiebrand

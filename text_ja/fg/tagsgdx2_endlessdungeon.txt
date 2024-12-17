@@ -143,31 +143,31 @@ tagGDX2EndlessDungeon_Essence_03=天界の砕かれた魂
 tagGDX2EndlessDungeon_Essence_04=圧倒的な砕かれた魂
 
 tagGDX2EndlessDungeon_Key_01=砕かれたウェイストーン
-tagGDX2EndlessDungeon_Key_01_Desc=砕かれたウェイストーンは､ 直ちに 素晴らしい 機能を 提供する。 これは､ マザーンが シャッタード レルムの､ 最低でも 第5シャードから 第15シャード迄の 道を開く事を 可能とする。
+tagGDX2EndlessDungeon_Key_01_Desc=砕かれたウェイストーンは､ 直ちに 素晴らしい 機能を 提供する。 これは､ マザーンが シャッタード レルムの､ 最低でも 第2シャードから 第6シャード迄の 道を開く事を 可能とする。
 tagGDX2EndlessDungeon_Key_01_Blueprint=設計図： 砕かれたウェイストーン
 
 tagGDX2EndlessDungeon_Key_02=共振するウェイストーン
-tagGDX2EndlessDungeon_Key_02_Desc=共振するウェイストーンは､ 過去の力の 断片で 微かに 輝く。 これは､ マザーンが シャッタード レルムの､ 最低でも 第20シャードから 第30シャード迄の 道を開く事を 可能とする。
+tagGDX2EndlessDungeon_Key_02_Desc=共振するウェイストーンは､ 過去の力の 断片で 微かに 輝く。 これは､ マザーンが シャッタード レルムの､ 最低でも 第8シャードから 第12シャード迄の 道を開く事を 可能とする。
 tagGDX2EndlessDungeon_Key_02_Blueprint=設計図： 共振するウェイストーン
 
 tagGDX2EndlessDungeon_Key_03=霊の憑いたウェイストーン
-tagGDX2EndlessDungeon_Key_03_Desc=霊の憑いたウェイ ストーンには､ 死者の 霊魂が 注入されている。 これは､ マザーンが シャッタード レルムの､ 最低でも 第35シャードから 第45シャード迄の 道を開く事を 可能とする。
+tagGDX2EndlessDungeon_Key_03_Desc=霊の憑いたウェイ ストーンには､ 死者の 霊魂が 注入されている。 これは､ マザーンが シャッタード レルムの､ 最低でも 第14シャードから 第18シャード迄の 道を開く事を 可能とする。
 tagGDX2EndlessDungeon_Key_03_Blueprint=設計図： 霊の憑いたウェイストーン
 
 tagGDX2EndlessDungeon_Key_04=冒涜されたウェイストーン
-tagGDX2EndlessDungeon_Key_04_Desc=冒涜されたウェイ ストーンには､ 汚された 血液が 塗り込められている。 これは､ マザーンが シャッタード レルムの､ 最低でも 第50シャードから 第60シャード迄の 道を開く事を 可能とする。
+tagGDX2EndlessDungeon_Key_04_Desc=冒涜されたウェイ ストーンには､ 汚された 血液が 塗り込められている。 これは､ マザーンが シャッタード レルムの､ 最低でも 第20シャードから 第24シャード迄の 道を開く事を 可能とする。
 tagGDX2EndlessDungeon_Key_04_Blueprint=設計図： 冒涜されたウェイストーン
 
 tagGDX2EndlessDungeon_Key_05=天界のウェイストーン
-tagGDX2EndlessDungeon_Key_05_Desc=天界のウェイストーンは､ その 神聖なる 機能が 完全に 修復されている。 これは､ マザーンが シャッタード レルムの､ 最低でも 第65シャードから 第75シャード迄の 道を開く事を 可能とする。 心弱き者は､ この ウェイストーン を使うべき ではない。
+tagGDX2EndlessDungeon_Key_05_Desc=天界のウェイストーンは､ その 神聖なる 機能が 完全に 修復されている。 これは､ マザーンが シャッタード レルムの､ 最低でも 第26シャードから 第30シャード迄の 道を開く事を 可能とする。 心弱き者は､ この ウェイストーン を使うべき ではない。
 tagGDX2EndlessDungeon_Key_05_Blueprint=設計図： 天界のウェイストーン
 
 tagGDX2EndlessDungeon_Key_06=久遠のウェイストーン
-tagGDX2EndlessDungeon_Key_06_Desc=紡 ぎ 合 さ れ た 現 実 の 縒 り 糸 を 引 き 寄 せ 、 捻 じ 曲 げ る ウ ェ イ ス ト ー ン 。 こ れ に よ っ て ､ マ ザ ー ン は シ ャ タ ー ド レ ル ム の ､ 第 80 シ ャ ー ド か ら 第 90 シ ャ ー ド ま で の 道 を 開 く こ と が で き る 。 ^n^nこ の ウ ェ イ ス ト ー ン は 心 弱 き 者 が 使 う べ き で は な い 。
+tagGDX2EndlessDungeon_Key_06_Desc=紡 ぎ 合 さ れ た 現 実 の 縒 り 糸 を 引 き 寄 せ 、 捻 じ 曲 げ る ウ ェ イ ス ト ー ン 。 こ れ に よ っ て ､ マ ザ ー ン は シ ャ タ ー ド レ ル ム の ､ 第 32 シ ャ ー ド か ら 第 36 シ ャ ー ド ま で の 道 を 開 く こ と が で き る 。 ^n^nこ の ウ ェ イ ス ト ー ン は 心 弱 き 者 が 使 う べ き で は な い 。
 tagGDX2EndlessDungeon_Key_06_Blueprint=設計図: 久遠のウェイストーン
 
 tagGDX2EndlessDungeon_Key_07=死のウェイストーン
-tagGDX2EndlessDungeon_Key_07_Desc=征 服 者 の 栄 誉 以 外 に 何 の 報 酬 も な い 、 計 り 知 れ な い 危 険 へ の 道 を 開 く 、 死 の 力 に 汚 染 さ れ た ウ ェ イ ス ト ー ン 。 ^n^nこ れ に よ っ て 、 マ ザ ー ン は シ ャ タ ー ド レ ル ム の 第 95 シ ャ ー ド 、 さ ら に そ れ 以 降 へ の 道 を 開 く こ と が で き る 。 ^n^nこ の ウ ェ イ ス ト ー ン は 心 弱 き 者 が 使 う べ き で は な い 。
+tagGDX2EndlessDungeon_Key_07_Desc=征 服 者 の 栄 誉 以 外 に 何 の 報 酬 も な い 、 計 り 知 れ な い 危 険 へ の 道 を 開 く 、 死 の 力 に 汚 染 さ れ た ウ ェ イ ス ト ー ン 。 ^n^nこ れ に よ っ て 、 マ ザ ー ン は シ ャ タ ー ド レ ル ム の 第 38 シ ャ ー ド 、 さ ら に そ れ 以 降 へ の 道 を 開 く こ と が で き る 。 ^n^nこ の ウ ェ イ ス ト ー ン は 心 弱 き 者 が 使 う べ き で は な い 。
 tagGDX2EndlessDungeon_Key_07_Blueprint=設計図 : 死のウェイストーン
 
 tagGDX2ItemTest={^F}ミス ゲイザー マン

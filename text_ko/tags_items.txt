@@ -4502,6 +4502,7 @@ tagSlotUnknown= (미착용)
 
 #v1.2.1.0
 tagShowDetails=[Ctrl 키를 길게 눌러 상세정보 보기]
+tagShowDetailsGamepad=^O[왼쪽 트리거를 길게 눌러 상세정보 보기]
 tagConsumableCategoryElixirDesc=^o한 번에 하나의 엘릭서만 효과가 발현됩니다.
 tagConsumableCategoryOilDesc=^o한 번에 하나의 오일만 효과가 발현됩니다.
 tagConsumableCategoryTinctureDesc=^o물약은 쿨타임이 공유됩니다.

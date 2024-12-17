@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=どのような戦利品を表示するかの オプションを 調整する。 アイテムの 表示/非表示を 切り替えると､ 乱闘の間は 全ドロップ品を 非表示にして､ 終了後に再び 表示させる ことができる。{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=どのような戦利品を表示するかの オプションを 調整する。 アイテムの 表示/非表示を 切り替えると､ 乱闘の間は 全ドロップ品を 非表示にして､ 終了後に再び 表示させる ことができる。{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.3{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=難易度ノーマル
@@ -2546,4 +2546,73 @@ SkillChanceWeightMod=+{%d0}% {^E}発動率
 tagFactionNemesisSpawned=ネメシス接近！
 tagHUDDesc22=インベントリ内で最近手に入れたアイテムにハイライト表示を追加するかを切り替えます。
 tagHUDOption22=新アイテムハイライト
+
+#patch v1.2.1.3
+DamageRangeFormatAppend= [{%t0}-{%t1}]
+DamageRangeFormatTime= {^E}{^H}{%.1f0}-{%.1f1}{^E}秒間持続
+DamageRangeFormatTimeR= {^E}{^H}{%t0}-{%t1}{^E}秒間持続
+
+tagDamageConversionR={%.0f0}%-{%.0f1}% {^E}{%s2}を{%s3}に変換
+tagDamageRemovalR={%.0f0}%-{%.0f1}% {^E}{%s2} 低減
+
+MaxDurationRefresh=最大効果時間延長
+tagSkillDurationRefresh={%t0}で効果時間を{^H}{%.1f1}{%z2}延長。(最大{^H}{%.1f3} {%z4})
+tagSkillDurationRefreshName={%t0}で{%s1}の効果時間を{^H}{%.1f2}{%z3}延長。(最大{^H}{%.1f4} {%z5})
+tagSkillCooldownRefresh={%t0}でアクティブクールダウンを{^H}{%.1f1} {%z2}短縮
+tagSkillCooldownRefreshName={%t0}で{%s1}のアクティブクールダウンを{^H}{%.1f2} {%z3}短縮
+
+DamageColdR={%t0}-{%t1} {^E}冷気ダメージ
+DamageFireR={%t0}-{%t1} {^E}火炎ダメージ
+DamageAetherR={%t0}-{%t1} {^E}イーサー ダメージ
+DamageChaosR={%t0}-{%t1} {^E}カオスダメージ
+DamageLifeR={%t0}-{%t1} {^E}生命力ダメージ
+DamageLifeLeechR={%t0}-{%t1}% {^E}の攻撃ダメージをヘルスに変換
+DamageLightningR={%t0}-{%t1} {^E}雷ダメージ
+DamageElementalR={%t0}-{%t1} {^E}エレメンタルダメージ
+DamageModifierElementalR={%+.0f0}-{%.0f1}% {^E}エレメンタルダメージ
+DamagePhysicalR=+{%t0}-{%t1} {^E}物理ダメージ
+DamagePierceR={%t0}-{%t1} {^E}刺突ダメージ
+DamagePoisonR={%t0}-{%t1} {^E}酸ダメージ
+DamageDurationModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}体内損傷ダメージ
+DamageDurationModifierBleedingR={%+.0f0}-{%.0f1}% {^E}出血ダメージ
+DamageDurationModifierColdR={%+.0f0}-{%.0f1}% {^E}凍傷ダメージ
+DamageDurationModifierFireR={%+.0f0}-{%.0f1}% {^E}燃焼ダメージ
+DamageDurationModifierPoisonR={%+.0f0}-{%.0f1}% {^E}毒ダメージ
+DamageDurationModifierLightningR={%+.0f0}-{%.0f1}% {^E}感電ダメージ
+DamageDurationModifierLifeR={%+.0f0}-{%.0f1}% {^E}生命力減衰
+DamageDurationModifierAttackSpeedR={%+.0f0}-{%.0f1}% {^E}攻撃速度低下
+DamageDurationModifierSpellCastSpeedR={%+.0f0}-{%.0f1}% {^E}詠唱速度低下
+DamageDurationModifierRunSpeedR={%+.0f0}-{%.0f1}% {^E}移動速度低下
+DamageDurationModifierLifeLeachR={%+.0f0}-{%.0f1}% {^E}ライフ吸収ダメージ
+DamageDurationModifierManaLeachR={%+.0f0}-{%.0f1}% {^E}エナジー吸収
+DamageDurationModifierOffensiveAbilityR={%+.0f0}-{%.0f1}% {^E}標的の攻撃能力低下
+DamageDurationModifierDefensiveAbilityR={%+.0f0}-{%.0f1}% {^E}標的の防御能力低下
+DamageDurationModifierOffensiveReductionR={%+.0f0}-{%.0f1}% {^E}標的の物理ダメージ減少
+DamageDurationModifierDamageMultR={%+.0f0}-{%.0f1}% {^E}破砕の上昇
+
+tagDamageModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}全ダメージ
+tagDamageModifierDamageMultR={^E}総ダメージ修正 {^H}{%.0f0}-{%.0f1}%
+tagRetaliationModifierDamageMultR={^E}総報復ダメージ修正 {^H}{%.0f0}-{%.0f1}%
+
+SkillManaCostReductionR=-{%.0f0}-{%.0f1}% {^E}スキルエナジーコスト
+SkillCooldownReductionR=+{%.0f0}-{%.0f1}% {^E}スキルクールダウン短縮
+SkillProjectileSpeedModifierR={%+.0f0}-{%.0f1}% {^E}投射物速度向上
+SkillManaCostReductionModifierR=-{%.0f0}-{%.0f1}% {^E}スキルエナジーコスト
+SkillCooldownReductionModifierR=-{%.0f0}-{%.0f1}% {^E}スキルリチャージ
+
+tagTotalSpeedResistanceR={%.0f0}-{%.0f1}% {^E}スロー耐性
+tagDefenseSleepR={%.0f0}-{%.0f1}% {^E}睡眠耐性
+tagDefenseSleepModifierR={%+.0f0}-{%.0f1}% {^E}睡眠耐性
+
+DefensePhysicalDurationR={%.0f0}-{%.0f1}% {^E}体内損傷時間短縮
+DefenseBleedingDurationR={%.0f0}-{%.0f1}% {^E}出血時間短縮
+DefenseColdDurationR={%.0f0}-{%.0f1}% {^E}凍傷時間短縮
+DefenseFireDurationR={%.0f0}-{%.0f1}% {^E}燃焼時間短縮
+DefensePoisonDurationR={%.0f0}-{%.0f1}% {^E}中毒時間短縮
+DefenseLightningDurationR={%.0f0}-{%.0f1}% {^E}感電時間短縮
+DefenseLifeDurationR={%.0f0}-{%.0f1}% {^E}生命力減衰時間短縮
+DefenseLifeLeachDurationR={%.0f0}-{%.0f1}% {^E}ライフ吸収時間短縮
+DefenseManaLeachDurationR={%.0f0}-{%.0f1}% {^E}エナジー吸収時間短縮
+DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}ヘルス減少耐性
+DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}マナ燃焼耐性
 

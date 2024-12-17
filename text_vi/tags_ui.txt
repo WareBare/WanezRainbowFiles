@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Điều chỉnh các tùy chọn hiển thị chiến lợi phẩm.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Điều chỉnh các tùy chọn hiển thị chiến lợi phẩm.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.11{^n}for Grim Dawn: v1.2.1.3{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 ﻿#General=
 
 tagGameDifficultySetting01=Độ Khó Bình Thường
@@ -2550,4 +2550,74 @@ SkillChanceWeightMod=+{%d0}% {^E}Cơ Hội Được Sử Dụng
 tagFactionNemesisSpawned=Một Kình Địch đang đến gần!
 tagHUDDesc22=Bật/tắt tô sáng bổ sung cho các vật phẩm cướp được gần đây trong hành trang.
 tagHUDOption22=Tô Sáng Vật Phẩm Mới
+
+#patch v1.2.1.3
+DamageRangeFormatAppend= [{%t0}-{%t1}]
+DamageRangeFormatTime= {^E}trong {^H}{%.1f0}-{%.1f1} {^E}Giây
+DamageRangeFormatTimeR= {^E}trong {^H}{%t0}-{%t1} {^E}Giây
+
+tagDamageConversionR={%.0f0}%-{%.0f1}% {^E}{%s2} được chuyển thành {%s3}
+tagDamageRemovalR=Giảm {%.0f0}%-{%.0f1}% {^E}{%s2}
+
+MaxDurationRefresh=Kéo Dài Thời Gian Hiệu Lực
+tagSkillDurationRefresh={%t0} để kéo dài thời gian hiệu lực thêm {^H}{%.1f1} {%z2}. (Tối đa {^H}{%.1f3} {%z4})
+tagSkillDurationRefreshName={%t0} để kéo dài thời gian hiệu lực của {%s1} thêm {^H}{%.1f2} {%z3}. (Tối đa {^H}{%.1f4} {%z5})
+tagSkillCooldownRefresh={%t0} để giảm thời gian hồi chiêu đang hoạt động đi {^H}{%.1f1} {%z2}
+tagSkillCooldownRefreshName={%t0} để giảm thời gian hồi chiêu đang hoạt động của {%s1} đi {^H}{%.1f2} {%z3}
+
+DamageColdR={%t0}-{%t1} {^E}Sát Thương Băng
+DamageFireR={%t0}-{%t1} {^E}Sát Thương Lửa
+DamageAetherR={%t0}-{%t1} {^E}Sát Thương Aether
+DamageChaosR={%t0}-{%t1} {^E}Sát Thương Hỗn Nguyên
+DamageLifeR={%t0}-{%t1} {^E}Sát Thương Sinh Khí
+DamageLifeLeechR={%t0}-{%t1}% {^E}Sát Thương mỗi Đòn Đánh được chuyển thành Máu
+DamageLightningR={%t0}-{%t1} {^E}Sát Thương Sét
+DamageElementalR={%t0}-{%t1} {^E}Sát Thương Nguyên Tố
+DamageModifierElementalR={%+.0f0}-{%.0f1}% {^E}Sát Thương Nguyên Tố
+DamagePhysicalR=+{%t0}-{%t1} {^E}Sát Thương Vật Lý
+DamagePierceR={%t0}-{%t1} {^E}Sát Thương Xuyên Phá
+DamagePoisonR={%t0}-{%t1} {^E}Sát Thương A-xít
+DamageDurationModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}Nội Thương
+DamageDurationModifierBleedingR={%+.0f0}-{%.0f1}% {^E}Sát Thương Xuất Huyết
+DamageDurationModifierColdR={%+.0f0}-{%.0f1}% {^E}Sát Thương Bỏng Băng
+DamageDurationModifierFireR={%+.0f0}-{%.0f1}% {^E}Sát Thương Thiêu Đốt
+DamageDurationModifierPoisonR={%+.0f0}-{%.0f1}% {^E}Sát Thương Độc
+DamageDurationModifierLightningR={%+.0f0}-{%.0f1}% {^E}Sát Thương Điện Giật
+DamageDurationModifierLifeR={%+.0f0}-{%.0f1}% {^E}Giảm Sinh Khí
+DamageDurationModifierAttackSpeedR={%+.0f0}-{%.0f1}% {^E}Giảm Tốc Độ Đánh
+DamageDurationModifierSpellCastSpeedR={%+.0f0}-{%.0f1}% {^E}Giảm Tốc Độ Thi Triển
+DamageDurationModifierRunSpeedR={%+.0f0}-{%.0f1}% {^E}Giảm Tốc Độ Di Chuyển
+DamageDurationModifierLifeLeachR={%+.0f0}-{%.0f1}% {^E}Hút Máu
+DamageDurationModifierManaLeachR={%+.0f0}-{%.0f1}% {^E}Hút Năng Lượng
+DamageDurationModifierOffensiveAbilityR=Giảm {%+.0f0}-{%.0f1}% {^E}Khả Năng Tấn Công của Mục Tiêu
+DamageDurationModifierDefensiveAbilityR=Giảm {%+.0f0}-{%.0f1}% {^E}Khả Năng Phòng Thủ của Mục Tiêu
+DamageDurationModifierOffensiveReductionR=Giảm {%+.0f0}-{%.0f1}% {^E}Sát Thương Vật Lý của Mục Tiêu
+DamageDurationModifierDamageMultR=Tăng {%+.0f0}-{%.0f1}% {^E}Phân Tách
+
+tagDamageModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}vào Tất Cả Các Loại Sát Thương
+tagDamageModifierDamageMultR={^E}Tổng Sát Thương Tăng thêm {^H}{%.0f0}-{%.0f1}%
+tagRetaliationModifierDamageMultR={^E}Tổng Sát Thương Phải Lại được tăng thêm {^H}{%.0f0}-{%.0f1}%
+
+SkillManaCostReductionR=-{%.0f0}-{%.0f1}% {^E}Năng Lượng Tiêu Hao
+SkillCooldownReductionR=+{%.0f0}-{%.0f1}% {^E}Thời Gian Hồi Kỹ Năng
+SkillProjectileSpeedModifierR=Tăng {%+.0f0}-{%.0f1}% {^E}Tốc Độ Bay Của Đạn
+SkillManaCostReductionModifierR=-{%.0f0}-{%.0f1}% {^E}Năng Lượng Tiêu Hao
+SkillCooldownReductionModifierR=-{%.0f0}-{%.0f1}% {^E}Thời Gian Hồi
+
+tagTotalSpeedResistanceR={%.0f0}-{%.0f1}% {^E}Kháng Làm Chậm
+tagDefenseSleepR={%.0f0}-{%.0f1}% {^E}Kháng Ru Ngủ
+tagDefenseSleepModifierR={%+.0f0}-{%.0f1}% {^E}Kháng Ru Ngủ
+
+DefensePhysicalDurationR=Giảm {%.0f0}-{%.0f1}% {^E}Thời Gian Nội Thương
+DefenseBleedingDurationR=Giảm {%.0f0}-{%.0f1}% {^E}Thời Gian Xuất Huyết
+DefenseColdDurationR=Giảm {%.0f0}-{%.0f1}% {^E}Thời Gian Bỏng Băng
+DefenseFireDurationR=Giảm {%.0f0}-{%.0f1}% {^E}Thời Gian Thiêu Đốt
+DefensePoisonDurationR=Giảm {%.0f0}-{%.0f1}% {^E}Thời Gian Trúng Độc
+DefenseLightningDurationR=Giảm {%.0f0}-{%.0f1}% {^E}Thời Gian Điện Giật
+DefenseLifeDurationR=Giảm {%.0f0}-{%.0f1}% {^E}Thời Gian Rút Sinh Khí
+DefenseLifeLeachDurationR=Giảm {%.0f0}-{%.0f1}% {^E}Thời Gian Hút Máu
+DefenseManaLeachDurationR=Giảm {%.0f0}-{%.0f1}% {^E}Thời Gian Hút Năng Lượng
+DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}Kháng Đòn Đánh Trừ % Máu
+DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}Kháng Đốt Năng Lượng
+
 

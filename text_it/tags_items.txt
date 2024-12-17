@@ -4501,6 +4501,7 @@ tagSlotUnknown= (Non Equipagg.)
 
 #v1.2.1.0
 tagShowDetails=[Tieni premuto Ctrl per mostrare i dettagli]
+tagShowDetailsGamepad=^O[Tieni premuto il Trigger Sinistro per mostrare i dettagli]
 tagConsumableCategoryElixirDesc=^oPuoi ricevere gli effetti di un solo elisir per volta.
 tagConsumableCategoryOilDesc=^oPuoi ricevere gli effetti di un solo olio per volta.
 tagConsumableCategoryTinctureDesc=^oLe tinture hanno ricariche condivise.

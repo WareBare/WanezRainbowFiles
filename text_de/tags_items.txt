@@ -4502,6 +4502,7 @@ tagSlotUnknown= (nicht ausgerüstet)
 
 #v1.2.1.0
 tagShowDetails=[Halte STRG gedrückt, um Details anzuzeigen.]
+tagShowDetailsGamepad=^O[Linken Trigger halten, um Details anzuzeigen]
 tagConsumableCategoryElixirDesc=^oDu kannst jeweils nur von einem Elixier gleichzeitig profitieren.
 tagConsumableCategoryOilDesc=^oDu kannst jeweils nur von einem Öl gleichzeitig profitieren.
 tagConsumableCategoryTinctureDesc=^oTinkturen haben gemeinsame Abklingzeiten.

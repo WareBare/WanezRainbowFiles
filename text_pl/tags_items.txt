@@ -4505,6 +4505,7 @@ tagSlotUnknown= (Niezałożony)
 
 #v1.2.1.0
 tagShowDetails=[Przytrzymaj CTRL, by pokazać szczegóły]
+tagShowDetailsGamepad=^O[Przytrzymaj lewy trigger, aby pokazać szczegóły]
 tagConsumableCategoryElixirDesc=^oMożesz korzystać z działania tylko jednego eliksiru jednocześnie.
 tagConsumableCategoryOilDesc=^oMożesz korzystać z działania tylko jednego oleju jednocześnie.
 tagConsumableCategoryTinctureDesc=^oNalewki mają wspólne czasy odnowienia.

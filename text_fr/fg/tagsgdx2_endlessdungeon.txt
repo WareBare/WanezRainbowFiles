@@ -143,31 +143,31 @@ tagGDX2EndlessDungeon_Essence_03=Âme céleste fragmentée
 tagGDX2EndlessDungeon_Essence_04=Âme fragmentée accablante
 
 tagGDX2EndlessDungeon_Key_01=Borne fragmentée
-tagGDX2EndlessDungeon_Key_01_Desc=La Borne fragmentée offraient autrefois un incroyable potentiel. Elles permettent à Mazaan d'ouvrir la voie à partir du 5e Fragment, jusqu'au 15e Fragment, du Royaume Fragmenté.
+tagGDX2EndlessDungeon_Key_01_Desc=La Borne fragmentée offraient autrefois un incroyable potentiel. Elles permettent à Mazaan d'ouvrir la voie à partir du 2e Fragment, jusqu'au 6e Fragment, du Royaume Fragmenté.
 tagGDX2EndlessDungeon_Key_01_Blueprint=Schéma: Borne fragmentée
 
 tagGDX2EndlessDungeon_Key_02=Borne résonnante
-tagGDX2EndlessDungeon_Key_02_Desc=La Borne résonnante luit d'un fragment de son ancien pouvoir. Elle permet à Mazaan d'ouvrir la voie à partir du 20e Fragment, jusqu'au 30e Fragment, du Royaume Fragmenté.
+tagGDX2EndlessDungeon_Key_02_Desc=La Borne résonnante luit d'un fragment de son ancien pouvoir. Elle permet à Mazaan d'ouvrir la voie à partir du 8e Fragment, jusqu'au 12e Fragment, du Royaume Fragmenté.
 tagGDX2EndlessDungeon_Key_02_Blueprint=Schéma: Borne résonnante
 
 tagGDX2EndlessDungeon_Key_03=Borne hantée
-tagGDX2EndlessDungeon_Key_03_Desc=La Borne hantée a été imprégnée des esprits des morts. Elle permet à Mazaan d'ouvrir la voie à partir du 35e Fragment, jusqu'au 45e Fragment, du Royaume Fragmenté.
+tagGDX2EndlessDungeon_Key_03_Desc=La Borne hantée a été imprégnée des esprits des morts. Elle permet à Mazaan d'ouvrir la voie à partir du 14e Fragment, jusqu'au 18e Fragment, du Royaume Fragmenté.
 tagGDX2EndlessDungeon_Key_03_Blueprint=Schéma: Borne hantée
 
 tagGDX2EndlessDungeon_Key_04=Borne profanée
-tagGDX2EndlessDungeon_Key_04_Desc=La Borne profanée a été ointe de sang souillé. Elle permet à Mazaan d'ouvrir la voie à partir du 50e Fragment, jusqu'au 60e Fragment, du Royaume Fragmenté.
+tagGDX2EndlessDungeon_Key_04_Desc=La Borne profanée a été ointe de sang souillé. Elle permet à Mazaan d'ouvrir la voie à partir du 20e Fragment, jusqu'au 24e Fragment, du Royaume Fragmenté.
 tagGDX2EndlessDungeon_Key_04_Blueprint=Schéma: Borne profanée
 
 tagGDX2EndlessDungeon_Key_05=Borne céleste
-tagGDX2EndlessDungeon_Key_05_Desc=La Borne céleste a été pleinement restaurée jusqu'à son potentiel divin. Elle permet à Mazaan d'ouvrir la voie à partir du 65e Fragment, jusqu'au 75e Fragment, du Royaume Fragmenté. {^n}{ n}Cette borne ne devrait pas être utilisée par les personnes au cœur fragile.
+tagGDX2EndlessDungeon_Key_05_Desc=La Borne céleste a été pleinement restaurée jusqu'à son potentiel divin. Elle permet à Mazaan d'ouvrir la voie à partir du 26e Fragment, jusqu'au 30e Fragment, du Royaume Fragmenté. {^n}{ n}Cette borne ne devrait pas être utilisée par les personnes au cœur fragile.
 tagGDX2EndlessDungeon_Key_05_Blueprint=Schéma: Borne céleste
 
 tagGDX2EndlessDungeon_Key_06=Borne d'éternité
-tagGDX2EndlessDungeon_Key_06_Desc=Une borne qui manipule la trame de la réalité pour mieux se greffer dessus. Elle permet à Mazaan d'ouvrir un passage donnant au minimum sur le 80e fragment du Royaume Fragmenté, et au maximum sur le 90e. ^n^nL'usage de cette borne est déconseillé aux faibles d'esprit.
+tagGDX2EndlessDungeon_Key_06_Desc=Une borne qui manipule la trame de la réalité pour mieux se greffer dessus. Elle permet à Mazaan d'ouvrir un passage donnant au minimum sur le 32e fragment du Royaume Fragmenté, et au maximum sur le 36e. ^n^nL'usage de cette borne est déconseillé aux faibles d'esprit.
 tagGDX2EndlessDungeon_Key_06_Blueprint=Patron : Borne d'éternité
 
 tagGDX2EndlessDungeon_Key_07=Borne de la Mort
-tagGDX2EndlessDungeon_Key_07_Desc=Souillée par le pouvoir de la Mort, cette borne ouvre désormais la voie vers des dangers insondables n'offrant aucune récompense, si ce n'est la gloire de la conquête. ^n^nElle permet à Mazaan d'ouvrir un passage donnant au minimum sur le 95e fragment du Royaume Fragmenté, et au-delà. ^n^nL'usage de cette borne est déconseillé aux faibles d'esprit.
+tagGDX2EndlessDungeon_Key_07_Desc=Souillée par le pouvoir de la Mort, cette borne ouvre désormais la voie vers des dangers insondables n'offrant aucune récompense, si ce n'est la gloire de la conquête. ^n^nElle permet à Mazaan d'ouvrir un passage donnant au minimum sur le 38e fragment du Royaume Fragmenté, et au-delà. ^n^nL'usage de cette borne est déconseillé aux faibles d'esprit.
 tagGDX2EndlessDungeon_Key_07_Blueprint=Patron : Borne de la Mort
 
 
