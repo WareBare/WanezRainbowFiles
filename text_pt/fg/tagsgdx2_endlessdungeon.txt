@@ -143,31 +143,31 @@ tagGDX2EndlessDungeon_Essence_03=Alma Despedaçada Celestial
 tagGDX2EndlessDungeon_Essence_04=Alma Despedaçada Sobrepujante
 
 tagGDX2EndlessDungeon_Key_01=Pedra de Pórtico Despedaçada
-tagGDX2EndlessDungeon_Key_01_Desc=A Pedra de Pórtico Despedaçada outrora oferecia um potencial incrível. Ela permite que Mazaan abra o caminho para pelo menos o 2º Fragmento, até o 6º Fragmento, do Reino Despedaçado.
+tagGDX2EndlessDungeon_Key_01_Desc=A Pedra de Pórtico Despedaçada outrora oferecia um potencial incrível. Ela permite que Mazaan abra o caminho para pelo menos o Segundo Fragmento, até o Sexto Fragmento, do Reino Despedaçado.
 tagGDX2EndlessDungeon_Key_01_Blueprint=Diagrama: Pedra de Pórtico Despedaçada
 
 tagGDX2EndlessDungeon_Key_02=Pedra de Pórtico Ressonante
-tagGDX2EndlessDungeon_Key_02_Desc=A Pedra de Pórtico Ressonante brilha com um fragmento de seu antigo poder. Ela permite que Mazaan abra o caminho para pelo menos o 8º Fragmento, até o 12º Fragmento, do Reino Despedaçado.
+tagGDX2EndlessDungeon_Key_02_Desc=A Pedra de Pórtico Ressonante brilha com um fragmento de seu antigo poder. Ela permite que Mazaan abra o caminho para pelo menos o Oito Fragmento, até o Décimo Segundo Fragmento, do Reino Despedaçado.
 tagGDX2EndlessDungeon_Key_02_Blueprint=Diagrama: Pedra de Pórtico Ressonante
 
 tagGDX2EndlessDungeon_Key_03=Pedra de Pórtico Assombrada
-tagGDX2EndlessDungeon_Key_03_Desc=A Pedra de Pórtico Assombrada foi infundida com os espíritos dos mortos. Ela permite que Mazaan abra o caminho para pelo menos o 14º Fragmento, até o 18º Fragmento, do Reino Despedaçado.
+tagGDX2EndlessDungeon_Key_03_Desc=A Pedra de Pórtico Assombrada foi infundida com os espíritos dos mortos. Ela permite que Mazaan abra o caminho para pelo menos o Décimo Quarto Fragmento, até o Décimo Oitavo Fragmento, do Reino Despedaçado.
 tagGDX2EndlessDungeon_Key_03_Blueprint=Diagrama: Pedra de Pórtico Assombrada
 
 tagGDX2EndlessDungeon_Key_04=Pedra de Pórtico Profanada
-tagGDX2EndlessDungeon_Key_04_Desc=A Pedra de Pórtico Profanada foi ungida em sangue contaminado. Ela permite que Mazaan abra o caminho para pelo menos o 20º Fragmento, até o 24º Fragmento, do Reino Despedaçado.
+tagGDX2EndlessDungeon_Key_04_Desc=A Pedra de Pórtico Profanada foi ungida em sangue contaminado. Ela permite que Mazaan abra o caminho para pelo menos o Vigésimo Fragmento, até o Vigésimo Quarto Fragmento, do Reino Despedaçado.
 tagGDX2EndlessDungeon_Key_04_Blueprint=Diagrama: Pedra de Pórtico Profanada
 
 tagGDX2EndlessDungeon_Key_05=Pedra de Pórtico Celestial
-tagGDX2EndlessDungeon_Key_05_Desc=A Pedra de Pórtico Celestial teve seu potencial divino totalmente restaurado. Ela permite que Mazaan abra o caminho para pelo menos o 26º Fragmento, até o 30º Fragmento, do Reino Despedaçado. ^n^nEsta Pedra de Pórtico não deve ser usada pelos fracos de coração.
+tagGDX2EndlessDungeon_Key_05_Desc=A Pedra de Pórtico Celestial teve seu potencial divino totalmente restaurado. Ela permite que Mazaan abra o caminho para pelo menos o Vigésimo Sexto Fragmento, até o Trigésimo Fragmento, do Reino Despedaçado. ^n^nEsta Pedra de Pórtico não deve ser usada pelos fracos de coração.
 tagGDX2EndlessDungeon_Key_05_Blueprint=Diagrama: Pedra de Pórtico Celestial
 
 tagGDX2EndlessDungeon_Key_06=Pedra de Pórtico Eterna
-tagGDX2EndlessDungeon_Key_06_Desc=Uma Pedra de Pórtico que puxa os fios da realidade, dobrando-os em torno dela. Ela permite que Mazaan abra o caminho para pelo menos o 32º Fragmento, até o 36º Fragmento, do Reino Despedaçado. ^n^nEsta Pedra de Pórtico não deve ser usada pelos fracos.
+tagGDX2EndlessDungeon_Key_06_Desc=Uma Pedra de Pórtico que puxa os fios da realidade, dobrando-os em torno dela. Ela permite que Mazaan abra o caminho para pelo menos o Trigésimo Segundo Fragmento, até o Trigésimo Sexto Fragmento, do Reino Despedaçado. ^n^nEsta Pedra de Pórtico não deve ser usada pelos fracos.
 tagGDX2EndlessDungeon_Key_06_Blueprint=Diagrama: Pedra de Pórtico Eterna
 
 tagGDX2EndlessDungeon_Key_07=Pedra de Pórtico da Morte
-tagGDX2EndlessDungeon_Key_07_Desc=Contaminada pelo poder da morte, a Pedra de Pórtico agora abre o caminho adiante para perigos incompreensíveis, onde nenhuma recompensa aguarda, a não ser a glória da conquista. Ela permite que Mazaan abra o caminho para pelo menos o 38º Fragmento do Reino Despedaçado, e além. ^n^nEsta Pedra de Pórtico não deve ser usada pelos fracos.
+tagGDX2EndlessDungeon_Key_07_Desc=Contaminada pelo poder da morte, a Pedra de Pórtico agora abre o caminho adiante para perigos incompreensíveis, onde nenhuma recompensa aguarda, a não ser a glória da conquista. Ela permite que Mazaan abra o caminho para pelo menos o Trigésimo Oitavo Fragmento do Reino Despedaçado, e além. ^n^nEsta Pedra de Pórtico não deve ser usada pelos fracos.
 tagGDX2EndlessDungeon_Key_07_Blueprint=Diagrama: Pedra de Pórtico da Morte
 
 tagGDX2ItemTest={^F}Senhorita Contemplador

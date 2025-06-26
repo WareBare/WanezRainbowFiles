@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Dostosuj opcje pokazywania wybranych przedmiotów na ziemi. Wybranie opcji "Załącz Pokaż/Ukryj przedmioty" umożliwia ukrywanie wszystkich wypadających przedmiotów podczas najintensywniejszych starć, a następnie ponowne ich wyświetlenie po jej zakończeniu.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.12{^n}for Grim Dawn: v1.2.1.4{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Dostosuj opcje pokazywania wybranych przedmiotów na ziemi. Wybranie opcji "Załącz Pokaż/Ukryj przedmioty" umożliwia ukrywanie wszystkich wypadających przedmiotów podczas najintensywniejszych starć, a następnie ponowne ich wyświetlenie po jej zakończeniu.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.13{^n}for Grim Dawn: v1.2.1.6{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Prosty
@@ -2438,7 +2438,7 @@ tagHUDDesc22=Wyświetl lub ukryj dodatkowe informacje niedawno zebranych przedmi
 tagHUDOption22=Informacje o nowych przedmiotach
 
 #patch v1.2.1.3
-DamageRangeFormatAppend= [{%t0}-{%t1}]
+DamageRangeFormatAppend= {^H}[{%t0}-{%t1}]
 DamageRangeFormatTime= {^E}ponad {^H}{%.1f0}-{%.1f1} {^E}sek.
 DamageRangeFormatTimeR= {^E}ponad {^H}{%t0}-{%t1} {^E}sek.
 

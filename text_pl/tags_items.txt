@@ -911,6 +911,7 @@ tagLegend=Legendarny, rodzaj:
 tagStyleUniqueTier2=$[ms]{^A}Nasycony[fs]{^A}Nasycona[ns]{^A}Nasycone[mp]{^A}Nasyceni[fp]{^A}Nasycone[np]{^A}Nasycone
 tagStyleUniqueTier3=$[ms]{^P}Mityczny[fs]{^P}Mityczna[ns]{^P}Mityczne[mp]{^P}Mityczni[fp]{^P}Mityczne[np]{^P}Mityczne
 tagStyleFactionTier2=$[ms]Elitarny[fs]Elitarna[ns]Elitarne[mp]Elitarni[fp]Elitarne[np]Elitarne
+tagStyleUniqueInverted=$[ms]Polaryzowany[fs]Polaryzowana[ns]Polaryzowane[mp]Polaryzowani[fp]Polaryzowane[np]Polaryzowane
 
 tagSoulbound=Przypisany do postaci
 tagDestroySoulbound=Zniszczyć przypisany do postaci przedmiot?

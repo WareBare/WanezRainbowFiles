@@ -911,6 +911,7 @@ tagLegend=[ms]Lendário[fs]Lendária[mp]Lendários[fp]Lendárias
 tagStyleUniqueTier2=[ms]{^A}Empoderado[fs]{^A}Empoderada[mp]{^A}Empoderados[fp]{^A}Empoderadas
 tagStyleUniqueTier3=[ms]{^P}Mítico[fs]{^P}Mítica[mp]{^P}Míticos[fp]{^P}Míticas
 tagStyleFactionTier2=[ms]de Elite[fs]de Elite[mp]de Elite[fp]de Elite
+tagStyleUniqueInverted=[ms]Polarizado[fs]Polarizada[mp]Polarizados[fp]Polarizadas
 
 tagSoulbound=Vinculado
 tagDestroySoulbound=Destruir o item vinculado?

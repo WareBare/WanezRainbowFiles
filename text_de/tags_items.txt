@@ -911,6 +911,7 @@ tagLegend=[ms]Legendärer[fs]Legendäre[ns]Legendäres[mp]Legendäre[fp]Legendä
 tagStyleUniqueTier2=[ms]{^A}Mächtiger[fs]{^A}Mächtige[ns]{^A}Mächtiges[mp]{^A}Mächtige[fp]{^A}Mächtige[np]{^A}Mächtige
 tagStyleUniqueTier3=[ms]{^P}Mythischer[fs]{^P}Mythische[ns]{^P}Mythisches[mp]{^P}Mythische[fp]{^P}Mythische[np]{^P}Mythische
 tagStyleFactionTier2=[ms]Elite[fs]Elite[ns]Elite[mp]Elite[fp]Elite[np]Elite
+tagStyleUniqueInverted=[ms]Polarisiert[fs]Polarisiert[ns]Polarisiert[mp]Polarisiert[fp]Polarisiert[np]Polarisiert
 
 tagSoulbound=Seelengebunden
 tagDestroySoulbound=Seelengebundenen Gegenstand zerstören?

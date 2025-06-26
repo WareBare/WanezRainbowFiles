@@ -911,6 +911,7 @@ tagLegend=[ms]Легендарный [fs]Легендарная [ns]Легенд
 tagStyleUniqueTier2=[ms]{^A}Мощный[fs]{^A}Мощная[ns]{^A}Мощное[np]{^A}Мощные[mp]{^A}Мощно
 tagStyleUniqueTier3=[ms]{^P}Мифический[fs]{^P}Мифическая[ns]{^P}Мифическое[np]{^P}Мифические[mp]{^P}Мифически
 tagStyleFactionTier2=[ms]Элитный[fs]Элитная[ns]Элитное[np]Элитные
+tagStyleUniqueInverted=Полярность
 
 tagSoulbound=Персональные
 tagDestroySoulbound=Уничтожить персональный предмет?

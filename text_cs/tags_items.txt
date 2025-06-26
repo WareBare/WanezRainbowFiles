@@ -911,6 +911,7 @@ tagLegend=legendární kvality
 tagStyleUniqueTier2={^A}mocnější
 tagStyleUniqueTier3={^P}vynikající
 tagStyleFactionTier2=elitní
+tagStyleUniqueInverted=Invertováno
 
 tagSoulbound=~ předmět svázaný s duší
 tagDestroySoulbound=Zničit předmět svázaný s tvou duší?

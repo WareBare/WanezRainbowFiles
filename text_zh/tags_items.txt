@@ -911,6 +911,7 @@ tagLegend=传奇
 tagStyleUniqueTier2={^A}强化
 tagStyleUniqueTier3={^P}神话
 tagStyleFactionTier2=精英
+tagStyleUniqueInverted=反转
 
 tagSoulbound=灵魂绑定
 tagDestroySoulbound=摧毁灵魂绑定的物品？

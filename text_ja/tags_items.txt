@@ -911,6 +911,7 @@ tagLegend=レジェンダリー
 tagStyleUniqueTier2={^A}強化版
 tagStyleUniqueTier3={^P}神話級
 tagStyleFactionTier2=エリート
+tagStyleUniqueInverted=反転
 
 tagSoulbound=ソウルバウンド
 tagDestroySoulbound=ソウルバウンド アイテム を壊しますか？

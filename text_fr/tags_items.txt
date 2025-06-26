@@ -911,6 +911,7 @@ tagLegend=[ms]légendaire[fs]légendaire[mp]légendaires[fp]légendaires
 tagStyleUniqueTier2=[ms]{^A}investi de pouvoirs[fs]{^A}investie de pouvoirs[mp]{^A}investis de pouvoirs[fp]{^A}investies de pouvoirs
 tagStyleUniqueTier3=[ms]{^P}mythique[fs]{^P}mythique[mp]{^P}mythiques[fp]{^P}mythiques
 tagStyleFactionTier2=d'Élite
+tagStyleUniqueInverted=Polarisation
 
 tagSoulbound=Objet lié à l'âme
 tagDestroySoulbound=Détruire l'objet lié à l'âme ?

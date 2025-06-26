@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=どのような戦利品を表示するかの オプションを 調整する。 アイテムの 表示/非表示を 切り替えると､ 乱闘の間は 全ドロップ品を 非表示にして､ 終了後に再び 表示させる ことができる。{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.12{^n}for Grim Dawn: v1.2.1.4{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=どのような戦利品を表示するかの オプションを 調整する。 アイテムの 表示/非表示を 切り替えると､ 乱闘の間は 全ドロップ品を 非表示にして､ 終了後に再び 表示させる ことができる。{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.13{^n}for Grim Dawn: v1.2.1.6{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=難易度ノーマル
@@ -2548,7 +2548,7 @@ tagHUDDesc22=インベントリ内で最近手に入れたアイテムにハイ�
 tagHUDOption22=新アイテムハイライト
 
 #patch v1.2.1.3
-DamageRangeFormatAppend= [{%t0}-{%t1}]
+DamageRangeFormatAppend= {^H}[{%t0}-{%t1}]
 DamageRangeFormatTime= {^E}{^H}{%.1f0}-{%.1f1}{^E}秒間持続
 DamageRangeFormatTimeR= {^E}{^H}{%t0}-{%t1}{^E}秒間持続
 

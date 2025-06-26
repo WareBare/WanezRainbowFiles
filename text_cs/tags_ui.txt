@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Přizpůsobí předměty na zemi dle parametrů. Přepínačem Zobrazit/skrýt předměty lze skrýt všechno například během boje a poté si je znovu zobrazit.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.12{^n}for Grim Dawn: v1.2.1.4{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Přizpůsobí předměty na zemi dle parametrů. Přepínačem Zobrazit/skrýt předměty lze skrýt všechno například během boje a poté si je znovu zobrazit.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.13{^n}for Grim Dawn: v1.2.1.6{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Normální obtížnost
@@ -2429,7 +2429,7 @@ tagHUDDesc22=Zapne dodatečné zvýraznění nedávno ukořištěných předmět
 tagHUDOption22=Zvýraznění nového předmětu
 
 #patch v1.2.1.3
-DamageRangeFormatAppend= [{%t0}-{%t1}]
+DamageRangeFormatAppend= {^H}[{%t0}-{%t1}]
 DamageRangeFormatTime= {^E}po dobu {^H}{%.1f0}-{%.1f1} {^E}sekund
 DamageRangeFormatTimeR= {^E}po dobu {^H}{%t0}-{%t1} {^E}sekund
 

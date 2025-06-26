@@ -911,6 +911,7 @@ tagLegend=Huyền Thoại
 tagStyleUniqueTier2={^A}Cường Hóa -
 tagStyleUniqueTier3={^P}Thần Thoại -
 tagStyleFactionTier2=Cao Cấp -
+tagStyleUniqueInverted=Phân Cực -
 
 tagSoulbound=Trang Bị Khoá
 tagDestroySoulbound=Phá hủy trang bị đã khóa?

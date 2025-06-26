@@ -911,6 +911,7 @@ tagLegend=전설
 tagStyleUniqueTier2={^A}강화된
 tagStyleUniqueTier3={^P}신화적인
 tagStyleFactionTier2=고급
+tagStyleUniqueInverted=양극화
 
 tagSoulbound=귀속
 tagDestroySoulbound=귀속 아이템을 파괴하겠습니까?
