@@ -1028,6 +1028,10 @@ tagGDX2EnchantB229Desc="Drobny, czarujący proszek pochodzący z popiołów ze s
 tagGDX2EnchantB230A=Krew Irraha
 tagGDX2EnchantB230Desc="Drobny, czarujący proszek pochodzący z popiołów ze stosów w świątyni Irraha, mówi się, że jest nasycony niebiańską krwią."^w^n(Można zastosować do amuletów i pierścieni)
 
+tagGDX2EnchantB231A=Panowanie Irraha
+tagGDX2EnchantB231Desc="Drobny proszek do zaklinania uzyskany z popiołów ze stosów w świątyni Irraha, nasycony słodko pachnącymi solami, które zalewają umysł realistycznymi iluzjami".^w^n(Do użytku na amuletach i pierścieniach)
+
+
 tagGDX2EnchantC201A=Srebrny Piasek Bysmiel
 tagGDX2EnchantC201Desc="Dar od bogini wiedźm Bysmiel, niewiarygodnie drobny, srebrny proszek często używany w iluzjach, ale przydatny również do zakładania barier ochronnych."^w^n(Używany we wszystkich elementach pancerza)
 

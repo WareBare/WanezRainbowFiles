@@ -1542,7 +1542,7 @@ tagFeetC007B={^B}最後の進軍
 tagFeetC007Desc="それぞれの歩みが､ クトーンの力で 命を落とした 千人の兵士らの 重さを運ぶ。"
 tagFeetC008={^B}リフトハウンド レザー ブーツ
 tagFeetC008Desc="ろくでもない獣だが､ 素晴らしい ブーツができる。"
-tagFeetC009={^B}ドレッドノート フットパッド
+tagFeetC009={^B}ドレッドメーカーのフットパッド
 tagFeetC010={^B}ヘリオン グリーヴ
 tagFeetC011={^B}蛇のラップ
 tagFeetC012={^B}冒涜者のトレッド
@@ -3686,7 +3686,8 @@ tagBonusExperience={%+d0} 経験値
 tagBonusMoney={%+d0} 鉄
 tagBonusSkillPoint={%+d0} スキル ポイント
 tagBonusAttribPoint={%+d0} 属性 ポイント
-
+tagBonusManaPercentSlow={^E}{^H}{%.0f0}% {^E}エナジーを時間経過で回復
+tagBonusManaAbsSlow={^E}{^H}{%.0f0} {^E}エナジーを時間経過で回復
 
 #Devotion
 tagDevotionReset={^E}祈祷ポイントをリセットするのに使う

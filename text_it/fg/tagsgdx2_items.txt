@@ -1028,6 +1028,10 @@ tagGDX2EnchantB229Desc="Una sottile polvere incantata derivata dalle ceneri dell
 tagGDX2EnchantB230A=Sangue di Irrah
 tagGDX2EnchantB230Desc="Una sottile polvere incantata derivata dalle ceneri delle pire all'interno del tempio di Irrah, che si dice sia infusa di sangue celeste."^w^n(Applicabile ad anelli e amuleti)
 
+tagGDX2EnchantB231A=Dominio di Irrah
+tagGDX2EnchantB231Desc="Una polvere magica impalpabile, ricavata dalle ceneri delle pire nel tempio di Irrah, infusa di sali profumati che inondano la mente di illusioni viscerali."^w^n(Si applica ad anelli e amuleti)
+
+
 tagGDX2EnchantC201A=Sabbia d'Argento di Bysmiel
 tagGDX2EnchantC201Desc="Un dono della dea degli stregoni Bysmiel, una polvere d'argento incredibilmente fine usata spesso nelle illusioni, ma anche utile per i guardiani protettivi."^w^n(Applicabile a tutte le armature)
 

@@ -937,6 +937,8 @@ tagGDX2EnchantA229Desc="这些奥术精华来自游荡在科凡高原的守护�
 tagGDX2EnchantA230A=扭曲灵魂粉末
 tagGDX2EnchantA230Desc="为了实施某种秘术，一个怨灵的精华被注入到了骨粉中。"^w^n(用于戒指和项链)
 
+tagGDX2EnchantB231A=伊拉的统御
+tagGDX2EnchantB231Desc="一种源自伊拉神庙内祭火灰烬的精制附魔粉末。注入了芳香盐，使心智充满强烈的幻象。"^w^n（适用于戒指、项链）
 
 tagGDX2EnchantB201A=拜斯迈的控制
 tagGDX2EnchantB201Desc="一件来自巫神拜斯迈的馈赠，完美适应召唤物的心智。"^w^n(用于所有单手武器，盾牌和法器副手)

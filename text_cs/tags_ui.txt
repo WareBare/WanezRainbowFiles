@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Přizpůsobí předměty na zemi dle parametrů. Přepínačem Zobrazit/skrýt předměty lze skrýt všechno například během boje a poté si je znovu zobrazit.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.13{^n}for Grim Dawn: v1.2.1.6{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Přizpůsobí předměty na zemi dle parametrů. Přepínačem Zobrazit/skrýt předměty lze skrýt všechno například během boje a poté si je znovu zobrazit.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.14{^n}for Grim Dawn: v1.3.0.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Normální obtížnost
@@ -43,7 +43,7 @@ tagDevotionAffinity=Spřízněnost:
 tagDevotionSelected= (vybráno)
 tagDevotionInUse= (používáno)
 tagDevotionConfirm=Chceš vyměnit nebeskou sílu?
-tagDevotionExperienceFormat=Zkušenosti: {^y}{%d0}{^w} z {^y}{%d1}
+tagDevotionExperienceFormat=Zkušenosti: {^y}{%d0} z {%d1}
 tagDevotionSkillRank=Současná úroveň: {%d0} / {%d1}
 
 tagUndo=Zpět
@@ -678,7 +678,7 @@ tagOverCapResistInt={%s0} {^b}{%d1}% {^s}(+{%d2}% přes maximum)
 tagRollFormat01={%s0} {^b}{%d1}
 tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
 tagRollFormat03={%s0}     {%+.0f1}%
-tagRollFormat04={%s0}  ({^y}{%t1}{^w})
+tagRollFormat04={%s0}  {^o}[{%t1}]
 tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
 tagRollFormat06={%s0} {^b}{%.0f1}%
 tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
@@ -1336,10 +1336,10 @@ tagCaravanCost=Cena: {%d0}
 tagCaravanRefund=Vrátit peníze: {%d0}
 tagCaravanExpand=Rozšířit místo
 tagCaravanItemStorage=Úschovna
-tagStorageInfo01=Úschovnu můžeš použít jako rozšíření svého inventáře. Pravým tlačítkem myši nebo přetažením můžeš přenášet předměty mezi inventářem a úschovnou. Předměty uložené v úschovně jsou dostupné u každého pašeráka ve hře.
+tagStorageInfo01=Přepne do Místní úschovny. Místní úschovna je rozšířením tvého inventáře. Pravým kliknutím nebo přetažením můžeš přemísťovat jednotlivé předměty. Předměty uložené v Místní úschovně jsou přístupné u každého Pašeráka.
 tagTransferCost=Cena za převod: {%d0}
 tagTransferAdd=Chceš přidat tento předmět do sdílené úschovny?
-tagTransferInfo01=Můžeš využít služeb pašeráka pro přesun předmětů mezi tvými dalšími postavami. Jednoduše přetáhni předmět do sdílené úschovny a ten pak bude dotupný tvým dalším postavám.
+tagTransferInfo01=Přepne do Úschovny. Všechny předměty umístěné v Úschovně jsou přístupné každé tvé postavě, která navštíví Pašeráka.
 tagCaravanItemTransfer=Místní úschovna
 tagTransferInfo02=Umísti předměty do předávací oblasti, aby byl pašerák schopný je převést mezi tvé další postavy.
 tagCaravanError01=Pro převod tohoto předmětu nemáš dostatek železných mincí.
@@ -1351,6 +1351,7 @@ tagTransferTab02=2. záložka
 tagTransferTab03=3. záložka
 tagTransferTab04=4. záložka
 tagCaravanSort=Opravdu chceš automaticky seřadit předměty?
+tagCaravanSearchBoxInfo=Zadej parametry do filtru pro zobrazení předmětů s daným názvem nebo vlastnostmi.
 
 #Chat
 
@@ -2496,3 +2497,27 @@ DefenseLifeLeachDurationR={%.0f0}-{%.0f1}% {^E}Snížení doby působení vysáv
 DefenseManaLeachDurationR={%.0f0}-{%.0f1}% {^E}Snížení doby působení vysávání magické energie
 DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}Odolnost vůči ztrátě života
 DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}Odolnost vůči spálení magické energie
+
+#patch v1.3.0
+tagDotConfuse=Zmatení
+tagGamePadCustomizeCaravan=Přizpůsobit
+
+PentaStringFormat={%s3}{%s4}{%_s1} {(%s2)} {%_s0}
+
+DefenseAllResistance={%.0f0} % {^E} Celková odolnost
+DefenseAllResistanceR={%.0f0} - {%.0f1} % {^E} Celková odolnost
+DefenseCrowdControl={%.0f0} % {^E}Snížená doba trvání efektů omezujících kontrolu
+DefenseCrowdControlNegative={%.0f0} % {^E}Odolnost vůči efektům omezujícím kontrolu
+DefenseCrowdControlR={%.0f0}-{%.0f1} % {^E}Snížená doba trvání efektů omezujících kontrolu
+DefenseCrowdControlMaxResist={%+.0f0} % {^E}Max. odolnost vůči efektům omezujícím kontrolu
+DefenseCrowdControlMaxResistR={%+.0f0}-{%.0f1} % {^E}Max. odolnost vůči efektům omezujícím kontrolu
+
+tagLootFilter41=Zdraví
+tagLootFilter41Info=Zobrazí předměty, které zvyšují zdraví.
+tagLootFilter42=Obnova zdraví
+tagLootFilter42Info=Zobrazí předměty, které obnovují zdraví.
+
+tagMoveForward=Dopředu
+tagMoveBackward=Dozadu
+tagMoveLeft=Doleva
+tagMoveRight=Doprava

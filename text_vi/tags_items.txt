@@ -904,7 +904,7 @@ tagGloves=Bao Tay
 #QualityClass
 tagMagic=Tốt
 tagRare=Hiếm
-tagDoubleRare=Hiếm gấp đôi
+tagDoubleRare=Hiếm Kép
 tagEpic=Hoàn Hảo
 tagLegend=Huyền Thoại
 
@@ -1542,7 +1542,7 @@ tagFeetC007B={^B}Final March
 tagFeetC007Desc="Mỗi bước đi mang sức nặng của hàng nghìn người lính đã chết dưới lưỡi kiếm tà ác của bọn Ch'thon."
 tagFeetC008={^B}Rifthound Leather Boots
 tagFeetC008Desc="Bọn quái thú đó trông có vẻ vô dụng, nhưng da của chúng mà làm giày thì tuyệt vời."
-tagFeetC009={^B}Dreadnought Footpads
+tagFeetC009={^B}Bọc Chân Kẻ Gieo Kinh Hoàng
 tagFeetC010={^B}Hellion Greaves
 tagFeetC011={^B}Serpentine Wraps
 tagFeetC012={^B}Desecrator Treads
@@ -2923,9 +2923,9 @@ tagEnchantA044B=Bột Ma Thuật Bão Tố II
 tagEnchantA044C=Bột Ma Thuật Bão Tố III
 tagEnchantA044Desc="Một loại bột ma thuật sáng lấp lánh có màu xanh lam, chứa đựng sức mạnh của những tia sét."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
 
-tagEnchantA045A=Bột Ma Thuật Trói Buột
-tagEnchantA045B=Bột Ma Thuật Trói Buột II
-tagEnchantA045C=Bột Ma Thuật Trói Buột III
+tagEnchantA045A=Bột Ma Thuật Trói Buộc
+tagEnchantA045B=Bột Ma Thuật Trói Buộc II
+tagEnchantA045C=Bột Ma Thuật Trói Buộc III
 tagEnchantA045Desc="Bụi ma pháp được những tín đồ của Hội Tử Linh Hộ Vệ sử dụng để ràng buộc các thực thể Tử Linh vào ý chí của họ."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
 
 tagEnchantA046A=Bột Ma Thuật Băng Tâm
@@ -3689,7 +3689,8 @@ tagBonusExperience={%+d0} Kinh Nghiệm
 tagBonusMoney={%+d0} Sắt
 tagBonusSkillPoint={%+d0} Điểm Kỹ Năng
 tagBonusAttribPoint={%+d0} Điểm Tiềm Năng
-
+tagBonusManaPercentSlow={^E}Hồi phục {^H}{%.0f0}% {^E}Năng Lượng theo thời gian
+tagBonusManaAbsSlow={^E}Hồi phục {^H}{%.0f0} {^E}Năng Lượng theo thời gian
 
 #Devotion
 tagDevotionReset={^E}Dùng để tẩy Điểm Tín Ngưỡng (Devotion)

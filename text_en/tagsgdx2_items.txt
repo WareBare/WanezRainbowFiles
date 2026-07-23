@@ -1027,6 +1027,10 @@ tagGDX2EnchantB229Desc="A fine enchanting powder derived from the ashes of the p
 tagGDX2EnchantB230A=Irrah's Blood
 tagGDX2EnchantB230Desc="A fine enchanting powder derived from the ashes of the pyres within Irrah's temple, said to be infused with celestial blood."^w^n(Applied to rings and amulets)
 
+tagGDX2EnchantB231A=Irrah's Dominion
+tagGDX2EnchantB231Desc="A fine enchanting powder derived from the ashes of the pyres within Irrah's temple, infused with sweet-smelling salts that flood the mind with visceral illusions."^w^n(Applied to rings and amulets)
+
+
 tagGDX2EnchantC201A=Bysmiel's Silversand
 tagGDX2EnchantC201Desc="A gift from the witch god Bysmiel, an incredibly fine silver powder often used in illusions, but also handy for protective wards."^w^n(Applied to all armor)
 

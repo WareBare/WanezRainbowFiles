@@ -1542,7 +1542,7 @@ tagFeetC007B={^B}Poslední pochod
 tagFeetC007Desc="Každý krok nese váhu tisíce vojáků, kteří ztratili svůj život v boji proti chthonským jednotkám."
 tagFeetC008={^B}Štvoucí kožené boty
 tagFeetC008Desc="Ta zvířata jsou k ničemu, ale vyrábějí se z nich vynikající boty."
-tagFeetC009={^B}Návleky neohroženosti
+tagFeetC009={^B}Opánky hrůzotvorce
 tagFeetC010={^B}Spratkovy pohorky
 tagFeetC011={^B}Pokřivené krpce
 tagFeetC012={^B}Znesvětitelovy válenky
@@ -3686,7 +3686,8 @@ tagBonusExperience={%+d0} zkušeností
 tagBonusMoney={%+d0} železných mincí
 tagBonusSkillPoint={%+d0} bodů dovedností
 tagBonusAttribPoint={%+d0} bodů atributů
-
+tagBonusManaPercentSlow={^E}Obnoví {^H}{%.0f0} % {^E}energie v průběhu času
+tagBonusManaAbsSlow={^E}Obnoví {^H}{%.0f0} {^E}energie v průběhu času
 
 #Devotion
 tagDevotionReset={^E}Použij k vynulování svých bodů oddanosti

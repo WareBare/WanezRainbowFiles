@@ -1542,7 +1542,7 @@ tagFeetC007B=[fs]{^B}Marche finale
 tagFeetC007Desc="Chaque pas porte le poids du millier de soldats morts face aux forces Chthoniennes."
 tagFeetC008=[fp]{^B}Bottes en cuir de Limier de la Faille
 tagFeetC008Desc="Ces bêtes sont des bonnes à rien, mais elles font de formidables bottes."
-tagFeetC009=[fp]{^B}Bottines cuirassées
+tagFeetC009=[fp]{^B}Bottines du tisse-terreur
 tagFeetC010=[fp]{^B}Grèves d'Hellion
 tagFeetC011=[fp]{^B}Guêtres serpentines
 tagFeetC012=[mp]{^B}Piétineurs du profanateur
@@ -3686,6 +3686,8 @@ tagBonusExperience={%+d0} d'expérience
 tagBonusMoney={%+d0} Fer
 tagBonusSkillPoint={%+d0} points de compétences
 tagBonusAttribPoint={%+d0} points d'attributs
+tagBonusManaPercentSlow={^E}Restaure {^H}{%.0f0} % {^E}d'énergie au fil du temps
+tagBonusManaAbsSlow={^E}Restaure {^H}{%.0f0} {^E}d'énergie au fil du temps
 
 
 #Devotion

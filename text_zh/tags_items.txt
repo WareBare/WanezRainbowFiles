@@ -1542,7 +1542,7 @@ tagFeetC007B={^B}死亡进军
 tagFeetC007Desc="每迈出一步，都有数千士兵死于冥煞之手，这压在脚上如有千钧之重。"
 tagFeetC008={^B}裂隙魔犬皮革靴
 tagFeetC008Desc="野兽有百害而无一利，但用来做靴子却很不错。"
-tagFeetC009={^B}无畏裹足
+tagFeetC009={^B}恐惧制造者足垫
 tagFeetC010={^B}恶徒护胫
 tagFeetC011={^B}盘蛇裹足
 tagFeetC012={^B}亵渎者之靴
@@ -3686,7 +3686,8 @@ tagBonusExperience={%+d0} 经验值
 tagBonusMoney={%+d0} 铁币
 tagBonusSkillPoint={%+d0} 技能点数
 tagBonusAttribPoint={%+d0} 属性点数
-
+tagBonusManaPercentSlow={^E}逐渐回复 {^H}{%.0f0}% {^E} 能量
+tagBonusManaAbsSlow={^E}逐渐回复 {^H}{%.0f0} {^E} 能量
 
 #Devotion 虔诚
 tagDevotionReset={^E}使用来重置你的虔诚点数

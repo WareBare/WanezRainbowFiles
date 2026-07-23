@@ -1456,6 +1456,9 @@ tagGDX1EnchantB137Desc="掠夺者赠予邪恶信徒的礼物。与它接触会�
 tagGDX1EnchantB138A=强效掠夺者之息
 tagGDX1EnchantB138Desc="掠夺者赠予邪恶信徒的礼物。与它接触会造成严重的创伤和水疱。"^w^n(用于所有双手武器)
 
+tagGDX1EnchantB139A=血腐粉
+tagGDX1EnchantB139Desc="从腐烂遗骸中提取出的邪秽调合物，因其防护特性在马尔茅斯获准使用。"^w^n（适用于戒指、项链）
+
 
 tagGDX1EnchantC101A=女巫团的守护粉末
 tagGDX1EnchantC101Desc="女巫团制作的妖术粉可以在仪式中保护她们。"^w^n(用于所有护甲)

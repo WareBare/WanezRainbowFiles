@@ -1028,6 +1028,10 @@ tagGDX2EnchantB229Desc="Ein feines Zauberpulver, das aus der Asche der Scheiterh
 tagGDX2EnchantB230A=Irrahs Blut
 tagGDX2EnchantB230Desc="Ein feines Zauberpulver, das aus der Asche der Scheiterhaufen in Irrahs Tempel gewonnen wird. Es heißt, es sei mit himmlischen Blut verzaubert worden."^w^n(Wird auf alle Ringe und Amulette angewandt)
 
+tagGDX2EnchantB231A=Irrahs Herrschaft
+tagGDX2EnchantB231Desc="Ein aus der Asche der Scheiterhaufen in Irrahs Tempel gewonnenes und mit süß riechenden Salzen angereichertes feines Verzauberungspulver, das den Geist mit Illusionen aus den Tiefen des Verstandes überflutet."^w^n(Auf Ringe und Amulette angewendet)
+
+
 tagGDX2EnchantC201A=Bysmiels Silbersand
 tagGDX2EnchantC201Desc="Ein Geschenk der Hexengöttin Bysmiel. Ein unglaublich feines Pulver, das oft bei Illusionen angewandt wird, aber auch sehr praktisch bei schützenden Zaubern ist."^w^n(Wird auf alle Rüstungen angewandt)
 

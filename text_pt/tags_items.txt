@@ -1542,7 +1542,7 @@ tagFeetC007B=[fs]{^B}A Marcha Final
 tagFeetC007Desc="Cada passo carrega o peso de mil soldados que perderam suas vidas para as Forças Ctônicas."
 tagFeetC008=[fp]{^B}Botas de Couro de Cão Abissal
 tagFeetC008Desc="Os cães abissais são feras inúteis, mas com sua pele pode-se fazer grandes botas."
-tagFeetC009=[mp]{^B}Pisantes Couraçados
+tagFeetC009=[mp]{^B}Pisantes do Aterrador
 tagFeetC010=[fp]{^B}Grevas do Desordeiro
 tagFeetC011=[mp]{^B}Envoltórios Serpentinos
 tagFeetC012=[fp]{^B}Botinas do Profanador
@@ -3686,7 +3686,8 @@ tagBonusExperience={%+d0} de Experiência
 tagBonusMoney={%+d0} de Ferro
 tagBonusSkillPoint={%+d0} Pontos de Habilidade
 tagBonusAttribPoint={%+d0} Pontos de Atributo
-
+tagBonusManaPercentSlow={^E}Restaura {^H}{%.0f0}% {^E}de Energia ao longo do tempo
+tagBonusManaAbsSlow={^E}Restaura {^H}{%.0f0} {^E}de Energia ao longo do tempo
 
 #Devotion
 tagDevotionReset={^E}Use para Resetar os seus Pontos de Devoção

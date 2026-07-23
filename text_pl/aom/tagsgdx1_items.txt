@@ -1456,6 +1456,10 @@ tagGDX1EnchantB137Desc="Dar przekazany swoim wyznawcom przez Niszczyciela. Dotkn
 tagGDX1EnchantB138A=Silny Oddech Niszczyciela
 tagGDX1EnchantB138Desc="Dar przekazany swoim wyznawcom przez Niszczyciela. Dotknięcie wywołuje ciężkie rany i pęcherze na ciele.."^w^n(Można zastosować do wszystkich broni 2-ręcznych)
 
+tagGDX1EnchantB139A=Proszek krwawicy
+tagGDX1EnchantB139Desc="Odrażająca mikstura uzyskana z gnijących szczątków zmarłych, dopuszczona w Malmouth wyłącznie ze względu na jej właściwości ochronne".^w^n(Do użytku na amuletach i pierścieniach)
+
+
 
 tagGDX1EnchantC101A=Ochronny Proszek Sabatu
 tagGDX1EnchantC101Desc="Magiczny proszek wytwarzany przez Sabat do ochrony wiedźm podczas rytuałów."^w^n(Używany we wszystkich elementach pancerza)

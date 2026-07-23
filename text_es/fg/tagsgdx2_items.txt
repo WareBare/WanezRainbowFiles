@@ -1028,6 +1028,9 @@ tagGDX2EnchantB229Desc="Un fino polvo encantado derivado de las cenizas de las p
 tagGDX2EnchantB230A=Sangre de Irrah
 tagGDX2EnchantB230Desc="Un fino polvo encantado derivado de las cenizas de las piras del interior del templo de Irrah, que se dice que está infundido con sangre celestial".^w^n(Se aplica a anillos y amuletos)
 
+tagGDX2EnchantB231A=Dominio de Irrah
+tagGDX2EnchantB231Desc="Un fino polvo encantado derivado de las cenizas de las piras del interior del templo de Irrah, infundido en sales aromáticas que embriagan la mente con ilusiones viscerales".^w^n(Se aplica a anillos y amuletos).
+
 tagGDX2EnchantC201A=Arena Plateada de Bysmiel
 tagGDX2EnchantC201Desc="Un regalo de la diosa bruja Bysmiel, un polvo de plata increíblemente fino que a menudo se usa en ilusiones, pero que también es útil para los guardianes protectores".^w^n(Se aplica a todas las armaduras)
 
@@ -1318,7 +1321,7 @@ tagGDX2TombOfHereticSeal=Sello del Hereje
 
 tagGDX2DoorOneWayTombOfHeretic=Escape de la noche
 tagGDX2EpicDoor_TombOfHeretic=Sello de la locura de Morgoneth
-tagGDX2EpicDoor_TombOfHereticLocked= {^R} ~ Sellado por la oscuridad (Requiere una Llave Esqueleto)
+tagGDX2EpicDoor_TombOfHereticLocked= {^R} ~ Sellado por la oscuridad (Requiere una Llave Maestra)
 
 
 tagPrefixB037_Class_A={^G}del Señor de la Guerra

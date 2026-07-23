@@ -1456,6 +1456,9 @@ tagGDX1EnchantB137Desc="래비저가 자신을 추종하는 저주받은 자들�
 tagGDX1EnchantB138A=강력한 래비저의 숨결
 tagGDX1EnchantB138Desc="래비저가 자신을 추종하는 저주받은 자들에게 내려준 선물. 여기에 닿으면 심각한 상처를 입거나 피부에 물집이 생긴다."^w^n(모든 양손 무기에 적용 가능)
 
+tagGDX1EnchantB139A=혈부패 가루
+tagGDX1EnchantB139Desc="죽은 자의 썩어가는 유해에서 추출한 불쾌한 혼합물로, 말무스에서는 오직 방어적 효능만을 인정받아 사용이 허가되어 있다."^w^n(반지 및 목걸이에 적용)
+
 
 tagGDX1EnchantC101A=마녀단의 결계의 가루
 tagGDX1EnchantC101Desc="의식을 치르는 동안 스스로를 보호하기 위해 마녀단에서 개발한 마법적 강화제."^w^n(모든 방어구에 적용 가능)

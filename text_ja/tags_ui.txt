@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=どのような戦利品を表示するかの オプションを 調整する。 アイテムの 表示/非表示を 切り替えると､ 乱闘の間は 全ドロップ品を 非表示にして､ 終了後に再び 表示させる ことができる。{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.13{^n}for Grim Dawn: v1.2.1.6{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=どのような戦利品を表示するかの オプションを 調整する。 アイテムの 表示/非表示を 切り替えると､ 乱闘の間は 全ドロップ品を 非表示にして､ 終了後に再び 表示させる ことができる。{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.14{^n}for Grim Dawn: v1.3.0.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=難易度ノーマル
@@ -43,7 +43,7 @@ tagDevotionAffinity=親和性:
 tagDevotionSelected= (選択済み)
 tagDevotionInUse= (使用中)
 tagDevotionConfirm=セレスチャル パワーを置き換えますか？
-tagDevotionExperienceFormat=経験値: {^y}{%d0}{^w} / {^y}{%d1}
+tagDevotionExperienceFormat=経験値: {^y}{%d0} / {%d1}
 tagDevotionSkillRank=現在のレベル : {%d0} / {%d1}
 
 tagUndo=取り消し
@@ -678,7 +678,7 @@ tagOverCapResistInt={%s0} {^b}{%d1}% {^s}(+{%d2}% 限度超過)
 tagRollFormat01={%s0} {^b}{%d1}
 tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
 tagRollFormat03={%s0}     {%+.0f1}%
-tagRollFormat04={%s0}  ({^y}{%t1}{^w})
+tagRollFormat04={%s0}  {^o}[{%t1}]
 tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
 tagRollFormat06={%s0} {^b}{%.0f1}%
 tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
@@ -1325,10 +1325,10 @@ tagCaravanCost=費用: {%d0}
 tagCaravanRefund=払戻し : {%d0}
 tagCaravanExpand=スタッシュ拡張
 tagCaravanItemStorage=アイテム スタッシュ
-tagStorageInfo01=アイテム スタッシュを インベントリの拡張として 使用しましょう。 アイテム スタッシュは､ Shift + 左クリックか ドラッグ アンド ドロップで 出し入れします。 こうにして 収納した アイテムは､ ゲーム内のすべての 密輸業者で 利用できます。
+tagStorageInfo01=アイテム スタッシュに切り替えます。 インベントリの拡張 として使う倉庫です。 倉庫のアイテム移動は､ シフトキー + 左クリックか ドラッグ アンド ドロップで 行います。 こうして収納した アイテムは､ ゲーム内のすべての 密輸業者で 利用できます。
 tagTransferCost=転送費用: {%d0}
 tagTransferAdd=本当に､ このアイテムを 共有貯蔵庫に 加えますか？
-tagTransferInfo01=他のキャラクターにアイテムを 転送するのに 密輸業者を 使いましょう。 ただアイテムを そこに落とすだけで､ 他のすべての キャラクターが 使えるように なります。
+tagTransferInfo01=アイテム転送スタッシュに 切り替えます。 密輸業者の転送エリアに 置いたアイテムは､ すべてのキャラクターが 利用できます。
 tagCaravanItemTransfer=アイテム 転送
 tagTransferInfo02=密輸業者がすべてのキャラクターに 提供できる ようにするには､ アイテムを 転送エリアに 置きましょう。
 tagCaravanError01=このアイテムを転送するのに 必要な鉄片が ありません。
@@ -1340,6 +1340,7 @@ tagTransferTab02=Tab 2
 tagTransferTab03=Tab 3
 tagTransferTab04=Tab 4
 tagCaravanSort=本当にアイテムを 自動整理しますか？
+tagCaravanSearchBoxInfo=アイテム名や希望の統計に基づいて アイテムを フィルタリングする､ 検索項目を 入力します。
 
 #Chat
 
@@ -2616,3 +2617,26 @@ DefenseManaLeachDurationR={%.0f0}-{%.0f1}% {^E}エナジー吸収時間短縮
 DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}ヘルス減少耐性
 DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}マナ燃焼耐性
 
+#patch v1.3.0
+tagDotConfuse=混乱
+tagGamePadCustomizeCaravan=カスタマイズ
+
+PentaStringFormat={%s0}{%s1}{%s2}{%s3}{%s4}
+
+DefenseAllResistance={%.0f0}% {^E}全耐性
+DefenseAllResistanceR={%.0f0}-{%.0f1}% {^E}全耐性
+DefenseCrowdControl={%.0f0}% {^E}行動阻害効果時間の短縮
+DefenseCrowdControlNegative={%.0f0}% {^E}行動阻害耐性
+DefenseCrowdControlR={%.0f0}-{%.0f1}% {^E}行動阻害効果時間の短縮
+DefenseCrowdControlMaxResist={%+.0f0}% {^E}最大行動阻害耐性
+DefenseCrowdControlMaxResistR={%+.0f0}-{%.0f1}% {^E}最大行動阻害耐性
+
+tagLootFilter41=ヘルス
+tagLootFilter41Info=ヘルスが増加するアイテムを表示
+tagLootFilter42=ヘルス再生
+tagLootFilter42Info=ヘルス再生が増加するアイテムを表示
+
+tagMoveForward=前進
+tagMoveBackward=後退
+tagMoveLeft=左
+tagMoveRight=右

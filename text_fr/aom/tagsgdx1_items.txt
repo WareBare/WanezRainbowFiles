@@ -1456,6 +1456,9 @@ tagGDX1EnchantB137Desc="Un cadeau conféré par le Ravageur à ses générateurs
 tagGDX1EnchantB138A=Puissant Souffle de Ravageur 
 tagGDX1EnchantB138Desc="Un cadeau conféré par le Ravageur à ses générateurs maudits. Son toucher inflige de graves blessures et cloques sur la peau." {^w}{^n}(Appliqué sur toutes les armes à deux mains)
 
+tagGDX1EnchantB139A=Poudre de Vil-sang
+tagGDX1EnchantB139Desc=« Une ignoble concoction extraite des restes putréfiés des défunts, utilisée à Malmouth uniquement pour ses pouvoirs de protection. »^w^n(S'applique aux anneaux et aux amulettes)
+
 
 tagGDX1EnchantC101A=Poudre protectrice de la Bande
 tagGDX1EnchantC101Desc="Une poudre ensorcelante fabriquée par la Bande pour les protéger durant les rituels." {^w}{^n}(Appliquée sur toutes les armures)

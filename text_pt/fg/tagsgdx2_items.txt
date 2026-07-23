@@ -937,6 +937,9 @@ tagGDX2EnchantA229Desc="Essência arcana dos vários guardiões que vagam pelos 
 tagGDX2EnchantA230A=Pó de Deformalma
 tagGDX2EnchantA230Desc="A essência de um espírito espectral combinada com farinha de ossos para fins de encantamento."^w^n(Aplicado em anéis e amuletos)
 
+tagGDX2EnchantB231A=Domínio de Irrah
+tagGDX2EnchantB231Desc="Um pó refinado encantado obtido das cinzas das piras do templo de Irrah, impregnado com sais de aroma adocicado que inundam a mente com ilusões viscerais."^w^n(Aplicado em anéis e amuletos)
+
 
 tagGDX2EnchantB201A=Controle de Bysmiel
 tagGDX2EnchantB201Desc="Uma dádiva da deusa bruxa Bysmiel, perfeitamente sintonizada com as mentes dos asseclas."^w^n(Aplicado em todas as armas de uma mão, escudos e focos)

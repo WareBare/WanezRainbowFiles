@@ -1456,6 +1456,9 @@ tagGDX1EnchantB137Desc="Ein Geschenk, das der Zerstörer seinen verfluchten Anh�
 tagGDX1EnchantB138A=Starker Atem des Zerstörers
 tagGDX1EnchantB138Desc="Ein Geschenk, das der Zerstörer seinen verfluchten Anhängern überreichte. Gerät man damit in Berührung, verursacht es schlimme Wunden und Blasen auf dem Fleisch."^w^n(Wird auf alle Zweihandwaffen angewandt)
 
+tagGDX1EnchantB139A=Blutwurzelpulver
+tagGDX1EnchantB139Desc="Eine unansehnliche Zubereitung aus den verwesenden Überresten der Toten, die nur aufgrund ihrer Schutzeigenschaften in Malmouth zugelassen ist."^w^n(Auf Ringe und Amulette angewendet)
+
 
 tagGDX1EnchantC101A=Schützendes Pulver des Hexenzirkels
 tagGDX1EnchantC101Desc="Magisches Pulver, das vom Hexenzirkel hergestellt wurde, um sich bei Ritualen zu schützen."^w^n(Wird auf alle Rüstungen angewandt)

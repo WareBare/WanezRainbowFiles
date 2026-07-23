@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Stelle die Optionen für die Beute ein, die angezeigt werden soll. Gegenstände anzeigen/ausblenden kann verwendet werden, um alle fallengelassenen Gegenstände während eines heftigen Kampfes auszublenden und sie danach wieder anzuzeigen. {^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.13{^n}for Grim Dawn: v1.2.1.6{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Stelle die Optionen für die Beute ein, die angezeigt werden soll. Gegenstände anzeigen/ausblenden kann verwendet werden, um alle fallengelassenen Gegenstände während eines heftigen Kampfes auszublenden und sie danach wieder anzuzeigen. {^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.14{^n}for Grim Dawn: v1.3.0.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 ﻿#General=
 
 tagGameDifficultySetting01=Schwierigkeit Normal
@@ -43,7 +43,7 @@ tagDevotionAffinity=Affinitäten:
 tagDevotionSelected= (ausgewählt)
 tagDevotionInUse= (in Verwendung)
 tagDevotionConfirm=Himmlische Kraft ersetzen?
-tagDevotionExperienceFormat=Erfahrung : {^y}{%d0}{^w} / {^y}{%d1}
+tagDevotionExperienceFormat=Erfahrung : {^y}{%d0} / {%d1}
 tagDevotionSkillRank=Aktuelle Stufe : {%d0} / {%d1}
 
 tagUndo=Rückgängig
@@ -678,7 +678,7 @@ tagOverCapResistInt={%s0} {^b}{%d1}% {^s}(+{%d2}% über dem Maximum)
 tagRollFormat01={%s0} {^b}{%d1}
 tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
 tagRollFormat03={%s0}     {%+.0f1}%
-tagRollFormat04={%s0}  ({^y}{%t1}{^w})
+tagRollFormat04={%s0}  {^o}[{%t1}]
 tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
 tagRollFormat06={%s0} {^b}{%.0f1}%
 tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
@@ -1336,10 +1336,10 @@ tagCaravanCost=Kosten: {%d0}
 tagCaravanRefund=Erstattung: {%d0}
 tagCaravanExpand=Stauraum erweitern
 tagCaravanItemStorage=Stauraum
-tagStorageInfo01=Benutze den Stauraum als Erweiterung deines Inventars. Klicke mit der rechten Maustaste auf Gegenstände oder ziehe sie in und aus dem Stauraum. Gegenstände, die so gelagert werden, sind durch jeden Schmuggler im Spiel zugänglich. 
+tagStorageInfo01=Zum Stauraum wechseln. Der Stauraum ist eine Erweiterung deines Inventars. Klicke mit der rechten Maustaste auf Gegenstände oder ziehe sie in und aus dem Stauraum. Gegenstände, die so gelagert werden, sind durch jeden Schmuggler im Spiel zugänglich. 
 tagTransferCost=Übergabepreis: {%d0}
 tagTransferAdd=Bist du sicher, dass du diesen Gegenstand in den Stauraum legen willst?
-tagTransferInfo01=Benutze den Schmuggler, um Gegenstände an andere Charaktere zu übergeben. Lege einfach einen Gegenstand hier ab. Er wird dann deinen anderen Charakteren zur Verfügung stehen.
+tagTransferInfo01=Zum Übergabebereich wechseln. Lege Gegenstände in den Übergabebereich, damit der Schmuggler sie all deinen anderen Charakteren zur Verfügung stellt.
 tagCaravanItemTransfer=Übergabebereich
 tagTransferInfo02=Lege Gegenstände in den Übergabebereich. Der Schmuggler stellt diese deinen anderen Charakteren zur Verfügung.
 tagCaravanError01=Du hast nicht genug Eisenstücke, um diesen Gegenstand zu übergeben.
@@ -1351,6 +1351,7 @@ tagTransferTab02=Fach 2
 tagTransferTab03=Fach 3
 tagTransferTab04=Fach 4
 tagCaravanSort=Möchtest du deine Gegenstände wirklich automatisch sortieren lassen?
+tagCaravanSearchBoxInfo=Gib Suchparameter ein, um Gegenstände anhand von Gegenstandsnamen oder gewünschten Eigenschaften zu filtern.
 
 #Chat
 
@@ -2617,3 +2618,27 @@ DefenseLifeLeachDurationR={%.0f0}-{%.0f1}% {^E}kürzere Lebensentzugsdauer
 DefenseManaLeachDurationR={%.0f0}-{%.0f1}% {^E}kürzere Energieentzugsdauer
 DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}Widerstand gegen Lebensreduzierung
 DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}Widerstand gegen Energiebrand
+
+#patch v1.3.0
+tagDotConfuse=Verwirrt
+tagGamePadCustomizeCaravan=Anpassen
+
+PentaStringFormat={%_4a0}{%_4a1}{%_4a2}{%_4a3}{%_s4}
+
+DefenseAllResistance={%.0f0} % {^E}Gesamtwiderstand
+DefenseAllResistanceR={%.0f0}-{%.0f1} % {^E}Gesamtwiderstand
+DefenseCrowdControl={%.0f0} % {^E}Verringerte Kontrollbeeinträchtigungsdauer
+DefenseCrowdControlNegative={%.0f0} % {^E}Kontrollbeeinträchtigungswiderstand
+DefenseCrowdControlR={%.0f0} % {%.0f1} {^E}Verringerte Kontrollbeeinträchtigungsdauer
+DefenseCrowdControlMaxResist={%+.0f0} % {^E}Max. Kontrollbeeinträchtigungswiderstände
+DefenseCrowdControlMaxResistR={%+.0f0} % {%.0f1} {^E}Max. Kontrollbeeinträchtigungswiderstände
+
+tagLootFilter41=Gesundheit
+tagLootFilter41Info=Gegenstände anzeigen, die die Gesundheit erhöhen.
+tagLootFilter42=Gesundheitsregeneration
+tagLootFilter42Info=Gegenstände anzeigen, die die Gesundheitsregeneration erhöhen.
+
+tagMoveForward=Vorwärts
+tagMoveBackward=Rückwärts
+tagMoveLeft=Links
+tagMoveRight=Rechts

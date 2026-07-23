@@ -1542,7 +1542,7 @@ tagFeetC007B=[fs]{^B}Ultima Marcia
 tagFeetC007Desc="Ogni passo porta il peso dei mille soldati che perirono per mano delle Forze Chthoniane."
 tagFeetC008=[mp]{^B}Stivali di Pelle di Segugio Abissale
 tagFeetC008Desc="I Segugi Abissali sono bestie inutili, ma con la loro pelle si fanno ottimi stivali."
-tagFeetC009=[mp]{^B}Stivali Corazzati
+tagFeetC009=[mp]{^B}Pianelle del Tessitore d'Orrori
 tagFeetC010=[mp]{^B}Schinieri Infernali
 tagFeetC011=[fp]{^B}Fasce Serpentine
 tagFeetC012=[mp]{^B}Stivali Dissacratori
@@ -3685,7 +3685,8 @@ tagBonusExperience={%+d0} Esperienza
 tagBonusMoney={%+d0} Ferro
 tagBonusSkillPoint={%+d0} Punti Abilità
 tagBonusAttribPoint={%+d0} Punti Attributo
-
+tagBonusManaPercentSlow={^E}Ripristina {^H}{%.0f0}% {^E}di Energia nel tempo
+tagBonusManaAbsSlow={^E}Ripristina {^H}{%.0f0} {^E}di Energia nel tempo
 
 #Devotion
 tagDevotionReset={^E}Usa per Resettare i Punti Devozione

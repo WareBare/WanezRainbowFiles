@@ -826,10 +826,10 @@ tagGDX2CraftMaterial_Lotus_Desc="Une fleur trouvée uniquement autour du Plateau
 tagGDX2CraftMaterial_Sacrifice=Essence céleste
 tagGDX2CraftMaterial_Sacrifice_Desc="L'essence de la réalité, de l'existence elle-même. Peut être utilisée dans de puissants rituels si un site suffisant est trouvé pour des actes aussi discutables."
 
-tagGDX2CraftMaterial_IronExchange_01=Barre de Fer
+tagGDX2CraftMaterial_IronExchange_01=Lingot de Fer
 tagGDX2CraftMaterial_IronExchange_01_Desc=Une ressource précieuse dans un monde ravagé par la mort.{^n}Garrus, le Gardien du Fer, au Conclave des Trois, se fera un plaisir d'échanger 50 000 pièces de fer pour cela.
 
-tagGDX2CraftMaterial_IronExchange_02=Pile de Barres de Fer premium
+tagGDX2CraftMaterial_IronExchange_02=Pile de Lingots de Fer premium
 tagGDX2CraftMaterial_IronExchange_02_Desc=Une ressource précieuse dans un monde ravagé par la mort.{^n}Garrus, le Gardien du Fer, au Conclave des Trois, se fera un plaisir d'échanger 500 000 pièces de fer pour cela.
 
 #Consumables
@@ -1027,6 +1027,10 @@ tagGDX2EnchantB229Desc="Une fine poudre d'enchantement dérivée des cendres des
 
 tagGDX2EnchantB230A=Sang d'Irrah
 tagGDX2EnchantB230Desc="Une fine poudre d'enchantement dérivée des cendres des bûchers du temple d'Irrah, imprégnées, dit-on, de sang céleste." Appliqué aux anneaux et amulettes
+
+tagGDX2EnchantB231A=Domaine d'Irrah
+tagGDX2EnchantB231Desc=« Une fine poudre d'enchantement dérivée des cendres des bûchers du temple d'Irrah, imprégnée de sels parfumés qui inondent l'esprit d'illusions viscérales. »^w^n(S'applique aux anneaux et aux amulettes)
+
 
 tagGDX2EnchantC201A=Sable d'argent de Bysmiel
 tagGDX2EnchantC201Desc="Un don du dieu des sorcières Bysmiel, une poudre d'argent incroyablement fine souvent utilisée dans les illusions, mais servant aussi à des périmètres magiques de protection." Appliqué à toutes les armures

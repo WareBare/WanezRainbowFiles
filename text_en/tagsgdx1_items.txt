@@ -1456,6 +1456,9 @@ tagGDX1EnchantB137Desc="A gift bestowed by the Ravager upon his cursed worshippe
 tagGDX1EnchantB138A=Potent Ravager's Breath
 tagGDX1EnchantB138Desc="A gift bestowed by the Ravager upon his cursed worshippers. Its touch inflicts grievous wounds and blisters upon flesh."^w^n(Applied to all two-handed weapons)
 
+tagGDX1EnchantB139A=Bloodrot Powder
+tagGDX1EnchantB139Desc="A unseemly concotion extracted from the rotting remains of the dead, sanctioned in Malmouth only for its protective properties."^w^n(Applied to rings and amulets)
+
 
 tagGDX1EnchantC101A=Coven Warding Powder
 tagGDX1EnchantC101Desc="Sorcerous powder crafted by the Coven to protect them during rituals."^w^n(Applied to all armor)

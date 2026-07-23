@@ -1542,7 +1542,7 @@ tagFeetC007B=[ms]{^B}Ostatni Marsz
 tagFeetC007Desc=^b"Każdy krok niesie ze sobą uderzenie tysięcy ludzi, którzy poświęcili swe życie walcząc przeciw Chtonikom."
 tagFeetC008=[np]{^B}Buty ze Skóry Biesów
 tagFeetC008Desc=^b"Kto by pomyślał, że skóra bestii tak dobrze nadaje się na buty."
-tagFeetC009=[np]{^B}Pancerne Podbipięty
+tagFeetC009=[np]{^B}Sandały Grozy
 tagFeetC010=[np]{^B}Piekielne Trapy
 tagFeetC011=[np]{^B}Owijane Sandały
 tagFeetC012=[np]{^B}Bluźniercze Kroki
@@ -3685,6 +3685,8 @@ tagBonusExperience={%+d0} Doświadczenia
 tagBonusMoney={%+d0} Żelaznych Monet
 tagBonusSkillPoint={%+d0} Punktów Umiejętności
 tagBonusAttribPoint={%+d0} Punktów Atrybutów
+tagBonusManaPercentSlow={^E}Przywraca {^H}{%.0f0}% {^E}energii w czasie
+tagBonusManaAbsSlow={^E}Przywraca {^H}{%.0f0} {^E}energii w czasie
 
 
 #Devotion

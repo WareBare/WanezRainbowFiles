@@ -1456,6 +1456,9 @@ tagGDX1EnchantB137Desc="Uma dádiva concedida por Assolador aos seus adoradores 
 tagGDX1EnchantB138A=Sopro de Assolador Potente
 tagGDX1EnchantB138Desc="Uma dádiva concedida por Assolador aos seus adoradores amaldiçoados. Seu toque inflige ferimentos graves e bolhas sobre a carne."^w^n(Aplicado em todas as armas de duas mãos)
 
+tagGDX1EnchantB139A=Pó de Putrissangue
+tagGDX1EnchantB139Desc="Uma mistura repugnante extraída dos restos putrefatos dos mortos, autorizada em Malmouth apenas por suas propriedades protetoras."^w^n(Aplicado em anéis e amuletos)
+
 
 tagGDX1EnchantC101A=Pó Protetor da Seita
 tagGDX1EnchantC101Desc="Um pó mágico criado pela Seita para protegê-las durante os rituais."^w^n(Aplicado em todas as armaduras)

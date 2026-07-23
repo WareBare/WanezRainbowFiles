@@ -1542,7 +1542,7 @@ tagFeetC007B=[ms]{^B}Letzter Marsch
 tagFeetC007Desc="Jeder Schritt trägt das Gewicht von tausend Soldaten, die ihr Leben durch die Chthonischen Streitkräfte verloren haben."
 tagFeetC008=[mp]{^B}Rifthundlederstiefel
 tagFeetC008Desc="Nutzlose Bestien, aber man kann aus ihnen großartige Stiefel machen."
-tagFeetC009=[np]{^B}Kampffußpolster
+tagFeetC009=[np]{^B}Fußpolster des Schreckensbringers
 tagFeetC010=[fp]{^B}Teuflische Beinschienen
 tagFeetC011=[mp]{^B}Schlangenstiefel
 tagFeetC012=[mp]{^B}Treter des Schänders
@@ -2563,7 +2563,7 @@ tagDLCIllusionA18=Illusion: Brustschutz des Schwarzen Ritters
 tagDLCA18=Brustschutz des Schwarzen Ritters
 
 tagDLCIllusionA19=Illusion: Stiefel des Silberritters
-tagDLCA19=SStiefel des Silberritters
+tagDLCA19=Stiefel des Silberritters
 tagDLCA19Desc="Teil der Rüstung des heiligen Silberritters."
 tagDLCIllusionA20=Illusion: Greifer des Silberritters
 tagDLCA20=Greifer des Silberritters
@@ -3686,7 +3686,8 @@ tagBonusExperience={%+d0} Erfahrung
 tagBonusMoney={%+d0} Eisen
 tagBonusSkillPoint={%+d0} Fähigkeitspunkte
 tagBonusAttribPoint={%+d0} Attributpunkte
-
+tagBonusManaPercentSlow={^E}Stellt allmählich {^H}{%.0f0} % {^E}Energie wieder her.
+tagBonusManaAbsSlow={^E}Stellt allmählich {^H}{%.0f0} {^E}Energie wieder her.
 
 #Devotion
 tagDevotionReset={^E}Benutzen, um deine Devotionspunkte zurückzusetzen

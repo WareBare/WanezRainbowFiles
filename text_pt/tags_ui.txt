@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Ajustar as opções para quais itens devem ser mostrados. A alternância de Mostrar/Ocultar Itens pode ser usada para ocultar todas as dropagens durante um encontro movimentado e exibi-las novamente quando terminar.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.13{^n}for Grim Dawn: v1.2.1.6{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Ajustar as opções para quais itens devem ser mostrados. A alternância de Mostrar/Ocultar Itens pode ser usada para ocultar todas as dropagens durante um encontro movimentado e exibi-las novamente quando terminar.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.14{^n}for Grim Dawn: v1.3.0.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Dificuldade Normal
@@ -43,7 +43,7 @@ tagDevotionAffinity=Afinidades:
 tagDevotionSelected= (Selecionada)
 tagDevotionInUse= (Em Uso)
 tagDevotionConfirm=Substituir Poder Celestial?
-tagDevotionExperienceFormat=Experiência : {^y}{%d0}{^w} / {^y}{%d1}
+tagDevotionExperienceFormat=Experiência : {^y}{%d0} / {%d1}
 tagDevotionSkillRank=Nível Atual : {%d0} / {%d1}
 
 tagUndo=Anular
@@ -678,7 +678,7 @@ tagOverCapResistInt={%s0} {^b}{%d1}% {^s}(+{%d2}% Acima do Máximo)
 tagRollFormat01={%s0} {^b}{%d1}
 tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
 tagRollFormat03={%s0}     {%+.0f1}%
-tagRollFormat04={%s0}  ({^y}{%t1}{^w})
+tagRollFormat04={%s0}  {^o}[{%t1}]
 tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
 tagRollFormat06={%s0} {^b}{%.0f1}%
 tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
@@ -1325,10 +1325,10 @@ tagCaravanCost=Custo: {%d0}
 tagCaravanRefund=Reembolso: {%d0}
 tagCaravanExpand=Expandir Baú
 tagCaravanItemStorage=Baú
-tagStorageInfo01=Use o baú como uma extensão do seu inventário. Mantenha pressionada a tecla Shift enquanto clica com o botão esquerdo em um item ou arraste e solte um item para dentro ou para fora do baú. Os itens armazenados dessa maneira podem ser acessados por meio de qualquer contrabandista no jogo.
+tagStorageInfo01=Alterne para ir para o baú. O baú é uma extensão do seu inventário. Mantenha pressionada a tecla Shift enquanto clica com o botão esquerdo em um item ou arraste e solte um item para dentro ou para fora do baú. Os itens armazenados dessa maneira podem ser acessados por meio de qualquer contrabandista no jogo.
 tagTransferCost=Custo de Transferência: {%d0}
 tagTransferAdd=Tem certeza de que deseja adicionar este item ao armazenamento compartilhado?
-tagTransferInfo01=Use o contrabandista para transferir itens para outros personagens. Basta colocar um item, e ele estará disponível para todos os seus personagens.
+tagTransferInfo01=Alterne para ir para o baú de transferência. Coloque itens na área de transferência para que o contrabandista os torne disponíveis para todos os seus personagens.
 tagCaravanItemTransfer=Transferência
 tagTransferInfo02=Coloque itens na área de transferência para que o contrabandista os torne disponíveis para todos os seus personagens.
 tagCaravanError01=Você não tem pedaços de ferro suficientes para transferir este item.
@@ -1340,6 +1340,7 @@ tagTransferTab02=Aba 2
 tagTransferTab03=Aba 3
 tagTransferTab04=Aba 4
 tagCaravanSort=Tem certeza de que deseja auto-ordenar seus itens?
+tagCaravanSearchBoxInfo=Digite os parâmetros de busca para filtrar itens com base nos nomes dos itens ou nas estatísticas desejadas.
 
 #Chat
 
@@ -2496,4 +2497,26 @@ DefenseManaLeachDurationR={%.0f0}-{%.0f1}% {^E}de Redução da Duração de Abso
 DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}de Resistência a Redução de Vida
 DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}de Resistência a Queima de Energia
 
+#patch v1.3.0
+tagDotConfuse=Confuso
+tagGamePadCustomizeCaravan=Customizar
 
+PentaStringFormat={%_s4}{%_4a3}{%_4a2}{%_4a1}{%_4a0}
+
+DefenseAllResistance={%.0f0}% {^E}de Resistência Total
+DefenseAllResistanceR={%.0f0}-{%.0f1}% {^E}de Resistência Total
+DefenseCrowdControl={%.0f0}% {^E}de Redução da Duração de Controle de Grupo
+DefenseCrowdControlNegative={%.0f0}% {^E}de Resistência a Controle de Grupo
+DefenseCrowdControlR={%.0f0}-{%.0f1}% {^E}de Redução da Duração de Controle de Grupo
+DefenseCrowdControlMaxResist={%+.0f0}% {^E}Máx. de Resistência a Controle de Grupo
+DefenseCrowdControlMaxResistR={%+.0f0}-{%.0f1}% {^E}Máx. de Resistência a Controle de Grupo
+
+tagLootFilter41=Saúde
+tagLootFilter41Info=Mostrar itens que aumentam Saúde.
+tagLootFilter42=Regeneração de Saúde
+tagLootFilter42Info=Mostrar itens que aumentam Regeneração de Saúde.
+
+tagMoveForward=Avançar
+tagMoveBackward=Voltar
+tagMoveLeft=Esquerda
+tagMoveRight=Direita

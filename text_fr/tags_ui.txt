@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Ajuste les options pour quel butin doit être affiché. L'option Afficher/Masquer les objets peut être utilisée pour masquer toutes les ramassages pendant une rencontre occupée, puis les afficher à nouveau une fois terminées.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.13{^n}for Grim Dawn: v1.2.1.6{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Ajuste les options pour quel butin doit être affiché. L'option Afficher/Masquer les objets peut être utilisée pour masquer toutes les ramassages pendant une rencontre occupée, puis les afficher à nouveau une fois terminées.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.14{^n}for Grim Dawn: v1.3.0.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=difficulté Normale
@@ -43,7 +43,7 @@ tagDevotionAffinity=Affinités :
 tagDevotionSelected= (Sélectionné)
 tagDevotionInUse= (Utilisé)
 tagDevotionConfirm=Remplacer Pouvoir Céleste ?
-tagDevotionExperienceFormat=Expérience : {^Y}{%d0}{^W} / {^Y}{%d1}
+tagDevotionExperienceFormat=Expérience : {^Y}{%d0} / {%d1}
 tagDevotionSkillRank=Niveau actuel : {%d0} / {%d1}
 
 tagUndo=Annuler
@@ -682,7 +682,7 @@ tagOverCapResistInt={%s0} {^b}{%d1}% {^s}(+{%d2}% au-delà du maximum)
 tagRollFormat01={%s0} {^b}{%d1}
 tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
 tagRollFormat03={%s0}     {%+.0f1}%
-tagRollFormat04={%s0}  ({^y}{%t1}{^w})
+tagRollFormat04={%s0}  {^o}[{%t1}]
 tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
 tagRollFormat06={%s0} {^b}{%.0f1}%
 tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
@@ -1340,10 +1340,10 @@ tagCaravanCost=Coût : {%d0}
 tagCaravanRefund=Remboursement : {%d0}
 tagCaravanExpand=+ de place
 tagCaravanItemStorage=Cache
-tagStorageInfo01={^W}Utilisez la Cache comme une extension de votre inventaire. Clic droit ou glissez déposez des objets de et jusqu'à la cache. Les objets stockés ainsi sont accessibles auprès de chaque Contrebandier du jeu.
+tagStorageInfo01=Activez pour aller à la Cache d'objets. La Cache d'objets est une extension de votre inventaire. Cliquez droit ou glissez et déposez  des objets  dans et de la Cache d'objets. Les objets stockés ainsi sont accessibles à partir de n'importe quel Contrebandier du jeu.
 tagTransferCost=Coût du transfert : {%d0}
 tagTransferAdd=Êtes-vous sûr(e) de vouloir ajouter cet objet à la cache partagée ?
-tagTransferInfo01=Utilisez le Contrebandier pour transférer des objets à d'autres personnages. Déposez simplement un objet et il sera disponible pour tous vos personnages.
+tagTransferInfo01=Activez pour aller à la Cache de transfert d'objet. Placez des objets dans la zone de transfert pour que le Contrebandier les rende accessibles à tous vos personnages.
 tagCaravanItemTransfer=Transfert d'objet
 tagTransferInfo02=Placez les objets dans la zone de transfert pour que le Contrebandier les rende disponibles à tous vos personnages.
 tagCaravanError01=Vous n'avez pas assez de pièces de fer pour transférer cet objet.
@@ -1355,6 +1355,7 @@ tagTransferTab02=Onglet 2
 tagTransferTab03=Onglet 3
 tagTransferTab04=Onglet 4
 tagCaravanSort=Êtes-vous sûr(e) de souhaiter ranger automatiquement vos objets ?
+tagCaravanSearchBoxInfo=Entrez les paramètres de recherche pour filtrer les objets selon leur nom ou les statistiques désirées.
 
 #Chat
 
@@ -2502,4 +2503,26 @@ DefenseManaLeachDurationR={%.0f0}-{%.0f1}% {^E}de réduction de la durée de Dra
 DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}de résistance à Réduction de vie
 DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}de résistance à Brûlure de mana
 
+#patch v1.3.0
+tagDotConfuse=Confusion
+tagGamePadCustomizeCaravan=Personnaliser
 
+PentaStringFormat={%_s4}{%_4a3}{%_4a2}{%_4a1}{%_4a0}
+
+DefenseAllResistance={%.0f0} % {^E}de résist. totale
+DefenseAllResistanceR={%.0f0}-{%.0f1} % {^E}de résist. totale
+DefenseCrowdControl={%.0f0} % {^E}de réd. sur durée des effets de contrôle de foule
+DefenseCrowdControlNegative={%.0f0} % {^E}de résist. aux effets de contrôle de foule
+DefenseCrowdControlR={%.0f0}-{%.0f1} % {^E}de durée des effets de contrôle de foule
+DefenseCrowdControlMaxResist={%+.0f0} % {^E}de résist. max. aux effets de contrôle de foule
+DefenseCrowdControlMaxResistR={%+.0f0}-{%.0f1} % {^E}de résist. max. aux effets de contrôle de foule
+
+tagLootFilter41=Santé
+tagLootFilter41Info=Affiche les objets qui augmentent la santé.
+tagLootFilter42=Régénération de santé
+tagLootFilter42Info=Affiche les objets qui augmentent la régénération de santé.
+
+tagMoveForward=Avancer
+tagMoveBackward=Reculer
+tagMoveLeft=Gauche
+tagMoveRight=Droite

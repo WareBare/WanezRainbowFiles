@@ -1027,6 +1027,9 @@ tagGDX2EnchantB229Desc="Một loại bột ma thuật hảo hạng có nguồn g
 tagGDX2EnchantB230A=Máu Của Irrah
 tagGDX2EnchantB230Desc="Một loại bột ma thuật hảo hạng có nguồn gốc từ tro tàn trên giàn thiêu bên trong đền thờ Irrah, được truyền rằng đã thấm máu của các vị thần."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
 
+tagGDX2EnchantB231A=Quyền Lực Của Irrah
+tagGDX2EnchantB231Desc="Một loại bột ma thuật hảo hạng có nguồn gốc từ tro tàn của các giàn thiêu bên trong đền thờ của Irrah, được hòa quyện với các loại muối có mùi thơm ngọt ngào làm tràn ngập tâm trí bằng những ảo ảnh trực giác."^w^n(Áp dụng cho nhẫn và dây chuyền)
+
 tagGDX2EnchantC201A=Cát Bạc Của Bysmiel
 tagGDX2EnchantC201Desc="Lễ vật từ Thần Phù Thuỷ Bysmiel, một loại bột cực kỳ hảo hạng từ bạc, thường được dùng trong ảo thuật, nhưng cũng rất tốt để tạo ra các vật trấn yểm."^w^n(Sử dụng cho tất cả các bộ phận của Giáp Phục)
 

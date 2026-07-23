@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=调整选项来显示对应的战利品。切换显示/隐藏物品可用于匆忙遭遇战期间隐藏所有掉落的物品，在解决战斗后再次显示它们。{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.13{^n}for Grim Dawn: v1.2.1.6{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=调整选项来显示对应的战利品。切换显示/隐藏物品可用于匆忙遭遇战期间隐藏所有掉落的物品，在解决战斗后再次显示它们。{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.14{^n}for Grim Dawn: v1.3.0.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=普通难度
@@ -43,7 +43,7 @@ tagDevotionAffinity=亲和点数：
 tagDevotionSelected= (已选择)
 tagDevotionInUse= (正在使用中)
 tagDevotionConfirm=替换当前信仰之力？
-tagDevotionExperienceFormat=经验：{^y}{%d0}{^w} / {^y}{%d1}
+tagDevotionExperienceFormat=经验：{^y}{%d0} / {%d1}
 tagDevotionSkillRank=当前等级：{%d0} / {%d1}
 
 tagUndo=撤销
@@ -678,7 +678,7 @@ tagOverCapResistInt={%s0} {^b}{%d1}% {^s}(+{%d2}% 溢出上限)
 tagRollFormat01={%s0} {^b}{%d1}
 tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
 tagRollFormat03={%s0}     {%+.0f1}%
-tagRollFormat04={%s0}  ({^y}{%t1}{^w})
+tagRollFormat04={%s0}  {^o}[{%t1}]
 tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
 tagRollFormat06={%s0} {^b}{%.0f1}%
 tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
@@ -1325,10 +1325,10 @@ tagCaravanCost=花费：{%d0}
 tagCaravanRefund=退还：{%d0}
 tagCaravanExpand=扩展仓库
 tagCaravanItemStorage=个人仓库
-tagStorageInfo01=个人仓库是你的物品栏的延伸。右键或者拖放来在仓库和物品栏之间存取物品。存储的物品在游戏中每个走私者那里都能取用。
+tagStorageInfo01=切换到个人仓库。个人仓库是你物品栏的延伸。右键或者拖放来在仓库和物品栏之间存取物品。存储的物品在游戏中每个走私者那里都能取用。
 tagTransferCost=转移花费：{%d0}
 tagTransferAdd=你确定要将该物品放入共享存储中？
-tagTransferInfo01=使用走私者来给其他人物转移物品。只需要把物品丢进去，你的所有角色就都能取用了。
+tagTransferInfo01=切换到共享仓库。将物品放置到共享区域，让走私者将它们提供给你所有的角色。
 tagCaravanItemTransfer=共享仓库
 tagTransferInfo02=将物品放入共享仓库让你的所有人物都能使用。
 tagCaravanError01=你没有足够的铁币来转移这件物品。
@@ -1340,6 +1340,7 @@ tagTransferTab02=第二栏
 tagTransferTab03=第三栏
 tagTransferTab04=第四栏
 tagCaravanSort=您确定自动排序您的物品吗？
+tagCaravanSearchBoxInfo=根据物品名称或所需数据，输入搜索参数来筛选物品。
 
 #Chat
 
@@ -2497,4 +2498,26 @@ DefenseManaLeachDurationR={%.0f0}-{%.0f1}% {^E}能量吸取持续时长减免
 DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}生命削弱抗性
 DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}魔力燃烧抗性
 
+#patch v1.3.0
+tagDotConfuse=困惑
+tagGamePadCustomizeCaravan=自定义
 
+PentaStringFormat={%s0}{%s1}{%s2}{%s3}{%s4}
+
+DefenseAllResistance={%.0f0}% {^E} 全部抗性
+DefenseAllResistanceR={%.0f0}-{%.0f1}% {^E} 全部抗性
+DefenseCrowdControl={%.0f0}% {^E} 群控效果持续时间缩短
+DefenseCrowdControlNegative={%.0f0}% {^E} 群控抗性
+DefenseCrowdControlR={%.0f0}-{%.0f1}% {^E}群控效果持续时间缩短
+DefenseCrowdControlMaxResist={%+.0f0}% {^E} 群控抗性上限
+DefenseCrowdControlMaxResistR={%+.0f0}-{%.0f1}% {^E} 群控抗性上限
+
+tagLootFilter41=生命
+tagLootFilter41Info=显示提高生命的物品。
+tagLootFilter42=生命回复
+tagLootFilter42Info=显示包含提高生命回复的物品。
+
+tagMoveForward=前
+tagMoveBackward=后
+tagMoveLeft=左
+tagMoveRight=右

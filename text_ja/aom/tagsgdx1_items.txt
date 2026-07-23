@@ -1456,6 +1456,9 @@ tagGDX1EnchantB137Desc="ラヴァジャーが､ 彼の呪われた 崇拝者に
 tagGDX1EnchantB138A=強力な ラヴァジャーの吐息
 tagGDX1EnchantB138Desc="ラヴァジャーが､ 彼の呪われた 崇拝者に与えた 贈り物。 その接触は､ 肉体に 重い傷や 疱疹を 引き起こす。"^w^n(すべての 両手武器 に適合)
 
+tagGDX1EnchantB139A=ブラッドロットパウダー
+tagGDX1EnchantB139Desc="死者の腐敗した残骸から 抽出された見苦しい 調合物。 マルマスでは、 ひとえにその防護特性のゆえに 認可されている。"^w^n(指輪とアミュレットに適用)
+
 
 tagGDX1EnchantC101A=魔女団の保護パウダー
 tagGDX1EnchantC101Desc="儀式を守るべく 魔女団が作った､ 魔術の粉末。"^w^n(すべての防具 に適合)

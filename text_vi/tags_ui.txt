@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Điều chỉnh các tùy chọn hiển thị chiến lợi phẩm.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.13{^n}for Grim Dawn: v1.2.1.6{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Điều chỉnh các tùy chọn hiển thị chiến lợi phẩm.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.14{^n}for Grim Dawn: v1.3.0.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 ﻿#General=
 
 tagGameDifficultySetting01=Độ Khó Bình Thường
@@ -43,7 +43,7 @@ tagDevotionAffinity=Thuộc Tính Chòm Sao :
 tagDevotionSelected=(Đã Chọn)
 tagDevotionInUse= (Đang Sử Dụng)
 tagDevotionConfirm=Thay Đổi Quyền Năng Thiên Phú?
-tagDevotionExperienceFormat=Kinh Nghiệm : {^y}{%d0}{^w} / {^y}{%d1}
+tagDevotionExperienceFormat=Kinh Nghiệm : {^y}{%d0} / {%d1}
 tagDevotionSkillRank=Cấp Hiện Tại : {%d0} / {%d1}
 
 tagUndo=Hoàn Tác
@@ -568,7 +568,7 @@ tagLootFilter37Info=Hiện đồ có dòng tăng sát thương Phản Kích.
 
 tagLootFilter38=Phụ Kiện
 tagLootFilter38Info=Hiện/Ẩn Phụ Kiện (Component, là các vật phẩm dùng để gắn vào giáp).
-tagLootFilter39=Luôn Hiện Đồ Hiếm Đúp
+tagLootFilter39=Luôn Hiện Đồ Hiếm Kép
 tagLootFilter39Info=Bật mục này để luôn hiển thị những món đồ ^gHiếm^- mà tên của chúng có chứa cả một Tiền Tố Hiếm (Rare Prefix) và một Hậu Tố Hiếm (Rare Suffix), không cần biết bạn thiết lập các mục khác như thế nào.{^N}{^N}Bật mục này nếu bạn chỉ muốn tìm những vật phẩm ^gHiếm^- mạnh mẽ nhất.
 
 
@@ -678,7 +678,7 @@ tagOverCapResistInt={%s0} {^b}{%d1}% {^s}(+{%d2}% Vượt Mức Tối Đa)
 tagRollFormat01={%s0} {^b}{%d1}
 tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
 tagRollFormat03={%s0}     {%+.0f1}%
-tagRollFormat04={%s0}  ({^y}{%t1}{^w})
+tagRollFormat04={%s0}  {^o}[{%t1}]
 tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
 tagRollFormat06={%s0} {^b}{%.0f1}%
 tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
@@ -1325,10 +1325,10 @@ tagCaravanCost=Giá: {%d0}
 tagCaravanRefund=Hoàn Tiền: {%d0}
 tagCaravanExpand=Mở Rộng Rương
 tagCaravanItemStorage=Rương Đồ
-tagStorageInfo01=Dùng rương đồ như một phần mở rộng cho hành trang của bạn. Nhấp chuột phải hoặc kéo thả vật phẩm vào hoặc ra khỏi Rương. Vật phẩm lưu trữ theo cách này có thể tiếp cận được từ bất cứ Gã buôn lậu nào trong trò chơi.
+tagStorageInfo01=Bấm để mở Rương Cá Nhân. Rương Cá Nhân giúp bạn lưu trữ thêm vật phẩm bên cạnh túi hành trang nhân vật. Bấm chuột phải hoặc kéo thả vật phẩm để chuyển vật phẩm vào Rương Cá Nhân. Vật phẩm được chứa trong rương có thể được lấy từ tất cả các NPC Người Buôn Lậu có trong trò chơi.
 tagTransferCost=Phí Chuyển Đồ: {%d0}
 tagTransferAdd=Bạn chắc mình muốn thêm món đồ này vào Hòm đồ Chung?
-tagTransferInfo01=Dùng Kẻ Buôn Lậu để chuyển đồ qua lại giữa các nhân vật. Chỉ cần bỏ một món đồ vào đây là bất kỳ nhân vật nào của bạn cũng có thể lấy ra được.
+tagTransferInfo01=Bấm để mở Rương Chung. Bỏ vật phẩm vào Rương Chung và NPC Người Buôn Lậu sẽ giúp chuyển chúng đến tất cả các nhân vật của bạn.
 tagCaravanItemTransfer=Chuyển Đồ
 tagTransferInfo02=Đặt các vật phẩm vào khu vực chuyển đồ để Kẻ Buôn Lậu làm chúng khả dụng với mọi nhân vật của bạn.
 tagCaravanError01=Bạn không có đủ Tiền Sắt để chuyển món đồ này.
@@ -1340,6 +1340,7 @@ tagTransferTab02=Thẻ 2
 tagTransferTab03=Thẻ 3
 tagTransferTab04=Thẻ 4
 tagCaravanSort=Bạn có chắc là muốn tự động sắp xếp lại tất cả các vật phẩm trong rương?
+tagCaravanSearchBoxInfo=Nhập thông tin để lọc ra các vật phẩm dựa trên Tên hoặc các Chỉ Số mong muốn.
 
 #Chat
 
@@ -2621,3 +2622,26 @@ DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}Kháng Đòn Đánh Trừ % Máu
 DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}Kháng Đốt Năng Lượng
 
 
+#patch v1.3.0
+tagDotConfuse=Hỗn loạn
+tagGamePadCustomizeCaravan=Tùy chỉnh
+
+PentaStringFormat={%s4}{%s3} {%s2}{%s1} {%s0}
+
+DefenseAllResistance={%.0f0}% {^E}Tổng Kháng
+DefenseAllResistanceR={%.0f0}-{%.0f1}% {^E}Tổng Kháng
+DefenseCrowdControl={%.0f0}% {^E}Giảm Thời Gian Hiệu Ứng Khống Chế
+DefenseCrowdControlNegative={%.0f0}% {^E}Kháng Hiệu Ứng Khống Chế
+DefenseCrowdControlR={%.0f0}-{%.0f1}% {^E}Giảm Thời Gian Hiệu Ứng Khống Chế
+DefenseCrowdControlMaxResist={%+.0f0}% {^E}Kháng Hiệu Ứng Khống Chế Tối Đa
+DefenseCrowdControlMaxResistR={%+.0f0}-{%.0f1}% {^E}Kháng Hiệu Ứng Khống Chế Tối Đa
+
+tagLootFilter41=Máu
+tagLootFilter41Info=Hiện đồ có dòng tăng Máu.
+tagLootFilter42=Hồi Máu
+tagLootFilter42Info=Hiện đồ có dòng tăng Hồi Máu.
+
+tagMoveForward=Tiến
+tagMoveBackward=Lùi
+tagMoveLeft=Trái
+tagMoveRight=Phải

@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Dostosuj opcje pokazywania wybranych przedmiotów na ziemi. Wybranie opcji "Załącz Pokaż/Ukryj przedmioty" umożliwia ukrywanie wszystkich wypadających przedmiotów podczas najintensywniejszych starć, a następnie ponowne ich wyświetlenie po jej zakończeniu.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.13{^n}for Grim Dawn: v1.2.1.6{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Dostosuj opcje pokazywania wybranych przedmiotów na ziemi. Wybranie opcji "Załącz Pokaż/Ukryj przedmioty" umożliwia ukrywanie wszystkich wypadających przedmiotów podczas najintensywniejszych starć, a następnie ponowne ich wyświetlenie po jej zakończeniu.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.14{^n}for Grim Dawn: v1.3.0.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Prosty
@@ -43,7 +43,7 @@ tagDevotionAffinity=Połączenia:
 tagDevotionSelected= (Zaznaczone)
 tagDevotionInUse= (W użyciu)
 tagDevotionConfirm=Połączyć Moc Poświęcenia?
-tagDevotionExperienceFormat=Doświadczenie : {^y}{%d0}{^w} / {^y}{%d1}
+tagDevotionExperienceFormat=Doświadczenie : {^y}{%d0} / {%d1}
 tagDevotionSkillRank=Aktualny poziom : {%d0} / {%d1}
 
 tagUndo=Cofnij
@@ -684,7 +684,7 @@ tagOverCapResistInt={%s0} {^b}{%d1}% {^s}(+{%d2}% ponad maksimum)
 tagRollFormat01={%s0} {^b}{%d1}
 tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
 tagRollFormat03={%s0}     {%+.0f1}%
-tagRollFormat04={%s0}  ({^y}{%t1}{^w})
+tagRollFormat04={%s0}  {^o}[{%t1}]
 tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
 tagRollFormat06={%s0} {^b}{%.0f1}%
 tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
@@ -1330,10 +1330,10 @@ tagCaravanCost=Koszt: {%d0}
 tagCaravanRefund=Zwrot: {%d0}
 tagCaravanExpand=Powiększ
 tagCaravanItemStorage=Przechowanie
-tagStorageInfo01=Użyj zakładki Przechowanie, by przechowywać swój aktualny ekwipunek. Kliknij prawym przyciskiem myszy lub przeciągnij i upuść elementy do okienka Umożliwia przechowywanie dowolnych przedmiotów dla tej konkretnej postaci. Rzeczy przechowywane w tej zakładce są dostępne u dowolnego Przemytnika w całej grze, ale nie są dostępne dla innych postaci.
+tagStorageInfo01=Przełącz, by przejść do schowka na przedmioty. Schowek ten jest rozszerzeniem twojej sakwy szmuglera. Kliknij prawym klawiszem myszy by przerzucać przedmioty pomiędzy schowkiem, a sakwą. Przedmioty umieszczone tutaj dostępne są u każdego szmuglera w grze (także u innych postaci).
 tagTransferCost=Koszt przechowania: {%d0}
 tagTransferAdd=Jesteś pewien, że chcesz przechować przedmioty i zapłacić Przemytnikowi?
-tagTransferInfo01=Możesz użyć Przemytnika i przenieść swoje przedmioty na inną postać. Jeżeli inna Twoja postać posiada dostęp do Przemytnika, będzie on posiadał przeniesione przedmioty. Oczywiście uczyni to za opłatą.
+tagTransferInfo01=Przełącz, by przejść do sakwy wspólnej dla wszystkich postaci. Wrzucając przedmioty w to miejsce, dostęp do nich uzyska każda kolejna postać.
 tagCaravanItemTransfer=Przenieś
 tagTransferInfo02=Umieść wybrane przedmioty na stole u Przemytnika, by móc je odebrać grając innymi postaciami.
 tagCaravanError01=Wygląda na to, że nie masz czym zapłacić za przemycenie przedmiotów?
@@ -1345,6 +1345,7 @@ tagTransferTab02=Zakładka 2
 tagTransferTab03=Zakładka 3
 tagTransferTab04=Zakładka 4
 tagCaravanSort=Na pewno chcesz posortować przedmioty w tej skrzyni?
+tagCaravanSearchBoxInfo=Wprowadź parametry wyszukiwania pod kątem nazw przedmiotów lub ich statystyk.
 
 #Chat
 
@@ -2507,4 +2508,26 @@ DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}odporn. na redukcję życia
 DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}odporn. na wykradanie energii
 
 
+#patch v1.3.0
+tagDotConfuse=Zdezorientowanie
+tagGamePadCustomizeCaravan=Dostosuj
 
+PentaStringFormat={%s0}{%s1}{%s2}{%s3}{%s4}
+
+DefenseAllResistance={%.0f0}% {^E}Wszystkie odporności
+DefenseAllResistanceR={%.0f0}-{%.0f1}% {^E}Wszystkie odporności
+DefenseCrowdControl={%.0f0}% {^E}Skrócony czas trwania kontroli tłumu
+DefenseCrowdControlNegative={%.0f0}% {^E}Odporności na kontrolę tłumu
+DefenseCrowdControlR={%.0f0}-{%.0f1}% {^E}Skrócony czas trwania kontroli tłumu
+DefenseCrowdControlMaxResist={%+.0f0}% {^E}Maks. odporności kontroli tłumu
+DefenseCrowdControlMaxResistR={%+.0f0}-{%.0f1}% {^E}Maks. odporności kontroli tłumu
+
+tagLootFilter41=Zdrowie
+tagLootFilter41Info=Pokaż przedmioty z bonusem do zdrowia.
+tagLootFilter42=Regeneracja zdrowia
+tagLootFilter42Info=Pokaż przedmioty z bonusem do regeneracji zdrowia.
+
+tagMoveForward=Do przodu
+tagMoveBackward=Do tyłu
+tagMoveLeft=W lewo
+tagMoveRight=W prawo

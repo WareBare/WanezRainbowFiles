@@ -1,4 +1,4 @@
-tagHUD_LootModeDescription=Regola le opzioni per il bottino da mostrare. Il comando Mostra/Nascondi Oggetti può essere utilizzato per nascondere tutto il bottino durante un combattimento e quindi visualizzarlo nuovamente una volta terminato.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.13{^n}for Grim Dawn: v1.2.1.6{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
+tagHUD_LootModeDescription=Regola le opzioni per il bottino da mostrare. Il comando Mostra/Nascondi Oggetti può essere utilizzato per nascondere tutto il bottino durante un combattimento e quindi visualizzarlo nuovamente una volta terminato.{^n}{^n}Rainbow Files Created with{^n}Rainbow Tool: v0.5.14{^n}for Grim Dawn: v1.3.0.0{^n}{^o}An outdated version may cause issues in form of "Tag not found:...".
 #General
 
 tagGameDifficultySetting01=Difficoltà Normale
@@ -43,7 +43,7 @@ tagDevotionAffinity=Affinità:
 tagDevotionSelected= (Selezionata)
 tagDevotionInUse= (In Uso)
 tagDevotionConfirm=Sostituire il Potere Celestiale?
-tagDevotionExperienceFormat=Esperienza : {^y}{%d0}{^w} / {^y}{%d1}
+tagDevotionExperienceFormat=Esperienza : {^y}{%d0} / {%d1}
 tagDevotionSkillRank=Livello Attuale : {%d0} / {%d1}
 
 tagUndo=Annulla
@@ -678,7 +678,7 @@ tagOverCapResistInt={%s0} {^b}{%d1}% {^s}(+{%d2}% Oltre il massimo)
 tagRollFormat01={%s0} {^b}{%d1}
 tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
 tagRollFormat03={%s0}     {%+.0f1}%
-tagRollFormat04={%s0}  ({^y}{%t1}{^w})
+tagRollFormat04={%s0}  {^o}[{%t1}]
 tagRollFormat05={%s0} {^s}+{%.0f1}% {^b}+ {%.0f2}%
 tagRollFormat06={%s0} {^b}{%.0f1}%
 tagRollFormat07={%s0} {^s}{%.2f1} {^b}+ {%.2f2}
@@ -1328,7 +1328,7 @@ tagCaravanItemStorage=Baule
 tagStorageInfo01=Usa il Baule come un'estensione del tuo inventario. Clicca col Destro o trascina un oggetto dal o nel Baule. Gli oggetti conservati in questo modo sono accessibili da ogni Trafficante nel gioco.
 tagTransferCost=Costo di Trasferimento: {%d0}
 tagTransferAdd=Sei sicuro di voler aggiungere questo oggetto al Baule Condiviso?
-tagTransferInfo01=Usa il trafficante per trasferire gli oggetti da un personaggio ad un altro. Mettici un oggetto e sarà disponibile a tutti i personaggi.
+tagTransferInfo01=Metti un oggetto nel baule condiviso, in modo che il trafficante lo renda disponibile a tutti i personaggi.
 tagCaravanItemTransfer=Trasferisci Oggetti
 tagTransferInfo02=Metti un oggetto nel baule condiviso, in modo che il trafficante lo renda disponibile a tutti i personaggi.
 tagCaravanError01=Non hai abbastanza pezzi di ferro per trasferire questo oggetto.
@@ -1340,6 +1340,7 @@ tagTransferTab02=Pag. 2
 tagTransferTab03=Pag. 3
 tagTransferTab04=Pag. 4
 tagCaravanSort=Vuoi davvero ordinare i tuoi oggetti automaticamente?
+tagCaravanSearchBoxInfo=Inserisci i parametri di ricerca per filtrare gli articoli in base ai nomi degli oggetti o alle statistiche desiderate.
 
 #Chat
 
@@ -2495,4 +2496,26 @@ DefenseManaLeachDurationR={%.0f0}-{%.0f1}% {^E}Riduzione Durata Assorbimento Ene
 DefensePercentCurrentLifeR={%.0f0}-{%.0f1}% {^E}Resistenza alla Riduzione della Salute
 DefenseManaBurnRatioR={%.0f0}-{%.0f1}% {^E}Resistenza alla Riduzione del Mana
 
+#patch v1.3.0
+tagDotConfuse=Confuso
+tagGamePadCustomizeCaravan=Personalizza
 
+PentaStringFormat={%_s4}{%_4a3}{%_4a2}{%_4a1}{%_4a0}
+
+DefenseAllResistance={%.0f0}% {^E}Resistenza Totale
+DefenseAllResistanceR={%.0f0}-{%.0f1}% {^E}Resistenza Totale
+DefenseCrowdControl={%.0f0}% {^E}Riduzione Durata dell'Impedimento
+DefenseCrowdControlNegative={%.0f0}% {^E}Resistenza all'Impedimento
+DefenseCrowdControlR={%.0f0}-{%.0f1}% {^E}Riduzione Durata dell'Impedimento
+DefenseCrowdControlMaxResist={%+.0f0}% {^E}Resistenze Massime all'Impedimento
+DefenseCrowdControlMaxResistR={%+.0f0}-{%.0f1}% {^E}Resistenze Massime all'Impedimento
+
+tagLootFilter41=Salute
+tagLootFilter41Info=Mostra gli oggetti che aumentano la Salute.
+tagLootFilter42=Rigenerazione Salute
+tagLootFilter42Info=Mostra gli oggetti che aumentano la Rigenerazione Salute.
+
+tagMoveForward=Avanti
+tagMoveBackward=Indietro
+tagMoveLeft=Sinistra
+tagMoveRight=Destra

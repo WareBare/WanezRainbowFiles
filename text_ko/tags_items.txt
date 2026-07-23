@@ -1542,7 +1542,7 @@ tagFeetC007B={^B}마지막 행군
 tagFeetC007Desc="발걸음마다 크토니안 괴물들에게 쓰러졌던 수천 명의 무게가 느껴진다."
 tagFeetC008={^B}균열사냥개의 가죽 부츠
 tagFeetC008Desc="아무데도 쓸모 없는 야수들이라도, 그 가죽으로는 좋은 부츠를 만들 수 있다."
-tagFeetC009={^B}드레드노트 신발덮개
+tagFeetC009={^B}공포조성자 덮개신발
 tagFeetC010={^B}헬리온 그리브
 tagFeetC011={^B}뱀의 휘감기
 tagFeetC012={^B}모독자의 전투화
@@ -3686,6 +3686,8 @@ tagBonusExperience={%+d0} 경험치
 tagBonusMoney={%+d0} 아이언
 tagBonusSkillPoint={%+d0} 스킬 포인트
 tagBonusAttribPoint={%+d0} 능력치 포인트
+tagBonusManaPercentSlow={^E}일정 시간 동안 {^H}{%.0f0}% {^E}에너지 회복
+tagBonusManaAbsSlow={^E}일정 시간 동안 {^H}{%.0f0} {^E}에너지 회복
 
 
 #Devotion

@@ -1456,6 +1456,8 @@ tagGDX1EnchantB137Desc="Un dono conferito da Ravager ai suoi fedeli adoratori. I
 tagGDX1EnchantB138A=Respiro di Ravager Potente
 tagGDX1EnchantB138Desc="Un dono conferito da Ravager ai suoi fedeli adoratori. Il suo tocco infligge ferite dolorose e vesciche sulla carne."^w^n(Applicabile a tutte le armi a due mani)
 
+tagGDX1EnchantB139A=Polvere di Sanguemarcio
+tagGDX1EnchantB139Desc="Un'orrenda miscela estratta dai resti decomposti dei morti, autorizzata a Malmouth solo per le sue proprietà protettive."^w^n(Si applica ad anelli e amuleti)
 
 tagGDX1EnchantC101A=Polvere Difensiva della Congrega
 tagGDX1EnchantC101Desc="Polvere magica fabbricata dalla Congrega per proteggerli durante i rituali."^w^n(Applicabile a tutte le armature)

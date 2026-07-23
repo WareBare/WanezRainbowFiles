@@ -1456,6 +1456,9 @@ tagGDX1EnchantB137Desc="Un regalo otorgado por el Devastador a sus adoradores ma
 tagGDX1EnchantB138A=Aliento Potente del Devastador
 tagGDX1EnchantB138Desc="Un regalo otorgado por el Devastador a sus adoradores malditos. Su toque inflige heridas graves y ampollas en la carne.".^w^n(Se aplica a todas las armas a dos manos)
 
+tagGDX1EnchantB139A=Polvo de raíz de sangre
+tagGDX1EnchantB139Desc="Un brebaje repugnante extraído de los restos putrefactos de los muertos, permitido en Malmouth por sus propiedades protectoras".^w^n(Se aplica a anillos y amuletos).
+
 
 tagGDX1EnchantC101A=Polvo de Protección del Aquelarre
 tagGDX1EnchantC101Desc="Polvo mágico elaborado por el aquelarre para protegerlos durante los rituales.".^w^n(Se aplica a todas las armaduras)
@@ -1871,7 +1874,7 @@ tagGDX1CarraxusDoor=Guarida de Carraxus
 
 tagGDX1DoorOneWayAncientGrove=Escapa de la Arboleda
 tagGDX1EpicDoor_AncientGrove=Puerta de la Arboleda Antigua
-tagGDX1EpicDoor_AncientGroveLocked= {^R} ~ Sellada por Mogdrogen (Requiere una Llave Esqueleto)
+tagGDX1EpicDoor_AncientGroveLocked= {^R} ~ Sellada por Mogdrogen (Requiere una Llave Maestra)
 
 #Doors
 tagGDX1Door_Vine=Cepas

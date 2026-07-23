@@ -1028,6 +1028,10 @@ tagGDX2EnchantB229Desc="Jemný očarovaný prach namletý z popela pohřební hr
 tagGDX2EnchantB230A=Irrahova krev
 tagGDX2EnchantB230Desc="Jemný očarovaný prach namletý z popela pohřební hranice uvnitř Irrahova chrámu, said to be infused with celestial blood."^w^n(použitelné na prsten nebo amulet)
 
+tagGDX2EnchantB231A=Irrahova nadvláda
+tagGDX2EnchantB231Desc="Jemný očarovaný prach namletý z popela pohřební hranice uvnitř Irrahova chrámu, napuštěný různými sladce vonícími solemi, které zaplaví mysl vnitřními iluzemi."^w^n(použitelné na prsteny a amulety)
+
+
 tagGDX2EnchantC201A=Bysmielin stříbrný písek
 tagGDX2EnchantC201Desc="Dar čarodějné bohyně Bysmiel, neuvěřitelně jemný stříbrný prášek, který se často používá v iluzích, ale je vhodný i k ochranným účelům."^w^n(může vylepšit všechny druhy zbroje)
 

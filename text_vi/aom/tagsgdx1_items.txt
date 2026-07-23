@@ -1458,6 +1458,10 @@ tagGDX1EnchantB137Desc="Một lễ vật từ Ravager dùng để ban cho nhữn
 tagGDX1EnchantB138A=Hơi Thở Của Ravager - Cường Hoá
 tagGDX1EnchantB138Desc="Một lễ vật từ Ravager dùng để ban cho những kẻ sùng bái đáng nguyền rủa của ông ta, hơi thở này khi tiếp xúc với da thịt sẽ tạo nên những vết thương lở loét và mưng mủ."^w^n(Sử dụng cho tất cả các loại Vũ khí Hai Tay)
 
+tagGDX1EnchantB139A=Bột Thối Máu
+tagGDX1EnchantB139Desc="Một hỗn hợp khó coi được chiết xuất từ phần xác thối rữa của người chết, chỉ được cho phép sử dụng ở Malmouth vì đặc tính bảo hộ của nó."^w^n(Sử dụng cho Nhẫn và Dây Chuyền)
+
+
 
 tagGDX1EnchantC101A=Bột Trừ Tà Của Hội Phù Thuỷ
 tagGDX1EnchantC101Desc="Loại bột ma thuật được chế tạo bởi Hội Phù Thuỷ, dùng để bảo vệ họ trong suốt quá trình thực hiện các nghi lễ."^w^n(Sử dụng cho Tất Cả Các Bộ Phận của Giáp Phục)

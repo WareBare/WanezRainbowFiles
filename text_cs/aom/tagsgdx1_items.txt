@@ -1456,6 +1456,9 @@ tagGDX1EnchantB137Desc="Pustošitelem propůjčený dar svým prokletým uctíva
 tagGDX1EnchantB138A=Silný dech Pustošitele
 tagGDX1EnchantB138Desc="Pustošitelem propůjčený dar svým prokletým uctívačům. Pouhý dotyk způsobuje bolestivé rány a puchýře po celém těle."^w^n(použitelné na všechny obouruční zbraně)
 
+tagGDX1EnchantB139A=Prášek z krvavé hniloby
+tagGDX1EnchantB139Desc="Nepatřičná směs extrahovaná z hnijících pozůstatků mrtvých, v Malmouthu schváleno jen díky jejím ochranným vlastnostem."^w^n(použitelné na prsteny a amulety)
+
 
 tagGDX1EnchantC101A=Čarodějčin ochranný prach
 tagGDX1EnchantC101Desc="Kouzelnický prach byl vytvořený Lóží čarodějek, aby je chránil při rituálech."^w^n(použitelné na všechny druhy zbroje)

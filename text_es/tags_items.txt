@@ -1542,7 +1542,7 @@ tagFeetC007B=[fs]{^B}Marcha final
 tagFeetC007Desc="Cada paso lleva el peso de miles de soldados que perdieron su vida contra las Fuerzas Chthonianas".
 tagFeetC008=[fp]{^B}Botas de Piel de Sabueso Abisal
 tagFeetC008Desc="Bestias inútiles, pero al menos hacen buenas botas".
-tagFeetC009=[mp]{^B}Escarpines acorazados
+tagFeetC009=[mp]{^B}Escarpines siniestros
 tagFeetC010=[fp]{^B}Grebas de gamberro
 tagFeetC011=[fp]{^B}Vendas serpenteantes
 tagFeetC012=[mp]{^B}Borceguíes de Profanador
@@ -2171,7 +2171,7 @@ tagBlueprint_AccessoryD009=Diseño: Ciñecintura de rompechizos
 tagBlueprint_AccessoryD010=Diseño: Insignia de maestría
 tagBlueprint_AccessoryD011=Diseño: Marca de Divinidad
 
-tagBlueprint_MiscA01=Diseño: Llave Esqueleto
+tagBlueprint_MiscA01=Diseño: Llave Maestra
 tagBlueprint_MiscA01Desc=Una antigua técnica de elaboración conocida solo por unos pocos elegidos.
 
 tagBlueprint_MaterialA01=Diseño: Clúster de Éter
@@ -2322,7 +2322,7 @@ tagCraftMaterial_AncientHeart=Corazón Antiguo
 tagCraftMaterial_AncientHeart_Desc="Continúa latiendo en el interior de tu bolsa con un inquietante ritmo".
 tagCraftMaterial_Manticore=[ms]Ojo de mantícora
 tagCraftMaterial_Mancitore_Desc="El ojo afilado de un depredador sin igual".
-tagCraftMaterial_SkeletonKey=Llave Esqueleto
+tagCraftMaterial_SkeletonKey=Llave Maestra
 tagCraftMaterial_SkeletonKey_Desc="Si las historias son ciertas, esta llave abrirá casi cualquier puerta antigua".
 tagCraftMaterial_CultistSeal=Sello de Vinculación Chthónico
 tagCraftMaterial_CultistSeal_Desc="Sellos usados por el Culto a Ch'thon para vincular poderosas criaturas al reino físico".
@@ -3686,7 +3686,8 @@ tagBonusExperience={%+d0} de Experiencia
 tagBonusMoney={%+d0} de Hierro
 tagBonusSkillPoint={%+d0} de Puntos de Habilidad
 tagBonusAttribPoint={%+d0} de Puntos de Atributo
-
+tagBonusManaPercentSlow={^E}Restaura {^H}{%.0f0}% {^E}de energía con el tiempo
+tagBonusManaAbsSlow={^E}Restaura {^H}{%.0f0} {^E}de energía con el tiempo
 
 #Devotion
 tagDevotionReset={^E}Usado para reiniciar los puntos de devoción
@@ -4453,7 +4454,7 @@ tagMineDoor=Puerta de la Mina
 tagEpicDoor_StepsOfTorment=Puertas de la Angustia
 tagEpicDoor_BastionOfChais=Puertas del Bastión
 tagEpicDoor_PortValbury=Puertas de Puerto Valbury
-tagEpicDoor_StepsOfTormentLocked= {^R} ~ Sellada por un poder antiguo (Requiere una Llave Esqueleto)
+tagEpicDoor_StepsOfTormentLocked= {^R} ~ Sellada por un poder antiguo (Requiere una Llave Maestra)
 tagLocked= {^R} ~ Bloqueado
 tagBlocked= {^R} ~ el derrumbamiento bloquea el camino
 tagLocked_BlackLegion= {^R} ~ Sellado por la Legion Negra
